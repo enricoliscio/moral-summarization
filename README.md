@@ -1,6 +1,6 @@
 # Moral Summarization
 
-News summarization that preserves the moral framing of the original article.
+Code for the *News is More than a Collection of Facts: Moral Frame Preserving News Summarization* COLM2025 paper. Currently available as a [pre-print](https://arxiv.org/abs/2504.00657).
 
 ## Start-up
 
