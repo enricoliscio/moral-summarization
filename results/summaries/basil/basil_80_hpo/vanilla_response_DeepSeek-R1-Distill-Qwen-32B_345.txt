@@ -1,0 +1,11 @@
+<think>
+Alright, I need to help the user by summarizing this news article. They mentioned they're a news summarizer assistant, so I should make sure the summary is concise and captures the main points. The article is about Trump attacking the Justice Department and calling for jailing Huma Abedin. 
+
+First, I should identify the key elements: Trump's criticism of the Justice Department as the "deep state," his mention of Huma Abedin, the context of the emails from the FOIA request, and the implications for the Russia investigation. Also, Trump's ongoing conflict with the Justice Department and his claims about having control over it.
+
+I need to make sure the summary is under 200 words and flows well. I'll start by stating Trump's attack on the Justice Department, then mention Huma Abedin and the emails. Next, I'll connect it to the Russia probe and Comey. Finally, I'll include Trump's criticism of Sessions and his assertion of control over the Justice Department.
+
+I should keep each sentence clear and to the point, avoiding unnecessary details. Also, I need to ensure that the summary starts after "SUMMARY:" and ends with "END OF SUMMARY." without any markdown. Let me piece this together step by step to make sure everything is covered succinctly.
+</think>
+
+SUMMARY: President Donald Trump has criticized the Justice Department as part of the "deep state" and called for the jailing of Huma Abedin, a top aide to Hillary Clinton. Trump's tweet followed the release of Abedin's emails, which were obtained through a Freedom of Information Act request and revealed she forwarded State Department emails, including some with passwords, to a personal account. Trump also referenced former FBI Director James Comey, who led the investigation into potential collusion between Trump's campaign and Russia. Trump has repeatedly criticized the Justice Department and FBI, particularly Attorney General Jeff Sessions, for recusing himself from overseeing the Russia probe, and has claimed the right to direct government investigations. Trump's latest comments reflect his ongoing conflict with the Justice Department over the Russia investigation. END OF SUMMARY.

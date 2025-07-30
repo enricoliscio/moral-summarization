@@ -1,0 +1,36 @@
+Alright, let me try to figure out how to approach this query. The user wants me to act as a news summarizer and a moral expert. They provided a news article and specific instructions on how to process it. 
+
+First, I need to understand the structure of their request. They have two main steps: identifying morally framed words and then summarizing the article while preserving those moral terms. 
+
+For the first step, I should go through the article and pick out words that carry a moral connotation. Words like "resign," "false," "alarm," "lying," "leaking," "unlawfully," "unpatriotic," "corrupt," "collusion," "immoral," "unethical," "unlawful," "unconstitutional," "dishonest," "deceitful," and "fraudulent" all seem to fit. These words are used to convey judgment or moral evaluation in the context of the article.
+
+Next, the summarization. I need to condense the article into a concise summary, keeping the moral framing intact. I should focus on the key points: the Republicans' call for Schiff's resignation, their accusations, Schiff's defense, Trump's involvement, Mueller's report details, and the ongoing debate. I need to make sure to include the identified moral words where appropriate to maintain the original tone.
+
+I also need to ensure the summary is under 200 words and ends with the specified tokens. I'll structure it to first mention the Republicans' actions, then Schiff's response, followed by Trump's tweet, the Mueller report's implications, and the Democrats' stance. This way, the summary flows logically while preserving the moral elements from the original text.
+
+I should double-check that I'm not missing any crucial points from the article, like the specifics of the Mueller report and the ongoing calls for its release. Also, making sure that the moral terms are correctly integrated without altering their context.
+
+Overall, the key is to balance conciseness with completeness, ensuring that the moral framing is clear and preserved as per the user's instructions.
+</think>
+
+**STEP 1:**  
+* Resign  
+* False  
+* Alarm  
+* Lying  
+* Leaking  
+* Unlawfully  
+* Unpatriotic  
+* Corrupt  
+* Collusion  
+* Immoral  
+* Unethical  
+* Unlawful  
+* Unconstitutional  
+* Dishonest  
+* Deceitful  
+* Fraudulent  
+
+**SUMMARY:**  
+All nine Republican members of the House Intelligence Committee have called on Rep. Adam Schiff (D-Calif.) to resign as chairman, accusing him of promoting a "demonstrably false narrative" about the Russia investigation. Schiff has maintained that the Trump campaign colluded with Russia, despite the Mueller report not directly implicating President Trump. The GOP members claim Schiff is at the center of a media campaign and has promoted false claims, stating his actions are incompatible with his role as chairman. Trump also tweeted, accusing Schiff of "unlawfully lying and leaking" and demanding his resignation. Schiff defended his stance, calling the situation "immoral, unethical, and unpatriotic," and emphasizing the need to investigate potential collusion. The Mueller report neither exonerated Trump nor concluded he committed a crime, leaving questions unresolved. Democrats continue to call for the full report's release.  
+**END OF SUMMARY.**

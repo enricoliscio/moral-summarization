@@ -1,0 +1,18 @@
+Okay, so I need to summarize this news article about Michael Bloomberg's speech at the Democratic National Convention. The user wants the summary to preserve the moral framing that the author gave. Hmm, first, I should read through the article carefully to understand the main points and the tone.
+
+The article talks about Bloomberg endorsing Hillary Clinton and criticizing Donald Trump. He calls Trump a "dangerous demagogue" and a bad businessman. He lists Trump's failures, like bankruptcies and lawsuits. He also mocks Trump's claims about his wealth and business success, pointing out that Trump's father gave him a lot of money, which is a point of hypocrisy. Bloomberg contrasts this with his own success, starting from scratch without a large inheritance.
+
+I need to make sure the summary includes these key points: Bloomberg endorsing Clinton, criticizing Trump's business record, the hypocrisy angle with Trump's inheritance, and Bloomberg's own achievements. Also, the moral framing is about competence and honesty in leadership. So, the summary should highlight that Bloomberg is emphasizing Trump's lack of qualifications and honesty, while promoting Clinton as a better choice.
+
+I should keep it concise, under 200 words. Let me structure it: start with Bloomberg endorsing Clinton, then his criticism of Trump, including the bankruptcies, lawsuits, and hypocrisy. Then mention Bloomberg's own background and achievements to contrast with Trump. Finally, his dire warnings about Trump's presidency.
+
+Wait, the user also mentioned that the summary should end with "END OF SUMMARY." and start after "SUMMARY:". I need to make sure to include those tokens. Also, the summary should be in quotes as per the example given.
+
+Let me draft it:
+
+SUMMARY: Michael Bloomberg, the former New York mayor, endorsed Hillary Clinton at the Democratic National Convention, criticizing Donald Trump as a "dangerous demagogue" and a poor businessman. Bloomberg highlighted Trump's history of bankruptcies, lawsuits, and disappointed stakeholders, arguing that Trump's claims of success don't match reality. He mocked Trump's inheritance from his father and his refusal to disclose financial details, calling him hypocritical. Bloomberg contrasted his own business success, built without a large inheritance, with Trump's record. He warned that Trump's presidency would harm the economy, increase debt, and weaken national security, emphasizing the need for a competent leader like Clinton. END OF SUMMARY.
+
+That should cover all the key points and maintain the moral framing against Trump and in support of Clinton.
+</think>
+
+SUMMARY: Michael Bloomberg, the former New York mayor, endorsed Hillary Clinton at the Democratic National Convention, criticizing Donald Trump as a "dangerous demagogue" and a poor businessman. Bloomberg highlighted Trump's history of bankruptcies, lawsuits, and disappointed stakeholders, arguing that Trump's claims of success don't match reality. He mocked Trump's inheritance from his father and his refusal to disclose financial details, calling him hypocritical. Bloomberg contrasted his own business success, built without a large inheritance, with Trump's record. He warned that Trump's presidency would harm the economy, increase debt, and weaken national security, emphasizing the need for a competent leader like Clinton. END OF SUMMARY.

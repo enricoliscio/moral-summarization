@@ -1,0 +1,14 @@
+Okay, so the user has given me a query where they want me to summarize a news article while preserving the moral framing. The article is about Vicente Fox's criticism of Donald Trump's visit to Mexico. The user has specified that I should use as many of the morally charged words as possible, which are listed.
+
+First, I need to read the article carefully to understand the key points. Trump is visiting Mexico, but Fox is against it, calling it a mistake. Fox criticizes Trump for demonizing Mexicans, the wall plan, and changing his policies. He also labels Trump as a liar and someone who doesn't respect Mexico.
+
+Next, I need to identify the morally framed words the user wants preserved. These include invitation, mistake, demonized, undocumented, change, disregard, false, misleading, nation, lying, play.
+
+I should structure the summary to include these words naturally. Start with Trump's visit, Fox's criticism, the invitation as a mistake, demonizing, undocumented immigrants, changing plans, disregarding, false prophet, misleading, nation, lying, and playing with Mexico.
+
+I need to ensure the summary is concise, under 200 words, and captures the essence while using those terms. Also, the summary should end with the specified tokens.
+
+I'll draft the summary, making sure each point is covered and the moral terms are included without making it too wordy. Then, I'll check the word count and ensure all required elements are present.
+</think>
+
+SUMMARY: Donald Trump is set to meet Mexico's President Enrique Peña Nieto, but former Mexican President Vicente Fox has condemned the invitation, calling it a "mistake." Fox criticized Trump for demonizing Mexicans and his plan to build a border wall, urging Americans not to vote for him. He accused Trump of disregarding Mexicans and changing his policies cynically, labeling him a "false prophet" and a "liar." Fox also dismissed Trump's claims that Mexico would pay for the wall, vowing it would never happen. He questioned Trump's ability to lead a nation, calling him unqualified. Trump responded on Twitter, referencing Fox's past suggestion for him to visit Mexico, but Fox fired back, demanding respect and for Trump to apologize to Mexicans. The moral framing highlights Trump's untrustworthiness, manipulation, and disrespect toward Mexico. END OF SUMMARY.

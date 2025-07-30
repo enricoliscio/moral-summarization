@@ -1,0 +1,29 @@
+<think>
+Okay, so I need to help the user by summarizing this news article while preserving the moral framing. The user has given specific instructions, so I should follow them step by step.
+
+First, I have to identify all the single words that are morally framed in the article. That means looking for words that carry a moral connotation, either positive or negative. I'll go through the article and pick out those words. For example, "alarm" implies concern, "charming" is positive, "independence" is a virtue, "special" is positive, "damage" is negative, and so on. I'll list each of these words with an asterisk.
+
+Next, I need to write a summary of the article. The summary should be concise, no more than 200 words, and include as many of the morally framed words as possible. I'll start by outlining the main points: Trump is close to picking Lieberman, but his staff is concerned. Lieberman is a political figure without law enforcement experience. There are concerns about his age and potential conflicts of interest. Other candidates include McCabe and others, but Lieberman is the front-runner. The White House is divided, and there are political implications.
+
+I'll make sure to include words like "alarm," "charming," "independence," "special," "damage," "morale," "problematic," "conflict-of-interest," and "credibility." These words help convey the moral aspects of the situation, such as the concerns about Lieberman's suitability and the implications of the decision.
+
+I should structure the summary to flow logically, starting with Trump's decision, the staff's concerns, Lieberman's background, the potential issues, and the political dynamics involved. I'll keep each sentence concise and ensure the summary stays within the word limit.
+
+Finally, I'll make sure to format the response correctly, with the STEP 1 listing each moral word and the SUMMARY following the specified tokens. I'll double-check to ensure all instructions are followed and that the summary accurately reflects the article's content while preserving the moral framing.
+</think>
+
+### STEP 1:
+* Alarm  
+* Charming  
+* Independence  
+* Special  
+* Damage  
+* Morale  
+* Problematic  
+* Conflict-of-interest  
+* Credibility  
+
+---
+
+### SUMMARY:
+President Trump is nearing his deadline to appoint a new F.B.I. director, with Joseph I. Lieberman, a former Democratic senator, emerging as a top finalist. However, Trump’s staff has expressed alarm over Lieberman’s lack of law enforcement experience and concerns about his age and potential conflicts of interest. Lieberman, a charming political operator, would be an unconventional choice for the F.B.I., an institution known for its independence. Trump has emphasized the importance of a "great" director, highlighting the F.B.I.’s special reputation, which has been tarnished by recent events. While Lieberman is a front-runner, some aides and law enforcement officials advocate for hiring from within the agency to repair morale. Other candidates include Acting Director Andrew G. McCabe, Richard A. McFeely, and Adam S. Lee. The White House remains divided, with some officials questioning Lieberman’s suitability for a 10-year term. If chosen, Lieberman might serve a short term to bolster Trump’s credibility. The decision is fluid, with Trump potentially leaving for a foreign trip without making a choice. END OF SUMMARY.

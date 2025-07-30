@@ -1,0 +1,44 @@
+Alright, I need to tackle this query. The user has provided a detailed news article and specific instructions on how to summarize it. They want me to first identify all the morally framed single words and then write a concise summary preserving those moral framings. 
+
+First, I'll read through the article to understand the context. It's about China criticizing the US's military expansion and actions post-9/11. The article mentions US policies, human rights violations, and other countries' reactions. 
+
+For STEP 1, I need to extract single words that carry moral connotations. Words like "criticism," "oppression," "dictatorial," etc., stand out. I'll list each of these, ensuring they are single words and relevant to the moral framing.
+
+Next, the summary needs to be under 200 words, incorporating as many of these moral terms as possible. I'll structure it by highlighting China's criticism, the US's actions post-9/11, the impact on countries like Afghanistan, and the broader implications for international relations and human rights. I'll also include mentions of Noam Chomsky's analysis and the consequences for Pakistan.
+
+I need to ensure the summary flows logically, maintaining the moral perspective presented in the article. I'll avoid adding new information and stick strictly to the content provided. 
+
+Finally, I'll make sure to format the response correctly, separating the steps and the summary with the specified tokens. Keeping the language clear and concise is key to meeting the user's requirements.
+</think>
+
+**STEP 1:**  
+Here are the morally framed single words identified in the text:  
+* criticism  
+* domination  
+* terrorism  
+* oppression  
+* silence  
+* shameful  
+* loathsome  
+* horrifying  
+* artificial  
+* aggression  
+* terrorism  
+* interests  
+* moral  
+* supremacy  
+* inhuman  
+* double standards  
+* selfishness  
+* violence  
+* crime  
+* prejudice  
+* protection  
+* respect  
+* sanctity  
+
+---
+
+**SUMMARY:**  
+China has issued a strongly worded document criticizing the United States for its expanding military presence and dictatorial policies, particularly after the 9/11 attacks. The U.S. was accused of oppressing defenseless Muslims in Afghanistan and targeting countries like Iraq, Iran, and North Korea under the guise of combating terrorism. The document highlights the U.S.'s history of aggression, including its interference in foreign governments and its disregard for human rights. China condemns the U.S. for its inhuman treatment of prisoners in Guantanamo Bay and its double standards in promoting human rights while ignoring its own violations. The U.S.'s actions, including its nuclear threats and global military presence, are seen as a reflection of its selfishness and desire for supremacy. Pakistan is urged to rethink its blind support for the U.S., as it has only exacerbated its internal and external problems. The document serves as a call for the U.S. to stop its oppressive policies and respect international solidarity and human rights.  
+**END OF SUMMARY.**

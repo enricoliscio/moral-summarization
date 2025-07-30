@@ -1,0 +1,31 @@
+Okay, I need to help the user by summarizing the given news article while preserving the moral framing. First, I'll read through the article carefully to understand the main points and the moral implications presented.
+
+The article discusses the NRA's school safety report, which suggests arming teachers and loosening gun laws. The key moral aspects here are about safety, security, and the responsibility of schools and teachers. I notice words like "safety," "security," "protect," and "responsible" which carry moral weight.
+
+Next, I need to identify all the single words that are morally framed. These are words that convey values, judgments, or ethical considerations. I'll go through the article again, picking out each word that fits this criteria. For example, "safety," "security," "protect," "responsible," "oppose," "hoax," "fail," " flooded," "adequate," "inadequate," and "valuable."
+
+Now, I'll move on to writing the summary. I need to ensure that it's concise, under 200 words, and includes as many of the morally framed words as possible. The summary should highlight the main recommendations of the report, the opposition from the American Federation of Teachers, and the broader debate on gun control. I'll structure it to show both the NRA's stance and the criticism they received, maintaining the moral framing throughout.
+
+I also need to make sure the summary flows well and covers all critical points without getting bogged down in details. It's important to mention the report's recommendations, the cost of training, the opposition's viewpoint, and the context of the Sandy Hook shooting to provide background.
+
+Finally, I'll review the summary to ensure it meets the word limit and accurately reflects the moral framing from the original article. I'll check that all key points are included and that the language used maintains the ethical considerations presented in the news.
+</think>
+
+### STEP 1:
+* safety  
+* security  
+* protect  
+* responsible  
+* oppose  
+* hoax  
+* fail  
+* flooded  
+* adequate  
+* inadequate  
+* valuable  
+
+---
+
+### SUMMARY:
+The NRA-funded School Shield Program, led by former Rep. Asa Hutchinson, recommends arming teachers and loosening gun laws to enhance school safety. The report suggests training staff to carry firearms, with costs ranging from $800 to $1,000 per person, and emphasizes local control over school security measures. Critics, including the American Federation of Teachers, condemn the plan as a "cruel hoax" that prioritizes gun proliferation over student safety. The report also proposes eliminating gun-free zones and allowing non-law enforcement personnel to carry firearms in schools. Hutchinson criticized state-level gun control measures as "totally inadequate" and called for increased school security funding. The NRA defended the report as a step toward safer schools, while opponents argue it risks flooding schools with guns. The debate highlights conflicting values around security, responsibility, and the role of firearms in education.  
+END OF SUMMARY.

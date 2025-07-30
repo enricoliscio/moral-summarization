@@ -1,0 +1,12 @@
+Okay, so the user wants me to summarize a news article. The article is about North Carolina Rep. Bob Etheridge getting into a physical confrontation with a young man. The user provided the article and specified that the summary should be after "SUMMARY:" and end with "END OF SUMMARY." It should be no longer than 200 words.
+
+First, I need to read through the article to understand the key points. The main event is the video showing Etheridge grabbing a young man. The young man asked if Etheridge supported the "Obama agenda." Etheridge apologized, saying it was no excuse for his response. The video shows him trying to grab the phone and then the man's wrist and neck. He hasn't apologized to the young men because he doesn't know their identities. There's also political context, like his re-election campaign and his support for Obama's policies.
+
+I should make sure to include the apology, the circumstances of the incident, the political implications, and his upcoming election. I need to keep it concise, under 200 words, so I'll focus on the main facts without going into too much detail.
+
+Let me structure the summary: start with the event, mention the apology, describe the incident briefly, note that he hasn't apologized to the men, add some context about his political stance, and end with his re-election bid. Make sure it's clear and within the word limit.
+</think>
+
+SUMMARY:  
+North Carolina Rep. Bob Etheridge apologized for a physical confrontation with a young man in Washington, D.C., after a video showing the incident went viral. The video, posted on YouTube, depicts Etheridge grabbing the man's wrist and neck after the man asked if he supported the "Obama agenda." Etheridge admitted that his actions were unacceptable, though he claimed he didn't know the man's identity and hadn't apologized to him directly. The incident occurred after a "long day" and followed Etheridge being spat at, pushed, and threatened in the past. Conservative blogger Mike Flynn criticized Etheridge's conduct, calling it unbecoming for a congressman. Etheridge, who supports Obama's policies, is running for re-election against Republican Renee Ellmers. Political observers predict he will retain his seat.  
+END OF SUMMARY.

@@ -1,0 +1,43 @@
+<think>
+Okay, I need to help the user by summarizing a news article while preserving the moral framing. The user has specified two steps: first, identifying all single words that are morally framed, and second, writing a concise summary using those words.
+
+Looking at the article, the main points are Pakistan rejecting the US human rights report, calling it inaccurate and unwarranted. They list several initiatives they've taken to improve human rights, like laws for women, child labor, and reforms. The US report says Pakistan's record is poor, which Pakistan strongly disagrees with.
+
+For the first step, I should find words that carry moral connotations. Words like "rejected," "inaccurate," "unwarranted," "tendency," "judgment," "acknowledge," "promote," "protect," "initiatives," "ignore," "achieved," "reforms," "equality," "dignity," "cooperation," "understanding," "address," "problems," "better," "served." These words reflect the moral stance of both the US report and Pakistan's response.
+
+Now, for the summary, I need to include these words while keeping it under 200 words. I'll start by stating Pakistan's rejection of the report, then list their initiatives, and conclude with their call for cooperation. I'll make sure to use as many of the identified words as possible without making it sound forced.
+
+I should check that the summary flows well and accurately represents the article's content and the moral framing. Making sure each point is clear and concise will help keep it within the word limit. Also, ensuring that the key initiatives and the government's stance are highlighted properly.
+
+Finally, I'll structure the summary to first mention the rejection, then the initiatives, and end with the call for a cooperative approach to human rights. This should meet the user's requirements effectively.
+</think>
+
+**STEP 1:**
+
+* rejected  
+* inaccurate  
+* unwarranted  
+* tendency  
+* judgment  
+* acknowledge  
+* promote  
+* protect  
+* initiatives  
+* ignore  
+* achieved  
+* reforms  
+* equality  
+* dignity  
+* cooperation  
+* understanding  
+* address  
+* problems  
+* better  
+* served  
+
+---
+
+**SUMMARY:**  
+The government of Pakistan firmly rejected the US State Department's human rights report, labeling it "factually inaccurate and unwarranted." It criticized the report for failing to acknowledge Pakistan's efforts to promote and protect human rights, such as police reforms, child labor elimination, and women's rights initiatives. Pakistan emphasized its progress, including ratifying international conventions and introducing policies like the Juvenile Justice System Ordinance and amendments to the Citizenship Act. Despite these achievements, the report accused Pakistan of having a poor human rights record, which the government called a "gross misstatement." Pakistan urged a cooperative global approach to addressing human rights issues, rejecting external judgment.  
+
+**END OF SUMMARY.**

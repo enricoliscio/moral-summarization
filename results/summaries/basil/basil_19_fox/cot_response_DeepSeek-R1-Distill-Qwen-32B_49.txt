@@ -1,0 +1,30 @@
+Alright, let me try to figure out how to approach this query. The user wants me to act as a news summarizer and a moral expert. They provided a news article about Donald Trump stepping down as a debate moderator. My task is to first identify all the morally framed words and then write a summary preserving those moral framings.
+
+First, I need to understand what morally framed words are. These are words that carry a moral judgment, like "conflict of interest," "right," "wrong," "bad," "great," etc. They indicate approval or disapproval.
+
+Looking at the article, I'll go through each sentence and pick out these words. For example, "conflict of interest" is a clear moral term. "Wrong," "bad," "great," "courage," "conviction," "confidence" are others. I should list each on a new line with a *.
+
+Next, I need to summarize the article. I should keep it under 200 words, include the morally framed words, and maintain the original moral perspective. The summary should mention Trump stepping down, his reasons, the candidates' concerns, and his plans to endorse or run as an independent.
+
+I'll start by stating Trump's decision, then his reasoning about the conflict of interest. Mention that most candidates didn't attend, some were worried about his third-party intentions. Note his confidence in the debate's success and his support for Gingrich and Santorum. Conclude with his goal to make America great again.
+
+I should ensure the summary flows well and includes all key points without being too verbose. Also, make sure the morally framed words are preserved to reflect the original article's tone.
+
+Finally, I'll structure the response with STEP 1 listing the words and then the SUMMARY. I'll make sure to end with the specified tokens and keep the summary concise.
+</think>
+
+**STEP 1:**  
+* Conflict of interest  
+* Wrong  
+* Bad  
+* Right  
+* Courage  
+* Conviction  
+* Confidence  
+* Failed  
+* Destructive  
+* Great  
+
+**SUMMARY:**  
+Donald Trump announced he is stepping down as the moderator for a Republican presidential debate, citing a potential "conflict of interest" if he decides to run as a third-party candidate. He emphasized keeping his options open, especially if the Republicans choose the "wrong" candidate or the economy remains "bad." Trump expressed confidence in the debate's success but stated he would not give up his right to run independently if the Republican choice was not the "right" candidate. While some candidates, like Newt Gingrich and Rick Santorum, agreed to attend, others withdrew due to concerns about Trump's potential third-party bid. Trump praised Gingrich and Santorum for their "courage, conviction, and confidence" and reiterated his goal to "make America great again."  
+**END OF SUMMARY.**

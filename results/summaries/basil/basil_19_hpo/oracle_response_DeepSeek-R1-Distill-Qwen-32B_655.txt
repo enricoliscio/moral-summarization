@@ -1,0 +1,10 @@
+Alright, I need to help the user by summarizing the news article they provided. They mentioned that I should preserve the moral framing the author used, specifically the word "said." 
+
+First, I'll read through the article to understand the key points. It's about Donald Trump announcing he's pulling out of a debate he was supposed to moderate. He claims the Republican Party was asking him to give up his right to run as an independent, which is why he's canceling. The article also mentions that most candidates weren't attending, only Gingrich and Santorum were coming, and Trump faced public ridicule.
+
+I need to make sure I include the word "said" as it's a morally framed word. I'll structure the summary to highlight Trump's decision, his reasons, the initial partnership, the lack of candidates, and the public reaction. I should keep it concise, under 200 words, and end with the specified tokens.
+
+Let me draft the summary, ensuring it's clear and sticks to the main points while preserving the moral framing. I'll check the word count to make sure it's within the limit.
+</think>
+
+SUMMARY: Donald Trump has announced that he is withdrawing from moderating the Newsmax debate scheduled for December 27th. "I have decided not to be the moderator of the Newsmax debate," Trump said in a statement. He claimed that the Republican Party was pressuring him to放弃 his right to run as an independent candidate if he wanted to moderate the event. Trump initially partnered with Newsmax to host a forum with remaining Republican presidential candidates, but most candidates declined to attend, with only Newt Gingrich and Rick Santorum confirming their participation. Trump faced public ridicule for his decision to moderate and his plan to endorse a candidate during the debate. Despite earlier assurances that the forum would proceed, Trump hinted at canceling it, and ultimately decided to pull out. END OF SUMMARY.

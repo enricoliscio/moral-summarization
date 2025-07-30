@@ -1,0 +1,16 @@
+Alright, so the user has given me a query where they want me to act as a news summarizer and moral expert. They provided a news article about Cubans celebrating the return of Venezuelan President Hugo Chavez after a failed coup, comparing it to the Bay of Pigs invasion. The task is to summarize this article while preserving the moral framing used by the author.
+
+First, I need to understand what moral framing means here. It refers to the use of words that carry a positive or negative connotation, which the author used to convey a specific perspective. The user has listed several morally framed words from the article, like "coup," "disastrous," "overthrow," etc. My job is to include as many of these words as possible in the summary without altering their moral connotations.
+
+Next, I'll read through the article to grasp the main points. The key events are the celebration in Cuba after Chavez's reinstatement, the comparison to the Bay of Pigs, the failed coup attempt, and the U.S. involvement. The moral framing here seems to highlight the solidarity between Cuba and Venezuela against external interference, especially from the U.S.
+
+I need to condense this into a concise summary, around 200 words. I'll start by mentioning the celebration in Havana, the comparison to the Bay of Pigs, and the failed coup. I'll include the morally charged words to maintain the author's perspective. I should also note the Bush administration's denial of involvement and the historical context of the Bay of Pigs.
+
+I'll structure the summary to flow logically, starting with the event, then the comparison, the failed coup details, the U.S. denial, and the historical reference. This way, the moral framing is preserved, emphasizing the resistance against coups and external influence.
+
+I should ensure that the summary is clear and concise, hitting all the key points without unnecessary details. Also, I need to use the specified morally framed words to maintain the author's tone and message.
+
+Finally, I'll check the word count to make sure it's under 200 words and that all important elements are included. This should meet the user's requirements effectively.
+</think>
+
+SUMMARY: Thousands of Cubans celebrated Venezuelan President Hugo Chavez's return to power, drawing parallels between the failed coup against him and the disastrous U.S.-backed Bay of Pigs invasion of 1961. The rally, held at the site where Fidel Castro declared Cuba socialist, highlighted the "beautiful historic coincidence" of the celebration following Venezuelans' efforts to overthrow the coup attempt. Both Castro and Chavez are seen as revolutionary leaders, with Cuba denouncing the coup and supporting Chavez's reinstatement. The Bush administration denied encouraging the removal of Chavez, while the Bay of Pigs invasion, led by a CIA-trained force, remains a symbol of failed U.S. attempts to overthrow Castro's government. The event underscored the enduring ties between Cuba and Venezuela, emphasizing their resistance to external interference. END OF SUMMARY.

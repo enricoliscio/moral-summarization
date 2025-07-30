@@ -1,0 +1,13 @@
+<think>
+Alright, let me try to figure out how to approach this query. The user wants me to act as a news summarizer assistant and summarize a given article. They provided the article, so my first step is to read through it carefully to understand the main points.
+
+The article is about a protest in Kentucky where protestors hung an effigy of Governor Andy Beshear. They were part of "Take Back Kentucky" and were protesting against coronavirus shutdowns. The protest started with celebrating the Second Amendment but turned into anti-coronavirus restrictions. They also went to the governor's house and hung the effigy with a Latin phrase. The effigy was taken down quickly. There's a lot of backlash from both parties, with McConnell and others condemning the action.
+
+I need to summarize this in under 200 words, starting with "SUMMARY:" and ending with "END OF SUMMARY." I should include the key elements: who, what, when, where, why, and the consequences.
+
+I'll start by mentioning the protest, the group, the purpose, the number of people, the initial focus, the march to the governor's house, the effigy details, its removal, and the reactions from political figures. I should keep it concise and make sure all important points are covered without going into too much detail.
+
+I should also ensure that the summary flows well and is easy to understand. Maybe start with the protest, then the specifics, and end with the reactions. That should cover everything the user needs.
+</think>
+
+SUMMARY: Protestors in Kentucky, organized by "Take Back Kentucky," hung an effigy of Gov. Andy Beshear outside the state capitol during a demonstration against coronavirus restrictions. The protest, which began with celebrating the Second Amendment, turned into a rally against pandemic-related shutdowns. Protesters marched to Beshear's house, chanting "Come out Andy," before returning to the capitol to hang the effigy with the message "sic temper tyrannies" (Latin for "thus always to tyrants"). The effigy was removed shortly afterward. The action sparked widespread condemnation from both parties, including Senate Majority Leader Mitch McConnell, who criticized the move as unacceptable, though he supported the right to protest. Republican Secretary of State Michael G. Adams and Democratic Mayor Greg Fischer also condemned the act, calling it "disgusting" and "vile." Kentucky House Democrats issued a statement denouncing the protest as "beyond reprehensible." END OF SUMMARY.

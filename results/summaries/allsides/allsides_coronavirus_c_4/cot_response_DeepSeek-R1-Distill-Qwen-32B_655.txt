@@ -1,0 +1,39 @@
+Okay, so I need to help the user by summarizing a news article while preserving the moral framing. The user has given me specific instructions, so I should follow them step by step.
+
+First, I'll read through the news article to understand the content. It's about the rise in COVID-19 cases in the U.S., with a focus on states like California, Texas, and Arizona becoming new epicenters. Dr. Fauci is warning about the potential doubling of cases, and there's criticism of President Trump's handling of the pandemic. There's also mention of economic impacts and measures taken by other countries, like the EU excluding the U.S. from their safe list.
+
+Now, the user wants me to identify all the single words that are morally framed. I need to look for words that carry a positive or negative moral connotation. Words like "failed," "mismanagement," "scared," "crater," "dimmed," "failed us," "epicenters," "surge," "crisis," "tragedy," "horrific," "disaster," "catastrophe," "failure," "disgrace," "crisis," "tragedy," "horrific," "disaster," "catastrophe," "failure," "disgrace," "epicenters," "surge," "crisis," "tragedy," "horrific," "disaster," "catastrophe," "failure," "disgrace," "epicenters," "surge," "crisis," "tragedy," "horrific," "disaster," "catastrophe," "failure," "disgrace." Wait, I think I might have repeated some. Let me go through the article again.
+
+Looking at the article, I see words like "failed," "mismanagement," "scared," "crater," "dimmed," "failed us," "epicenters," "surge," "crisis," "tragedy," "horrific," "disaster," "catastrophe," "failure," "disgrace." I should list each of these as they appear.
+
+Next, I need to write a summary that includes as many of these morally framed words as possible. The summary should be concise, around 200 words, and include the key points: the rise in cases, states affected, Fauci's warning, criticism of Trump, economic impact, and measures taken.
+
+I should ensure that the summary flows naturally while incorporating the moral language. I'll start by mentioning the record spike, then the states, Fauci's concerns, the potential doubling of cases, the lack of control, the vaccine uncertainty, the economic contraction, the EU excluding the U.S., criticism of Trump, Biden's comments, and the impact on hospitals and the upcoming Independence Day concerns.
+
+I need to make sure each morally framed word is appropriately placed without forcing them. For example, using "failed" when talking about Trump's handling, "mismanagement" when referring to Biden's criticism, and words like "scared" when discussing Fauci's concerns.
+
+I should also keep the summary under 200 words, so I'll need to be concise but thorough. I'll structure it by starting with the current situation, then the experts' warnings, the economic impact, the political criticism, and the public health measures taken.
+
+After drafting the summary, I'll review it to ensure it captures the moral framing as intended and that it's within the word limit. I'll make sure each key point is covered and that the language reflects the original article's tone and moral implications.
+</think>
+
+**STEP 1:**  
+*Failed  
+Mismanagement  
+Scared  
+Crater  
+Dimmed  
+Failed us  
+Epicenters  
+Surge  
+Crisis  
+Tragedy  
+Horrific  
+Disaster  
+Catastrophe  
+Failure  
+Disgrace  
+
+**SUMMARY:**  
+The U.S. faced a record spike in COVID-19 cases, with over 47,000 new infections reported, marking the highest one-day increase since the pandemic began. States like California, Texas, and Arizona have become new epicenters, with hospital ICU beds in short supply. Dr. Anthony Fauci warned that cases could double unless nationwide measures were taken, expressing concern that the situation could worsen. He emphasized the risk to the entire country and noted the uncertainty of a vaccine, though hopeful for early 2021 availability. The pandemic has led to over 126,000 deaths and severe economic contraction. Criticism of President Trump’s handling of the crisis has intensified, with Joe Biden accusing him of historic mismanagement that cost lives and exacerbated economic damage. States like Texas and Florida have closed bars to curb the surge, while New York and others have imposed quarantines on travelers from high-risk areas. Fauci expressed fear over Independence Day gatherings, warning of potential disaster. The pandemic continues to unfold as a national crisis, with hospitals struggling to keep up and the future uncertain.  
+**END OF SUMMARY.**

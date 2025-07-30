@@ -1,0 +1,102 @@
+Okay, so the user has given me a query where they want me to act as a news summarizer and a moral expert. They provided a news article about Gov. Rick Perry's campaign ad, and they have specific instructions on how to process it.
+
+First, I need to understand the task. They want me to identify all the single words that are morally framed in the article. That means looking for words that carry a moral connotation, like 'war', 'rights', 'equality', etc. I should list each of these words, each on a new line, starting with an asterisk. 
+
+Then, I have to write a concise summary of the article, making sure to include as many of these morally framed words as possible. The summary needs to be under 200 words and should preserve the moral framing the author used. I also need to format the response with "STEP 1:" for the list and "SUMMARY:" followed by the summary, ending with "END OF SUMMARY."
+
+I should start by reading the article carefully to pick out the morally charged words. Words like 'appeal', 'hard-right', 'conservatives', 'Christianity', 'homosexuality', 'war','religion', 'end', 'criticism', 'overturning', 'don’t ask, don’t tell', 'gays', 'ashamed', 'Christian', 'pew', 'wrong', 'gays','serve', 'openly','military', 'kids', 'celebrate', 'Christmas', 'pray','school', 'focus','multimillion-dollar', 'television', 'budget', 'Iowa', 'Republican', 'caucusgoers', 'Christian', 'evangelicals', 'criticizing', 'Obama', 'administration', 'elements', 'diplomacy', 'foreign aid', 'gay rights', 'promote', 'criminalize', 'homosexual conduct', 'end', 'war on religion', 'fight', 'liberal attacks','religious heritage', 'Faith','strong', 'liberty','responsibility', 'open service', 'gay', 'lesbian','servicemembers', 'founding fathers', 'denounced', 'Log Cabin Republicans', 'gay men', 'lesbian', 'group', 'assume', 'faith','support', 'equality', 'wrong', 'commander-in-chief', 'theocrat-in-chief', 'nation', 'built', 'individual', 'liberty','responsibility', 'open service', 'gay', 'lesbian','servicemembers', 'vision', 'founding fathers.'
+
+Next, I need to craft a summary that includes these words while keeping it under 200 words. I should ensure that the moral framing is preserved, so the summary should reflect the tension between religious values and gay rights as presented in the article.
+
+I should structure the summary by mentioning Perry's ad targeting hard-right conservatives, his contrast between Christianity and homosexuality, his criticism of Obama's policies, and the backlash from Log Cabin Republicans. I need to include key points like the 'war on religion', overturning 'don’t ask, don’t tell', promoting gay rights, and the argument about individual liberty and responsibility.
+
+I also need to make sure that the summary flows well and includes the morally framed words without making it sound forced. It's important to highlight the opposing viewpoints: Perry's stance versus the group's criticism.
+
+I think I have all the elements. Now, I'll start by listing the morally framed words, then write the summary, ensuring it's concise and includes as many of those words as possible while preserving the original moral framing.
+</think>
+
+**STEP 1:**  
+* appeal  
+* hard-right  
+* conservatives  
+* Christianity  
+* homosexuality  
+* war  
+* religion  
+* end  
+* criticism  
+* overturning  
+* don’t ask, don’t tell  
+* gays  
+* ashamed  
+* Christian  
+* pew  
+* wrong  
+* gays  
+* serve  
+* openly  
+* military  
+* kids  
+* celebrate  
+* Christmas  
+* pray  
+* school  
+* focus  
+* multimillion-dollar  
+* television  
+* budget  
+* Iowa  
+* Republican  
+* caucusgoers  
+* Christian  
+* evangelicals  
+* criticizing  
+* Obama  
+* administration  
+* elements  
+* diplomacy  
+* foreign aid  
+* gay rights  
+* promote  
+* criminalize  
+* homosexual conduct  
+* end  
+* war on religion  
+* fight  
+* liberal attacks  
+* religious heritage  
+* Faith  
+* strong  
+* liberty  
+* responsibility  
+* open service  
+* gay  
+* lesbian  
+* servicemembers  
+* founding fathers  
+* denounced  
+* Log Cabin Republicans  
+* gay men  
+* lesbian  
+* group  
+* assume  
+* faith  
+* support  
+* equality  
+* wrong  
+* commander-in-chief  
+* theocrat-in-chief  
+* nation  
+* built  
+* individual  
+* liberty  
+* responsibility  
+* open service  
+* gay  
+* lesbian  
+* servicemembers  
+* vision  
+* founding fathers  
+
+**SUMMARY:**  
+Gov. Rick Perry of Texas released a campaign ad targeting hard-right conservatives, contrasting Christianity with homosexuality and vowing to end what he calls “Obama’s war on religion.” The ad criticizes overturning the “don’t ask, don’t tell” policy, allowing gays to serve openly in the military, while highlighting the importance of celebrating Christmas and prayer in schools. Perry emphasizes his Christian faith and argues that religious values are under attack. His ad focuses on Iowa, where many Republican caucusgoers identify as Christian evangelicals. Perry also criticized Obama’s promotion of gay rights through diplomacy and foreign aid, stating he would fight against liberal attacks on religious heritage. Log Cabin Republicans denounced the ad, arguing that faith should not exclude support for equality. They criticized Perry for prioritizing religious identity over individual liberty and responsibility, emphasizing that open service by gay and lesbian servicemembers aligns with the founding fathers’ vision. END OF SUMMARY.

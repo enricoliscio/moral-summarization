@@ -1,0 +1,25 @@
+Okay, I need to summarize the given news article while preserving the moral framing. First, I should identify the morally charged words as per the user's instructions. Let me read through the article again.
+
+The article talks about Rev. Raphael Warnock accusing Georgia's Secretary of State Brian Kemp of voter suppression. Words like "fraud," "suppression," "Ku Klux Klan," "felony," "witch hunt," "abuse of power," "smear campaign," "chilling effect," and "racist" stand out as morally framed terms. These words carry strong connotations and are used to highlight the ethical issues in the story.
+
+Next, I need to create a concise summary that includes these words. The summary should capture the conflict between Warnock and Kemp, the investigation into voter registration fraud, and the broader implications for the election. I must ensure that the moral framing is preserved, so I'll use the identified words where appropriate.
+
+I'll start by outlining the main points: Warnock's accusation, Kemp's investigation, the specific fraud cases, the political context, and the opposing viewpoints. I'll weave in the morally framed words to convey the tension and accusations accurately.
+
+I should keep the summary under 200 words, so I'll be concise but thorough. I'll make sure each paragraph flows logically, connecting the actions of both sides and the impact on the election. Finally, I'll end the summary with the required tokens to indicate its completion.
+</think>
+
+**STEP 1:**  
+* Fraud  
+* Suppression  
+* Ku Klux Klan  
+* Felony  
+* Witch hunt  
+* Abuse of power  
+* Smear campaign  
+* Chilling effect  
+* Racist  
+
+**SUMMARY:**  
+Rev. Raphael Warnock, pastor of Ebenezer Baptist Church, accused Georgia Secretary of State Brian Kemp of voter suppression, likening it to the tactics of the Ku Klux Klan. Kemp is investigating the New Georgia Project, a voter registration drive associated with Warnock, for alleged fraud. Kemp's office identified 28 cases of fraud, including forged signatures and false information, and has issued a subpoena for documents. Warnock and the project deny any wrongdoing, calling the investigation a "witch hunt" and "abuse of power." Kemp insists his duty is to prevent fraud, but critics argue it has a chilling effect on voter registration efforts. The political stakes are high, with the race for U.S. Senate in Georgia narrowing, and the project aims to register minority voters to boost Democratic chances. Kemp denies racism, but Warnock and others accuse him of intimidation and voter suppression. The dispute has become deeply politicized, with both sides accusing the other of overstepping.  
+**END OF SUMMARY.**

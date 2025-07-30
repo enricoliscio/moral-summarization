@@ -1,0 +1,49 @@
+<think>
+Okay, so I need to help the user by summarizing the given news article while preserving the moral framing. The user has provided a specific structure, so I should follow that closely. First, I need to identify all the single words that are morally framed in the article. I'll go through the text and pick out words that carry a moral connotation, like "swagger," "disgust," "candid," etc. I'll list each of these with a * and make sure they're each on a new line under STEP 1.
+
+Next, I have to write a concise summary of the article, making sure to include as many of these morally framed words as possible. The summary needs to be under 200 words and should capture the essence of Christie's candidacy, his strengths, weaknesses, and the challenges he faces. I'll structure the summary to highlight his personality, his criticism of others, and the doubts about his record, all while using the identified moral terms.
+
+I should also ensure that the summary flows well and accurately reflects the article's content without adding any personal opinions. I'll start by introducing Christie's announcement, then touch on his strengths and weaknesses, and conclude with his campaign strategy and the challenges he's facing. I'll make sure to include the key points about his personality, his criticism of Congress and other candidates, and the doubts about his governance record.
+
+Finally, I'll end the summary with the required tokens to indicate the end. I need to be careful with the word count, so I'll keep each sentence concise and focused on the main points. I'll review the summary to ensure it meets all the user's requirements and that the moral framing is preserved effectively.
+</think>
+
+**STEP 1:**  
+* Swagger  
+* Disgust  
+* Candor  
+* Strength  
+* Decision-making  
+* Authority  
+* Truth  
+* Cringe  
+* Prom king  
+* Popularity  
+* Surrogate  
+* Weak  
+* Feckless  
+* Dysfunction  
+* Gridlock  
+* Compromise  
+* Dirty word  
+* Antidote  
+* Scandal  
+* Vulnerability  
+* Empathy  
+* Effrontery  
+* Lying  
+* Stealing  
+* Horse  
+* Barn  
+* Force  
+* Centrist  
+* Northeast  
+* Conservative  
+* Vulnerabilities  
+* Freshness  
+* Faces  
+* Fighting chance  
+
+**SUMMARY:**  
+Gov. Chris Christie announced his uphill presidential candidacy with New Jersey-style swagger, criticizing Washington’s dysfunction and emphasizing his candor and strength. He positioned himself as the only Republican candidate with the authority to lead, contrasting himself with rivals like Marco Rubio and Ted Cruz, who lack gubernatorial experience. Christie mocked Hillary Clinton’s foreign policy record and criticized Congress for gridlock, while also blaming both parties for Washington’s dysfunction. However, his campaign faces significant challenges, as his record of economic recovery, pension reform, and ethics have faltered, leading 55% of Republican voters to doubt him. Christie is banking on his personality—a mix of charm, vulnerability, and effrontery—to appeal to voters, particularly in New Hampshire. His campaign strategy focuses on town hall meetings, but his centrist background and the crowded field of better-funded and more popular rivals make his path to the nomination difficult. Christie’s emotional storytelling and moral framing aim to revive his political fortunes, but his vulnerabilities and the skepticism surrounding his record leave his chances uncertain.  
+**END OF SUMMARY.**

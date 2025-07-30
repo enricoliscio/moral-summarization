@@ -1,0 +1,12 @@
+Okay, I need to help the user by summarizing the provided news article while preserving the moral framing. The user has specified that I should use as many of the morally framed words as possible from the list they provided. 
+
+First, I'll read through the article to understand the main points. It's about the impact of leaks on the Trump administration, comparing it to the Nixon administration during Watergate. The key moral words include "caught," "abandonment," "breakin," etc.
+
+I need to make sure the summary is concise, around 200 words. I'll focus on the main events: Flynn's resignation, Trump's response, the comparison to Nixon, the creation of the "New Plumbers," the failure of past efforts to stop leaks, and the ongoing issue with Tillerson's memo.
+
+I'll structure the summary to highlight the moral implications, using words like "caught," "follow," "leaks," "abandonment," and "permeated." I'll ensure each sentence reflects the moral framing without losing the essence of the article.
+
+Finally, I'll check the word count to make sure it's under 200 and that all key points are covered. I'll end with the required tokens to indicate the summary's start and end.
+</think>
+
+SUMMARY: Leaks about Michael Flynn's interactions with Russian Ambassador Sergei Kislyak led to his resignation and highlighted the enduring issue of leaks in Washington. President Trump vowed to "catch" the leakers, but history shows they rarely are. The White House, under Chief of Staff Reince Priebus, risks following Nixon's flawed approach, where attempts to stop leaks led to blame-shifting, low morale, and political "abandonment." Trump's focus on "criminal" leaks and his call to "find" them suggests the creation of "New Plumbers," echoing Nixon's failed efforts. Leaks, however, are not easily "stopped," as shown by the Obama Administration's record of investigations, which failed to curb leaking. Tillerson's leaked memo warning against leaks further underscores the futility of the Trump Administration's "quest" to control them. The White House's "misapprehension" of the leak crisis, coupled with Trump's criticism of the FBI's inability to "stop" leaks, signals a potential "apocalypse" of leaks, with no end in sight. END OF SUMMARY.

@@ -1,0 +1,20 @@
+Alright, so the user wants me to summarize a news article. The article is about the regret some Senate Democrats are feeling after eliminating the filibuster, especially now that Trump is using the same process for his nominees. The user provided the article and specified that the summary should be after a "SUMMARY:" token and end with "END OF SUMMARY." It should be no longer than 200 words.
+
+First, I need to read the article carefully. It starts with the author expressing schadenfreude over the Democrats' regret. The article mentions that Democrats like Chris Coons regret getting rid of the filibuster because now Trump can easily appoint his nominees. The author points out that Democrats didn't destroy the filibuster for a grand ideological reason but for short-term gains, like appointing certain officials during Obama's time.
+
+There's also a mention of how the filibuster was previously used by Democrats to block some of Obama's nominees, and now they're feeling the consequences. The author criticizes the Democrats for being hypocritical, as they once opposed the nuclear option when in the minority but then used it when they had the majority.
+
+The article also touches on how the changes to the filibuster are unlikely to be reversed and how this sets a dangerous precedent. The author seems to argue that both parties are to blame, but progressives in particular have a contempt for federalism and checks and balances.
+
+So, the key points to include in the summary are:
+- Senate Democrats regret eliminating the filibuster.
+- This change allows Trump to appoint his nominees more easily.
+- The decision was made for short-term political gains, not for a grand ideological purpose.
+- The author criticizes the hypocrisy of Democrats who once opposed the nuclear option but later used it.
+- The changes are unlikely to be reversed, setting a dangerous precedent.
+- The article suggests both parties are at fault, but progressives especially dislike checks and balances.
+
+I need to condense these points into a concise summary under 200 words. I'll make sure to mention the regret, the consequences, the short-term gains, the hypocrisy, the irreversibility, and the broader implications.
+</think>
+
+SUMMARY: The article discusses the regret expressed by Senate Democrats, including Sen. Chris Coons, over their decision to eliminate the filibuster, which now allows President Trump to easily confirm his nominees. The author highlights that Democrats destroyed the filibuster not for ideological reasons but for short-term political gains, such as appointing left-wing officials during Obama's presidency. The article criticizes the hypocrisy of Democrats, who once opposed the "nuclear option" when in the minority but later embraced it when in power. The changes to the filibuster are unlikely to be reversed, as no party would restore a tool used against them. The author warns that this arms race sets dangerous precedents, with both parties exploiting Senate rules for their advantage, eroding checks and balances. END OF SUMMARY.

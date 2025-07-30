@@ -1,0 +1,42 @@
+Alright, let me try to figure out how to approach this query. The user has provided a news article about John Lewis and wants me to summarize it while preserving the moral framing. They also want me to first identify the morally framed words.
+
+Hmm, so first, I need to understand what "morally framed words" are. These are words that carry a strong moral connotation, like 'discrimination,' 'freedom,' 'hero,' 'bravery,' etc. They're words that evoke a sense of right and wrong, justice, or moral values.
+
+Looking at the article, I should go through each sentence and pick out words that fit this category. For example, 'discrimination,' 'freedom,' 'hero,' 'bravery,' 'violence,' 'injustice,' 'equality,' 'courage,' 'nonviolent,' 'activist,' 'rights,' 'peaceful,' 'dignity,' 'independence,' 'oppression,' 'freedom,' 'equality,''respect,' 'good trouble,' 'necessary trouble,''redeem,''soul,' 'America.'
+
+Once I have all these words, I need to make sure they're included in the summary. The summary should be concise, no more than 200 words, and capture the essence of the article while highlighting the moral aspects.
+
+I should structure the summary to mention John Lewis's role in the civil rights movement, the event at Selma, the violence faced, the impact on the Voting Rights Act, and his legacy. I'll make sure to use the morally framed words to convey the significance of his actions and the broader moral implications.
+
+I need to be careful not to just list events but to weave in the moral elements, showing how his actions were driven by a commitment to justice and equality. Also, mentioning his later life and the commemoration adds to the moral framing by showing the lasting impact of his work.
+
+Alright, I think I have a good plan. Identify the words first, then craft a summary that weaves them in naturally to preserve the moral framing.
+</think>
+
+**STEP 1:**  
+* Discrimination  
+* Freedom  
+* Hero  
+* Bravery  
+* Violence  
+* Injustice  
+* Equality  
+* Courage  
+* Nonviolent  
+* Activist  
+* Rights  
+* Peaceful  
+* Dignity  
+* Independence  
+* Oppression  
+* Freedom  
+* Equality  
+* Respect  
+* Good trouble  
+* Necessary trouble  
+* Redeem  
+* Soul  
+* America  
+
+**SUMMARY:**  
+John Lewis, a civil rights hero, faced state-sanctioned violence during the 1965 Selma march, where troopers attacked peaceful demonstrators advocating for voting rights. Lewis, 25 at the time, stood firm despite brutal beatings, embodying courage and nonviolent resistance. His actions, alongside Hosea Williams, helped galvanize support for the Voting Rights Act. Lewis's legacy, marked by his commitment to justice and equality, inspired generations. He later addressed the nation, urging people to "get in good trouble" to redeem America's soul. His bravery and moral resolve remain a testament to the fight against racial discrimination and oppression. END OF SUMMARY.

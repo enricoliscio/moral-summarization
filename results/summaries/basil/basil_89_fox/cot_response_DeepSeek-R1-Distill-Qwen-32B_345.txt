@@ -1,0 +1,31 @@
+Alright, let me try to figure out how to approach this user's query. They want me to act as a news summarizer assistant and a moral expert. The task is to summarize a given news article while preserving the moral framing that the author provided. 
+
+First, the user has outlined two main steps. The first step is to identify all the single words that are morally framed in the article. They want this step labeled as "STEP 1:" and each word listed on a new line starting with a *. The second step is to write a summary of the article, making sure to include as many of these morally framed words as possible. The summary should be concise, no longer than 200 words, and properly formatted with "SUMMARY:" at the start and "END OF SUMMARY." at the end.
+
+I need to start by understanding what morally framed words are. These are words that carry a moral or ethical connotation, such as "protest," "sacrifice," "betrayal," etc. They often indicate approval or disapproval, so I should look for words that express judgment or evaluation.
+
+Looking at the provided news article, I'll go through each paragraph and pick out words that have a moral tone. For example, "protest" is used when talking about Mattis resigning, which clearly has a moral implication. Similarly, words like "sacrifice," "betrayal," "failure," "deceit," "dishonesty," "disgrace," "hypocrisy," and "dishonor" are all morally charged.
+
+Once I've identified these words, I'll list them under STEP 1. Then, for the summary, I need to condense the article, ensuring that the key points are covered while incorporating the morally framed words. The summary should reflect the original article's moral perspective, highlighting the disagreements, the impact of the decisions, and the reactions from different parties.
+
+I also need to make sure the summary is concise and within the word limit. I'll focus on the main events: Mattis's early departure, the reasons behind it, the implications of the troop withdrawals, and the reactions from both Trump and other officials. Including the morally framed words will help maintain the article's original tone.
+
+I should also check that the summary flows logically, connecting the events and the moral implications without adding any personal opinions. It's important to stick to the facts while preserving the ethical evaluations present in the original text.
+
+Finally, I'll review the summary to ensure it meets all the user's requirements: correct formatting, inclusion of the morally framed words, and adherence to the word limit. This way, the user gets a concise, ethically framed summary that accurately reflects the original article.
+</think>
+
+**STEP 1:**  
+* Protest  
+* Sacrifice  
+* Betrayal  
+* Failure  
+* Deceit  
+* Dishonesty  
+* Disgrace  
+* Hypocrisy  
+* Dishonor  
+
+**SUMMARY:**  
+President Trump announced that Defense Secretary James Mattis will leave his position on January 1, weeks earlier than the previously stated February 28 date. Mattis had resigned "in protest" over Trump's national security policies, including plans to withdraw troops from Syria and Afghanistan. Trump defended these decisions, arguing that the U.S. role as "Policeman of the Middle East" is not worth the sacrifice. Mattis' early departure follows the resignation of Brett McGurk, the U.S. envoy for the coalition against ISIS, who criticized the incomplete mission in Syria. Trump dismissed McGurk's resignation as a "nothing event," downplaying the significance of the departures. The administration's decisions have sparked criticism, with concerns about ISIS resurgence and abandoning Kurdish allies. The summary highlights the moral framing of sacrifice, protest, and betrayal in the context of national security decisions.  
+**END OF SUMMARY.**

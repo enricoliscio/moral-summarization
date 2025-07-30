@@ -1,0 +1,13 @@
+Alright, so the user wants me to summarize a news article, but they also mentioned I'm a moral expert. Hmm, okay, so I need to make sure the summary preserves the moral framing the author used. The article is about the Cheney sisters and their differing views on same-sex marriage. Mary is gay and supports it, while Liz, her sister and a Senate candidate, is more cautious, deferring to state decisions. 
+
+I should start by identifying the key points: Mary's criticism, their father's support, Liz's stance, the broader Republican divide, and the political implications. The moral framing here is about freedom and equality versus traditional values and political risk. I need to highlight that Mary emphasizes freedom for all, while Liz's position is seen as a compromise but still not enough for her sister. 
+
+Also, the article mentions the shift in public opinion and the Republican Party's internal conflict. I should include that to show the broader context. The summary needs to be concise, under 200 words, so I'll have to be clear and direct, making sure to capture the moral aspects without getting too detailed. 
+
+Let me structure it: start with Mary's criticism, mention their father's stance, then Liz's position, the broader Republican disagreement, and end with the political risk in Wyoming. Make sure to include the moral arguments each side presents. 
+
+I should avoid any markdown and keep the language natural. Also, the summary should start after "SUMMARY:" and end with "END OF SUMMARY." token. Okay, I think I have a good outline. Time to put it all together concisely.
+</think>
+
+SUMMARY:  
+Mary Cheney, the younger sister of Wyoming Senate candidate Liz Cheney, publicly criticized her sister's stance on same-sex marriage, calling it "dead wrong." Mary, who is gay and married, emphasized that freedom means equal rights for all families, regardless of their composition. Liz, however, stated she is not "pro-gay marriage" and believes the issue should be decided by voters at the state level. Mary rejected this approach, arguing it should not be a matter of popular vote. The sisters' disagreement reflects a broader divide within the Republican Party over same-sex marriage, with some embracing changing public opinion while others cling to traditional values. Liz's cautious stance highlights the political risks of supporting same-sex marriage, even in a libertarian-leaning state like Wyoming, where incumbent Senator Mike Enzi opposes it. END OF SUMMARY.

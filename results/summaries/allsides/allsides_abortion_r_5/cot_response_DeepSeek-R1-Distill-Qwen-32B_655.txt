@@ -1,0 +1,52 @@
+Alright, I'm looking at this query where the user wants me to act as a news summarizer and a moral expert. They provided a news article and specific instructions. First, I need to identify all the morally framed words in the article. That means I have to go through the text and pick out words that carry a strong moral connotation, like "explicit support," "radical," or "injustices." I'll list each of these words with an asterisk.
+
+Next, I have to summarize the article, making sure to include as many of those morally charged words as possible. The summary needs to be concise, under 200 words, and should reflect the author's moral stance. I'll start by outlining the main points: the support for late-term abortion among some Democrats, the laws passed, and the moral arguments against it. I'll ensure that the summary captures the outrage and the call for reconsideration, using words like "unjust" and "radical."
+
+I also need to structure the response clearly, separating the step where I list the moral words and then the summary. I'll make sure to follow the user's instructions precisely, using the specified tokens like "STEP 1:" and "SUMMARY:" and ending with "END OF SUMMARY." It's important to maintain the original moral framing to accurately represent the article's perspective.
+
+I should also consider the user's deeper needs. They likely want a clear, morally charged summary that highlights the ethical issues discussed. They might be looking to understand the article's stance without reading the full text, so the summary should be informative and retain the moral intensity.
+
+Finally, I'll review the response to ensure it meets all the criteria: correct identification of moral words, a concise summary, and adherence to the word limit. I'll make sure the language remains formal and the moral framing is preserved throughout.
+</think>
+
+**STEP 1:**  
+* Explicit  
+* mainstream  
+* support  
+* radical  
+* extreme  
+* defend  
+* kill  
+* die  
+* deceive  
+* deceptive  
+* restrict  
+* unenforceable  
+* necessary  
+* health  
+* protect  
+* viable  
+* abnormality  
+* unviability  
+* prohibit  
+* punished  
+* prohibited  
+* non-persons  
+* unjust  
+* obligations  
+* reconsider  
+* repudiate  
+* indefensible  
+* expose  
+* light  
+* spin  
+* stir  
+* pastoral  
+* communion  
+* Church  
+* reverse  
+* mistake  
+
+**SUMMARY:**  
+The article discusses the growing support among Democrats for abortion "all the way up to 40 weeks," highlighted by Virginia legislator Kathy Tran and Governor Ralph Northam. Tran's bill, supported by Northam, suggests that in some cases, a full-term child could be delivered and allowed to die. New York's law legalizes abortion at any stage if deemed necessary for a woman's health, without requiring the pregnancy itself to threaten her health. Leading Democratic presidential candidates endorse similar federal legislation, effectively wiping away state protections for unborn children. The article criticizes this stance as unjust, arguing that unborn children late in pregnancy should not be treated as non-persons. It calls for Democrats to reconsider, Republicans to expose the issue, journalists to report truthfully, and the Catholic Church to address the moral error of politicians supporting this policy. The Supreme Court is also urged to reverse its stance on abortion-on-demand. The article frames the issue as a radical and indefensible position, emphasizing the moral obligations to protect unborn children.  
+**END OF SUMMARY.**

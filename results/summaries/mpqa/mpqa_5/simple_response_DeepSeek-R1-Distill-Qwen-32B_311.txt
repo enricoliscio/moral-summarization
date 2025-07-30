@@ -1,0 +1,12 @@
+Alright, I need to help the user by summarizing the given news article while preserving the moral framing. Let me read through the article carefully.
+
+The article is about Taro Kono, a Japanese politician, who criticized President Bush's speech. He mentions specific issues like the Kyoto Protocol, CTBT, and others. Kono believes in value sharing over burden or power sharing. He's critical of the US stance on these treaties and even Middle Eastern ambassadors reached out to him.
+
+I should focus on the key points: Kono's criticism, the specific treaties mentioned, his stance on value sharing, and the reaction from Middle Eastern ambassadors. I need to keep it concise, under 200 words, and ensure the moral perspective is clear. The summary should highlight Kono's disapproval and the implications for US-Japan relations.
+
+Let me structure the summary to include his criticism, the issues he raised, his proposed approach, and the diplomatic response. I'll make sure to use the "SUMMARY:" and "END OF SUMMARY." tokens as instructed. Also, I need to avoid any markdown and keep the language clear and straightforward.
+
+I think that's all. Time to put it together.
+</think>
+
+SUMMARY: Taro Kono, a Japanese politician and son of former Foreign Minister Yohei Kono, criticized U.S. President George W. Bush's speech before the Japanese Diet in a critical commentary published in his email magazine. Kono questioned the Bush administration's stance on several key issues, including the Kyoto Protocol, the Comprehensive Test Ban Treaty (CTBT), and the need for "value sharing" in the U.S.-Japan relationship rather than merely sharing burdens or power. He highlighted the U.S. government's opposition to these treaties and its emphasis on unilateral actions, such as maintaining the right to own handguns, using land mines, and not revising the Status of Forces Agreement (SOFA). Kono's critique sparked interest from Middle Eastern ambassadors, who sought his opinion on the President's speech. His commentary reflects a moral and diplomatic concern over the alignment of U.S. policies with global norms and the future of U.S.-Japan relations. END OF SUMMARY.

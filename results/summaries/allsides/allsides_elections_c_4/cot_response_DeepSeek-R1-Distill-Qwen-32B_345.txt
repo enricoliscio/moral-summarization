@@ -1,0 +1,40 @@
+Okay, so I need to help the user by summarizing a news article while preserving the moral framing. The user has given specific instructions, so I should make sure I follow them closely. 
+
+First, the user wants me to identify all the single words that are morally framed. I'll go through the article and pick out words that carry a moral connotation. Words like "sue," "accused," "unwanted sexual advances," "governing," "avenging," "grievances," "extraordinary," "charges," "behavior," "honor," "serve," "leadership," "dictatorship," "disregard," "constitutional freedoms," "protection," "danger," "independence," "gridlock," "difference," "lives." These words seem to carry moral weight in the context of the article.
+
+Next, I need to write a summary that includes as many of these moral words as possible. The summary should be concise, under 200 words. I'll focus on the main points: Clinton contrasting her approach with Trump's, the legal threats, the emphasis on governance versus personal vendettas, the democratic traditions, and the importance of the Senate race. I'll make sure to include the key moral terms to maintain the author's framing.
+
+I should also structure the summary clearly, starting with the contrast between Clinton and Trump, then moving to their respective focuses, the implications for democracy, and the broader campaign strategies. Keeping it within the word limit is important, so I'll be concise but thorough.
+
+Finally, I'll ensure that the summary flows well and accurately reflects the moral aspects highlighted in the original article. This way, the user gets a clear, morally framed summary that meets their requirements.
+</think>
+
+**STEP 1:**
+
+* Sue  
+* Accused  
+* Unwanted sexual advances  
+* Governing  
+* Avenging  
+* Grievances  
+* Extraordinary  
+* Charges  
+* Behavior  
+* Honor  
+* Serve  
+* Leadership  
+* Dictatorship  
+* Disregard  
+* Constitutional freedoms  
+* Protection  
+* Danger  
+* Independence  
+* Gridlock  
+* Difference  
+* Lives  
+
+---
+
+**SUMMARY:**  
+Hillary Clinton and Tim Kaine contrasted their approach to governance with Donald Trump's focus on personal vendettas, emphasizing their commitment to serving the American people. Clinton criticized Trump for threatening to sue women who accused him of unwanted sexual advances, arguing that his actions reflect a disregard for democratic traditions and constitutional freedoms. She highlighted the importance of leadership and the rule of law, contrasting Trump's potential refusal to concede the election with her commitment to working for the public good. Clinton also addressed the Senate race, advocating for Democratic candidate Katie McGinty to help break political gridlock. The article underscores the moral stakes of the election, focusing on the candidates' visions for governance, respect for democratic norms, and the impact on everyday lives.  
+**END OF SUMMARY.**

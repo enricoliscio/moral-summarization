@@ -1,0 +1,35 @@
+Alright, I need to tackle this user query. They want me to act as a news summarizer assistant and a moral expert. The task is to summarize a given news article while preserving the moral framing. 
+
+First, I should understand what's being asked. The user has provided a news article about the launch of the space shuttle Atlantis. They want me to perform two steps: 
+
+1. Identify all single words that are morally framed. They call this STEP 1 and want each word listed with a *.
+2. Write a summary of the article, preserving as many morally framed words as possible. The summary needs to be concise, no longer than 200 words, and follow specific formatting instructions.
+
+I need to start by reading the article carefully to spot any morally charged words. These are words that carry a positive or negative connotation related to values, ethics, or judgments. 
+
+Looking through the article, I see words like "successful," "flurry of activity," "closer to completion," "milestone," "extraordinary achievement," "first astronaut," "keystone," "extraordinary," and "milestone." These words seem to carry a positive moral tone, emphasizing success, progress, and significance.
+
+Next, I need to summarize the article. The summary should include the key points: the shuttle's launch, the purpose of the mission, any delays, and the significance of the mission. I should incorporate the morally framed words identified earlier to maintain the author's tone.
+
+I should structure the summary to include the successful launch, the milestone, the mission's goals, the delays, and the astronauts' achievements. I'll make sure to keep it under 200 words and use the specified formatting with "SUMMARY:" and "END OF SUMMARY."
+
+I also need to ensure that the summary flows naturally and accurately reflects the article's content while emphasizing the positive aspects highlighted by the morally framed words. 
+
+Let me draft the summary, making sure to include all the key points and the identified words. I'll check the word count to ensure it's within the limit and adjust if necessary.
+
+Finally, I'll review everything to make sure I've followed all the instructions correctly and that the summary meets the user's requirements.
+</think>
+
+**STEP 1:**  
+* successful  
+* closer  
+* milestone  
+* milestone  
+* extraordinary  
+* first  
+* keystone  
+* extraordinary  
+
+**SUMMARY:**  
+The space shuttle Atlantis successfully launched from Cape Canaveral, carrying seven astronauts and hardware to the International Space Station. This was the first of six missions over seven months, aimed at bringing the station closer to completion. The launch, delayed by a liquid hydrogen leak and a computer glitch, was a milestone in U.S. space flight. Astronaut Jerry L. Ross made history as the first to achieve seven space flights. The mission includes installing a critical "keystone" support structure for the station, which will help deploy a large solar array. Atlantis' successful journey underscores the extraordinary progress in space exploration.  
+**END OF SUMMARY.**

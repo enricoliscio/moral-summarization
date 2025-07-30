@@ -1,0 +1,16 @@
+Alright, so the user has given me a task to summarize a news article. Let me first read through the query to understand exactly what's needed. They want a news summarizer assistant, so the main goal is to condense the provided article into a concise summary. 
+
+Looking at the article, it's about NGOs suspending their engagements with the Malaysian Human Rights Commission, Suhakam, for 100 days. The NGOs are protesting the government's lack of response to Suhakam's recommendations. There are several points here: the suspension, the reasons behind it, concerns about Suhakam's independence, specific commissioners appointed, and the NGOs' stance.
+
+I need to make sure the summary captures all these elements without going into too much detail. The user specified that the summary should be no longer than 200 words and should start with "SUMMARY:" and end with "END OF SUMMARY." So, I'll structure it to include the main points concisely.
+
+First, mention the NGOs' action: suspending engagements for 100 days. Then, the reasons—government ignoring Suhakam's reports, decline in human rights, controversial appointments. Highlight the concerns about the new chairperson and the retired civil servants on the commission. Also, note the NGOs' monitoring of Suhakam's performance and the opposing views from Suhakam's commissioner.
+
+I need to keep it clear and straightforward, avoiding any jargon. Make sure each sentence adds value and doesn't exceed the word limit. Let me draft a few sentences, check the word count, and adjust as necessary to stay within 200 words. 
+
+Wait, the user also provided an example response. I should review that to ensure my summary aligns with the expected format and content. The example includes the key points, so I'll follow that structure but make sure it's my own wording. 
+
+I think I've covered all the essential parts. Now, let me put it all together in a coherent manner, ensuring it's under 200 words and formatted correctly.
+</think>
+
+SUMMARY: Thirty-two NGOs have suspended all engagements with the Malaysian Human Rights Commission (Suhakam) for 100 days, protesting the government's disregard for Suhakam's recommendations and the decline of human rights in Malaysia. They criticized the government for ignoring Suhakam's reports, including the controversial Kesas report, which found police excessive force during a 2000 anti-government rally. NGOs also expressed concern over Suhakam's independence following the appointment of former attorney-general Abu Talib Othman as chairperson and the removal of three commissioners linked to the Kesas report. They questioned Abu Talib's commitment to human rights, citing his role in past controversial cases. The NGOs will not engage with Suhakam during the boycott but will monitor its performance. Suhakam Commissioner Prof Hamdan Adnan criticized the boycott, calling it "unfair" and urging NGOs to collaborate instead. The NGOs aim to assess Suhakam's effectiveness in improving human rights. END OF SUMMARY.

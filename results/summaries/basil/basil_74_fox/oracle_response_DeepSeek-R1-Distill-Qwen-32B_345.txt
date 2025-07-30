@@ -1,0 +1,13 @@
+Okay, I need to help the user by summarizing the given news article while preserving the moral framing. The user specified that I should focus on the morally charged words provided. Let me first read through the article carefully.
+
+Kathy Griffin took a photo with Tyler Shields holding a bloodied Trump mask. She later apologized, saying it was too disturbing and not funny, acknowledging it was wrong. People were upset, including Chelsea Clinton calling it vile. Shields defended it as art meant to make a statement, emphasizing freedom of speech. He's had issues before with similar photos causing outrage and death threats, like the Heather Morris incident.
+
+I should include the morally framed words: went, disturbing, funny, wrong, vile, threats, abuse, freedom, allowed. I'll structure the summary to highlight Griffin's admission, the public reaction, Shields' defense, and his past controversies. I'll make sure to keep it concise, under 200 words, and end with the specified tokens.
+
+Let me draft it step by step, ensuring all key points are covered and the moral words are preserved.
+</think>
+
+SUMMARY:  
+Kathy Griffin admitted she "went too far" after a controversial photo shoot with Tyler Shields, where she held a bloodied mask of President Trump. She called the image "disturbing" and "not funny," acknowledging it was "wrong" and apologized for offending people. Chelsea Clinton condemned it as "vile and wrong." Shields defended the photo as art, stating it was meant to make a bold political statement and that it was "not real." He emphasized that art can provoke strong reactions but argued it's protected under "freedom of speech." Shields has faced backlash before, including death threats over a photo of Heather Morris that critics saw as trivializing domestic abuse. Despite the controversy, he defended the collaboration with Griffin, saying he "can't speak for her" but emphasized his belief in artistic expression.  
+
+END OF SUMMARY.

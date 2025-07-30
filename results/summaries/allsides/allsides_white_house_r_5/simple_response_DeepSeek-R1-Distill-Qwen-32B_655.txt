@@ -1,0 +1,16 @@
+Okay, so I'm trying to figure out how to approach this query. The user has provided a news article and wants a summary that preserves the moral framing the author used. They also mentioned that I should act as a news summarizer and a moral expert. 
+
+First, I need to read the article carefully to understand the main points and the tone. The article is quite critical of the Obama administration, specifically targeting the Benghazi incident. It uses strong language, calling the administration "spoiled," "greedy," and "self-centered." The author also mentions the Clintons and their contempt for the military, which is a significant moral point.
+
+I notice that the article is making several accusations: that the administration lied about the Benghazi attack, that they had rescue teams available but didn't use them, and that they tried to cover up their mistakes until after the election. The moral framing here is clear: the administration is portrayed as dishonest, indifferent to the lives of their personnel, and disrespectful to the military.
+
+Now, I need to summarize this in under 200 words, keeping the moral tone intact. I should highlight the key accusations without getting bogged down in details. I'll mention the "60s disease" as a framing device, the Boomers' influence, and the specific examples like the Clintons and Obama's background. I should also touch on the lies, the rescue teams, and the medals awarded as a form of cover-up.
+
+I have to ensure that the summary reflects the author's negative perspective on the administration's actions and their moral failings. It's important to include how the administration's actions were seen as a betrayal of trust and a lack of respect for the military and the sacrifices made.
+
+I'll structure the summary by first introducing the critique, then listing the main points about the administration's background, their actions during Benghazi, the lies told, and the implications of their behavior. I'll end by emphasizing the moral failings and the need for accountability, especially for Hillary Clinton.
+
+I should be concise but make sure each moral point is clear. Avoiding any neutral language and sticking to the author's critical tone is crucial. I need to make sure the summary flows logically, each sentence building on the previous one to convey the overall critique effectively.
+</think>
+
+SUMMARY: The article critiques the Obama administration, accusing it of embodying the moral failings of the 1960s generation, including contempt for military service and a lack of responsibility. It alleges that the administration, particularly Hillary Clinton, lied about the 2012 Benghazi attack, claiming it was caused by an anti-Islamic video, while secretly withholding rescue operations. The piece accuses the administration of betraying the ambassador and personnel, using lies and disinformation to cover up their negligence. It highlights the moral failing of indifference to the lives lost and the lack of respect for military sacrifice, framing the administration’s actions as a betrayal of trust and duty. END OF SUMMARY.

@@ -1,0 +1,33 @@
+Okay, so I've got this query where the user wants me to act as a news summarizer and a moral expert. They provided a news article about Lebanon's officials reacting to a US human rights report. My task is to first identify all the morally framed single words in the article and then summarize the article while preserving those moral framings.
+
+First, I need to understand what morally framed words are. These are words that carry a positive or negative moral connotation. For example, words like "criticism," "abuse," "undemocratic," "uncivilized," "independent," "serious," "praise," and "criticism" again. I should go through the article sentence by sentence to pick out these words.
+
+Looking at the article, I see phrases like "expressed dissatisfaction," "criticism," "weakening," "abusing human rights," "discredit," "undemocratic," "uncivilized," "abuse," "independent in principle," "monitoring," "tapping," "harms," "serious matter," and "praised." Each of these carries a moral judgment, either positive or negative.
+
+Next, I need to summarize the article. The summary should include as many of these moral words as possible. I'll start by noting that Lebanese officials are dissatisfied with the US report. The report criticizes Lebanon's human rights situation, mentions weakening government, judicial independence, surveillance, and the press's role. I'll make sure to include all the key points while using the identified moral terms.
+
+I should keep the summary concise, under 200 words, and ensure it flows naturally. I'll mention the officials' dissatisfaction, the annual nature of the criticism, the specific points the report made, and the positive note about the press. I'll also include how the report affects Lebanon's image and the officials' response to the US.
+
+I think I've covered all the necessary points. Now, I'll structure the summary to include all the moral words without making it sound forced. It's important to maintain the original moral framing the author intended.
+</think>
+
+**STEP 1:**  
+* Dissatisfaction  
+* Criticism  
+* Annual  
+* Weakening  
+* Prerogatives  
+* Discredit  
+* Undemocratic  
+* Uncivilized  
+* Abusing  
+* Independent  
+* Monitoring  
+* Tapping  
+* Harms  
+* Image  
+* Praise  
+* Criticism  
+
+**SUMMARY:**  
+Lebanese officials expressed dissatisfaction with the US State Department's human rights report, which they described as an annual criticism. The report criticized Lebanon's weakening central government, judicial independence, and intelligence monitoring of opposition politicians, which officials argued discredits Lebanon's image as democratic and civilized. While the report praised the Lebanese press for its critical role, officials conveyed their concerns to US Ambassador Vincent Battle, emphasizing that the criticism was not unique to Lebanon. The government plans to respond to the report, addressing its claims of political pressure on the judiciary and surveillance practices, which they believe harm Lebanon's democratic reputation. The officials also highlighted their annual efforts to explain factors outside their control to the US State Department. END OF SUMMARY.

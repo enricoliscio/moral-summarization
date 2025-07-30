@@ -1,0 +1,14 @@
+Alright, I need to help the user by summarizing the provided news article. The user has specified that I should focus on preserving the moral framing that the author gave. So, first, I'll read through the article to understand the main points and the underlying moral implications.
+
+The article discusses the Benghazi attack during the Obama administration, highlighting concerns about the State Department's handling of security warnings. It mentions how Victoria Nuland tried to remove references to prior attacks to avoid scrutiny. There are classified cables showing that warnings about the threat were sent but not acted upon, especially by Secretary Clinton. The narrative seems to emphasize negligence and a failure in leadership, which are key moral points.
+
+I need to ensure the summary captures these elements without getting bogged down in too many details. I'll start by identifying the main events: the attack, the suppression of information, the classified warnings, Clinton's lack of awareness, and the subsequent reviews pointing to negligence.
+
+I should structure the summary to flow logically, starting with the controversy, then the suppression, followed by the warnings, Clinton's testimony, and the conclusion about negligence. Keeping it under 200 words is crucial, so I'll be concise with each point.
+
+I also need to maintain the moral framing, which involves highlighting the failure to act on warnings and the potential negligence in leadership. This means using language that conveys oversight and responsibility, such as "negligence," "failure to act," and "lack of proactive leadership."
+
+Finally, I'll make sure the summary starts with the "SUMMARY:" token and ends with "END OF SUMMARY." to meet the user's formatting requirements. I'll double-check the word count to ensure it's within the limit and that all key moral points are included.
+</think>
+
+SUMMARY: The Benghazi attack controversy highlights concerns about the Obama administration's handling of security warnings. State Department spokeswoman Victoria Nuland attempted to suppress references to prior attacks to avoid congressional criticism. Classified cables revealed severe warnings about the Islamist threat in Benghazi, including the presence of Al Qaeda-linked groups and compromised local security forces. Despite these warnings, Secretary of State Hillary Clinton claimed she was unaware of the critical cable. A State Department review acknowledged negligence in leadership and management but found no misconduct. The failure to act on documented warnings raises questions about accountability and oversight in protecting diplomatic staff. END OF SUMMARY.

@@ -1,0 +1,61 @@
+Alright, I'm looking at this query where the user wants me to summarize a news article while preserving the moral framing. They've provided a specific structure with two steps: identifying morally framed words and then writing the summary. 
+
+First, I need to understand what morally framed words are. These are words that carry a moral judgment, like "false," "desperate," or "sexual misconduct." I'll go through the article and pick out each of these words, making sure to note them as per the user's instruction.
+
+Next, I have to write a concise summary that includes as many of these words as possible without exceeding 200 words. I should ensure the summary captures the key points: Moore suing the Washington Post, the nature of the allegations, his denials, and the political fallout. I need to maintain the moral tone by including words like "false," "desperate," and "sexual misconduct."
+
+I also notice the user provided an example response. I should follow that structure, starting with STEP 1, listing each word, then moving on to the SUMMARY. I need to make sure the summary is clear and sticks to the facts while keeping the moral elements intact.
+
+I should double-check that I'm not missing any morally charged words and that the summary accurately reflects the article's content. It's important to balance conciseness with completeness, ensuring all critical points are covered without unnecessary details.
+
+Finally, I'll review the summary to make sure it flows well and meets the word limit. This way, the user gets a precise and morally framed summary that aligns with their request.
+</think>
+
+**STEP 1:**  
+* False  
+* Untrue  
+* Desperate  
+* Character  
+* Reputation  
+* Attack  
+* Sexual  
+* Relationships  
+* Teenagers  
+* 14-year-old  
+* 30s  
+* Pursued  
+* Sexual contact  
+* 16-18  
+* Undressed  
+* Touch  
+* Sexual offenses  
+* Statutes of limitations  
+* Passed  
+* Harassment  
+* Assault  
+* Forced  
+* Relationship  
+* Legal age of consent  
+* 16  
+* Denied  
+* Completely false  
+* Fake news  
+* Hurtful  
+* Protection  
+* Children  
+* Alcohol  
+* Guilty  
+* Sexual misconduct  
+* Investigations  
+* Motivations  
+* Revelations  
+* Endorsements  
+* Withdrew  
+* Republican  
+* Senatorial Committee  
+* Joint fundraising  
+* Benefits  
+
+**SUMMARY:**  
+Alabama Republican Senate candidate Roy Moore has threatened to sue *The Washington Post* for reporting allegations that he pursued sexual relationships with teenagers, including a 14-year-old, when he was in his 30s. Moore called the claims "false" and "untrue," accusing the outlet of making a "desperate" attempt to harm his campaign. The Post's report, based on interviews with over 30 people, includes allegations of sexual contact with a 14-year-old and other women when they were between 16 and 18. Moore denied the allegations, calling them "fake news" and emphasizing his "highest regard for the protection of young children." He also claimed that the incidents occurred nearly 40 years ago and that no one accused him of harassment, assault, or forcing a relationship. Moore accused the media of bias and promised "revelations" about the story soon. Several Republicans, including the National Republican Senatorial Committee, have withdrawn their endorsements of Moore.  
+**END OF SUMMARY.**

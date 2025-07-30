@@ -1,0 +1,18 @@
+<think>
+Alright, so the user has given me a task where I need to act as a news summarizer assistant and a moral expert. My job is to summarize a provided news article while preserving the moral framing that the author gave it. The summary should be concise, no longer than 200 words, and follow a specific format with "SUMMARY:" and "END OF SUMMARY." tokens.
+
+First, I need to understand the content of the article. It's about Chicago's record-high homicides and shootings in 2016, which is the most in two decades. The article mentions that the number of homicides was 762, surpassing New York and Los Angeles combined. There's also a significant increase in shooting incidents compared to 2015. The main factors contributing to this violence include the influx of illegal guns, the impact of the Laquan McDonald shooting video, and changes in police behavior.
+
+I should focus on the moral aspects highlighted by the author. The article discusses how the police's reluctance to enforce due to public scrutiny and legal changes has emboldened criminals. It also touches on the lack of deterrents against gun crime and the perception that the justice system isn't taking gun offenders seriously. Additionally, the article points out the racial and socioeconomic disparities, as the majority of the violence occurs in poor, predominantly black neighborhoods.
+
+I need to ensure that the summary captures these moral points without losing the essence of the article. It's important to mention the spike in homicides, the reasons behind it, and the measures the city is taking. I should also highlight the Superintendent's concerns about the justice system and the impact of the McDonald shooting on police behavior.
+
+Now, structuring the summary: Start with the key statistics, then move on to the causes (illegal guns, police reluctance), mention the affected areas, and conclude with the city's response and the underlying issues like systemic problems and racial disparities.
+
+I need to keep it under 200 words, so I'll have to be concise but comprehensive. Make sure to include the Superintendent's quotes and the impact of the video on public trust and police actions.
+
+Let me draft the summary, ensuring it flows logically and covers all the moral framing points without being too verbose.
+</think>
+
+SUMMARY:  
+Chicago experienced its most violent year in two decades in 2016, with 762 homicides and 3,550 shooting incidents, surpassing New York and Los Angeles combined. The surge in violence, driven by illegal guns and gang activity, disproportionately affected poor, predominantly black neighborhoods. Chicago Police Superintendent Eddie Johnson attributed the rise to emboldened criminals, citing a lack of deterrents and a perception that the justice system is lenient. The release of the Laquan McDonald shooting video, which sparked widespread protests and eroded public trust in the police, contributed to officers' reluctance to enforce the law. Critics argue this has allowed gangs to operate with impunity. The city has responded by increasing police presence and implementing surveillance measures, but systemic issues, including racial disparities and weak gun laws, remain unresolved. END OF SUMMARY.

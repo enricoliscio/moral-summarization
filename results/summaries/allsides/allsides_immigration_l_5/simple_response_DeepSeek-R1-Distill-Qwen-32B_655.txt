@@ -1,0 +1,12 @@
+Alright, so the user has given me a query where they want a summary of a news article, preserving the moral framing. The article is about the Priority Enforcement Program (PEP) and its issues with deporting immigrants without criminal convictions. 
+
+First, I need to understand the key points. The article mentions that half of the 'holds' were on people with arrests but no convictions. The most common offenses were minor, like drunk driving or traffic violations. ICE claims to focus on serious criminals but data shows they're targeting more people without criminal records. There's also a mention of the impact on communities, where immigrants are afraid to report crimes because of detainers. Advocates argue that PEP isn't much different from the previous program and is just a name change.
+
+Now, the user wants a summary that's no longer than 200 words, ending with specific tokens. I need to make sure the moral framing is preserved, highlighting the misuse of the program and its negative impact on communities. 
+
+I should start by stating the main issue: PEP's failure to target only serious criminals. Then mention the data on arrests vs convictions. Highlight the types of offenses, the ICE's claims versus the reality, and the community impact. Finally, include the advocates' criticism that PEP isn't a real change. 
+
+I need to keep it concise, ensuring all these points are covered without exceeding the word limit. Also, the summary should flow logically from one point to the next, maintaining the moral critique present in the original text.
+</think>
+
+SUMMARY: A new report reveals that the Priority Enforcement Program (PEP), designed to deport "criminal aliens," is failing to target only serious offenders. Half of the "holds" placed on immigrants were for individuals with arrests but no convictions, often for minor offenses like traffic violations or crimes with dropped charges. The most common convictions were for drunk driving or simple assaults, not the severe felonies ICE claims to prioritize. Despite ICE's claims of narrowing its focus, recent data shows the agency is targeting people without criminal records at a higher rate than before. Advocates argue that PEP, which replaced the Secure Communities program, is not significantly different and risks deterring immigrants from reporting crimes due to fear of detention. The report highlights a humanitarian crisis fueled by mass deportations, with advocates criticizing the program for undermining community safety and failing to protect vulnerable populations. END OF SUMMARY.

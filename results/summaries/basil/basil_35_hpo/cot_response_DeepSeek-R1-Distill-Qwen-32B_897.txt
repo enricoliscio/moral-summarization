@@ -1,0 +1,29 @@
+Okay, so I'm trying to figure out how to approach this query. The user wants me to act as a news summarizer assistant and a moral expert. They provided a detailed news article about the Benghazi emails and the political implications. The task has two parts: first, identifying all single words that are morally framed, and second, writing a summary that preserves the moral framing.
+
+Starting with STEP 1, I need to go through the article and pick out words that carry moral connotations. Words like "cover-up," "ignore," "abuse," "concerned," "premature," "illogical," "political," "contradict," "selectively," "inaccurately," "extraordinary," "protecting," "ensure," and "better" stand out as they relate to ethics, intentions, and consequences.
+
+For the summary, I have to condense the article into 200 words while keeping the moral elements intact. I'll need to highlight the release of emails, the accusations of cover-up, the involvement of multiple agencies, the changes to the talking points, and the political implications. It's important to mention both sides: the administration's explanation and the critics' arguments, using the morally framed words to convey the ethical dimensions of the situation.
+
+I should make sure the summary flows logically, starting with the release of emails, then the accusations, the administration's response, the internal review by the CIA, and the ongoing debate. Including the White House's hope to resolve the issue while critics remain skeptical will wrap it up effectively.
+
+I need to be concise but thorough, ensuring that each morally framed word is appropriately placed to reflect the author's original moral stance. This way, the summary not only informs but also preserves the ethical nuances of the original article.
+</think>
+
+**STEP 1:**  
+* cover-up  
+* ignore  
+* abuse  
+* concerned  
+* premature  
+* illogical  
+* political  
+* contradict  
+* selectively  
+* inaccurately  
+* extraordinary  
+* protecting  
+* ensure  
+* better  
+
+**SUMMARY:**  
+The White House released emails regarding the development of talking points for the 2012 Benghazi attack, addressing Republican claims of a political "cover-up." The emails showed that changes to the talking points were driven by multiple agencies, including the CIA, not just the State Department. Critics accused the State Department of altering the talking points to avoid criticism, particularly over the removal of references to al Qaeda and security warnings. However, senior officials stated that such changes were made at the CIA's request, emphasizing accuracy and avoiding prejudging the FBI investigation. The CIA's internal review revealed that changes were made due to concerns about accuracy and bureaucratic matters. The timing of the email release raised questions, with critics arguing it emboldened accusations of political motives. The White House hoped the release would resolve the issue, but critics remain skeptical. END OF SUMMARY.

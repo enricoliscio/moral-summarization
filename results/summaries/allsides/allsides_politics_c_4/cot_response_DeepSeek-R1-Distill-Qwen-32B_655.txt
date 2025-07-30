@@ -1,0 +1,46 @@
+Okay, so I need to help the user by summarizing a news article while preserving the moral framing. The user provided a detailed article about Donald Trump and his denials of collusion with Russia. They also included a specific structure for the response, which involves two steps: identifying morally framed words and then writing a concise summary.
+
+First, I'll tackle Step 1. I need to go through the article and pick out all the single words that carry a moral connotation. These are words that imply judgment or evaluation. Let me read through the article again.
+
+The article talks about Trump's denials, collusion, fake news, unfit for office, lying, mendacity, compulsion, mendacity, groveling, witch hunt, first citizen, example, and scandal. Each of these words carries a moral judgment, either negative or positive. For example, "collusion" implies wrongdoing, "fake news" suggests deception, and "scandal" indicates a moral failing.
+
+Next, for the summary, I need to condense the article into 200 words or less while keeping as many of these moral words as possible. The summary should capture the main points: Trump's repeated denials, the legal issues with Cohen and Manafort, the difficulty in proving collusion, Trump's behavior as president, and the conclusion that the real scandal is Trump himself.
+
+I'll start by stating Trump's denial, mention Cohen and Manafort's guilty pleas, then discuss the challenges in proving collusion. I'll highlight Trump's lies and actions, and end by emphasizing that the real issue is his character and behavior, not just collusion.
+
+I need to ensure the summary flows well and includes the key moral terms without making it too verbose. Let me structure it step by step, making sure each point is clear and concise.
+
+Finally, I'll review the summary to ensure it's under 200 words and that all the morally framed words are included where appropriate. This should meet the user's requirements effectively.
+</think>
+
+**STEP 1:**
+
+* Collusion  
+* Obeisant  
+* Adoration  
+* Fake News  
+* Unfit  
+* Lies  
+* Mendacity  
+* Bullying  
+* Harassing  
+* Undermine  
+* Grovel  
+* Witch hunt  
+* Fat  
+* Poor character  
+* Transgressions  
+* Compulsion  
+* Mendacity  
+* Truth  
+* Extraordinary  
+* Appallingly low example  
+* Scandal  
+
+---
+
+**SUMMARY:**  
+
+Donald Trump repeatedly denies Russian collusion, a charge that has become secondary amid his legal and ethical scandals. His former attorney, Michael Cohen, pleaded guilty to crimes including illegal campaign contributions, admitting Trump ordered him to break the law. Trump’s former campaign manager, Paul Manafort, was also found guilty of fraud. Despite this turmoil, Trump continues to deny collusion, focusing on a charge that is difficult to prove. His behavior as president—lying, bullying law enforcement, and undermining investigations—has further damaged his credibility. Trump’s compulsion to lie and his disregard for truth have set an appallingly low example, suggesting his fitness for office is deeply questionable. The real scandal, the article concludes, is not collusion but Trump himself.  
+
+**END OF SUMMARY.**

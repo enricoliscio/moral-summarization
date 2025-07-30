@@ -1,0 +1,60 @@
+Okay, I need to help the user with their query. They want me to act as a news summarizer and moral expert. The task is to first identify all the morally framed single words in the provided news article and then write a concise summary preserving those moral terms.
+
+First, I'll read the article carefully. It's about Pakistan rejecting a US human rights report, calling it inaccurate. The Foreign Office spokesman lists several initiatives Pakistan has taken, like laws for children, women's rights, labor reforms, etc. He also mentions international conventions Pakistan has ratified.
+
+For step one, I need to extract all the single words that carry moral framing. Words like "rejects," "factually inaccurate," "unwarranted," "promote," "protect," "initiatives," "reforms," "elimination," "ratified," "conventions," "equal remuneration," "elimination," "child labour," "Optional Protocols," "Convention on the Rights of Child," "joint electorates," "minority communities," "constrained," "misstatement," "cooperation," "understanding," "address," "problems," "promoting," "protecting," "committed," "welcome," "assistance," "friendly countries."
+
+Next, I need to write a summary. It should be under 200 words, include as many of these moral terms as possible, and maintain the original moral framing. I'll start by stating Pakistan's rejection of the US report, then list the initiatives they've taken, and conclude with their stance on international cooperation.
+
+I need to ensure the summary flows well and accurately reflects Pakistan's perspective. I'll make sure to include key points like the specific laws and conventions they've implemented, their criticism of the report's assessment, and their call for cooperation.
+
+Finally, I'll check the word count to make sure it's within the limit. I'll structure the summary to first present Pakistan's rejection, then their initiatives, and end with their position on international efforts.
+</think>
+
+**STEP 1:**
+
+\*rejects  
+\*factually  
+\*inaccurate  
+\*unwarranted  
+\*promote  
+\*protect  
+\*initiatives  
+\*implementation  
+\*Ordinance  
+\*Commission  
+\*reforms  
+\*elimination  
+\*ratified  
+\*Conventions  
+\*equal  
+\*remuneration  
+\*elimination  
+\*child  
+\*labour  
+\*Optional  
+\*Protocols  
+\*Convention  
+\*Rights  
+\*Child  
+\*joint  
+\*electorates  
+\*minority  
+\*communities  
+\*constrained  
+\*misstatement  
+\*cooperation  
+\*understanding  
+\*address  
+\*problems  
+\*promoting  
+\*protecting  
+\*committed  
+\*welcome  
+\*assistance  
+\*friendly  
+\*countries  
+
+**SUMMARY:**  
+Pakistan has rejected the US State Department's human rights report, calling it "factually inaccurate and unwarranted." The Foreign Office spokesman highlighted Pakistan's efforts to promote and protect human rights, including the implementation of initiatives such as the Juvenile Justice System Ordinance, police reforms, and measures to eliminate child labor. Pakistan has also ratified international conventions on equal remuneration and the elimination of child labor, and introduced joint electorates to respect minority communities. Despite these efforts, the report criticized Pakistan's human rights record as "poor," which the government labeled as a "gross misstatement of facts." Pakistan emphasized its commitment to addressing human rights issues through cooperation and understanding, rejecting external judgment and welcoming assistance from friendly countries.  
+**END OF SUMMARY.**

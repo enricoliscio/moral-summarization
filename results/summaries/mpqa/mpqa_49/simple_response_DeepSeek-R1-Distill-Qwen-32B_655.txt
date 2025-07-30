@@ -1,0 +1,8 @@
+Okay, so I need to help the user by summarizing a news article while preserving the moral framing. Let me read the article first. It's about President Cardoso's reaction to the US decision on greenhouse gases. He's saying it's positive even though the US didn't ratify the Kyoto Protocol. He hopes their domestic measures will have the same effect as the protocol.
+
+Hmm, the user wants a summary that's no longer than 200 words, starting with "SUMMARY:" and ending with "END OF SUMMARY." They also emphasized preserving the moral framing the author gave. So I need to make sure the summary reflects Cardoso's approval and the underlying message about the importance of the US's actions, even without ratifying Kyoto.
+
+I should focus on the key points: who (Cardoso), what (positive decision), why (US is a key player), and his hope about the measures. I'll keep it concise but include all necessary details. Let me structure it to first mention the approval, then the US's role, and finally his hope for the measures' impact. That should capture the moral aspect of supporting environmental efforts despite the protocol's non-ratification.
+</think>
+
+SUMMARY: Brazilian President Fernando Henrique Cardoso has expressed approval of the U.S. decision to implement measures to control greenhouse gases, despite the country's formal refusal to ratify the Kyoto Protocol. Cardoso emphasized the importance of the U.S. as a key player in global environmental efforts, stating his hope that the domestic actions taken by the U.S. will achieve the same positive impact as adhering to the Kyoto Protocol. This reflects a recognition of the U.S.'s role in addressing climate change and a desire for collective progress in reducing greenhouse gas emissions. END OF SUMMARY.

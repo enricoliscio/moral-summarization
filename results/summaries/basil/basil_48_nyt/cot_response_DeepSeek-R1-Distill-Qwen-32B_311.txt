@@ -1,0 +1,34 @@
+Alright, let me try to figure out how to approach this query. The user is asking me to act as a news summarizer assistant and a moral expert. They want me to summarize a given news article while preserving the moral framing that the author provided. 
+
+First, I need to understand the structure of their request. They provided a news article about Elizabeth Lauten, a Republican aide, who resigned after making controversial comments on Facebook about the Obama daughters. The user wants me to do two things: identify all the morally framed words and then write a summary that includes as many of those words as possible.
+
+So, the first step is to go through the article and pick out the words that carry a moral connotation. I'll need to read through each paragraph carefully. Words like "berating," "class," "respect," "sniping," "dignified," "disdain," "judgmental," "condescending," "apology," "hurtful," "criticize," and "opportunity" stand out as they relate to moral or ethical judgments.
+
+Next, I have to summarize the article. The summary needs to be concise, under 200 words, and include as many of the identified morally framed words as possible. I should make sure the summary flows well while preserving the original moral framing. I'll start by outlining the main points: Lauten's resignation, her Facebook post, the content of the post, the public reaction, her apology, and the broader implications about social media and criticism of First Family members.
+
+I need to ensure that the summary captures the key moral aspects without getting bogged down in details. Words like "berating," "class," "respect," and "sniping" should be included to maintain the moral tone. I'll also mention the apology and the comparison with Patti Davis to highlight the ongoing issue of judging First Family members.
+
+I should also check that the summary is within the word limit and that it's clear and concise. I'll avoid adding any personal opinions and stick strictly to summarizing the article's content while preserving the moral elements.
+
+Finally, I'll make sure to format the response correctly, starting with STEP 1: listing each morally framed word, followed by the SUMMARY section. I'll end the summary with the specified tokens to indicate the end.
+
+Overall, the key is to balance between identifying the moral terms and crafting a coherent summary that reflects the article's moral framing accurately.
+</think>
+
+### STEP 1:  
+* berating  
+* class  
+* respect  
+* sniping  
+* dignified  
+* disdain  
+* judgmental  
+* condescending  
+* apology  
+* hurtful  
+* criticize  
+* opportunity  
+
+### SUMMARY:  
+A young Republican congressional aide, Elizabeth Lauten, resigned after her Facebook post berating President Obama’s daughters for their attitude and outfits during the White House turkey pardon went viral. Lauten criticized the girls for lacking class and failing to dress like they deserved respect, calling them poor role models. Her comments sparked widespread anger, leading to an apology for her hurtful words. The incident highlights the dangers of social media sniping and the pressure on First Family members to act with dignity. The White House press secretary condemned the attack, while Patti Davis, Ronald Reagan’s daughter, empathized, noting the unfair scrutiny faced by First Daughters. Lauten’s resignation underscores the consequences of public judgment and the challenges of maintaining respect in high-profile roles.  
+END OF SUMMARY.

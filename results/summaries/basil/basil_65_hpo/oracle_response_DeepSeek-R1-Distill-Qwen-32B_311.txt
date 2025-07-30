@@ -1,0 +1,14 @@
+Okay, so the user wants me to summarize a news article while preserving the moral framing. They provided the article and a list of morally charged words. I need to make sure my summary includes as many of those words as possible without making it too long—under 200 words. 
+
+First, I'll read the article to understand the main points. Michael Bloomberg is endorsing Hillary Clinton, criticizing Trump as a dangerous demagogue with a history of bankruptcies, lawsuits, and unhappy stakeholders. He mocks Trump's business claims and inheritance, highlighting his own achievements instead.
+
+I should focus on the key moral terms: disastrous, boasts, cheated, ripped, run, hypocrisy, claims, disclose, refuses, damage, harder, threaten, lead, debt, unemployment, erode, safe. I need to weave these into the summary naturally.
+
+I'll start by mentioning Bloomberg's endorsement and his criticism of Trump as a dangerous demagogue. Then, I'll note Trump's history of bankruptcies and lawsuits, using 'disastrous' and 'cheated.' I'll include how Trump's boasts don't match reality and his refusal to disclose finances, using 'hypocrisy' and'refuses.'
+
+Next, I'll contrast Bloomberg's achievements, emphasizing he didn't inherit millions, and his belief that a good business leader would be better. I'll mention the negative impacts Trump would have, using 'damage,' 'harder,' 'threaten,' 'lead,' 'debt,' 'unemployment,' 'erode,' and'safe.'
+
+I'll make sure each sentence flows and includes the necessary moral terms without sounding forced. Finally, I'll keep the summary concise, ensuring it's under 200 words and ends with the specified tokens.
+</think>
+
+SUMMARY: Michael Bloomberg, the former New York mayor, endorsed Hillary Clinton at the Democratic National Convention, calling Trump a "dangerous demagogue" and a bad businessman. Bloomberg criticized Trump's record of bankruptcies, lawsuits, and disappointed stakeholders, arguing that Trump's boasts about his business success are misleading. He mocked Trump's claim to run the country like his business, warning that Trump's "disastrous" business plan would harm the economy, threaten retirement savings, and lead to unemployment and debt. Bloomberg also accused Trump of hypocrisy, as he refuses to disclose his net worth or tax returns while claiming great wealth. In contrast, Bloomberg highlighted his own achievements, emphasizing that he built his business without a million-dollar inheritance. He warned that Trump's presidency would erode American influence and safety, urging voters to choose a competent leader instead. END OF SUMMARY.

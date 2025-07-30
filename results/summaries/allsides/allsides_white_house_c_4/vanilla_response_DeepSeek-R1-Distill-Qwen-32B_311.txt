@@ -1,0 +1,17 @@
+Okay, I need to summarize the given news article about the White House seeking emergency funding after Hurricane Sandy. The user wants a concise summary, no more than 200 words, and it should be returned after the "SUMMARY:" token and end with "END OF SUMMARY."
+
+First, I'll read through the article to understand the main points. The key elements are:
+
+1. The White House plans to request $50-60 billion in emergency funds for Sandy recovery.
+2. They want some funds allocated for future storm prevention.
+3. The damage in states like New York, New Jersey, and Connecticut is extensive, with damages estimated up to $80 billion.
+4. HUD Secretary Shaun Donovan emphasizes rebuilding stronger and mentions specific measures like underground power lines.
+5. There's a debate about whether to provide a down payment now or wait, with concerns that delaying aid would harm communities.
+6. The administration opposes offsetting the cost with budget cuts.
+
+I should structure the summary to cover these points succinctly. I'll start with the funding request, mention the states' damage estimates, the focus on future resilience, specific measures, the down payment debate, and the opposition to budget cuts.
+
+I need to make sure it's under 200 words. Let me draft it concisely, ensuring all key points are included without extra details.
+</think>
+
+SUMMARY: The White House plans to request $50-60 billion in emergency funding for Hurricane Sandy recovery, with部分 allocated for future storm prevention. New York, New Jersey, and Connecticut estimate combined damages at $80 billion. HUD Secretary Shaun Donovan emphasizes rebuilding stronger, including underground power lines. A down payment on funds is debated, with Donovan warning delays would harm communities. The administration opposes offsetting costs with budget cuts. END OF SUMMARY.

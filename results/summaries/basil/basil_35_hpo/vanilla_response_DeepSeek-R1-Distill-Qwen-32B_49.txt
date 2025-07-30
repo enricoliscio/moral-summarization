@@ -1,0 +1,22 @@
+Okay, so the user has provided a news article and wants me to summarize it. They've specified that the summary should be after a "SUMMARY:" token and end with "END OF SUMMARY." Also, it needs to be under 200 words. 
+
+First, I need to read through the article to understand the main points. The article is about the White House releasing emails related to the Benghazi attack talking points. The context is that Republicans have accused the Obama administration of a political cover-up. The emails show that multiple agencies, not just the State Department, were involved in changing the talking points. 
+
+I should note that the emails don't support the theory of a cover-up for the 2012 election. The key points are that the CIA and other agencies also requested changes, such as removing references to al Qaeda and other attacks. The State Department's Victoria Nuland was involved, but the CIA also wanted some changes. 
+
+The timing of the email release is questioned, and the White House hopes this will resolve the issue. I need to include that the release was extensive, covering 100 pages, and that it's part of an internal CIA review. 
+
+I should structure the summary to include the main actors, the accusations, the findings from the emails, and the implications. Also, mention the response from Republicans and the White House's hope for closure. 
+
+I need to keep it concise, so I'll focus on the essential details without getting too bogged down in specifics. Make sure it's under 200 words and flows logically. 
+
+Let me draft it: Start with the release of emails, mention the accusations, explain that multiple agencies were involved, detail some specific changes like removing al Qaeda references, mention the CIA's role, the timing questions, and the White House's hope for closure. 
+
+I should also include that the emails don't support a cover-up for the election. 
+
+Let me check the word count as I go to stay within limits. 
+
+Okay, I think that covers the main points. Now, I'll write the summary accordingly, making sure to include all key elements succinctly.
+</think>
+
+SUMMARY: The White House released 100 pages of emails related to the development of talking points about the 2012 Benghazi attack, addressing Republican claims of a political cover-up. The emails show that multiple government agencies, including the CIA, were involved in altering the talking points, not just the State Department. Critics had accused the administration of removing references to al Qaeda and security warnings to protect its image, but the emails reveal that such changes were often requested by the CIA to avoid prejudicing the FBI investigation. For example, Victoria Nuland of the State Department sought to remove a line about previous attacks, while CIA deputy director Michael Morell wanted to omit irrelevant details. The CIA's internal review also found that changes were made for accuracy and to avoid hindering the investigation. The White House emphasized that the process focused on providing factual information and protecting the probe. The document release aimed to address ongoing criticism but may further embolden critics. END OF SUMMARY.

@@ -1,0 +1,34 @@
+Okay, I need to help the user by summarizing the given news article while preserving the moral framing. The user has specified two main steps: first, identifying all the single words that are morally framed, and second, writing a concise summary that includes as many of these words as possible.
+
+Starting with Step 1, I'll read through the article carefully to spot words that carry moral connotations. Words like "proud," "strength," "values," "beacon of hope," "sacred," "protect," "just," "dignity," "oppression," "rights," "trust," "cynical," "demonized," "unity," "inclusion," "equity," "opportunity," and "values" stand out. These words reflect the author's moral stance on immigration policies and community protection.
+
+Now, for the summary, I need to encapsulate the article's main points using these morally framed words. The article discusses Chicago's efforts to resist ICE's immigration enforcement, highlighting their commitment to protecting immigrants and upholding values like unity and inclusion. I'll make sure to include key points like the ordinance passed, the impact on ICE arrests, and the broader implications for immigration policy and community trust.
+
+I should keep the summary under 200 words, ensuring it's concise yet comprehensive. I'll structure it to first mention the ordinance, then the impact on ICE, followed by the moral implications and Chicago's stance on immigration. I'll also touch on the fear in the community and the call for a welcoming immigration policy.
+
+Double-checking to ensure all morally framed words are included where appropriate and that the summary flows logically, maintaining the author's original moral framing. That should cover both steps the user requested.
+</think>
+
+**STEP 1:**  
+* proud  
+* strength  
+* values  
+* beacon of hope  
+* sacred  
+* protect  
+* just  
+* dignity  
+* oppression  
+* rights  
+* trust  
+* cynical  
+* demonized  
+* unity  
+* inclusion  
+* equity  
+* opportunity  
+* values  
+
+**SUMMARY:**  
+The article highlights Chicago's efforts to resist U.S. Immigration and Customs Enforcement (ICE) immigration enforcement by passing the Accountability on Communication and Transparency Ordinance. This ordinance prohibits ICE from accessing Chicago Police Department databases and restricts ICE's ability to collaborate with local law enforcement for immigration enforcement. The city's actions have led to a significant drop in ICE arrests in 2019, a result of local officials refusing to cooperate with federal immigration enforcement. The article emphasizes the moral imperative to protect immigrants and refugees, uphold unity and inclusion, and reject the demonization of immigrants. Chicago's policies aim to preserve community trust, ensure public safety, and promote equity and opportunity for all residents. The author criticizes the federal government for politicizing immigration enforcement and calls for a national immigration policy grounded in welcoming newcomers rather than fear. The article underscores the importance of standing up for neighbors and fighting against division, reflecting Chicago's commitment to its values and its role as a beacon of hope.  
+**END OF SUMMARY.**

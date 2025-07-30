@@ -1,0 +1,27 @@
+<think>
+Okay, I need to help the user by summarizing the given news article while preserving the moral framing. First, I should understand the task. The user wants me to identify all the single words that are morally framed in the article and then write a concise summary that includes as many of those words as possible.
+
+Looking at the article, it's about Michael Steele facing backlash from conservatives for his comments on the Afghanistan war. I need to find words that carry moral connotations. Words like "negative reactions," "criticized," "embarrassment," "affront," "irresponsible," "inconsistent," "skepticism," "shaky," and "troubles" stand out as they express judgment or evaluation.
+
+Next, I'll structure the summary. I should mention the key points: Steele's comments, the reactions from Kristol and Senor, the inconsistency with his past statements, the support from anti-war Democrats, and the impact on his position. I'll make sure to include the morally framed words to maintain the original tone.
+
+I need to keep the summary under 200 words, so I'll be concise but include all necessary details. I'll start with the main event, then move to the reactions, the inconsistency, the support from others, and end with the implications for Steele's tenure.
+
+I should double-check that all identified words are included and that the summary flows naturally while preserving the moral framing. Also, I'll ensure the summary is clear and accurately reflects the article's content.
+</think>
+
+**STEP 1:**
+
+\*negative  
+\*criticized  
+\*embarrassment  
+\*affront  
+\*irresponsible  
+\*inconsistent  
+\*skepticism  
+\*shaky  
+\*troubles  
+
+**SUMMARY:**  
+Michael Steele, chairman of the RNC, faced harsh criticism after stating that the war in Afghanistan is largely unwinnable and "Obama’s choosing." Prominent conservatives, including Bill Kristol and Dan Senor, condemned his remarks, calling them "irresponsible" and "inconsistent" with his previous support for the war. Kristol demanded Steele’s resignation, labeling his comments an "affront" to the Republican Party and U.S. soldiers. Steele’s spokesman attempted to clarify his statement, emphasizing Obama’s lack of a winning strategy. However, Steele’s recent remarks resonated with anti-war Democrats and some conservative critics, though he remains a key Republican figure. His tenure is now in question, as his comments have sparked widespread backlash, with GOP operatives seeking to amplify the narrative of his "troubles."  
+**END OF SUMMARY.**

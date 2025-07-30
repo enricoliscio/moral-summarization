@@ -1,0 +1,14 @@
+Alright, I need to help the user by summarizing the given news article while preserving the moral framing. First, I should read through the article carefully to understand the main points and the author's tone. The article describes a vice presidential debate between Joe Biden and Paul Ryan, highlighting Biden's aggressive debating style compared to his past performance and the 1988 Bentsen debate.
+
+I notice that the author uses terms like "Cheshire Cat grin," "barroom brawler," and "moral framing" to convey Biden's approach. The moral aspect here seems to be about the appropriateness of Biden's tactics—whether his aggressive style is justified or crosses a line. I should make sure to include this in the summary.
+
+Next, I need to condense the article into a concise summary, keeping it under 200 words. I'll focus on key events: Biden's use of humor and interruptions, the contrast with his 2008 debate with Palin, Ryan's attempts to maintain decorum, and the moderator's active role. I'll also highlight the underlying moral evaluation of Biden's debating tactics.
+
+I should structure the summary to first introduce the debate context, then describe Biden's tactics, contrast them with his past, mention Ryan's reactions, and conclude with the moral aspect of the debate's tone. I'll ensure the summary flows logically and stays within the word limit.
+
+Finally, I'll start with "SUMMARY:" and end with "END OF SUMMARY." to meet the user's formatting requirements. I'll review the summary to make sure it accurately reflects the article's content and the author's moral perspective on Biden's debating style.
+</think>
+
+SUMMARY:  
+In the 2012 vice presidential debate, Joe Biden aggressively confronted Paul Ryan, using humor and interruptions to undermine his opponent. Biden, seeking to redeem the Obama campaign after President Obama's poor performance in the prior debate, adopted a more combative tone, contrasting with his restrained approach in the 2008 debate against Sarah Palin. Biden mocked Ryan's arguments, including his reference to John F. Kennedy, and highlighted inconsistencies in Ryan's policies, such as opposing the stimulus while seeking funds for his district. Ryan, though respectful, appeared disconcerted by Biden's relentless attacks. The debate was marked by Biden's fiery style, reminiscent of Lloyd Bentsen's 1988 debate, but with a more confrontational edge. The moderator, Martha Raddatz, actively pushed candidates for specifics, aiming to avoid the passivity of the earlier Obama-Romney debate. While Biden dominated the exchange, the tone raised questions about the balance between aggressive advocacy and decorum in political discourse.  
+END OF SUMMARY.

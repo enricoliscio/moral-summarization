@@ -1,0 +1,28 @@
+Okay, I need to help the user by summarizing the given news article while preserving the moral framing. The user provided a detailed article about Christian leaders' reactions to the Supreme Court's same-sex marriage ruling. 
+
+First, I should identify the morally framed words. The user wants me to list them in STEP 1, each on a new line with an asterisk. I'll go through the article and pick out words that carry moral connotations. Words like "love," "concern," "warnings," "tyranny," "invent," "imagined," "liberty," "freedom," "truth," "marginalization," and "disobedience" stand out as they express strong moral or ethical viewpoints.
+
+Next, I need to write a concise summary of the article. It should be no more than 200 words and include as many of the identified morally framed words as possible. The summary should capture the main points: the Supreme Court's decision, the reactions from Christian leaders, their concerns about religious freedom, and calls for civil disobedience. I'll make sure to mention key figures like Mike Huckabee, Bob Vander Plaats, Rev. Albert Mohler, and the organizations involved, such as the Alliance Defending Freedom and the Southern Baptist Convention.
+
+I should structure the summary to first state the court's decision, then outline the leaders' reactions, their concerns about religious liberty, and the call for disobedience. It's important to maintain the moral tone by using words like "tyranny," "truth," and "marginalization" as they appear in the original text.
+
+I need to ensure the summary flows logically, starting with the court's action, followed by the responses, and ending with the implications for religious groups. I'll also keep an eye on the word count to stay within the limit. 
+
+Finally, I'll present the summary after the "SUMMARY:" token and end with "END OF SUMMARY." to meet the user's formatting requirements.
+</think>
+
+**STEP 1:**  
+* Love  
+* Concern  
+* Warnings  
+* Tyranny  
+* Invented  
+* Imagined  
+* Liberty  
+* Freedom  
+* Truth  
+* Marginalization  
+* Disobedience  
+
+**SUMMARY:**  
+The Supreme Court's historic decision affirming same-sex couples' constitutional right to marry has sparked strong reactions from Christian leaders, who express love, concern, and warnings of civil disobedience. Critics like Mike Huckabee and Bob Vander Plaats condemn the ruling as an act of "unconstitutional judicial tyranny" and an invention of a new right not envisioned by the Founders. Many leaders, including Rev. Albert Mohler, emphasize the importance of speaking the truth in love, asserting that love of neighbor requires honesty about marriage. They warn that the ruling may restrict religious freedom, stripping Americans of their democratic right to debate marriage policy. Organizations like the Alliance Defending Freedom and the Southern Baptist Convention are preparing guidance to protect faith-based institutions. Some leaders, such as Liberty Counsel's Mat Staver, have already called for civil disobedience, while others study the ruling to determine the best response. END OF SUMMARY.

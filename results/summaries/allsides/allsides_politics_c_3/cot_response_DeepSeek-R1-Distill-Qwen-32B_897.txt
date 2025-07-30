@@ -1,0 +1,40 @@
+Alright, so the user has given me a query where I need to act as a news summarizer and a moral expert. The task involves two main steps: first, identifying morally framed words from a news article, and second, summarizing the article while preserving those moral terms. 
+
+Let me break this down. The article is about President Trump's controversial tweets targeting four Democratic congresswomen, which sparked a lot of reactions from both sides. The user wants me to first extract all the single words that carry moral connotations. I need to go through the text carefully, looking for words that express judgment, approval, or disapproval. Words like "condemning," "racism," "apologize," "xenophobic," etc., come to mind. I should list each of these with a bullet point.
+
+Next, the summary needs to encapsulate the main points of the article, using as many of those moral words as possible. The summary should be concise, under 200 words. I'll need to highlight Trump's actions, the reactions from Democrats and some Republicans, and the broader implications of his comments regarding immigration and national unity.
+
+I also need to make sure the summary flows well and accurately reflects the moral framing present in the original text. It's important to include key points like Pelosi's statement about Trump's plan to "make America white again," the congresswomen's reactions, and the international criticism. Additionally, noting the Republican dissent against Trump's comments adds depth to the summary.
+
+I should avoid any markdown and keep the language clear and straightforward. The user emphasized preserving the moral framing, so I'll ensure that the summary doesn't lose the critical perspective presented in the article. 
+
+Let me start by identifying the morally charged words. I'll go through the article again, line by line, picking out each word that carries a moral judgment. Once I have that list, I'll structure the summary to include these terms, making sure it's within the word limit and effectively conveys the moral stance of the original text.
+
+Finally, I'll review the summary to ensure it's accurate, concise, and maintains the moral framing. This should meet the user's requirements and provide a clear, morally informed summary of the news article.
+</think>
+
+### STEP 1:  
+* Condemning  
+* Racism  
+* Apologize  
+* Racist  
+* Xenophobic  
+* Hate  
+* Characterization  
+* Foul  
+* Terrible  
+* Xenophobic  
+* Racist  
+* Xenophobic  
+* Racist  
+* Xenophobic  
+* Xenophobic  
+* Racist  
+* Xenophobic  
+* Xenophobic  
+
+---
+
+### SUMMARY:  
+President Trump faced backlash after suggesting four Democratic congresswomen, including "The Squad," should "go back" to their countries, despite most being U.S.-born. Trump denied his comments were racist, saying those unhappy with the U.S. could leave. House Speaker Nancy Pelosi condemned Trump's "xenophobic" remarks, calling them an attempt to "make America white again." The congresswomen, including Alexandria Ocasio-Cortez, Ayanna Pressley, Rashida Tlaib, and Ilhan Omar, criticized Trump's racism, with Pressley calling it "what racism looks like." Some Republicans, like Rep. Will Hurd and Sen. Pat Toomey, also condemned Trump's tweets as racist and xenophobic. Trump, however, defended his comments, claiming many agreed with him. The controversy highlights ongoing debates over immigration, national unity, and racial divides in the U.S.  
+END OF SUMMARY.

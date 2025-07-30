@@ -1,0 +1,59 @@
+Alright, I need to help the user by summarizing the news article while preserving the moral framing. Let me start by understanding the task. The user wants me to first identify all the morally framed single words in the article, then provide a concise summary using those words.
+
+First, I'll read through the article to spot words that carry moral implications. Words like "stormed," "upended," "protest," "security lapse," "ethics charges," "unconstitutional," "outrage," "fairness," "justice," "obsession," "contradicted," "quid pro quo," "demanded," "probe," "ruling," "transparency," and "accountability" stand out as they convey moral judgment or implications.
+
+Next, I need to craft a summary that includes these words. The summary should be under 200 words, so I'll need to be concise. I'll start by outlining the main events: House Republicans stormed the secure room, disrupting the deposition, leading to accusations of a security lapse and ethics charges. Then, the Republicans argue about fairness and due process, while Democrats counter that they followed proper procedures. The testimony of Laura Cooper and William Taylor are key points, highlighting the issues of quid pro quo and the probe into Ukraine. I'll also mention the ongoing developments like document demands and the FOIA requests.
+
+I should ensure the summary flows logically, connecting each event with the moral terms identified. I'll make sure to include all the key moral words without making the summary too lengthy. Let me piece this together, ensuring each sentence incorporates the necessary terms while maintaining clarity and coherence.
+
+Finally, I'll review the summary to confirm it stays within the word limit and accurately reflects the moral framing from the original article. This way, the user gets a concise yet comprehensive summary that preserves the ethical nuances presented in the news.
+</think>
+
+### STEP 1:
+* stormed  
+* upended  
+* demanded  
+* fairness  
+* security lapse  
+* ethics charges  
+* constitutional norms  
+* due process  
+* obsession  
+* outrage  
+* fairness  
+* bypassing  
+* denied  
+* subpoena power  
+* restricted  
+* right  
+* participate  
+* ask questions  
+* access  
+* transcripts  
+* information  
+* banned  
+* unauthorized device  
+* Russian  
+* Chinese  
+* secure space  
+* shut down  
+* testify  
+* contingent  
+* probe  
+* irregular  
+* backchannel  
+* quid pro quo  
+* contradicted  
+* second-hand  
+* third-hand  
+* memos  
+* efforts  
+* documents  
+* communications  
+* FOIA request  
+* transparency  
+* accountability  
+
+### SUMMARY:
+House Republicans stormed a secure room during the impeachment probe, disrupting a deposition and demanding fairness. Democrats accused them of causing a security lapse by bringing electronics into a sensitive area and called for ethics charges. Republicans argued that Democrats bypassed constitutional norms and denied them fairness, including subpoena power and access to evidence. The protest led to a sit-in, delaying testimony from Laura Cooper, who eventually testified five hours late. William Taylor previously claimed Trump tied military aid to Ukraine to probing Biden, a claim Republicans disputed as "contradicted" by other witnesses. Democrats demanded more documents, while a federal judge ordered the State Department to release Ukraine-related files, including Giuliani-Pompeo communications. The probe continues amid accusations of quid pro quo and demands for transparency and accountability.  
+END OF SUMMARY.

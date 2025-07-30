@@ -1,0 +1,12 @@
+Okay, so the user has given me a news article and wants a summary that preserves the moral framing. They provided a list of morally charged words from the article. My task is to make sure those words are included in the summary. I need to read the article carefully to identify the key points and the moral implications.
+
+First, the article talks about Mueller's team disputing BuzzFeed's report that Trump directed Cohen to lie to Congress. The morally framed words here are "directed," "lie," "inaccurate," and "orders." I should include these.
+
+Next, the article mentions that Mueller's office didn't directly deny Trump's involvement but focused on the accuracy of the statements. So, "accurate" and "characterization" are important. Then, BuzzFeed stands by their reporting, using "acknowledged" and "instructions."
+
+The article also discusses the potential implications, like obstruction of justice and impeachment. So, "obstructed," "action," "impeachment," "crime," and "dealing" are relevant. Feinstein's statement about the crime and Schiff's investigation add to the moral framing with "secure," "interfere," "bottom," and "follow."
+
+Trump's defense is that Cohen is lying to reduce jail time, using "lying" and "reduce." I need to include all these words in the summary without making it too long, keeping it under 200 words. I'll structure the summary to cover the dispute, the Buzzfeed report, the reactions, and the implications, ensuring each morally charged word is included where appropriate.
+</think>
+
+SUMMARY: Special counsel Robert Mueller’s team disputed BuzzFeed’s report claiming President Donald Trump directed attorney Michael Cohen to lie to Congress about the Trump Tower Moscow deal. Mueller’s office called BuzzFeed’s description of statements, documents, and testimony “inaccurate,” though it did not directly deny Trump’s involvement. BuzzFeed stands by its reporting, asserting it was “re-confirmed” and sees no inaccuracies. The report suggests Trump may have obstructed justice, sparking calls for impeachment from Democrats like Sen. Dianne Feinstein and Rep. Adam Schiff, who is seeking additional evidence. Trump denies the allegations, accusing Cohen of lying to reduce his jail time. The moral framing centers on Trump’s alleged orders to Cohen, the potential crime of lying to Congress, and the broader implications for accountability and justice. END OF SUMMARY.

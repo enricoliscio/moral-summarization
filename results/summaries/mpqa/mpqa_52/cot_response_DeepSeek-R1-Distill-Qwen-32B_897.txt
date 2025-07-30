@@ -1,0 +1,29 @@
+Alright, I need to help the user by summarizing the given news article while preserving the moral framing. Let me start by understanding the task. The user wants two things: first, to identify all the single words that carry moral connotations from the article, and second, to write a concise summary that includes as many of these moral words as possible.
+
+Looking at the article, it's about President Khatami congratulating Venezuela after a coup attempt. The key morally framed words I notice are "congratulates," "legitimate," "victory," "justice," "freedom," "failed," "anti-democratic," "ouster," "force," "coup," "detained," "supporter," and "initiated." These words highlight the moral stance against the coup and support for Chavez.
+
+Now, for the summary, I need to condense the article, ensuring I include these moral terms. I'll start by mentioning Khatami's congratulation, the failed coup, and the moral implications. I'll also include Chavez's return to power and his support for OPEC. I need to keep it under 200 words, so I'll focus on the main points without getting too detailed.
+
+I should make sure the summary flows well and maintains the moral framing. I'll structure it by first stating Khatami's congratulations, then the failed coup, the restoration of the government, and the support for Chavez. I'll also touch on Iran's stance against coups and the implications for OPEC.
+
+Let me put it all together, ensuring I don't exceed the word limit and that all key moral points are included.
+</think>
+
+**STEP 1:**  
+* congratulates  
+* legitimate  
+* victory  
+* justice  
+* freedom  
+* failed  
+* anti-democratic  
+* ouster  
+* force  
+* coup  
+* detained  
+* supporter  
+* initiated  
+
+**SUMMARY:**  
+President Mohammad Khatami congratulated Venezuela's government and people for the restoration of President Hugo Chavez after a failed military coup, calling it a victory of justice and freedom. Khatami expressed hope that Chavez's government would achieve its goals with popular support. Chavez thanked Iran for its support, stating that the coup attempt, which aimed to remove Venezuela from OPEC and increase oil production, had failed due to divine help and popular resistance. Iran condemned the coup, asserting that such undemocratic methods are unacceptable in modern society. Chavez returned to power, resuming his role as a staunch supporter of oil production cuts to stabilize global prices. The two leaders also expressed a desire to meet soon.  
+**END OF SUMMARY.**

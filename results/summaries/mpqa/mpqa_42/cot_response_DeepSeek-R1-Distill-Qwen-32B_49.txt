@@ -1,0 +1,36 @@
+<think>
+Okay, so I need to help the user by summarizing a news article while preserving the moral framing. The user provided a detailed query, so I should make sure I understand all parts.
+
+First, the user wants me to act as a news summarizer assistant and a moral expert. My task is to summarize the given text, keeping the moral aspects the author presented. The article is about Hameed Gul criticizing the US State Department's human rights report.
+
+The user has specified two steps. Step 1 is to identify all single words that are morally framed. I need to go through the article and pick out words that carry moral connotations. Words like "blatant lies," "propaganda," "hegemony," "subjugate," etc., are likely candidates. I should list each of these, each on a new line starting with an asterisk.
+
+Next, in Step 2, I have to write a summary that includes as many of these morally framed words as possible. The summary should be concise, no longer than 200 words, and end with specific tokens. I need to ensure that the moral framing is preserved, so I should use the identified words where appropriate.
+
+I should start by reading the article carefully. Hameed Gul is a former ISI director who strongly criticizes the US report, calling it lies and propaganda. He accuses the US of hegemony and subjugation, not respecting human rights, and being hypocritical about human rights violations in other countries like India and Palestine.
+
+I need to make sure the summary reflects these points, using terms like "blatant lies," "hegemonistic designs," "fraudulent," "terrorist," "barbarities," "oppression," "extremist," "moral resistance," and "unity." I should structure the summary to flow logically, covering his main arguments against the US's stance on human rights and the impact on various countries.
+
+I also need to ensure the summary is clear and within the word limit. I'll start by introducing Gul and his rejection of the report, then move on to his accusations against the US, the examples he gives, and his call for Muslim unity. I'll make sure to include the morally charged words to maintain the author's framing.
+
+Finally, I'll format the response with STEP 1 listing the words and the SUMMARY section following the user's instructions. I should double-check that I haven't missed any key points and that the summary accurately reflects the original article's moral perspective.
+</think>
+
+**STEP 1:**  
+* Blatant lies  
+* Propaganda  
+* Hegemony  
+* Subjugate  
+* Force  
+* Fraudulent  
+* Terrorist  
+* Extremist  
+* Barbarities  
+* Oppression  
+* Vested interests  
+* Indifference  
+* Resistance  
+* Unity  
+
+**SUMMARY:**  
+Pakistani defense analyst Hameed Gul strongly criticized the US State Department's human rights report, calling it "a pack of blatant lies and propaganda." He accused the US of using human rights rhetoric as a tool for hegemony, targeting countries that resist American dominance. Gul condemned the US for its hypocrisy, noting its silence on human rights abuses in India, where extremist Hindus have killed over 600 Muslims, and in Palestine, where Israel continues to oppress Palestinians. He accused the US of being fraudulent, terrorist, and extremist, citing its barbaric actions in Afghanistan. Gul emphasized that the US prioritizes its vested interests over human rights, failing to address injustices committed by its allies. He urged Muslim scholars and leaders to unite and resist US influence through moral resistance, warning that inaction would lead to their destruction. END OF SUMMARY.

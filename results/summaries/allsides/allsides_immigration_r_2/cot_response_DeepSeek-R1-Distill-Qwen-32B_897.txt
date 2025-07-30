@@ -1,0 +1,43 @@
+Alright, so I've got this query where the user wants me to summarize a news article while preserving the moral framing. They've broken it down into two steps: first, identifying all the morally framed single words, and then writing a concise summary.
+
+First, I need to understand the article. It's about Texas Governor Greg Abbott refusing to accept refugees, which has sparked a moral debate. The author is critical of the "woke police" and argues against mass migration, suggesting it's better to help people where they are.
+
+For step one, I need to find all the single words that carry moral connotations. Words like "inhumane," "violates," "shameful," "morally wrong," "xenophobia," "reputation," "tarnished," "national character," "left twisting," "downtrodden," "ignored," "betraying," "RINO," "squishes," "right thing," "sadly," "limit," "invasion," "tipping point," "socialist-leaning," "freedom-loving," and "ceases to be America." These words are used to convey the author's moral stance against Abbott's decision and the broader immigration policies.
+
+Now, for the summary, I need to condense the article, keeping these moral terms. I should mention Abbott's decision, the criticism from woke groups, the arguments against mass migration, and the author's call to help people in their home countries instead. I'll need to stay within 200 words, so I'll focus on the key points and the moral language used.
+
+I also need to ensure the summary flows logically, starting with Abbott's action, the criticism, the author's counterarguments, and the conclusion about the moral course of action. I'll make sure to include the morally framed words to preserve the author's tone and message.
+
+Let me put it all together, making sure each part is concise and includes the necessary moral terms without going over the word limit.
+</think>
+
+### STEP 1:
+* inhumane  
+* violates  
+* shameful  
+* morally wrong  
+* xenophobia  
+* fear  
+* reputation  
+* tarnished  
+* national character  
+* left twisting  
+* downtrodden  
+* ignored  
+* betraying  
+* RINO  
+* squishes  
+* right thing  
+* sadly  
+* limit  
+* invasion  
+* tipping point  
+* socialist-leaning  
+* freedom-loving  
+* ceases to be America  
+
+---
+
+### SUMMARY:
+Texas Governor Greg Abbott became the first GOP governor to decline refugee resettlement, citing the "disproportionate" impact on the state due to the federal government's "broken" immigration system. His decision sparked outrage from "woke police," who accused him of "inhumanity" and "violating American values." Critics, including mayors of major Texas cities, called the move "shameful" and "morally wrong," claiming it was driven by "xenophobia and fear." The author argues that mass migration harms both destination and origin countries, as it strains resources and depletes skilled workers from their home nations. They suggest that the true moral course is to help people where they are, rather than encouraging migration. The article also criticizes the lack of clear limits on immigration, warning of a "tipping point" where socialist-leaning voters could outnumber "freedom-loving" ones, altering America's identity. The debate over refugees and immigration remains deeply tied to moral and nationalistic concerns.  
+END OF SUMMARY.

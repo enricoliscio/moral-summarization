@@ -1,0 +1,20 @@
+Alright, so the user has provided a query where they want me to act as a news summarizer. They've given a specific article about Nick Cannon's comments and the reactions from Fox and ViacomCBS. My task is to summarize this article concisely, within 200 words, and present it after the "SUMMARY:" token and ending with "END OF SUMMARY." 
+
+First, I need to read through the article thoroughly to understand the key points. The main elements are Nick Cannon's offensive comments, Fox's decision to keep him on "The Masked Singer," ViacomCBS terminating their relationship, Cannon's apologies, and his subsequent actions.
+
+I should identify the main actors: Nick Cannon, Fox, ViacomCBS, and the impact on his career and public image. The summary needs to capture the controversy, the differing responses from the networks, and Cannon's attempts to address the issue.
+
+I'll start by stating that Fox allowed Cannon to stay on the show despite his comments. Then, mention the context of his podcast where he made anti-Semitic remarks. It's important to note that Fox acknowledged his remorse and decided to support him in addressing the issue, while ViacomCBS ended their contract.
+
+Next, I'll include Cannon's initial refusal to apologize and his insufficient initial statement. Then, his later sincere apology and the steps he's taking, like stepping away from his radio show for reflection. Also, mention the support he's receiving from other figures.
+
+I need to keep the summary concise, ensuring it's under 200 words. I'll structure it in a logical flow: introduction of the issue, Fox's stance, ViacomCBS's response, Cannon's reactions and apologies, and the current situation.
+
+I should avoid including too many details, like specific quotes or the names of everyone involved, unless they're crucial. The focus should be on the main events and outcomes.
+
+Finally, I'll make sure the summary is clear and objective, presenting the facts without bias. I'll end with the required tokens as specified.
+</think>
+
+SUMMARY:  
+Nick Cannon has remained on *The Masked Singer* after Fox decided to support him following his controversial comments on a podcast. During an episode of *Cannon’s Class*, he made anti-Semitic remarks alongside Richard Griffin, a figure known for such statements. Cannon claimed that black people couldn’t be anti-Semitic and criticized white and Jewish people. After backlash, Cannon apologized, stating his words were wrong and lacked context. Fox acknowledged his remorse and chose to continue working with him, emphasizing the need for dialogue and education. ViacomCBS, however, terminated its relationship with Cannon, criticizing his failure to address anti-Semitism. Cannon initially refused to apologize, calling apologies "empty," but later issued a more sincere statement, expressing regret and committing to learning and strengthening bonds with the Jewish community. He also stepped away from his radio show to reflect and educate himself. Despite the controversy, Cannon has received support from figures like Sean 'Diddy' Combs.  
+END OF SUMMARY.

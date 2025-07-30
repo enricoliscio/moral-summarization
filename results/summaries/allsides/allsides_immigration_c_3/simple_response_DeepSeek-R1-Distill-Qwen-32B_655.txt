@@ -1,0 +1,12 @@
+Okay, so the user wants me to summarize a news article while preserving the moral framing. They provided the article and an example response. I need to make sure I capture the key points and the author's perspective.
+
+First, I'll read through the article to understand the main events. The House passed a $4.5 billion aid package for migrants, with some internal conflicts among Democrats. Pelosi managed to get it passed despite some progressives opposing it. The bill focuses on humanitarian aid, not the border wall. The Senate has a different bill, and there's a potential veto from Trump. There are reports of harsh conditions at detention centers, which adds urgency.
+
+I need to highlight the moral aspects: the Democrats' focus on humanitarian needs, the conditions of the children, and the opposition from Republicans and Trump's stance. I should keep it concise, under 200 words, and end with the required tokens.
+
+I'll structure the summary by mentioning the passage of the bill, the opposition within the party, the funding details, the Senate's stance, the White House's threat, and the context of the migrant crisis. I'll ensure to include Pelosi's quotes to emphasize the moral framing.
+
+Let me check the word count and make sure it's under 200. Also, I need to start with "SUMMARY:" and end with "END OF SUMMARY." without any markdown.
+</think>
+
+SUMMARY: The U.S. House of Representatives passed a $4.5 billion emergency aid package for migrants and unaccompanied children detained at the U.S.-Mexico border, despite internal Democratic dissent and Republican opposition. The bill, passed 230-195, focuses on humanitarian needs, providing funding for food, shelter, medical care, and legal assistance, while blocking funds for Trump's border wall. House Speaker Nancy Pelosi emphasized the bill's importance in preventing a humanitarian crisis, though some progressives criticized it as insufficient. The Senate, meanwhile, is considering a bipartisan alternative, with Republicans urging the House to adopt it to avoid a veto. The White House has threatened to reject the House bill, citing its lack of funding for border security and detention beds. The urgency stems from reports of dire conditions at detention facilities, including overcrowding and inadequate care, which have sparked widespread condemnation. END OF SUMMARY.

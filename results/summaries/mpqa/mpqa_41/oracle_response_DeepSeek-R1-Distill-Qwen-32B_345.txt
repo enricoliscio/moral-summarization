@@ -1,0 +1,17 @@
+<think>
+Alright, so the user has given me a query where they want me to act as a news summarizer and a moral expert. They provided a news article from the UN General Assembly and a list of morally framed words used by the author. My task is to summarize the article while preserving those moral terms.
+
+First, I need to understand the article's content. It's about the Third Committee discussing human rights, emphasizing development and peace as crucial for human rights. Delegates from various countries, like Thailand, Eritrea, China, and the US, made statements linking development, globalization, and security to human rights.
+
+Next, I should identify the key points. The main ideas are that human rights can't be fully enjoyed without development and peace. Development is a precondition, and globalization is causing issues for developing countries. Also, terrorism is a threat, and protecting human rights is essential in fighting it.
+
+Now, I need to use as many of the provided moral terms as possible. Words like enjoy, improving, protection, promotion, peace, rights, addressed, protected, terrorism, crime, threatening, marginalize, duties, narrowing, promote, attack, expediency, compromise, lapse, promoting, strengthening.
+
+I should structure the summary to include these terms naturally. Start by stating the main point about development and peace being preconditions. Then mention delegates' emphasis on human rights and development as interconnected. Include Thailand's point about people being central. Then Eritrea and China's concerns about globalization. Finally, the US's stance on terrorism and human rights.
+
+I need to keep it concise, under 200 words. I'll make sure each sentence incorporates the moral terms without forcing them. Let me draft the summary, ensuring it flows well and includes all key points with the required vocabulary.
+</think>
+
+SUMMARY:  
+Delegates at the UN General Assembly's Third Committee emphasized that human rights could not be fully enjoyed without addressing development, peace, and security. They stressed that the right to development and maintaining international peace were crucial preconditions for universal human rights protection and promotion. Thailand's representative highlighted that human rights and development are interconnected, with people at the center of social and economic efforts. Eritrea and China warned that globalization risks marginalizing developing countries, hampering their ability to exercise human rights, including the right to development. Narrowing the development gap was seen as essential for realizing universal human rights. The U.S. delegate emphasized that protecting human rights was non-negotiable in the fight against terrorism, stating that promoting human rights and democracy is integral to global security. Delegates from multiple countries participated in the debate, addressing issues like armed conflicts, terrorism, and transnational crime. The committee will continue its discussion on human rights Thursday.  
+END OF SUMMARY.

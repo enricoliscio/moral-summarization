@@ -1,0 +1,37 @@
+Alright, so I need to help this user by summarizing a news article while preserving the moral framing. Let me start by understanding the query. The user is asking for two steps: first, to identify all the single words that are morally framed in the article, and second, to write a summary that includes as many of those words as possible.
+
+Looking at the article, it's about Robert Mugabe's inauguration in Zimbabwe, the opposition's boycott, and the international reactions. The moral framing here is important because the article uses specific words to convey judgment or evaluation.
+
+For step one, I need to go through the article and pick out words that carry moral connotations. Words like "boycott," "rigged," "triumph," "imperialism," "violence," "intimidation," "disenfranchisement," "defiant," "blamed," "reform," "seized," "colony," "recession," "shortage," "legitimate," "democracy," "intent," "revitalizing," "good government," and "expanded trade." These words are chosen because they imply judgment or evaluation, which is the moral framing.
+
+Now, for the summary, I need to condense the article into 200 words or less while including as many of these moral words as possible. I should ensure that the summary reflects the moral perspective presented in the original text. The key points are Mugabe's inauguration, the opposition's boycott, the rigged election claims, Mugabe's defiance, the land reforms, international reactions, and the economic situation.
+
+I'll start by stating Mugabe's inauguration and the opposition's boycott. Then mention the rigged election claims and the reasons for the boycott. Highlight Mugabe's defiance and his land reform program. Include the economic impact and Mugabe's appeal for reconciliation. Finally, note the international pressure from South African leaders and the implications for Africa's commitment to democracy.
+
+I need to make sure the summary flows well and includes all the key morally framed words without making it too verbose. Let me structure it step by step, ensuring each sentence captures the essential points and the moral language is preserved.
+</think>
+
+**STEP 1:**  
+* Boycott  
+* Rigged  
+* Triumph  
+* Imperialism  
+* Violence  
+* Intimidation  
+* Disenfranchisement  
+* Defiant  
+* Blamed  
+* Reform  
+* Seized  
+* Colony  
+* Recession  
+* Shortage  
+* Legitimate  
+* Democracy  
+* Intent  
+* Revitalizing  
+* Good government  
+* Expanded trade  
+
+**SUMMARY:**  
+Zimbabwe's President Robert Mugabe was sworn in for his fifth term amid a contentious election that the opposition and Western governments accused of being rigged. The opposition Movement for Democratic Change and several international representatives boycotted the ceremony, protesting political violence, intimidation, and electoral irregularities. Mugabe, a former independence leader, framed his victory as a triumph against Western imperialism and white minority influence. He vowed to continue his land-reform program, which has seen fertile land seized from white farmers and redistributed to landless blacks, despite international criticism and economic sanctions. Zimbabwe faces a severe recession and food shortage, exacerbated by reduced foreign aid. Mugabe called for national reconciliation but rejected a proposed government of national unity. Regional leaders, including South Africa's Thabo Mbeki, are pressuring Mugabe to accept a more inclusive government to avoid deeper sanctions and Commonwealth suspension. The situation highlights concerns about Africa's commitment to democratic principles and economic revitalization through good governance. END OF SUMMARY.

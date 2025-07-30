@@ -1,0 +1,16 @@
+Alright, so the user has provided a news article and wants a summary. They specified that the summary should be after a "SUMMARY:" token and end with "END OF SUMMARY." Also, it should be no longer than 200 words. 
+
+First, I need to read the article carefully. It's about a shooting incident in Louisville where a man was killed during a confrontation between police, National Guard, and a crowd. The context is protests over Breonna Taylor's death and George Floyd's death. 
+
+I should identify the key points: the shooting, the involvement of law enforcement, the cause of the gathering (protests), the Governor's statement about the investigation, and the broader context of the protests related to Taylor and Floyd.
+
+Next, I need to condense this information into a concise summary. I'll start by mentioning the shooting and the entities involved. Then, I'll note the reason for the gathering (protests) and the Governor's action. I'll also include the police chief's comments about the situation and the lack of trust in the police. Finally, I'll touch on the impact of the shooting on tensions in Louisville and the background of Breonna Taylor's case.
+
+I should make sure the summary flows logically and stays within the word limit. I'll avoid including too many details, focusing on the main events and their implications. Also, I'll ensure that the summary starts and ends with the specified tokens as per the user's instructions.
+
+Let me check the word count to make sure it's under 200 words. I'll structure the sentences to be clear and direct, ensuring all critical information is included without unnecessary details. 
+
+I think that covers all the necessary points. Time to put it together concisely.
+</think>
+
+SUMMARY: A man was shot and killed in Louisville when police and the National Guard fired upon a crowd during an attempt to disperse a gathering in a parking lot. The incident occurred after nights of protests over the fatal police shooting of Breonna Taylor and the death of George Floyd. Governor Andy Beshear authorized an independent investigation into the shooting. Louisville Police Chief Steve Conrad stated that the crowd fired at officers and soldiers, prompting a return of fire, resulting in one death. Conrad emphasized the challenges of rebuilding trust in law enforcement. The shooting is likely to exacerbate tensions in Louisville, where protests have been ongoing since Taylor's death in March. Taylor, an unarmed African American EMT, was killed when police returned fire after her boyfriend mistook them for intruders. END OF SUMMARY.

@@ -1,0 +1,48 @@
+Okay, I need to help the user with their query. They provided a news article and specific instructions. Let me break it down.
+
+First, the user wants me to act as a news summarizer and moral expert. My task is to summarize the article while preserving the moral framing. They also want me to identify all single words that are morally framed.
+
+The article is about the House passing the For the People Act, which includes anti-corruption measures and voting rights. The user has given a structure: first, identify the morally framed words, then write a summary using those words.
+
+I should start by reading the article carefully to spot words that carry moral connotations. Words like "anti-corruption," "integrity," "power grab," "undermine," "undue influence," "special interests," "protection," "takeover," "dark-money," "disclose," "transparency," "First Amendment rights," "fail," "standards," "devalue," "diminish," "franchise," "illegal," "vulnerable," "divide," "hold," "highest," "ethics violations," "fail," "highest," "standards," "fail," "highest," "standards," "fail," "highest," "standards."
+
+Wait, some of these might be repeated. I should list each unique word once.
+
+Next, the summary needs to include as many of these words as possible. I need to ensure the summary is concise, under 200 words, and captures the essence of the article while highlighting the moral aspects.
+
+I should structure the summary to mention the bill's goals, the opposition, and the moral arguments from both sides. Make sure to include words like "anti-corruption," "integrity," "power grab," "undermine," "undue influence," "protection," "takeover," "dark-money," "disclose," "transparency," "First Amendment rights," "fail," "standards," "devalue," "diminish," "franchise," "illegal," "vulnerable," "divide," "hold," "highest," "ethics violations," "fail."
+
+I need to ensure the summary flows well and accurately represents the article's content while emphasizing the moral framing. Let me draft that, keeping it under 200 words.
+
+I think I've covered all the necessary points. Now, I'll present the step-by-step process and the summary as per the user's instructions.
+</think>
+
+**STEP 1:**  
+* anti-corruption  
+* integrity  
+* power grab  
+* undermine  
+* undue influence  
+* special interests  
+* protection  
+* takeover  
+* dark-money  
+* disclose  
+* transparency  
+* First Amendment rights  
+* fail  
+* standards  
+* devalue  
+* diminish  
+* franchise  
+* illegal  
+* vulnerable  
+* divide  
+* hold  
+* highest  
+* ethics violations  
+* fail  
+
+**SUMMARY:**  
+The House passed the For the People Act, a sweeping anti-corruption and voting rights bill, aimed at dismantling barriers to voting, reducing big money in politics, and enforcing stricter ethics rules. Democrats framed it as a "power grab for the American people," emphasizing transparency and integrity. The legislation includes provisions like designating Election Day as a federal holiday, automatic voter registration, and limiting corporate influence through a donation matching system. Republicans criticized it as a federal government "takeover," arguing it undermines election integrity and infringes on First Amendment rights. The bill also targets "dark-money" groups, requiring disclosure of donors, and imposes stricter ethics on federal officials, including presidents releasing tax returns. However, it faces opposition from Republicans, who argue it devalues the franchise and diminishes citizens' voting power. Despite criticism, Democrats remain united, holding their leaders to the highest standards amid ethics violations. The bill is unlikely to pass the Senate, but it serves as a campaign platform for 2020.  
+**END OF SUMMARY.**

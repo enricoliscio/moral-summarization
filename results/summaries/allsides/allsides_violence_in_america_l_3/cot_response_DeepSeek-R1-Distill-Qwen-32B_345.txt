@@ -1,0 +1,36 @@
+<think>
+Okay, so the user has given me a task to summarize a news article while preserving the moral framing. They want me to first identify all the single words that are morally framed in the text and then write a concise summary. 
+
+First, I need to understand what "morally framed" words mean. These are words that carry a strong moral judgment or implication, such as "sobering," "staggering," "emboldened," etc. I'll go through the article and pick out each word that fits this criteria.
+
+Next, I'll list each of these words, each on a new line starting with a *. Once that's done, I'll move on to summarizing the article. The summary needs to be under 200 words and include as many of these morally charged words as possible to maintain the author's tone and perspective.
+
+I should ensure that the summary captures the main points: the rise in homicides, the reasons behind it like illegal guns and police reluctance, and the impact on the community. I'll make sure to include the key statistics and the Superintendent's comments to highlight the moral issues involved.
+
+Finally, I'll structure the summary to flow logically, starting with the alarming statistics, then moving into the causes and the city's response, all while using the identified morally framed words to convey the severity and implications of the situation.
+</think>
+
+**STEP 1:**  
+* Sobering  
+* Staggering  
+* Flood  
+* Emboldened  
+* Little to fear  
+* Deterrent  
+* Wrong  
+* Lax  
+* Joke  
+* Susceptible  
+* Scrambled  
+* Initiatives  
+* Drive down  
+* Contributed  
+* Sparked  
+* Federal investigations  
+* Weakened  
+* Reluctant  
+* Cautious  
+* Nefarious  
+
+**SUMMARY:**  
+Chicago experienced its most violent year in two decades, with 762 homicides and 3,550 shooting incidents, surpassing New York and Los Angeles combined. The surge in gun violence, driven by a flood of illegal guns, has left criminals emboldened, as they perceive little deterrent from the criminal justice system. Police Superintendent Eddie Johnson highlighted the city's lax gun laws and the perception among gang members that the court system is a "joke." The majority of violence occurred in poor, predominantly black neighborhoods, with victims often tied to gangs or past arrests. The city scrambled to address the crisis, adding 1,000 officers and implementing initiatives like street cameras and gunshot-detection systems. However, the aftermath of the Laquan McDonald shooting and subsequent protests have made officers more cautious, fearing scrutiny and viral videos. Critics argue this reluctance has allowed gang violence to escalate, with criminals exploiting the situation to commit nefarious acts. The city's struggle to restore public trust and combat violence underscores the deep-rooted challenges in addressing gun crime. END OF SUMMARY.

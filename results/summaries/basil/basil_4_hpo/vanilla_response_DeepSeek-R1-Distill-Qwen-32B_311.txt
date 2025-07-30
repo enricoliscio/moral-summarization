@@ -1,0 +1,13 @@
+<think>
+Alright, so the user wants me to summarize a news article. They provided the article and an example of how they want the summary structured. The summary needs to be after a "SUMMARY:" token and end with "END OF SUMMARY." It should be concise, under 200 words. 
+
+First, I'll read through the article to understand the main points. The article is about Michael Steele, the RNC chairman, making controversial comments about the Afghanistan war. He was caught on camera saying it's unwinnable and Obama's choice. This upset several conservatives, including Bill Kristol, who called for his resignation. Others like Dan Senor criticized him as well. Steele tried to clarify his statement, but it didn't help. His past statements were more supportive, so this inconsistency is a problem. Some anti-war Democrats agreed with him, but as a Republican leader, this is problematic. His position is now shaky.
+
+I need to condense this into a summary. I'll start by mentioning Steele's comments and the negative reactions. Highlight Kristol's letter and Senor's criticism. Note Steele's clarification and past support. Mention the resonance with anti-war Democrats but clarify his role. Conclude with the impact on his position.
+
+I'll make sure to keep it under 200 words and follow the token instructions. I'll structure it to include all key points succinctly.
+</think>
+
+SUMMARY:  
+Michael Steele, chairman of the Republican National Committee (RNC), faced sharp criticism after stating that the war in Afghanistan is largely unwinnable and "Obama’s choosing." Prominent conservatives, including Bill Kristol, condemned Steele, with Kristol calling for his resignation. Steele's spokesman attempted to clarify that he meant Obama lacked a winning strategy, but Kristol and others, like Dan Senor, accused him of irresponsibility. Steele's comments contrasted with his past support for the war, including a 2010 statement that it was "a war we have to win." His remarks resonated with anti-war Democrats and some conservatives, but as the RNC leader, his stance was seen as inconsistent and damaging to the party. His position is now under scrutiny.  
+END OF SUMMARY.

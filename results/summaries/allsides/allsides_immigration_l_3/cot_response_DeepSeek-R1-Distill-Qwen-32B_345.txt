@@ -1,0 +1,36 @@
+Okay, so I need to help the user by summarizing a news article while preserving the moral framing. The user provided a detailed news article about the Trump administration's response to a migrant caravan. They also gave specific instructions on how to process it: first, identify morally framed words, then write a summary using those words.
+
+First, I'll read through the article to understand the context. It's about the deployment of troops to the border, the caravan of migrants, and the political implications. The user wants me to extract single words that carry moral connotations. I'll go through the text and pick out words that evoke emotions or judgments.
+
+I'll start by scanning each paragraph. Words like "fear," "illegal," "emergency," "justice," "humanitarian," "oppression," "suffering," "right," "fairness," "safety," "crisis," "opportunity," "protection," "security," "conscience," and "morality" stand out. These words are used to frame the situation in a moral light, either positive or negative.
+
+Next, I need to write a concise summary (under 200 words) that includes as many of these words as possible. The summary should capture the main points: the deployment of troops, the caravan's situation, Trump's political strategy, the moral arguments, and the legal aspects. I'll structure it to flow logically, starting with the deployment, then the caravan's background, Trump's actions, the moral debate, and the legal implications.
+
+I should ensure that the summary doesn't just list facts but also reflects the moral framing by using those identified words. For example, mentioning the "illegal" immigrants and the "emergency" declared by Trump highlights the moral stance against them. Also, including the migrants' desire for a "better future" and the call for "humanitarian" treatment adds the opposing moral perspective.
+
+I need to be careful not to add any new information beyond what's in the article. The summary should be neutral in presentation but include the moral terms to maintain the original framing. I'll make sure each sentence flows into the next, covering all key points without exceeding the word limit.
+
+Finally, I'll review the summary to ensure it's clear, concise, and includes all the necessary morally framed words. I'll check that it accurately reflects the article's content and maintains the intended moral perspective.
+</think>
+
+**STEP 1:**  
+* Fear  
+* Illegal  
+* Emergency  
+* Justice  
+* Humanitarian  
+* Oppression  
+* Suffering  
+* Right  
+* Fairness  
+* Safety  
+* Crisis  
+* Opportunity  
+* Protection  
+* Security  
+* Conscience  
+* Morality  
+
+**SUMMARY:**  
+Homeland Security Secretary Kirstjen Nielsen stated that U.S. soldiers have "no intention" of shooting migrants attempting to cross into the U.S. from Mexico, though they will be apprehended. The Trump administration plans to deploy 800 active-duty troops to the southern border, amid a caravan of thousands of Central American migrants fleeing violence and poverty. Trump has used the caravan to stoke fears of illegal immigration and frame it as a "National Emergency" ahead of the midterm elections. Migrants, including families with children, seek a better future but face legal and moral challenges, as the government considers denying asylum claims. Nielsen emphasized the safety of border agents, who have the authority to use force if necessary. The situation highlights a clash between humanitarian concerns and political strategies, with Trump accusing Democrats of supporting illegal immigration. Migrants, largely unaware of the political firestorm, continue their journey, hoping for a chance to apply for asylum. The deployment of troops raises questions about morality, security, and the balance of emergency powers.  
+**END OF SUMMARY.**

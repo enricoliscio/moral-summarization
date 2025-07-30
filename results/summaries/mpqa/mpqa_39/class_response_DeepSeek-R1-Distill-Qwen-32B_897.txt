@@ -1,0 +1,17 @@
+<think>
+Alright, so the user has given me a query where I need to act as a news summarizer assistant and a moral expert. The task is to summarize a provided news article while preserving the moral framing that the author used. 
+
+First, I should read through the article carefully to understand the main points and the moral language used. The article is from IRNA, Tehran, and it's about the Islamic Human Rights Commission (IHRC) expressing concerns on the International Day for Human Rights. They're talking about the state of human rights globally, the documents and measures that have been put in place, but also the ongoing issues like discrimination, torture, and the use of military force.
+
+I notice that the author uses specific morally charged words like "honor," "losses," "suffered," "prohibition," "discrimination," "torture," etc. My goal is to include as many of these words as possible in the summary without making it too long—under 200 words.
+
+I'll start by identifying the key points: IHRC's concern about force in international relations, the history of human rights documents, the failure to materialize these rights, specific violations like those against Palestinians, and the call for respecting human rights through religious teachings. Also, there's a mention of the UN's call to Israel to stop bombing.
+
+Now, I need to structure this into a concise summary. I should mention the IHRC's statement, the historical context of human rights efforts, the current violations, and the calls to action. I'll make sure to use the moral terms where appropriate.
+
+I also need to ensure that the summary flows well and covers all the essential moral points without being too verbose. Let me draft this step by step, checking word count and ensuring all key elements are included.
+
+After drafting, I'll review to ensure that the moral framing is preserved and that the summary stays within the word limit. I'll make sure each sentence adds value and contributes to the overall message of concern and advocacy for human rights.
+</think>
+
+SUMMARY: The Islamic Human Rights Commission (IHRC) in Tehran expressed concern over the resurgence of force and weapons in international relations, marking the International Day for Human Rights. Despite decades of efforts to honor human rights through numerous documents and measures, the IHRC regrets that these rights remain unmaterialized, with communities suffering heavy losses from wars and violations. The commission condemns discrimination, torture, arbitrary detention, and calls for the honoring of political, women's, and minority rights. It highlights the Durban conference against racism as a turning point but deplores ongoing injustices, including Palestinian suffering and targeted killings. The IHRC urges statesmen to respect religious teachings on human rights, emphasizing that peace cannot be achieved without honoring them. Meanwhile, the UN High Commissioner for Human Rights, Mary Robinson, condemns Israeli bombing and targeted killings of Palestinians, calling for an end to such violations. END OF SUMMARY.

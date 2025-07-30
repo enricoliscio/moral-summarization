@@ -1,0 +1,14 @@
+Alright, I need to help the user by summarizing the given news article while preserving the moral framing. The user is a news summarizer assistant and a moral expert, so they want a concise summary that includes the key morally charged words.
+
+First, I'll read through the article to understand the main points. It's about Maryland Democrats rejecting a bill aimed at combating gun violence, while the Baltimore mayor is urging residents to stop shooting to free up hospital beds for COVID-19 patients. The bill, proposed by Republican Governor Hogan, would increase penalties for violent criminals, but Democrats removed mandatory minimums, leading to its rejection.
+
+I need to make sure to include the morally framed words provided: violence, shooting, treat, shot, voted, strengthen, theft, increase, carry, use, dealing, addressed, steal, crime, undermined, pushing, giving, sell, shootings.
+
+I'll start by identifying the key events: the bill's rejection, the mayor's plea, the reasons behind the rejection, and the public support for the bill. I should structure the summary to flow logically, connecting the political actions with the public health crisis.
+
+I should ensure that the summary doesn't exceed 200 words and captures the moral implications, such as the Democrats' criticism for undermining public safety and the public support for the bill despite the rejection.
+
+Finally, I'll craft the summary, making sure to include the necessary morally framed words and present the information clearly and concisely.
+</think>
+
+SUMMARY: Maryland Democrats rejected a bill aimed at combating gun violence, despite Baltimore mayor Jack Young urging residents to stop shooting each other to free up hospital beds for coronavirus patients. The bill, proposed by Republican governor Larry Hogan, sought to strengthen penalties for violent criminals by making firearm theft a felony and increasing penalties for those who carry illegal guns or use them in drug dealing. However, Democrats removed mandatory minimum sentencing increases, arguing they were too harsh. The bill passed the state Senate but was ultimately rejected in the House. GOP senators accused Democrats of undermining public safety by gutting the legislation, while Hogan's internal poll showed strong public support for the bill. Meanwhile, violent crime in Baltimore surged, with the mayor pleading for an end to senseless shootings to allow hospitals to treat coronavirus patients. The legislative session ended without addressing the crime issue, leaving many, including Democrats and Republicans, dissatisfied. END OF SUMMARY.

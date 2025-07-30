@@ -1,0 +1,36 @@
+Alright, so I've got this query where the user wants me to act as a news summarizer and moral expert. They provided a news article about the U.S. House impeachment hearing against Donald Trump. The task has two parts: first, identify all the single words that are morally framed, and second, write a summary preserving those moral framings.
+
+Let me start by understanding the article. It's about the impeachment process, the key points include the phone call with Ukraine's president, the pressure for investigations, military aid as leverage, the role of the whistleblower, and the political divide. The moral framing here is crucial because it's about ethics in office, misuse of power, and the integrity of the presidency.
+
+For the first step, I need to find all the single words that carry moral connotations. Words like "extraordinary," "terrible," "expect," "impeachable," "unusual," "witch hunt," "favor," "leverage," "partisan," "chaotic," "checks and balances," "abuse," "misconduct," "integrity," "accountability," "fairness," "justice." These words highlight the moral aspects of the situation.
+
+Next, the summary needs to include these words while being concise. I should ensure that the summary captures the essence of the impeachment inquiry, the key events, and the moral implications without exceeding 200 words. I'll structure it to mention the hearing, the main accusation, the phone call details, the whistleblower, the political divide, and the constitutional process involved.
+
+I also need to make sure the summary flows well and maintains the moral framing. It's important to mention both sides—Democrats and Republicans—to show the partisanship. Including terms like "checks and balances" and "abuse of power" reinforces the moral aspects. I'll avoid adding any personal opinions and stick strictly to summarizing the article with the identified moral words.
+
+Finally, I'll review the summary to ensure it's within the word limit and that all key points are covered. This way, the user gets a clear, morally framed summary of the impeachment hearing as per their request.
+</think>
+
+### STEP 1:
+* extraordinary  
+* terrible  
+* expect  
+* impeachable  
+* unusual  
+* witch hunt  
+* favor  
+* leverage  
+* partisan  
+* chaotic  
+* checks and balances  
+* abuse  
+* misconduct  
+* integrity  
+* accountability  
+* fairness  
+* justice  
+
+---
+
+### SUMMARY:  
+The U.S. House held its first public impeachment hearing for Donald Trump, focusing on whether he used his office to pressure Ukraine for personal political gain. Democrats allege Trump sought to investigate Joe Biden and his family in exchange for military aid, a move they deem an abuse of power. Republicans, including Trump, label the inquiry a "witch hunt." The hearing features testimonies from diplomats, including William Taylor and George Kent, who describe Trump's alleged misuse of foreign policy for political advantage. The Constitution sets a high bar for impeachment, and public opinion remains divided along partisan lines. This marks a significant moment in the constitutional system of checks and balances, as the nation grapples with questions of presidential integrity and accountability. The outcome could shape the future of the presidency and the balance of power in American governance. END OF SUMMARY.

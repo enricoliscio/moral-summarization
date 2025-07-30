@@ -1,0 +1,16 @@
+Alright, so the user has given me a task where I need to act as a news summarizer. They provided an article about a new crew settling into the International Space Station. My job is to summarize this article concisely, keeping it under 200 words. 
+
+First, I'll read through the article to understand the main points. The key elements are the arrival of the new crew, their mission duration, the tasks they performed upon arrival, the transfer of the cargo carrier, and the personal items they brought. 
+
+I need to make sure the summary includes all these points without going into too much detail. I'll start by mentioning the three astronauts and their arrival on Endeavour. Then, I'll note the tasks they did before settling in, like installing seat liners and storing suits. 
+
+Next, I'll highlight the change in command from Culbertson to Onufrienko and mention the duration of their stay. The transfer of the Raffaello carrier is important, so I'll include that with its contents and purpose. 
+
+Finally, I'll touch on the personal items each crew member brought, as it adds a human interest angle. I'll make sure the summary flows well and stays within the word limit. 
+
+I should also remember to format the summary correctly, starting with "SUMMARY:" and ending with "END OF SUMMARY." without any markdown. Keeping the language clear and straightforward is essential for a good summary.
+</think>
+
+SUMMARY:  
+Two American astronauts and a Russian cosmonaut joined the International Space Station (ISS) on Saturday, beginning a six-month mission. The crew, including Yuri Onufrienko, Daniel Bursch, and Carl Walz, arrived aboard the space shuttle Endeavour the previous day. They spent their first hours installing seat liners and stowing suits before fully settling in. Onufrienko, a fisherman, took materials to tie flies, while Bursch brought weaving supplies and Walz a keyboard for psychological support. The shuttle also transferred a cargo carrier, Raffaello, containing three tons of supplies to the station. The outgoing crew, led by Frank Culbertson, will return to Earth in a week after 128 days in space.  
+END OF SUMMARY.

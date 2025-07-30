@@ -1,0 +1,39 @@
+Okay, so the user has provided a news article about Kim Davis and wants a summary that preserves the moral framing. They also want me to identify all the morally framed single words first. 
+
+First, I need to read the article carefully. It's about Kim Davis, a county clerk in Kentucky, who's refusing to issue marriage licenses because of her religious beliefs, despite the Supreme Court ruling. The article is critical of her actions, calling her defiance illegal and morally wrong. 
+
+For the first step, I have to find all the single words that carry moral connotations. Words like "break," "deny," "refusing," "defy," "contempt," "illegal," "morally," "discriminate," "defiance," "tyranny," "hero," "stand," "conscience," "martyr," "illegality," "discrimination." These words are used to convey judgment or moral evaluation.
+
+Next, the summary needs to incorporate as many of these words as possible while staying under 200 words. I should structure it to highlight her defiance, the legal issues, the support from some politicians, and the broader implications. I need to make sure the moral framing is clear, showing that her actions are seen as wrong and leading to negative consequences.
+
+I should start by introducing Kim Davis and her refusal, mention the legal rulings against her, the contempt charge, and the support from certain politicians. Then, touch on the potential consequences and the impact on the political landscape. 
+
+I need to ensure the summary flows well and includes the key points without getting bogged down in too much detail. Also, keeping it concise is important to meet the word limit. 
+
+Let me draft the summary, making sure to include the morally charged words and maintain the critical tone of the original article. I'll check the word count to ensure it's under 200 words. 
+
+I think I've covered all the necessary points and included the moral framing elements. The summary should effectively convey the article's stance on Kim Davis's actions and their implications.
+</think>
+
+**STEP 1:**
+
+\*break  
+\*deny  
+\*refusing  
+\*defy  
+\*contempt  
+\*illegal  
+\*morally  
+\*discriminate  
+\*defiance  
+\*tyranny  
+\*hero  
+\*stand  
+\*conscience  
+\*martyr  
+\*illegality  
+\*discrimination  
+
+**SUMMARY:**  
+Kentucky county clerk Kim Davis is in federal court for defying the law and denying gay couples their constitutional rights, citing her religious beliefs. Despite the Supreme Court ruling in Obergefell v. Hodges, which legalized same-sex marriage nationwide, Davis refuses to issue marriage licenses to any couple. She has been ordered to fulfill her duties by the governor, a federal judge, and even the Supreme Court, yet she continues to defy the law. Her actions are seen as illegal and morally wrong, as she is sworn to uphold the Constitution but instead uses "God’s authority" as her justification. This stance appeals to a conservative movement that seeks to restore discriminatory practices against gay people. Several Republican presidential candidates, including Mike Huckabee, Rand Paul, and Bobby Jindal, have praised her defiance, framing her as a hero or standing up for conscience. However, others, like Carly Fiorina, have urged her to resign. If Davis is punished harshly, she could become a martyr, inspiring further defiance. Her actions highlight the tension between religious beliefs and constitutional obligations, with potential consequences for the political landscape.  
+END OF SUMMARY.

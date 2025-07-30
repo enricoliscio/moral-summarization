@@ -1,0 +1,16 @@
+Okay, I need to help the user by summarizing a news article while preserving the moral framing. The user provided the article and a list of morally framed words. My task is to create a concise summary, up to 200 words, that includes as many of those words as possible. 
+
+First, I'll read through the article to understand the main points. The article discusses the U.S. beginning to airlift Taliban and Al Qaeda prisoners to Guantanamo Bay. It mentions the conditions of the prisoners, the Pentagon's stance on their treatment, and reactions from organizations like Amnesty International. There's also information about military operations in the Philippines and Afghanistan, and some details about military spending.
+
+Next, I need to identify the morally framed words from the list that are present in the article. These include: crashed, died, accident, cruel, inhuman, degrading, uprisings, came, hostages, ransom, support, clear, owe, maintain, readiness, deception.
+
+I'll start the summary by mentioning the first airlift of prisoners, highlighting the use of "crashed" and "died" from the context of the Marine Corps tanker crash. Then, I'll note the Pentagon's approach and the criticism from Amnesty International about "cruel," "inhuman," and "degrading" treatment. 
+
+I'll also include the mention of uprisings in Mazar-i-Sharif and Pakistan, and the situation with hostages and ransom in the Philippines. The U.S. support for Philippine operations and the goal to "clear" the Abu Sayyaf group ties into the moral framing. 
+
+Additionally, I'll incorporate the parts about the U.S. owing resources to maintain readiness and the concern over deception by enemies. I'll ensure that the summary flows naturally while including these terms without making it sound forced.
+
+Finally, I'll make sure the summary is under 200 words and ends with the specified tokens. I'll review to ensure all key points are covered and that the moral framing is preserved as per the user's request.
+</think>
+
+SUMMARY: The U.S. has begun airlifting Taliban and Al Qaeda prisoners to Guantanamo Bay, with the first flight carrying 20 heavily guarded detainees. The Pentagon emphasized that the prisoners, shackled and hooded, were not classified as prisoners of war but would receive Geneva Convention protections. Critics, including Amnesty International, condemned the use of sedation and shackling as "cruel, inhuman, or degrading" treatment. The prisoners will be held in Camp X-Ray, where they face interrogation and potential trial. Meanwhile, a Marine Corps tanker crash in Pakistan killed seven marines, and the U.S. is preparing to send forces to the Philippines to support counterterrorism efforts against Abu Sayyaf guerrillas, who hold American hostages for ransom. Secretary of Defense Rumsfeld defended the use of strong measures, citing past uprisings by detainees. U.S. forces are also targeting Al Qaeda training camps in Afghanistan, while President Bush signed a $318 billion military spending bill, emphasizing the need to maintain readiness against enemies who rely on deception. END OF SUMMARY.

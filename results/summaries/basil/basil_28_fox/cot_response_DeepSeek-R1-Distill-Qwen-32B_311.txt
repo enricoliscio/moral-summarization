@@ -1,0 +1,34 @@
+Okay, so the user has given me a task where I need to act as a news summarizer assistant and a moral expert. They want me to summarize a news article while preserving the moral framing the author used. The process has two steps: first, identifying all the single words that are morally framed, and then writing a summary that includes as many of these words as possible.
+
+Starting with the first step, I need to go through the article and pick out words that carry a moral connotation. These are words that express approval or disapproval, right? So I'll look for words like "disdainful," "aggressive," "weakness," "shoddy," etc. I should list each of these on a new line, starting with an asterisk.
+
+Once I've identified all those words, I move on to summarizing the article. The summary needs to be concise, no more than 200 words, and it should include as many of the morally framed words as possible. I need to make sure the summary captures the key points of the debate, highlighting the aggressive tone from Biden, the accusations from Ryan, and the implications for the election race.
+
+I should structure the summary to include the main events: Biden's aggressive approach, the topics they debated (like the economy, foreign policy, Medicare), the specific criticisms each had, and the impact on the polls. I'll make sure to use the morally charged words to convey the tone and the stakes involved.
+
+I also need to keep the summary clear and factual, while still reflecting the moral framing. It's important to mention the candidates' arguments and how they positioned themselves against each other, emphasizing the heated nature of the debate and its potential impact on the race.
+
+Alright, I think I've got a good plan. I'll start by extracting all the morally framed words, then craft a concise summary that weaves those words in naturally, ensuring it's within the word limit and accurately reflects the article's content and tone.
+</think>
+
+**STEP 1:**  
+* Disdainful  
+* Aggressive  
+* Weakness  
+* Shoddy  
+* Malarkey  
+* Underhanded  
+* Weakness  
+* Weakness  
+* Weakness  
+* Weakness  
+* Weakness  
+* Weakness  
+* Weakness  
+* Weakness  
+* Weakness  
+* Weakness  
+* Weakness  
+
+**SUMMARY:**  
+In a feisty vice presidential debate, Vice President Biden aggressively attacked Paul Ryan, aiming to reset the campaign momentum after President Obama's lackluster debate performance. Biden directly criticized Mitt Romney's controversial "47 percent" comment, calling it disrespectful to hardworking Americans. Ryan countered by accusing Obama of weakness in foreign policy and the administration of presiding over a shoddy economic recovery. The debate, dominated by interruptions and sharp exchanges, focused on the economy, budget deficit, and foreign policy. Biden pledged to protect middle-class programs, while Ryan emphasized economic growth. Ryan criticized Obama's handling of the Libya attack, calling it a failure of leadership, while Biden dismissed his claims as "malarkey." The debate highlighted the high stakes as Romney gains traction in polls. Biden's aggressive performance contrasted with Obama's earlier weakness, signaling a shift in the campaign's tone. END OF SUMMARY.

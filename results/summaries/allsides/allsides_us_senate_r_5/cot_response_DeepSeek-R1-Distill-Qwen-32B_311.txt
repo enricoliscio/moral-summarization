@@ -1,0 +1,41 @@
+<think>
+Okay, so I need to help the user by summarizing a news article while preserving the moral framing. Let me break this down.
+
+First, the user provided a news article about Senator Lindsey Graham's actions regarding the nominations of Chuck Hagel and John Brennan. They want me to identify the morally framed words and then write a concise summary.
+
+Starting with Step 1: I need to find all the single words in the article that carry moral implications. Words like "hold up," "accounting," "help," "confirmation," "information," "filibuster," "opposed," "support," "back," "accountable," "delayed," "denied," "deceived," "stonewalled," "unprecedented," and "inappropriate." These words convey judgment or evaluation, which is the moral framing.
+
+Next, for the summary, I need to condense the article while keeping these moral terms. I should mention Graham's actions, the context of the Benghazi attacks, his demands for information, the opposition from Republicans, and the criticism from Democrats. I have to ensure the summary is under 200 words and includes as many moral words as possible without making it too verbose.
+
+I should structure the summary to include the key points: Graham's threat to delay confirmations, his demand for accountability, the specific questions about the White House's actions, the filibuster threat from Inhofe, Republican opposition, and Democratic criticism. I need to make sure each sentence flows logically and includes the moral terms where appropriate.
+
+I also need to be careful not to add any new information or interpretations beyond what's in the article. It's important to stay neutral while preserving the moral framing. I should avoid technical jargon and keep the language clear and straightforward.
+
+Let me draft the summary, making sure to include each morally framed word where it fits naturally. I'll start by stating Graham's threat, then his reasons, followed by the filibuster threat, the opposition, and the criticism from Democrats. I'll end by noting the ongoing debate and calls for accountability.
+
+I think that covers all the necessary points while adhering to the word limit and including the moral terms as required. I should review the summary to ensure it's concise and accurately reflects the article's content with the appropriate moral framing.
+</think>
+
+**STEP 1:**
+
+* Hold up
+* Accounting
+* Help
+* Confirmation
+* Information
+* Filibuster
+* Opposed
+* Support
+* Back
+* Accountable
+* Delayed
+* Denied
+* Deceived
+* Stonewalled
+* Unprecedented
+* Inappropriate
+
+---
+
+**SUMMARY:** Republican Sen. Lindsey Graham has threatened to delay the confirmation of President Obama’s nominees for the CIA and Defense Department, Chuck Hagel and John Brennan, until the White House provides a detailed accounting of its actions during the Benghazi attacks. Graham has criticized the administration for allegedly delaying, denying, deceiving, and stonewalling efforts to clarify the White House’s response to the tragedy. He demanded to know if the president contacted the Libyan government to assist the besieged U.S. outpost. Graham also vowed to hold Obama accountable for his leadership during the crisis. Meanwhile, Sen. James Inhofe threatened to filibuster Hagel’s nomination, requiring 60 votes for confirmation. Democrats criticized Graham’s actions as unprecedented and inappropriate, while Republicans opposed Hagel over concerns about his support for Israel and Iran policy. The debate over accountability and transparency continues to dominate the nominations process.  
+**END OF SUMMARY.**

@@ -1,0 +1,45 @@
+Alright, so the user has given me a query where I need to act as a news summarizer assistant and a moral expert. The task is to summarize a provided news article while preserving the moral framing that the author used. The user has specified two steps: first, identifying all single words with moral framing, and then writing a summary that includes as many of those words as possible, keeping it under 200 words.
+
+First, I need to understand the article. It's about the Obama Doctrine, discussing how President Obama's foreign policy has been criticized for being inconsistent and focused on appearances rather than real action. The author uses strong moral language to critique Obama's approach.
+
+For Step 1, I need to go through the article and pick out words that carry moral connotations. Words like "realism," "limits," "suffering," "innocents," "effective," "posturing," "anger," "determination," "evil," "short-term," "ineffective," "master," "emotional manipulator," "praise," "outrage," "scoffed," "casualties," "popularity," "dilettante," "dangerous," "unpopularity," "massive," "prolonged," "sustained," "posturing," "casualties." These words are used to convey judgment or evaluation, so they fit the moral framing.
+
+Next, for the summary, I need to condense the article into a concise version while retaining these moral terms. The summary should highlight the main points: the critique of Obama'sDoctrine as being about appearances, the inconsistency in his policies, and the negative outcomes like high casualties. I have to ensure that the summary flows naturally and doesn't exceed 200 words.
+
+I also need to make sure that the moral framing is preserved, so I'll include words like "realism," "limits," "suffering," "innocents," "effective," "posturing," etc. I'll structure the summary to show how Obama's actions, though appearing strong, lack commitment and result in continued conflicts and high casualties, thus criticizing his approach as ineffective and self-serving.
+
+I should also check that the summary accurately reflects the author's viewpoint without adding my own opinions. It's important to maintain the critical tone present in the original article.
+
+Finally, I'll format the response as per the user's instructions, starting with "STEP 1:" listing the moral words, followed by the "SUMMARY:" and ending with "END OF SUMMARY." I need to ensure that each step is clearly marked and that the summary is concise and within the word limit.
+</think>
+
+**STEP 1:**  
+* Realism  
+* Limits  
+* Suffering  
+* Innocents  
+* Effective  
+* Posturing  
+* Anger  
+* Determination  
+* Evil  
+* Short-term  
+* Ineffective  
+* Master  
+* Emotional manipulator  
+* Praise  
+* Outrage  
+* Scoffed  
+* Casualties  
+* Popularity  
+* Dilettante  
+* Dangerous  
+* Unpopularity  
+* Massive  
+* Prolonged  
+* Sustained  
+* Posturing  
+* Casualties  
+
+**SUMMARY:**  
+The article critiques the Obama Doctrine, arguing it prioritizes appearances over real action. Obama's foreign policy is described as inconsistent, with muscular intervention in Libya contrasted with inaction in Syria, Ukraine, and Nigeria. The author accuses Obama of emotional manipulation, using strong rhetoric to mask a lack of commitment to solving global crises. For example, in Egypt, Obama supported the removal of Hosni Mubarak but failed to prevent the Muslim Brotherhood's rise. In Iran, he condemned the suppression of democracy protesters but took no meaningful action. Similarly, in Syria, Obama's "red line" on chemical weapons was ignored, leading to Assad's continued rule and 200,000 deaths. The article concludes that Obama's approach, focused on short-term posturing, results in massive casualties and unpopularity, as global crises require sustained, not superficial, engagement. END OF SUMMARY.

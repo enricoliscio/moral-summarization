@@ -1,0 +1,18 @@
+Alright, so the user wants me to summarize a news article while preserving the moral framing the author used. They provided a specific list of morally framed words that I need to include. I need to make sure the summary is concise, under 200 words, and ends with the specified tokens.
+
+First, I'll read through the article to understand the main points. Hillary Clinton is contrasting her approach with Trump's, focusing on his intention to sue accusers. She emphasizes governance over personal vendettas. She also mentions the importance of conceding and the danger Trump poses to democracy. Additionally, she talks about the Senate race, which is part of her strategy.
+
+Now, I need to identify the key morally framed words: sue, unwanted, intent, avenging, suing, invested, concede, failing, leadership, dictatorship, disregard, jailed, jail, break. I should incorporate as many of these as possible without making the summary too long.
+
+I'll start by highlighting the contrast between Clinton and Trump's priorities. Then, mention the legal threats and how it's a distraction. Include the part about conceding and the comparison between leadership and dictatorship. Finally, touch on the Senate race and breaking gridlock.
+
+I should structure the summary to flow logically, ensuring each point is clear and the moral elements are emphasized. I'll keep each sentence focused to stay within the word limit.
+
+Let me draft it: Start with Clinton drawing a contrast, mention Trump suing accusers, his intent on avenging, Clinton's focus on governance, the Gettysburg speech, suing women, Clinton's emphasis on leadership vs. dictatorship, Trump's disregard, Clinton's point about jailing, and the Senate race to break gridlock.
+
+I need to make sure all the key points are covered and the moral words are included without forcing them. Also, check the word count to ensure it's under 200.
+
+After drafting, I'll review to ensure it's concise and all the necessary elements are present. Make sure the summary starts with "SUMMARY:" and ends correctly. Also, ensure that the moral framing is preserved as per the author's intent.
+</think>
+
+SUMMARY: Hillary Clinton and Tim Kaine criticized Donald Trump for focusing on personal grievances, such as suing women who accused him of unwanted advances, rather than governing. Clinton emphasized her commitment to leadership and preparing to address national priorities, contrasting Trump's intent to avenge personal scores. She highlighted Trump's threat to sue accusers, calling it a distraction from governance. Clinton also faulted Trump for failing to commit to conceding the election, comparing his behavior to dictatorship rather than leadership, and criticized his disregard for constitutional norms, such as his suggestion to jail her. Clinton tied Trump's actions to a dangerous disregard for democratic traditions. She also promoted Democratic Senate candidate Katie McGinty, emphasizing her role in breaking political gridlock and advancing policy change. END OF SUMMARY.

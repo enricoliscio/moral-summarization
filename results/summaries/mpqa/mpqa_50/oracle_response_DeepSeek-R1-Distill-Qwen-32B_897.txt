@@ -1,0 +1,14 @@
+Alright, I need to help the user by summarizing the given news article while preserving the moral framing. The user provided a detailed article about Zimbabwe's election and reactions from different countries. They also listed specific morally framed words that should be included in the summary.
+
+First, I'll read through the article to understand the main points. It talks about Mugabe's reelection, praised by African organizations like OAU and SADC, but condemned by Western countries. The article mentions the use of words like "free," "fair," "transparent," and "credible" from the African perspective, while Western countries use terms like "flawed," "violence," "intimidation," and "stolen."
+
+I need to create a concise summary, under 200 words, that includes as many of these moral terms as possible. I'll start by noting the key reactions: African support and Western criticism. I'll mention the OAU and SADC's positive assessments, using words like "free," "fair," "transparent," and "credible." Then, I'll contrast that with Western countries' negative views, using "flawed," "violence," "intimidation," and "stolen."
+
+I should also include the election results briefly, noting Mugabe's 56.2% and Tsvangirai's 41.96%. Additionally, mention the consequences like sanctions and aid cuts from Western countries.
+
+I need to structure this in a logical flow: introduce the election, then African support, followed by Western condemnation, and conclude with the implications. I'll ensure the summary stays within the word limit and includes all relevant moral terms without making it too lengthy.
+
+Finally, I'll check that the summary starts with "SUMMARY:" and ends with "END OF SUMMARY." to meet the user's formatting requirements.
+</think>
+
+SUMMARY: Zimbabwean President Robert Mugabe's reelection has been praised by African organizations like the OAU and SADC as "free, fair, transparent, and credible," while Western countries condemned the election as "flawed" and accused Mugabe of "stealing" the vote through "violence and intimidation." African leaders, including Tanzania's Benjamin Mkapa, hailed Mugabe as a "champion of democracy" and criticized Western interference, stating that Zimbabweans should decide their own leadership. Meanwhile, Western nations like the U.S., UK, France, Germany, and Denmark expressed concern over the election's legitimacy, with some threatening sanctions and aid cuts. Mugabe won 56.2% of the vote, marking the closest election since Zimbabwe's independence. END OF SUMMARY.

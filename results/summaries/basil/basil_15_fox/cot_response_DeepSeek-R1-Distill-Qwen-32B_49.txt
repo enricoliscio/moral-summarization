@@ -1,0 +1,35 @@
+<think>
+Okay, so I need to help the user with their query. They want me to act as a news summarizer assistant and a moral expert. The task is to summarize a given news article while preserving the moral framing. 
+
+First, I should break down the user's instructions. They have two main steps: identifying morally framed words and then writing a summary that includes those words. 
+
+Looking at the article, it's about Rep. Michele Bachmann and a Newsweek cover story. The article discusses how the cover was perceived as sexist and the reactions from various groups and individuals. 
+
+For the first step, I need to find all the single words that carry moral connotations. I'll go through the article and pick out words that express judgment or evaluation. Words like "sexist," "misogynistic," "dishonesty," "nut job," "scrum," "unflattering," "flattering," "prominent," "trust," "honest," "fair," "respect," "opportunity," and "equality" come to mind. Each of these words has a moral or evaluative aspect.
+
+Next, I need to summarize the article, making sure to include these morally framed words. The summary should be concise, under 200 words. I'll start by stating that Bachmann declined to comment on the cover. Then, mention Terry O'Neill's criticism, labeling it sexist and using the example of the "King of Rage." I should include the comparison to Howard Dean to show the double standard. Newsweek's defense about the photo and other flattering images is important. Bachmann's response and O'Neill's stance on supporting Bachmann despite their disagreements should be included to highlight the broader issue of sexism in media. Finally, Brent Bozell's criticism of Newsweek and Time for bias adds another moral angle. I'll conclude by noting the broader implications for women in politics.
+
+I need to ensure the summary flows well and includes all the key points with the moral words integrated naturally. I should avoid adding any extra information beyond what's in the article and keep it within the word limit. 
+
+I think I've covered all the necessary points. Let me structure the summary step by step, making sure each morally framed word is included where appropriate. That should fulfill the user's request accurately.
+</think>
+
+**STEP 1:**  
+* sexist  
+* misogynistic  
+* dishonesty  
+* nut job  
+* scum  
+* unflattering  
+* flattering  
+* prominent  
+* trust  
+* honest  
+* fair  
+* respect  
+* opportunity  
+* equality  
+
+**SUMMARY:**  
+Rep. Michele Bachmann has declined to comment on Newsweek's cover story calling her "The Queen of Rage," but critics argue the magazine's portrayal is sexist and misogynistic. Terry O'Neill of the National Organization for Women criticized the cover, noting that such language would not be applied to a male candidate, calling it "nut job" rhetoric. Newsweek defended the photo, stating it was consistent with other images of Bachmann, some of which were flattering. Bachmann, campaigning in Iowa, said she hadn't seen the cover but acknowledged the controversy. O'Neill emphasized the need to protect women running for office from such attacks, even though she opposes Bachmann's policies. Brent Bozell of the Media Research Center accused Newsweek and Time of journalistic dishonesty, urging conservatives to avoid such outlets. The debate highlights broader concerns about sexism and fair treatment of female politicians in media.  
+**END OF SUMMARY.**

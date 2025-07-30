@@ -1,0 +1,16 @@
+Alright, I need to help the user by summarizing the given news article while preserving the moral framing. The user specified that I should use as many of the listed morally framed words as possible. Let me start by reading the article carefully to understand the main points and the moral implications.
+
+The article discusses how cyberattacks and fears of hacking have impacted American democracy. It mentions that even if there's no actual tampering, the fear itself is causing significant issues. Key points include the survey results showing high concern among Americans, the potential deterrence of voters, and the accusations involving Russia and Guccifer 2.0. Experts suggest that the real impact is on public trust and confidence in the election process.
+
+Now, I need to identify the morally framed words from the list provided and ensure they are included in the summary. Words like "cyberattacks," "fraud," "hacks," "campaign," "orchestrating," "breach," "undermine," "deter," "fear," "manipulation," "impact," "influence," "alter," "attacking," "organizing," "integrity," "transparency," "tampered," "tampering," "disrupting," and "cyberattack" are central to the moral framing here.
+
+I should structure the summary to highlight the fear caused by cyberattacks, the impact on voter turnout, the accusations against Russia, the potential for influencing public opinion, and the need for integrity and transparency. I'll make sure to use the specified words to maintain the moral tone.
+
+Let me draft the summary, keeping it concise and within 200 words. I'll start by mentioning the cyberattacks and their impact, then the survey results, the accusations, the potential disruption, and conclude with the importance of integrity and transparency.
+
+I need to ensure that each paragraph flows logically, covering all key points without being too verbose. Also, I should avoid introducing new information not present in the article. Let me check the word count as I go to stay within the limit.
+
+Finally, I'll make sure the summary starts with "SUMMARY:" and ends with "END OF SUMMARY." to meet the user's formatting requirements.
+</think>
+
+SUMMARY: The article highlights the profound impact of cyberattacks and fears of election tampering on American democracy. Despite no concrete evidence of hacking, the widespread concern has deterred 15 million potential voters. Russia has been accused of orchestrating a disinformation campaign to undermine trust in the election, with Guccifer 2.0 claiming responsibility for hacks and hinting at further tampering. Experts warn that even credible claims of hacking could influence public opinion and erode confidence in the electoral process. State officials are on high alert for any signs of fraud or manipulation, but the fear of cyberattacks has already disrupted voter turnout. The complexity of the U.S. election system makes direct hacking difficult, but the spread of fear and manipulation through social media and news outlets could have a lasting impact on public integrity and transparency. The article underscores the vulnerability of democratic processes to cyber threats and the importance of maintaining trust in the electoral system. END OF SUMMARY.

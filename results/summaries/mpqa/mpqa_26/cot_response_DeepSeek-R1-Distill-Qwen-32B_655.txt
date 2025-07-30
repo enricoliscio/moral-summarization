@@ -1,0 +1,32 @@
+<think>
+Okay, so I need to help the user with summarizing a news article while preserving the moral framing. Let me start by understanding what the user is asking for. They want me to first identify all the single words that are morally framed in the article. Then, I need to write a concise summary that includes as many of those moral words as possible, keeping it under 200 words.
+
+First, I'll read through the article carefully to spot any words that carry a moral connotation. Words like "irritated," "admissible," "unilateralist," "fiendish," "indignation," "do-it-our-way," "slight," "ambitious," "backing out," "hurt," "dominance," "sluggish," "dire," "fiendish," and "weeping" stand out as having moral implications. These words convey judgment or evaluation, which is key for moral framing.
+
+Next, I need to craft a summary that includes these words. The summary should capture the main points: the US's decision not to ratify the Kyoto Protocol, Japan's irritation, the implications for global efforts, and the differing views between environmentalists and industry. I'll make sure to include the morally framed words to preserve the author's tone and perspective.
+
+I should structure the summary to flow logically, starting with the US stance, Japan's reaction, the impact on international relations, and the alternatives proposed. I'll keep each sentence concise to stay within the word limit. Let me piece this together, ensuring that each moral word is appropriately placed without forcing them in unnaturally.
+
+Finally, I'll review the summary to make sure it's under 200 words and that all key points are covered. I need to maintain the moral framing without making the summary feel disjointed. It's important that the summary reflects the original article's concern about the US's stance and its implications on global cooperation and environmental efforts.
+</think>
+
+**STEP 1:**  
+* Irritated  
+* Admissible  
+* Unilateralist  
+* Fiendish  
+* Indignation  
+* Do-it-our-way  
+* Slight  
+* Ambitious  
+* Backing out  
+* Hurt  
+* Dominance  
+* Sluggish  
+* Dire  
+* Fiendish  
+* Weeping  
+
+**SUMMARY:**  
+The article highlights the moral and political tensions surrounding the US decision not to ratify the Kyoto Protocol, irritating Japan and other allies. Climate experts warn of dire consequences like coral reef death and polar bear extinction due to global warming. Japan, proud of its role in shaping the Protocol, condemns the US for its unilateral stance, calling it "inadmissible" for the largest emitter of greenhouse gases to abandon the agreement. The US's "do-it-our-way" approach has sparked indignation, with critics accusing Washington of growing increasingly unilateralist since September 11. Environmental advocates fear the US alternative plan will allow continued emissions growth, risking a two-tier system where smaller nations may back out of Kyoto. While Japanese industry claims to have already made strides in energy efficiency, some argue further emissions reductions could hurt competitiveness. The clash over global warming solutions reflects broader concerns about US leadership and international cooperation.  
+**END OF SUMMARY.**

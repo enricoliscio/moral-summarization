@@ -1,0 +1,15 @@
+<think>
+Alright, I need to help the user by summarizing the provided news article while preserving the moral framing. The user specified that I should focus on the morally charged words and ensure they're included in the summary. 
+
+First, I'll read through the article to understand the main points. The IHRC is concerned about the return of force and weapons in international relations. They highlight the efforts made to honor human rights through various documents but express disappointment that these haven't been materialized. They mention the Durban conference as a turning point and criticize countries that resort to military power, trampling human rights. They also call out Israel's actions and support for international monitors.
+
+Next, I'll identify the morally framed words the author used. These include force, weapon, formulated, honor, losses, suffered, signed, promote, stop, violation, prohibition, discrimination, torture, detention, honoring, materialized, injustice, attacks, dry, terrorism, peace, security, resort, trampling, bombing, terrorist, halt, killing.
+
+I need to make sure these words are included in the summary. I'll structure the summary to cover the IHRC's concerns, the international efforts, the Durban conference, the criticism of military actions, the call for respecting human rights, and the specific criticism of Israel.
+
+I should keep the summary concise, under 200 words, and ensure it flows logically. I'll start with the IHRC's concern, mention the international efforts, the Durban conference, the criticism of military actions, and end with the call for peace and the specific actions against Israel.
+
+Now, I'll draft the summary, making sure to incorporate as many of the moral terms as possible without making it too verbose. I'll check the word count to ensure it's within the limit. Finally, I'll make sure the summary starts with "SUMMARY:" and ends with "END OF SUMMARY." as instructed.
+</think>
+
+SUMMARY: The Tehran-based Islamic Human Rights Commission (IHRC) expressed concern over the resurgence of force and weapons in international relations, emphasizing the need to honor human rights. Despite numerous documents signed to promote human rights and stop violations, the IHRC regrets that the provisions of the international declaration for human rights have not been materialized. The organization condemned discrimination, torture, arbitrary detention, and urged the prohibition of such practices. It highlighted the Durban conference as a turning point in the fight for human rights but criticized countries that resort to military power, trampling upon civilians' rights. The IHRC stressed the importance of respecting human rights, as peace cannot be established without honoring them. It also deplored injustice against the Palestinian nation and called for an end to terrorism and targeted killings. Meanwhile, UN High Commissioner Mary Robinson urged Israel to halt bombing and allow international monitors, denouncing its actions as terrorist attacks. END OF SUMMARY.

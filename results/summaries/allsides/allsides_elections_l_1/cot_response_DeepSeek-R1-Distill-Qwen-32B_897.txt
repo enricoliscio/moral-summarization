@@ -1,0 +1,51 @@
+Okay, so I've got this query where the user wants me to summarize a news article while preserving the moral framing. They also want me to identify all the single words that are morally framed in the text. Hmm, let me break this down.
+
+First, I need to understand what the user is asking for. They're a news summarizer and a moral expert, so they want a summary that reflects the original article's moral perspective. The article is about Trump's Tulsa rally, where he's making a lot of controversial statements. 
+
+The user has two main steps: Step 1 is to identify all the single words that carry moral framing. That means I need to look for words that have a strong positive or negative connotation. Words like "enemies," "anarchists," "sinister," "dishonest," etc. I should list each of these with a bullet point.
+
+Step 2 is to write a concise summary, keeping as many of those morally framed words as possible. The summary needs to be under 200 words and should capture the essence of the article, highlighting Trump's tactics and the moral implications.
+
+I should start by reading the article thoroughly to identify those morally charged words. Words like "enemies," "sinister," "dishonest," "hateful," "animals," "violence," etc., stand out. These words are used to describe various groups and actions, which helps in understanding the moral framing.
+
+For the summary, I need to condense the article, focusing on Trump's strategy to rally his base by attacking others rather than discussing his achievements. I'll mention how he uses derogatory terms, appeals to violence, and dismisses the pandemic's impact. It's important to keep the tone critical, as the original article is quite harsh on Trump's approach.
+
+I should ensure that the summary flows well and includes the key points: his focus on enemies, the use of derogatory language, the dismissal of the pandemic, and the encouragement of violence. Also, noting his appeal to constitutional subversion ties it all together, showing the broader implications of his rhetoric.
+
+I need to make sure the summary doesn't exceed 200 words and that it's clear and concise. Including the morally framed words will help preserve the original article's tone and message.
+
+Alright, putting it all together, I'll first list all the identified words, then craft a summary that encapsulates Trump's tactics and the moral issues highlighted in the article. I should double-check to ensure all key points are covered and that the summary stays within the word limit.
+</think>
+
+**STEP 1:**  
+* Enemies  
+* Anarchists  
+* Journalists  
+* Democrats  
+* Illegal aliens  
+* Prosperity  
+* Strife  
+* Killed  
+* Joking  
+* Tested  
+* Infected  
+* Recover  
+* Sadistic  
+* Vicious  
+* Hateful  
+* Sinister  
+* Dishonest  
+* Boo  
+* Radical left  
+* Ripped  
+* Expensive  
+* Radical  
+* Rioters  
+* Thugs  
+* Animals  
+* Subversion  
+* Destruction  
+* Violence  
+
+**SUMMARY:**  
+At his Tulsa rally, President Trump sought to reignite his reelection campaign by focusing on division and enmity rather than achievements. He attacked journalists, Democrats, undocumented immigrants, and others, labeling them "sadistic," "vicious," and "sinister." Trump dismissed the 120,000 COVID-19 deaths, joking about reduced testing and trivializing the virus. He accused Democrats of being behind protests and anarchists, while encouraging violence against rioters, calling them "thugs" and "animals." Trump also mocked Rep. Alexandria Ocasio-Cortez and threatened D.C. Mayor Muriel Bowser, linking her to the cost of statue removal. He insinuated that Rep. Ilhan Omar, a naturalized citizen, would impose Somali governance in the U.S. Trump praised ICE agents for using force and suggested sending troops to quell protests, expressing enthusiasm for potential violence. His rhetoric emphasized hatred, lies, and constitutional subversion, with little regard for unity or public health. END OF SUMMARY.

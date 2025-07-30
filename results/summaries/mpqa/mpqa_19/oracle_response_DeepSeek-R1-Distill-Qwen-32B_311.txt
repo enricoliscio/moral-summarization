@@ -1,0 +1,16 @@
+Alright, let me try to figure out how to approach this query. The user wants me to act as a news summarizer and a moral expert. They provided a news article and asked for a summary that preserves the moral framing the author used. 
+
+First, I need to understand what's in the article. It's about Tony Blair disagreeing with Australia's decision to sign a climate deal with the US. The article mentions the Kyoto Protocol, which Australia is still committed to, but critics think Australia is moving away from it by aligning with the US, who doesn't support Kyoto. Blair is critical of the US's stance and expresses concern about climate change.
+
+Next, the user specified that I should preserve the morally framed words. I remember the user listed words like "disagreed," "deny," "dumping," "cosying up," "hurt," "targets," "commitment," "should not follow," "obvious disagreement," and "concerned." I need to make sure these words are included in the summary.
+
+I should start by identifying the main points: Blair's disagreement, Australia's partnership with the US, the denial of abandoning Kyoto, critics' opinions, the future decision on Kyoto, and Blair's personal concern. 
+
+I need to condense this into a summary under 200 words. I'll make sure to include the morally charged words and structure the summary to reflect the author's perspective, which seems critical of Australia's move and supportive of the Kyoto Protocol.
+
+Let me draft the summary, ensuring it's concise and includes all the key points and moral terms. I'll check the word count to stay within the limit. 
+
+I think that's a solid approach. Time to put it all together.
+</think>
+
+SUMMARY: British Prime Minister Tony Blair expressed disagreement with Australia's decision to sign a climate change deal with the United States, criticizing the move as a potential "dumping" of the Kyoto Protocol. Australia's Federal Government denied abandoning Kyoto, claiming the new "climate action partnership" with the US focuses on collaboration between governments, businesses, and researchers. Critics argue that Australia is "cosying up" to the US, which opposes the protocol, despite maintaining its commitment to Kyoto. The future of the protocol, aimed at reducing greenhouse gas emissions, will be decided at a meeting in Johannesburg. Environment Minister David Kemp's spokeswoman emphasized Australia's ongoing commitment to Kyoto, while Opposition spokesman Kelvin Thomson urged Australia not to follow the US position. Blair acknowledged an "obvious disagreement" with the US on climate change, though he also criticized Kyoto for not going far enough. He expressed growing concern about the issue, stating, "The more I read about climate change, the more concerned I become." END OF SUMMARY.

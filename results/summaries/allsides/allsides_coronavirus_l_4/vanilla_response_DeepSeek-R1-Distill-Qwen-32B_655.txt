@@ -1,0 +1,16 @@
+Alright, so the user wants me to summarize a news article. They provided the article and specified the format, which includes a "SUMMARY:" token and "END OF SUMMARY." token, with a word limit of 200 words. 
+
+First, I need to read through the article to understand the main points. The article talks about the handling of the coronavirus pandemic by Democratic leaders, particularly Governor Cuomo in New York, and compares it to Republican governors in Arizona, Florida, and Texas. It mentions Cuomo's decisions leading to high fatalities in nursing homes, while Florida had fewer deaths. It also discusses the political implications, like the impact of mass protests and the resistance to mask mandates in red states. 
+
+I should identify key events and figures. Cuomo's policies led to over 6,000 deaths in nursing homes, while Florida had a lower rate. The article contrasts this with the actions of Republican governors who didn't enforce mask mandates and even blocked cities from doing so. There's also mention of the political divide, where conservatives see pandemic measures as social control, leading to harassment of public health workers. 
+
+The summary needs to be concise, so I'll focus on the main points: Cuomo's policies, comparison with Florida, Republican governors' actions, the political divide, and the ongoing pandemic despite other countries recovering. 
+
+I'll structure the summary to first mention Cuomo's mistakes, then compare with Florida, discuss the Republican governors' inaction, touch on the political resistance, and conclude with the pandemic's impact in red states versus other countries. 
+
+I need to keep it under 200 words, so I'll be brief but comprehensive. Also, ensure it starts with "SUMMARY:" and ends with "END OF SUMMARY." without any markdown.
+
+Let me draft this, making sure each point is covered succinctly. Check the word count to stay within limits. Make sure it flows logically and covers all critical aspects without unnecessary details.
+</think>
+
+SUMMARY: The article discusses the failure of Democratic leaders, particularly New York Governor Andrew Cuomo, in handling the COVID-19 pandemic. Cuomo's decision to force nursing homes to accept hospitalized residents without testing led to over 6,000 deaths in New York's nursing facilities. In contrast, Florida, which prohibited such transfers, saw only 1.6% of its nursing home residents die. While Cuomo eventually imposed a lockdown, other states like Arizona, Florida, and Texas have resisted basic measures like mask mandates, with some governors even blocking cities from enforcing them. The article also highlights the political divide, as conservatives view pandemic restrictions as hypocritical social control, fueled by mass protests and anti-lockdown sentiment. Public health workers face harassment and threats, and as the U.S. pandemic worsens, with over 120,000 deaths, the political will to contain the virus remains absent in many red states. Meanwhile, countries with competent leadership are recovering, while the U.S. continues to struggle. END OF SUMMARY.

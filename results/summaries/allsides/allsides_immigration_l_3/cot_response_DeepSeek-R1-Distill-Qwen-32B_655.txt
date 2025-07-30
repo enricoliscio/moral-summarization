@@ -1,0 +1,34 @@
+Okay, I need to help the user by summarizing the news article while preserving the moral framing. The user provided a detailed article about the Trump administration's response to a migrant caravan. They also specified a two-step process: first, identifying morally framed words, and then writing a concise summary.
+
+Starting with STEP 1, I should go through the article and pick out words that carry moral connotations. Words like "fear," "illegal," "infiltrated," "sinister," "harassment," "disconnected," "humanitarian," "justice," "emergency," "opportunity," "fairness," "equality," and "oppression" stand out because they relate to moral judgments or ethical issues.
+
+For the summary, I need to condense the article into under 200 words, making sure to include these morally charged words. I should focus on the key points: the deployment of troops, the moral implications of the administration's actions, the migrants' situation, and the political context. I'll structure the summary to highlight the administration's tough stance, the moral concerns from both sides, and the broader implications of the situation.
+
+I should ensure the summary flows logically, starting with the deployment, moving to the moral framing, and ending with the political motivations and the migrants' perspective. I need to keep it concise but comprehensive, capturing the essence of the article without losing the moral nuances.
+
+Let me check the word count to make sure it's within the limit. I'll also ensure that all the key elements are covered: the number of troops, the asylum process, the administration's justification, the migrants' reasons, and the political strategy. This way, the summary will effectively convey the moral dimensions as presented in the original article.
+</think>
+
+**STEP 1:**
+
+* Fear  
+* Illegal  
+* Infiltrated  
+* Sinister  
+* Harassment  
+* Disconnected  
+* Humanitarian  
+* Justice  
+* Emergency  
+* Opportunity  
+* Fairness  
+* Equality  
+* Oppression  
+
+---
+
+**SUMMARY:**  
+
+Homeland Security Secretary Kirstjen Nielsen stated that U.S. soldiers have "no intention" of shooting migrants attempting to cross the border from Mexico, though they will be apprehended. The Trump administration plans to deploy 800 active-duty troops to the southern border, as part of efforts to address a caravan of thousands of Central American migrants fleeing violence, poverty, and gangs. While the government emphasizes the safety of border agents, it is also considering denying asylum applications, potentially using emergency powers. Trump has framed the caravan as a national emergency, linking it to election-year fears about illegal immigration and painting the migrants as a threat. Migrants, many of whom are families seeking a better future, remain largely unaware of the political storm their journey has sparked. The administration's actions raise moral questions about humanitarian treatment, justice, and fairness, as the caravan continues its northward journey.  
+
+**END OF SUMMARY.**

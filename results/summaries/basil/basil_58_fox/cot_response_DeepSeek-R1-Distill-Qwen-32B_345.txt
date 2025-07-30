@@ -1,0 +1,46 @@
+<think>
+Okay, so the user wants me to act as a news summarizer and a moral expert. They provided a specific news article about Chris Christie announcing his candidacy. The task is to first identify all the morally framed words and then write a summary preserving those moral elements.
+
+First, I need to read the article carefully. The key points are Christie's announcement, his uphill climb, low poll numbers, fundraising deficit, scandals, plummeting popularity, establishment favorite, mega-donors drifting to rivals like Jeb Bush, and his personality traits like brash, challenging, combative, and his town hall skills.
+
+For the first step, I need to list all the single words that carry moral connotations. Let's go through the text:
+
+- "Throw his hat in the ring" is more of an idiom, but "hat" isn't a moral word.
+- "White House run" – "run" isn't moral.
+- "Expected" – not moral.
+- "Announcement" – neutral.
+- "Uphill climb" – metaphor, not a word.
+- "Low poll numbers" – "low" is neutral, "numbers" too.
+- "Fundraising deficit" – "deficit" is negative but not moral.
+- "Status as establishment favorite" – "favorite" is neutral, but "establishment" could have connotations.
+- "Scandals" – definitely negative, moral.
+- "Plummeting popularity" – "plummeting" is negative, "popularity" neutral.
+- "Mega-donors" – neutral.
+- "Drift toward rivals" – "drift" neutral, "rivals" neutral.
+- "Maestro of town hall meetings" – "maestro" is positive, but it's a noun, not a single word.
+- "Brash, challenging, combative" – all adjectives with moral connotations.
+- "Main asset" – "asset" neutral.
+- "Questions from residents" – neutral.
+- "Enraged" – negative.
+- "Laughing, weeping, hoping" – emotional but not necessarily moral.
+- "Clasp their hand" – neutral.
+
+So the morally framed words I can extract are: scandals, brash, challenging, combative, enraged. Wait, "enraged" is more of an emotional state, but it's influenced by moral judgment. Similarly, "scandals" are moral issues. "Brash," "challenging," and "combative" describe his personality in a way that's morally charged.
+
+Now, for the summary, I need to include these words and preserve the moral framing. The summary should be concise, under 200 words, and capture the essence of the article, highlighting both the challenges and his personality strengths.
+
+I should start by mentioning Christie's announcement, his uphill climb, low polls, fundraising issues, scandals, and the shift in donors. Then, note his personality traits and town hall effectiveness. Make sure to include the morally framed words to maintain the author's tone.
+
+Putting it all together, the summary should flow logically, starting with the announcement, moving to his challenges, then his strengths. I'll make sure to include each of the identified moral words where appropriate.
+</think>
+
+**STEP 1:**
+* Scandals  
+* Brash  
+* Challenging  
+* Combative  
+* Enraged  
+
+**SUMMARY:**  
+New Jersey Governor Chris Christie is set to announce his candidacy for the 2016 presidential race, though he faces significant challenges. His low poll numbers, fundraising deficit, and scandals have diminished his status as the GOP establishment favorite, causing mega-donors to shift support to rivals like Jeb Bush. Despite these hurdles, Christie’s brash, challenging, and combative personality could be his key asset. Known for his town hall meetings, he engages directly with constituents, leaving some enraged but resonating with many others. His campaign hinges on leveraging his bold style to connect with voters.  
+**END OF SUMMARY.**

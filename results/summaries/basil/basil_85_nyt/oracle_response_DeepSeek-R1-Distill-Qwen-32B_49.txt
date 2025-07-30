@@ -1,0 +1,12 @@
+Alright, so the user wants me to summarize a news article while preserving the moral framing the author used. They provided a list of morally charged words that need to be included. I need to make sure the summary is concise, under 200 words, and ends with the specified tokens.
+
+First, I'll read through the article to understand the main points. Trump is accusing social media of discriminating against conservatives, citing censorship and dangerous consequences. He's hinting at intervention. The platforms have been removing accounts involved in misinformation and division, especially targeting Alex Jones. Trump also brings up China's influence, suggesting they're worse than Russia.
+
+Next, I need to identify the key morally framed words from the author's list. Words like "discriminating," "censorship," "dangerous," "division," "disrupt," "hateful," "violent," "point," "infiltrated," "smart," "tough," "prepared," "speech," "violating," "inciting," "violence," "participate," "fake," "attacks," "hostility."
+
+I'll structure the summary to include these words. Start with Trump's accusations, mention the platforms' actions against misinformation and Alex Jones. Then, touch on Trump's suggestion about China and his stance on allowing everyone to participate. Finally, note his criticism of media as fake news and his hostility towards press freedom.
+
+I need to keep each sentence tight, ensuring all key points and moral terms are included without exceeding the word limit. Let me draft that and check the word count.
+</think>
+
+SUMMARY: President Trump accused social media platforms of discriminating against conservative voices, calling censorship "dangerous" and vowing to prevent it. Social media companies have been cracking down on accounts spreading misinformation and division, including banning Alex Jones for hateful and violent speech. Trump hinted at potential intervention, urging platforms to "let everybody participate, good & bad," while criticizing media outlets like CNN and MSNBC as "fake news." He also pointed to China's alleged infiltration of the election system, urging a tougher stance. Trump's comments reflect his ongoing hostility toward press freedoms and his affinity for conspiracy theories. The platforms have struggled to balance enforcing policies against hate speech while avoiding accusations of bias. END OF SUMMARY.

@@ -1,0 +1,36 @@
+Alright, so the user has given me a query where I need to act as a news summarizer assistant and a moral expert. They want me to summarize a news article while preserving the moral framing the author used. The task has two parts: first, identifying all the morally framed single words, and second, writing a concise summary that includes as many of those words as possible.
+
+First, I need to understand what morally framed words are. These are words that carry a positive or negative connotation related to ethics or values. In the article, I should look for words that express approval or disapproval.
+
+Looking at the article, I see words like "congratulates," "victory," "justice," "freedom," "anti-democratic," "failed," "legitimate," "exalted," "success," "condemned," "ouster," "coup," "force," "norms," "acceptable," "unacceptable," "staunch supporter," "successful," "initiated." These words carry moral judgments, either positive or negative.
+
+Next, I need to summarize the article. The key points are Khatami congratulating Chavez, the failed coup, the restoration of democracy, Iran's support, Chavez's goals, and the impact on OPEC. I should make sure to include the morally framed words to preserve the author's perspective.
+
+I have to keep the summary under 200 words, so I'll focus on the main events and the moral stance taken by Iran and Chavez. I'll structure it to highlight the support for democracy, the rejection of coups, and Chavez's commitment to OPEC.
+
+Putting it all together, the summary should reflect Iran's approval of Chavez's return, the failure of the coup, and the emphasis on justice and freedom. I'll ensure that the morally framed words are included to maintain the original tone.
+</think>
+
+**STEP 1:**  
+* congratulates  
+* victory  
+* justice  
+* freedom  
+* anti-democratic  
+* failed  
+* legitimate  
+* exalted  
+* success  
+* condemned  
+* ouster  
+* coup  
+* force  
+* norms  
+* acceptable  
+* unacceptable  
+* staunch supporter  
+* successful  
+* initiated  
+
+**SUMMARY:**  
+President Mohammad Khatami congratulated Venezuela for the restoration of President Hugo Chavez's legitimate government after a failed military coup. Khatami described the event as a victory for justice and freedom, expressing hope that Chavez's government would achieve its goals with popular support. Chavez thanked Iran for its support and briefed Khatami on the coup's aftermath, emphasizing that the coup aimed to undermine OPEC by increasing oil production. Iran condemned the coup, stating that it was an unacceptable method of political change. Chavez returned to power, resuming his role as a staunch supporter of oil production cuts to boost global prices. The two leaders also expressed a desire to meet soon. END OF SUMMARY.

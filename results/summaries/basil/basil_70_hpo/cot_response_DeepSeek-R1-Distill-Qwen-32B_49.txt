@@ -1,0 +1,19 @@
+Alright, so I need to help the user by summarizing this news article while preserving the moral framing. First, I'll read through the article to understand the key points. The article is about Donald Trump becoming president, his background, the election details, and some factors that influenced his victory.
+
+The user wants me to identify all the single words that are morally framed. I should go through each sentence and pick out words that carry a moral or ethical connotation. For example, "unlikely journey" might imply that his path was unconventional or surprising. "Angry" suggests frustration with the establishment. "Capitalize" could mean taking advantage of a situation, which might have a negative connotation. "Stolen" clearly has a negative moral implication. "Reopen" might imply interference or undermining. "Total" here just refers to the sum, so maybe not morally framed. "Counted on" is more about expectation, not necessarily moral. "Highest office" is neutral, so I'll leave that out.
+
+Next, I need to write a concise summary that includes as many of these morally framed words as possible. I should mention Trump's journey, the anger in the GOP, capitalizing on that, the stolen emails, the FBI's reopening, and the narrow victory. I'll make sure the summary flows well and stays under 200 words.
+
+I should also structure my response by first listing the morally framed words and then providing the summary. The user specified using "STEP 1:" and "SUMMARY:" tokens, so I'll follow that format. I'll make sure each step is clear and that the summary accurately reflects the article while highlighting the moral aspects.
+</think>
+
+**STEP 1:**  
+* unlikely  
+* angry  
+* capitalize  
+* stolen  
+* reopen  
+
+**SUMMARY:**  
+Donald Trump became the 45th U.S. President after a 584-day journey from announcing his candidacy to taking the oath of office. Trump, a former real estate developer and reality TV star, won the Republican nomination despite facing 16 other candidates, many with more political experience. He capitalized on a primary voting base angry at the establishment GOP for not challenging President Obama’s policies. In the general election, Trump trailed Hillary Clinton but benefited from stolen Democratic emails and FBI Director James Comey’s decision to reopen the investigation into Clinton’s private email server. Trump narrowly won Wisconsin, Michigan, and Pennsylvania by a total of 78,000 votes, securing the presidency despite Clinton’s expectations.  
+**END OF SUMMARY.**

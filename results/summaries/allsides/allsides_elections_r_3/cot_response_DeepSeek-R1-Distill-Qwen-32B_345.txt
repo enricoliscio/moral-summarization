@@ -1,0 +1,53 @@
+Alright, I'm looking at this query where the user wants me to act as a news summarizer assistant and a moral expert. They provided a detailed news article and specific instructions on how to process it. First, I need to understand the task thoroughly.
+
+The user has two main steps: identifying morally framed words and then summarizing the article while preserving those moral terms. I should start by reading the article carefully to spot words that carry moral connotations. Words like "ruthless," "scandal," and "dishonest" come to mind. I'll list each of these under STEP 1, each on a new line with a *.
+
+Next, for the summary, I need to condense the article into 200 words, making sure to include as many of the identified moral words as possible. The summary should highlight the comparison between Hillary Clinton and Nixon, their unethical campaign tactics, and the implications of the scandals. I'll structure it to show how both politicians engaged in similar morally questionable actions, the role of WikiLeaks, and the potential consequences for Clinton's campaign.
+
+I should ensure the summary flows logically, starting with the exposure of Clinton's tactics, comparing them to Nixon's, detailing specific unethical actions, and concluding with the uncertain outcome due to media support. This approach maintains the moral framing while providing a concise overview of the article.
+
+I also need to remember to use the specified tokens: "STEP 1:" and "SUMMARY:" with the end token. Keeping the summary within the word limit is crucial, so I'll focus on the key points without going into too much detail.
+
+Finally, I'll review the summary to ensure it accurately reflects the article's moral perspective and that all important points are covered succinctly. This way, the user gets a clear, morally framed summary that meets their requirements.
+</think>
+
+**STEP 1:**  
+* Ruthless  
+* Scandal  
+* Sloppy  
+* Dishonest  
+* WikiLeaks  
+* Pay-for-play  
+* Profiteering  
+* Trumped  
+* Skullduggery  
+* Cynical  
+* Ruthlessness  
+* Moral compass  
+* Needy  
+* Stuck  
+* Bartered  
+* Tipped off  
+* Tricky Dick  
+* Anything-goes  
+* Plumbers  
+* Disrupt  
+* Ambush  
+* Provoking violence  
+* Illegal ballots  
+* Wheeler-dealer  
+* Flexibility  
+* Hinged  
+* Lied  
+* Cover-up  
+* Stonewalling  
+* Disgraced  
+* Jailed  
+* Humiliated  
+* Deceiving  
+* Hubris  
+* Comeuppance  
+
+**SUMMARY:**  
+The article compares Hillary Clinton's political tactics to those of Richard Nixon, labeling her as "ruthless" and "dishonest." Clinton is accused of engaging in "pay-for-play profiteering" through the Clinton Foundation and leveraging her position for financial gain, similar to Nixon's "anything-goes" campaign style. WikiLeaks revelations reveal Clinton's aides bartered for her face time, mocked Latinos as "needy," and Catholics as "stuck in medieval times." Clinton's campaign, led by John Podesta, is described as "Nixonian," with her consultants lacking a "moral compass." Clinton is accused of lying about her email server and the Benghazi attacks, echoing Nixon's stonewalling. The article suggests Clinton's campaign tactics, including provoking violence at Trump rallies, mirror Nixon's "dirty tricks." While Nixon faced disgrace and resignation, the media's support for Clinton may prevent her from facing a similar fate. The article questions whether Clinton's "hubris" will lead to a "Nixonian comeuppance" or if she will evade accountability.  
+**END OF SUMMARY.**

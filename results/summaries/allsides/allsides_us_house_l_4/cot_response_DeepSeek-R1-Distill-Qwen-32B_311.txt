@@ -1,0 +1,68 @@
+Okay, so the user wants me to act as a news summarizer assistant and a moral expert. They provided a detailed news article about Michael Cohen's testimony. The task has two parts: first, identify all the morally framed single words in the article, and second, write a summary preserving those moral terms.
+
+Starting with STEP 1, I need to go through the article and pick out words that carry moral implications. Words like "explosive," "doozy," "direct," "loop," "investigating," "attributed," "stolen," "awareness," "setup," "dirty," "hush money," "loyal," "fixer," "investigation," "falling-out," "pleaded," "guilty," "crimes," "fraud," "violations," "lied," "sentence," "secrets," "spill," "under oath," "admitted," "challenged," "corroborate," "suspicion," "mystery," "indictment," "deny," "collusion," "aware," "damage," "Clinton," "hacked," "intelligence," "behalf," "misleading," "encouraged," "deny," "asked," "name," "black," "shithole," "explosive."
+
+Now, for the summary, I need to condense the article into 200 words, keeping the moral framing. The key points are Cohen's testimony, his claims about Trump's awareness of WikiLeaks, the implications of collusion, Cohen's past actions, and the moral issues involved like lying, collusion, and secret payments.
+
+I should structure the summary to highlight Cohen's explosive claims, the moral implications of Trump's potential awareness, the context of Mueller's investigation, and Cohen's own ethical issues. I'll make sure to include terms like "explosive," "loop," "collusion," "hush money," "dishonesty," and "controversial."
+
+I need to ensure the summary flows well and covers all major points without exceeding the word limit. Also, I should maintain the moral framing by using the identified words appropriately.
+</think>
+
+**STEP 1:**
+
+* explosive  
+* doozy  
+* direct  
+* loop  
+* investigating  
+* attributed  
+* stolen  
+* awareness  
+* setup  
+* dirty  
+* hush money  
+* loyal  
+* fixer  
+* investigation  
+* falling-out  
+* pleaded  
+* guilty  
+* crimes  
+* fraud  
+* violations  
+* lied  
+* sentence  
+* secrets  
+* spill  
+* under oath  
+* admitted  
+* challenged  
+* corroborate  
+* suspicions  
+* mystery  
+* indictment  
+* deny  
+* collusion  
+* aware  
+* damage  
+* Clinton  
+* hacked  
+* intelligence  
+* behalf  
+* misleading  
+* encouraged  
+* deny  
+* asked  
+* name  
+* black  
+* shithole  
+* explosive  
+
+---
+
+**SUMMARY:**  
+
+Michael Cohen, former attorney to President Trump, is set to testify before the House Oversight Committee, making explosive claims about Trump's awareness of WikiLeaks' plans to release hacked emails during the 2016 campaign. Cohen alleges he overheard Trump and Roger Stone discussing WikiLeaks' intentions, suggesting Trump may have been in the loop about the email leaks, which Mueller attributes to Russian intelligence. Cohen also claims Trump encouraged him to make misleading statements about the Trump Tower Moscow project and discusses a potential meeting between Trump Jr. and a Russian lawyer. Additionally, Cohen accuses Trump of making racist remarks in private and reveals a hush money payment to Stormy Daniels. Cohen, who has pleaded guilty to financial crimes and lied to Congress, now seeks to spill all he knows, though his credibility is challenged. His testimony raises questions about collusion and Trump's awareness of WikiLeaks' plans, adding to the ongoing moral and legal controversy surrounding the 2016 election.  
+
+**END OF SUMMARY.**

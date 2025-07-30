@@ -1,0 +1,15 @@
+<think>
+Alright, so the user wants me to summarize a news article while preserving the moral framing. The article is about Indiana's religious freedom law and the political backlash it's causing. I need to make sure the summary captures both the governor's stance and the critics' arguments.
+
+First, I'll read through the article to get the main points. Gov. Pence signed the law, which aims to protect religious beliefs, but it's being criticized for allowing discrimination against gays and lesbians. Pence is trying to clarify the law's intent, but some businesses and officials are opposing it, leading to economic consequences like travel bans and event cancellations.
+
+I should highlight the moral arguments from both sides. Pence supports religious freedom, while critics argue it's enabling discrimination. Also, the economic impact is a key point, showing the real-world consequences beyond just the policy debate.
+
+I need to keep the summary concise, under 200 words, so I'll focus on the essential elements: Pence's defense, the law's intent, the backlash, economic repercussions, and the underlying moral debate. I'll make sure to mention that Indiana doesn't protect gays and lesbians under civil rights, which is a crucial point in the moral framing.
+
+Putting it all together, the summary should clearly show the conflict between religious freedom and anti-discrimination, the political implications, and the economic fallout. That way, the moral framing is preserved as per the user's request.
+</think>
+
+SUMMARY:  
+Indiana Gov. Mike Pence is facing backlash over a new Religious Freedom Restoration Act, which critics argue could allow discrimination against gays and lesbians. Pence defended the law, stating it protects religious beliefs and is not about discrimination. He plans to seek legislative clarification but did not provide details. Proponents argue it allows Christian vendors to refuse service to same-sex couples without legal repercussions. However, critics contend the law could enable broader discrimination, especially since Indiana lacks protections for gays and lesbians under civil rights law. Businesses and officials, including Salesforce.com and Seattle’s mayor, have halted travel to Indiana, and Angie’s List canceled its expansion deal with the state. The NCAA also expressed concern over the law’s impact on future events. Pence, who is weighing a 2016 presidential run, emphasized the law’s roots in federal legislation but rejected adding protections for gays and lesbians. The controversy highlights a clash between religious freedom and anti-discrimination principles.  
+END OF SUMMARY.

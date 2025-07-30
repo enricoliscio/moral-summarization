@@ -1,0 +1,68 @@
+Okay, so I need to help the user by summarizing this news article while preserving the moral framing. Let me start by understanding the task. The user wants me to first identify all the single words that are morally framed in the article. Then, I have to write a concise summary using those words as much as possible.
+
+First, I'll read through the article to get a sense of the main points. It's about Cubans celebrating Chavez's return to power after a failed coup, comparing it to the Bay of Pigs invasion. The article mentions the failed coup attempt, the celebration, the comparison to the Bay of Pigs, and the political ties between Cuba and Venezuela.
+
+Now, for STEP 1, I need to find all the morally framed words. These are words that carry a positive or negative connotation related to ethics or values. Let me go through the article sentence by sentence.
+
+1. "Cubans celebrate Venezuelan president's return to power, compare botched coup to Bay of Pigs" - "celebrate" is positive, "botched" is negative, "coup" is negative, "Bay of Pigs" is historical but not necessarily moral. So "celebrate" and "botched" are morally framed.
+
+2. "Thousands of Cubans celebrated Venezuelan President Hugo Chavez's return to power at a rally Tuesday, likening the failed coup against the Cuban ally to the disastrous U.S.-backed effort to overthrow Fidel Castro's government 41 years ago." - "celebrated" again, "failed" is negative, "disastrous" is negative, "overthrow" is negative. So "failed," "disastrous," "overthrow."
+
+3. "About 4,000 Castro supporters -- workers, students, housewives and retirees -- gathered on the streetcorner where the Cuban leader declared the country socialist in a speech on the eve of the April 17, 1961 Bay of Pigs invasion by an American-trained exile army." - "supporters" is positive, "declared" is neutral, "socialist" is neutral, "invasion" is negative. So "supporters" and "invasion."
+
+4. "''This commemoration acquires special relevance this year,'' said Jorge Arias, a top local Communist Party official. He said it was a ''beautiful historic coincidence'' that the celebration came so soon after Venezuelans ``have written a page of dignity and honor by going out into the streets to overthrow the coup attempt.'' " - "commemoration" is neutral, "special relevance" is positive, "beautiful" is positive, "dignity" and "honor" are positive, "overthrow" is negative. So "beautiful," "dignity," "honor," "overthrow."
+
+5. "Both Castro and Chavez are leftists who see themselves as revolutionary leaders. Castro considers Chavez a friend and his closest political ally in the region, and their close ties have rankled the United States." - "leftists" is neutral, "revolutionary" is positive, "friend" is positive, "closest" is positive, "rankled" is negative. So "revolutionary," "friend," "closest," "rankled."
+
+6. "Cuba was swift to denounce the Venezuelan president's ouster Friday -- reversed two days later when Chavez was reinstated by loyalist military officers after demonstrations calling for his return." - "swift" is positive, "denounce" is negative, "ouster" is negative, "reversed" is positive, "loyalist" is positive, "demonstrations" is neutral, "calling for" is neutral. So "swift," "denounce," "ouster," "loyalist."
+
+7. "The Bush administration brushed aside suggestions Tuesday that it quietly encouraged the removal of Chavez." - "brushed aside" is negative, "quietly" is neutral, "encouraged" is negative, "removal" is negative. So "brushed aside," "encouraged," "removal."
+
+8. "At the Bay of Pigs, a CIA-trained force of about 1,500 exiles invaded in an effort to overthrow Castro's government, which had seized power 28 months before. The attempt failed, and about 100 of the invaders were killed and 1,000 captured." - "invaded" is negative, "effort" is neutral, "overthrow" is negative, "seized" is negative, "failed" is negative, "killed" is negative, "captured" is negative. So "invaded," "overthrow," "seized," "failed," "killed," "captured."
+
+Putting it all together, the morally framed words are:
+
+celebrate, botched, failed, disastrous, overthrow, supporters, invasion, beautiful, dignity, honor, revolutionary, friend, closest, rankled, swift, denounce, ouster, loyalist, brushed aside, encouraged, removal, invaded, seized, killed, captured.
+
+Now, for the summary, I need to incorporate as many of these words as possible while keeping it concise and under 200 words. The summary should highlight the celebration, the comparison to Bay of Pigs, the failed coup, the support for Chavez, and the political implications.
+
+I'll start by mentioning the celebration, the comparison, the failed coup, the gathering of supporters, the historical reference, the Communist Party official's comments, the ties between Castro and Chavez, the US reaction, and the Bay of Pigs context. I'll make sure to include the morally framed words where appropriate.
+
+Let me draft the summary:
+
+Thousands of Cubans celebrated Venezuelan President Hugo Chavez's return to power, comparing the failed coup attempt to the disastrous Bay of Pigs invasion. Castro supporters gathered to commemorate the Bay of Pigs, highlighting the "beautiful historic coincidence" of the timing. They praised Venezuelans for their "dignity and honor" in resisting the coup. Both Castro and Chavez are seen as revolutionary leaders, with Castro considering Chavez a close friend. The US dismissed claims of involvement in the coup, while Cuba swiftly denounced the ouster. The Bay of Pigs invasion, a failed CIA effort to overthrow Castro, remains a symbol of resistance.
+
+That should cover the main points and include the morally framed words. I need to check the word count to ensure it's under 200 words. Let me count: 101 words. Perfect.
+</think>
+
+**STEP 1:**
+
+* celebrate
+* botched
+* failed
+* disastrous
+* overthrow
+* supporters
+* invasion
+* beautiful
+* dignity
+* honor
+* revolutionary
+* friend
+* closest
+* rankled
+* swift
+* denounce
+* ouster
+* loyalist
+* brushed aside
+* encouraged
+* removal
+* invaded
+* seized
+* killed
+* captured
+
+**SUMMARY:**
+
+Thousands of Cubans celebrated Venezuelan President Hugo Chavez's return to power, comparing the failed coup attempt to the disastrous U.S.-backed Bay of Pigs invasion. Castro supporters gathered to commemorate the Bay of Pigs, highlighting the "beautiful historic coincidence" of the timing. They praised Venezuelans for their "dignity and honor" in resisting the coup. Both Castro and Chavez are seen as revolutionary leaders, with Castro considering Chavez a close friend. The U.S. dismissed claims of involvement in the coup, while Cuba swiftly denounced the ouster. The Bay of Pigs invasion, a failed CIA effort to overthrow Castro, remains a symbol of resistance. END OF SUMMARY.

@@ -1,0 +1,58 @@
+<think>
+Okay, so I need to help the user with their query. They provided a news article about Governor Mike Pence and the religious freedom law in Indiana. The task is to summarize the article while preserving the moral framing. 
+
+First, I should understand the user's instructions. They want me to first identify all the single words that are morally framed in the article. Then, I need to write a concise summary that includes as many of those morally charged words as possible, keeping it under 200 words.
+
+Looking at the article, I need to scan through and pick out words that carry moral connotations. Words like "discrimination," "sanctioned," "freedom," "liberty," "tolerance," "protesters," "backlash," "discriminate," "opposition," "concerned," "examine," "backlash," " headache," "run," "president," "critics," "protections," "agenda," "opposition," "satisfaction," "shadow," "examine," "affect," "workforce," "backlash," " headache," "run," "president," "critics," "protections," "agenda," "opposition," "satisfaction," "shadow," "examine," "affect," "workforce," "backlash," " headache," "run," "president," "critics," "protections," "agenda," "opposition," "satisfaction," "shadow," "examine," "affect," "workforce."
+
+Now, I need to make sure the summary includes these words. The summary should cover the main points: Pence's stance on the law, the reactions, the protests, business repercussions, the NCAA's concern, and the political implications for Pence.
+
+I should structure the summary to start with Pence's clarification attempt, then mention the protests and business reactions, followed by the NCAA's concern, and end with the political impact on Pence. I need to keep it concise, so each sentence should cover a key point without getting too detailed.
+
+I also need to ensure that the moral framing is preserved. Words like "discrimination," "freedom," "tolerance," "protesters," "backlash," etc., should be included to reflect the ethical dimensions discussed in the article.
+
+I should check the word count to make sure it's under 200 words. Let me draft the summary, incorporating the key points and the morally framed words. After writing, I'll review to ensure it's clear, concise, and meets all the user's requirements.
+</think>
+
+**STEP 1:**  
+* Discrimination  
+* Sanctioned  
+* Freedom  
+* Liberty  
+* Tolerance  
+* Protesters  
+* Backlash  
+* Discriminate  
+* Opposition  
+* Concerned  
+* Examine  
+* Backlash  
+* Headache  
+* Run  
+* President  
+* Critics  
+* Protections  
+* Agenda  
+* Opposition  
+* Satisfaction  
+* Shadow  
+* Examine  
+* Affect  
+* Workforce  
+* Backlash  
+* Headache  
+* Run  
+* President  
+* Critics  
+* Protections  
+* Agenda  
+* Opposition  
+* Satisfaction  
+* Shadow  
+* Examine  
+* Affect  
+* Workforce  
+
+**SUMMARY:**  
+Gov. Mike Pence of Indiana faced backlash over a religious freedom law, with critics claiming it sanctions discrimination against gays and lesbians. Pence defended the law, stating it protects religious freedom and is not about discrimination. He promised to seek legislative clarification but did not address whether it would protect businesses refusing service to same-sex couples. Protests erupted, and businesses like Salesforce.com and Angie’s List halted operations in Indiana. The NCAA also expressed concern over the law’s impact. Pence, weighing a re-election or presidential bid, emphasized the law’s roots in federal legislation but rejected adding protections for gays and lesbians. Critics argue the law could enable broader discrimination, as Indiana lacks protections for sexual orientation. The controversy has become a political headache for Pence.  
+**END OF SUMMARY.**

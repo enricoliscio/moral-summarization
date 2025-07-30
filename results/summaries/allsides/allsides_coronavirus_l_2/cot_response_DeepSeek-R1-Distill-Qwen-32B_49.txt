@@ -1,0 +1,42 @@
+Okay, so I need to help the user by summarizing a news article while preserving the moral framing. The user provided the article and specific instructions on how to approach it. First, I should understand what the article is about. It's discussing the safety of reopening schools during COVID-19, emphasizing that severe illness in children is rare but not nonexistent. It compares COVID-19 to influenza, which also affects children, and argues that closing schools isn't necessary if the community controls the virus through certain measures.
+
+The user wants me to perform two main tasks. The first is to identify all single words that are morally framed. I need to go through the article and pick out words that carry moral connotations. Words like "rare," "risk," "close," "control," "adhering," "strategic," "effective," "complete," "supportive," "solutions," "unique," "explosively," "difficult," "impossible," "reopening," "vulnerable," "shield," "return," "participate," "modify," "restrictions," "risky," "clusters," "possible," "play," "wear," "observe." These words are chosen because they imply value judgments or ethical considerations.
+
+Next, I need to write a concise summary of the article, ensuring that these morally framed words are included. The summary should be under 200 words and start after the "SUMMARY:" token, ending with "END OF SUMMARY." I should structure the summary to highlight the main points: the rarity of severe COVID-19 in children, the comparison to influenza, the importance of community control, the three W's, and the specific safety measures for schools. I need to make sure the summary flows well and includes the key moral elements from the article.
+
+I should also be careful to keep the summary within the word limit. Let me check the word count as I draft it. I'll start by stating the rarity of severe illness, mention the comparison to influenza, the community control measures, and then outline the safety steps. I'll make sure to include the morally framed words naturally within the summary without making it sound forced.
+
+Finally, I'll review the summary to ensure it accurately reflects the article's content and maintains the moral framing. I need to make sure it's clear, concise, and meets all the user's requirements. Once I'm satisfied, I'll present the identified words and the summary as per the instructions.
+</think>
+
+**STEP 1:**  
+* rare  
+* risk  
+* close  
+* control  
+* adhere  
+* strategic  
+* effective  
+* complete  
+* supportive  
+* solutions  
+* unique  
+* explosively  
+* difficult  
+* impossible  
+* reopen  
+* vulnerable  
+* shield  
+* return  
+* participate  
+* modify  
+* restrictions  
+* risky  
+* clusters  
+* possible  
+* play  
+* wear  
+* observe  
+
+**SUMMARY:**  
+Severe COVID-19 illness in children is rare, with a much lower risk of death compared to older adults. While rare inflammatory syndromes can occur, similar risks exist with influenza, which kills many children annually without prompting school closures. The focus should be on community control of the virus through "the three W’s" (wear masks, wash hands, watch distance) and strategic measures like testing, isolation, contact tracing, and supportive quarantine. Schools should follow CDC guidelines tailored to local conditions. In areas with explosive virus spread, in-person schooling may be difficult. Otherwise, schools should reopen with safety measures: shielding vulnerable individuals, reducing risks through modified activities, and adhering to physical-distancing guidelines. END OF SUMMARY.

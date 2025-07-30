@@ -1,0 +1,34 @@
+Okay, I need to help the user with their query. They provided a news article and specific instructions on how to process it. The user wants me to act as a news summarizer and moral expert. 
+
+First, I need to identify the morally framed words in the article. The user specified two steps: STEP 1 is to list all single words that carry moral framing, each on a new line with an asterisk. Then, in STEP 2, I have to write a summary that preserves these moral words, keeping it under 200 words.
+
+Looking at the article, I'll go through each sentence to spot words that have moral connotations. Words like "racist," "weeder," "hate," "silence," "violence," "bigots," "attack," "partisan," "spitting," "allegations," "reprehensible," "integrity," "accountability," "respect," "tolerance," and "divisiveness." These terms carry moral weight because they relate to issues of justice, fairness, and social behavior.
+
+Next, for the summary, I need to condense the article while keeping these moral words. The summary should mention the NAACP's resolution, the call to remove racist elements, the response from Tea Party groups, and the context of racism allegations. I'll make sure to include the key moral terms without making the summary too long.
+
+I should also ensure that the summary flows naturally and covers all main points: the resolution, reactions from both sides, and the broader context of the issue. I'll avoid adding any new information not present in the article and stick strictly to the content provided.
+
+Finally, I'll format the response with the specified tokens: starting with "STEP 1:" and listing each word, then "SUMMARY:" followed by the concise summary, ending with "END OF SUMMARY." I need to keep the summary under 200 words, so I'll be concise but thorough in capturing the moral framing and the essential details of the news article.
+</think>
+
+**STEP 1:**  
+* racist  
+* weeder  
+* hate  
+* silence  
+* violence  
+* bigots  
+* attack  
+* partisan  
+* spitting  
+* allegations  
+* reprehensible  
+* integrity  
+* accountability  
+* respect  
+* tolerance  
+* divisiveness  
+
+**SUMMARY:**  
+The NAACP passed a resolution calling on Tea Party groups to remove "racist elements" from their ranks, emphasizing the need for accountability and responsibility. NAACP President Benjamin Todd Jealous clarified that the resolution was not labeling the entire Tea Party movement as racist but urged the groups to distance themselves from known hate groups. He stressed that with increased public attention and power, the Tea Party must act responsibly to prevent "silence" from leading to "violence." The resolution sparked backlash, with Tea Party supporters accusing the NAACP of being a "partisan political attack dog" and demanding an IRS review of its tax-exempt status. The Tea Party movement has faced allegations of racism, including incidents of racial epithets and spitting at lawmakers. Tea Party groups deny any racism within their ranks.  
+**END OF SUMMARY.**

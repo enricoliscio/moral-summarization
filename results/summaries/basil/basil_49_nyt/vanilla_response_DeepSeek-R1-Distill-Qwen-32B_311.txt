@@ -1,0 +1,14 @@
+Okay, so the user has provided a news article and wants me to summarize it. They specified that the summary should be after a "SUMMARY:" token and end with "END OF SUMMARY." Also, it should be no longer than 200 words. 
+
+First, I need to read through the article carefully to understand the main points. The article is about Nebraska and Oklahoma filing a lawsuit against Colorado's marijuana legalization. They argue that Colorado's regulated marijuana shops are causing problems in their states, like increased arrests and costs. 
+
+I should identify the key elements: who is involved (Nebraska and Oklahoma's attorneys general), what they're doing (filing a lawsuit in the Supreme Court), and their reasons (marijuana flowing into their states, impacting their systems). Also, note Colorado's response and the implications if the lawsuit succeeds.
+
+I need to make sure the summary is concise, capturing all the essential information without getting into too much detail. I'll structure it to mention the lawsuit, the states involved, their arguments, Colorado's defense, and the potential impact on the black market. 
+
+I should also check the word count to ensure it's under 200 words. Let me draft a summary that includes all these points succinctly.
+</think>
+
+SUMMARY:  
+Nebraska and Oklahoma have filed a lawsuit in the U.S. Supreme Court challenging Colorado's 2012 marijuana legalization law, arguing it creates a "dangerous gap" in federal drug control and allows marijuana to flow into their states. The lawsuit claims Colorado's regulated recreational marijuana system has led to increased arrests, costs, and strain on law enforcement in neighboring states. Colorado's attorney general, John Suthers, opposes the challenge, stating it is "without merit." The lawsuit targets Colorado's commercial marijuana operations, including stores and dispensaries, while not directly challenging the personal use aspect of legalization. Marijuana advocates warn that shutting down Colorado's regulated market could revive the black market. The suit accuses Colorado of violating federal drug laws by not tracking marijuana sales or requiring background checks for buyers. Colorado officials argue that their system complies with state law and federal policy. The case highlights tensions between state and federal marijuana regulations.  
+END OF SUMMARY.

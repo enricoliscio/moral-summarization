@@ -1,0 +1,29 @@
+Okay, I need to help the user by summarizing a news article while preserving the moral framing. Let me start by understanding the task. The user provided a news article about Donald Trump's actions in the Republican primary and wants a summary that includes morally framed words.
+
+First, I should identify all the morally framed words in the article. These are words that carry a moral judgment or connotation. I'll go through the article sentence by sentence.
+
+The article mentions "controversy," "alarm," "war of words," "denounced," "disbelief," "sniveling coward," "outrage," "offensive," "isolating," and "off limits." Each of these words has a moral connotation, so I'll list them under STEP 1.
+
+Next, I need to write a concise summary of the article, making sure to include as many of these morally framed words as possible. The summary should be under 200 words and end with the specified tokens.
+
+I'll start by outlining the main points: Trump's actions, the ad with Melania's photo, Cruz's response, the comparison to Todd Akin, and the media's reaction. I'll incorporate the identified words to maintain the moral framing.
+
+I should ensure the summary flows logically, highlighting Trump's escalation, Cruz's defense, the historical comparison, and the subdued media response. I'll check the word count to stay within the limit.
+
+Finally, I'll structure the summary, making sure it starts with "SUMMARY:" and ends with "END OF SUMMARY." I'll review to ensure all key points are covered and the moral language is preserved.
+</think>
+
+**STEP 1:**  
+* Controversy  
+* Alarm  
+* War of words  
+* Denounced  
+* Disbelief  
+* Sniveling coward  
+* Outrage  
+* Offensive  
+* Isolating  
+* Off limits  
+
+**SUMMARY:**  
+Donald Trump has sparked controversy in the Republican primary by escalating a war of words against Ted Cruz, targeting Cruz's wife, Heidi, after an ad featuring Melania Trump emerged. Trump's actions, including threatening to reveal personal details about Heidi Cruz and sharing unflattering photos of her, have drawn sharp criticism. Cruz accused Trump of being a "sniveling coward" and demanded he "leave Heidi the hell alone." This situation echoes the 2012 outrage over Todd Akin's offensive remarks about rape, which led to the Republican Party isolating him. However, the media's response to Trump's behavior has been far more subdued, despite the clear moral implications of targeting spouses in political battles. END OF SUMMARY.

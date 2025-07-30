@@ -1,0 +1,58 @@
+Okay, so the user has given me a query where they want me to act as a news summarizer and a moral expert. They provided a news article about Governor Rick Perry's campaign ad, and they have specific instructions on how to process it. 
+
+First, they want me to identify all the single words that are morally framed. That means I need to go through the article and pick out words that carry moral connotations. Words like "hard-right," "conservatives," "Christianity," "homosexuality," "war on religion," "end," "criticism," "don’t ask, don’t tell," "ashamed," "Christian," "pew," "wrong," "gays," "serve openly," "celebrate Christmas," "pray," "school," "multimillion-dollar," "television budget," "Iowa," "Christian evangelicals," "criticizing," "Obama administration," "diplomacy," "foreign aid," "gay rights," "criminalize," "homosexual conduct," "war on religion," "liberal attacks," "religious heritage," "Faith," "strong," "wrong," "assume," "faith," "equality," "theocrat-in-chief," "individual liberty," "individual responsibility," "open service," "gay and lesbian servicemembers," "founding fathers."
+
+Next, I need to write a summary that preserves the moral framing. The summary should be concise, no more than 200 words. I should make sure to include as many of those morally framed words as possible without making it too long. 
+
+I'll start by mentioning Perry's ad targeting hard-right conservatives. Highlight the contrast between Christianity and homosexuality, his vow to end Obama's war on religion, and criticism of the military policy. Then, include his statement about Christians not needing to attend church every week but recognizing the moral issues. Mention the ad's focus in Iowa with Christian evangelicals. Include his criticism of Obama's promotion of gay rights and his commitment to religious heritage. Finally, note the backlash from Log Cabin Republicans, emphasizing individual liberty and responsibility, and the alignment with the founding fathers' vision.
+
+I need to make sure the summary flows well and includes all the key moral points without being too verbose. I'll structure it to cover each main point from the article, ensuring that the moral framing is clear and preserved.
+</think>
+
+**STEP 1:**  
+* hard-right  
+* conservatives  
+* Christianity  
+* homosexuality  
+* war on religion  
+* end  
+* criticism  
+* don’t ask, don’t tell  
+* ashamed  
+* Christian  
+* pew  
+* wrong  
+* gays  
+* serve openly  
+* celebrate Christmas  
+* pray  
+* school  
+* multimillion-dollar  
+* television budget  
+* Iowa  
+* Christian evangelicals  
+* criticizing  
+* Obama administration  
+* diplomacy  
+* foreign aid  
+* gay rights  
+* criminalize  
+* homosexual conduct  
+* war on religion  
+* liberal attacks  
+* religious heritage  
+* Faith  
+* strong  
+* wrong  
+* assume  
+* faith  
+* equality  
+* theocrat-in-chief  
+* individual liberty  
+* individual responsibility  
+* open service  
+* gay and lesbian servicemembers  
+* founding fathers  
+
+**SUMMARY:**  
+Gov. Rick Perry of Texas released a campaign ad targeting hard-right conservatives, contrasting Christianity with homosexuality and vowing to end Obama’s "war on religion." The ad criticizes the overturning of the "don’t ask, don’t tell" policy, claiming it’s wrong that gays can serve openly in the military while kids can’t celebrate Christmas or pray in school. Perry’s multimillion-dollar ad campaign focuses on Iowa, where many Republican caucusgoers are Christian evangelicals. The ad follows Perry’s criticism of Obama’s promotion of gay rights globally and his pledge to fight liberal attacks on religious heritage. Perry’s message was denounced by Log Cabin Republicans, who argue that supporting equality aligns with individual liberty and the vision of the founding fathers. They criticized Perry for prioritizing religion over national values. END OF SUMMARY.

@@ -1,0 +1,26 @@
+Okay, so I need to summarize this news article, but I have to make sure I preserve the moral framing that the author gave. The article is about Trump's Tulsa rally and his campaign strategy. The user wants the summary after a "SUMMARY:" token and ending with "END OF SUMMARY." It should be no longer than 200 words.
+
+First, I'll read through the article to understand the main points. The article talks about Trump relaunching his reelection campaign, focusing on dividing the country by attacking various groups. He's not talking about prosperity but rather about defeating enemies like anarchists, journalists, Democrats, and immigrants. He made light of the COVID-19 deaths, joked about testing, and dismissed the pandemic's impact. He also attacked specific individuals like Alexandria Ocasio-Cortez, Muriel Bowser, and Ilhan Omar, questioning their loyalty. He used derogatory terms for immigrants, called the virus "Kung Flu," and linked open borders to crime. He encouraged violence against protesters and praised ICE agents. The article concludes that Trump is running on division, hatred, and the potential for violence, not on achievements.
+
+Now, I need to condense this into a summary that's under 200 words. I'll start by mentioning the rally and his campaign focus on division. Then touch on his dismissive attitude towards COVID-19, the attacks on various groups, use of derogatory terms, encouragement of violence, and the overall message of division and potential chaos.
+
+I should make sure to include the moral framing, which is the author's negative view of Trump's tactics. The summary should reflect that Trump is using enmity, lies, and demagoguery, and that he's not hiding his intent to cause destruction.
+
+I need to structure it clearly, maybe in a few sentences, each covering a main point: the rally, the enemies he's highlighting, the dismissal of COVID-19, attacks on specific groups, use of derogatory language, encouragement of violence, and the overall destructive campaign.
+
+I should avoid any markdown and keep it concise. Let me try to draft it:
+
+At the Tulsa rally, Trump focused on division, attacking journalists, Democrats, and immigrants. He dismissed COVID-19 deaths and used derogatory terms like "animals" for immigrants. He linked open borders to crime and encouraged violence against protesters. His campaign emphasizes enmity and potential chaos, not achievements.
+
+Wait, that's too short. I need to include more details but stay under 200 words. Maybe add more about the specific groups attacked and the encouragement of violence.
+
+At the Tulsa rally, Trump relaunched his reelection campaign by emphasizing division and enmity, targeting journalists, Democrats, and immigrants. He dismissed the severity of COVID-19, joked about testing, and used derogatory terms like "animals" for immigrants. Trump linked open borders to crime, attacked specific individuals like Ocasio-Cortez and Bowser, and encouraged violence against protesters. His campaign focuses on hatred and potential chaos, not on achievements, highlighting a destructive approach.
+
+Hmm, that's better but maybe a bit long. Let me check the word count. I think I can make it concise while covering all points.
+
+Final summary: At his Tulsa rally, Trump focused on division, attacking journalists, Democrats, and immigrants. He dismissed COVID-19's impact, used derogatory terms, and linked open borders to crime. Trump encouraged violence against protesters and emphasized enmity over achievements, highlighting a campaign of division and potential chaos.
+
+Yes, that's concise and captures the moral framing of the article, showing Trump's divisive and destructive approach.
+</think>
+
+SUMMARY: At his Tulsa rally, President Trump focused on division, attacking journalists, Democrats, and immigrants. He dismissed COVID-19's impact, joked about testing, and used derogatory terms like "animals" for immigrants. Trump linked open borders to crime, attacked individuals like Ocasio-Cortez and Bowser, and encouraged violence against protesters. His campaign emphasizes enmity and potential chaos, highlighting a destructive approach. END OF SUMMARY.

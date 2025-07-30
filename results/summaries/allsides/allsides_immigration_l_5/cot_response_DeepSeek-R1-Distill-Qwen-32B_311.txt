@@ -1,0 +1,68 @@
+Alright, so I've got this query where I need to act as a news summarizer and a moral expert. The user wants me to summarize a news article while preserving the moral framing. Let me break down what I need to do.
+
+First, I need to read the article carefully. It's about the Priority Enforcement Program (PEP) and how it's not working as intended. The key points are that many people held under PEP have no criminal convictions, just arrests, which leads to deportations. There's a mention of humanitarian crises, especially between the US and Mexico. The report from Syracuse University shows that only a quarter had serious offenses, mostly drunk driving or minor crimes. ICE claims they're focusing on serious criminals, but data shows they're targeting more people without criminal records. There's also a quote from an undocumented immigrant about how this affects trust in the police. Plus, many jurisdictions refuse to cooperate, and advocates suspect PEP is just a rebranded version of the old program.
+
+Now, the user wants me to identify morally framed words. I need to go through the article and pick out words that carry moral connotations. Words like 'holds', 'deportation', 'criminal aliens', 'expedite','missing', 'target', 'arrests', 'convictions', 'process', 'led', 'deportation', 'humanitarian crisis','mass', 'fueled','report','missing', 'felonies','misdemeanor', 'focus','resources', 'criminals', 'public safety', 'national security', 'community', 'policing','secure', 'victims', 'crime','report', 'picked up', 'deportations','refusing', 'declined','sanctuary city','separate', 'Unauthorized immigration', 'papers', 'deport', 'executive orders', 'protect','sued', 'details', 'differ', 'predecessor', 'name change','request', 'custody','recently entered', 'convicted','security risk', 'joke'.
+
+Next, I need to summarize the article, using as many of these moral words as possible, keeping it under 200 words. I should highlight that PEP isn't targeting the worst offenders but people with no convictions, leading to unnecessary deportations. Mention the humanitarian crisis, the Syracuse report, ICE's claims versus the data, the impact on trust in law enforcement, and the skepticism about PEP being a rebranded program. I need to ensure the summary reflects the moral concerns about fairness, security, and community impact.
+
+I should structure the summary to first state the issue with PEP, then the data showing it's not effective, the impact on immigrants, the response from ICE, and the skepticism from advocates. Keeping it concise but comprehensive, making sure the moral framing is clear.
+
+I think I've covered all the points. Time to put it together.
+</think>
+
+**STEP 1:**  
+* Holds  
+* Deportation  
+* Criminal aliens  
+* Expedite  
+* Missing  
+* Target  
+* Arrests  
+* Convictions  
+* Process  
+* Led  
+* Deportation  
+* Humanitarian crisis  
+* Mass  
+* Fueled  
+* Report  
+* Missing  
+* Felonies  
+* Misdemeanor  
+* Focus  
+* Resources  
+* Criminals  
+* Public safety  
+* National security  
+* Community  
+* Policing  
+* Secure  
+* Victims  
+* Crime  
+* Report  
+* Picked up  
+* Deportations  
+* Refusing  
+* Declined  
+* Sanctuary city  
+* Separate  
+* Unauthorized immigration  
+* Papers  
+* Deport  
+* Executive orders  
+* Protect  
+* Sued  
+* Details  
+* Differ  
+* Predecessor  
+* Name change  
+* Request  
+* Custody  
+* Recently entered  
+* Convicted  
+* Security risk  
+* Joke  
+
+**SUMMARY:**  
+A report reveals that the Priority Enforcement Program (PEP), designed to deport "criminal aliens," is failing to target the intended "worst of the worst." Half of the "holds" placed on immigrants were for individuals with past arrests but no convictions, including those with dropped charges or minor offenses like traffic violations. Only a quarter had serious crimes like murder or sexual assault. Despite ICE claiming PEP focuses on felons, data shows more people without criminal records are being targeted. Critics argue the program undermines public trust, as undocumented immigrants may avoid reporting crimes for fear of deportation. Many jurisdictions refuse to cooperate, and advocates suspect PEP is merely a rebranded version of the previous Secure Communities program. The report highlights concerns over fairness, security, and the humanitarian impact of mass deportations. END OF SUMMARY.

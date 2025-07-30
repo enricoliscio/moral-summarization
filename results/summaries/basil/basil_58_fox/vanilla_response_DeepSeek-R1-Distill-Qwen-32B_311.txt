@@ -1,0 +1,15 @@
+<think>
+Okay, so the user has given me a query where they want me to act as a news summarizer. They provided a specific news article about Chris Christie announcing his candidacy for the 2016 presidential race. My task is to summarize this article concisely, keeping it under 200 words. 
+
+First, I need to understand the main points of the article. The key elements are that Chris Christie is announcing his run, the timing and location of the announcement, his challenges like low poll numbers and fundraising issues, the shift in support from donors to other candidates like Jeb Bush, and his strong personality and communication skills that might help him despite these challenges.
+
+I should structure the summary to include all these points. I'll start by stating that Christie is announcing his candidacy, then mention the announcement details. Next, I'll address the challenges he's facing, such as low popularity and fundraising deficits. Then, I'll note how donors are moving to other candidates. Finally, I'll highlight his personality and communication strengths as his main assets.
+
+I need to make sure the summary is clear and concise, avoiding any unnecessary details. Also, I must remember to start with "SUMMARY:" and end with "END OF SUMMARY." to meet the user's formatting requirements.
+
+Let me put this together in a coherent manner, ensuring each sentence flows logically and stays within the word limit. I'll check the word count to make sure it's under 200 words. 
+
+I think that's all. Time to draft the summary.
+</think>
+
+SUMMARY: New Jersey Governor Chris Christie is set to announce his candidacy for the 2016 presidential race today in Livingston, New Jersey. Despite facing challenges such as low poll numbers, a fundraising deficit, and waning support from donors, Christie remains a contender. His reputation as the GOP establishment favorite has diminished due to scandals and declining popularity in New Jersey. However, Christie’s brash and combative personality, along with his skill in engaging audiences in town hall meetings, could be his key assets. While many donors have shifted their support to rivals like Jeb Bush, Christie’s unique communication style may help him stand out in the race. END OF SUMMARY.

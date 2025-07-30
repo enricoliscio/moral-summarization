@@ -1,0 +1,44 @@
+Alright, so I'm trying to help this user who wants a summary of a news article, but with a focus on preserving the moral framing. The user provided a detailed article about Nebraska and Oklahoma filing a lawsuit against Colorado over marijuana legalization. They also outlined specific steps: first, identify morally framed single words, then write a summary using those words.
+
+First, I need to understand what "morally framed" words mean. These are words that carry a judgment or evaluation, often indicating approval or disapproval. Words like "unconstitutional," "prohibits," "undermined," etc., might fall into this category because they express a stance or judgment.
+
+Looking at the article, I'll go through each paragraph to spot such words. For example, "unconstitutional" is used to describe Colorado's actions, which is a moral judgment. "Prohibits" is another one, as it's about what's allowed or not. "Undermined" suggests that Colorado's actions weakened something important, which is a negative judgment.
+
+I'll list each of these words, making sure they're single words and relevant to the moral framing. Once I have that list, I'll move on to summarizing the article, making sure to include as many of these words as possible without making the summary too long or losing the essence of the original text.
+
+I should also consider the structure of the summary. It needs to be concise, around 200 words, and include the key points: the lawsuit, the arguments from both sides, the legal basis (Supremacy Clause), the consequences if the lawsuit succeeds, and the reactions from various groups and individuals.
+
+I need to ensure that the summary flows well and accurately represents the article while highlighting the moral aspects. Words like "outrageous," "without merit," "bullies," and "wrong side of history" are strong moral judgments and should be included to maintain the framing.
+
+I'll start by outlining the main points: the lawsuit, the arguments from Nebraska and Oklahoma, Colorado's defense, the legal context, the implications of the ruling, and the reactions from supporters and opponents of legalization. Then, I'll weave in the morally framed words naturally into the summary.
+
+I should also be careful to balance the summary, presenting both sides' arguments fairly but highlighting the moral language used by each side. This way, the summary preserves the original article's moral framing as requested.
+
+Finally, I'll review the summary to ensure it's within the word limit and that all key points are covered, with the moral words appropriately integrated. This should meet the user's requirements effectively.
+</think>
+
+**STEP 1:**  
+* Unconstitutional  
+* Prohibits  
+* Undermined  
+* Uphold  
+* Merit  
+* Vigorously  
+* Trafficked  
+* Jeopardy  
+* Precarious  
+* Progress  
+* Success  
+* Trumps  
+* Hands-off  
+* Bullying  
+* Wasting  
+* Universally  
+* Criminal  
+* Violent  
+* Outrageous  
+* Interference  
+
+**SUMMARY:**  
+Nebraska and Oklahoma filed a federal lawsuit against Colorado, claiming its recreational marijuana legalization is unconstitutional under federal law. They argue that Colorado's actions undermine the U.S. Constitution and the Supremacy Clause, which prioritizes federal law over state law. Colorado defends its laws, stating they are supported by voters and that the lawsuit lacks merit. The plaintiffs argue that Colorado's marijuana distribution harms neighboring states, but Colorado counters that the issue stems from federal non-enforcement. Marijuana remains illegal under the 1970 Controlled Substances Act, though several states have legalized it. Critics warn that a Supreme Court ruling against Colorado could jeopardize all state marijuana laws. Supporters of legalization, like Jeff Miron, argue that federal inaction has allowed states to proceed, but a new administration could change this. Anti-legalization groups applaud the lawsuit, while advocates call it "outrageous" and a waste of resources. The debate highlights tensions over federalism and state sovereignty.  
+**END OF SUMMARY.**

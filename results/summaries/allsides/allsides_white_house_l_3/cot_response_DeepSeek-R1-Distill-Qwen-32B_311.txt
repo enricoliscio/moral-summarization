@@ -1,0 +1,31 @@
+<think>
+Okay, I need to help the user by summarizing the given news article while preserving the moral framing. Let me break down the task.
+
+First, the user wants me to identify all the single words that are morally framed. I'll go through the article and pick out words that carry moral connotations. Words like "inexcusable," "discrimination," "bigotry," "equality," etc., seem to fit here.
+
+Next, I need to write a concise summary of the article. It should include as many of those morally framed words as possible without exceeding 200 words. I'll focus on the main points: Obama's visit to the mosque, his message against Islamophobia, his criticism of GOP policies, and his efforts to promote inclusivity.
+
+I should ensure that the summary captures the essence of the article, highlighting the moral issues discussed. I'll structure it to first mention the visit, then his statements against rhetoric, followed by his call for unity and representation in media. I'll also touch on the mixed reactions from the Muslim community.
+
+I need to be careful to include the key moral terms and make sure the summary flows logically. Let me make sure I don't miss any important details, like the statistics about public opinion on Obama's religion and the impact on young Muslims.
+
+Alright, I think I have a good outline. Now, I'll draft the summary, making sure it's within the word limit and includes the necessary moral framing words.
+</think>
+
+**STEP 1:**  
+* Inexcusable  
+* Discrimination  
+* Bigotry  
+* Equality  
+* Belonging  
+* Inclusivity  
+* Tolerance  
+* Extremism  
+* Islamophobia  
+* Stereotyping  
+* Contribution  
+* Unity  
+
+**SUMMARY:**  
+President Barack Obama visited a mosque in Baltimore, emphasizing the importance of Muslim-Americans in the fabric of the nation and countering "inexcusable political rhetoric" from Republican candidates. He rejected policies that single out Muslims for scrutiny, warning such measures amplify terrorist narratives. Obama called for unity, stating Muslims are "Muslim and American," and urged acceptance without bias. He highlighted the struggles of Muslim parents whose children fear deportation, calling such conversations "heartbreaking." Obama also criticized GOP claims that he has not pushed Muslim leaders enough to combat extremism, acknowledging their efforts while urging more amplification of moderate Muslim voices. He advocated for positive media portrayals of Muslims and condemned Islamophobia, referencing conspiracy theories about his own faith. The visit, long-awaited by Muslim groups, aimed to counter discrimination and promote inclusivity, though some criticized it as "too late." Obama's message sought to reaffirm Muslim-Americans' place in the country and reject bigotry, emphasizing the need for collective action against terrorism and prejudice.  
+**END OF SUMMARY.**

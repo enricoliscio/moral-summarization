@@ -1,0 +1,62 @@
+Okay, so I need to help the user by summarizing this news article while preserving the moral framing. Let me start by understanding what the user is asking for. They want me to first identify all the single words that are morally framed in the article and then provide a summary that includes as many of those words as possible.
+
+First, I'll read through the article to get a sense of the main points. Michael Bloomberg is speaking at the Democratic National Convention, criticizing Donald Trump and endorsing Hillary Clinton. He's highlighting Trump's business failures, lack of competence, and other negative traits.
+
+Now, for STEP 1, I need to identify the morally framed words. These are words that carry a strong positive or negative connotation. Let me go through the article again and pick out these words.
+
+- "sane" (positive)
+- "competent" (positive)
+- "dangerous" (negative)
+- "demagogue" (negative)
+- "bad" (negative)
+- "disastrous" (negative)
+- "con" (negative)
+- "cheated" (negative)
+- "disillusioned" (negative)
+- "ripped off" (negative)
+- "hypocrisy" (negative)
+- "wealth" (neutral but in context negative)
+- "success" (positive)
+- "opportunity" (positive)
+- "influence" (neutral but positive in context)
+- "safe" (positive)
+
+I think these words capture the moral framing. Some might be neutral but used in a negative context, so they count.
+
+Next, for the summary, I need to condense the article while including as many of these words as possible. I'll start by mentioning Bloomberg's endorsement of Clinton, his criticism of Trump as a dangerous demagogue, and Trump's business record. I'll include the negative aspects like bankruptcies, lawsuits, and customers feeling ripped off. Highlight Bloomberg's comparison of his own success without a million-dollar check from his father, and his dire predictions about Trump's presidency affecting various aspects of American life.
+
+I should make sure the summary is concise, under 200 words, and flows naturally. I'll avoid including every single morally framed word if it doesn't fit, but include as many as possible without making it awkward.
+
+Let me draft the summary:
+
+Bloomberg endorsed Clinton, criticizing Trump as a dangerous demagogue with a history of bankruptcies and lawsuits. He mocked Trump's claims, noting his customers felt ripped off. Bloomberg highlighted his own success without his father's million-dollar check, suggesting Trump's business plan would harm the economy and communities. He warned of Trump's disastrous impact on various aspects of life.
+
+Wait, that's a bit too brief. Let me expand a bit more, ensuring all key points are covered.
+
+Bloomberg endorsed Hillary Clinton at the DNC, criticizing Donald Trump as a dangerous demagogue with a history of business failures, including bankruptcies and thousands of lawsuits. He mocked Trump's claims, pointing out that Trump's customers often feel ripped off. Bloomberg contrasted his own success, built without a million-dollar check from his father, emphasizing that Trump's business plan would be disastrous, harming the economy, retirement savings, and community safety.
+
+That's better. It includes several morally framed words and stays within the word limit.
+</think>
+
+**STEP 1:**
+
+* sane
+* competent
+* dangerous
+* demagogue
+* bad
+* disastrous
+* con
+* cheated
+* disillusioned
+* ripped off
+* hypocrisy
+* wealth
+* success
+* opportunity
+* influence
+* safe
+
+**SUMMARY:**
+
+Michael Bloomberg, a former New York mayor and Democratic endorser, criticized Donald Trump at the DNC, calling him a "dangerous demagogue" with a history of business failures, including bankruptcies and thousands of lawsuits. Bloomberg mocked Trump's claims, noting his customers often feel "ripped off." He contrasted his own success, built without a "million-dollar check from his father," and warned that Trump's business plan would be "disastrous," harming the economy, retirement savings, and community safety. Bloomberg emphasized that Trump's "hypocrisy" and lack of competence make him unfit for office. END OF SUMMARY.

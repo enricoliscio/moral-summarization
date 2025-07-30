@@ -1,0 +1,14 @@
+Alright, I need to help the user by summarizing the given news article while preserving the moral framing. The user provided a detailed article and a list of morally framed words. My task is to create a concise summary using as many of those words as possible without exceeding 200 words.
+
+First, I'll read through the article to understand the main points. It's about the abortion laws in Alabama and New York, the political and moral arguments surrounding them, and the impact of the Roe v. Wade decision. The author discusses how both extremes are being pushed by each party, leading to polarization.
+
+Next, I'll identify the key morally charged words from the list that are central to the article's argument. Words like "pushing," "allowing," "execution," "lie," "distortion," "violate," "legislation," "bans," "compromise," "polarizing," and "dominated" seem crucial.
+
+I'll structure the summary to highlight the extreme positions of both parties, the media's bias, and the implications of the laws on the broader political landscape. I'll ensure that the moral framing is clear by using the specified words effectively.
+
+Now, I'll draft the summary, making sure it's within the word limit and includes the necessary moral terms. I'll check that each sentence conveys the intended moral stance without being too verbose.
+
+Finally, I'll review the summary to ensure it accurately reflects the article's content and maintains the moral framing as required.
+</think>
+
+SUMMARY: The article examines the moral and political divide over abortion laws in Alabama and New York, highlighting how both extremes are being pushed by respective parties. President Trump accused Democrats of allowing late-term abortions, even describing it as "execution," while Democrats and media labeled his claims as a demagogic lie, distortion, and exaggeration. The debate centers on legislation like Virginia Delegate Kathy Tran's bill, which would have allowed abortions through the 40th week, and Governor Ralph Northam's comments on delivering non-viable infants. Meanwhile, New York's law permits abortions up to birth, while Alabama's near-total ban is unconstitutional under Roe v. Wade. The author argues that Roe v. Wade created a polarized dynamic, imposing a permissive regime and foreclosing state-level compromise, leading to extreme positions. Media coverage reflects this polarization, with Democrats focusing on rare cases of young rape victims and Republicans highlighting late-term abortions. The article suggests that overturning Roe might not defuse passion but could allow states to reflect majority opinion, though the political landscape remains dominated by extremes. END OF SUMMARY.

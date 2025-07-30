@@ -1,0 +1,36 @@
+<think>
+Okay, so the user has given me a task where I need to summarize a news article while preserving the moral framing. They also want me to first identify all the single words that are morally framed. The article is about gun control in the US, comparing it to Australia's approach after mass shootings. 
+
+First, I need to understand what morally framed words are. These are words that carry a moral judgment or implication, such as "ban," "lax," "extremists," etc. I should go through the article and pick out each word that has a moral connotation.
+
+Once I have those words, I need to write a concise summary of the article, making sure to include as many of these morally framed words as possible. The summary should be under 200 words and structured with the "SUMMARY:" token at the start and "END OF SUMMARY." at the end.
+
+I should also ensure that the summary captures the main points: the comparison with Australia, the four steps proposed, the need for background checks, the argument against assault weapons, and the moral implications of gun laws.
+
+I'll start by reading through the article carefully, noting each morally charged word. Then, I'll structure the summary to include these words while conveying the key arguments and moral stance presented in the article.
+</think>
+
+**STEP 1:**  
+* Ban  
+* Lax  
+* Extremists  
+* Profit  
+* Prohibited  
+* Ineffectual  
+* Terrorists  
+* Murderers  
+* Voluntary  
+* Inept  
+* Disgraceful  
+* Ban  
+* Controversial  
+* Oppose  
+* Oppose  
+* Pump  
+* Deadliest  
+* Lethal  
+* Permissible  
+* Credible  
+
+**SUMMARY:**  
+The article discusses the moral imperative to address America's mass shooting problem, drawing comparisons to Australia's successful gun control measures. It highlights the need for four key steps: banning gun sales to those on the "no-fly" list, requiring universal background checks, strengthening the background check system, and ensuring all prohibited purchasers are added to the list. The article condemns the inefficiency of current policies, such as allowing terrorists to bypass checks, and criticizes the gun industry for exploiting loopholes to sell deadly weapons. It argues that assault weapons, like the AR-15, are unnecessary for self-defense and should be banned, as they enable mass destruction. The moral framing emphasizes the urgency of action to prevent further tragedies and hold those responsible accountable. END OF SUMMARY.

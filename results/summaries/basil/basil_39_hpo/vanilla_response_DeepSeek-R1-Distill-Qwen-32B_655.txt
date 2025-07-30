@@ -1,0 +1,10 @@
+Okay, so the user has given me a query where they want me to act as a news summarizer. They provided a news article about Mary Cheney criticizing her sister Liz Cheney's stance on same-sex marriage. The user wants a summary after a "SUMMARY:" token and ending with "END OF SUMMARY." It should be under 200 words.
+
+First, I need to understand the key points of the article. Mary Cheney, who is openly gay and married, criticized her sister Liz on Facebook. Liz opposes same-sex marriage and believes the decision should be left to the states. Mary emphasized that freedom should apply to everyone. Additionally, Liz's stance goes against her father Dick Cheney, who supported same-sex marriage.
+
+I should structure the summary to include both sisters' positions, their relationship, and the broader context, like Dick Cheney's support. I need to keep it concise, so I'll focus on the main statements and the implications of their differing views.
+
+I'll start by introducing Mary's criticism, then Liz's response, mention their family connection, and note Dick Cheney's stance. I'll make sure to stay within the word limit and format the summary correctly with the tokens as specified.
+</think>
+
+SUMMARY: Mary Cheney, the openly gay younger sister of Wyoming U.S. Senate candidate Liz Cheney, criticized her sister's opposition to same-sex marriage in a Facebook post. Mary, who is married to her partner Heather Poe, argued that freedom means equal rights for all families. Liz Cheney, running in the Republican primary against Sen. Mike Enzi, stated she believes marriage decisions should be left to the states and opposes same-sex marriage. This puts Liz at odds with her father, former Vice President Dick Cheney, who supported gay marriage in 2009, stating that freedom should apply to everyone. END OF SUMMARY.

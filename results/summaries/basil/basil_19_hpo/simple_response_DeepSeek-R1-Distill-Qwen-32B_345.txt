@@ -1,0 +1,14 @@
+Okay, I need to help the user by summarizing the given news article. The user wants a summary that preserves the moral framing the author provided. First, I'll read the article carefully to understand the main points.
+
+The article is about Donald Trump pulling out of a debate he was supposed to moderate. He says he's doing this to keep his option open to run as an independent candidate. The Republican Party was asking him to give up that right if he wanted to moderate. Trump initially partnered with Newsmax, but most candidates didn't show up, only Newt Gingrich and Rick Santorum. There was public ridicule, and Trump was considering canceling the debate, even though he said it was still happening as late as Monday night.
+
+Now, I need to identify the moral framing. The author seems critical of Trump's decision, highlighting his inconsistency and the lack of support from other candidates. The summary should reflect that by pointing out the lack of backing, the public's negative reaction, and Trump's flip-flopping.
+
+I'll structure the summary to include Trump's withdrawal, his reason about running independently, the candidates' refusal to attend, the public ridicule, and his indecision. I'll keep it concise, under 200 words, and make sure it ends with the required tokens.
+
+Let me draft it: Trump withdrew from moderating the debate to keep his independent candidacy option. Most candidates didn't attend, only two were coming. He faced public criticism and was indecisive about the event. This shows his inconsistency and lack of support.
+
+I think that captures the moral framing by emphasizing the negative aspects of his decision and the lack of backing.
+</think>
+
+SUMMARY: Donald Trump has withdrawn from moderating a Newsmax debate, citing his desire to preserve the option of running as an independent candidate. He claimed the Republican Party was pressuring him to renounce this possibility if he wanted to moderate. Trump initially partnered with Newsmax to host the forum, but most Republican presidential candidates declined to participate, with only Newt Gingrich and Rick Santorum confirming their attendance. His decision to moderate, as well as his plan to endorse a candidate during the debate, drew widespread public ridicule. Despite earlier assurances that the event would proceed, Trump hinted at canceling it in the days leading up to the announcement. His withdrawal underscores his political inconsistency and the lack of support for his initiative. END OF SUMMARY.

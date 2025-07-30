@@ -1,0 +1,29 @@
+Okay, so the user has given me a query where they want me to act as a news summarizer assistant and a moral expert. They provided a news article about Democrats' efforts to keep abortion access front and center, with several candidates taking steps to show their pro-choice stance. The task has two parts: first, identify all the single words that are morally framed, and second, write a summary preserving those moral framings.
+
+First, I need to understand what morally framed words are. These are words that carry a strong moral or ethical connotation, often used to evoke a particular emotional or ethical response. In the context of this article, words related to rights, freedoms, justice, etc., would likely be morally framed.
+
+Looking at the article, I should go through each sentence and pick out words that have that moral weight. For example, "restrict," "pro-choice," "erode," "tenant," "imposing," "Constitution," "enshrine," "command," "urgency," "risk." These words are used to convey a moral stance on the issue.
+
+Next, I need to summarize the article while keeping as many of these moral words as possible. The summary should be concise, no more than 200 words. I'll start by outlining the main points: Democrats are focusing on abortion access, several candidates are taking strong pro-choice positions, including creating offices, funding abortions, opposing state laws, and legislative actions like the Women's Health Protection Act.
+
+I need to ensure that the summary flows well and includes the key morally framed words. I should also make sure the summary accurately reflects the article's content and the moral framing intended by the author.
+
+Finally, I'll structure the response with STEP 1 listing each moral word and then the SUMMARY section, making sure to end with the specified tokens. I need to keep the language clear and the summary within the word limit.
+
+I should also double-check that I haven't missed any morally framed words and that the summary effectively captures the moral perspective presented in the article. It's important to maintain the tone and emphasis on the ethical aspects of the issue as presented by the Democrats in the article.
+</think>
+
+**STEP 1:**  
+* restrict  
+* pro-choice  
+* erode  
+* tenant  
+* imposing  
+* Constitution  
+* enshrine  
+* command  
+* urgency  
+* risk  
+
+**SUMMARY:**  
+Democrats are intensifying their efforts to protect abortion access amid state-level restrictions, with several 2020 candidates emphasizing their pro-choice stances. Sen. Cory Booker has proposed a "White House Office of Reproductive Freedom" and plans to codify Roe v. Wade into federal law, while Sen. Kristen Gillibrand argues that anti-abortion laws are "against Christian faith" and unconstitutional. Other candidates, including Joe Biden, support enshrining abortion rights federally. Democrats are also advancing the "Women's Health Protection Act" to safeguard Roe v. Wade, with Sen. Richard Blumenthal warning of an urgent threat to women's reproductive rights. END OF SUMMARY.

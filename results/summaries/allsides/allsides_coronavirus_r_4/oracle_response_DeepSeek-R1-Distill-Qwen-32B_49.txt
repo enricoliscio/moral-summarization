@@ -1,0 +1,17 @@
+<think>
+Alright, I need to help the user by summarizing the given news article while preserving the moral framing. Let me start by reading the article carefully.
+
+The article talks about a protest in Kentucky where demonstrators hung an effigy of Governor Beshear. The protest was organized by Take Back Kentucky, aiming to celebrate freedom and oppose coronavirus shutdowns. They started by celebrating the Second Amendment but then focused on fighting against the restrictions. The protesters went to the governor's house and later returned to the capitol to hang the effigy with a Latin phrase, which translates to "thus always to tyrants." The effigy was taken down quickly.
+
+Now, I need to identify the morally framed words used by the author: fight, shutdown, hanging, actions, action, hate, honor, protect, act, healthy, safe, effigy. I should make sure to include as many of these as possible in the summary.
+
+I should structure the summary to include the key points: the protest, the effigy, the reasons behind it, the reaction from both parties, and the moral implications. I need to keep it concise, under 200 words, and end with the specified tokens.
+
+Let me start drafting: Protesters in Kentucky hung an effigy of Governor Beshear, part of a rally against coronavirus shutdowns. They fought for freedom and against restrictions, which shows their stance. The effigy was hung with a message against tyranny, which is a strong moral statement. The backlash from McConnell and others highlights the negative moral judgment. I'll make sure to include words like fight, shutdown, hanging, actions, hate, honor, protect, healthy, safe, and effigy.
+
+I need to ensure the summary flows well and covers all the important points without being too lengthy. Let me check the word count to stay within limits. Also, I should end with the required tokens as specified.
+
+Finalizing the summary: It should mention the protest, the effigy, the reasons, the reactions, and the moral implications, using the specified words. I think that covers all the necessary points while preserving the moral framing.
+</think>
+
+SUMMARY: Protesters in Kentucky hung an effigy of Gov. Andy Beshear during a rally to "fight" against coronavirus shutdowns, celebrating freedom and opposing restrictions. The protest, organized by Take Back Kentucky, began with a focus on the Second Amendment but escalated to include the hanging of the effigy, which bore the phrase "sic temper tyrannies," translating to "thus always to tyrants." The action drew swift backlash, with Republican Sen. Mitch McConnell condemning it as unacceptable and "hate" having no place in Kentucky. Others, including Democratic Mayor Greg Fischer, condemned the act, emphasizing the importance of "protecting" communities and promoting "healthy" and "safe" measures. The effigy was taken down shortly after, but the protest's "actions" sparked widespread moral judgment. END OF SUMMARY.

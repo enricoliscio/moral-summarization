@@ -1,0 +1,36 @@
+Okay, so I'm trying to help this user who wants a news summary with moral framing preserved. They provided a detailed news article about the VA stopping the use of hydroxychloroquine. First, I need to figure out what the user is asking for. They want me to act as a news summarizer and a moral expert, so I should focus on the ethical aspects presented in the article.
+
+The user's query has two main steps. The first is to identify all single words that are morally framed. I need to go through the article and pick out words that carry moral connotations. Words like "unproven," "hope," "dangers," "benefit," "died," "surged," "backlash," "caution," "wishful thinking," "safe," "effective," "risks," "ethically," "morally," and "science" stand out because they relate to ethics, consequences, and values.
+
+Next, I have to write a concise summary that includes as many of these morally framed words as possible. The summary should be under 200 words and preserve the moral framing. I'll need to highlight the VA's decision, the initial use for hope, the risks, the influence of President Trump, the scientific caution, and the shift to remdesivir.
+
+I should make sure the summary flows logically, starting with the VA's action, then the initial justification, the risks, the political influence, the criticism, and the move to more proven treatments. I'll also mention the moral implications like the high death rates and the ethical use of the drug in trials.
+
+I need to be careful to include all the key points without making the summary too long. Also, I must ensure that the morally framed words are naturally integrated into the summary to maintain the ethical perspective the article presents.
+</think>
+
+**STEP 1:**
+
+* unproven  
+* hope  
+* dangers  
+* benefit  
+* died  
+* surged  
+* backlash  
+* caution  
+* wishful thinking  
+* safe  
+* effective  
+* risks  
+* ethically  
+* morally  
+* science  
+
+---
+
+**SUMMARY:**  
+
+The Department of Veterans Affairs (VA) has significantly reduced its use of hydroxychloroquine for COVID-19 treatment in veterans, citing concerns over its unproven efficacy and potential dangers. VA Secretary Robert Wilkie defended the drug's initial use as a way to "give hope" during a time of limited treatment options but acknowledged that studies highlighted risks. The drug's use surged under President Trump's promotion, but prescriptions dropped to just three in the last week as remdesivir became a preferred treatment. VA data revealed that 28% of veterans given hydroxychloroquine died, compared to 11% who received standard care. Wilkie emphasized the VA's mission to "preserve and protect life" and stated that hydroxychloroquine would only be used in limited clinical trials, guided by Dr. Anthony Fauci's cautionary advice. Rep. Nita Lowey criticized the VA for not heeding scientific caution from the start, urging reliance on evidence rather than "wishful thinking." The VA has since shifted to remdesivir and convalescent plasma, aligning with scientific guidance.  
+
+**END OF SUMMARY.**

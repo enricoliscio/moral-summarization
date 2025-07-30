@@ -1,0 +1,14 @@
+STEP 1:
+* Blame
+* Suspect
+* Problem
+* Crops
+* Snag
+* Fault
+* Interrupted
+* Nuisance
+* Danger
+
+SUMMARY: 
+Astronauts encountered a *problem* during the inaugural run of the international space station's new railcar. NASA *blames* the issue on weightlessness, *suspecting* that the car floated off the rail, causing magnetic sensors to lose contact. The railcar's movement was *interrupted* after a short distance, and ground controllers had to take manual control to secure the car. While there is no *danger* of the railcar rolling off the track, engineers may need to adjust the software if the *snag* becomes a *nuisance*. The railcar is an important component of the space station's construction, and the first use is planned for late summer. During the test, the railcar was commanded to move to three different work stations, but the automatic latching system *faulted* and required manual intervention from ground controllers. The railcar will be used to transport the station's robot arm as more girders are installed. Atlantis astronauts are scheduled to finish the installation during a final spacewalk.
+END OF SUMMARY.

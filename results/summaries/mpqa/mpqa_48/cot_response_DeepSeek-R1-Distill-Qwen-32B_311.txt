@@ -1,0 +1,37 @@
+Alright, so I need to help the user by summarizing the news article while preserving the moral framing. Let me break down the task.
+
+First, the user wants me to identify all the single words that are morally framed. I should look for words that carry a positive or negative moral connotation. Words like "values," "protect," "prevent," "degradation," "bio-diversity," "improvement," "mobilized," "resources," "international cooperation," "addressing," "important," "cooperation," "foundation," "future cooperation," "forum," "exchange," "dialogues," "policy," "experts," "implement," "cooperation," and "dialogue." These words all have a positive moral angle, emphasizing efforts and collaboration towards environmental protection.
+
+Next, I need to write a concise summary that includes as many of these morally framed words as possible. The summary should be under 200 words. I'll start by mentioning the minister's emphasis on environmental protection, then touch on the measures Vietnam is taking, like mobilizing resources and international cooperation. I'll highlight the call for a cooperation forum and the adoption of the Kyoto Protocol. It's important to maintain the positive tone and include all key points without making it too lengthy.
+
+I should make sure the summary flows well, connecting the minister's statements with the outcomes of the meeting. Including the establishment of the forum and the call for early implementation of the Kyoto Protocol will show the proactive stance. I'll keep each sentence focused on the main ideas, ensuring all morally framed words are appropriately included.
+
+Finally, I'll review the summary to ensure it's within the word limit and that it captures the essence of the article while preserving the moral framing. This way, the user gets a clear, concise summary that highlights the positive actions and collaborations in environmental protection.
+</think>
+
+**STEP 1:**  
+* Values  
+* Protect  
+* Prevent  
+* Degradation  
+* Bio-diversity  
+* Improvement  
+* Mobilized  
+* Resources  
+* International cooperation  
+* Addressing  
+* Important  
+* Cooperation  
+* Foundation  
+* Future cooperation  
+* Forum  
+* Exchange  
+* Dialogues  
+* Policy  
+* Experts  
+* Implement  
+* Cooperation  
+* Dialogue  
+
+**SUMMARY:**  
+Vietnamese Minister Chu Tuan Nha emphasized Vietnam's commitment to environmental protection, including pollution prevention, biodiversity conservation, and improving industrial and urban areas. The government has mobilized resources and strengthened international cooperation to address environmental issues. The minister highlighted the importance of bilateral cooperation between Asia and Europe, calling for a biennial environment cooperation forum under the Asia-Europe Environment Cooperation Program. The forum would facilitate policy dialogue, information exchange, and expert collaboration. The ASEM Environment Ministers' Meeting concluded in Beijing with the adoption of a statement urging early implementation of the Kyoto Protocol and fostering cooperation and dialogue among ASEM members. END OF SUMMARY.

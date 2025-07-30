@@ -1,0 +1,66 @@
+Alright, I need to help the user with their query. They provided a news article and specific instructions. Let me break it down.
+
+First, the user wants me to act as a news summarizer and moral expert. The task has two parts: identifying morally framed words and summarizing the article while preserving those words.
+
+Starting with STEP 1, I need to go through the article and pick out words that carry moral connotations. Words like "phony," "ideal," "criticized," "attacks," "wrong," "destructive," "nastiness," "divisiveness," "ugliness," "distortions," "anachronistic," "dynamic," "locally run," "should," "oppose," "financing," "design," "optimize," "potential," "criticism," "requirement," "cover," "prenatal," "testing," "save," "money," "abortion," "cull," "ranks," "disabled," "record," "abortion," "sympathy," "scoffed," "focus," "social," "abortion," "contraception," "worried," "undermine," "civil," "liberties," "wars," "debt," "trillion," "worried," "birth," "control," "pills." These words seem to carry moral weight in the context.
+
+Next, for the summary, I need to condense the article, keeping the moral framing intact. The main points are Santorum's comments on Obama's theology, education policies, health care, and the criticism from others. I should mention Gibbs' criticism, Santorum's stance on local education control, his daughter's condition, and Paul's dismissal of social issues.
+
+I need to ensure the summary is under 200 words and includes the morally framed words. I'll structure it to cover Santorum's clarifications, the criticism, his education and health policies, and the rivals' responses.
+
+Let me draft the summary, making sure to include all the key points and the moral terms identified. I'll check the word count to stay within limits.
+</think>
+
+**STEP 1:**  
+* phony  
+* ideal  
+* criticized  
+* attacks  
+* wrong  
+* destructive  
+* nastiness  
+* divisiveness  
+* ugliness  
+* distortions  
+* anachronistic  
+* dynamic  
+* locally run  
+* should  
+* oppose  
+* financing  
+* design  
+* optimize  
+* potential  
+* criticism  
+* requirement  
+* cover  
+* prenatal  
+* testing  
+* save  
+* money  
+* abortion  
+* cull  
+* ranks  
+* disabled  
+* record  
+* abortion  
+* sympathy  
+* scoffed  
+* focus  
+* social  
+* abortion  
+* contraception  
+* worried  
+* undermine  
+* civil  
+* liberties  
+* wars  
+* debt  
+* trillion  
+* worried  
+* birth  
+* control  
+* pills  
+
+**SUMMARY:**  
+Rick Santorum clarified that his comment about President Obama’s “phony theology” referred to Obama’s view of man’s relationship to the world, not his faith. However, Obama’s political adviser, Robert Gibbs, criticized Santorum’s attacks on Obama’s character and faith, calling them “wrong” and “destructive.” Santorum also criticized the idea of federal or state-run schools, calling it “anachronistic,” and argued for local control of education, emphasizing parental responsibility. He defended his criticism of Obama’s health-care policy, which includes prenatal testing coverage, stating it could lead to more abortions and “cull the ranks of the disabled.” Santorum’s rival, Ron Paul, dismissed his focus on social issues like abortion and contraception, arguing that the country’s problems, such as debt and wars, are more pressing. END OF SUMMARY.

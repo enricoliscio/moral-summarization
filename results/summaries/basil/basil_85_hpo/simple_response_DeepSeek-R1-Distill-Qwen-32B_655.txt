@@ -1,0 +1,14 @@
+Okay, so I need to summarize this news article about President Trump's tweets regarding social media companies. The user wants the summary to preserve the moral framing that the author gave. Hmm, first, I should read the article carefully to understand the main points and the tone.
+
+The article says Trump accused social media companies of discriminating against Republicans and conservatives. He mentioned that too many voices are being destroyed, both good and bad, and that it shouldn't be allowed. He suggested letting everyone participate and figure it out together. He also criticized the companies for closing down opinions on the right while not doing anything to others. He talked about censorship being dangerous and impossible to police, and then went on about fake news with CNN and MSNBC, which he watches but with skepticism. He didn't mention anyone specific, but recent bans of Alex Jones were noted.
+
+Now, the user wants a summary that's no longer than 200 words, starting with "SUMMARY:" and ending with "END OF SUMMARY." Also, it should maintain the moral framing. So, I need to capture Trump's criticism of social media for bias against conservatives, his stance against censorship, and his broader attack on media credibility. I should make sure to include that he didn't name anyone but referenced recent bans like Alex Jones.
+
+I should structure the summary to first state Trump's accusation, then his solution, his points about censorship, fake news, and the mention of recent bans. Keeping it concise and within the word limit. Let me draft that.
+
+Wait, the example response the user provided is 180 words. I need to make sure mine is under 200. Let me check the key points: accusation of discrimination, solution to let everyone participate, criticism of censorship, mention of fake news, and reference to recent bans without naming specific individuals.
+
+I think that covers all the main points. Now, I'll write the summary accordingly, ensuring it's clear and concise, and ends with the required tokens.
+</think>
+
+SUMMARY: President Donald Trump criticized social media companies on Twitter, alleging they are "totally discriminating against Republican/Conservative voices." He argued that too many voices, both good and bad, are being suppressed and called for allowing everyone to participate, stating that society must "figure it out" collectively. Trump accused the platforms of silencing conservative opinions while taking no action against others, warning that censorship is dangerous and impossible to regulate. He also criticized "fake news" outlets like CNN and MSNBC, admitting he watches them but with skepticism. While not naming anyone specifically, his comments came amid recent bans of conspiracy theorist Alex Jones and his website Infowars by several tech companies. END OF SUMMARY.

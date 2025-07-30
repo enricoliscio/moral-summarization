@@ -1,0 +1,13 @@
+<think>
+Okay, so I need to help this user who wants a news summary that preserves the moral framing from the original article. The user is a news summarizer and a moral expert, so they're looking for a concise summary that includes the specific morally charged words they've highlighted: "useless," "misinformed," "closing," and "insisted."
+
+First, I'll read through the provided news article to understand the main points. It's about Trump's campaign promise to build a wall on the Mexico border and his claim that Mexico will pay for it. The article mentions former Mexican presidents Vicente Fox and Felipe Calderón who both oppose Trump's plan, calling it "useless" and "stupid." They argue that Mexico won't pay and that Trump is "misinformed" about immigration and economic impacts. Trump, in response, insists he can make Mexico pay and criticizes Fox for using profanity.
+
+Now, I need to craft a summary that includes the four moral words. I'll make sure to mention Fox and Calderón's opposition, using "useless" and "misinformed." I'll also include Trump's insistence on Mexico paying and perhaps the "closing" of the border, though that might not fit as naturally. I'll structure the summary to highlight the key points, keeping it under 200 words and ending with the specified tokens.
+
+I should ensure the summary flows well and accurately reflects the article's content while emphasizing the moral framing. I'll start by stating Trump's plan and the fan response, then move to the former presidents' criticisms, their reasons, and Trump's response. I'll make sure each morally framed word is included where appropriate.
+
+Let me draft this, ensuring each point is covered concisely and the moral terms are preserved. I'll check the word count to stay within limits and make sure it ends correctly with the tokens.
+</think>
+
+SUMMARY: Donald Trump has repeatedly vowed to build a wall along the U.S.-Mexico border, insisting Mexico will pay for it. However, former Mexican presidents Vicente Fox and Felipe Calderón have strongly opposed this plan, calling it "useless" and "stupid." Fox criticized Trump as "egocentric" and "misinformed" about immigration, while Calderón argued that closing the border would harm the U.S. economy. Trump has "insisted" that he can compel Mexico to pay, but he also condemned Fox for using profanity in his criticism. The former Mexican leaders urged Hispanic voters to reject Trump, deeming his promises misleading. END OF SUMMARY.

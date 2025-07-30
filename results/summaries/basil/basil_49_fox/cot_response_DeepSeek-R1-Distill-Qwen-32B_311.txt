@@ -1,0 +1,30 @@
+Alright, I need to help the user by summarizing the given news article while preserving the moral framing. The user has specified a two-step process: first, identify all the single words that are morally framed, and then write a concise summary using those words.
+
+Starting with the first step, I'll go through the article to pick out words that carry a moral connotation. Words like "defends," "challenges," "Promise," "without merit," "concern," "flowing," "reap," "bear," "cost," "failed," "frustrated," "grandstanding," "wrong," "history," and "experiment." These words seem to carry the moral weight the author used.
+
+Now, for the summary, I need to condense the article into under 200 words, making sure to include these morally framed words. I'll focus on the main points: Colorado defending its marijuana law, the lawsuit from Nebraska and Oklahoma, the arguments about federal law, the financial impacts, and the reactions from both sides.
+
+I should ensure that the summary flows logically, starting with Colorado's defense, the lawsuit details, the arguments from both states, the financial aspects, and the legal scholars' perspectives. I'll also include the reactions from the attorney general and the advocates, using the identified moral words to maintain the framing.
+
+I need to be careful not to add any new information beyond what's in the article and keep the summary concise. Let me structure it step by step, making sure each paragraph isn't too long and that all key points are covered succinctly.
+</think>
+
+**STEP 1:**  
+* defends  
+* challenges  
+* Promise  
+* without merit  
+* concern  
+* flowing  
+* reaps  
+* bear  
+* cost  
+* failed  
+* frustrated  
+* grandstanding  
+* wrong  
+* history  
+* experiment  
+
+**SUMMARY:**  
+Colorado's Attorney General, John Suthers, has vowed to defend the state's marijuana legalization law, Amendment 64, after Nebraska and Oklahoma filed a lawsuit claiming it violates federal law and the Constitution's supremacy clause. The lawsuit accuses Colorado of failing to prevent marijuana from flowing into neighboring states, undermining their anti-marijuana efforts and straining their finances and legal systems. Colorado has generated over $60 million in taxes and fees from marijuana sales, while Nebraska and Oklahoma argue they are bearing the costs of enforcement. Nebraska Attorney General Jon Bruning criticized the federal government for not enforcing marijuana bans, while Colorado's advocates, including legalization proponent Brian Vicente, dismissed the lawsuit as "political grandstanding." Legal scholars note the case is unusual, as states rarely sue each other, and its outcome remains uncertain. Colorado Governor John Hickenlooper expressed doubt that litigation is the best approach to resolving the issue. END OF SUMMARY.

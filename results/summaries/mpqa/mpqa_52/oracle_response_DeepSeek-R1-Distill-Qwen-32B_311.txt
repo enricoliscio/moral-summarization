@@ -1,0 +1,16 @@
+Alright, so I need to help the user by summarizing a news article while preserving the moral framing. Let me read through the query again to make sure I understand the requirements.
+
+The user provided a news article about President Khatami congratulating Hugo Chavez after a failed coup in Venezuela. They also listed specific morally framed words that should be included in the summary. The summary needs to be concise, no longer than 200 words, and should end with the specified tokens.
+
+First, I'll read the article to grasp the main points. It's about Iran's support for Venezuela after a coup attempt. Khatami congratulates Chavez, emphasizing justice and freedom. Chavez talks about the failed coup and its aims, like Venezuela leaving OPEC. There's also Iran's condemnation of the coup and their support for Chavez's return.
+
+Now, I need to identify the key morally charged words from the list provided. These include coup, justice, freedom, difficult, attempts, topple, reestablishment, collapsed, ouster, force, method, conformity, detained, forced, deaths, violent.
+
+I should structure the summary to include these words where appropriate. I'll start by mentioning Khatami's congratulation and the moral stance on the coup. Then, I'll cover Chavez's perspective on the coup's aims and the failed attempt. Finally, I'll include Iran's condemnation of the coup and their support for Chavez's return.
+
+I need to ensure the summary flows well and doesn't exceed 200 words. I'll also make sure to include all the necessary moral terms without making the summary feel forced. Let me draft this step by step, checking each point and the word count as I go.
+</think>
+
+SUMMARY:  
+President Mohammad Khatami congratulated Venezuela's government and people for the restoration of President Hugo Chavez after a failed military coup, calling it a victory for justice and freedom. During a telephone conversation, Khatami expressed hope that Chavez's government would achieve its goals with popular support. Chavez described the anti-democratic attempts to topple his government as failures, attributing the reestablishment of legal order to divine help and popular resistance. He revealed that the coup's backers sought to remove Venezuela from OPEC by increasing oil production. Iran condemned the coup, stating that resorting to force and coups is unacceptable and violates human society's norms. Chavez returned to power after being detained on a Caribbean island, resuming his presidency. The coup followed violent demonstrations in Caracas, with Chavez's supporters blaming the opposition for the deaths of 15 people. Chavez, a advocate for oil production cuts to boost global prices, had been forced out of office by the military.  
+END OF SUMMARY.

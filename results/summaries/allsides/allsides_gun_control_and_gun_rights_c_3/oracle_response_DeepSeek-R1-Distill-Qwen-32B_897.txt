@@ -1,0 +1,16 @@
+Okay, so the user wants me to act as a news summarizer assistant and a moral expert. They provided a news article about the San Francisco Board of Supervisors declaring the NRA a domestic terrorist organization. The task is to summarize the article while preserving the moral framing used by the author.
+
+First, I need to read through the article carefully to understand the key points. The main points are that the Board passed a resolution labeling the NRA as a domestic terrorist organization, citing their role in the epidemic of gun violence. They want to distance themselves by examining vendors and contractors tied to the NRA. The resolution also mentions the NRA spreading propaganda that misinforms the public about gun dangers.
+
+I should note the morally charged words the author used: violence, misinforms, deceive, control, saving, killed, homicide, die, shooting, remedy, gripping, assault, shootings. I need to include as many of these as possible in the summary without making it too long—under 200 words.
+
+I'll start by identifying the main actions: the resolution passed, the reasoning behind it, the impact on local businesses, and the NRA's response. I should also mention the statistics about gun violence and the context of recent shootings.
+
+I need to make sure the summary flows logically, starting with the resolution, then the reasons, the consequences, the NRA's response, and the broader context of gun control discussions. I should use the moral terms to highlight the negative framing of the NRA's actions.
+
+Let me draft the summary, making sure to include all the key points and the moral language. I'll check the word count to ensure it's concise. Also, I need to end with the specified tokens, so I'll make sure to include "SUMMARY:" at the beginning and "END OF SUMMARY." at the end.
+
+After drafting, I'll review to ensure all the morally framed words are included where appropriate and that the summary accurately reflects the article's content and tone.
+</think>
+
+SUMMARY: The San Francisco Board of Supervisors unanimously passed a resolution declaring the National Rifle Association (NRA) a "domestic terrorist organization," citing its role in the "epidemic of gun violence" in the U.S. The resolution accuses the NRA of spreading propaganda that "misinforms" and "deceives" the public about the dangers of gun violence, while opposing "gun control" measures that could "save lives." Supervisor Catherine Stefani, who sponsored the resolution, described the NRA as "absolutely disgraceful" and emphasized the need to distance San Francisco from the organization by examining local vendors' and contractors' ties to it. The resolution also aims to influence similar legislation at higher levels. The NRA condemned the resolution, calling it a "reckless assault" on its members' freedoms and a "worthless soundbite remedy" to the "violence gripping" the nation. The move comes amid national attention on gun violence, following recent mass shootings and ongoing debates over gun control. END OF SUMMARY.

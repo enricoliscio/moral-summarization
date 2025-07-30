@@ -1,0 +1,20 @@
+Okay, so the user has given me a query where they want to summarize a news article while preserving the moral framing. They also mentioned that I should act as a news summarizer and a moral expert. The article is about New York's Rockland County issuing subpoenas to people who refused to speak with contact tracers. 
+
+First, I need to understand the key points of the article. The main points are: officials issuing subpoenas to eight people infected with COVID-19, their refusal to talk with contact tracers, the party where the infection cluster started, and the importance of contact tracing in controlling the spread. The moral framing here seems to be about responsibility towards the community and the consequences of refusal to cooperate.
+
+I should start by identifying the main elements: who, what, when, where, why. The who is Rockland County officials, the what is issuing subpoenas, the when is after the party on June 17, the where is Clarkstown, and the why is to control the spread of COVID-19.
+
+Next, I need to capture the moral aspect. The officials are frustrated because people are refusing to cooperate, which puts the community at risk. They're using subpoenas as a last resort, emphasizing the importance of doing the right thing for neighbors. The refusal is seen as irresponsible and against the collective good.
+
+I should also mention the penalties, $2,000 per day, to highlight the consequences of non-compliance. This adds to the moral framing by showing that there are both moral and legal repercussions for ignoring public health measures.
+
+I need to keep the summary concise, under 200 words, so I'll have to be precise. I'll structure it by first stating the action taken by officials, then the reason (refusal to speak), the context of the party, the consequences, and the officials' frustration and emphasis on community responsibility.
+
+I should also make sure to include the quotes from the officials to maintain the moral tone they expressed. For example, Ed Day's statement about not wanting to get anyone in trouble but needing cooperation, and Rupert's frustration with people not answering or lying.
+
+Finally, I'll ensure that the summary flows logically, starting with the action, then the context, the reasons, and the implications. This way, the moral framing is preserved, showing the tension between individual actions and community health.
+</think>
+
+SUMMARY:  
+Officials in New York’s Rockland County have issued subpoenas to eight individuals infected with COVID-19 for refusing to cooperate with contact tracers. County Executive Ed Day emphasized the importance of protecting public health, stating that refusal to comply would result in daily fines of $2,000. Health Commissioner Patricia Rupert explained that the eight individuals failed to respond to requests for interviews about a June 17 party in Clarkstown, where the virus likely spread. She expressed frustration, noting that some individuals hung up, denied attending the party, or provided false information. Rupert stressed the need for cooperation to prevent further transmission, as contact tracing is critical to controlling the virus. Day reiterated that the goal is to protect the community, not punish individuals, but added that the refusal to cooperate left officials no choice but to issue subpoenas. The cluster of infections linked to the party highlights the challenges in containing the virus when cooperation is lacking.  
+END OF SUMMARY.

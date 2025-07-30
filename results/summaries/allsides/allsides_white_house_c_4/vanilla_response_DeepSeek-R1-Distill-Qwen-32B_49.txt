@@ -1,0 +1,16 @@
+Okay, so the user wants me to summarize this news article about the White House seeking emergency funds after Hurricane Sandy. They specified that the summary should be after a "SUMMARY:" token and end with "END OF SUMMARY." Also, it needs to be under 200 words. 
+
+First, I'll read through the article to understand the main points. The key elements are the funding request, the amount, the focus on future prevention, the damages in each state, and the discussions about rebuilding strategies.
+
+I should start by stating that the White House is requesting $50-60 billion. Then mention that part of this is for preventing future disasters. Next, outline the damages in New York, New Jersey, and Connecticut, totaling around $80 billion. 
+
+Then, I need to include the points about rebuilding smarter, like underground power lines, but also note the concerns about delays and budget offsets. 
+
+I should keep each sentence concise to stay within the word limit. Make sure to include the main stakeholders: HUD Secretary Shaun Donovan, Sen. Kirsten Gillibrand, and FEMA's Craig Fugate. 
+
+Also, highlight the opposition to budget cuts and the urgency for immediate funding. 
+
+I'll structure it so each paragraph covers a main point without getting too detailed. Finally, ensure the summary starts and ends with the specified tokens and stays under 200 words.
+</think>
+
+SUMMARY: The White House plans to request $50-60 billion in emergency funding from Congress to address the devastation caused by Hurricane Sandy, which has left billions in damages across the Northeast. New York alone estimates $32.8 billion in losses, with thousands of homes and businesses affected. Federal officials aim to allocate some funds toward building resilience against future storms, including smarter rebuilding strategies and infrastructure improvements. However, some lawmakers propose providing only a portion of the aid now, a move HUD Secretary Shaun Donovan opposes, citing the urgent need for immediate relief. The administration also stresses that disaster aid should not be offset by budget cuts elsewhere. END OF SUMMARY.

@@ -1,0 +1,55 @@
+Alright, so I've got this query from a user who wants me to act as a news summarizer and a moral expert. They provided a news article about Donald Trump and Barack Obama's statements regarding mass shootings and the moral implications involved. The user wants me to first identify all the single words that are morally framed in the article, then summarize the article while preserving those moral framings.
+
+First, I need to understand what's being asked. The user is asking for two things: a list of morally framed words and a concise summary that includes those words. The summary should be under 200 words and follow a specific structure with "SUMMARY:" and "END OF SUMMARY." tokens.
+
+Looking at the article, I need to identify words that carry moral connotations. These are words that evoke emotions or judgments, like "condemn," "fear," "racist," etc. I'll go through the article paragraph by paragraph, picking out each word that fits this criterion. I'll make sure to list each on a new line with a *.
+
+Next, for the summary, I need to condense the article, ensuring that the key points are covered while incorporating as many of the identified moral words as possible. The summary should reflect the moral framing the author intended, so I'll focus on the main arguments from both Trump and Obama, the criticism Trump received, and the context of the mass shootings.
+
+I also need to be concise, so I'll make sure each sentence is impactful and includes the necessary moral terms without being redundant. I'll structure the summary to flow logically, starting with Obama's statement, Trump's response, the criticism against Trump, and the implications of their statements on national unity and gun control.
+
+I should double-check that I haven't missed any key points, like the mention of Fox & Friends, the statistics on mass shootings, and the political implications of the statements. Also, ensuring that the summary doesn't exceed 200 words is important, so I'll keep an eye on the word count as I write.
+
+Finally, I'll review the summary to make sure it accurately reflects the original article's moral framing and that all the key morally charged words are included. This way, the user gets both the list of words and a well-structured, concise summary that preserves the moral context.
+</think>
+
+**STEP 1:**
+
+* Condemn  
+* Fear  
+* Racist  
+* Sentiments  
+* Helpless  
+* Accountable  
+* High frequency  
+* Slaughter  
+* Tragedies  
+* Emboldening  
+* Racist  
+* Nationalist  
+* Hatred  
+* Division  
+* Heal  
+* Obligated  
+* Violently  
+* Preserve  
+* White supremacy  
+* Ideologies  
+* Demonise  
+* Subhuman  
+* Tragedy  
+* History  
+* Politics  
+* Public life  
+* Disparagingly  
+* Invasion  
+* Racial  
+* Resentments  
+* Disgusting  
+* Rat and rodent infested mess  
+
+---
+
+**SUMMARY:**  
+Barack Obama criticized the normalization of racist sentiments and called for accountability in addressing mass shootings, indirectly targeting Donald Trump. Trump responded by citing a Fox & Friends segment, claiming Obama had 32 mass shootings during his presidency. Trump has faced criticism for linking violence to video games and mental illness, rather than gun laws, and for emboldening white nationalists through racist rhetoric. The El Paso shooter’s anti-immigrant screed echoed Trump’s language, sparking outrage. Trump’s visit to El Paso was opposed by Beto O’Rourke, who accused him of fueling hatred. Obama warned against leaders who demonize others, emphasizing that such language leads to tragedy. Trump has recently stoked racial tensions, including tweets targeting congresswomen of color. Obama urged Americans to reject rhetoric that threatens unity and promotes violence, while Trump’s focus on non-gun causes drew further criticism.  
+END OF SUMMARY.

@@ -1,0 +1,19 @@
+<think>
+Okay, so I need to help the user by summarizing this news article while preserving the moral framing. The user mentioned that they're a news summarizer and a moral expert, so they probably want the summary to reflect the ethical or moral implications as the original article did. 
+
+First, I'll read through the article to understand the main points. It's about the conflict between Ted Cruz and Donald Trump, specifically regarding attacks on their respective spouses. The article mentions Cruz blaming Trump for a National Enquirer story alleging affairs, and Trump's campaign attacking Cruz's wife's mental health. There's also a part where Cruz is reconsidering his support for Trump if he wins the nomination.
+
+The user provided a list of morally framed words: affairs, attack, lies, smear, spill, used. I need to make sure these words are included in the summary. 
+
+I'll start by identifying the key events: Cruz accuses Trump of orchestrating the affair story, Trump's campaign attacks Heidi, Cruz's withdrawal of support, the ad with Melania, and the broader implications of personal attacks in the campaign.
+
+I should structure the summary to include these points, using the specified moral terms. I'll need to keep it concise, under 200 words, so I'll focus on the main conflicts and the moral language used.
+
+I also need to ensure that the summary flows logically, showing the escalating tension and the personal nature of the attacks. Highlighting the use of smear tactics and lies will emphasize the moral framing.
+
+Finally, I'll make sure to end with the required tokens, "SUMMARY:" and "END OF SUMMARY." to meet the user's formatting instructions.
+</think>
+
+SUMMARY:  
+Sen. Ted Cruz has escalated the personal conflict with Donald Trump over attacks on their respective spouses, accusing Trump of orchestrating the National Enquirer's false allegations of extramarital affairs. Cruz also criticized Trump for attacking his wife's mental health, stating he won't support a candidate who "attacks my wife and family." Cruz claimed the Enquirer story was a "tabloid smear" from Trump and his team, calling it "garbage" and "complete and utter lies." Trump's campaign fired back, with spokeswoman Katrina Pierson dismissing the claims as "stupidity on all levels." The feud began when a super PAC opposing Trump released an ad featuring Melania Trump in a risqué photo, prompting Trump to threaten to "spill the beans" about Heidi Cruz. Cruz denied involvement in the ad, calling Trump a "coward" for targeting his wife. The escalating personal attacks highlight the increasingly toxic nature of the GOP race, with Cruz struggling to challenge Trump's delegate lead.  
+END OF SUMMARY.

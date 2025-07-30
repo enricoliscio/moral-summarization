@@ -1,0 +1,30 @@
+Alright, I'm trying to figure out how to approach this query. The user has provided a news article and specific instructions on how to summarize it while preserving the moral framing. They want me to first identify all the morally framed single words and then create a concise summary using those words.
+
+First, I need to understand what morally framed words are. These are words that carry a positive or negative connotation related to ethics or values. For example, "disagreed" shows a negative stance, while "committed" shows a positive one.
+
+Looking at the article, I'll go through each sentence and pick out words that have a moral connotation. Words like "disagreed," "denied," "dumping," "cosying up," "hurt," "concerned," "committed," and "should not follow" all carry moral weight. These words reflect the author's judgment on the actions or decisions made by the countries involved.
+
+Next, I need to summarize the article, making sure to include these morally framed words. The summary should be under 200 words and capture the essence of the article, highlighting the disagreements and the moral implications of the decisions made by the UK, Australia, and the US regarding the Kyoto Protocol.
+
+I'll structure the summary by first mentioning Blair's disagreement, then Australia's position, the critics' perspective, the US's stance, and the ongoing commitment to Kyoto. I'll ensure that each morally framed word is included to preserve the author's moral framing.
+
+I should also make sure the summary flows logically, starting with Blair's statement, moving to Australia's response, the criticism, the US's role, and the future implications. This way, the summary not only informs but also reflects the moral judgments present in the original article.
+
+Finally, I'll review the summary to ensure it's concise and within the word limit, while all the key points and moral words are included. This approach should meet the user's requirements effectively.
+</think>
+
+### STEP 1:  
+* disagreed  
+* denied  
+* dumping  
+* cosying up  
+* hurt  
+* concerned  
+* committed  
+* should not follow  
+
+---
+
+### SUMMARY:  
+Tony Blair expressed disagreement with Australia's decision to sign a climate change deal with the US, criticizing it as a move that could signal Australia's abandonment of the Kyoto Protocol. Australia's Federal Government denied this, stating its commitment to Kyoto while also pursuing a "climate action partnership" with the US. Critics argue that Australia is "cosying up" to the US, which opposes the Kyoto Protocol, despite claiming not to "dump" it. The future of the protocol, which aims to reduce greenhouse gas emissions, will be decided at a meeting in Johannesburg. Environment Minister David Kemp reaffirmed Australia's commitment to Kyoto, while Opposition spokesman Kelvin Thomson urged Australia not to "follow the US position." Blair acknowledged a "disagreement" with the US and Australia on climate change, though he noted it is up to individual countries to decide their stance. He also expressed growing concern about the issue, suggesting the Kyoto Protocol may not go far enough.  
+END OF SUMMARY.

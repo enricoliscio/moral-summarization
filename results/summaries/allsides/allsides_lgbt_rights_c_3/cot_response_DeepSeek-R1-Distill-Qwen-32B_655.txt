@@ -1,0 +1,43 @@
+Okay, so the user has given me a task where I need to summarize a news article while preserving the moral framing. They also want me to identify the morally framed words first. Let me break this down.
+
+First, I need to understand what the article is about. It's about an Appeals Court striking down same-sex marriage bans in Wisconsin and Indiana. The judge, Richard Posner, is a key figure here. He's a Reagan appointee, which might be relevant for context.
+
+Now, the user wants me to identify all the single words that are morally framed. That means I need to look for words that carry a moral connotation, either positive or negative. Words like "discrimination," "unconstitutional," "equality," "right," etc. I'll go through the article and pick out these words.
+
+Once I have those, I need to write a summary that includes as many of these morally framed words as possible. The summary should be concise, under 200 words, and should reflect the moral arguments presented in the article.
+
+I should make sure that the summary captures the main points: the court's decision, the reasoning by Judge Posner, the arguments about tradition and discrimination, and the comparison to interracial marriage. Also, the part about the states' arguments failing because of empirical data on out-of-wedlock births is important.
+
+I need to ensure that the summary flows well and accurately represents the moral stance taken in the original article. I'll start by outlining the key points and then incorporate the morally framed words into the summary.
+
+Let me also consider the user's deeper needs. They might be looking for a clear, concise summary that highlights the moral aspects without losing the essential details. They could be using this for a presentation, a report, or to understand the case quickly.
+
+I should double-check that all the morally framed words are included and that the summary doesn't omit any critical moral arguments made by the court. Also, I need to keep the language clear and straightforward, avoiding any unnecessary jargon.
+
+Finally, I'll make sure the summary starts with the "SUMMARY:" token and ends with "END OF SUMMARY." to meet the user's formatting requirements.
+</think>
+
+### STEP 1:
+* Discrimination  
+* Forbidden  
+* Reasonable basis  
+* Rational  
+* Press  
+* Protect  
+* Abandoned  
+* Better off  
+* Unwanted  
+* Accidental  
+* Channeling  
+* Foster care  
+* Model parents  
+* Unconstitutional  
+* Tradition  
+* Empirical data  
+* Distressed  
+* Justify  
+
+---
+
+### SUMMARY:  
+The U.S. Court of Appeals for the Midwest has struck down same-sex marriage bans in Wisconsin and Indiana, joining two other federal appeals courts in ruling such bans unconstitutional. Judge Richard Posner, a Reagan appointee, led a unanimous panel in finding no reasonable basis for forbidding same-sex marriage, calling the states' arguments "so full of holes that they cannot be taken seriously." Posner emphasized that the bans discriminately targeted same-sex couples, who often adopt children and would benefit emotionally and economically from marriage. He criticized the states' claim that traditional marriage protects children from accidental pregnancies, noting that empirical data shows out-of-wedlock births have risen despite the bans. Posner also rejected the argument that tradition justifies discrimination, referencing the Supreme Court's 1967 ruling on interracial marriage. The cases are now headed to the Supreme Court, with the outcome expected before June. END OF SUMMARY.

@@ -1,0 +1,15 @@
+<think>
+Okay, so the user has given me a task where I need to summarize a news article while preserving the moral framing the author used. The article is about President Obama visiting a mosque and addressing issues related to Muslim-Americans. 
+
+First, I should read through the article to understand the main points. The key elements are Obama's visit, his message against anti-Muslim rhetoric, his encouragement for Muslims to speak out against terrorism, and his criticism of GOP counterterror plans. He also addresses Islamophobia and conspiracy theories about him being Muslim.
+
+The user provided a list of morally framed words that I need to include in the summary. I should make sure to incorporate as many of these as possible without making the summary too long. The summary needs to be concise, under 200 words, and should end with the specified tokens.
+
+I'll start by identifying the main moral points: rebutting rhetoric, countering terror, protecting faiths, addressing bigotries, and amplifying Muslim contributions. I should structure the summary to include these points, using the provided words where appropriate.
+
+I also need to mention his visit as a symbolic act and the reactions, both positive and negative, from the community. Including the part about Islamophobia and the conspiracy theories adds depth to the moral framing.
+
+Putting it all together, I'll ensure the summary flows logically, highlighting Obama's message, his criticism of policies, the emotional impact on Muslim families, and the broader implications of his visit. I'll make sure to keep the language clear and within the word limit.
+</think>
+
+SUMMARY: President Barack Obama visited a mosque in Baltimore, emphasizing that Muslim-Americans are integral to the fabric of the United States and rejecting "inexcusable political rhetoric" targeting them. He condemned GOP counterterrorism plans that single out Muslims, warning such measures would amplify terrorist messages. Obama urged Muslims to speak out against extremism, highlighting the importance of amplifying their voices and lifting their contributions in media. He expressed heartbreak over Muslim children's anxieties about being forced out of the country, calling for acceptance without bias. Obama also addressed Islamophobia and conspiracy theories suggesting he is Muslim, noting he is not the first to face such claims. The visit, long advocated by Muslim groups, aimed to counter anti-Muslim bigotry and reinforce the idea that America protects all faiths. While some praised the gesture, others criticized it as too late. Obama's speech sought to share the message that Muslims are part of America, countering terrorism and Islamophobia while emphasizing the need to protect the nation without reinforcing terrorist rhetoric. END OF SUMMARY.

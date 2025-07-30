@@ -1,0 +1,16 @@
+Okay, so the user wants me to summarize this news article about the Endeavour docking with the International Space Station. Let me read through the article first to get the main points. 
+
+The article starts by saying that Endeavour docked with the ISS, delivering a new three-person crew. The shuttle took two days to catch up, orbiting 250 miles above the Polish-Ukrainian border. The commander, Frank Culbertson, was waiting to go home after four months. He mentioned feeling isolated and frustrated after 9/11. His crew was two Russians. Once the shuttle was close, Culbertson greeted them and rang the bell, a tradition. The old crew will leave today, and the new crew, led by Yuri Onufrienko, will stay until May.
+
+I need to condense this into a summary under 200 words. I'll focus on the key events: docking, delivery of new crew, the old crew's feelings, and the handover. I should mention the commander, the distance, the greeting, and the new crew's stay duration. Keep it concise and clear.
+
+Wait, the user also specified the summary should start with "SUMMARY:" and end with "END OF SUMMARY." So I'll make sure to include those tokens. Also, the summary should be in English, as the original article is in English.
+
+Let me structure it: Start with the docking, mention the new crew, the old crew's emotions, the docking details, the greeting, and the handover. Make sure it's all within 200 words. I'll check the word count after drafting.
+
+I think that's all. Time to put it together.
+</think>
+
+SUMMARY:  
+Space shuttle Endeavour successfully docked with the International Space Station (ISS) on Friday, delivering a new three-member crew to relieve the current crew, who have been on the station since August. The shuttle, traveling 250 miles above the Polish-Ukrainian border, completed a two-day orbital chase. ISS commander Frank Culbertson, who expressed feelings of isolation and frustration after the Sept. 11 attacks, welcomed the arrival of Endeavour, his ride home. Culbertson and his Russian crewmates, Vladimir Dezhurov and Mikhail Tyurin, will depart the station today. Taking their place will be Russian Yuri Onufrienko, the new commander, and Americans Carl Walz and Daniel Bursch, who will remain on the station until May.  
+END OF SUMMARY.

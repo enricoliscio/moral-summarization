@@ -1,0 +1,37 @@
+Okay, so the user has provided a query where they want me to act as a news summarizer and a moral expert. The task is to summarize a given news article while preserving the moral framing. They've broken it down into two steps: first, identifying morally framed words, and then writing the summary.
+
+First, I need to understand what morally framed words are. These are words that carry a strong positive or negative connotation, indicating approval or disapproval. So, I'll go through the article and pick out words like "failures," "devastating," "barred," "catastrophe," etc. Each of these words carries a moral judgment, either criticizing actions or outcomes.
+
+Next, for the summary, I need to condense the article while keeping those moral words intact. The article talks about Cuomo's policies leading to high nursing home deaths, compares it with Florida's approach, and discusses the political and social factors affecting the pandemic response in different states. I should make sure to include the key points about Cuomo's decisions, the comparison with Florida, the Governors' refusal to mandate masks, the impact of protests, and the overall political climate.
+
+I also need to ensure the summary is concise, under 200 words, and flows naturally while preserving the moral tone. I should avoid any markdown and keep it in plain text. I'll start with the "SUMMARY:" token and end with "END OF SUMMARY."
+
+I should check that each step is clearly marked as per the instructions, using "STEP 1:" for the list of words and then moving on to the summary. Making sure each word is on a new line with an asterisk.
+
+Finally, I'll review the summary to ensure it captures all the essential points and maintains the moral framing without adding any personal opinions beyond what's in the article.
+</think>
+
+**STEP 1:**
+
+Here are the morally framed words identified in the text:
+
+* Devastating  
+* Failures  
+* Barred  
+* Catastrophe  
+* Hypocritical  
+*工具 of social control  
+* Paranoia  
+* Resentment  
+* Harassment  
+* Armed protesters  
+* Pummeled  
+* Lost  
+
+---
+
+**SUMMARY:**  
+
+The article highlights the moral failures of Democratic leaders during the COVID-19 pandemic, particularly New York Governor Andrew Cuomo, whose policies led to thousands of deaths in nursing homes. Cuomo's decision to force nursing homes to accept COVID-positive residents without testing contributed to a catastrophe, with over 6,000 deaths in New York nursing homes. In contrast, Florida, which prohibited such transfers, saw far fewer deaths. While Cuomo eventually implemented a lockdown, other states like Arizona, Florida, and Texas have failed to adopt basic measures like mask mandates, exacerbating the crisis. The article also criticizes the political and cultural divide, with conservatives viewing pandemic restrictions as hypocritical tools of control, leading to harassment and threats against public health workers. As the pandemic continues to devastate red states, the lack of political will to contain the virus is evident, while other countries with competent leadership are returning to normal. Trump's downplaying of the pandemic and the loss of the "war" against COVID-19 further underscore the failure of leadership in the U.S.  
+
+**END OF SUMMARY.**

@@ -1,0 +1,16 @@
+Alright, so the user has given me a query where they want a news summary preserving the moral framing. I need to understand what exactly they're asking for. They provided a detailed news article about the Benghazi attack and the Obama administration's handling of it. The user is acting as a news summarizer and a moral expert, so the summary needs to highlight the moral implications without losing the original author's perspective.
+
+First, I should read through the article to grasp the main points. It's about how the State Department downplayed warnings about the Benghazi attack, with Victoria Nuland trying to remove references to prior attacks to avoid scrutiny. There were classified cables indicating a severe threat, but Secretary Clinton claimed she wasn't aware of them. The summary needs to capture the negligence and failure in leadership, emphasizing the moral failure.
+
+I need to make sure the summary is concise, under 200 words, and includes the key elements: the State Department's actions, the warnings, Clinton's testimony, the internal review, and the negligence. I should avoid any markdown and keep it in plain text. Also, the summary should start with "SUMMARY:" and end with "END OF SUMMARY."
+
+I should structure the summary to first mention the controversy, then the efforts to downplay the attacks, the documented warnings, Clinton's lack of awareness, the internal review's findings, and conclude with the moral framing of negligence. I need to ensure that each point flows logically and maintains the original article's critical tone towards the administration's handling.
+
+I also need to watch the word count, so I'll have to be concise but thorough. Maybe start with the controversy, mention the talking points, the warnings, Clinton's testimony, the internal review's findings, and then tie it all together with the negligence aspect.
+
+Let me draft it step by step. Start with the controversy over the initial storyline, then mention Nuland's efforts, the warnings in cables, Clinton's lack of knowledge, the internal review's findings, and the negligence. Make sure each sentence is clear and contributes to the overall moral framing.
+
+I think that's a solid approach. Now, I'll put it all together, keeping it under 200 words and ensuring it captures the moral angle as per the user's request.
+</think>
+
+SUMMARY: The resurgent controversy over the Obama administration's handling of the Benghazi attack highlights concerns about negligence and failure to act on documented warnings. State Department spokeswoman Victoria Nuland attempted to downplay prior attacks in Benghazi to avoid giving Congress ammunition to criticize her department. Classified cables and public records revealed repeated warnings about the severe Islamist threat in Libya, including the presence of Al Qaeda-linked groups and compromised security. Despite these warnings, Secretary of State Hillary Clinton claimed she was unaware of the critical security cables, sparking questions about leadership accountability. An internal review found senior officials lacked proactive leadership in addressing security concerns, though no misconduct was specifically identified. Critics argue the multiple warnings point to a compelling case of negligence by State Department leadership. END OF SUMMARY.

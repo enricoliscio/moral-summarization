@@ -1,0 +1,63 @@
+<think>
+Okay, so I need to help the user by summarizing a news article while preserving the moral framing. The user has given me a detailed article about the Bush tax cuts and the White House's efforts to get Congress to pass the deal. They want me to first identify all the single words that are morally framed and then write a summary using those words.
+
+First, I'll read through the article to understand the context. The main points are that senior White House officials are warning about the risks of not passing the tax cut deal, specifically the risk of a double dip recession. They're using strong language to push Congress, especially Democrats, to act quickly. There's some debate about the effectiveness of the tax cuts and whether they're enough to prevent economic downturns.
+
+Now, for step one, I need to identify all the single words that carry a moral connotation. These are words that imply a value judgment or ethical consideration. Let me go through the article again and pick out these words.
+
+- "Significantly" is used to emphasize the importance, so it's a moral framing word.
+- "Stakes" refers to the importance or consequences, so that's another one.
+- "Inaction" implies a failure to act, which is a moral judgment.
+- "Risk" is about potential negative outcomes, so it's framed morally.
+- "Double dip recession" is a negative economic outcome, so it's a moral frame.
+- "Dire" is an intense negative adjective.
+- "Materially" emphasizes the significant impact.
+- "Stall out" implies a failure to continue, which is negative.
+- "Debatable" suggests disagreement on the morality or correctness.
+- "Downplayed" implies minimizing the significance, which is a moral action.
+- "Stimulative" refers to positive economic impact, so it's a positive moral frame.
+- "Avert" is about preventing something bad, so it's moral.
+- "Stabilizing" implies making something better, which is positive.
+- "Docket" here refers to the list of things to do, but in context, it's about what's being addressed, which can have moral implications.
+- "Robust" implies a strong effort, which is positive.
+- "Skeptical" shows doubt, which is a negative moral judgment.
+- "Blamed" is about assigning responsibility, which is moral.
+- "Consequences" refers to outcomes that have moral implications.
+- "Difficult" is a negative adjective.
+- "Fight" implies conflict, which can be moral.
+- "Compromise" is about giving in, which can have moral connotations.
+- "Fundamentally better" is a positive judgment.
+
+I think that's all the single words with moral framing. Now, moving on to the summary. I need to preserve as many of these words as possible while concisely summarizing the article. The summary should be under 200 words and include the key points: the White House's warnings, the debate over the tax cuts, the consequences of inaction, and the push to get the deal passed.
+
+I'll start by mentioning the White House officials raising the stakes, using words like "significantly" and "dire." Then, I'll note the warnings about the risk of a double dip recession and the consequences of inaction. I'll include Larry Summers' comments and the debate over the effectiveness of the tax cuts. I'll also mention the push to stabilize the housing market, which isn't on the congressional docket. Finally, I'll highlight the administration's argument that taking the package now is necessary to avoid blame for an economic downturn, using words like "consequences" and "difficult."
+
+I need to make sure the summary flows well and includes all the key points without being too verbose. I'll check the word count to ensure it's under 200 words. Also, I'll make sure to use the morally framed words where appropriate to maintain the original tone and framing.
+</think>
+
+**STEP 1:**  
+* significantly  
+* stakes  
+* inaction  
+* risk  
+* double dip  
+* dire  
+* materially  
+* stall out  
+* debatable  
+* downplayed  
+* stimulative  
+* avert  
+* stabilizing  
+* docket  
+* robust  
+* skeptical  
+* blamed  
+* consequences  
+* difficult  
+* fight  
+* compromise  
+* fundamentally  
+
+**SUMMARY:**  
+Senior White House officials have raised the stakes on congressional Democrats, warning that inaction on the Bush tax cuts could "significantly increase the risk" of a double dip recession. Larry Summers, the outgoing senior economic adviser, painted a dire picture, stating that failing to pass the bill would "materially increase the risk" of economic stagnation. However, the significance of the tax cuts was downplayed by Summers earlier, and their effectiveness remains debatable. Rob Shapiro, a former Clinton administration official, argued that the delay would not cause a double dip but emphasized the need to stabilize housing prices, which is not on the congressional docket. The White House is pushing for the deal, warning of real consequences, such as increased taxes and loss of unemployment insurance, if it fails. Officials argue that taking the package now is essential to avoid blame for an economic downturn, as the consequences of inaction would be severe. The administration emphasizes the stimulative effects of the deal but acknowledges it may not be enough to lift the economy to a "fundamentally better" place. END OF SUMMARY.

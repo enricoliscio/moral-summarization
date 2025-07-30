@@ -1,0 +1,35 @@
+Okay, so I need to help the user by summarizing this news article while preserving the moral framing. First, I should understand the user's query. They want me to act as a news summarizer and moral expert. The task has two parts: identifying morally framed words and then writing a summary that includes as many of those words as possible.
+
+Looking at the article, it's about President-elect Trump facing doubts about his legitimacy and how he should respond by exposing the Obama administration's secret memos. The author uses strong moral language to criticize Obama's actions and support Trump's potential transparency.
+
+For the first step, I need to extract all single words that carry moral connotations. Words like "doubts," "unprecedented," "reckless," "commandeered," "power," "torture," "prohibited," "smoking guns," "fiasco," "chaos," "intrusive," "abusive," "coverups," "unconstitutional," "scandalized," "excessive," "trust," and "democracy" come to mind. These words highlight issues like illegitimacy, overreach, unethical actions, and the need for transparency.
+
+Next, the summary needs to encapsulate the main points while retaining these moral terms. The article suggests Trump should release secret memos from Obama's administration to expose overreach and build trust. It criticizes Obama's lack of transparency and the bureaucracy's stonewalling under FOIA. The summary should reflect the call for accountability and the benefits of transparency for democracy.
+
+I need to make sure the summary is concise, under 200 words, and includes as many of the identified moral words as possible without making it sound forced. It should highlight Trump's potential actions, the issues with Obama's administration, and the importance of transparency for public trust.
+
+Putting it all together, the summary should flow naturally, maintaining the moral tone of the original article. I'll start by stating Trump's challenge, then move into the suggested actions, the criticisms of Obama's administration, and the benefits of transparency. I'll ensure each key point is covered succinctly while preserving the moral framing.
+</think>
+
+**STEP 1:**  
+* Doubts  
+* Unprecedented  
+* Reckless  
+* Commandeered  
+* Power  
+* Torture  
+* Prohibited  
+* Smoking guns  
+* Fiasco  
+* Chaos  
+* Intrusive  
+* Abusive  
+* Coverups  
+* Unconstitutional  
+* Scandalized  
+* Excessive  
+* Trust  
+* Democracy  
+
+**SUMMARY:**  
+President-elect Donald Trump will face widespread doubts about his legitimacy from the start. His opponents may portray his governance as unprecedented and reckless. To counter this, Trump should follow President Obama's precedent by releasing secret memos, such as those justifying Obama's "targeted killing" drone program. Exposing the Obama administration's overreach, including its involvement in Syria and Libya, could reveal bureaucratic failures and build trust. Trump should also prioritize transparency by disclosing memos behind Obama's Affordable Care Act "fixes" and other policies. The article criticizes Obama's administration for excessive secrecy, despite claims of being the most transparent. Agencies like the TSA and State Department stonewalled FOIA requests, raising concerns about unconstitutional practices. By opening the books, Trump could restore faith in democracy and hold the Obama era accountable. END OF SUMMARY.

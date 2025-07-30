@@ -1,0 +1,18 @@
+Okay, so the user has given me a query where they want me to act as a news summarizer assistant and a moral expert. They provided a detailed news article about the U.S. government shutdown and the various bills being proposed. My task is to summarize this article while preserving the moral framing the author used. 
+
+First, I need to understand what the article is about. It's about the Senate considering two bills to end the government shutdown. One bill includes funding for the border wall, which the President Trump supports, while the other is a short-term measure to reopen the government. There's a lot of political maneuvering, with Democrats and Republicans clashing over the border wall funding and other immigration issues.
+
+Next, I need to identify the moral framing. The article presents the shutdown as a political standoff where each side is accusing the other of prioritizing their agenda over the well-being of the American people. Democrats are portrayed as opposing the wall for humanitarian reasons, while Trump and Republicans are seen as inflexible on the wall issue, leading to the shutdown.
+
+I should make sure the summary captures this conflict and the moral perspectives. The summary needs to be concise, under 200 words, and include key points: the two bills, the funding amounts, the political stalemate, the humanitarian concerns, and the accusations from both sides.
+
+I also need to structure the summary logically, starting with the Senate's action, then the details of each bill, the political dynamics, and the criticisms from both parties. It's important to highlight the moral arguments each side is making, such as Democrats emphasizing the impact on vulnerable populations and Republicans pushing for national security.
+
+I should avoid any personal opinions and stick to the facts presented, but ensure that the moral dimensions are clear. The summary should end with the ongoing stalemate, showing that the shutdown isn't resolved yet.
+
+Let me draft the summary, making sure it's within the word limit and includes all necessary points while maintaining the moral framing. I'll check each sentence to ensure it's concise and captures the essence without unnecessary details.
+
+Finally, I'll make sure to use the "SUMMARY:" and "END OF SUMMARY." tokens as specified. I should also avoid markdown and keep the language clear and straightforward.
+</think>
+
+SUMMARY: The U.S. Senate is set to vote on two bills to end the longest government shutdown in history. The first bill includes $5.7 billion for a border wall and other concessions proposed by President Trump, while the second is a short-term measure to reopen the government until February 8. Senate Majority Leader Mitch McConnell urged Democrats to prioritize the country over politics, while Senate Minority Leader Chuck Schumer accused Republicans of enabling Trump's shutdown. House Democrats proposed a bill funding ports of entry and immigration judges but excluding wall funding, which is likely to fail in the GOP-led Senate. Centrist Democrats are pushing for a compromise, suggesting a vote on a border wall if the government reopens. Trump insists on wall funding, calling it essential for national security, while Democrats criticize the bill as a "Trojan Horse" for harsh immigration policies. The shutdown continues as both sides remain entrenched in their positions. END OF SUMMARY.

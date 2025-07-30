@@ -1,0 +1,17 @@
+<think>
+Alright, so the user has given me a query where they want me to act as a news summarizer and a moral expert. The task is to summarize a news article while preserving the moral framing the author provided. The user has provided a detailed news article about a police shooting in Texas, and they want the summary to be concise, no more than 200 words, and to end with specific tokens.
+
+First, I need to understand the content of the article. It's about a police officer who shot and killed a black woman, Atatiana Jefferson, inside her home. The family's attorney is calling it murder, while the police say the officer perceived a threat. The family is expressing grief and confusion, and there's mention of another similar case involving a police officer in Dallas.
+
+Next, I should identify the key points to include in the summary. These would be the incident itself, the family's reaction, the police's response, the involvement of the neighbor, and the broader context of similar incidents. It's important to preserve the moral framing, so I need to highlight the family's grief, the questions about the officer's actions, and the call for justice.
+
+I also need to keep the summary within 200 words. That means being concise but comprehensive. I should avoid unnecessary details and focus on the main elements: who, what, when, where, why, and the reactions.
+
+Now, considering the structure, I'll start by stating the incident, then move to the family's perspective, the police's account, the neighbor's role, and the broader implications. I should also include the mention of Bernie Sanders and the previous case to show the pattern.
+
+I need to ensure that the summary reflects the moral issues at play, such as the family's loss, the officer's actions, and the call for justice. It's crucial to present these elements clearly without bias, but in a way that highlights the moral concerns.
+
+Finally, I'll make sure to end the summary with the specified tokens, "SUMMARY:" and "END OF SUMMARY." I'll double-check the word count to ensure it's under 200 words and that all key points are covered succinctly.
+</think>
+
+SUMMARY: A Fort Worth police officer shot and killed 28-year-old Atatiana Jefferson inside her home after responding to a neighbor's call about an open front door. The officer, who has been on the force since 2018, is on administrative leave as an investigation continues. Jefferson's family, including her 8-year-old nephew who was in the room at the time, expressed grief and confusion, calling the incident "unconceivable." Attorney Lee Merritt argued that the officer "didn’t have time to perceive a threat" before firing, labeling the act "murder." Police stated that officers perceived a threat before firing but did not announce their presence before the fatal shot. Bodycam footage released by police shows officers searching the home and firing through a window, with blurred frames suggesting a firearm may have been present. The family has demanded a thorough investigation, and Democratic candidate Bernie Sanders called for federal intervention. The case follows a similar incident in Dallas, where a former officer was sentenced for killing a black neighbor. END OF SUMMARY.

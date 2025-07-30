@@ -1,0 +1,17 @@
+<think>
+Alright, so I've got this query where the user wants me to act as a news summarizer and a moral expert. They provided a news article about a Pakistani defense analyst criticizing the US State Department's human rights report. My task is to summarize the article while preserving the moral framing the author used.
+
+First, I need to understand the key points of the article. Hameed Gul is rejecting the US report, calling it lies and propaganda. He's a former ISI director, so his opinion carries weight. He's saying that any country opposing US hegemony is labeled as violating human rights. That's a strong moral statement against US foreign policy.
+
+Next, he criticizes the US for not respecting religion, norms, and human rights. He mentions Afghanistan and the US's actions there, which is a significant moral issue. He also brings up the violence against Muslims in India and Palestine, pointing out the US's silence on these issues. This shows a pattern where the US only cares about human rights when it serves their interests.
+
+I need to make sure the summary captures these moral criticisms without adding my own bias. The user wants the moral framing preserved, so I should highlight how Gul views the US as hypocritical and oppressive. I'll also include his call for Muslim unity against US influence, which is a key moral appeal.
+
+I should keep the summary concise, under 200 words. I'll start by stating Gul's rejection of the report, then outline his main criticisms of US policy, including the examples he gives. Finally, I'll mention his call to action for Muslim scholars and leaders to unite. That should cover the essential points while maintaining the moral perspective.
+
+I should avoid any technical jargon and keep the language clear. Also, I need to ensure that the summary flows logically, connecting each point to the overall critique of US hegemony and human rights violations. Let me structure it step by step to cover all the main points succinctly.
+</think>
+
+SUMMARY:  
+Pakistani defense analyst Hameed Gul strongly criticized the US State Department's human rights report, calling it "blatant lies and propaganda." He accused the US of using human rights rhetoric as a tool to justify its hegemonic ambitions, targeting countries that resist American dominance. Gul argued that the US disrespects religious, cultural, and human rights norms, citing its actions in Afghanistan, where it used force to suppress resistance. He also condemned the US for remaining silent on human rights abuses against Muslims in India and Palestine, while quickly condemning Palestinian resistance to Israeli aggression. Gul emphasized that the US prioritizes its interests over justice, denying Muslims the right to defend themselves. He urged Muslim scholars and leaders to unite morally and resist US influence to avoid being crushed individually.  
+END OF SUMMARY.

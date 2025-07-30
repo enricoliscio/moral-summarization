@@ -1,0 +1,14 @@
+Okay, so the user wants me to act as a news summarizer and a moral expert. They provided a news article about astronauts repairing the space station. The task is to summarize the article while preserving the moral framing from the original text. The author used certain morally framed words, and I need to keep those in the summary.
+
+First, I'll read the article carefully. It's about astronauts performing a spacewalk to repair the International Space Station. They wrapped thermal covers around motors to protect them from space's temperature extremes, which were causing power issues. The astronauts used the shuttle's robot arm for their repair work.
+
+The user mentioned that the author used morally framed words, but they didn't specify which ones. I need to identify those. Words like "repair job," "wrapped," "shield," "eliminate," "keep," "floating," "grabbed onto," "robot arm," "ride," "space station" might carry moral connotations. Maybe "repair" shows responsibility, "shield" shows protection, "eliminate" shows problem-solving.
+
+Now, I need to summarize the article, keeping those words. I should make sure the summary is concise, under 200 words. I'll start by mentioning the astronauts, their action, the purpose of the repair, and the method they used. I'll include the moral framing words as much as possible without making it awkward.
+
+I should structure the summary to first state what they did, why it's important, and how they did it. I'll make sure to include words like "wrapped," "shield," "eliminate," "keep," "floating," "grabbed onto," "robot arm," "ride." That should preserve the moral elements the author intended.
+
+Finally, I'll ensure the summary starts with "SUMMARY:" and ends with "END OF SUMMARY." Keeping it within the word limit is crucial. I'll draft it, then check the word count and the inclusion of the key morally framed words.
+</think>
+
+SUMMARY: Two space-walking astronauts successfully completed a repair mission on the International Space Station. Astronauts Linda Godwin and Daniel Tani wrapped thermal covers around motors that control the station's solar wings, aiming to shield them from extreme temperatures and eliminate power issues. The motors are crucial for keeping the solar panels oriented toward the sun to generate electricity. The astronauts floated out of the space shuttle Endeavour and used the ship's robot arm for a 50-foot ride to reach the work site. This repair effort demonstrates the astronauts' dedication to maintaining the functionality of the space station in the harsh environment of space. END OF SUMMARY.

@@ -1,0 +1,17 @@
+<think>
+Alright, so the user wants me to summarize a news article about a UN meeting. They provided the article and an example response, so I need to make sure I follow the same structure.
+
+First, I'll read through the article to understand the main points. It's about the Third Committee of the UN General Assembly discussing human rights, emphasizing development and peace as key. Countries like Thailand, Eritrea, China, and the US made statements linking development to human rights.
+
+I need to keep the summary under 200 words. I'll start by identifying the key elements: the UN committee, the main topics (human rights, development, peace), and the main points from each country's representatives.
+
+I should mention that delegates stressed the importance of development and peace, how poverty and lack of development hinder human rights, and the role of globalization. Also, include the US's point about human rights in fighting terrorism.
+
+I'll structure it in a few sentences, making sure to cover all these points concisely. I'll avoid jargon and keep it clear and straightforward.
+
+Now, putting it all together, ensuring it's within the word limit and formatted correctly with the SUMMARY and END tokens.
+</think>
+
+SUMMARY:  
+At the UN General Assembly's Third Committee, delegates emphasized that without addressing development, poverty, and health issues, people cannot fully enjoy human rights. The committee discussed improving human rights enjoyment through alternative approaches. Representatives highlighted the right to development and international peace as crucial preconditions for universal human rights protection. Thailand's delegate stressed that human rights and development are interconnected, with people at the center of social and economic efforts. Eritrea and China warned that globalization risks marginalizing developing nations and hindering their ability to exercise rights. China's Shen Guofang noted that underdevelopment weakens developing countries' capacity to protect human rights. The U.S. delegate added that protecting human rights is essential to combating terrorism. The debate continued with representatives from several countries, focusing on the link between development and human rights.  
+END OF SUMMARY.

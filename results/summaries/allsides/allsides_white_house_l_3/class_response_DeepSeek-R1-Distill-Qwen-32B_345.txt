@@ -1,0 +1,15 @@
+<think>
+Alright, so the user wants me to summarize a news article while preserving the moral framing. They've provided the article and a list of morally framed words. My task is to make sure the summary includes as many of those words as possible. 
+
+First, I need to read through the article to understand the main points. It's about Obama visiting a mosque in the US, addressing issues against Muslim-Americans, countering GOP rhetoric, and emphasizing their role in America. He talks about protecting all faiths, countering terrorism, and amplifying positive contributions.
+
+Next, I should identify the key morally charged words from the list that are present in the article. Words like inexcusable, rhetoric, terror, amplify, bigotry, protect, etc., are central to the moral framing here.
+
+I need to condense the article into a summary that's under 200 words. I'll start by mentioning Obama's visit and his main message against the GOP's rhetoric. Then, highlight his points about Muslims being essential to America, countering terrorism without reinforcing it, and the need to amplify positive contributions. I should also touch on the conspiracy theories and the impact on young Muslims.
+
+I'll structure the summary to flow logically, ensuring each moral word is included where appropriate. I'll avoid adding any extra information not present in the article and keep it concise.
+
+Finally, I'll make sure the summary starts with "SUMMARY:" and ends with "END OF SUMMARY." without any markdown, just plain text.
+</think>
+
+SUMMARY: President Barack Obama visited a mosque in Baltimore, emphasizing that Muslim-Americans are integral to the fabric of America and rejecting "inexcusable political rhetoric" from Republican candidates targeting Muslims. He condemned plans to single out Muslims for extra scrutiny, stating such measures would amplify terrorist messages. Obama urged Muslims to speak out against terror and stressed that America truly protects all faiths while countering bigotry. He highlighted worries among Muslim parents about their children being forced out of the country and called for acceptance without bias. Obama also criticized GOP claims that he hasn’t been forceful enough in demanding Muslim leaders condemn extremism, noting that Muslim leaders globally are already condemning terrorism. He called for more positive depictions of Muslims in media and urged amplifying their contributions. The visit aimed to counter Islamophobia and conspiracy theories, such as claims he is Muslim, while emphasizing the need to protect the country from terrorism without reinforcing extremist rhetoric. END OF SUMMARY.

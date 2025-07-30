@@ -1,0 +1,17 @@
+<think>
+Alright, so the user has given me a query where I need to act as a news summarizer and moral expert. The task is to summarize a news article while preserving the moral framing that the author used. The article is about Senator Lindsey Graham delaying the confirmation of Obama's nominees for CIA and Defense Department until more details about the Benghazi attacks are provided.
+
+First, I need to understand the key points of the article. It mentions that Graham is a Republican senator who is critical of the administration's handling of the Benghazi attacks, which killed Ambassador Stevens and others. He's holding up the nominations of Chuck Hagel and John Brennan, using morally charged words like "attacks," "killed," "allow," "stop," "producing," "delayed," "denied," "deceived," "stonewalled," "leadership," "attack," and "crisis."
+
+I should make sure to include these words in the summary to maintain the moral framing. The summary needs to be concise, no longer than 200 words, and should start after the "SUMMARY:" token and end with "END OF SUMMARY."
+
+I'll start by identifying the main actions: Graham's threat to hold up nominations, his reasons (delayed information, leadership during the crisis), and the reactions from other senators. I need to keep the language strong, using the specified words to convey the moral stance.
+
+I should structure the summary to first mention Graham's actions, then the context of the Benghazi attacks, his specific criticisms, and the political implications, including the opposition from Democrats and other Republicans' threats.
+
+I also need to ensure that the summary flows logically, connecting each point without losing the moral elements. I'll check the word count to make sure it's within the limit.
+
+Finally, I'll review the summary to ensure all key points are covered and that the moral framing is preserved using the specified words.
+</think>
+
+SUMMARY: Republican Sen. Lindsey Graham has vowed to delay the confirmation of President Obama’s nominees for CIA director and Defense secretary until the White House provides more details about its response to the 2012 Benghazi attacks, which killed Ambassador Christopher Stevens and three other Americans. Graham criticized the administration for "delaying, denying, deceiving, and stonewalling" and demanded accountability for Obama’s leadership during the national crisis. He questioned whether the White House contacted the Libyan government to assist the besieged outpost, which was under attack for eight hours. Graham also threatened to withhold confirmation for Chuck Hagel, the Defense nominee, until these issues are addressed. Oklahoma Sen. James Inhofe echoed this stance, warning of a filibuster to require 60 votes for Hagel’s confirmation. Meanwhile, Democratic Sen. Jack Reed accused Graham of engaging in "unprecedented" and "not appropriate" actions by using the tragedy to block nominations. END OF SUMMARY.

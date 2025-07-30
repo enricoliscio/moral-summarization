@@ -1,0 +1,54 @@
+Okay, so the user has provided a query where they want me to summarize a news article while preserving the moral framing. They've broken it down into two steps: first, identifying morally framed words, and then writing a summary that includes as many of those words as possible.
+
+First, I need to understand what morally framed words are. These are words that carry a judgment or evaluation, like "reckless," "lying," or "corrupt." I'll go through the article and pick out each word that fits this criterion.
+
+Next, I have to write a concise summary, keeping it under 200 words. The summary should reflect the author's moral perspective, so I need to ensure that the identified words are included where appropriate. I should also maintain the structure and main points of the article without adding my own opinions.
+
+I should make sure that each step is clearly marked, starting with "STEP 1:" and then the "SUMMARY:" section. I'll list each morally framed word with a bullet point, and then craft the summary to encapsulate the article's message while highlighting these moral elements.
+
+I need to be careful not to omit any key points from the article, such as Trump's claims about the drug, the physician's letter, the press secretary's statements, the corruption of his team, the disregard for public health, and the support from Republicans. Each of these points has a moral angle that I need to convey in the summary.
+
+Also, I should ensure that the summary flows naturally and is coherent, even with the inclusion of the morally framed words. I'll need to paraphrase some parts to fit the word limit without losing the essence of the article.
+
+Finally, I'll review the summary to make sure it's within the word limit and that all the moral elements are appropriately highlighted. This way, the user gets a clear, concise summary that preserves the original article's moral framing.
+</think>
+
+### STEP 1:  
+* Reckless  
+* Dubious  
+* Benefits  
+* Risks  
+* Propensity  
+* Say anything  
+* Presumption of truthfulness  
+* Lying  
+* Potentially dangerous  
+* False statements  
+* Misleading claims  
+* Corrupt  
+* Violate professional responsibilities  
+* Ignore FDA warnings  
+* Nerve to say  
+* Goes too far  
+* Public sanctions  
+* Legal sanctions  
+* Professional sanctions  
+* Policing function  
+* Public obligations  
+* Discredited  
+* Demean experts  
+* Deny science  
+* Project normalcy  
+* Preserve reelection chances  
+* Absence of empathy  
+* Booted off platforms  
+* Propagate goodness knows what  
+* Menace to public health and safety  
+* Tolerate  
+* Support  
+* Advocate reelection  
+
+---
+
+### SUMMARY:  
+The article critiques President Trump's claim of taking a controversial drug, questioning its validity and moral implications. Trump's press secretary supports his claim, but her credibility is doubted due to her history of promoting false statements. The article highlights four key moral issues: Trump's tendency to lie, the corruption of his administration, his disregard for public health, and the complicity of Republicans in enabling his harmful actions. Trump's behavior, such as demeaning experts and denying science, discredits his leadership and endangers the country. His lack of empathy, evidenced by not mourning pandemic losses, further undermines his credibility. The article also calls for accountability for those promoting dangerous behavior, including Trump's supporters, who share blame for the harm caused. END OF SUMMARY.

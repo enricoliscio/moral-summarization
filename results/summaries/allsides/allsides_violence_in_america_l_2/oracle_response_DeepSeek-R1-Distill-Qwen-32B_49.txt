@@ -1,0 +1,16 @@
+Alright, so the user has provided a detailed news article and wants a summary that preserves the moral framing. They've also given a list of morally framed words to include. I need to make sure the summary captures the key points while using as many of those words as possible.
+
+First, I'll read through the article to understand the main points. The article discusses the Pittsburgh synagogue shooting, reactions from the community, and political responses. Key elements include the synagogue leader rejecting Trump's visit, the open letter from Jewish leaders, Trump's own statements, and the broader context of antisemitism and hate speech.
+
+I should start by identifying the main events: the shooting, the victims, the suspect's background, and the community's response. Then, focus on the moral aspects like hate speech, antisemitism, and the divide in the community's reaction to Trump's visit.
+
+I need to include words like "purveyor of hate speech," "denounce white nationalism," and "antisemitic attack." Also, mention the fundraising efforts and the contrasting statements from different community leaders.
+
+I'll structure the summary to first present the shooting and its impact, then the community's rejection of Trump, followed by the contrasting opinions from the rabbi and the fundraising. I'll ensure to keep it concise, under 200 words, and include as many of the specified moral terms as possible without making it sound forced.
+
+Let me draft this, making sure each sentence flows logically and covers all key points while maintaining the moral tone. I'll check the word count to stay within limits and ensure clarity.
+</think>
+
+SUMMARY:  
+Lynette Lederman, a former president of Pittsburgh's Tree of Life Synagogue, where 11 were killed in a mass shooting, has rejected President Trump's planned visit, calling him a "purveyor of hate speech" and stating he does not welcome him to Pittsburgh. Local Jewish leaders also urged Trump to avoid the city until he denounces white nationalism. Trump, who labeled the attack an "evil antisemitic attack," is set to visit despite criticism of his polarizing rhetoric. Meanwhile, the Anti-Defamation League noted a rise in antisemitic incidents and warned of hate rhetoric entering mainstream politics. The shooter, Robert Bowers, was charged with murdering victims exercising their religious beliefs and had legally purchased firearms. While some community members, like Rabbi Jeffrey Myers, welcomed Trump, others focused on solidarity and fundraising efforts to support the grieving community. The attack, described as the deadliest against Jewish people in America, highlighted the growing threat of hate and antisemitism.  
+END OF SUMMARY.

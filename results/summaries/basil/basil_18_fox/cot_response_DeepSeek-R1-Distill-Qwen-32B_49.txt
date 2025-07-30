@@ -1,0 +1,41 @@
+<think>
+Okay, so the user has given me a query where I need to act as a news summarizer and a moral expert. The task is to summarize a news article while preserving the moral framing. They also want me to first identify all the morally framed single words in the text.
+
+First, I need to understand what morally framed words are. These are words that carry a moral or ethical connotation, often indicating approval or disapproval. So, I should go through the article and pick out words that express values, principles, or judgments.
+
+Looking at the article, it's about Texas Governor Rick Perry's new ad attacking Obama's policies, claiming a "War on Religion." Words like "attack," "waging," "war," "defend," "ashamed," "Christian," "gays," "serve," "celebrate," "pray," "liberal," "attacks," "fundamental," "values," "wrong," "investing," "promote," "lifestyle," "objectionable," "strong." These all seem to carry moral weight.
+
+Next, I need to summarize the article, making sure to include as many of these moral terms as possible. The summary should be concise, under 200 words, and highlight Perry's claims against Obama, his focus on social issues, and the moral arguments he's making.
+
+I should structure the summary to first mention Perry's ad and his main claim about Obama's war on religion. Then, detail the specific points he's making, like the military service of gays versus celebrating Christmas and praying in schools. Also, include the examples he uses, such as Obama's stance on DOMA and the Thanksgiving speech. Finally, mention the presidential memorandum on foreign aid and Perry's Methodist background, emphasizing his appeal to faith and strength.
+
+I need to ensure that the summary flows well and includes all the key moral points without being too verbose. It's important to preserve the author's framing, so I should use the same tone and include the specific terms identified earlier.
+
+Let me start by listing the morally framed words. Then, I'll craft the summary, making sure each of those words is included where appropriate. I'll check the word count to stay within the limit and ensure clarity and coherence.
+
+Alright, I think that's a solid plan. Time to put it all together.
+</think>
+
+**STEP 1:**  
+* War  
+* Religion  
+* Defend  
+* Faith  
+* Christian  
+* Gays  
+* Serve  
+* Celebrate  
+* Pray  
+* Liberal  
+* Attacks  
+* Fundamental  
+* Values  
+* Wrong  
+* Invest  
+* Promote  
+* Lifestyle  
+* Objectionable  
+* Strong  
+
+**SUMMARY:**  
+Texas Gov. Rick Perry is targeting President Obama in a new ad, claiming Obama is waging a "War on Religion." Perry, a Methodist, emphasizes his Christian faith and accuses Obama of attacking traditional American values. He criticizes Obama for actions like directing the Justice Department to stop defending the Defense of Marriage Act and omitting God from his Thanksgiving speech. Perry also condemns Obama's memorandum requiring U.S. agencies to promote gay rights abroad, calling it an attack on people of faith. The ad, titled "Strong," ties Perry's faith to his conservative stance on social issues, such as gay marriage, and argues that faith made America strong. Perry asserts he will end Obama's "war on religion" and defend the nation's religious heritage. END OF SUMMARY.

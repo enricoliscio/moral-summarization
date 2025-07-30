@@ -1,0 +1,15 @@
+<think>
+Okay, I need to help the user by summarizing the given news article while preserving the moral framing words. First, I should read through the article to understand the main points and the moral language used.
+
+The article is about Chris Christie announcing his presidential candidacy. He's positioning himself as a strong, truthful leader, contrasting himself with other candidates. The moral words used include decision-making, calamity, blamed, dysfunction, gridlock, compromise, fix, missed, payments, conspired, mire, scandal, lying, stealing, forgoing.
+
+I need to make sure these words are included in the summary. I'll start by highlighting Christie's main points: his emphasis on strength and decision-making, his criticism of Washington's dysfunction and gridlock, and his attacks on other candidates like Rubio and Cruz. I should mention the economic issues in New Jersey, like the pension system and scandals, which are part of the moral framing.
+
+Also, the article talks about Christie's personality as his main asset, so I should include that. He's trying to differentiate himself from others, but he's facing challenges because of his record and judgment. The summary should be concise, under 200 words, and include as many moral terms as possible.
+
+I'll structure it by first introducing Christie's candidacy, his strengths, the criticisms, his record issues, and the challenges he faces. I'll make sure each moral term is appropriately placed to reflect the original article's framing.
+</think>
+
+SUMMARY:  
+Gov. Chris Christie declared his uphill presidential candidacy with New Jersey-style swagger, emphasizing his strength, candor, and decision-making. He criticized Washington’s dysfunction and gridlock, blaming both parties for political stalemate. Christie positioned himself as the only Republican candidate with proven governance experience, contrasting himself with rivals like Marco Rubio and Ted Cruz, who have never run a state. He highlighted his leadership during New Jersey’s economic calamity and Hurricane Sandy, but his record has been marred by credit downgrades, anemic job growth, and a scandal-ridden administration. Christie’s campaign now relies on his personality, blending charm, vulnerability, and effrontery. He mocked the need for a refined tax code, joked about his wife’s political acumen, and likened Social Security’s challenges to “lying and stealing.” Despite his efforts, Christie faces significant vulnerabilities, including a weak record and skepticism from 55% of Republican primary voters. His campaign centers on town hall meetings in New Hampshire, but his message often relies on clichés, though his emotional appeals, like recalling his father’s humble beginnings, resonate. The question remains whether Republican voters will give him a fighting chance amid a crowded field.  
+END OF SUMMARY.

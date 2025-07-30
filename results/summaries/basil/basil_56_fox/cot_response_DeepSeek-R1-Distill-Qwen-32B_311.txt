@@ -1,0 +1,45 @@
+Okay, I need to help the user by summarizing the given news article while preserving the moral framing. The user provided a query where they want the summary to include all morally framed words. 
+
+First, I should identify the morally framed words from the article. I'll go through the text and pick out words that carry moral connotations. Words like "prioritize," "aggressive," "undermine," "moral leader," "losing," "cautious," "strength," "forethought," "adequately fund," "morally," "disregard," "flirted," "disdain," "oppose," "principles," "undermine," "response," "hawkish," "disaster," "ineffective," "negligent," "oppression," "mightiest," "peace," "failed," "embargo," "stolen," "trust," "secret," "secretive," "lifted," "reimposed." These words seem to carry the moral weight in the article.
+
+Next, I need to write a concise summary using these words. The summary should be under 200 words. I'll start by mentioning Rubio's speech and his main points about military strength, confronting hostile nations, and being a moral leader. I'll highlight his criticism of Obama's policies, the DNC's response, and his tough stance on Iran and Cuba. I'll make sure to include the morally framed words to maintain the original tone.
+
+I should structure the summary to flow logically, starting with Rubio's priorities, then his criticism of Obama, followed by the DNC's counter, and ending with his specific policies on Iran and Cuba. This way, the summary captures the essence of the article while emphasizing the moral framing.
+</think>
+
+**STEP 1:**  
+* prioritize  
+* aggressive  
+* undermine  
+* moral leader  
+* losing  
+* cautious  
+* strength  
+* forethought  
+* adequately fund  
+* morally  
+* disregard  
+* flirted  
+* disdain  
+* oppose  
+* principles  
+* undermine  
+* response  
+* hawkish  
+* disaster  
+* ineffective  
+* negligent  
+* oppression  
+* mightiest  
+* peace  
+* failed  
+* embargo  
+* stolen  
+* trust  
+* secret  
+* secret component  
+* lifted  
+* reimposed  
+
+**SUMMARY:**  
+U.S. Sen. Marco Rubio, in his first major foreign policy speech, emphasized the need for a strong military, aggressive action against nations undermining global commerce, and restoring the U.S. as a world moral leader. He criticized President Obama for being overly cautious and neglecting America's moral purpose, accusing him of acquiescing to regimes like Russia, Iran, and Cuba that oppose U.S. principles. Rubio called for decisive action against China and Iran, promising a response to any nation blocking global commerce. He also criticized Obama's Cuba policy, defending the embargo and stating it was not the cause of Cuba's economic failure. Rubio accused Obama of weakening American strength and Hillary Clinton of architecting a disastrous foreign policy. He opposed dialogue with hostile nations, advocating for a mightiest military to ensure peace. Rubio's hawkish stance, including a permanent troop presence in the Middle East and keeping Guantanamo Bay open, drew criticism from the DNC, which labeled his approach as outdated and ineffective. END OF SUMMARY.

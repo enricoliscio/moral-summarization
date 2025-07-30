@@ -1,0 +1,74 @@
+Alright, so the user has provided a query where they want me to act as a news summarizer assistant and a moral expert. The task is to summarize a given news article while preserving the moral framing that the author provided. They've also specified two steps: first, identifying all the morally framed single words, and second, writing a concise summary that includes as many of those words as possible.
+
+First, I need to understand what "morally framed words" mean. These are words that carry a moral or ethical connotation, such as "hope," "kindness," "injustice," "suffering," etc. I should go through the article and pick out each word that has such a connotation.
+
+Looking at the article, the Pope's message is about migrants, conflicts, and humanitarian issues. Words like "hope," "kindness," "injustice," "suffering," "deserts," "cemeteries," "indifference," "good will," "humanitarian crises," "persecuted," "light," "comfort," "stability," "friendship," "tenderness," "darkness," "abandoned," "violence," "clothe," "hungry," "sick," "elderly," "lonely," "migrants," "marginalized" all seem to fit. I'll list each of these with an asterisk as per the instructions.
+
+Next, the summary needs to be concise, no more than 200 words, and should include as many of these words as possible. I should start by identifying the main points: the Pope's Christmas message, his call for kindness towards migrants, mention of injustices causing migration, prayer for peace in conflict zones, the symbolic cross with a life jacket, and the overall call to action for helping others.
+
+I need to ensure the summary flows well while incorporating the moral terms. I'll structure it to highlight the Pope's message, the injustices faced by migrants, his call for peace, the symbolic gesture, and the encouragement to show compassion. I'll make sure each sentence includes some of the identified words without making it sound forced.
+
+I also need to check that the summary doesn't exceed 200 words. I'll draft it, then count the words to ensure compliance. Additionally, I'll make sure to end with the specified tokens, "SUMMARY:" and "END OF SUMMARY."
+
+Finally, I'll review the summary to ensure it accurately reflects the article's content and maintains the moral framing. This includes checking that the key points about migrants, conflicts, and the Pope's symbolic actions are all included, along with the call for compassion and action.
+</think>
+
+**STEP 1:**  
+* Hope  
+* Kindness  
+* Migrants  
+* Injustices  
+* Emigrate  
+* Secure  
+* Injustice  
+* Deserts  
+* Seas  
+* Cemeteries  
+* Indifference  
+* Dignified  
+* Humanity  
+* Comfort  
+* Suffering  
+* Good will  
+* Solutions  
+* Humanitarian crises  
+* Persecuted  
+* Religion  
+* Light  
+* Children  
+* War  
+* Conflicts  
+* Middle East  
+* Syria  
+* Hostilities  
+* Consciences  
+* Men  
+* Women  
+* Governments  
+* International community  
+* Peace  
+* Security  
+* Unspeakable sufferings  
+* Cross  
+* Life jacket  
+* Mediterranean Sea  
+* Refuge  
+* South Sudan  
+* Coalition government  
+* Stability  
+* Visit  
+* Tenderness  
+* Abandoned  
+* Violence  
+* Clothe  
+* Hungry  
+* Heal  
+* Sick  
+* Friendship  
+* Elderly  
+* Lonely  
+* Marginalized  
+* Darkness  
+
+**SUMMARY:**  
+In his Christmas Day message, Pope Francis highlighted the plight of migrants, calling for kindness and justice to those forced to flee due to injustice and suffering. He prayed for peace in conflict zones like the Middle East, Latin America, Ukraine, and Africa, and for those persecuted for their religion. Francis emphasized the need for compassion and action to address humanitarian crises, urging governments and the international community to find solutions. He also remembered migrants who drowned in the Mediterranean, placing a symbolic cross with a life jacket in the Vatican. The Pope called for increased stability in South Sudan to allow for a potential visit. He concluded by urging people to recognize suffering and act to help those in need, emphasizing the importance of love, friendship, and tenderness in a world often darkened by indifference and violence. END OF SUMMARY.

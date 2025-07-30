@@ -1,0 +1,13 @@
+<think>
+Okay, I need to help the user by summarizing the given news article while preserving the moral framing the author used. The user mentioned that I should focus on the morally framed words and keep the summary under 200 words. 
+
+First, I'll read through the article to understand the main points. President Trump is close to naming a new FBI director, and Joe Lieberman is the leading contender. Lieberman has a history as a Democratic senator, then an independent, and has endorsed both McCain and Clinton. Some Republicans find him intriguing, while Democrats oppose him. 
+
+Next, I need to identify the morally framed words. The article uses words like "intriguing," "mistake," "contender," "endorses," "oppose," "endorsement," "controversial," "independent," "questionable," and "controversy." These words carry moral connotations, so I should include them in the summary.
+
+I'll structure the summary to include these words. I'll mention Trump's consideration of Lieberman, Lieberman's background, his endorsements, the reactions from both parties, and the moral implications of his nomination. I need to keep it concise, so I'll focus on the key points without going into too much detail.
+
+Finally, I'll ensure the summary starts with "SUMMARY:" and ends with "END OF SUMMARY." while keeping it under 200 words. I'll double-check that all the morally framed words are included and that the summary accurately reflects the article's content.
+</think>
+
+SUMMARY: President Trump is "very close" to naming a new FBI director, with former Democratic Sen. Joe Lieberman emerging as the leading contender. Lieberman, a politically "intriguing" figure, met with Trump and is seen as a potential "contender" despite his controversial past. Lieberman, who served as Connecticut's attorney general and later as a Democratic senator before becoming an independent, has a history of "endorsing" Republican candidates, including John McCain and opposing Barack Obama. His decision to "endorse" Hillary Clinton in 2016 further complicated his political stance. While some Republicans, like Sen. John Cornyn, view Lieberman as a "controversial" but potentially "unifying" choice, Democrats, including Sen. Claire McCaskill, argue his nomination would be a "mistake." Lieberman's political "independence" and "questionable" endorsements have sparked debate, with some praising his experience and others criticizing his "controversial" political history. END OF SUMMARY.

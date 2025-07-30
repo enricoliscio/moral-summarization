@@ -1,0 +1,63 @@
+<think>
+Okay, I need to help the user by summarizing a news article while preserving the moral framing. The user has given specific instructions, so I should follow them carefully.
+
+First, the user wants me to identify all the single words that are morally framed in the article. I'll go through the text and pick out words that carry moral connotations. Words like "rejected," "inaccurate," "unwarranted," "tendency," "judgment," "promote," "protect," "initiatives," "goals," "ignored," "reforms," "equality," "awareness," "ratified," "conventions," "elimination," "child labor," "optional protocols," "convention," "child," "rights," "system," "electorates," "minority," "constraints," "address," "problems," "cooperation," "understanding," "serve," "cause," "better," "states," "spirit," "address," "problems," "promote," "protect," "human rights," "better served," "states," "cooperation," "understanding," "problems," "promote," "protect," "human rights."
+
+Next, I need to write a concise summary that includes as many of these moral words as possible. The summary should be no longer than 200 words and should reflect the government's rejection of the US report, highlighting their efforts in human rights. I'll structure it to mention the rejection, the reasons given, the specific initiatives taken by Pakistan, and the call for international cooperation without judgment.
+
+I should ensure the summary flows logically, starting with the rejection, listing the initiatives, and ending with the call for a cooperative approach. I'll keep each sentence clear and to the point, making sure to include the key moral terms without making it too verbose.
+
+Finally, I'll make sure the summary starts with "SUMMARY:" and ends with "END OF SUMMARY." as per the instructions. I'll double-check the word count to stay within the limit and ensure all important points are covered.
+</think>
+
+**STEP 1:**  
+* Rejected  
+* Inaccurate  
+* Unwarranted  
+* Tendency  
+* Judgment  
+* Promote  
+* Protect  
+* Initiatives  
+* Goals  
+* Ignored  
+* Reforms  
+* Equality  
+* Awareness  
+* Ratified  
+* Conventions  
+* Elimination  
+* Child labor  
+* Optional protocols  
+* Convention  
+* Child  
+* Rights  
+* System  
+* Electorates  
+* Minority  
+* Constraints  
+* Address  
+* Problems  
+* Cooperation  
+* Understanding  
+* Serve  
+* Cause  
+* Better  
+* States  
+* Spirit  
+* Address  
+* Problems  
+* Promote  
+* Protect  
+* Human rights  
+* Better served  
+* States  
+* Cooperation  
+* Understanding  
+* Problems  
+* Promote  
+* Protect  
+* Human rights  
+
+**SUMMARY:**  
+The Pakistani government firmly rejected the US State Department's human rights report, labeling it "factually inaccurate and unwarranted." It criticized the tendency of some states to judge others without acknowledging Pakistan's efforts to promote and protect human rights. Pakistan highlighted its achievements, including reforms in juvenile justice, women's rights, police and jail reforms, child labor elimination, and the introduction of joint electorates for minority communities. The government also amended citizenship laws and ratified international conventions on child labor and human rights. Despite these efforts, the report criticized Pakistan's human rights record, which the government called a "gross misstatement." Pakistan emphasized the need for international cooperation and understanding to address human rights challenges, urging states to work together rather than sit in judgment. END OF SUMMARY.

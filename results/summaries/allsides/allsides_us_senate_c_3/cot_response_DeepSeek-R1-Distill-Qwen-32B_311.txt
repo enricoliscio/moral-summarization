@@ -1,0 +1,36 @@
+Okay, so I need to help the user by summarizing a news article while preserving the moral framing. The user has given specific instructions, so I should follow them step by step.
+
+First, I'll read through the news article to understand the context. It's about the U.S. government shutdown, the Senate voting on bills, and the moral implications from both sides. The article mentions the border wall funding, political games, hostages, and other terms that carry moral weight.
+
+The user wants me to first identify all single words that are morally framed. I'll go through the article and pick out words that have a strong moral connotation. Words like "shutdown," "complicity," "hostage," "games," "Trojan Horse," "destroy," "cave," "crisis," "bargaining chip," "chaos," "suffering," "unacceptable," "correctly," "confrontational," and "Trojan Horse" come to mind. These words are used to convey blame, criticism, or moral judgment.
+
+Next, I need to write a summary that includes as many of these morally framed words as possible. The summary should be concise, no more than 200 words. I'll structure it to show the standoff between the Senate, House, and the President, highlighting the moral arguments each side is making. I'll mention the border wall funding, the proposed bills, the criticism from both sides, and the ongoing shutdown's impact.
+
+I should ensure that the summary flows well and accurately represents the moral framing without adding my own bias. I'll make sure to include the key points: the Senate's vote, the $5.7 billion for the wall, the Democrats' push for a short-term funding, Trump's threat of veto, the criticism of the bill as a "Trojan Horse," and the impact on the American people.
+
+I also need to remember to format the response correctly, starting with STEP 1: listing each morally framed word with an asterisk, followed by the SUMMARY section, and ending with the specified tokens.
+
+Let me make sure I don't miss any morally charged words and that the summary captures the essence of the article while preserving the moral tone.
+</think>
+
+**STEP 1:**
+
+* Shutdown  
+* Complicity  
+* Hostage  
+* Games  
+* Trojan Horse  
+* Destroy  
+* Cave  
+* Crisis  
+* Bargaining chip  
+* Chaos  
+* Suffering  
+* Unacceptable  
+* Correctly  
+* Confrontational  
+* Trojan Horse  
+
+**SUMMARY:**
+
+The Senate is set to vote on two bills to end the longest government shutdown in U.S. history, with the first bill proposing $5.7 billion for a border wall and other concessions. Senate Majority Leader Mitch McConnell urged Democrats to prioritize the country over politics, while Senate Minority Leader Chuck Schumer accused Republicans of complicity in the shutdown. House Democrats are pushing their own bill without border wall funding, which is likely to fail in the GOP-led Senate. Centrist Democrats are also pushing for a compromise, suggesting a vote on a border wall in exchange for reopening the government. President Trump has threatened to veto any measure that does not include border wall funding, calling Democrats' opposition political games. Critics argue the proposed bill, which includes changes to asylum policies, is a "Trojan Horse" that undermines immigration protections. The shutdown, now in its 32nd day, continues to impact federal workers and agencies. END OF SUMMARY.

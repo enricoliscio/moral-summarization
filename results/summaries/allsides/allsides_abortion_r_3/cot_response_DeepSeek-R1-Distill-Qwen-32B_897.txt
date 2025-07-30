@@ -1,0 +1,30 @@
+Okay, so the user has provided a query where they want me to act as a news summarizer and moral expert. They have given a specific news article about Democrats' efforts to keep abortion access front and center, especially in response to state laws. The task is to first identify all the morally framed words in the article and then write a summary preserving those moral framings.
+
+First, I need to understand the structure of the query. They want two steps: Step 1 is identifying the morally framed words, each marked with a *. Step 2 is writing a concise summary that includes as many of those words as possible, without exceeding 200 words.
+
+Looking at the article, I'll go through each sentence to spot words that carry moral connotations. Words like "restrict," "pro-choice," "erode," "control their own bodies," "immediately and decisively," "tenants of our faith," "imposing," "against Christian faith," "enshrine," "alarm," "five-alarm fire," "urgency," "risk." These terms are used to convey a sense of moral imperative, opposition, or urgency.
+
+Now, for the summary, I need to condense the article, focusing on the main points: the Democrats' response to state laws, specific candidates' plans, the moral and constitutional arguments, and the legislative actions. I should make sure to include the identified moral words to maintain the author's framing.
+
+I also need to ensure the summary is clear and concise, under 200 words. I'll start by mentioning the Democrats' efforts, then highlight each candidate's stance, the moral arguments, and the legislative measures they're taking. Ending with the sense of urgency from the lawmakers ties it all together.
+
+I should double-check that I'm including all the key points without making the summary too lengthy. Also, ensuring that the moral framing is preserved by using the identified words appropriately. Finally, I'll make sure the summary flows well and accurately represents the article's content.
+</think>
+
+**STEP 1:**  
+* restrict  
+* pro-choice  
+* erode  
+* control their own bodies  
+* immediately and decisively  
+* tenants of our faith  
+* imposing  
+* against Christian faith  
+* enshrine  
+* alarm  
+* five-alarm fire  
+* urgency  
+* risk  
+
+**SUMMARY:**  
+Democrats are intensifying their efforts to protect abortion access amid state-level restrictions in Georgia and Alabama. Candidates like Cory Booker and Kristen Gillibrand are emphasizing their pro-choice stances, with Booker proposing a "White House Office of Reproductive Freedom" and legislation to codify Roe v. Wade. Gillibrand argues that anti-abortion laws are "against Christian faith" and violate the separation of church and state. Democrats aim to enshrine abortion rights into federal law, with Joe Biden also supporting this approach. Lawmakers are reintroducing the "Women's Health Protection Act" to safeguard Roe v. Wade, as they sound the alarm about the urgent threat to women's reproductive rights. They warn that the situation is a "five-alarm fire," with all lives at risk. END OF SUMMARY.

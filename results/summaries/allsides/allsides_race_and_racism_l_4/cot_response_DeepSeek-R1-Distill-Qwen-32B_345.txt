@@ -1,0 +1,43 @@
+Okay, so I need to help the user with summarizing a news article while preserving the moral framing. The user provided a detailed article about Trump and Obama's responses to mass shootings. They want me to first identify all the morally framed single words, then write a concise summary that includes as many of those words as possible.
+
+First, I'll read through the article to understand the context. It's about political responses to mass shootings, focusing on Trump and Obama. The moral framing here likely involves words that carry strong connotations, like "condemn," "racist," "fear," etc.
+
+In STEP 1, I need to extract each morally framed word. I'll go through the article sentence by sentence. For example, "condemn," "climate of fear," "hate," "racist," "normalise," "accountable," "tragedies," "criticism," "emboldening," "white nationalists," "racist," "invasion," "division," "heal," "hatred," "subhuman," "tragedy," "bigotry," "white supremacy," "terrorism," "demonise," "threaten," "subhuman," "mess."
+
+Next, for the summary, I need to include these words while keeping it under 200 words. I'll structure it by mentioning Trump's response, Obama's criticism, the context of the shootings, Trump's focus on non-gun causes, the suspect's connection to Trump's rhetoric, and the political divide it's causing.
+
+I should make sure the summary flows naturally and includes the key moral points without being too verbose. I'll also ensure that it's clear who is being criticized and for what, maintaining the original moral tone from the article.
+
+Finally, I'll double-check that all the morally framed words are included and that the summary accurately reflects the article's content and tone.
+</think>
+
+### STEP 1:  
+* Condemn  
+* Fear  
+* Hatred  
+* Racist  
+* Normalise  
+* Accountable  
+* Tragedies  
+* Criticism  
+* Emboldening  
+* White nationalists  
+* Racist  
+* Invasion  
+* Division  
+* Heal  
+* Hatred  
+* Subhuman  
+* Tragedy  
+* Bigotry  
+* White supremacy  
+* Terrorism  
+* Demonise  
+* Threaten  
+* Subhuman  
+* Mess  
+
+---
+
+### SUMMARY:  
+Donald Trump responded to Barack Obama's call to reject language that "feeds a climate of fear and hatred or normalises racist sentiments" by citing a Fox & Friends segment that claimed Obama had 32 mass shootings during his presidency. Trump has faced criticism for not addressing gun laws and instead blaming video games, the internet, and mental illness for the recent mass shootings in Texas and Ohio, which killed 31 people. Obama emphasized the need to hold public officials accountable and denounced leaders who demonise others or suggest that immigrants threaten American life, calling such language "subhuman" and a root cause of human tragedy. Trump, meanwhile, has been accused of emboldening white nationalists and stoking racial resentments, including his recent remarks about congresswomen of colour and his rally chant of "send her back!" Obama also highlighted the trend of individuals embracing ideologies tied to white supremacy, urging Americans to reject such rhetoric and heal from division. Trump's visit to the shooting sites has been opposed by Democrats, including Beto O’Rourke, who accused him of creating hatred. END OF SUMMARY.

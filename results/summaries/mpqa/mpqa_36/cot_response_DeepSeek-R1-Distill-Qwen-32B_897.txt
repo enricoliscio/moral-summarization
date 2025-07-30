@@ -1,0 +1,37 @@
+Okay, so the user has given me a query where they want me to act as a news summarizer assistant and a moral expert. They provided a detailed news article and specific instructions on how to process it. 
+
+First, I need to understand the task. They want me to identify all the single words that are morally framed in the article. Then, I have to summarize the article while preserving those moral framings. The summary should be concise, no more than 200 words.
+
+Looking at the article, it's critical of the United States' foreign policy, especially after 9/11. It mentions the bombing of Afghanistan, the "axis of evil" speech, human rights violations, and China's criticism. There's a lot of moral language here, like "criticism," "dominating," "terrorism," etc.
+
+For STEP 1, I need to list all the morally charged words. I'll go through the article and pick out words that carry strong moral connotations. Words like "criticism," "dominating," "terrorism," "innocent," "oppression," "dictatorial," "oppression," "double standards," "selfishness," "violence," "crime," "prejudice," "discrimination," "oppression," and "oppression" again. I need to make sure each is on a new line with a star.
+
+Next, the summary. I need to condense the article, keeping the moral framing intact. I'll start by noting China's criticism of US military expansion and their demand to stop world domination. Then, mention the 9/11 attacks and the US response, highlighting the bombing of Afghanistan and the targeting of other countries. Include the human rights violations, the prisoners in Guantanamo, and the moral issues like double standards and selfishness. Also, mention Chomsky's analysis of US policies and the impact on Pakistan. Finally, conclude with the call for the US to be seen in its true light and Pakistan to rethink its alliance.
+
+I need to keep the summary under 200 words, so I'll make it concise but include all key points. I'll ensure that the morally framed words are included as per the instructions. 
+
+I should double-check that I haven't missed any morally charged words and that the summary accurately reflects the article's critical stance towards US policies while highlighting the moral issues involved.
+</think>
+
+### STEP 1:
+* Criticism  
+* Dominating  
+* Terrorism  
+* Innocent  
+* Oppression  
+* Dictatorial  
+* Oppression  
+* Double standards  
+* Selfishness  
+* Violence  
+* Crime  
+* Prejudice  
+* Discrimination  
+* Oppression  
+* Oppression  
+
+---
+
+### SUMMARY:
+A recent Chinese government document criticized the United States for its expanding military presence and demanded an end to its policy of global domination. Following the 9/11 attacks, the U.S. blamed Afghanistan for terrorism, leading to a coalition war that caused widespread suffering among innocent Muslims. The U.S. has since targeted Iraq, Iran, and North Korea as part of its "axis of evil," ignoring moral and human rights concerns. China accused the U.S. of violating human rights and undermining global solidarity, while Iranian President Mohammed Khatami condemned the U.S. for its dictatorial approach. American intellectual Noam Chomsky highlighted the U.S. history of aggression, including the subjugation of Third World countries and its disregard for moral values. The U.S. has detained thousands, including Pakistanis and Taliban prisoners in Guantanamo Bay, under inhumane conditions, further exposing its hypocrisy. China called for the U.S. to stop its oppressive policies and interference in other countries' affairs. Pakistan was advised to rethink its alliance with the U.S., as it has reaped few benefits while facing increased internal and external problems. The U.S. must be held accountable for its double standards and selfishness, and the world must see it in its true light.  
+END OF SUMMARY.

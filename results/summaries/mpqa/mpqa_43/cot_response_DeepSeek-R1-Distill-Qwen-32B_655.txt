@@ -1,0 +1,29 @@
+Okay, so I need to help the user by summarizing this news article while preserving the moral framing. First, I should understand the article's content. It's about the US State Department's human rights report on China, which the Chinese officials and experts are criticizing for being false and politically motivated. They argue that the US is slandering China and violating international principles.
+
+The user wants me to identify all the morally framed single words first. I'll go through the article and pick out words that carry moral judgment. Words like "tarnish," "fabrications," "slandering," "violation," "unwarranted," "restricting," "heresy," "smuggling," "oppression," and "terrorism" come to mind. These words are used to convey negative moral judgments against the US report.
+
+Next, I need to write a concise summary that includes these moral terms. The summary should be under 200 words and reflect the original article's critical stance towards the US report. I'll start by mentioning the report's publication and the criticism it received. Then, I'll highlight the experts' arguments about the report's falsehoods and the US's violation of UN principles. I'll also include specific examples like the Tibet and Xinjiang issues, using terms like "restricting religious freedom" and "oppression." Finally, I'll note the experts' support for China's policies and the contrast with the US report's claims.
+
+I should make sure the summary flows logically, connecting each point without getting too detailed. Keeping it concise while preserving the moral framing is key. I'll also ensure that the summary ends with the "END OF SUMMARY." token as specified.
+</think>
+
+**STEP 1:**
+
+* tarnish  
+* fabrications  
+* slandering  
+* violation  
+* unwarranted  
+* restricting  
+* heresy  
+* smuggling  
+* oppression  
+* terrorism  
+
+---
+
+**SUMMARY:**  
+
+The US State Department's annual human rights report on China was criticized for containing fabrications and exaggerations aimed at tarnishing China's image. Experts argued that the report violated UN principles by interfering in China's internal affairs. The report was accused of slandering China, particularly regarding Tibet and Xinjiang. In Tibet, the report falsely claimed religious freedom was restricted, while Italian senator Renzo Gubert praised China's efforts to protect cultural and religious heritage. Similarly, the report accused China of using anti-terrorism measures to oppress the Uighur minority, a claim dismissed by experts who emphasized that terrorism, not ethnicity, should determine justice. The report was also criticized for using unsubstantiated claims, such as the case of Li Guangqiang, a Hong Kong businessman charged with smuggling banned religious materials. Experts defended China's religious policies, highlighting the availability of Bibles in multiple languages. The report's claims were deemed unwarranted and contrary to the UN Charter.  
+
+END OF SUMMARY.

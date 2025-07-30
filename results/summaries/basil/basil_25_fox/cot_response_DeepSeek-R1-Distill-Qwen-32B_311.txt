@@ -1,0 +1,23 @@
+Okay, so I need to help the user by summarizing this news article while preserving the moral framing. First, I should understand the user's query. They want me to act as a news summarizer and a moral expert. The task has two steps: identifying morally framed words and then writing a summary that includes as many of those words as possible.
+
+Looking at the article, it's about Paul Ryan responding to criticism regarding his Medicare plan. The key here is to identify words that carry moral connotations. Words like "raid," "damage," "dishonest," "hypocritical," "fail," "attack," "failure," "wrong" stand out because they imply blame or judgment.
+
+Next, I need to summarize the article. The summary should be concise, under 200 words, and include those moral terms. I'll structure it to show the contrast between Ryan and Obama's arguments, highlighting the accusations and defenses each side is making. I should ensure that the moral framing is clear, showing how each side is accusing the other of negative actions regarding Medicare.
+
+I also need to make sure the summary flows well, covering the main points: Ryan's defense, Obama's criticism, the debate over Medicare funding, and the accusations of dishonesty. I'll avoid technical jargon and keep it straightforward, focusing on the moral aspects each side emphasizes.
+
+Finally, I'll review the summary to ensure it's within the word limit and that all key moral terms are included. This way, the user gets a clear, concise summary that maintains the original moral framing of the article.
+</think>
+
+**STEP 1:**  
+* Raid  
+* Damage  
+* Dishonest  
+* Hypocritical  
+* Fail  
+* Attack  
+* Failure  
+* Wrong  
+
+**SUMMARY:**  
+Paul Ryan defended his Medicare plan, accusing President Obama of treating the program as a "piggy bank" to fund ObamaCare, while claiming the Romney-Ryan plan preserves Medicare. Ryan argued that Obama’s plan damages Medicare for current seniors, while his plan protects it. Democrats, however, charge Ryan with "ending Medicare as we know it," a claim echoed in an Obama campaign ad. Ryan’s proposal would shift Medicare to private plans for future retirees, a move he frames as preserving the program, while Obama’s campaign claims it would replace guaranteed benefits with vouchers. Both sides accuse each other of dishonesty and hypocrisy, with Obama’s campaign highlighting that Ryan’s budget would cut Medicare benefits over time. The debate over Medicare’s future remains a central issue in the campaign, with Ryan emphasizing job creation and economic growth as key priorities. END OF SUMMARY.

@@ -1,0 +1,49 @@
+Alright, so I need to help the user with their query. They provided a news article and want me to act as a news summarizer assistant and a moral expert. The task has two steps: first, identify all the single words that are morally framed, and second, write a summary preserving those moral framings.
+
+First, I should read through the article carefully to understand the context. It's about a lawsuit filed by 14 Wisconsin parents against a school district for allowing students to use their preferred gender identity without parental notification. The article mentions the policy, the lawsuit's arguments, and the district's stance.
+
+For STEP 1, I need to find words that carry moral connotations. I'll go through each paragraph and pick out words that relate to rights, duties, values, etc. Words like "unconstitutional," "fundamental," "right," "parental," "upbringing," "vindicate," "prohibit," "violate," "due process," "commitment," "affirm," "disrupt," "binary," "choice," "freedom," "interfere," "guide," "urgently," "secret," "gender dysphoria," "compelling," "interfere," "guarantee," "believe," "intended," "male," "female," "right," "guide," "according," "beliefs." These words are central to the moral arguments presented.
+
+Next, for the summary, I need to condense the article while keeping these moral terms. The summary should be concise, around 200 words, and include as many of those moral words as possible. I'll structure it to mention the lawsuit, the policy, the constitutional arguments, and the parents' beliefs, ensuring each morally framed word is included without making it sound forced.
+
+I should make sure the summary flows naturally and covers all key points: the lawsuit, the policy details, the constitutional claims, the district's support for the policy, and the parents' religious and moral objections. I'll also mention the lack of parental notification and the potential impact on the children's health and future.
+
+Finally, I'll review to ensure that all the morally framed words are included and that the summary accurately reflects the article's content while emphasizing the moral aspects as per the user's request.
+</think>
+
+**STEP 1:**  
+* unconstitutional  
+* fundamental  
+* right  
+* parental  
+* upbringing  
+* vindicate  
+* prohibit  
+* violate  
+* due process  
+* commitment  
+* affirm  
+* disrupt  
+* binary  
+* choice  
+* freedom  
+* interfere  
+* guide  
+* urgently  
+* secret  
+* gender dysphoria  
+* compelling  
+* interfere  
+* guarantee  
+* believe  
+* intended  
+* male  
+* female  
+* right  
+* guide  
+* according  
+* beliefs  
+
+**SUMMARY:**  
+A group of 14 Wisconsin parents has filed a lawsuit against the Madison Metropolitan School District (MMSD) for its policy allowing students to use their preferred gender identity and pronouns without parental notification. The parents, represented by the conservative law firm Wisconsin Institute for Law and Liberty (WILL), argue that the policy violates constitutional rights, including the due process clause and religious freedom guarantee. They claim the policy circumvents their fundamental right to direct their children's upbringing and make pivotal decisions about their health and future. The lawsuit states that MMSD's policy enables children to socially transition without parental consent, which interferes with parents' ability to guide their children through life-altering decisions and provide necessary professional help. The parents also argue that the policy hides children's gender struggles, which violates their religious beliefs that God intended humans to be male and female. The district has not yet responded to the lawsuit but stands by its commitment to affirming students' gender identities and disrupting the gender binary. The lawsuit asserts that there is no compelling government interest in keeping parents in the dark about their children's gender dysphoria.  
+**END OF SUMMARY.**

@@ -1,0 +1,39 @@
+Okay, so I need to help the user with their query. They provided a news article and specific instructions. Let me break it down.
+
+First, the user wants me to act as a news summarizer and moral expert. My task is to summarize the article while preserving the moral framing the author used. They also have two steps: identifying morally framed words and then writing the summary.
+
+Looking at the article, it's about a Republican staffer who criticized Malia and Sasha Obama for their appearance at the turkey pardon ceremony. She later apologized. 
+
+For step one, I need to find all the single words that carry moral judgment. Let me read through the article again. Words like "criticized," "apologized," "judgment," "disdain," "hurtful," "offended," "pledge," "learn," "grow," "judgmental," "hurt," "offend," "apologize," "pledge," "learn," "grow." These words seem to carry moral implications.
+
+Now, for the summary, I need to keep it under 200 words and include as many of those moral words as possible. The summary should capture the key points: the staffer's criticism, the content of her message, the daughters' behavior, and her subsequent apology, emphasizing the moral aspects like judgment, hurtfulness, and growth.
+
+I should make sure the summary flows well and includes all necessary details without being too lengthy. I'll start by mentioning the staffer's criticism, her specific comments, the daughters' reactions, and then her apology, highlighting her realization and commitment to growth.
+
+I need to ensure that the summary preserves the moral framing, so words like "criticized," "judgment," "hurtful," and "pledge" should be included. Also, the context of the event and the daughters' behavior adds to the moral aspect of the story.
+
+Let me draft the summary, making sure it's concise and includes all the key points with the morally framed words. I'll check the word count to stay within the limit. 
+
+I think that's a solid approach. Now, I'll put it all together as per the user's instructions, making sure to follow the format with STEP 1 and SUMMARY sections.
+</think>
+
+**STEP 1:**  
+* Criticized  
+* Apologized  
+* Judgment  
+* Disdain  
+* Hurtful  
+* Offended  
+* Pledge  
+* Learn  
+* Grow  
+* Judgmental  
+* Hurt  
+* Offend  
+* Apologize  
+* Pledge  
+* Learn  
+* Grow  
+
+**SUMMARY:**  
+A Republican staffer, Elizabeth Lauten, apologized for a Facebook post that criticized Malia and Sasha Obama for their appearance and behavior at the annual White House turkey pardon ceremony. Lauten judged the teenagers for lacking "class" and "respect," and for making faces during the event. She later acknowledged that her words were hurtful and pledged to learn and grow from the experience. The First Daughters, known for their disdain during the ceremony, declined to interact with the turkeys. Lauten’s apology emphasized her regret for judging them harshly and her commitment to avoiding such judgmental feelings in the future. END OF SUMMARY.

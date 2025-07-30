@@ -1,0 +1,57 @@
+Alright, I need to help the user by summarizing the news article while preserving the moral framing. The user has provided a detailed article about President Trump and the Mueller investigation, along with specific instructions on how to process it.
+
+First, I should identify all the single words that are morally framed. These are words that carry a strong moral or ethical connotation. I'll go through the article and pick out words like "warning," "firing," "meddling," "attacks," "firing," "meddling," "probe," "firing," "dismiss," "end," "accept," "pushback," "urging," "accused," "corruption," "leaking," "witch hunt," "collusion," "crime," "disgrace," "interference," "frustrated," "corrupting," "defamatory," "disgusting," "false," "corrupt," "defamatory," "disgusting," "false," "collusion," "manufactured," "disgrace," "interference," "frustrated," "corrupting," "defamatory," "disgusting," "false," "corrupt," "defamatory," "disgusting," "false," "collusion," "manufactured," "disgrace," "interference," "frustrated," "corrupting," "defamatory," "disgusting," "false."
+
+Next, I need to write a concise summary that includes as many of these morally charged words as possible. The summary should be under 200 words and capture the essence of the article, highlighting the moral implications and the various stakeholders' perspectives.
+
+I'll start by outlining the main points: Republican senators warning Trump not to fire Mueller, Trump's frustration with the probe, the potential consequences of such an action, and the broader implications for the presidency and the rule of law. I'll make sure to include terms like "warning," "firing," "attacks," "probe," "dismiss," "end," "pushback," "urging," "accused," "corruption," "witch hunt," "collusion," "crime," "disgrace," "interference," "frustrated," "corrupting," "defamatory," "disgusting," "false."
+
+I need to ensure the summary flows well and accurately reflects the moral framing without being too verbose. I'll structure it to first mention the senators' warnings, then Trump's actions and rhetoric, followed by the consequences and the support for Mueller's investigation.
+
+Finally, I'll review the summary to make sure it's within the word limit and that all key morally framed words are included appropriately. This approach should meet the user's requirements effectively.
+</think>
+
+**STEP 1:**  
+* warning  
+* firing  
+* meddling  
+* attacks  
+* firing  
+* meddling  
+* probe  
+* firing  
+* dismiss  
+* end  
+* accept  
+* pushback  
+* urging  
+* accused  
+* corruption  
+* leaking  
+* witch hunt  
+* collusion  
+* crime  
+* disgrace  
+* interference  
+* frustrated  
+* corrupting  
+* defamatory  
+* disgusting  
+* false  
+* corrupt  
+* defamatory  
+* disgusting  
+* false  
+* collusion  
+* manufactured  
+* disgrace  
+* interference  
+* frustrated  
+* corrupting  
+* defamatory  
+* disgusting  
+* false  
+
+**SUMMARY:**  
+Republican senators warned President Trump not to fire Special Counsel Robert Mueller, emphasizing the importance of letting federal investigators probe Russian meddling in the 2016 election. Trump’s recent Twitter attacks on the FBI and Mueller’s probe, following the firing of Andrew McCabe, have raised concerns about interference. Senators Jeff Flake and Lindsey Graham cautioned that firing Mueller could spell the end of Trump’s presidency, while House Speaker Paul Ryan’s spokeswoman echoed support for Mueller’s work. Trump denied considering Mueller’s removal, but Flake warned of congressional pushback if Trump acted. Trump accused the FBI of corruption and called the Russia probe a politically motivated witch hunt, asserting no collusion occurred. GOP Representative Trey Gowdy criticized Trump’s attorney for framing the investigation negatively. Trump’s frustration with the probe’s duration was noted, but Graham stressed Mueller must proceed without interference. Rubio criticized McCabe’s firing, and McCabe’s lawyer accused Trump of defamatory and false claims. The article highlights the moral stakes of Trump’s actions, with Republicans urging him to avoid further interference and uphold the rule of law.  
+**END OF SUMMARY.**

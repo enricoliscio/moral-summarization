@@ -1,0 +1,17 @@
+<think>
+Alright, so the user has given me a query where they want me to act as a news summarizer. They provided a detailed news article about Donald Trump's campaign, specifically focusing on his changes in stance on immigration, his comments on inner cities, and the unemployment statistics regarding African Americans. 
+
+First, I need to understand the main points of the article. It seems like Trump is softening his hardline immigration policies, which was a key part of his campaign. He's trying to court Hispanic and African American voters, which is a shift from his earlier tough stance. The article also mentions his claim about inner cities being unsafe, which is contrary to actual crime trends. Additionally, he cited high unemployment rates among African American youth, but the statistics he used were misleading because they included people not actively seeking jobs.
+
+Next, I should identify the key elements to include in the summary. The main points are Trump softening his immigration stance, his claims about inner cities, and the misleading unemployment statistics. I need to condense these into a concise summary without losing the essential information.
+
+I also need to adhere to the user's instructions. The summary should start with "SUMMARY:" and end with "END OF SUMMARY." It should be no longer than 200 words. I should make sure to capture Trump's actions, the context of his campaign, and the implications of his statements.
+
+I should also consider the tone. Since it's a news summary, it needs to be objective and factual. I'll avoid any personal opinions or interpretations beyond what's presented in the article.
+
+Now, putting it all together, I'll structure the summary to first mention the softening on immigration, then his comments on inner cities, and finally the unemployment statistics. Each point should be brief but informative, ensuring that the summary is comprehensive yet concise.
+
+I need to check the word count to make sure it's under 200 words. I'll draft the summary, then revise it to ensure clarity and conciseness. Finally, I'll format it correctly with the starting and ending tokens as specified.
+</think>
+
+SUMMARY: Donald Trump has softened his stance on immigration, a key issue of his campaign, as he attempts to appeal to Hispanic and African American voters. He suggested a potential pathway for undocumented immigrants to stay in the U.S. without amnesty, though he denied flip-flopping. Trump also criticized crime rates in inner cities, claiming they are more dangerous than war zones, a claim contradicted by declining crime trends. Additionally, Trump cited a misleading statistic about 58% unemployment among young African Americans, which was based on flawed data. His outreach to non-white voters comes amid polls showing him trailing significantly behind Hillary Clinton among these groups. END OF SUMMARY.

@@ -1,0 +1,27 @@
+Okay, so I need to help the user with their query. They provided a news article and specific instructions on how to process it. The task is to first identify all the morally framed single words and then write a summary preserving those moral framings.
+
+First, I'll read through the article carefully. The main points are about Taro Kono, a Japanese politician, criticizing President Bush's speech. Kono mentions issues like the Kyoto Protocol, CTBT, BWC, SOFA, and the Iraq attack. He uses words like "heckling," "unacceptable," "right," "necessary," "immediately," and "attack." These words carry moral weight because they express disapproval, criticism, or necessity.
+
+I need to list each of these words under STEP 1, each on a new line starting with an asterisk. Then, for the summary, I have to condense the article, making sure to include these moral terms. The summary should be concise, under 200 words, and reflect Kono's critical stance on the US policies and his belief in shared values over burden-sharing.
+
+I should ensure the summary flows naturally, highlighting Kono's criticism and the implications of the US stance on these international issues. Also, noting the ambassadors' reaction adds context about the international attention this criticism received.
+
+Let me structure the summary by first introducing Kono, his criticism, the specific policies he opposes, and the reactions. I'll make sure to include all the morally framed words without making the summary too lengthy. I'll check the word count to stay within the limit.
+
+Alright, I think I have a clear plan. I'll list the moral words first, then craft a concise summary that captures the essence of Kono's critique and the moral implications involved.
+</think>
+
+**STEP 1:**  
+* Heckling  
+* Common values  
+* Value sharing  
+* Burden sharing  
+* Power sharing  
+* Unacceptable  
+* Right  
+* Necessary  
+* Immediate  
+
+**SUMMARY:**  
+Taro Kono, a Japanese politician and son of former Foreign Minister Yohei Kono, criticized U.S. President Bush's speech before the Japanese Diet. In his email magazine, Kono expressed frustration over the U.S. stance on key issues, such as the Kyoto Protocol, CTBT, and SOFA, arguing that "value sharing" should guide the Japan-U.S. relationship, not "burden sharing" or "power sharing." He found the U.S. positions on these issues "unacceptable" and highlighted the moral implications of their policies, such as the right to own handguns, the necessity of land mines, and the decision to attack Iraq. Middle Eastern ambassadors took notice of his criticism, reflecting the international attention it garnered. Kono's critique underscores his belief in shared values and the need for a more equitable partnership between the two nations.  
+**END OF SUMMARY.**

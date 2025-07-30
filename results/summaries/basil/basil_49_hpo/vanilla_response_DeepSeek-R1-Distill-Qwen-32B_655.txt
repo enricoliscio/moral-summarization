@@ -1,0 +1,12 @@
+Alright, I need to help the user by summarizing the given news article. The user has specified that I should provide a summary after the "SUMMARY:" token and end with "END OF SUMMARY." The summary should be concise, no more than 200 words.
+
+First, I'll read through the article to understand the main points. The key elements are Nebraska and Oklahoma filing a lawsuit against Colorado over marijuana legalization, their arguments based on the Supremacy Clause, Colorado's defense, the implications of the lawsuit, and reactions from various groups.
+
+I should start by stating who filed the lawsuit and against whom. Then, mention the constitutional basis they're using. It's important to note Colorado's stance and their reasoning. I'll also include the potential impact if the Supreme Court rules against Colorado, affecting other states. Including the reactions from supporters and opponents of legalization adds depth to the summary.
+
+I need to keep the language clear and concise, ensuring each sentence captures a main point without unnecessary details. I'll avoid jargon and make sure the summary flows logically from the lawsuit to the implications and reactions.
+
+Now, I'll structure the summary, making sure it's under 200 words and covers all essential aspects without being too lengthy. I'll check the word count to ensure compliance with the user's request.
+</think>
+
+SUMMARY: Nebraska and Oklahoma have filed a federal lawsuit against Colorado in the U.S. Supreme Court, arguing that Colorado's legalization of recreational marijuana violates federal law under the Supremacy Clause. Nebraska Attorney General Jon Bruning claims Colorado's actions undermine the U.S. Constitution, while Colorado Attorney General John Suthers defends the state's laws, stating the lawsuit lacks merit. The lawsuit focuses on Colorado's marijuana distribution affecting neighboring states, though Colorado maintains the issue stems from federal non-enforcement. Marijuana remains illegal under the 1970 Controlled Substances Act, but several states have legalized it, with federal guidance allowing state laws to stand. A Supreme Court ruling against Colorado could jeopardize all state marijuana laws. Supporters of legalization, like Harvard economist Jeff Miron, warn of federal action under a new administration, while opponents, such as anti-legalization group Smart Approaches to Marijuana, support the lawsuit. Colorado's marijuana industry and supporters argue the lawsuit is misguided and a waste of resources. END OF SUMMARY.

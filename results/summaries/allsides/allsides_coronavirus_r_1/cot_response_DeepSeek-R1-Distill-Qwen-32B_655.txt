@@ -1,0 +1,34 @@
+Okay, I need to help the user by summarizing the given news article while preserving the moral framing. The user has specified two steps: first, identifying all the single words that are morally framed, and then writing a summary that includes as many of these words as possible. 
+
+Starting with STEP 1, I should go through the article and pick out words that carry a moral connotation. Words like "ignorance," "stupidity," "obstinance," "compromised," "failure," "cooperate," "refusing," "spreading," "right thing," "trouble," "cooperation," "deny," "hang up," "deny," "consistent," "stop," "deadly," "contagious," "struggling," "contain," "cluster." These words reflect the moral judgment in the article, such as criticizing the refusal to cooperate and the spread of the virus.
+
+Next, for the summary, I need to condense the article into 200 words, making sure to include these moral terms. I'll start by stating that Rockland County issued subpoenas to eight people for refusing to speak with contact tracers. The officials expressed frustration, using terms like "ignorance," "stupidity," and "obstinance." They emphasized the importance of cooperation to prevent spreading the virus. The party host had symptoms but still held the event. The summary should highlight the moral implications, such as the refusal to help, the spread, and the necessity of cooperation. I'll ensure that the summary flows well while incorporating the key moral words identified earlier.
+</think>
+
+**STEP 1:**  
+* Ignorance  
+* Stupidity  
+* Obstinance  
+* Compromised  
+* Failure  
+* Cooperate  
+* Refusing  
+* Spreading  
+* Right thing  
+* Trouble  
+* Cooperation  
+* Deny  
+* Hang up  
+* Deny  
+* Consistent  
+* Stop  
+* Deadly  
+* Contagious  
+* Struggling  
+* Contain  
+* Cluster  
+
+**SUMMARY:**  
+Rockland County officials issued subpoenas to eight individuals allegedly infected with COVID-19 for refusing to cooperate with contact tracers. County Executive Ed Day criticized those who ignored health guidelines, stating that their "ignorance, stupidity, or obstinance" could compromise public health. Health Commissioner Patricia Rupert emphasized the importance of cooperation to prevent the virus from spreading further. The individuals, linked to a June 17 party, had declined to speak with contact tracers, frustrating efforts to track the disease. Rupert noted that some individuals hung up, denied attending the party, or provided false information. The host, despite showing symptoms, had hosted the event. Contact tracing is essential to stem the spread, yet the county faces challenges in obtaining cooperation. The refusal to assist has forced officials to resort to legal action, highlighting the moral imperative to do "the right thing" for the community.  
+
+**END OF SUMMARY.**

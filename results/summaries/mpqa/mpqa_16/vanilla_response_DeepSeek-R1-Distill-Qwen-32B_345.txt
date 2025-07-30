@@ -1,0 +1,14 @@
+Alright, so the user wants me to summarize a news article. Let me read through the query again. They provided an article about Cubans celebrating Chavez's return and comparing it to the Bay of Pigs. The task is to create a summary of no more than 200 words, starting with "SUMMARY:" and ending with "END OF SUMMARY." 
+
+First, I need to understand the key points of the article. The main event is Cubans celebrating Chavez's return, linking it to the Bay of Pigs. They held a rally, comparing the failed coup in Venezuela to the 1961 invasion. The article mentions Castro supporters, the Communist Party official's statement, the historical coincidence, and the US's reaction. Also, it touches on the US's denial of involvement in the coup and the Bay of Pigs details.
+
+I should condense this into a concise summary. I need to mention the celebration, the comparison, the rally location, the Communist Party's view, the failed coup details, the US's denial, and the historical context of the Bay of Pigs. I should keep it under 200 words, so I need to be brief but include all essential elements.
+
+Let me structure it: start with the celebration, then the comparison, mention the rally and the Communist Party's statement, the failed coup attempt, Chavez's reinstatement, the US's denial, and a brief mention of the Bay of Pigs outcome. Make sure to link Chavez and Castro's relationship and its impact on US-Cuba relations.
+
+I should avoid unnecessary details, like specific numbers unless crucial. Also, ensure the summary flows logically, connecting each event to show the significance of the celebration in the context of Cuban history and US-Cuba relations.
+
+Now, let me draft the summary, keeping it within the word limit and ensuring all key points are covered succinctly.
+</think>
+
+SUMMARY: Thousands of Cubans celebrated Venezuelan President Hugo Chavez's return to power, drawing parallels between the failed coup against him and the 1961 Bay of Pigs invasion. The rally, held at the site where Fidel Castro declared Cuba socialist, highlighted the "beautiful historic coincidence" of the event occurring soon after Venezuelans resisted the coup. Both Castro and Chavez are leftist leaders, with Cuba viewing Chavez as a key ally, which has strained relations with the U.S. Cuba quickly condemned the coup attempt, which was reversed when Chavez was reinstated by loyalist forces. The U.S. denied encouraging the coup, while the Bay of Pigs invasion, a failed CIA-backed attempt to overthrow Castro, remains a significant historical event. END OF SUMMARY.

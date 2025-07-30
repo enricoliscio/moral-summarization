@@ -1,0 +1,17 @@
+<think>
+Okay, so the user has given me a news article and wants me to summarize it while preserving the moral framing. They mentioned I should act as a news summarizer assistant and a moral expert. Hmm, that means I need to not only condense the article but also highlight the underlying moral arguments presented by the author.
+
+First, I'll read through the article to understand the main points. It's about how President Obama and Mitt Romney have different approaches to disaster response, specifically after Sandy. Obama emphasizes the federal government's role, while Romney focuses on local efforts and voluntary actions. The article also touches on the political implications, like budget cuts and the effectiveness of FEMA under Obama.
+
+Now, the user wants the summary to be no longer than 200 words and to end with specific tokens. I should make sure to capture the moral perspectives each side presents. Obama's approach is about collective responsibility and the necessity of federal intervention, especially in emergencies. Romney, on the other hand, argues for decentralization and reducing federal spending, which could be seen as valuing individual initiative but potentially risking adequate disaster response.
+
+I need to balance both viewpoints without taking a side, just presenting the moral framing as the author did. Also, I should mention the political implications, like Romney's past comments on FEMA funding, which might not be ideal given the current situation. This adds a layer of criticism towards Romney's stance.
+
+Putting it all together, I'll structure the summary to first introduce the debate, then outline each candidate's position, their moral justifications, and the political context. Keeping it concise but informative, ensuring it's under 200 words and flows naturally.
+
+I should also check that I'm not adding any personal opinions, just summarizing the article's moral arguments. Making sure to include key points like Obama's FEMA leadership and Romney's canned food drive example. Finally, I'll wrap it up with the political implications and the contrast between their approaches.
+
+Alright, I think that's a solid plan. Time to draft the summary accordingly.
+</think>
+
+SUMMARY: The article highlights the contrasting views on disaster response between President Obama and Mitt Romney, using Hurricane Sandy as a backdrop. Obama emphasizes the federal government's role, stating, "America's with you," and offering federal resources to aid recovery. Romney, meanwhile, champions local and voluntary efforts, citing a high school example to illustrate the power of individual action. While Romney acknowledges the need for government assistance, he has previously argued for decentralizing disaster relief, suggesting it should be returned to states or the private sector. This stance clashes with Obama's approach, which has been praised by Republican Governor Chris Christie for its efficiency. The article also notes that while FEMA has improved under Obama, Republicans still target its budget for cuts, arguing against federal overreach. Romney's past comments on reducing disaster relief spending raise questions about his priorities, especially in light of Sandy's impact. The debate underscores differing visions of governance: Obama's emphasis on collective responsibility versus Romney's focus on individual initiative and reduced federal involvement. END OF SUMMARY.

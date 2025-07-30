@@ -1,0 +1,28 @@
+<think>
+Alright, I need to tackle this query. The user wants me to act as a news summarizer and a moral expert. They provided a news article about China criticizing the US human rights report. My task is to first identify all the morally framed words and then write a concise summary preserving those words.
+
+First, I'll read through the article carefully. The user mentioned two steps: identifying the morally framed words and summarizing the article. 
+
+For the first step, I need to find words that carry a moral judgment. Words like "criticizes," "accusing," "abuses," "blind eye," "infringing," "slammed," "distorted," "accused," and "violations" stand out. These words imply judgment or criticism, so I'll list them each with an asterisk.
+
+Next, for the summary, I need to condense the article into under 200 words while keeping the moral framing intact. I'll start by stating that China has released its annual report criticizing the US. I'll mention the issues China points out, such as police abuses, poverty, racial discrimination, personal safety, military operations, and withdrawal from the Kyoto Protocol. I'll also note that this is a response to the US report that accuses China. Finally, I'll include the quote from the Chinese report about the US acting as a judge while ignoring its own problems.
+
+I need to make sure the summary flows well and includes all the key points without being too lengthy. I'll structure it to highlight China's accusations and the context of the annual reports exchanged between the two countries. 
+
+I think that covers everything. Let me put it all together now.
+</think>
+
+**STEP 1:**  
+* Criticizes  
+* Accusing  
+* Abuses  
+* Blind eye  
+* Infringing  
+* Slammed  
+* Distorted  
+* Accused  
+* Violations  
+
+**SUMMARY:**  
+China has released its annual report criticizing the United States for its human rights record, accusing the U.S. of ignoring domestic abuses while condemning others. The report highlights police abuses, poverty, racial discrimination, and lack of personal safety in the U.S., while also condemning U.S. military operations and the Bush administration's withdrawal from the Kyoto Protocol. China's report accuses the U.S. of "wantonly infringing" on other nations' sovereignty and distorting human rights conditions globally. This response comes after the U.S. State Department's annual report, which typically accuses China of widespread human rights violations. China condemns the U.S. for acting as a "world judge of human rights" while ignoring its own problems.  
+**END OF SUMMARY.**

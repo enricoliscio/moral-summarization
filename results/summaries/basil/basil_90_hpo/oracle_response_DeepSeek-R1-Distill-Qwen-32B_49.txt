@@ -1,0 +1,12 @@
+Alright, I need to help the user by summarizing the given news article while preserving the moral framing. The user specified that the summary should include the morally framed words: leaked, referred, insults, expletive, and freedom. 
+
+First, I'll read through the article to understand the key points. It's about Nancy Pelosi's reaction to Rashida Tlaib's comment about impeaching Trump. Tlaib used strong language, and Pelosi defended it as free speech. Trump responded by calling the impeachment push a result of losing in 2020.
+
+Now, I need to identify where the morally framed words fit. "Leaked" is used when talking about Trump's 2005 tape. "Referred" is when Tlaib used the expletive. "Insults" describe Trump's comments. "Expletive" is the strong language Tlaib used. "Freedom" relates to Pelosi's stance on free speech.
+
+I should structure the summary to include these words naturally. Start with Pelosi's response to Tlaib's comment, mention the leaked tape, refer to the expletive, note Trump's insults, and highlight the freedom aspect. Keep it concise, under 200 words, and end with the required tokens.
+
+Let me draft the summary, making sure each moral word is included and the context is clear. I'll check the word count and adjust if necessary. Ensure the summary flows well and captures the essence of the article with the moral framing intact.
+</think>
+
+SUMMARY: House Speaker Nancy Pelosi defended Michigan Rep. Rashida Tlaib’s use of vulgar language when referring to impeaching President Donald Trump, calling it a free speech issue. Tlaib, one of the first Muslim women in Congress, used the expletive "motherfucker" while addressing supporters, a move Pelosi said she personally dislikes but does not censor. Pelosi noted that while Trump’s comments, such as his infamous leaked remarks about women and his insults toward "shithole countries," can impact people’s lives, Tlaib’s language does not carry the same weight. She emphasized that the controversy over Tlaib’s comment pertains to the freedom of speech of individual members, not the Democratic caucus. Trump responded on Twitter, dismissing the impeachment push as a result of Democrats’ inability to win in 2020. END OF SUMMARY.

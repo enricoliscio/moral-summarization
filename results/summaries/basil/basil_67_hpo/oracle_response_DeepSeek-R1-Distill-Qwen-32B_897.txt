@@ -1,0 +1,16 @@
+Okay, so the user wants me to summarize a news article while preserving the moral framing. They provided the article and the specific words to keep. I need to make sure I include words like fearmongering, scandals, using, mistake, cheating, stop, and lying. 
+
+First, I'll read through the article to understand the main points. Vicente Fox is criticizing Peña Nieto for meeting Trump. Fox says Trump isn't welcome and that Peña Nieto is taking a risk. Trump has been harsh on Mexico, promising a wall and making negative statements about Mexicans. 
+
+I need to capture Fox's disapproval, the context of Trump's campaign tactics, and the potential political risks for both leaders. I should mention the morally framed words where they fit naturally. 
+
+I'll start by stating Fox's criticism, then mention Trump's invitation and the comparison to Clinton. Highlight Fox's warning about traitorous perception. Include the points about Trump using Mexico and the risks involved. Also, note the past exchange between Fox and Trump regarding the wall and apologies. 
+
+I have to keep it concise, under 200 words. I'll structure the summary to flow logically, ensuring each moral term is appropriately placed without forcing them in. 
+
+Now, putting it all together, making sure to include all key points and the moral language as specified. I'll check the word count to stay within limits. 
+
+Finally, I'll format it with the SUMMARY and END tokens as instructed.
+</think>
+
+SUMMARY: Former Mexican President Vicente Fox criticized President Enrique Peña Nieto for inviting Donald Trump to meet in Mexico, calling Trump "not welcome" and rejecting his "fearmongering" rhetoric. Fox warned that Peña Nieto risks being seen as a "traitor" for hosting Trump, who has long attacked Mexico and its leaders. Trump, who has promised to build a wall on the U.S.-Mexico border and accused Mexicans of being "rapists" and "drug dealers," is using the meeting to boost his sinking poll numbers, Fox argued. Peña Nieto, whose approval ratings are at a record low due to corruption scandals, may also seek to improve his image through the meeting. Fox accused Trump of "cheating" and "lying," while Trump responded by highlighting Fox's past invitation to visit Mexico, which Fox denied. The meeting marks Trump's first with a foreign leader as a presidential nominee, but Fox warned it could backfire, calling it a "desperate" and "opportunistic" move. END OF SUMMARY.

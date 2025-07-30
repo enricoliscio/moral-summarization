@@ -1,0 +1,28 @@
+Okay, I need to help the user by summarizing the news article while preserving the moral framing. Let me start by understanding the query. The user wants two things: first, to identify all the single words that are morally framed, and second, to write a summary that includes as many of those words as possible.
+
+Looking at the article, I should go through each sentence to spot words that carry moral connotations. Words like "indicted," "vendetta," "wrongdoing," "vindicated," "erroneous," "improper," "threatened," "secretly," and "unsealed" stand out. These terms suggest accusations, wrongdoing, and potential bias, which are key to the moral framing.
+
+Next, I need to summarize the article, making sure to include these words. The summary should be concise, under 200 words, and capture the main points: Grimm's expected indictment, the charges related to his restaurant and campaign finances, his lawyer's claims of a politically driven case, his past actions, and the upcoming unsealing of the indictment.
+
+I should structure the summary to highlight the moral aspects, showing Grimm's denial of wrongdoing and the political angle his lawyer mentions. Also, including the recent threat against a reporter adds context to his character. Finally, noting that the indictment is secret and pending unsealing wraps up the summary effectively.
+
+I need to ensure the summary flows well and includes all the key moral words without making it sound forced. Let me piece it together, making sure each sentence contributes to the overall moral framing while staying within the word limit.
+</think>
+
+**STEP 1:**
+
+* Indicted  
+* Vendetta  
+* Wrongdoing  
+* Vindicated  
+* Erroneous  
+* Improper  
+* Threatened  
+* Secretly  
+* Unsealed  
+
+---
+
+**SUMMARY:**  
+Rep. Michael Grimm (R-N.Y.) is expected to be indicted on charges of mail fraud and wire fraud related to his ownership of a health food restaurant after leaving the FBI in 2006. Grimm's lawyer, William McGinley, claims the government is pursuing a politically driven vendetta, asserting Grimm's innocence and stating he will be vindicated. The Justice Department has investigated Grimm for allegedly filing erroneous campaign finance reports and accepting improper donations during his first congressional campaign. Additionally, Grimm recently threatened a reporter in the Capitol. Grimm, who represents New York’s 11th District, is expected to turn himself in once the indictment is unsealed. The Washington Post reports that Grimm has already been secretly indicted by a federal grand jury in Brooklyn, with the charges likely to be unsealed soon.  
+**END OF SUMMARY.**

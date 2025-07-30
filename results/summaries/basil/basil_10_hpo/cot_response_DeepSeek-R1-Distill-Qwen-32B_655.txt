@@ -1,0 +1,58 @@
+Okay, so I need to help the user with their query. They provided a news article and a specific task. Let me read through their instructions carefully.
+
+First, the user wants me to act as a news summarizer and a moral expert. My job is to summarize the article while preserving the moral framing the author used. They outlined two steps: identifying morally framed words and then writing a summary that includes as many of those words as possible.
+
+Looking at the article, it's about the Republican-controlled House reading the Constitution and implementing new rules. The key points are the symbolic act of reading the Constitution, the new requirement for bills to cite constitutional authority, the cost involved, and the spending cuts.
+
+For STEP 1, I need to identify single words that carry moral connotations. I'll go through the article and pick out words that have a positive or negative moral charge. Words like "adherence," "reduce," "requirement," "authority," "return," "principles," "applaud," "movement," "bureaucracy," "symbolic," "controversial," "contentious," "oath," "reckless," "commitment," "respect," "serious," "spending," "trim," "save," "cost," "exact," "expenses," "protection," "salaries," "lights," "phones," "coffee," "machines," "oaths," "constituents," "Constitution," "renewed," "trim," "save," "expenses," "protection," "salaries," "lights," "phones," "coffee," "machines," "oaths," "constituents," "Constitution," "renewed."
+
+Wait, some of these might not be single words or might not carry a strong moral frame. I should double-check. For example, "expenses" is more neutral, but in context, it's part of the cost, which has a moral implication. Similarly, "salaries" and "protection" are part of the cost, which is a moral issue because it's taxpayer money.
+
+Moving on to the summary. I need to condense the article into 200 words, keeping the moral framing. I should include the key points: the reading of the Constitution as a symbolic gesture, the new rule requiring constitutional authority statements, the cost, and the spending cuts. I also need to highlight the moral aspects, like "strict adherence," "renewed commitment," "symbolic power," "controversial," "oath," "reckless spending," and "serious about respecting."
+
+I should structure the summary to first mention the reading of the Constitution, then the new rule, the cost, and the spending cuts. I'll make sure to include the moral words identified earlier to preserve the author's framing.
+
+Let me draft the summary. Start with the main event: the House reading the Constitution. Mention the symbolic gesture and the new rule. Then talk about the cost and the spending cuts. Conclude with the mixed reactions, emphasizing the moral commitment versus the practicality.
+
+I need to keep it concise, under 200 words. Let me count the words as I go. Make sure each sentence is clear and includes the moral terms without making it too verbose.
+
+After drafting, I'll review to ensure all key points are covered and that the moral framing is preserved. Also, check that the summary flows logically from one point to the next.
+</think>
+
+**STEP 1:**  
+* adherence  
+* reduce  
+* requirement  
+* authority  
+* return  
+* principles  
+* applaud  
+* movement  
+* bureaucracy  
+* symbolic  
+* controversial  
+* contentious  
+* oath  
+* reckless  
+* commitment  
+* respect  
+* serious  
+* spending  
+* trim  
+* save  
+* cost  
+* exact  
+* expenses  
+* protection  
+* salaries  
+* lights  
+* phones  
+* coffee  
+* machines  
+* oaths  
+* constituents  
+* Constitution  
+* renewed  
+
+**SUMMARY:**  
+On the second day of Republican rule, the U.S. House read the Constitution in full, a symbolic gesture emphasizing strict adherence to the founding document. Republicans aim to reduce federal government size, requiring all new bills to include a statement citing constitutional authority. This move reflects a renewed commitment to the Constitution, a key tenet of the Tea Party movement. Critics argue the rule may have limited practical impact, as most legislation is already vetted for constitutional validity. The reading cost an estimated $1.1 million, sparking debate over expenses and priorities. Meanwhile, the House proposed a 5% spending trim for leadership and committees, expected to save $35 million. Speaker John Boehner and Rep. Michele Bachmann highlighted the GOP’s dedication to respecting the Constitution, signaling a break from reckless spending and a return to founding principles. END OF SUMMARY.

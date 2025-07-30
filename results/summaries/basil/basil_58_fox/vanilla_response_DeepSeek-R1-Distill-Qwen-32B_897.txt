@@ -1,0 +1,15 @@
+<think>
+Okay, so the user wants me to summarize a news article about Chris Christie announcing his candidacy for the 2016 presidency. They provided the article, so I need to read through it and extract the key points. 
+
+First, the main event is that Chris Christie is throwing his hat into the ring, making the announcement in Livingston, NJ. That's the starting point. 
+
+Next, the article mentions that he's facing challenges like low poll numbers and a fundraising deficit. It also talks about how his status as the establishment favorite has faded because of scandals and decreased popularity in New Jersey. Mega-donors are moving towards other candidates like Jeb Bush. 
+
+But then, there's a counterpoint. The article notes that Christie's personality—brash, challenging, combative—is his main asset. He's good at town hall meetings, engaging with people, which leaves some people angry but others supportive. 
+
+I need to make sure the summary is concise, under 200 words, and includes all these elements. I should structure it to first state the announcement, then the challenges, and finally his strengths. 
+
+I also need to remember the format: start with "SUMMARY:" and end with "END OF SUMMARY." without any markdown. Keep it clear and straightforward, ensuring it's a proper summary that captures the essence of the article without getting too detailed.
+</think>
+
+SUMMARY: New Jersey Governor Chris Christie is expected to announce his candidacy for the 2016 presidential race today in Livingston, NJ. Despite facing challenges such as low poll numbers, a fundraising deficit, and waning support from donors due to scandals and declining popularity, Christie remains a contender. His reputation as the GOP establishment's favorite has diminished, with donors shifting to rivals like Jeb Bush. However, Christie's brash, combative personality and skill in engaging voters at town hall meetings could be his key assets, as he connects with supporters despite polarizing some. END OF SUMMARY.

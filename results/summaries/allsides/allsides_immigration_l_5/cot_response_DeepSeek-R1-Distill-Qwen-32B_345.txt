@@ -1,0 +1,53 @@
+Okay, so I need to help the user by summarizing a news article while preserving the moral framing. First, I should understand what the user is asking for. They provided a detailed news article about ICE's Priority Enforcement Program (PEP) and its issues. The user wants me to identify the morally framed words and then write a concise summary that includes those terms.
+
+Starting with STEP 1, I need to go through the article and pick out all the single words that carry a moral connotation. Words like "holds," "expedite," "deportation," "criminal aliens," "target," "missing," "arrests," "convictions," "violations," "deportations," "humanitarian crisis," "felonies," "misdemeanor," "resources," "public safety," "national security," "community policing," "secure," "victims," "deportations," "sanctuary city," "declined," "Unauthorized immigration," "executive orders," "deport," "protection," "sued," "differ," "name change," "detainer," "custody," "convicted," "security risk," "joke." These words seem to carry moral weight as they relate to justice, security, fairness, and community impact.
+
+For the summary, I need to condense the article, focusing on the main points: the PEP program's failure to target only serious criminals, the high number of holds without convictions, the impact on immigration, and the moral concerns raised by immigrants and advocates. I should include as many of the identified words as possible without making the summary too long. I'll need to ensure the summary is under 200 words and flows naturally while highlighting the moral issues.
+
+I should start by stating that the report found half of the holds were on people without convictions. Then mention the types of offenses and how ICE's criteria haven't improved. Include the impact on immigrants' willingness to report crimes and the sanctuary cities' response. End with the criticism that PEP isn't much different from the previous program.
+
+I need to make sure each point is clear and the moral framing is preserved. Also, I should avoid any markdown and keep the summary straightforward. Let me put it all together, ensuring it's concise and includes the key morally charged words.
+</think>
+
+**STEP 1:**
+
+* holds  
+* expedite  
+* deportation  
+* criminal aliens  
+* target  
+* missing  
+* arrests  
+* convictions  
+* violations  
+* deportations  
+* humanitarian crisis  
+* felonies  
+* misdemeanor  
+* resources  
+* public safety  
+* national security  
+* community policing  
+* secure  
+* victims  
+* deportations  
+* sanctuary city  
+* declined  
+* Unauthorized immigration  
+* executive orders  
+* deport  
+* protection  
+* sued  
+* differ  
+* name change  
+* detainer  
+* custody  
+* convicted  
+* security risk  
+* joke  
+
+**SUMMARY:**  
+
+A report reveals that the Priority Enforcement Program (PEP), designed to deport "criminal aliens," often targets individuals with past arrests but no convictions. Half of the "holds" placed on immigrants were for those without criminal records, including traffic violations or dropped charges. Only a quarter had serious offenses like murder or sexual assault, with drunk driving being the most common conviction. ICE claims PEP focuses on public safety and national security, but data shows it targets non-criminal immigrants more than before. Advocates argue the program undermines community trust, as immigrants may avoid reporting crimes due to fear of detention. Sanctuary cities and advocates criticize PEP as a superficial change from the previous Secure Communities program, with ICE still detaining individuals without criminal records or security risks. The report highlights the humanitarian crisis caused by mass deportations and questions the program's effectiveness in ensuring public safety.  
+
+**END OF SUMMARY.**

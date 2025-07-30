@@ -1,0 +1,33 @@
+Okay, so I need to help the user by summarizing a news article while preserving the moral framing. The user has provided a specific structure for the response, so I need to follow that closely.
+
+First, the user wants me to identify all the single words that are morally framed in the article. I'll go through the text and pick out words that carry a strong moral connotation. Words like "criticized," "condemned," "inaccurate," "lacking good will," "rejected," "brazen distortion," "wrongful," "illegitimate," "interference," "violations," "torture," "unjust," "ignored," "malicious goals," "protest," "criticism," "wrong judgment," "fabricated." These words are key to the moral argument presented in the article.
+
+Next, I need to write a concise summary, keeping it under 200 words. The summary should include as many of these morally framed words as possible. I'll start by mentioning the criticism of the US report, then the global rejection, the statistics on US human rights issues, the hypocrisy of the US evaluating others while ignoring its own problems, and the lack of credibility in the report. I'll make sure to highlight the moral issues like interference, distortion, and hypocrisy.
+
+I should also ensure that the summary flows logically, starting from the criticism, moving to the details of the issues, and ending with the lack of credibility. I'll avoid any markdown and keep the language clear and direct.
+
+Let me put this together, making sure each point is covered succinctly and the moral framing is preserved. I'll check the word count to stay within the limit and ensure all key points are included without unnecessary details.
+</think>
+
+**STEP 1:**  
+* Criticized  
+* Condemned  
+* Inaccurate  
+* Lacking good will  
+* Rejected  
+* Brazen distortion  
+* Wrongful  
+* Illegitimate  
+* Interference  
+* Violations  
+* Torture  
+* Unjust  
+* Ignored  
+* Malicious goals  
+* Protest  
+* Criticism  
+* Wrong judgment  
+* Fabricated  
+
+**SUMMARY:**  
+The US State Department's Annual Human Rights Report has faced strong criticism and condemnation from many countries, accused of being inaccurate, lacking goodwill, and interfering in internal affairs. Countries across Asia, Europe, Africa, and Latin America have rejected the report, calling it a brazen distortion of the situation. The Chinese People's Congress released a report criticizing human rights violations in the US, highlighting issues like high murder rates, torture, wrongful convictions, poverty, and domestic violence. Analysts noted that the US report often reflects political relations, ignoring its own human rights issues while focusing on others. The report's credibility is questioned, as it fabricates allegations and ignores fundamental rights unless serving political interests. Many, including Americans, have protested the report's wrong judgments, particularly regarding Vietnam, where religious freedom is upheld. The report is seen as hypocritical and unconvincing due to its malicious goals and selective focus. END OF SUMMARY.

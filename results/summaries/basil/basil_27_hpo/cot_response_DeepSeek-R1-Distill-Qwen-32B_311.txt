@@ -1,0 +1,27 @@
+Okay, so I need to help the user with their query. They provided a news article and specific instructions. First, I have to identify all the single words that are morally framed. Then, I need to write a summary preserving the moral framing. 
+
+Let me start by reading the article carefully. It's about Bibi Netanyahu and an ad by Secure America Now. The article mentions that Netanyahu decried the use of his name in election politicking, so "decried" is a moral word. The ad is part of a $1 million campaign, but that's just a number. The ad is about Iran's nuclear program, which is a security concern. Republicans are using this to criticize Obama's stance on Iran, so "criticize" is another moral word. Romney accuses Obama of throwing Israel under a bus, so "accuses" and "thrown under a bus" are moral terms. 
+
+Netanyahu pushed back against these criticisms, so "pushed back" and "criticisms" are relevant. He said he's not going into the election and that there's no bus, which is a direct rejection. The ad is part of a narrative that the GOP is using, so "narrative" is a moral frame. The group's ad accuses Obama of an apology tour, so "accuses" again. The summary needs to include these words while keeping it concise.
+
+I should list all the moral words first, each on a new line with an asterisk. Then, write the summary, making sure to include those words where appropriate. The summary should be under 200 words and end with the specified tokens. I need to ensure that the moral framing is preserved, so I'll use words like "decried," "criticize," "accuses," "pushed back," "criticisms," "narrative," and "accuses" again.
+
+Let me structure this step by step. First, list the moral words, then craft the summary, making sure it flows naturally while including those terms. I should check the word count to ensure it's within the limit. Also, I need to make sure the summary accurately reflects the article's content and the moral framing intended by the author.
+</think>
+
+**STEP 1:**  
+* decried  
+* politicking  
+* security  
+* frosty  
+* knock  
+* firm  
+* dismissive  
+* appreciate  
+* respect  
+* apology  
+* expense  
+
+**SUMMARY:**  
+Bibi Netanyahu recently decried the use of his name in election-year politicking, but a new ad by the neoconservative group Secure America Now is using his image to criticize President Obama's stance on Israel's security concerns regarding Iran's nuclear program. The ad, part of a $1 million campaign, airs in Florida, targeting Jewish communities. Republicans, including Mitt Romney, have accused Obama of not taking a firm enough stance against Iran and of being dismissive of Israel. Netanyahu pushed back, denying claims that Obama threw Israel "under a bus" and emphasized his appreciation for Obama's commitment to preventing Iran from obtaining nuclear weapons. The ad is part of a broader GOP narrative accusing Obama of prioritizing American security at Israel's expense. This isn't the first time Secure America Now has targeted Obama, previously releasing an ad accusing him of embarking on an "apology tour." While the latest ad doesn't mention Obama by name, it reinforces the GOP's narrative.  
+**END OF SUMMARY.**

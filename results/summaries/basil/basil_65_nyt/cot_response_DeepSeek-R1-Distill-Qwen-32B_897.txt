@@ -1,0 +1,35 @@
+Okay, so the user has given me a query where I need to act as a news summarizer and a moral expert. The task is to summarize a news article while preserving the moral framing. Let me break down the steps I need to take.
+
+First, I need to understand the article. It's about Michael Bloomberg criticizing Donald Trump during the Democratic National Convention. The article details their limited but cordial interactions in New York City, their different backgrounds, and how their relationship changed once Trump ran for president.
+
+The user's instructions have two main parts. The first is to identify all the single words that are morally framed. I should look for words that carry a positive or negative connotation. For example, "generous" is positive, while "crazy" is negative. I'll go through the article and list these words.
+
+Next, I need to write a concise summary, preserving as many of these morally framed words as possible. The summary should be under 200 words. I should focus on the key points: Bloomberg's criticism, their past interactions, their differences, and the breakdown of their relationship when Trump ran for president.
+
+I also need to make sure the summary starts with "SUMMARY:" and ends with "END OF SUMMARY." I should avoid markdown and keep it in plain text.
+
+Let me start by reading the article carefully to pick out the morally charged words. Words like "generous," "flinty," "sophisticated," "crude," "crazy," "cordial," "ostentatious," "show off," "great job," "crazy," "vulnerable," "friends." These words carry moral judgments about each person's character or actions.
+
+Now, for the summary. I'll start by mentioning Bloomberg's criticism of Trump, then their past interactions, their differing backgrounds, and how their relationship soured when Trump ran for president. I'll include the morally framed words where appropriate to maintain the author's tone.
+
+I need to ensure the summary is concise. I'll structure it in a few sentences, covering the main points without going into too much detail. I should check the word count to stay under 200 words.
+
+Putting it all together, the summary should highlight the contrast between Bloomberg and Trump, their limited but cordial past, and the breakdown due to Trump's candidacy. Including the morally framed words will preserve the author's perspective on their characters and actions.
+
+I think that's a solid approach. Now, I'll draft the summary, making sure to include the key points and the moral framing words. I'll review it to ensure it's clear, concise, and meets the word limit.
+</think>
+
+**STEP 1:**  
+* Generous  
+* Philanthropist  
+* Sophisticated  
+* Crude  
+* Ostentatious  
+* Flinty  
+* Great job  
+* Crazy  
+* Vulnerable  
+* Friends  
+
+**SUMMARY:**  
+Michael R. Bloomberg criticized Donald J. Trump at the Democratic National Convention, calling him a public menace and questioning his sanity. Despite their limited interactions in New York City, their relationship was cordial, with Bloomberg being a generous philanthropist and Trump appearing flinty in his giving. Bloomberg supports the arts and aligns with Manhattan’s sophisticated cultural scene, while Trump relishes crudeness. Bloomberg made his fortune in finance and technology, whereas Trump started in real estate and became a casino magnate and reality-show celebrity. Bloomberg is not overly ostentatious, while Trump loves to show off his possessions. They occasionally met on golf courses or TV, and Trump even praised Bloomberg while he was mayor. However, their cordiality dissolved when Trump declared his candidacy. Bloomberg explored a presidential bid to block Trump, ultimately deciding not to run to avoid aiding Trump’s election. Trump, in turn, criticized Bloomberg’s wealth and business, stating they were no longer friends. END OF SUMMARY.

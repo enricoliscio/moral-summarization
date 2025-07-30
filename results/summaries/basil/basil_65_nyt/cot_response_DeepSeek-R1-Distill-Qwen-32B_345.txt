@@ -1,0 +1,39 @@
+Okay, I need to tackle this query. The user wants me to act as a news summarizer and a moral expert. They provided a news article about Michael Bloomberg and Donald Trump's relationship. The task has two parts: first, identify morally framed words, and second, summarize the article while preserving those moral terms.
+
+Starting with STEP 1: I'll go through the article and pick out words that carry moral connotations. Words like "menace," "sane," "generous," "flinty," "sophisticated," "crude," "ostentatious," "show off," "cordial," "peacemaker," "deference," "great," "congratulations," "skepticism," "vulnerable," "friends." These words are used to describe the characters and actions of Bloomberg and Trump, so they're important for the moral framing.
+
+Next, for the summary, I need to condense the article into 200 words or less, keeping those moral words. The article talks about their limited but cordial interactions, their different personas, and how their relationship soured when Trump ran for president. Bloomberg even considered running as an independent to block Trump. Trump later criticized Bloomberg. I'll make sure to include the morally framed words to maintain the author's perspective.
+
+I should structure the summary to highlight their differences, their occasional interactions, and the turning point when their political paths crossed. Using words like "menace," "sane," "generous," "crude," etc., will convey the moral judgment intended by the author.
+
+I need to ensure the summary flows well and covers all key points without being too detailed. I'll start by introducing their relationship, then their personal traits, interactions, and the political conflict. Ending with the shift in their relationship due to the election makes sense.
+
+Let me draft that, making sure to include all the identified moral words and keep it concise. I'll check the word count to stay within the limit. Once done, I'll present the summary after the "SUMMARY:" token as instructed.
+</think>
+
+**STEP 1:**
+
+\*menace  
+\*sane  
+\*generous  
+\*flinty  
+\*sophisticated  
+\*crude  
+\*ostentatious  
+\*show off  
+\*cordial  
+\*peacemaker  
+\*deference  
+\*great  
+\*congratulations  
+\*skepticism  
+\*vulnerable  
+\*friends  
+
+---
+
+**SUMMARY:**  
+
+Michael R. Bloomberg and Donald J. Trump, two New York billionaires, have had limited but cordial interactions over the years, despite their stark differences. Bloomberg, a generous philanthropist and supporter of the arts, contrasts with Trump, who is seen as flinty in his giving and crude in his demeanor. Their paths occasionally crossed on golf courses or TV, with Trump once showing deference to Bloomberg during a charity event. Trump even praised Bloomberg’s mayoral tenure on Twitter. However, their relationship soured after Trump declared his candidacy. Bloomberg explored an independent presidential bid to block Trump, whom he labeled a public menace and suggested was not quite sane. Trump, in turn, criticized Bloomberg’s wealth and business vulnerabilities. Their once cordial relationship dissolved, with Trump later stating they were no longer friends.  
+
+END OF SUMMARY.

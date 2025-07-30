@@ -1,0 +1,37 @@
+<think>
+Okay, so I need to help the user by summarizing this news article while preserving the moral framing. The user provided a specific structure: first, identify morally framed words, then write a summary using those words. 
+
+First, I'll read through the article to understand the context. It's about Donald Trump's campaign, focusing on his stance on immigration, his outreach to non-white voters, and some of his statements about African American unemployment and inner cities.
+
+For the first step, I need to identify all single words that carry moral implications. I'll go through each paragraph and pick out words that have a strong positive or negative connotation. Words like "lies," "failed," "failed," "horrible," "crime," "levels," "hell," "offensive," "statistics," "manipulation," "decline," "unemployed," "suffering," "control," "jobs," "misleading," and "statistically" stand out. These words are used to criticize Trump's policies and statements.
+
+Next, I'll summarize the article, making sure to include these morally framed words. The summary should be concise, under 200 words, and highlight the key points: Trump softening his immigration stance, his claims about inner cities being unsafe, the unemployment statistics, and the criticism of his outreach efforts. I need to ensure that the moral framing is preserved, showing the criticism and the misleading nature of his statements.
+
+I'll structure the summary by first mentioning the softening stance on immigration, then his claims about inner cities, followed by the unemployment statistics and the criticism behind them. Finally, I'll note the low support among African American voters and the misleading nature of his claims.
+
+I should make sure the summary flows well and covers all the main points without getting too detailed. Also, I need to keep it within the word limit, so I'll be concise but thorough in including the key morally framed elements.
+</think>
+
+### STEP 1:
+* Lies  
+* Failed  
+* Failed  
+* Horrible  
+* Crime  
+* Levels  
+* Hell  
+* Offensive  
+* Statistics  
+* Manipulation  
+* Decline  
+* Unemployed  
+* Suffering  
+* Control  
+* Jobs  
+* Misleading  
+* Statistically  
+
+---
+
+### SUMMARY:  
+The article highlights Donald Trump's evolving stance on immigration, where he softened his hardline approach, suggesting a path to legalization for undocumented immigrants while denying any flip-flop. Trump also criticized Democratic policies in inner cities, claiming they are more dangerous than war zones, though crime rates have been declining. His claim that 58% of African American youth are unemployed was widely criticized as misleading, as the actual unemployment rate is 25.7%. Trump's outreach to non-white voters has been met with skepticism, as polls show he trails significantly among African American and Hispanic voters. His statements on immigration, crime, and unemployment have been accused of being offensive, manipulative, and statistically misleading. END OF SUMMARY.

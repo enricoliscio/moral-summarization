@@ -1,0 +1,28 @@
+Okay, so I need to help the user summarize a news article while preserving the moral framing. Let me start by understanding what the user is asking for. They want me to first identify all the single words that carry a moral connotation in the article, then write a concise summary that includes those moral terms.
+
+First, I'll read through the article to find the morally framed words. The article talks about Democrats responding to state laws restricting abortion. Terms like "attack," "erode," "control their own bodies," "pro-choice," "tenant," "imposing," "Constitution," "enshrine," "federal law," "unborn," "command," "urgency," "risk," "alarm," and "five-alarm fire" stand out as having moral implications.
+
+Next, I need to write a summary that includes these words. I should make sure the summary is under 200 words and captures the essence of the article while highlighting the moral aspects. The main points are the Democrats' efforts to protect abortion access, the specific plans from candidates like Booker and Gillibrand, and the legislative actions they're taking. I'll structure the summary to flow logically, starting with the response to state laws, then detailing each candidate's stance, and ending with the urgency they're emphasizing.
+
+I should also ensure that the summary is clear and concise, using the moral terms appropriately without making it too verbose. Let me piece together the key points, making sure each moral word is included where it makes sense. I'll check the word count to stay within the limit and adjust if necessary. Finally, I'll present the summary after the specified tokens, making sure it's properly formatted.
+</think>
+
+**STEP 1:**  
+* attack  
+* erode  
+* control their own bodies  
+* pro-choice  
+* tenant  
+* imposing  
+* Constitution  
+* enshrine  
+* federal law  
+* unborn  
+* command  
+* urgency  
+* risk  
+* alarm  
+* five-alarm fire  
+
+**SUMMARY:**  
+Democrats are intensifying efforts to protect abortion access amid state-level restrictions, with candidates like Cory Booker proposing a "White House Office of Reproductive Freedom" to defend Roe v. Wade. Booker vows to take executive and legislative action, including codifying abortion rights into federal law. Sen. Kristen Gillibrand argues that anti-abortion laws contradict both the Constitution and Christian faith, emphasizing the separation of church and state. Other candidates, including Joe Biden, support enshrining abortion rights federally. Democrats are also advancing the "Women's Health Protection Act" to safeguard Roe v. Wade, with Sen. Richard Blumenthal sounding the alarm over the urgent threat to women's rights. END OF SUMMARY.

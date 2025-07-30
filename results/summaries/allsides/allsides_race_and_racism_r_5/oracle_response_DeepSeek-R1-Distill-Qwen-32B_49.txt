@@ -1,0 +1,14 @@
+Alright, I need to help the user by summarizing the news article while preserving the moral framing. The user is a news summarizer assistant and a moral expert, so they want the summary to include the specific morally charged words the author used.
+
+First, I'll read through the article to understand the main points. President Obama is addressing the nation after several tragic events involving shootings, both by police and a gunman. He's urging optimism despite the violence and loss of life. He mentions the task force he's reviving and the challenges in reducing racial tension and gun violence.
+
+Next, I need to identify the morally framed words from the author's list. Words like "shot," "killing," "killed," "dying," "rioting," "shooting," "protests," "loss," "crime," "stopping," "violence," "harder," "wounded," "kill," "attack," "shootings," "safety," "set," "dead," "anxiety," "attacks," "confronting," "eliminate," "threats," "inequality" are all present.
+
+I'll structure the summary to include these words, ensuring that the moral tone is maintained. I'll mention Obama's call for optimism, the violent events, his commitment to the task force, and his focus on reducing gun violence and racial tensions. I'll also touch on his comments about police safety and the broader context of globalization and inequality.
+
+I need to keep the summary under 200 words, so I'll be concise but make sure all key points are covered. I'll avoid adding any personal opinions and stick strictly to the facts presented in the article, using the morally framed words as specified.
+
+Finally, I'll make sure the summary starts with "SUMMARY:" and ends with "END OF SUMMARY." without any markdown formatting, just plain text.
+</think>
+
+SUMMARY: President Obama urged Americans to remain optimistic about race relations amid recent violent events, including the fatal shootings of two black males by police and a gunman killing five Dallas officers. He emphasized that the country has not regressed to the 1960s level of racial tension and highlighted progress made in reducing violent crime. Obama revived a task force to address police-community relations, involving activists, officers, and others. He acknowledged the difficulty of eliminating racial tension but stressed the importance of reducing violence. Obama described the Dallas gunman as a "demented individual" and rejected the idea that such acts represent all Americans. He also called for addressing gun violence, noting that even peaceful protesters in Texas were armed. Obama expressed sympathy for police officers facing dangerous situations and linked gun availability to safety concerns. He acknowledged the complexity of interpreting motives in mass shootings and reaffirmed the U.S.'s commitment to combating terrorism and supporting global partners. END OF SUMMARY.

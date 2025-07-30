@@ -1,0 +1,25 @@
+Alright, so the user has given me a query where they want me to act as a news summarizer assistant and a moral expert. The task is to summarize a provided news article while preserving the moral framing that the author used. They've specified certain morally framed words that need to be included in the summary.
+
+First, I need to understand the article. It's about the surge in COVID-19 cases in the U.S., with states like California, Texas, and Arizona being new epicenters. Dr. Fauci is warning about the potential for the situation to get worse, and there's criticism of President Trump's handling of the pandemic. The article also mentions the economic impact and the exclusion of the U.S. from the EU's safe list.
+
+Next, I need to identify the morally framed words the author used: get, tamp, risk, failed, mismanagement, cost, inflicted, close. My summary must include as many of these as possible without losing the moral tone.
+
+I should structure the summary to highlight the increase in cases, Fauci's warnings, the failure of management, the economic impact, and the actions taken by states. I'll need to ensure that the moral words are naturally integrated without making the summary feel forced.
+
+I'll start by mentioning the record spike in cases, then Fauci's warning and his use of 'tamp' and 'risk.' Then, I'll discuss the criticism of Trump, using 'failed' and'mismanagement.' I'll also include how the situation has 'cost' lives and 'inflicted' economic damage. Finally, I'll note the states 'closing' bars as a measure.
+
+I need to keep the summary concise, under 200 words, and make sure it flows logically. I should avoid adding any personal opinions but stick to the facts while maintaining the moral framing.
+
+Let me draft the summary step by step, ensuring each morally framed word is included where appropriate. I'll check the word count to make sure it's within the limit and that all key points from the article are covered.
+
+After drafting, I'll review to ensure the moral words are present and that the summary accurately reflects the article's content and tone. I'll make sure it's clear and concise, capturing the essence without unnecessary details.
+
+Finally, I'll present the summary as per the user's instructions, starting with "SUMMARY:" and ending with "END OF SUMMARY.".
+</think>
+
+SUMMARY:  
+New U.S. COVID-19 cases surged by over 47,000, the highest single-day increase since the pandemic began, as Dr. Anthony Fauci warned the number could soon double. States like California, Texas, and Arizona are now epicenters, with hospitals struggling to manage the surge. Fauci emphasized the need to "tamp" down the virus nationwide, as the "risk" to the entire country remains high. He expressed concern that daily cases could reach 100,000 and stressed there’s no guarantee of a vaccine, though early data is promising.  
+
+The pandemic has "failed" to be contained, with critics blaming President Trump’s "mismanagement" for the growing death toll and economic damage. Over 126,000 Americans have died, and millions lost jobs due to lockdowns. States like Texas and Florida have "closed" bars to curb the spread, while New York and others have imposed quarantines for travelers from affected states. Fauci warned that July 4 celebrations could worsen the crisis, urging caution.  
+
+END OF SUMMARY.

@@ -1,0 +1,33 @@
+Okay, so the user has given me a query where I need to act as a news summarizer assistant and a moral expert. The task is to summarize a news article while preserving the moral framing provided by the author. The user has also specified two steps: first, identifying all the single words that are morally framed, and second, writing a concise summary that includes as many of those words as possible.
+
+First, I need to understand what "morally framed words" mean. These are words that carry a moral judgment or implication, such as 'illegal,' 'disrupt,' 'deterrence,' etc. I'll go through the article and pick out each word that seems to have a moral connotation.
+
+Next, I'll need to summarize the article, making sure to include these words. The summary should be under 200 words, so I have to be concise but comprehensive. I'll focus on the main points: the caravan, the role of law enforcement, deterrence, sanctuary cities, campus protests, celebrity threats, and the broader implications of ignoring laws.
+
+I should structure the summary to highlight how the lack of enforcement leads to a breakdown in societal order, using the identified moral terms. I'll also make sure to mention the examples given, like sanctuary cities, campus disruptions, and celebrity threats, to illustrate the points.
+
+Finally, I'll ensure that the summary flows logically, connecting each example back to the central theme of the importance of law enforcement and deterrence in maintaining social order and civilization.
+</think>
+
+**STEP 1:**  
+* Illegal  
+* Disrupt  
+* Deterrence  
+* Consequences  
+* Unlawful  
+* Violent  
+* Disrupters  
+* Immoral  
+* Justified  
+* Exempt  
+* Contagious  
+* Boomerang  
+* Sanctuary  
+* Polarizing  
+* High-minded  
+* Anarchy  
+* Force  
+
+**SUMMARY:**  
+The article discusses the importance of law enforcement in maintaining societal order and the moral implications of ignoring laws. It argues that fear of punishment, not just good character, ensures compliance with the law. The author highlights how the presence of sanctuary cities and the estimated 12 million undocumented immigrants in the U.S. undermine immigration laws, leading to situations like the caravan of Central Americans attempting to enter illegally. Similarly, campus protests often turn violent, with students disrupting speeches without facing consequences, signaling a breakdown in legal deterrence. Celebrities openly threatening the president and politicians facing disruptions in public further illustrate how ignoring laws can become contagious and boomerang. The article warns that ignoring laws, justified by high-minded moral concerns, weakens the rule of law and risks creating anarchy. Without enforcement, society risks losing the force that upholds civilization.  
+**END OF SUMMARY.**

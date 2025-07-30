@@ -1,0 +1,16 @@
+Okay, I need to help the user by summarizing the given news article while preserving the moral framing. The user mentioned they're a news summarizer and a moral expert, so I should focus on the key moral arguments presented.
+
+First, I'll read through the article to understand the main points. The U.S. Court of Appeals struck down same-sex marriage bans in Wisconsin and Indiana. Judge Posner, a Reagan appointee, led the decision. He found no reasonable basis for the bans and criticized the states' arguments about promoting heterosexual marriage for child welfare.
+
+I notice the moral framing here: the court is emphasizing equality and the rights of same-sex couples, especially regarding adoption and child welfare. Posner points out that same-sex couples adopting children would benefit from marriage, highlighting the emotional and economic stability it provides.
+
+The article also mentions the increase in out-of-wedlock births despite the bans, which undermines the states' argument. Posner uses this data to argue against discrimination based on tradition, referencing the interracial marriage case. This ties into the moral stance that tradition alone isn't a valid reason for discrimination.
+
+I should include the comparison to the 10th and 4th Circuits, showing a trend in federal courts supporting same-sex marriage. The cases are headed to the Supreme Court, which adds significance to the moral debate.
+
+I need to keep the summary concise, under 200 words, and ensure it captures the moral arguments: equality, child welfare, and the invalidity of tradition as a basis for discrimination. I'll structure it to highlight the court's reasoning and the implications for future cases.
+
+Finally, I'll make sure to end with the required tokens and keep the language clear and focused on the moral aspects.
+</think>
+
+SUMMARY: The U.S. Court of Appeals for the Seventh Circuit has struck down same-sex marriage bans in Wisconsin and Indiana, joining two other federal appeals courts in ruling against such bans. Judge Richard Posner, writing for a unanimous panel, criticized the states' arguments, stating they provided "no reasonable basis" for forbidding same-sex marriage. He highlighted the moral framing of the issue, emphasizing the welfare of American children and rejecting the states' claim that heterosexual marriage prevents unwanted pregnancies and promotes stable families. Posner noted that same-sex couples often adopt children and would benefit emotionally and economically from marriage. He also dismissed the argument that tradition justifies discrimination, referencing the Supreme Court's 1967 decision on interracial marriage. The cases are expected to reach the U.S. Supreme Court, with the ruling adding to a growing trend of federal courts supporting same-sex marriage rights. END OF SUMMARY.

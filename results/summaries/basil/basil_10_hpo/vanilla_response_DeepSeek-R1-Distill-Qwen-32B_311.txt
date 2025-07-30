@@ -1,0 +1,18 @@
+Okay, so I need to summarize this news article about the Republican-controlled House reading the Constitution. The user wants a concise summary, no longer than 200 words, and it should be returned after a "SUMMARY:" token and end with "END OF SUMMARY." token. 
+
+First, I'll read through the article to understand the main points. The key elements are:
+
+1. The House read the Constitution on the second day of Republican rule, a symbolic gesture.
+2. This is the first time in 221 years they're reading it in full.
+3. Republicans plan to require all new bills to include a statement citing constitutional authority.
+4. The Tea Party influence is mentioned, as they've been pushing for a return to founding principles.
+5. The estimated cost is around $1.1 million, which some find excessive.
+6. The practical impact might be limited since most legislation is already vetted for constitutionality.
+7. The House also plans spending cuts, saving about $35 million over nine months.
+
+I need to condense this into a summary that hits all these points without being too wordy. I'll structure it to mention the reading, the new rule about constitutional authority, the cost, the criticism, the Tea Party influence, and the spending cuts. 
+
+I should make sure the summary flows well and stays within the word limit. Let me check the word count after drafting to ensure it's under 200 words.
+</think>
+
+SUMMARY: On the second day of Republican rule, the U.S. House read the Constitution in full for the first time in its 221-year history, symbolizing a commitment to constitutional principles. Republicans plan to require all new bills to include a statement citing constitutional authority, a move influenced by the Tea Party movement. Critics argue the rule may have limited practical impact, as most legislation is already vetted for constitutionality. The estimated cost of reading the document is $1.1 million, sparking debate over its symbolic versus practical value. Additionally, the House introduced spending cuts, aiming to save $35 million over nine months. END OF SUMMARY.

@@ -1,0 +1,18 @@
+Okay, so the user has provided a query where they want me to act as a news summarizer and a moral expert. They have given a news article and specific instructions on how to summarize it, preserving the moral framing. The article is about Bibi Netanyahu and an ad by Secure America Now targeting Obama's foreign policy.
+
+First, I need to understand the key points of the article. It mentions the ad, the organizations involved, the political context, and Netanyahu's response. The user has highlighted certain morally charged words: thrown, dismissive, determined, expense. I need to make sure these words are included in the summary.
+
+I should start by identifying the main events: the ad's purpose, where it's airing, who's involved, and Netanyahu's reaction. Then, I need to incorporate the moral terms. For example, "thrown under a bus" is a strong metaphor used by Romney, so that's important. "Dismissive" describes the GOP's portrayal of Obama. "Determined" is Netanyahu's appreciation for Obama's stance, and "expense" relates to the ad's criticism of Obama's apology tour.
+
+I also need to keep the summary concise, under 200 words. I'll structure it by introducing the ad, its context, Netanyahu's response, and the implications. I'll make sure each moral term is appropriately placed to reflect the original framing.
+
+Let me draft the summary step by step. Start with the ad's purpose and context, mention the markets and the funding. Then, explain the GOP's narrative and Romney's criticism. Next, include Netanyahu's pushback and his appreciation for Obama's determination. Finally, note the previous ad and the implicit criticism of Obama's policies.
+
+I should ensure that the summary flows logically, connecting each point without losing the moral nuances. Also, I need to end with the specified tokens and keep it within the word limit. Let me check the word count after drafting to make sure it's under 200.
+
+After writing, I'll review to ensure all key points are covered and the moral terms are preserved. That should fulfill the user's request accurately.
+</think>
+
+SUMMARY:  
+Bibi Netanyahu, the Israeli prime minister, is at the center of a new ad by Secure America Now, a neoconservative group, as part of election-year politicking. The ad, airing in Florida, highlights Israel’s security concerns about Iran’s nuclear program, a narrative Republicans have used to criticize President Obama’s stance on Israel. Republican Mitt Romney has accused Obama of "throwing Israel under a bus" for not taking a firmer line against Iran. The GOP has also portrayed Obama as dismissive of Israel by declining a meeting with Netanyahu at the UN. Netanyahu, however, has pushed back, denying involvement in U.S. elections and clarifying that scheduling conflicts, not Obama’s reluctance, caused the meeting cancellation. He acknowledged Obama’s determination to prevent Iran from obtaining nuclear weapons. Secure America Now, which claims to represent all political ideologies, has previously run ads criticizing Obama’s foreign policy, including one accusing him of an "apology tour" at the expense of American security. The latest ad implicitly supports the GOP narrative, framing Obama’s relationship with Israel as problematic.  
+END OF SUMMARY.

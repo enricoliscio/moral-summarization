@@ -1,0 +1,16 @@
+<think>
+Alright, so I've got this query where the user wants me to act as a news summarizer assistant and a moral expert. They provided a news article about Julie Berman, a trans rights activist who was murdered. The user specified that I need to summarize the article while preserving the moral framing the author used. They also listed specific morally framed words that should be included in the summary.
+
+First, I need to understand the key points of the article. Julie was an activist who spoke at a Trans Day of Remembrance event, highlighting transphobia and violence against trans people. She was later murdered, and her friend Davina Hader shared some details about the incident. The article also mentions a study showing high rates of violence against trans people in Ontario and the efforts of organizations to support the community.
+
+Next, I should identify the morally charged words the author used. These include terms like "murdered," "transphobia," "assaulted," "heartbreaking," "violence," "vulnerable," and others. My summary needs to incorporate as many of these words as possible to maintain the moral tone.
+
+I need to ensure the summary is concise, under 200 words, and starts with "SUMMARY:" and ends with "END OF SUMMARY." I'll structure it by mentioning Julie's activism, her murder, the context of transphobia, the study's findings, and the community's response and support efforts. I'll make sure to highlight the emotional impact and the ongoing issues faced by the trans community.
+
+I should also check that the summary flows well and accurately reflects the article's content while emphasizing the moral aspects. It's important to convey the sense of loss and the need for vigilance and support within the community.
+
+Finally, I'll draft the summary, making sure to include all the key points and the specified moral framing words. I'll keep each sentence clear and impactful, ensuring that the summary captures the gravity of the situation and the community's response.
+</think>
+
+SUMMARY:  
+Julie Berman, a Toronto trans rights activist, was murdered on Dec. 22, 2019, after being assaulted. Two years earlier, at a Trans Day of Remembrance event, she had spoken about transphobia and the murder of a trans friend, only for the same violence to be directed at her. Davina Hader, a friend and member of The 519, an LGBTQ advocacy group, described the incident as heartbreaking, noting that Berman’s activism focused on vigilance within the community. Toronto police charged Colin Harnack with second-degree murder. Berman, a hairdresser and long-time community advocate, had struggled to survive, as many in the trans community do. A 2015 study revealed high rates of violence against trans people in Ontario, with 20% experiencing physical or sexual assault and 34% facing verbal harassment. Olivia Nuamah, executive director of Pride Toronto, emphasized the vulnerability of trans individuals and the alarming frequency of violent deaths in Toronto’s trans community. Since Berman’s death, organizations like The 519 and Toronto Pride have increased efforts to provide support and raise awareness. Berman’s murder serves as a stark reminder of the ongoing challenges faced by the trans community. END OF SUMMARY.

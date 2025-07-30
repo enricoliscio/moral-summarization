@@ -1,0 +1,27 @@
+<think>
+Okay, so I need to help the user by summarizing a news article while preserving the moral framing. First, I should understand the task. The user wants me to identify all the morally framed single words in the article and then create a summary that includes as many of those words as possible. 
+
+Looking at the article, it's about Rep. Michele Bachmann and a Newsweek cover story calling her "The Queen of Rage." The article discusses the reactions from various groups and individuals, highlighting the moral implications of the magazine's portrayal.
+
+For step one, I need to find all the single words that carry a moral connotation. I'll go through the article and pick out words that imply judgment or evaluation. Words like "scrum," "sexist," "nut job," "misogynistic," "dishonesty," "unflattering," and "steer away" come to mind. These words are used to express disapproval or criticism, so they fit the moral framing.
+
+Now, for the summary, I have to condense the article into 200 words or less, making sure to include these morally charged words. The summary should mention Bachmann's reaction, the criticism from NOW and others, and the defense from Newsweek. I'll structure it to highlight the moral issues without adding my own opinions, just reflecting the author's framing.
+
+I should also ensure that the summary flows naturally, connecting the events and reactions cohesively. I'll start by introducing the cover story, then move to the criticism, Bachmann's response, and the broader implications discussed by Terry O'Neill and Brent Bozell. 
+
+I need to be careful not to include any words that aren't morally framed, as per the instructions. Also, I must end the summary correctly with the specified tokens. 
+
+Let me double-check the word count to make sure it's under 200. I think I've covered all the key points without going over. Everything seems to fit, so I can finalize the summary.
+</think>
+
+**STEP 1:**  
+* scrum  
+* sexist  
+* nut job  
+* misogynistic  
+* dishonesty  
+* unflattering  
+* steer away  
+
+**SUMMARY:**  
+Rep. Michele Bachmann has not directly responded to Newsweek's cover story calling her "The Queen of Rage," but critics argue the magazine's portrayal is sexist and unfair. Terry O'Neill of the National Organization for Women (NOW) criticized the cover, stating it unfairly casts Bachmann as a "nut job" and questioned whether a male candidate would be labeled similarly. Newsweek defended the photo, claiming it was not intentionally unflattering and showed Bachmann in a serious light. Bachmann, campaigning in Iowa, said she hadn’t seen the cover but would look into it. O'Neill emphasized the importance of defending women in politics, even against opponents like Bachmann, to encourage more women to run for office. Brent Bozell of the Media Research Center accused Newsweek and Time of journalistic dishonesty, urging conservatives to avoid such outlets. END OF SUMMARY.

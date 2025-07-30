@@ -1,0 +1,25 @@
+Okay, so I need to help the user with their query. They provided a news article and some specific instructions. Let me read through it carefully.
+
+The user wants me to act as a news summarizer and a moral expert. My task is to summarize the given article while preserving the moral framing the author used. The article is about President Cardoso's reaction to the US decision on greenhouse gases and the Kyoto Protocol.
+
+First, I need to follow the two steps they mentioned. Step 1 is to identify all the single words that are morally framed. I should look for words that carry a positive or negative moral connotation. In the article, words like "positive," "important," "hope," "control," and "measures" stand out. These words convey approval or expectation, so they are morally framed.
+
+Next, I have to write a concise summary. The summary should be no longer than 200 words and include as many of the morally framed words as possible. I need to make sure the summary captures the essence of the article, highlighting Cardoso's positive view of the US's decision despite not ratifying the Kyoto Protocol. I'll mention his hope that the domestic measures will have the same impact as the protocol.
+
+I should structure the summary clearly, starting with the main point about the US decision being positive. Then, I'll include Cardoso's statement about the US's importance and his hope for the effectiveness of their measures. I'll make sure to keep it within the word limit and maintain the moral tone from the original text.
+
+Let me put this together. I'll start with the main point, then add the details about the US's importance and the hope for the measures. I'll make sure to use the morally framed words identified earlier to preserve the author's framing.
+
+I think that covers everything. The summary should be clear, concise, and maintain the moral perspective. I'll double-check the word count to ensure it's under 200 words.
+</think>
+
+**STEP 1:**  
+* Positive  
+* Important  
+* Hope  
+* Control  
+* Measures  
+
+**SUMMARY:**  
+President Fernando Henrique Cardoso has praised the United States' decision to adopt measures to control greenhouse gases, calling it a positive step, even though the US did not ratify the Kyoto Protocol. He emphasized that the United States is an important party to the convention and expressed hope that the domestic measures taken would have the same effect as adhering to the Kyoto Protocol.  
+END OF SUMMARY.

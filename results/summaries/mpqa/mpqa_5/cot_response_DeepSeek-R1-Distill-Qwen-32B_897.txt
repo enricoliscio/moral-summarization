@@ -1,0 +1,19 @@
+Okay, I need to help the user by summarizing the given news article while preserving the moral framing. The user has specified two main tasks: first, identify all the single words that are morally framed, and second, write a concise summary using those words.
+
+Starting with STEP 1, I'll go through the article to find words that carry moral implications. The article mentions Kono's criticism of Bush's speech, so words like "critical," "heckling," "unacceptable," "attack," and "right" stand out as morally charged. These words reflect Kono's disapproval and the ethical concerns he raises about US policies.
+
+For the summary, I need to encapsulate the key points without exceeding 200 words. I'll mention Kono's criticism, his restraint during the speech, the moral issues he points out, and the reactions from Middle Eastern ambassadors. It's important to include the morally framed words to maintain the author's original stance.
+
+I should ensure the summary is clear and concise, highlighting Kono's main arguments against the US policies on treaties and military actions. This way, the moral framing is preserved, and the user gets a succinct yet comprehensive overview of the article.
+</think>
+
+**STEP 1:**  
+* Critical  
+* Heckling  
+* Unacceptable  
+* Attack  
+* Right  
+
+**SUMMARY:**  
+Taro Kono, a Liberal Democratic Party member and son of former Foreign Minister Yohei Kono, criticized President Bush's speech before the Japanese Diet on 19 February. In his e-mail magazine, Kono expressed frustration over the US stance on key issues, such as the Kyoto Protocol, CTBT, and land mines, calling them "unacceptable." He emphasized the need for "value sharing" in the Japan-US relationship rather than mere "burden sharing" or "power sharing." Kono also criticized the US for its policies on handgun rights and military actions, such as attacking Iraq. Middle Eastern ambassadors sought his opinion on the speech, highlighting its international significance. Kono's critique reflects his moral opposition to the US administration's policies.  
+END OF SUMMARY.

@@ -1,0 +1,35 @@
+Okay, so I need to help the user by summarizing this news article while preserving the moral framing. Let me break down the task. First, I have to identify all the single words that carry a moral connotation from the article. Then, I'll write a concise summary using those words to maintain the author's moral perspective.
+
+Looking at the article, I see words like "fear," "illegal," "infiltrated," "sinister," "harassment," "poverty," "violence," "emotional," "humanitarian," "justice," "opportunity," "right," "empathy," "cruelty," "fairness," "compassion," "kindness," "generosity," "oppression," "exploitation," "opportunity," "right," "empathy," "cruelty," "fairness," "compassion," "kindness," "generosity," "oppression," "exploitation." These words are key to understanding the moral stance in the article.
+
+Now, for the summary, I need to condense the article, making sure to include these moral terms. The main points are Trump sending troops to the border, the moral implications of the administration's actions, the migrants' situation, and the political context. I'll structure the summary to highlight the moral issues, such as the use of fear, the humanitarian crisis, and the political manipulation of immigration concerns.
+
+I should also mention the caravan's composition and their reasons for migrating, emphasizing their desperation and the administration's hardline stance. Including Trump's rhetoric about national emergency and the Democrats' role adds the political moral framing. I'll make sure to keep it under 200 words and end with the specified tokens.
+
+Let me draft the summary, ensuring it flows well and includes the identified moral words. I'll check that it captures the essence of the article's moral perspective without adding my own bias. That should meet the user's requirements effectively.
+</think>
+
+### STEP 1:
+* fear
+* illegal
+* infiltrated
+* sinister
+* harassment
+* poverty
+* violence
+* emotional
+* humanitarian
+* justice
+* opportunity
+* right
+* empathy
+* cruelty
+* fairness
+* compassion
+* kindness
+* generosity
+* oppression
+* exploitation
+
+### SUMMARY:
+Homeland Security Secretary Kirstjen Nielsen stated that U.S. soldiers have "no intention" of shooting migrants attempting to cross the border from Mexico, though they will be apprehended. President Trump plans to deploy 800 active-duty troops to the southern border, leveraging fears about immigration to rally support ahead of the midterm elections. The caravan, composed of thousands of Central Americans fleeing poverty and violence, has become a focal point for Trump's rhetoric, which paints migrants as a threat. The administration is considering extreme measures, including denying asylum applications, under emergency powers. While the migrants seek a better future, Trump has accused Democrats of organizing the caravan and claimed it includes "Middle Easterners," without evidence. Migrants, largely disconnected from U.S. media, continue their journey, emphasizing their humanitarian needs. The situation highlights the moral and political tensions surrounding immigration, with Trump framing it as a national emergency while migrants plead for compassion and fairness. END OF SUMMARY.

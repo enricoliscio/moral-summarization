@@ -1,0 +1,108 @@
+Okay, so the user has given me a query where they want me to summarize a news article while preserving the moral framing. They also provided a detailed example of how to approach it, which is helpful. Let me break down what they need.
+
+First, I need to identify all the single words that are morally framed in the article. The example shows that words like "golden," "unilateralist," "excess," etc., are being picked out. I should go through the article and look for words that carry moral connotations, whether positive or negative.
+
+Next, after identifying these words, I have to write a summary that includes as many of these morally framed words as possible. The summary needs to be concise, under 200 words, and should capture the main points of the article, especially the moral judgments made.
+
+The article discusses the US foreign policy since 9/11, highlighting errors made by both Bush and Obama administrations. It contrasts Bush's ability to admit mistakes and make changes with Obama's more aloof approach. The moral framing is evident in words that critique or praise certain policies and leadership qualities.
+
+I should make sure that in my summary, I include these morally charged words to reflect the author's perspective accurately. Also, the structure should be clear: start with the main issue, discuss Bush's actions, then Obama's, and conclude with the lesson about leadership and change.
+
+I need to be careful not to add any new information beyond what's in the article and keep the summary tight. Let me check the word count to ensure it's within the limit. Once I have the summary, I'll format it correctly, starting with "SUMMARY:" and ending with "END OF SUMMARY."
+
+Overall, the key is to maintain the moral tone and include the identified words while providing a clear and concise summary of the article's main points.
+</think>
+
+### STEP 1:
+* golden  
+* flawed  
+* unilateralist  
+* excess  
+* invasion  
+* reactive  
+* disengagement  
+* dithering  
+* tragic  
+* enduring  
+* symbol  
+* errors  
+* frayed  
+* dysfunctional  
+* ahead  
+* interests  
+* fixed  
+* genius  
+* change  
+* judgment  
+* execution  
+* damaged  
+* relations  
+* crises  
+* Libya  
+* Egypt  
+* Israel  
+* Ukraine  
+* Afghanistan  
+* Africa  
+* borders  
+* strained  
+* NSA  
+* eavesdropping  
+* rare  
+* vital  
+* mistakes  
+* Bush  
+* mistakes  
+* many  
+* urgent  
+* sweeping  
+* reordering  
+* policies  
+* priorities  
+* surge  
+* light footprint  
+* terror  
+* financial crisis  
+* AIDS  
+* India nuclear accord  
+* outside perspectives  
+* inner circle  
+* shortcomings  
+* fix  
+* tough times  
+* coach-in-chief  
+* aloof  
+* bucked up  
+* confidence  
+* best person  
+* back  
+* contrast  
+* White House-centric  
+* sidelined  
+* dismiss  
+* context  
+* errors  
+* Bush years  
+* grow  
+* politically inspired  
+* caricatures  
+* comparable  
+* strains  
+* dysfunctions  
+* content  
+* future  
+* blame game  
+* American system  
+* big change  
+* needed  
+* stand up  
+* admit  
+* mistakes  
+* lead  
+* administration-wide  
+* change  
+
+---
+
+### SUMMARY:
+Since September 11, 2001, U.S. foreign policy has been marked by flawed decisions and moral failures. The Bush administration's unilateralist excess, including the invasion of Iraq, was followed by Obama's reactive disengagement and dithering, leading to crises in Syria, Libya, Egypt, Israel, Ukraine, Afghanistan, and Africa. The nation's dysfunction has been compounded by strained relations with allies over NSA eavesdropping and a heightened sense of vulnerability. However, the article highlights Bush's ability to admit mistakes and implement sweeping changes, such as the Iraq surge and a "light footprint" approach to counterterrorism, which improved outcomes. In contrast, Obama's aloof leadership and reluctance to embrace change have left Cabinet members sidelined. The article suggests that Obama could learn from Bush's willingness to admit errors and lead transformative change, emphasizing the importance of moral accountability and leadership in addressing foreign policy crises. END OF SUMMARY.

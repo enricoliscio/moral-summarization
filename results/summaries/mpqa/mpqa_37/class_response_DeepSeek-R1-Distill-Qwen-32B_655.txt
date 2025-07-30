@@ -1,0 +1,13 @@
+<think>
+Okay, so I need to help the user by summarizing the given news article while preserving the moral framing. The user has specified that I should use as many of the morally framed words as possible. Let me first read through the article carefully.
+
+The article talks about Pakistan rejecting a US human rights report, calling it inaccurate. The government lists several initiatives they've taken, such as laws and policies to protect human rights. They mention specific actions like the Juvenile Justice System Ordinance, women's commission, police reforms, child labor policies, citizenship amendments, and international conventions they've ratified. They argue that the US report ignores these efforts and misstates their human rights record.
+
+Now, the user provided a list of morally framed words: inaccurate, sit, fails, protect, achieved, ignored, promulgation, amended, enable, remuneration, elimination, labour, respecting, misstatement, protecting. I need to incorporate as many of these as possible into the summary without making it too long—under 200 words.
+
+I should structure the summary to first state Pakistan's rejection of the report as inaccurate. Then mention that the report fails to acknowledge their initiatives. List some key initiatives using the provided words, like promulgation, amended, enable. Highlight that the report ignores their achievements. Conclude by emphasizing their stance on cooperation in addressing human rights.
+
+Let me draft this step by step, ensuring each morally framed word is included where appropriate. I'll check the word count to stay within limits.
+</think>
+
+SUMMARY: The government of Pakistan rejected the US State Department's human rights report, labeling it "factually inaccurate and unwarranted." It accused the report of failing to acknowledge Pakistan's efforts to protect human rights, including the achievement of goals set at a 2000 human rights conference. The report was criticized for ignoring key initiatives such as the promulgation of the Juvenile Justice System Ordinance, establishment of a women's commission, police and jail reforms, and the elimination of child labor. Pakistan also amended its Citizenship Act to enable women to claim nationality for their children and ratified ILO conventions on equal remuneration and child labor. The government emphasized its commitment to human rights, including a mass awareness campaign and respecting minority wishes through joint electorates. Despite these efforts, the report stated Pakistan's human rights record remained poor, which the government called a "gross misstatement of the facts." Pakistan urged a cooperative approach to addressing human rights challenges rather than one-sided judgments. END OF SUMMARY.

@@ -1,0 +1,31 @@
+Okay, so the user has given me a query where I need to act as a news summarizer and a moral expert. They want me to summarize a news article, but with a specific focus on preserving the moral framing that the author used. The article is about Donald Trump stepping down as a moderator for a Republican debate. 
+
+First, I need to understand the task properly. The user has broken it down into two steps. The first step is to identify all the single words in the article that are morally framed. They want each word listed under "STEP 1:" with each word on a new line starting with an asterisk. The second step is to write a summary that includes as many of these morally framed words as possible, keeping it under 200 words and ending with specific tokens.
+
+I should start by reading the article carefully to spot any morally charged words. Words like "conflict of interest," "wrong candidate," "failed," "destructive," "right candidate," "courage," "conviction," "confidence," "great again," "independent bid," "considering," "pledge," and "endorsement" stand out. These words carry moral weight and are central to the article's framing.
+
+Next, I need to ensure that the summary not only includes these words but also captures the essence of Trump's decision and the implications. The summary should reflect Trump's reasoning, his potential third-party run, and his concerns about the Republican candidates. It's important to maintain the moral tone, so I'll use words like "conflict of interest," "failed," and "right candidate" to convey the stakes involved.
+
+I also need to keep the summary concise, so I'll focus on the key points: Trump stepping down as moderator, his possible third-party bid, his endorsement pledge, and the impact on the debate. I'll make sure to mention his confidence in the event's success and his criticism of the Obama administration to highlight his motivations.
+
+Finally, I'll structure the summary to flow logically, starting with his decision, the reasons behind it, his ongoing considerations, and the implications for the debate and the Republican party. This way, the summary stays within the word limit and effectively conveys the moral framing as intended.
+</think>
+
+**STEP 1:**  
+* conflict of interest  
+* wrong candidate  
+* failed  
+* destructive  
+* right candidate  
+* courage  
+* conviction  
+* confidence  
+* great again  
+* independent bid  
+* considering  
+* pledge  
+* endorsement  
+
+**SUMMARY:**  
+Donald Trump has withdrawn as the moderator for a Republican presidential debate, citing a potential "conflict of interest" if he decides to run as an independent candidate next year. He emphasized his desire to "keep all options open" and ensure the "right Republican candidate" is chosen to oppose the "failed and destructive" Obama administration. Trump expressed concerns about the economy and criticized the possibility of the Republican Party selecting the "wrong candidate." Despite his withdrawal, he plans to "pledge" his endorsement to a candidate, while still "considering" an independent bid. The debate, originally sponsored by Newsmax, lost momentum after most candidates opted out, with only Newt Gingrich and Rick Santorum attending. Trump praised their "courage, conviction, and confidence" but doubted the event's continuation without his involvement. He remained confident in its potential success, stating, "We would have done very well." Trump's decision reflects his commitment to "make America great again" while maintaining flexibility for a potential third-party run.  
+**END OF SUMMARY.**

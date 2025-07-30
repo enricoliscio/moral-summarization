@@ -1,0 +1,58 @@
+<think>
+Okay, so the user has provided a query where they want me to act as a news summarizer assistant and a moral expert. They've given a specific task: to summarize a news article while preserving the moral framing. The article is about Trump attacking the Justice Department and calling for the jailing of a Clinton aide. 
+
+First, I need to break down the user's instructions. They want two steps. The first is to identify all single words that are morally framed in the article. I should list each with a bullet point. The second step is to write a concise summary, keeping the morally framed words as much as possible, and it should be under 200 words.
+
+Looking at the article, I need to find words that carry moral implications. Words like "attacks," "deep state," "jailing," "renewed," "lashing out," "emails," "Freedom of Information Act," "probe," "forwarded," "personal account," "undermine," "intensified," "criticized," "recused," "absolute right," "direct," "investigations," "rightful," "legitimate," "collusion," "influence," "wrongdoing," "transparency," "accountability," "abuse," "power," "misconduct," "fairness," "justice," "dishonesty," "corruption," "abuse," "power," "fairness," "justice," "transparency," "accountability," "misconduct," "dishonesty," "corruption." 
+
+Next, for the summary, I need to condense the article, making sure to include these moral terms. I should mention Trump's attacks on the Justice Department, his call for jailing Huma Abedin, the context of the emails, the FOIA lawsuit, the FBI probe, the mention of Comey, and Trump's criticism of the Justice Department's handling of the Russia investigation. I also need to include his claims about having the right to direct investigations, which ties into the moral framing of power and fairness.
+
+I have to ensure the summary is under 200 words and flows naturally while preserving the moral aspects. I'll structure it to highlight Trump's accusations, the context of the emails, the legal actions, and his ongoing conflict with the Justice Department. 
+
+I should also make sure that each morally framed word is included where appropriate, without forcing them in. The summary should read smoothly, reflecting the article's content and the moral perspective presented.
+</think>
+
+**STEP 1:**  
+* Attacks  
+* Deep state  
+* Jailing  
+* Renewed  
+* Lashing out  
+* Emails  
+* Freedom of Information Act  
+* Probe  
+* Forwarded  
+* Personal account  
+* Undermine  
+* Intensified  
+* Criticized  
+* Recused  
+* Absolute right  
+* Direct  
+* Investigations  
+* Rightful  
+* Legitimate  
+* Collusion  
+* Influence  
+* Wrongdoing  
+* Transparency  
+* Accountability  
+* Abuse  
+* Power  
+* Misconduct  
+* Fairness  
+* Justice  
+* Dishonesty  
+* Corruption  
+* Abuse  
+* Power  
+* Fairness  
+* Justice  
+* Transparency  
+* Accountability  
+* Misconduct  
+* Dishonesty  
+* Corruption  
+
+**SUMMARY:**  
+President Donald Trump renewed his criticism of the Justice Department, calling it the "deep state," and demanded the jailing of Hillary Clinton's aide, Huma Abedin, over emails forwarded to a personal account. Trump's tweets followed the release of Abedin's emails, part of the FBI's probe into Clinton's private email server. He also criticized former FBI Director James Comey and Attorney General Jeff Sessions, who recused himself from overseeing the Russia investigation. Trump claimed he has the "absolute right" to direct Justice Department investigations, continuing his efforts to undermine the agency as the Russia probe intensifies. His accusations highlight concerns about transparency, accountability, and potential misconduct, while his critics argue his actions reflect an abuse of power and a lack of fairness in the justice system. END OF SUMMARY.

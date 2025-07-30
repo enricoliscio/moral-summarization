@@ -1,0 +1,32 @@
+Okay, I need to help the user by summarizing the news article while preserving the moral framing. The user has given specific instructions, so I should follow them step by step.
+
+First, I need to identify all the single words that are morally framed in the article. I'll go through the text and look for words that carry a moral connotation. Words like "spurned," "aggressive," "rejected," "embarrassed," "opens fire," "massacre," "bullying," "loner," "quiet," "pro-gun," "gun control," "rights," "suicide," "saddened," and "dismayed" stand out as they have moral implications.
+
+Next, I have to write a concise summary of the article, making sure to include as many of these morally framed words as possible. The summary should be under 200 words and start with "SUMMARY:" and end with "END OF SUMMARY."
+
+I'll structure the summary by mentioning the suspect, Dimitrios Pagourtzis, his actions, the context of rejection leading to the shooting, the denial of bullying, the aftermath, the debate over gun control, and the suspect's emotional state and family response.
+
+I need to ensure that the summary flows well and includes all the key points without being too detailed. I'll also make sure to use the identified moral words where appropriate to maintain the original framing.
+
+Finally, I'll double-check the word count to ensure it's within the limit and that all instructions are followed correctly.
+</think>
+
+**STEP 1:**  
+* spurned  
+* aggressive  
+* rejected  
+* embarrassed  
+* opens fire  
+* massacre  
+* bullying  
+* loner  
+* quiet  
+* pro-gun  
+* gun control  
+* rights  
+* suicide  
+* saddened  
+* dismayed  
+
+**SUMMARY:**  
+A 17-year-old boy, Dimitrios Pagourtzis, is accused of fatally shooting 10 people at a Texas high school after being spurned by a classmate. Sadie Rodriguez, the mother of victim Shana Fisher, claimed her daughter rejected Pagourtzis' aggressive advances, leading to the attack. This incident follows a similar school shooting in Maryland, where a student killed a former romantic partner. Authorities have not confirmed a motive, but Pagourtzis reportedly confessed. The school district denied claims that he was bullied. Pagourtzis, described as a quiet loner, used firearms from his father to carry out the attack. The tragedy reignited the national debate over gun control, with the NRA advocating for school security measures instead of restricting Second Amendment rights. Pagourtzis' family expressed shock and cooperation with authorities, while his attorney noted his emotional state hindered providing details. The shooting has deeply affected the community, with vigils and support efforts underway. END OF SUMMARY.

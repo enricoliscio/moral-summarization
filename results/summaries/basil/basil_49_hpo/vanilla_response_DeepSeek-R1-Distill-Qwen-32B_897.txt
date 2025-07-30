@@ -1,0 +1,12 @@
+Alright, I need to help the user by summarizing the given news article. The user has specified that the summary should be concise, no more than 200 words, and should be placed between "SUMMARY:" and "END OF SUMMARY." They also provided the article, so I'll start by reading through it carefully.
+
+First, I notice that Nebraska and Oklahoma have filed a lawsuit against Colorado regarding marijuana legalization. They argue that Colorado's laws are unconstitutional under federal law. Colorado, on the other hand, is defending its stance, stating that the lawsuit lacks merit.
+
+I should identify the key points: the states involved, the reason for the lawsuit, the arguments from both sides, and the implications if the Supreme Court rules in favor of Nebraska and Oklahoma. It's also important to mention the broader context, such as other states legalizing marijuana and the federal stance.
+
+I need to make sure the summary is clear and concise, covering all these elements without exceeding the word limit. I'll structure it by introducing the lawsuit, explaining the arguments from each side, and then touching on the potential impact and reactions from various groups.
+
+Finally, I'll ensure that the summary flows well and accurately represents the article's content. I'll avoid any markdown and keep the language straightforward.
+</think>
+
+SUMMARY: Nebraska and Oklahoma have filed a federal lawsuit against Colorado in the U.S. Supreme Court, arguing that Colorado's legalization of recreational marijuana violates the U.S. Constitution under the Supremacy Clause, as federal law still prohibits marijuana. Colorado's attorney general defends the state's laws, stating the lawsuit lacks merit. The lawsuit claims Colorado's marijuana distribution harms neighboring states, but Colorado counters that the issue stems from federal non-enforcement, not state policy. Marijuana remains illegal under the 1970 Controlled Substances Act, though several states have legalized it. A Supreme Court ruling in favor of Nebraska and Oklahoma could jeopardize all state marijuana laws. Supporters of legalization argue the lawsuit is misguided, while opponents, including anti-legalization groups, support the states' action. The case highlights the tension between state and federal marijuana policies. END OF SUMMARY.

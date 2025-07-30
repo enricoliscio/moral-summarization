@@ -1,0 +1,46 @@
+Okay, so the user has given me a task where I need to act as a news summarizer assistant and a moral expert. The goal is to summarize a news article while preserving the moral framing the author provided. 
+
+First, I need to understand the structure of the task. There are two main steps: identifying morally framed words and then writing a summary. 
+
+For step one, I have to go through the article and pick out all the single words that carry moral connotations. I should list each word with a star and a new line. I'll need to be careful to only include words that are used in a moral context, not just any descriptive words.
+
+Looking at the article, I notice words like "inconsistencies," "hypocrisies," "banning," "precious," "struggle," "criminalise," "unfairness," "shame," "advocates," "incarceration," "chilling," "existential," "control," "banished," "overturning," "angry," "militia," "incrementalists," "effective," "means," "courage," "illegal," "stay." These all seem to carry moral weight in the context they're used.
+
+Next, for the summary, I need to condense the article into 200 words or less, making sure to include as many of these morally framed words as possible. The summary should capture the main points: the criticism of Alabama's abortion bill, the inconsistency with other policies, the impact on poor women, the comparison to other social issues, the legal implications, and the broader implications for women's rights.
+
+I should start by highlighting the criticism of the lawmakers, their inconsistencies, and the moral implications of the bill. Then, I'll mention how the bill targets poor women and compare it to other systemic issues. I'll also touch on the legal challenges and the intention to overturn Roe v Wade. Finally, I'll conclude with the overall impact on women's autonomy.
+
+I need to ensure the summary flows well and maintains the moral tone from the original article. I'll avoid adding any new information not present in the article and stick strictly to the key points while preserving the moral framing.
+
+Alright, I think I have a good plan. I'll start by listing the morally framed words, then craft a concise summary that hits all the main points with the appropriate moral language.
+</think>
+
+### STEP 1:  
+* Inconsistencies  
+* Hypocrisies  
+* Banning  
+* Precious  
+* Struggle  
+* Criminalise  
+* Unfairness  
+* Shame  
+* Advocates  
+* Incarceration  
+* Chilling  
+* Existential  
+* Control  
+* Banished  
+* Overturning  
+* Angry  
+* Militia  
+* Incrementalists  
+* Effective  
+* Means  
+* Courage  
+* Illegal  
+* Stay  
+
+---
+
+### SUMMARY:  
+The article critiques Alabama’s anti-abortion bill, highlighting the moral inconsistencies of its white male lawmakers. It points out their hypocrisy, as they oppose gun bans but support abortion bans, despite their claim that "banning things doesn’t work." The focus on fetal life over the well-being of poor mothers and their children is condemned, with the argument that the bill targets women, particularly poor ones, to maintain social control. The law is seen as an existential threat to women’s autonomy, forcing them to carry pregnancies to term, even in cases of fetal abnormalities. The article compares this to systemic injustices like mandatory minimum sentencing, emphasizing the deliberate suppression of women’s rights. The bill is expected to face legal challenges but reflects a broader strategy to overturn Roe v Wade. For many, accessing abortion will become nearly impossible, reinforcing the idea that the law is designed to keep women and poor people in their place. END OF SUMMARY.

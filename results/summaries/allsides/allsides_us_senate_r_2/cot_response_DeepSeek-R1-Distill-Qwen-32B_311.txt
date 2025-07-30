@@ -1,0 +1,39 @@
+Alright, so the user has given me a query where they want me to act as a news summarizer and a moral expert. The task involves two main steps: first, identifying all the morally framed single words in the provided news article, and second, summarizing the article while preserving those moral framings. 
+
+I need to start by understanding what morally framed words are. These are words that carry a strong moral connotation, such as "war criminal," "unfriendly," or "aggressive." They are used to convey judgments or evaluations, often influencing the reader's perception.
+
+Looking at the article, I'll go through it paragraph by paragraph to spot these words. For example, when Rubio presses Tillerson to call Putin a "war criminal," that's a clear moral framing. Similarly, terms like "aggressive," "unpredictable," "unfriendly," and "human rights violator" stand out as morally charged.
+
+Once I've listed all these words, I'll move on to summarizing the article. The summary needs to be concise, under 200 words, and include as many of these moral terms as possible to preserve the author's framing. I'll focus on the key exchanges between Tillerson and Rubio, highlighting the moral issues they discussed, such as Russia's actions, human rights in Saudi Arabia, and the Philippines' policies.
+
+I also need to ensure that the summary flows well and captures the essence of the hearing without getting bogged down in too much detail. It's important to maintain the moral perspective, so I'll emphasize Tillerson's cautious approach versus Rubio's more confrontational stance.
+
+Finally, I'll make sure to present the summary clearly, using the identified moral terms to convey the underlying tone and issues discussed during the hearing.
+</think>
+
+**STEP 1:**  
+* War criminal  
+* Discouraging  
+* Categorize  
+* Human rights violator  
+* Murdered  
+* Unpredictable  
+* Unfriendly  
+* Adversary  
+* Weak  
+* Illegal  
+* Grave risk  
+* Competing goals  
+* Imminent threat  
+* Greatest and most complex threat  
+* Stumbled  
+* Lead  
+* Confusion  
+* Danger  
+* Protesters  
+* Ejected  
+* Scream  
+
+**SUMMARY:**  
+During his Senate Foreign Relations Committee confirmation hearing, Rex Tillerson clashed with Sen. Marco Rubio over moral and policy issues. Rubio pressed Tillerson to label Russian President Vladimir Putin a "war criminal," but Tillerson refused, emphasizing a more deliberative approach. Tillerson criticized Russia's actions in Crimea, calling them "illegal," but stopped short of labeling Russia an enemy. He also declined to categorize Saudi Arabia as a "human rights violator" or denounce the Philippines' policies. Tillerson took a firmer stance on Russia than Donald Trump, calling it an "unfriendly adversary." He criticized the Obama administration for a "weak" response to Russia's actions and acknowledged cyber intrusions as the "greatest and most complex threat" to the U.S. Tillerson also addressed China's "illegal" activities in the South China Sea and the need to focus on defeating ISIS in Syria. The hearing was marked by tension and moral framing, with protesters disrupting the proceedings.  
+**END OF SUMMARY.**

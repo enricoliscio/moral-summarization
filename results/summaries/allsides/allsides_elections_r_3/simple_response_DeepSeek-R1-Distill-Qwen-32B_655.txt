@@ -1,0 +1,12 @@
+Alright, so the user has given me a task to summarize a news article while preserving the moral framing. They mentioned that I'm a news summarizer assistant and a moral expert, so I need to ensure the summary reflects the author's perspective on morality.
+
+First, I'll read through the article to understand the main points. It's comparing Hillary Clinton to Richard Nixon, highlighting their unethical campaign tactics, pay-for-play schemes, and the use of dirty tricks. The author is clearly critical of Clinton, drawing parallels to Nixon's scandals.
+
+I need to make sure the summary captures the moral judgment without adding my own bias. The key elements are the comparison to Nixon, the unethical practices, the media's role, and the implication that Clinton's actions might not be held accountable due to media bias.
+
+I should structure the summary to include these points concisely, keeping it under 200 words. I'll focus on the main scandals, the unethical behavior, and the comparison to Nixon's downfall, while also noting the media's failure to investigate thoroughly.
+
+Finally, I'll ensure the summary starts with "SUMMARY:" and ends with "END OF SUMMARY." as per the instructions.
+</think>
+
+SUMMARY: The article draws parallels between Hillary Clinton and Richard Nixon, suggesting Clinton has surpassed Nixon's unethical political tactics. Clinton is accused of engaging in pay-for-play schemes, manipulating campaign finances, and using underhanded methods to secure donations and influence policies. WikiLeaks revelations and FBI investigations highlight her alleged dishonesty regarding the email scandal, the Clinton Foundation's profiteering, and the Benghazi incident. The article compares her campaign tactics to Nixon's, including stonewalling, discrediting opponents, and exploiting political connections. Clinton's aides are portrayed as morally bankrupt, with Podesta, Mills, and Abedin facing potential disgrace. The piece questions whether Clinton will face a Nixonian downfall, noting that unlike Nixon, much of the media supports her, potentially shielding her from accountability. END OF SUMMARY.

@@ -1,0 +1,16 @@
+Okay, so the user has given me a task to summarize a news article about the launch of the space shuttle Atlantis. They want the summary to be under 200 words and to include specific tokens at the beginning and end. 
+
+First, I need to read through the article to understand the key points. The main event is the successful launch of Atlantis, which is part of a series of six missions over seven months to complete the International Space Station. There were some hiccups, like a computer glitch and a four-day delay due to a leak, but they managed to fix it just in time. 
+
+I also notice that this mission is significant because Jerry Ross became the first astronaut with seven space flights. The mission involves installing a crucial support unit for the space station's solar array. 
+
+Now, I should structure the summary to include all these points concisely. I'll start with the launch details, mention the delays, the milestone with Jerry Ross, and the main objective of installing the support unit. I need to keep it under 200 words, so I'll be brief but informative.
+
+I should make sure to include the key elements: the shuttle's name, the number of astronauts, the mission's purpose, any delays, the milestone achieved, and the main task during the mission. I'll also mention the size and purpose of the support unit installed.
+
+Finally, I'll format it with the required tokens, starting with "SUMMARY:" and ending with "END OF SUMMARY." I'll check the word count to ensure it's within the limit. Let me put it all together clearly and succinctly.
+</think>
+
+SUMMARY:  
+The space shuttle Atlantis successfully launched on Monday, carrying seven astronauts and hardware to the International Space Station (ISS). This was the first of six missions over seven months aimed at completing the ISS. The launch, delayed by four days due to a liquid hydrogen leak and a computer glitch, occurred with just 11 seconds to spare. Atlantis, equipped with three new main engines, lifted off at 4:44 p.m. Mission specialist Jerry L. Ross became the first astronaut to fly seven times. During the 11-day mission, astronauts will install the "keystone" center support unit, a 44-foot, 27,000-pound structure, to support a new solar array nearly an acre in size.  
+END OF SUMMARY.

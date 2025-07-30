@@ -1,0 +1,31 @@
+<think>
+Okay, I need to help the user by summarizing the given news article while preserving the moral framing. The user has specified a two-step process: first, identify all the single words that are morally framed, and second, write a concise summary using those words.
+
+Starting with STEP 1, I'll go through the article to pick out words that carry moral connotations. Words like "aggressively," "pushed back," "defending," "lighting into," "not OK," "fiercely," "dirt," "demonstrably false," "exonerates," "lying," "leaking," "resign," "abused," "misrepresenting," "ambush," "cheap-shot." These words indicate judgment or evaluation, which is what the user is looking for.
+
+Now, moving on to the summary. I need to condense the article into 200 words or less, making sure to include as many of these moral words as possible. The main points are Schiff's defense against calls to resign, his criticism of Trump's Russia contacts, the Republican accusations, and the ongoing investigation. I'll structure the summary to highlight the conflict, the moral accusations from both sides, and the implications for the investigation.
+
+I should ensure the summary flows well, keeping it clear and concise while embedding the identified moral terms. This will help maintain the original article's tone and the author's framing.
+</think>
+
+**STEP 1:**  
+* aggressively  
+* pushed back  
+* defending  
+* lighting into  
+* not OK  
+* fiercely  
+* dirt  
+* demonstrably false  
+* exonerates  
+* lying  
+* leaking  
+* resign  
+* abused  
+* misrepresenting  
+* ambush  
+* cheap-shot  
+
+**SUMMARY:**  
+House Intelligence Committee Chairman Adam Schiff defended his leadership against calls for his resignation from President Trump and Republicans, citing the "not OK" nature of the Trump campaign's contacts with Russia. Schiff criticized the president's son for being offered "dirt" by Russia, while Rep. Mike Conaway accused Schiff of promoting a "demonstrably false" narrative, damaging the committee's integrity. Attorney General William Barr's statement that Mueller found no evidence of collusion with Russia has been seized by Trump and Republicans to "exonerate" Trump and attack Schiff. Schiff, however, plans to continue investigating Trump's ties to Russia. Republicans, including Rep. Michael Turner, accused Schiff of "abusing" his power and "misrepresenting" information, while Democrats defended him, calling the GOP's actions an "ambush" and "cheap-shot." The hearing highlighted the partisan divide within the committee.  
+**END OF SUMMARY.**

@@ -1,0 +1,45 @@
+Okay, so I need to help the user by summarizing a news article while preserving the moral framing. The user provided a detailed article about President Obama's statements on race relations, police violence, and other related issues. They also included specific instructions on how to process the text, which involves two steps: identifying morally framed words and then writing a summary that includes those words.
+
+First, I should go through the article and pick out all the single words that carry moral connotations. Words like "optimistic," "fatefully," "retaliating," "killing," "protests," "unarmed," "violent," "depressing," "foundation," "commitment," "demented," "hate," "sympathetically," "difficult," "irrelevant," "illegal," "eliminate," "grapple," "booster," and "inequality." These words are key because they convey the moral stance of the article.
+
+Next, I need to write a concise summary of the article, making sure to include as many of these moral words as possible without exceeding 200 words. The summary should capture the main points: Obama's call for optimism despite recent events, his comments on race relations, the task force, gun violence, and his broader policy views. I'll structure it to flow logically, starting with his address, moving through his points on crime, gun laws, and ending with his views on globalization.
+
+I should ensure that the summary accurately reflects the moral framing, highlighting the positive outlook while acknowledging the challenges and the need for action. It's important to maintain the balance between the president's optimism and the serious issues he's addressing, like the decrease in crime and the complexities of police work.
+
+I also need to make sure that the summary is clear and concise, avoiding any unnecessary details. The focus should be on the moral aspects and the key initiatives, like the task force and the emphasis on reducing gun violence. I'll wrap it up by mentioning his stance on globalization, showing a broader perspective on his policies.
+
+Finally, I'll review the summary to ensure it's within the word limit and that all the morally framed words are appropriately included. This way, the summary not only captures the essence of the article but also maintains the moral tone intended by the author.
+</think>
+
+**STEP 1:**
+
+Here are the morally framed words identified in the text:
+
+* optimistic
+* fatally
+* killed
+* retaliating
+* protests
+* unarmed
+* violent
+* depressing
+* foundation
+* commitment
+* demented
+* hate
+* sympathetically
+* difficult
+* irrelevant
+* illegal
+* eliminate
+* grapple
+* booster
+* inequality
+
+---
+
+**SUMMARY:**
+
+President Obama called for optimism in the face of recent racial tensions, urging Americans not to let the actions of a few define the nation. He addressed the tragic deaths of black males at the hands of police and the retaliatory killing of five Dallas officers, emphasizing that race relations have not regressed to the 1960s. Obama revived a task force to address police-community relations and stressed the importance of reducing gun violence, noting that violent crime has decreased over the past decades. He described the Dallas sniper as a "demented individual" and rejected the notion that such acts reflect the broader population. Obama also highlighted the challenges faced by police in gun-filled communities and criticized the prevalence of firearms, even among protesters. While acknowledging the complexity of motives in mass shootings, he emphasized the need to address gun availability. Obama reaffirmed his commitment to reducing racial tension and improving public safety, while also reflecting on U.S. military strategies and the challenges of combating non-state actors like ISIS. He expressed support for the UK and EU during Brexit and criticized globalization for exacerbating inequality.  
+
+**END OF SUMMARY.**

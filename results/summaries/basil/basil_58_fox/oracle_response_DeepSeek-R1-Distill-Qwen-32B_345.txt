@@ -1,0 +1,15 @@
+<think>
+Alright, so the user has given me a query where I need to summarize a news article while preserving the moral framing. They provided the article and specified that I should use the morally framed words from the original text. The summary needs to be concise, no more than 200 words, and formatted with "SUMMARY:" and "END OF SUMMARY." tokens.
+
+First, I'll read through the article to understand the main points. It's about Chris Christie announcing his candidacy for the White House. He's facing challenges like low poll numbers, fundraising issues, and scandals. The author contrasts his uphill battle with his potential strengths, like his personality and town hall skills.
+
+Next, I need to identify the morally framed words. The user mentioned "uphill climb," "low poll numbers," "fundraising deficit," "scandals," "plummeting popularity," "drift toward," "brash," "challenging," "combative," "maestro," "enraged," "laughing," "weeping," "hoping," and "clasp their hand." I should incorporate as many of these as possible without making the summary too long.
+
+I'll structure the summary to first mention his announcement, then the challenges he faces, and finally his strengths. I'll use the moral terms to highlight both his difficulties and his assets. I need to make sure the summary flows naturally while including all the key points and the specified words.
+
+I should also keep the language clear and concise, sticking to the word limit. After drafting, I'll check to ensure all the moral terms are included and that the summary accurately reflects the original article's tone and content.
+</think>
+
+SUMMARY:  
+New Jersey Governor Chris Christie is expected to announce his candidacy for the 2016 White House race today. Despite facing an uphill climb with low poll numbers, a fundraising deficit, and scandals, Christie remains a formidable contender. His status as the GOP establishment favorite has vanished, with mega-donors drifting toward rivals like Jeb Bush. However, Christie’s brash, challenging, and combative personality could be his key asset. As a maestro of town hall meetings, he engages voters, leaving some enraged but others laughing, weeping, or hoping for a connection. His ability to connect with New Jersey residents may help him overcome his challenges.  
+END OF SUMMARY.

@@ -1,0 +1,16 @@
+Okay, so the user wants me to summarize this news article about Rex Tillerson's Senate confirmation hearing. They provided the article, so I need to read through it and extract the main points. 
+
+First, I notice that the article is quite detailed, covering the exchanges between Tillerson and Sen. Rubio. The key points seem to be the clash between them, especially on labeling Putin as a war criminal. Tillerson didn't go along with that, which is important. 
+
+I should also highlight Tillerson's stance on Russia, like calling it an "unfriendly adversary" and his criticism of the Obama administration's handling of Crimea. His comments on other issues like China's activities in the South China Sea and the approach to Syria and ISIS are also significant.
+
+The user specified that the summary should be concise, no more than 200 words, and end with specific tokens. I need to make sure it's clear and covers all major points without getting bogged down in details. Also, the summary should be in English, so I'll structure it to include the main events and Tillerson's key statements.
+
+I'll start by summarizing the clash with Rubio, then move on to his positions on Russia, other foreign policy issues, and a brief mention of the lighter moment with Sen. Kaine. I'll make sure to keep each point concise to stay within the word limit.
+
+Finally, I'll end with the required tokens to ensure the formatting is correct as per the user's instructions. Double-checking the word count is essential to meet the user's requirements precisely.
+</think>
+
+SUMMARY:  
+Secretary of State nominee Rex Tillerson faced tough questioning from Sen. Marco Rubio during his Senate Foreign Relations Committee confirmation hearing. Rubio pressed Tillerson to label Russian President Vladimir Putin a "war criminal," but Tillerson declined, emphasizing his deliberative approach to diplomacy. Tillerson criticized the Obama administration's weak response to Russia's annexation of Crimea and called Russia an "unfriendly adversary," though he stopped short of labeling it an enemy. He also refrained from calling Saudi Arabia a "human rights violator" or Philippine President Rodrigo Duterte's policies "murderous." Tillerson emphasized the need for U.S. leadership to counter global instability, citing cyber threats as the nation's greatest challenge. He criticized the Obama administration's handling of Syria, stating the U.S. should focus on defeating ISIS before addressing leadership. Tillerson also addressed China's activities in the South China Sea and radical Islam as threats to global stability. A lighter moment occurred when he humorously dodged a question about ExxonMobil's climate policies. Tillerson's hearing drew protests, including activists dressed as a T-Rex, referencing his name.  
+END OF SUMMARY.

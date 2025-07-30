@@ -1,0 +1,49 @@
+Alright, I'm trying to figure out how to approach this query. The user has provided a news article and specific instructions on how to summarize it, focusing on moral framing. They want me to first identify the morally framed words and then create a summary that preserves those moral elements.
+
+First, I'll read the article to understand the context. It's about the Democratic party's stance on late-term abortion, with examples from Virginia and New York. The author is critical, using strong moral language. 
+
+For step one, I need to extract all single words that carry moral connotations. Words like "explicit," "mainstream," "support," "extreme," "unjust," etc., stand out. I'll list each of these, making sure each is on a new line with a *.
+
+Next, the summary needs to capture the essence of the article while retaining the moral framing. I'll focus on the key points: the shift in Democratic support, the specific examples from Virginia and New York, the candidates' stance, public opinion, the moral arguments, and the call to action for different groups.
+
+I should ensure the summary is concise, under 200 words, and includes the morally charged words identified earlier. I'll structure it to highlight the criticism of the policies and the moral obligations mentioned.
+
+Finally, I'll make sure the summary starts with "SUMMARY:" and ends with "END OF SUMMARY." without using markdown, just plain text.
+</think>
+
+### STEP 1:  
+*Explicit  
+*Support  
+*Moral  
+*Extreme  
+*Unjust  
+*Non-persons  
+*Injustice  
+*Obligations  
+*Reconsider  
+*Repudiate  
+*Indefensible  
+*Absurd  
+*Outrageous  
+*Reversal  
+*Extreme  
+*Grievous  
+*Error  
+*Broken  
+*Communion  
+*Unjust  
+*Kill  
+*Expose  
+*Stance  
+*Radical  
+*Difference  
+*Treatment  
+*Prohibited  
+*Punished  
+*Moral  
+*Obligations  
+
+---
+
+### SUMMARY:  
+The article critiques the increasingly mainstream Democratic support for abortion "all the way up to 40 weeks," highlighting the moral implications of such policies. Virginia state legislator Kathy Tran and Governor Ralph Northam defend laws allowing abortion at any stage, even in cases where the fetus is viable. New York’s law, which permits abortion for health reasons without limiting health to physical health, is described as unenforceable and deceptive. Leading Democratic presidential candidates endorse similar federal legislation, which would override state protections for unborn children. The author argues that these policies are unjust, as they treat viable unborn children as non-persons, despite public opposition. The article calls on Democrats to reconsider their stance, Republicans to expose the issue, journalists to report truthfully, and the Catholic Church to address the moral error of pro-abortion politicians. The Supreme Court is urged to reverse its stance on abortion-on-demand. The article emphasizes the moral obligation to protect unborn children and condemns the radical shift in treatment between newborns and late-term fetuses. END OF SUMMARY.

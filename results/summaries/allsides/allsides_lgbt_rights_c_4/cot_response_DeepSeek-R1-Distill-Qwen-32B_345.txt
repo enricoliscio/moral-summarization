@@ -1,0 +1,30 @@
+Okay, so I'm trying to help this user who wants a summary of a news article with a focus on preserving the moral framing. The user provided specific instructions: first, identify all the morally framed single words, then write a concise summary using those words.
+
+First, I need to understand what "morally framed" means. It probably refers to words that carry a judgment or value, like "criticized," "violence," "rights," etc. I'll go through the article and pick out those words.
+
+Next, I have to make sure the summary is under 200 words and includes as many of these words as possible. The summary should capture the main points: Obama meeting with activists, Russia's laws, international criticism, violence against LGBT, the boycott call, Obama's stance, and the context of the G-20 summit.
+
+I should structure the summary to flow logically, starting with Obama's meeting, then the context of Russia's laws, the criticism, the violence, the boycott, Obama's position, and the broader issues like Snowden and Syria. I need to keep it concise but informative.
+
+I also need to ensure that the summary doesn't add any new information beyond what's in the article and stays true to the moral framing by using the identified words.
+
+Let me start by listing the morally framed words. Then, I'll draft the summary, making sure to include them where appropriate without making it sound forced. I'll check the word count to stay within the limit.
+
+Finally, I'll review to ensure clarity and that all key points are covered, maintaining the moral perspective as per the user's request.
+</think>
+
+**STEP 1:**  
+* Criticized  
+* Violence  
+* Rights  
+* Activists  
+* Bans  
+* Boycott  
+* Offensive  
+* Solidarity  
+* Abuses  
+* Equality  
+
+**SUMMARY:**  
+President Obama is meeting with lesbian, gay, bisexual, and transgender (LGBT) rights activists during his visit to Russia for the G-20 summit. This meeting follows international criticism of Russia's laws banning the promotion of gay relationships to minors and restricting adoptions by countries that allow same-sex marriages. Human rights groups report increased violence against Russia's LGBT community since the laws were enacted. While Obama has condemned the Russian legislation, he opposes boycotting the 2014 Winter Olympics in Sochi. The meeting with activists is seen as a show of solidarity with those targeted by Russia's crackdown on civil society and LGBT rights. The visit comes after Obama canceled a meeting with Russian President Vladimir Putin due to ongoing disputes, including Russia's support for Edward Snowden and its stance on Syria. The White House's decision to engage with activists has been praised by human rights organizations, which urge Obama to continue advocating for LGBT equality and human rights. Putin, however, has defended his government's treatment of LGBT individuals, claiming normal relations with them.  
+**END OF SUMMARY.**

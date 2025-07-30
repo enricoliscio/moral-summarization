@@ -1,0 +1,35 @@
+Okay, so the user has given me a query where I need to act as a news summarizer assistant and a moral expert. They provided a news article about Alabama passing a strict abortion ban. My task is to first identify all the single words that are morally framed in the article, and then write a summary preserving the moral framing.
+
+First, I need to understand what morally framed words are. These are words that carry a strong positive or negative connotation, often related to ethics, justice, rights, etc. They might include words like "ban," "criminalize," "proponents," "condemned," "rights," "empathize," "oppose," "outrage," etc.
+
+Looking at the article, I should go through each sentence and pick out these words. For example, "bans" is a strong word indicating restriction. "Criminalize" is another strong term. "Proponents" might carry a positive connotation for some, but in this context, it's about supporting the ban. "Condemned" is clearly negative. "Empathize" is positive but in a context where it's contrasted with the law's strictness.
+
+Next, after identifying all these words, I need to summarize the article. The summary should include as many of these moral terms as possible without making it too long—under 200 words. I have to make sure the moral framing is preserved, so I need to highlight the controversy, the strictness of the law, the reactions from both sides, and the implications for Roe v. Wade.
+
+I should start by stating that Alabama's Senate passed a near-total abortion ban, highlighting that it's the most restrictive. Mention the exceptions only for saving a mother's life. Note the punishment for providers, the political intent to challenge Roe v. Wade, and the reactions from pro-choice groups and the Democratic senator.
+
+I need to ensure the summary flows well, covers all key points, and includes the moral language. I should avoid technical jargon but keep the ethical implications clear. Also, I should mention the political strategy behind the bill and the concerns about the Supreme Court's stance.
+
+Finally, I have to structure the response with STEP 1 listing all the moral words, each on a new line starting with a *, and then the SUMMARY section, making sure it's concise and within the word limit.
+</think>
+
+**STEP 1:**  
+* Bans  
+* Criminalize  
+* Proponents  
+* Condemned  
+* Rights  
+* Empathize  
+* Oppose  
+* Outlawing  
+* Demean  
+* Hysterical  
+* Settle  
+* Battle  
+* Uphold  
+* Protect  
+* Risk  
+* Threaten  
+
+**SUMMARY:**  
+The Alabama Senate passed a near-total abortion ban, the most restrictive in the country, allowing abortions only to save a mother’s life. The bill, which criminalizes providers with 10 to 99 years in prison, excludes exceptions for rape and incest, sparking outrage. Proponents aim to challenge Roe v. Wade, while pro-choice advocates condemn the law as demeaning and dangerous. The bill’s passage highlights the ongoing battle over abortion rights, with concerns that the Supreme Court’s current composition could threaten Roe v. Wade. NARAL Pro-Choice America criticized the law, calling it a total ban on abortion and a punishment for women and doctors. The legislation reflects a broader trend of restrictive abortion laws, with Alabama’s being the most extreme. END OF SUMMARY.

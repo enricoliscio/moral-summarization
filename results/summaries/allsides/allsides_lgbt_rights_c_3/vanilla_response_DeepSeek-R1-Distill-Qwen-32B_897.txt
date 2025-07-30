@@ -1,0 +1,17 @@
+Okay, so the user wants me to summarize a news article. They provided the article and specific instructions on how to format the summary. Let me start by reading the article carefully to understand the main points.
+
+The article is about an Appeals Court decision striking down same-sex marriage bans in Wisconsin and Indiana. It mentions that this is the third federal court to do so, with previous rulings in Utah, Oklahoma, and Virginia. The key figure here is Judge Richard Posner, who wrote the opinion, and he's a Reagan appointee. He found that the states didn't provide a reasonable basis for the bans.
+
+Posner's arguments include the states' claims about encouraging heterosexual marriage to protect children from accidental pregnancies, but he points out that this doesn't hold up because the out-of-wedlock birth rates have actually increased since the bans were enacted. He also criticizes the idea that tradition alone can justify discrimination, referencing the interracial marriage case from 1967.
+
+The summary needs to be concise, no more than 200 words, and formatted with "SUMMARY:" and "END OF SUMMARY." tokens. I should include the main points: the court's decision, the reasoning by Posner, the comparison to other cases, the statistical data, and the implications for the Supreme Court.
+
+I should make sure to mention that all these cases are being appealed to the Supreme Court, which is expected to rule before June. Also, highlight Posner's scathing tone and his rejection of the states' arguments, especially the tradition point.
+
+I need to keep the language clear and straightforward, avoiding any unnecessary details. Let me structure it step by step: first the court's decision, then Posner's reasoning, the arguments against the states, the statistical data, and the conclusion about the Supreme Court.
+
+Let me check the word count as I draft to ensure it's within the limit. Also, make sure to include all key elements without making it too verbose. Once the summary is ready, I'll format it correctly with the tokens as instructed.
+</think>
+
+SUMMARY:  
+The U.S. Court of Appeals for the Seventh Circuit has struck down same-sex marriage bans in Wisconsin and Indiana, becoming the third federal appeals court to do so. Judge Richard Posner, writing for a unanimous panel, ruled that the states failed to provide a reasonable basis for the bans. He criticized the argument that restricting marriage to heterosexual couples protects children from accidental pregnancies, noting that out-of-wedlock birth rates have risen since the bans were enacted. Posner also rejected the claim that tradition justifies discrimination, citing the Supreme Court's 1967 decision on interracial marriage. The cases are expected to reach the U.S. Supreme Court by June. END OF SUMMARY.

@@ -1,0 +1,11 @@
+<think>
+Okay, so the user has given me a query where I need to summarize a news article while preserving the moral framing. The article is about Donald Trump and Mexico's former presidents opposing his border wall plan. The user provided specific morally framed words that I need to include: "useless," "misinformed," "closing," and "insisted."
+
+First, I need to read the article carefully to understand the main points. Trump is pushing for a wall and claiming Mexico will pay. Mexico's former presidents, Vicente Fox and Felipe Calderón, are against this. Fox called the wall "useless" and criticized Trump for being egocentric. Calderón also dismissed the wall as "useless" and pointed out that Trump is "misinformed" about immigration. Trump, on the other hand, "insisted" that Mexico would pay and was angered by Fox's language.
+
+I should structure the summary to include these key points and the moral words. I need to make sure the summary is concise, around 200 words, and includes all the specified terms. I'll start by mentioning Trump's plan and the chorus from his supporters. Then, I'll introduce Fox's opposition, using "useless" and his criticism of Trump. Next, I'll add Calderón's points about the wall being "useless" and Trump being "misinformed." Finally, I'll note Trump's "insisted" stance and his reaction to Fox's comments.
+
+I should ensure the summary flows logically and stays within the word limit. Also, I need to end with the specified tokens. Let me draft this step by step, making sure each morally framed word is included and the summary captures the essence of the article.
+</think>
+
+SUMMARY: Donald Trump frequently asks his supporters, "Who’s gonna pay?" for his proposed border wall with Mexico, to which they respond, "Mexico!" However, former Mexican presidents Vicente Fox and Felipe Calderón have firmly rejected the idea, calling the wall "useless" and insisting Mexico will not foot the bill. Fox criticized Trump as "egocentric" and urged Hispanic voters to "open their eyes," dismissing Trump as a "false prophet." Calderón echoed Fox's sentiments, stating the wall would be "completely useless" and arguing Trump is "misinformed" about immigration flows. Trump, meanwhile, has "insisted" that Mexico will pay for the wall, though he appeared more angered by Fox's use of profanity in discussing the issue. END OF SUMMARY.

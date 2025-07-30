@@ -1,0 +1,61 @@
+Alright, I need to help the user by summarizing the given news article while preserving the moral framing. First, I should understand what the user is asking for. They want me to act as a news summarizer and a moral expert. So, my task is twofold: identify morally framed words and then write a concise summary using those words.
+
+Starting with Step 1, I need to go through the article and pick out words that carry moral implications. These are words that express approval, disapproval, or a value judgment. I'll go through each paragraph and highlight such words.
+
+In the first paragraph, words like "soaring" and "dysfunctional" stand out. "Soaring" implies high costs, which is a negative. "Dysfunctional" clearly has a negative connotation, indicating that the space program isn't working well.
+
+Moving on, "farewell" is neutral, but "resign" might imply some issues, though it's not inherently moral. "Record" is neutral. "Nominated" is neutral. "Swapping" is neutral, but "silver-visored helmet" and "green eyeshade" are metaphors; "green eyeshade" suggests someone focused on budgeting, which is a shift in approach.
+
+Next, "space cadet" versus "bean counter" – "bean counter" is a bit derogatory, implying someone too focused on money. "Not known as a space enthusiast" – this could be seen as a criticism, so "enthusiast" is positive but in a negative context. "Needed" is neutral.
+
+In the next section, "faster, better, cheaper" is a positive approach. "Evidence" is neutral. "Inaugurated" is positive. "Competition" is neutral but could imply efficiency. "Plan and execute" is neutral. "Cut costs" is neutral but could be seen as necessary or harsh. "13 in space and 27 under development" – positive progress.
+
+Then, "credibility" is a positive term but is under fire, so it's negative. "Manned spaceflight" is neutral. "International Space Station" is neutral. "Ballooned" is negative, showing costs went up. "Scale back" is negative, implying reduction. "Core" is neutral. "Crew of three instead of six" – negative, as it's a reduction. "Red-penciled" implies cuts, which is negative. "Not credible" is negative. "Scale back" again negative. "Opposition" is negative. "Violate international agreements" is negative. "Close off international use" is negative.
+
+"Assessing" is neutral. "Blossom" is positive. "Apollo-program heyday" is positive. "Numbers guy" is neutral. "James Webb" is positive. "Objectives" neutral but "less visionary" is negative. "Webb's mandate" positive. "Richard Truly" positive. "Challenger disaster" negative. "Cut NASA's budget" negative. "Fix the space station" positive but in a necessary sense. "Clear message" positive. "Clean up its act" positive. "Neat stuff" positive.
+
+So, compiling all these, the morally framed words are: soaring, dysfunctional, bean counter, enthusiast, needed, faster, better, cheaper, inaugurated, competition, plan, execute, cut, credibility, ballooned, scale back, core, red-penciled, not credible, opposition, violate, close off, blossom, visionary, mandate, cut, fix, clear message, clean up, neat.
+
+Now, for the summary. I need to capture the main points: NASA's cost issues, Goldin's tenure, O'Keefe's appointment, the ISS cost overruns, the need for financial management, international implications, and the shift in NASA's focus.
+
+I'll start by stating that NASA is shifting focus to cost management under O'Keefe. Mention the ISS cost overruns, the task force's report, and the international opposition. Highlight that O'Keefe's background is in finance, not space, which is a change from Goldin's approach. Conclude with the administration's message that NASA needs to fix its issues before pursuing new projects.
+
+I need to keep it under 200 words, so I'll be concise, using the morally framed words where possible. Make sure the summary reflects the moral framing, like the criticism of cost overruns and the need for credibility.
+</think>
+
+### STEP 1:
+* soaring  
+* dysfunctional  
+* bean counter  
+* enthusiast  
+* needed  
+* faster  
+* better  
+* cheaper  
+* inaugurated  
+* competition  
+* plan  
+* execute  
+* cut  
+* credibility  
+* ballooned  
+* scale back  
+* core  
+* red-penciled  
+* not credible  
+* opposition  
+* violate  
+* close off  
+* blossom  
+* visionary  
+* mandate  
+* cut  
+* fix  
+* clear message  
+* clean up  
+* neat  
+
+---
+
+### SUMMARY:
+NASA faces a new era as it shifts focus from exploration to cost management under Sean O'Keefe, a financial expert replacing Daniel Goldin. Goldin's tenure saw achievements like finding water on the moon and advancing Mars exploration, but NASA's credibility suffered due to soaring costs, particularly with the International Space Station (ISS), which exceeded its $17.4 billion budget to over $30 billion. O'Keefe's appointment signals a move away from space enthusiasm toward fiscal discipline, though this has sparked opposition from international partners concerned about violating agreements. While some see potential for NASA to "blossom" under a numbers-focused leader, others criticize the agency's increasingly "less visionary" objectives. The administration's message is clear: NASA must "clean up its act" before pursuing ambitious projects. END OF SUMMARY.

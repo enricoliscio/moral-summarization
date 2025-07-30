@@ -1,0 +1,12 @@
+Alright, so the user wants me to summarize a news article about President Trump's comments regarding Michael Flynn and Hillary Clinton. They specified that the summary should be after a "SUMMARY:" token and end with "END OF SUMMARY." Also, it needs to be under 200 words. 
+
+First, I'll read through the article to understand the main points. Trump criticized the FBI for ruining Flynn's life, comparing it to Hillary Clinton not facing consequences for lying. Flynn pleaded guilty to lying about his conversations with the Russian ambassador, and he's the fourth person charged in Mueller's investigation. Trump expressed sympathy for Flynn, even suggesting he seek immunity, which is unusual for a president to do. He also contrasted Flynn's situation with Clinton's, who wasn't charged despite lying during her investigation. 
+
+I need to condense this into a concise summary. I'll mention Trump's criticism of the FBI, Flynn's guilty plea, the Mueller investigation, Trump's sympathy, the comparison to Clinton, and the unusual nature of Trump's involvement. I should keep it under 200 words, so I'll focus on the key points without too much detail.
+
+I should structure it to start with Trump's comments, then mention Flynn's case, the Mueller probe, Trump's sympathy and comparison, and the implications of his involvement. Make sure to include that Trump didn't specify Clinton's lies but referenced her 2016 interview and Comey's decision not to charge her.
+
+I'll draft the summary, ensuring it flows well and covers all essential points succinctly. I'll check the word count to stay within the limit. Finally, I'll format it with the required tokens at the beginning and end.
+</think>
+
+SUMMARY: President Trump criticized the F.B.I. for ruining the life of his former national security adviser, Michael Flynn, while noting that Hillary Clinton faced no consequences after allegedly lying to the F.B.I. Flynn pleaded guilty to lying about his conversations with the Russian ambassador, becoming the fourth person charged in the Robert Mueller investigation into Russian election interference. Trump expressed sympathy for Flynn, whom he fired in February, and contrasted Flynn's treatment with Clinton's lack of charges despite her alleged lies during the F.B.I.'s investigation into her private email server. Trump's comments came as Mueller's probe intensifies scrutiny of his inner circle, with the president unusually weighing in on the investigation. END OF SUMMARY.

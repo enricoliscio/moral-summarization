@@ -1,0 +1,43 @@
+Okay, so the user has given me a query where they want me to act as a news summarizer and a moral expert. They provided a news article and specific instructions on how to process it. Let me break this down.
+
+First, the user wants me to identify all the single words that are morally framed in the article. They call this STEP 1 and want each word listed with a *. I need to go through the article and pick out words that carry moral connotations. Words like "suspended," "protest," "ignored," "disdain," "wrath," "excessive force," "detained," "restrictions," "commitment," "respect," "independence," "eroded," "controversial," "biased," "scathing," "pleased," "critique," "improvement," "promised," "positive," "championing," "unfair," "self-interest," "acknowledge," and "work." These words all have moral implications, so they should be highlighted.
+
+Next, the user wants a summary of the article that preserves the moral framing. The summary needs to be concise, under 200 words, and start after the "SUMMARY:" token. I should ensure that the morally framed words are included as much as possible. The summary should cover the NGOs' boycott, their reasons related to government neglect and appointments affecting Suhakam's independence, and the criticism of the new commissioners. I also need to mention the NGOs' intention to monitor Suhakam and their disappointment from Suhakam's side.
+
+I should structure the summary to include all key points: the boycott, the government's response, the impact on human rights, the controversial appointments, and the NGOs' expectations versus the reality. I need to make sure the moral framing is clear, using the identified words where appropriate.
+
+Let me check if I've covered all the main points. The NGOs are boycotting Suhakam because the government hasn't acted on their recommendations, leading to a decline in human rights. They're concerned about the independence of Suhakam due to new appointments, which they see as undermining its effectiveness. The summary should reflect their disappointment and the government's lack of commitment. Also, include Suhakam's response that the boycott is unfair and distracts from their work.
+
+I think I have all the elements. Now, I'll compile the summary, making sure it's within the word limit and includes the morally framed words. Let me make sure it flows well and accurately represents the article's content.
+</think>
+
+**STEP 1:**  
+* suspended  
+* protest  
+* ignored  
+* disdain  
+* wrath  
+* excessive force  
+* detained  
+* restrictions  
+* commitment  
+* respect  
+* independence  
+* eroded  
+* controversial  
+* biased  
+* scathing  
+* pleased  
+* critique  
+* improvement  
+* promised  
+* positive  
+* championing  
+* unfair  
+* self-interest  
+* acknowledge  
+* work  
+
+**SUMMARY:**  
+Thirty-two NGOs have suspended engagements with the Malaysian Human Rights Commission (Suhakam) for 100 days, protesting the government's poor response to Suhakam's recommendations and its decline in human rights. The NGOs criticized the government for ignoring Suhakam's reports, including the Kesas report, which found police guilty of excessive force. They also condemned the controversial appointments of former attorney-general Abu Talib Othman as chairperson and the removal of three commissioners, fearing it undermines Suhakam's independence. The NGOs expressed concern over the new commissioners' backgrounds as retired civil servants, questioning their ability to objectively critique government policies. They will not engage with Suhakam during the boycott, monitoring its performance instead. Suhakam Commissioner Prof. Hamdan Adnan called the boycott "unfair," urging NGOs to collaborate instead. The NGOs remain hopeful Suhakam can fulfill its promise to protect human rights.  
+**END OF SUMMARY.**

@@ -1,0 +1,16 @@
+Alright, so the user has given me a query where they want me to act as a news summarizer and moral expert. The task is to summarize a news article while preserving the moral framing provided by the author. The article is about the Vietnamese Minister speaking at an ASEM meeting, emphasizing environmental protection and cooperation.
+
+First, I need to understand the key points of the article. The minister highlighted Vietnam's commitment to environmental protection, including pollution prevention, biodiversity, and improving industrial zones. He mentioned mobilizing resources, international cooperation, and the importance of bilateral efforts between Asia and Europe. He also proposed a forum for environmental cooperation and the meeting concluded with a statement supporting the Kyoto Protocol.
+
+Next, I should identify the morally framed words the author used: values, protection, prevention, improvement, addressing, dealing. I need to ensure these words are included in the summary to maintain the moral tone.
+
+I should structure the summary to cover all these points concisely, keeping it under 200 words. I'll start by mentioning the minister's speech at the ASEM meeting, his emphasis on Vietnam's commitment, the specific areas of focus, the resources and cooperation efforts, the call for a forum, and the conclusion with the Kyoto Protocol.
+
+I need to make sure the summary flows well and includes all the necessary moral terms without being too verbose. Let me draft it step by step, ensuring each key point is addressed succinctly.
+
+Finally, I'll check the word count to ensure it's within the limit and that all moral framing words are appropriately included. Once done, I'll present the summary as required.
+</think>
+
+SUMMARY:  
+Vietnamese Minister Chu Tuan Nha emphasized Vietnam's commitment to environmental protection at the ASEM Environment Ministers' Meeting in Beijing. He highlighted the country's efforts to prevent pollution, protect biodiversity, and improve environmental conditions in industrial zones and urban and rural areas. The Vietnamese Government has mobilized resources and strengthened international cooperation to address environmental challenges. Nha stressed the importance of bilateral cooperation between Asia and Europe in dealing with environmental issues, calling for the establishment of a biennial cooperation forum under the Asia-Europe Environment Cooperation Program. The forum aims to facilitate dialogue on policy, information exchange, and expert collaboration. The meeting concluded with a statement supporting the early implementation of the Kyoto Protocol and fostering cooperation among ASEM members.  
+END OF SUMMARY.

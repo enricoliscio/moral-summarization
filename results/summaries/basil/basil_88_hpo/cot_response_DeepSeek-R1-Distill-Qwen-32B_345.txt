@@ -1,0 +1,36 @@
+<think>
+Alright, so I need to help the user with this query. They provided a news article about Trump considering an executive order to end birthright citizenship. The task is to first identify all the morally framed single words and then summarize the article preserving those moral frames.
+
+First, I should read through the article carefully. The key points are Trump's claim that he can end birthright citizenship via an executive order, which is legally questionable. The 14th Amendment is mentioned, and experts say it can't be changed by an executive order. There's also criticism from Republicans and others, and the context of the midterm elections.
+
+For step one, I need to find words that carry moral connotations. Words like "ridiculous," "punishing," "attack," "unconstitutional," "division," "hatred," "blatant," "secure," "secure," "process," "hell," "fear," "criminals," "gang members," "terrorists," "cut off," "necessary," "national security." These words are used to convey the author's moral stance on Trump's actions.
+
+Now, for the summary, I need to condense the article while keeping these moral words. I'll start by stating Trump's proposal, the legal challenges, the criticism, and the political context. I should mention the experts, the opposition from Republicans, and the caravan situation. I need to keep it under 200 words, so I'll be concise but include the key moral terms.
+
+I should make sure the summary flows logically, starting with Trump's claim, then the legal issues, criticism, and the election context. I'll also highlight the experts' opinions and the caravan fearmongering.
+
+Let me draft that. Make sure to include all the moral words identified and keep the summary tight. I'll check the word count to ensure it's within the limit.
+</think>
+
+**STEP 1:**  
+* Ridiculous  
+* Punishing  
+* Attacking  
+* Unconstitutional  
+* Division  
+* Hatred  
+* Blatant  
+* Secure  
+* Secure  
+* Process  
+* Hell  
+* Fear  
+* Criminals  
+* Gang members  
+* Terrorists  
+* Cut off  
+* Necessary  
+* National security  
+
+**SUMMARY:**  
+President Donald Trump has proposed ending birthright citizenship for children born in the U.S. to non-citizen parents, claiming it can be done via an executive order. This idea, which he calls "ridiculous," would effectively punish the children of undocumented immigrants, despite the 14th Amendment guaranteeing citizenship to all born in the U.S. Experts and Republicans, including House Speaker Paul Ryan, have criticized the proposal as unconstitutional and outside Trump's authority. Trump's suggestion aligns with his campaign to stoke fear about immigration ahead of the midterm elections, including his false claims about a migrant caravan. Many argue the move would sow division and fan anti-immigrant hatred, while others, like Sen. Lindsey Graham, support legislation to end birthright citizenship, though it would likely require a constitutional amendment. Trump's proposal has been widely condemned as a blatant attempt to exploit immigration fears for political gain. END OF SUMMARY.

@@ -1,0 +1,39 @@
+Alright, so I'm trying to help the user with their query. They want me to summarize a news article while preserving the moral framing. First, I need to understand what exactly they're asking for. They provided a detailed article about Trump blocking McGahn from testifying, which involves legal and political implications.
+
+The user has specified two steps. The first is to identify all the single words that are morally framed. They want each word listed with a * and in a new line under STEP 1. The second step is to write a concise summary, keeping the morally framed words as much as possible, ending with specific tokens.
+
+I should start by reading through the article to spot words that carry moral connotations. Words like "blocked," "criticism," "impeachment," "constitutional," "precedent," "obstruction," "criminally," "disdain," "impede," "evidence," "above," "contempt," "impedance," "refuse," "transparency," and "oversight" stand out. These words imply wrongdoing, conflict, and moral judgment.
+
+Next, I need to craft a summary that's under 200 words. I'll have to mention Trump blocking McGahn, the Justice Department's legal stance, the criticism from Democrats, the threat of impeachment, and the broader implications for oversight. I must include the morally framed words to maintain the original tone.
+
+I also need to ensure that the summary flows logically, starting with the action, then the response, and the consequences. I should avoid adding any personal opinions and stick strictly to the facts presented, but highlight the moral aspects.
+
+Finally, I'll structure the response with STEP 1 listing the words and then the SUMMARY section, making sure it's concise and meets the word limit. I should double-check that all the key points are covered and that the moral framing is preserved throughout.
+</think>
+
+**STEP 1:**
+
+* blocked  
+* criticism  
+* impeachment  
+* constitutional  
+* precedent  
+* obstruction  
+* criminally  
+* disdain  
+* impede  
+* evidence  
+* above  
+* contempt  
+* impedance  
+* refuse  
+* transparency  
+* oversight  
+
+---
+
+**SUMMARY:**  
+
+Donald Trump has blocked former White House counsel Don McGahn from testifying before Congress about the special counsel report on Russian election interference, sparking criticism and threats of impeachment. The Justice Department argued that McGahn, subpoenaed by the House Judiciary Committee, cannot be compelled to testify under oath, citing constitutional precedent to protect future presidents. Trump defended the move, claiming it was for the office of the presidency, not himself. Democrats, including Judiciary Committee Chairman Jerry Nadler and member David Cicilline, condemned the action, calling it an obstruction of justice and a "disdain for the law." Cicilline warned that failing to compel McGahn's testimony could warrant impeachment. McGahn, a key figure in Robert Mueller's report, has been at the center of Trump's alleged efforts to obstruct justice. The White House's intervention has drawn sharp criticism, with Democrats accusing Trump of attempting to block McGahn from testifying about his alleged misconduct. The move is part of a broader pattern of the Trump administration resisting congressional oversight.  
+
+**END OF SUMMARY.**

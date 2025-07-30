@@ -1,0 +1,14 @@
+Okay, so I need to help summarize this news article about Glenn Beck speaking at CPAC. The user wants a concise summary, no longer than 200 words, and it should be returned after a "SUMMARY:" token and end with "END OF SUMMARY.".
+
+First, I'll read through the article to understand the main points. Glenn Beck is the closing speaker at CPAC, a conservative conference. He criticized progressivism, calling it a cancer. He also criticized both Republicans and Democrats, saying Republicans don't know what they stand for and are addicted to spending and big government. He used a personal analogy, comparing the party to his own recovery from alcoholism, which got a good reaction. He also mentioned that the real problem is progressivism, not just Obama, and tied it into a "hangover" metaphor for America's current state. He emphasized personal responsibility and conservative values, like financial success without demonization.
+
+I should make sure to include all these key points: his criticism of progressivism, the attack on both parties, the personal analogy, the metaphor about America's morning, and the emphasis on conservative values. I need to keep it under 200 words, so I'll have to be concise but cover all main ideas.
+
+Let me structure it: start with Beck's role and his main message about progressivism. Then mention his criticism of both parties, using the personal analogy. Then the metaphor about America's morning and the real issue being progressivism. Finally, touch on his emphasis on personal responsibility and conservative values.
+
+I should avoid any markdown and just write the summary as plain text. Also, make sure it flows well and is within the word limit. Let me check the word count as I draft to ensure it's under 200.
+
+Alright, putting it all together, making sure each sentence is clear and covers each main point without getting too detailed. I think that's a solid approach.
+</think>
+
+SUMMARY: Glenn Beck, the closing speaker at the Conservative Political Action Conference (CPAC), delivered a fiery speech criticizing progressivism as a "cancer" that must be removed from the system. He also criticized both Republicans and Democrats, accusing Republicans of not knowing their core principles and being addicted to spending and big government. Drawing parallels to his own recovery from alcoholism, Beck urged the Republican Party to acknowledge its problems. He blamed progressivism, not just President Obama, for America's current challenges, likening the nation's state to a "hangover." Beck emphasized personal responsibility and conservative values, arguing that financial success should not be demonized. His message resonated with the audience, sparking cheers and applause. END OF SUMMARY.

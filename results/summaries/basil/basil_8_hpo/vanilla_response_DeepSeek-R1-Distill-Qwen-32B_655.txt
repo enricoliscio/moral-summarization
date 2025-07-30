@@ -1,0 +1,13 @@
+<think>
+Okay, so the user wants me to summarize a news article about the Bush tax cuts and the efforts by the White House to get a deal passed. The user provided the article, and they specified that the summary should be under 200 words, starting with "SUMMARY:" and ending with "END OF SUMMARY." They also mentioned that I should be a news summarizer assistant.
+
+First, I need to read through the article to understand the main points. The article talks about senior White House officials warning that inaction on the tax cuts could lead to a double dip recession. Larry Summers is mentioned as a key figure, saying that not passing the bill would increase the risk of the economy stalling. There's also a debate about the effectiveness of the tax cuts, with some experts like Rob Shapiro arguing that a delay wouldn't cause a double dip but that the current deal isn't enough to boost the economy significantly. The focus is on convincing Democrats to support the tax cut extension, despite their skepticism about the benefits for the wealthy and the estate tax.
+
+I should identify the key elements: the warning from the White House, the potential consequences of inaction, the debate among experts, and the political strategy to push the deal. I need to condense this into a concise summary without exceeding 200 words.
+
+I should start by stating that senior officials warned about the risks of inaction, mention the potential double dip recession, and note the skepticism from Democrats. Then, include Summers' comments and Shapiro's counterarguments. Finally, highlight the administration's push for immediate action to avoid negative economic impacts.
+
+I need to ensure the summary flows logically, covering all main points without getting too detailed. Also, I must remember to format it correctly with the specified tokens at the beginning and end.
+</think>
+
+SUMMARY: Senior White House officials have warned that failing to pass the Bush tax cut deal could significantly increase the risk of a double dip recession. Outgoing economic adviser Larry Summers emphasized that inaction over the next few weeks would materially raise the risk of economic stagnation. While Summers previously downplayed the significance of the tax cuts, he now stresses their urgency. Rob Shapiro, a former Clinton administration official, argued that a delay would not cause a double dip but noted the deal's limited stimulative effect. The White House is actively pushing the deal to skeptical Democrats, highlighting the real consequences of inaction, such as tax increases and loss of unemployment insurance. Officials argue that delaying the deal would likely result in a worse economic outcome. END OF SUMMARY.

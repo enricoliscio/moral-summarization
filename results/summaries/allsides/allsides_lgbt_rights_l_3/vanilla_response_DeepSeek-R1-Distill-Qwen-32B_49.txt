@@ -1,0 +1,14 @@
+Okay, so the user wants me to summarize this news article about Kim Davis. They provided the article, and the instructions are clear: I need to create a summary that's no longer than 200 words, starting with "SUMMARY:" and ending with "END OF SUMMARY." 
+
+First, I'll read through the article to understand the main points. Kim Davis, the Kentucky county clerk, is refusing to issue marriage licenses because of her religious beliefs, even after the Supreme Court ruling legalizing same-sex marriage. She's been ordered by the governor and a federal judge to do her job but has refused, leading to a contempt of court hearing. The article also mentions support from some Republican presidential candidates, like Mike Huckabee and Rand Paul, while others, like Carly Fiorina, have urged her to step down. There's a concern that if she's jailed, she might become a martyr, inspiring more defiance.
+
+I need to condense this into a concise summary. I should include her defiance, the legal context, her refusal despite orders, the contempt hearing, and the political support she's receiving. Also, mention the potential consequences if she's jailed. I need to keep it under 200 words, so I'll focus on the key elements without getting too detailed.
+
+Let me structure it: start with her defiance and refusal, mention the Supreme Court ruling, her contempt hearing, the support from certain politicians, and the possible impact if she's jailed. Make sure it's clear and flows well.
+
+I'll also need to use formal language but keep it straightforward. Avoid any markdown as per the instructions. Just plain text within the specified tokens.
+
+I think that's a solid approach. Now, I'll draft the summary, making sure it's within the word limit and covers all the essential points.
+</think>
+
+SUMMARY: Kentucky county clerk Kim Davis is defying federal court orders by refusing to issue marriage licenses, citing her religious beliefs, despite the Supreme Court's legalization of same-sex marriage. She has been ordered to comply by both the governor and a federal judge, but continues to resist, leading to a contempt of court hearing. Davis claims "God's authority" as her justification, ignoring her constitutional oath. Her stance has drawn support from conservative figures, including Republican presidential candidates like Mike Huckabee, Rand Paul, and Bobby Jindal, who applaud her defiance. Others, such as Carly Fiorina, have urged her to resign. If Davis is jailed for contempt, she could become a martyr figure, inspiring further defiance against the Constitution. END OF SUMMARY.

@@ -1,0 +1,42 @@
+Okay, so I need to help the user by summarizing the given news article while preserving the moral framing. The user has specified two main steps: first, identifying all single words that are morally framed, and second, writing a summary that includes as many of those words as possible. 
+
+Starting with the first step, I'll go through the article to pick out words that carry moral connotations. Words like "frustration," "practical," "humility," "trust," "respect," "restore," "together," "service," "background," "soar," "vocal," "attacks," "misbehavior," "tarnish," "disingenuous," "frivolous," "false," "defenses," "noise," "attractive," "option." These words seem to carry moral weight, reflecting values or judgments.
+
+Next, for the summary, I need to condense the article into 200 words, making sure to include these moral terms. The article is about Justin Amash announcing his exploratory committee for the Libertarian nomination. He's a former Republican, critical of Trump, and his potential candidacy could affect the election dynamics. I'll structure the summary to highlight his move, the reasons behind it, his values, and the implications for the election, using the moral words identified.
+
+I should ensure the summary flows logically, starting with his announcement, his motivations, his past actions, and the potential impact on the race. I'll also mention the perspectives from both Libertarians and Republicans, as well as the uncertainty about whether his candidacy would help Biden or Trump.
+
+I need to be concise but thorough, making sure each sentence adds value and includes the necessary moral framing. I'll avoid adding any personal opinions, just stick to the facts and the moral terms from the article.
+
+After drafting, I'll check the word count to make sure it's under 200 words. Also, I'll ensure that the summary starts with "SUMMARY:" and ends with "END OF SUMMARY." as per the instructions. 
+
+I think that's a solid approach. Now, I'll proceed to write the step-by-step explanation and then the summary.
+</think>
+
+**STEP 1:**
+
+* frustration  
+* practical  
+* humility  
+* trust  
+* respect  
+* restore  
+* together  
+* service  
+* background  
+* soar  
+* vocal  
+* attacks  
+* misbehavior  
+* tarnish  
+* disingenuous  
+* frivolous  
+* false  
+* defenses  
+* noise  
+* attractive  
+* option  
+
+**SUMMARY:**
+
+Rep. Justin Amash, a former Republican congressman from Michigan, has announced the launch of an exploratory committee to seek the Libertarian Party’s presidential nomination, signaling his strong intention to run as a third-party candidate. Amash, who has long advocated for libertarian values such as less government intervention and reduced federal spending, has gained national attention for his vocal criticism of President Trump. He left the GOP last summer, accusing Republicans of abandoning fiscal conservatism and failing to address Trump’s “misbehavior.” Amash’s potential candidacy has drawn interest from Libertarians and some “Never Trump” Republicans, with supporters viewing him as a potential “tipping point” candidate. His campaign could attract voters disillusioned with Trump or Biden, though it remains unclear whether his bid would primarily draw support away from Trump or Biden. Amash emphasizes the need for a presidency that restores respect for the Constitution and unites Americans, positioning himself as a candidate of humility and practical solutions. END OF SUMMARY.

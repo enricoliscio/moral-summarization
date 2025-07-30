@@ -1,0 +1,15 @@
+<think>
+Okay, so I need to help the user by summarizing a news article while preserving the moral framing the author used. The user is a news summarizer assistant and a moral expert, so they probably want an accurate and concise summary that reflects the original's tone and message.
+
+First, I'll read through the article to understand the main points. It's about China criticizing the US human rights report. China accuses the US of ignoring its own issues while criticizing others. They mention police abuses, poverty, racial discrimination, lack of personal safety, military interventions, and withdrawing from the Kyoto Protocol.
+
+I should note that the summary needs to be no longer than 200 words and should end with the specified tokens. I also need to make sure the moral framing is preserved, so I'll highlight how China is pointing out the US's hypocrisy.
+
+I'll structure the summary by stating that China released a report criticizing the US for ignoring its human rights issues while accusing others. Then list the main criticisms: police abuses, poverty, discrimination, lack of safety, military actions, and Kyoto withdrawal. Finally, mention that this is a response to the US report and that China accuses the US of hypocrisy.
+
+I should keep the language clear and concise, making sure each point is covered without going over the word limit. I'll also ensure the tone matches the original, which is critical of the US's approach to human rights.
+
+Let me put it all together, making sure each sentence flows logically and covers all key points succinctly.
+</think>
+
+SUMMARY: China has criticized the US human rights report, accusing the US of ignoring its own human rights issues while criticizing others. The Chinese report, released by the State Council's Information Office, highlighted police abuses, poverty, racial discrimination, and lack of personal safety in the US. It also accused the US of infringing on other nations' sovereignty through military operations and overseas troop deployments. Additionally, the report condemned the Bush administration for withdrawing from the Kyoto Protocol. China released the report in response to the US State Department's annual global human rights report, which often accuses China of human rights abuses. The Chinese report criticized the US for acting as a "world judge of human rights" while ignoring its own problems. END OF SUMMARY.

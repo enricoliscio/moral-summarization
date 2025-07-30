@@ -1,0 +1,13 @@
+<think>
+Alright, I need to help the user by summarizing this news article. The user has specified that I should return the summary after a "SUMMARY:" token and end with "END OF SUMMARY." Also, the summary should be no longer than 200 words. 
+
+First, I'll read through the article to understand the main points. The article talks about the Trump administration considering an order to block migrants at the southern border, using the same authority as the earlier travel ban. This would affect those seeking asylum. The administration is weighing options to prevent undocumented migrants from crossing, especially with the caravan from Central America approaching. There's mention of sending additional troops to the border and cutting off aid to Central American countries. Legal challenges and reactions from advocacy groups are also discussed.
+
+I need to condense this information into a concise summary. I'll start by identifying the key elements: the potential executive order, its impact on asylum seekers, the deployment of troops, the threat to cut aid, and the legal and political reactions.
+
+I should ensure the summary is clear and under 200 words. I'll structure it to include the main actions the administration is considering, the implications, and the responses from both supporters and critics. I'll avoid going into too much detail about each point to keep it concise.
+
+Now, putting it all together, I'll draft the summary, making sure to include all the essential points without exceeding the word limit. I'll check the word count to ensure compliance. Finally, I'll format it correctly with the specified tokens.
+</think>
+
+SUMMARY: The Trump administration is considering an executive order to block migrants at the southern border, using the same authority as its 2017 travel ban, which affected seven countries. This new order would deny asylum claims based on national security concerns, effectively barring those seeking asylum from entering the U.S. The administration is also planning to deploy additional troops to the border to support immigration enforcement. Trump has blamed Democrats for the caravan of Central American migrants and threatened to cut aid to Guatemala, Honduras, and El Salvador. Advocacy groups, such as the National Immigration Law Center and the American Civil Liberties Union, have vowed to challenge any such order, calling it a "moral failure." Legal experts note that while the Supreme Court upheld Trump’s previous travel ban, the new restrictions could face intense scrutiny. The administration’s actions are part of its efforts to address immigration ahead of the midterm elections. END OF SUMMARY.

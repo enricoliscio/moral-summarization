@@ -1,0 +1,16 @@
+Okay, so the user has provided a query where they want me to act as a news summarizer and a moral expert. The task is to summarize a given news article while preserving the moral framing that the author presented. The summary needs to be concise, under 200 words, and start with "SUMMARY:" and end with "END OF SUMMARY."
+
+First, I need to understand the content of the article. It's about President Cardoso discussing the challenges facing Hugo Chavez in Venezuela. The main points are reestablishing normalcy, opening communication channels, social harmony, Chavez's promise not to seek revenge against the military, and Jimmy Carter's support for dialogue.
+
+I should make sure the summary captures these elements. Since I'm also a moral expert, I need to maintain the moral tone. The article emphasizes peace, dialogue, and forgiveness, so the summary should reflect that without adding personal opinions.
+
+I'll start by identifying the key sentences and condensing them. I need to ensure that the summary is clear and within the word limit. Let me structure it to include Cardoso's advice, Chavez's commitment, Carter's support, and the focus on dialogue and social harmony.
+
+I should avoid any markdown and keep the language formal yet concise. I'll make sure each sentence in the summary flows logically, covering all main points without being too verbose.
+
+After drafting, I'll check the word count to ensure it's under 200 words. Also, I'll verify that the moral framing is preserved, highlighting Chavez's commitment to peace and Carter's endorsement as a positive step.
+
+Finally, I'll format the summary correctly, starting and ending with the specified tokens. Making sure it's accurate and maintains the original message's integrity.
+</think>
+
+SUMMARY: President Fernando Henrique Cardoso has stated that Hugo Chavez, the Venezuelan president, faces the primary challenge of reestablishing normalcy in the country after last week's conflicts. Cardoso emphasized the importance of opening communication channels and achieving social harmony. Chavez assured Cardoso that he has no intention of seeking revenge against military personnel involved in the failed coup attempt. Former U.S. President Jimmy Carter has expressed support for Chavez's commitment to dialogue and is expected to visit Venezuela soon. The focus remains on fostering peace, dialogue, and social unity in the region. END OF SUMMARY.

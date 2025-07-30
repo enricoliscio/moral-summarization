@@ -1,0 +1,32 @@
+Okay, so I need to help the user with their query. They provided a news article and specific instructions on how to process it. The user is asking me to act as a news summarizer and moral expert. My task is to first identify all the morally framed single words in the article, then create a summary that preserves those moral framings.
+
+First, I'll start by reading through the article to understand the context. It's about Republican senators pressuring their chairman, Michael Steele, over his comments on the Afghanistan war. Steele referred to it as "Obama's war" and suggested it might not be winnable. This caused a backlash, with some conservatives calling for his resignation. Senators like Jim DeMint and John McCain criticized Steele, and Steele tried to apologize but the controversy continued.
+
+Now, for step one, I need to identify all the single words that carry moral framing. I'll go through the article and pick out words that have strong moral connotations. Words like "pressure," "apologize," "backlash," "resignation," "unacceptable," "inaccurate," "refocus," "wildly inaccurate," "apologize," "support," "clear up," "controversy," and "charge." These words indicate blame, responsibility, and the need for correction, which are moral in nature.
+
+Next, I'll move on to summarizing the article. I need to make sure the summary includes as many of these morally framed words as possible while keeping it concise, under 200 words. I'll structure the summary to highlight the key points: the senators pressuring Steele, the nature of his comments, the reactions from DeMint and McCain, Steele's attempt to apologize, and the ongoing controversy.
+
+I should ensure that the summary flows well and captures the essence of the moral framing. I'll start by stating the pressure on Steele, mention the specific comments, the reactions from the senators, Steele's response, and the unresolved issue. I'll make sure to include words like "pressure," "apologize," "backlash," "resignation," "unacceptable," "inaccurate," and "controversy" to maintain the moral tone.
+
+I also need to be careful not to add any personal opinions or interpretations beyond what's stated in the article. The goal is to present a factual summary that reflects the moral framing as it was presented in the original text.
+
+Finally, I'll review the summary to ensure it meets the word limit and that all key points are included. I'll check that each morally framed word is appropriately placed and that the summary accurately reflects the article's content and tone.
+</think>
+
+**STEP 1:**  
+* Pressure  
+* Apologize  
+* Backlash  
+* Resignation  
+* Unacceptable  
+* Inaccurate  
+* Refocus  
+* Wildly inaccurate  
+* Apologize  
+* Support  
+* Clear up  
+* Controversy  
+* Charge  
+
+**SUMMARY:**  
+Republican senators criticized RNC Chairman Michael Steele for his remarks calling Afghanistan a "war of Obama's choosing" and suggesting it may not be winnable. They demanded an apology, with Sen. Jim DeMint stating Steele must apologize to the troops, as it is "America's war." Steele's comments were deemed "unacceptable" and "inaccurate" by DeMint, who emphasized the need for a chairman focused on the November election. Sen. John McCain called Steele's remarks "wildly inaccurate" and questioned his ability to continue in his role. Steele issued a statement apologizing and reaffirming the need to support troops, but the controversy persisted. Conservatives, including Weekly Standard Editor Bill Kristol, continued to call for Steele's resignation. END OF SUMMARY.

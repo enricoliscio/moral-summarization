@@ -1,0 +1,29 @@
+Alright, let me try to figure out how to approach this query. The user has provided a news article and wants me to act as a news summarizer and moral expert. They've specified two main tasks: first, identifying all the single words that are morally framed, and second, summarizing the article while preserving those moral framings.
+
+Starting with the first task, I need to go through the article and pick out words that carry moral connotations. These are words that imply judgment or evaluation, like "dysfunctional," "credibility," "costs," "problems," "failure," etc. I should list each of these words, each on a new line, prefixed with an asterisk.
+
+For the second task, I need to summarize the article in a concise manner, ensuring that I include as many of these morally framed words as possible. The summary should be under 200 words and follow the specified format, starting with "SUMMARY:" and ending with "END OF SUMMARY."
+
+I should also make sure that the summary accurately reflects the article's content, highlighting the transition from Goldin's leadership to O'Keefe, the issues with the space station's costs, and the implications for NASA's future. It's important to maintain the moral framing to convey the article's critical perspective on NASA's current state and the challenges ahead.
+
+I'll start by reading the article carefully to identify the key points and the moral terms used. Then, I'll compile the list of morally framed words. After that, I'll craft a summary that weaves these words into a coherent and concise overview, ensuring it meets the word limit and formatting requirements.
+
+I need to be thorough in identifying all the moral terms, as missing any could affect the accuracy of the summary. Also, I must ensure that the summary flows well and accurately represents the article's message, especially regarding the shift in NASA's leadership and the fiscal challenges they face.
+
+Once I have both parts ready, I'll present them as per the user's instructions, making sure to follow the specified format precisely.
+</think>
+
+**STEP 1:**  
+* dysfunctional  
+* credibility  
+* costs  
+* problem  
+* failure  
+* opposition  
+* violations  
+* international agreements  
+* neat stuff  
+* clean up its act  
+
+**SUMMARY:**  
+NASA faces a new era as it bids farewell to administrator Daniel Goldin, who oversaw a decade of missions but left the agency with soaring costs and a dysfunctional reputation. President Bush has nominated Sean O'Keefe, a budget expert, to replace Goldin, signaling a shift from visionary space exploration to fiscal accountability. Under Goldin, NASA achieved milestones like discovering water on the moon and expanding Mars exploration, but the International Space Station's costs ballooned, eroding credibility. The agency's manned spaceflight program has struggled, with the station's budget exceeding initial estimates and facing criticism for lack of credibility. O'Keefe's appointment aims to address these issues, but his focus on cost-cutting may strain international partnerships. Analysts compare him to James Webb, who led NASA during the Apollo era, but note the agency's objectives have become less visionary over time. O'Keefe's task is to fix the space station's fiscal problems, which may require balancing accounting skills with diplomacy. His leadership could determine whether NASA regains credibility or remains mired in dysfunction. END OF SUMMARY.

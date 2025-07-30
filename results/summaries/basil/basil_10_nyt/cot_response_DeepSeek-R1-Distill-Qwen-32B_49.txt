@@ -1,0 +1,29 @@
+Okay, so I'm trying to figure out how to approach this query. The user wants me to act as a news summarizer assistant and a moral expert. They provided a news article and specific instructions on how to process it. Let me break it down.
+
+First, the user wants me to identify all the single words in the article that are morally framed. They mentioned that this is step 1 and each word should be listed with an asterisk. I need to read through the article carefully to spot words that carry moral implications. Words like "expanded," "unconstitutional," "exceeded," "rights," "freedom," "sovereignty," "liberty," "equality," "fairness," "transparency," and "accountability" come to mind. These terms are often used in moral or ethical contexts, so they fit the criteria.
+
+Next, the user wants a summary of the news article that preserves as many of these morally framed words as possible. The summary should be concise, no more than 200 words, and should start with "SUMMARY:" and end with "END OF SUMMARY." I need to ensure that the summary captures the key points of the article while incorporating those moral terms.
+
+The article talks about the 112th Congress reading the Constitution aloud, the initial disagreements between Democrats and Republicans, and the underlying reasons, including the Tea Party's influence. I should highlight the moral aspects, such as the debate over federal powers, the expansion of government, and the emphasis on constitutional limits. Mentioning the repeal of the healthcare law ties into the constitutional basis argument, which is a moral stance on government overreach.
+
+I also need to note the historical context, like the previous readings of the Constitution in 1882 and 1915, to show the significance of this event. The summary should reflect the partisan battles and the symbolic nature of the reading, emphasizing the moral framing around constitutional principles.
+
+Putting it all together, I'll structure the summary to include the key events, the moral terms identified, and the underlying motivations, ensuring it's within the word limit and flows naturally.
+</think>
+
+**STEP 1:**  
+* Expanded  
+* unconstitutional  
+* exceeded  
+* rights  
+* freedom  
+* sovereignty  
+* liberty  
+* equality  
+* fairness  
+* transparency  
+* accountability  
+
+**SUMMARY:**  
+The 112th Congress began its session by reading the U.S. Constitution aloud, a symbolic act aimed at emphasizing constitutional principles and limiting federal overreach. The reading was contentious, with Democrats questioning the process, while Republicans highlighted the need to adhere to constitutional limits. The event, proposed by Representative Robert W. Goodlatte, was seen as a nod to the Tea Party movement, which emphasizes strict constitutional governance. The reading excluded superseded sections, avoiding controversial references like slavery. The act was intended to educate lawmakers and constituents about the Constitution’s role in governing federal powers. The session also coincided with efforts to repeal the healthcare law, which critics argue lacks constitutional basis. This marked the first time the full Constitution was read aloud on the House floor, with historical precedents in 1882 and 1915. The event underscored partisan battles over constitutional interpretation and the importance of adhering to foundational principles.  
+**END OF SUMMARY.**

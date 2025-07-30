@@ -1,0 +1,14 @@
+Okay, so I need to help the user by summarizing this news article while preserving the moral framing. The user provided the article and a list of morally framed words that should be included. The summary needs to be under 200 words and should end with specific tokens.
+
+First, I'll read through the article to understand the main points. The article talks about Texas Governor Greg Abbott refusing to accept refugees, which sparked criticism from various groups. The author argues against mass migration, suggesting it harms both origin and destination countries. They also discuss the moral implications and the clash between different viewpoints.
+
+I need to identify the key morally charged words from the list that are used in the article. Words like "decline," "inhumane," "violates," "wrong," "xenophobia," "close," "safety," "welcoming," "war," "persecution," "migration," "die," "strain," "stuck," "pathologies," "encourage," "wrong," "betraying," "fleeing," "invasion," "ceases."
+
+Now, I'll structure the summary. It should start by mentioning Abbott's decision and the criticism it received. Then, highlight the author's argument against mass migration, the impact on both countries, and the moral debate. I'll make sure to include the key moral words and keep the summary concise.
+
+I need to ensure the summary doesn't exceed 200 words. Let me draft it, making sure to include all the necessary points and moral framing. I'll check each sentence to see if it's conveying the author's stance and using the right terminology.
+
+Finally, I'll make sure the summary starts with "SUMMARY:" and ends with "END OF SUMMARY." without any markdown. I should avoid any additional explanations and stick strictly to the summary as per the user's instructions.
+</think>
+
+SUMMARY: Texas Governor Greg Abbott became the first GOP governor to decline refugee resettlement, citing the "disproportionate" impact on his state and a "responsibility" to focus on those already there. His decision sparked outrage, with critics labeling it "inhumane," "morally wrong," and driven by "xenophobia." The author argues that mass migration strains destination countries and harms origin countries by removing their best people, leading to a "worse" global situation. They question the morality of prioritizing refugees over the homeless in one's own country and warn against the potential "invasion" of socialist-leaning voters, which could "cease" America's identity. The author advocates for helping people in their homelands rather than encouraging migration, while critics accuse them of conflating refugees and immigrants. The debate over "welcoming" those fleeing "war" and "persecution" highlights clashing views on "American values" and the "true moral course." END OF SUMMARY.

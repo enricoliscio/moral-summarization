@@ -1,0 +1,20 @@
+Okay, so the user has provided a detailed news article about the El Paso shooting and wants a summary. They specified that the summary should be after a "SUMMARY:" token and end with "END OF SUMMARY." Also, it should be no longer than 200 words. 
+
+First, I need to read through the article to understand the key points. The main points seem to be the indictment of Patrick Crusius for capital murder, the details of the shooting, his motives, the political implications, and the subsequent shootings in Ohio and Texas. 
+
+I should start by identifying the most important information: Crusius was indicted, the number of casualties, his motive related to targeting Mexicans, the connection to President Trump's rhetoric, and the reactions from both sides. Also, the mention of hate crime charges and the political response, including Texas Governor Greg Abbott's actions and reactions, are important.
+
+I need to condense this information into a concise summary, making sure not to exceed 200 words. I should focus on the essential details: who, what, when, where, why, and the consequences. It's important to mention the indictment, the death penalty, the motive, the political debate, and the other shootings that followed.
+
+I should also note the reactions from both Trump and the El Paso residents, as well as the political fallout, including Abbott's response and the gun control debate. Including the fact that Crusius was targeting Mexicans and the document he wrote will show his motive clearly.
+
+I need to ensure the summary flows logically, starting with the indictment, moving to the shooting details, then the motives, the political implications, the subsequent events, and ending with the political responses and the status of the case.
+
+I should avoid including too much about the other shootings but mention them briefly to show the context of the mass shootings in that period. Also, highlighting the survivors' vigils and the legal proceedings adds depth to the summary.
+
+Finally, I'll structure the summary to cover all these points succinctly, making sure each sentence adds value without unnecessary details. I'll check the word count to stay within the limit.
+</think>
+
+SUMMARY:  
+A 21-year-old man, Patrick Crusius, has been indicted for capital murder in connection with the August 3 mass shooting at a Walmart in El Paso, Texas, which left 22 people dead. Crusius, who surrendered to police after the attack, allegedly targeted Mexicans and wrote a manifesto blaming the "Hispanic invasion of Texas." El Paso prosecutors are seeking the death penalty, while his defense team aims to prevent execution. Texas Gov. Greg Abbott responded with a simple "good" to the indictment. Crusius drove over 10 hours from his hometown near Dallas to carry out the attack, which predominantly affected the Latino community. Federal authorities are considering hate-crime charges. The shooting sparked nationwide debate over immigration and gun control, with critics linking it to President Trump's rhetoric. Survivors held vigils, while Crusius remains isolated in jail. The attack was followed by two other mass shootings in Ohio and Texas, though the perpetrators in those cases were killed by police. Texas lawmakers have faced criticism for failing to implement stricter gun-control measures.  
+END OF SUMMARY.

@@ -1,0 +1,28 @@
+Okay, so I need to help the user with summarizing a news article while preserving the moral framing. The user has provided a detailed query with specific steps. First, I need to identify all the single words that are morally framed in the text. Then, I have to write a concise summary using those words.
+
+Looking at the article, I see words like "explosive," "allegation," "collusion," "lied," "fraud," "secrets," "dirty work," "corroborate," "indictment," "deny," "deception," and "controversy." These words carry moral connotations, so I'll list them as STEP 1.
+
+Next, for the summary, I need to condense the article, making sure to include these morally framed words. I'll start by mentioning Cohen's testimony and the key points he brings up, like the call with Stone and Trump, the hush money, and the various allegations. I should also note Cohen's background and the implications of his testimony. Keeping it under 200 words, I'll ensure the summary is clear and includes the necessary moral terms.
+
+I need to make sure the summary flows well and accurately represents the article's content while highlighting the moral aspects. I'll structure it to first introduce Cohen and his testimony, then outline the main allegations, and conclude with the potential impact of his statements. This way, the summary remains informative and maintains the moral framing as required.
+</think>
+
+**STEP 1:**
+
+\*explosive  
+\*allegation  
+\*collusion  
+\*lied  
+\*fraud  
+\*secrets  
+\*dirty work  
+\*corroborate  
+\*indictment  
+\*deny  
+\*deception  
+\*controversy  
+
+**SUMMARY:**  
+
+Michael Cohen, former attorney to President Trump, is set to testify before the House Oversight Committee, making explosive claims about Trump's awareness of WikiLeaks' plans to release hacked emails during the 2016 campaign. Cohen alleges he overheard Trump discussing WikiLeaks with Roger Stone, suggesting Stone claimed to have spoken directly with Julian Assange about releasing damaging emails against Hillary Clinton. Cohen also claims Trump encouraged misleading statements about the Trump Tower Moscow project, admitted to hush money payments to Stormy Daniels, and made racist remarks in private. While Cohen has no direct evidence of collusion, his testimony adds to the controversy surrounding Trump's potential knowledge of WikiLeaks' actions. Cohen, who has already admitted to lying to Congress and pleaded guilty to financial crimes, faces challenges in corroborating his claims. His testimony promises to be a major moment in the ongoing investigation into Trump's ties to Russia.  
+**END OF SUMMARY.**

@@ -1,0 +1,28 @@
+Okay, so I need to help the user with this query. They provided a news article and specific instructions on how to process it. Let me break it down step by step.
+
+First, the user wants me to act as a news summarizer and a moral expert. My task is to summarize the article while preserving the moral framing the author used. They've given a clear structure: identify morally framed words in STEP 1, each on a new line with a star, and then write a concise summary in STEP 2, making sure to include those moral terms.
+
+Looking at the article, it's about Representative Bruce Braley making a gaffe during a fundraiser. He criticized a potential Republican chairman of the Judiciary Committee, which backfired because the mic was on. The article mentions farmers, law school, qualifications, apology, family history, agriculture, working class, credentials, pork, and qualifications again. These words carry moral weight because they relate to respect, qualifications, and fairness.
+
+I need to list each of these words under STEP 1, each on a new line with an asterisk. Then, for the summary, I have to condense the article into under 200 words, making sure to include these moral terms. I should highlight the mistake, the criticism, the apology, and the broader implications for the campaign, especially focusing on how farmers are a key constituency.
+
+I should ensure the summary flows naturally, keeping it clear and concise while emphasizing the moral aspects. It's important to mention how the incident reflects on the candidates' qualifications and the impact on the election, especially in Iowa where farmers are influential.
+
+I think I've got all the elements covered. Now, I'll structure the response as per the user's instructions, making sure to follow the formatting exactly. I'll start with STEP 1, list each word, and then write the summary, ending with the specified tokens.
+</think>
+
+**STEP 1:**  
+* Farmer  
+* Law school  
+* Qualifications  
+* Apology  
+* Family history  
+* Agriculture  
+* Working class  
+* Credentials  
+* Pork  
+* Qualifications  
+
+**SUMMARY:**  
+Representative Bruce Braley, a Democrat running for Senate in Iowa, faced backlash after a leaked video revealed him criticizing Senator Charles Grassley, a Republican, for not having a law background. Braley apologized, acknowledging his family’s ties to Iowa agriculture and his own farm work experience. Grassley, a powerful figure in the Judiciary Committee, could become chairman if Republicans win the Senate. The incident highlights the political risks of mic gaffes and the importance of farmers in Iowa’s elections. Meanwhile, Republican candidate Joni Ernst emphasized her farm background, positioning herself as a working-class leader. The episode underscores the role of qualifications and rural values in the race.  
+**END OF SUMMARY.**

@@ -1,0 +1,41 @@
+Okay, so I'm trying to figure out how to approach this query. The user has provided a news article and wants me to act as a news summarizer assistant and a moral expert. They've given specific instructions: first, identify all the single words that are morally framed, and then write a summary preserving the moral framing.
+
+First, I need to understand what "morally framed" words mean. These are words that carry a moral connotation, like "violation," "excessive," "fundamental," "abuses," etc. They indicate right or wrong, good or bad, in the context.
+
+Looking at the article, I'll go through each sentence and pick out words that have moral implications. For example, "violation" of human rights is a clear moral term. "Excessive steps" implies something wrong. "Fundamental freedoms" and "legitimate dissent" also carry moral weight because they're about basic rights and justice.
+
+Next, I need to list each of these words, each on a new line starting with a star. I have to make sure I don't miss any. I'll go through the article paragraph by paragraph.
+
+Once I've listed all the morally framed words, the next step is to write a concise summary. The summary should be under 200 words and include as many of those moral terms as possible. I need to make sure the summary captures the essence of the article, which is the concern from international organizations about human rights in the fight against terrorism.
+
+I should structure the summary by mentioning the organizations, their concern about terrorism measures not violating rights, the specific rights they highlighted, and the context like the British legislation and the prison incident. I need to keep it clear and concise, ensuring all key moral points are included without going over the word limit.
+
+I also need to remember to start the summary after the "SUMMARY:" token and end with "END OF SUMMARY." I should avoid any markdown and keep the language formal but straightforward.
+
+I think I've got a good grasp on this. I'll proceed to list the words first, then craft the summary, making sure to include all the necessary moral terms and maintain the article's moral framing.
+</think>
+
+**STEP 1:**  
+* violation  
+* excessive  
+* fundamental  
+* undermine  
+* legitimate  
+* obligations  
+* adhere  
+* essential  
+* undermine  
+* legitimate  
+* undermine  
+* essential  
+* legitimate  
+* undermine  
+* legitimate  
+* undermine  
+* undermine  
+* undermine  
+* undermine  
+* undermine  
+
+**SUMMARY:**  
+Three international organizations—the Council of Europe, the OSCE, and the UN High Commissioner for Human Rights—warned that the fight against terrorism must not justify human rights violations. They expressed concern over recent developments, particularly after the September 11 attacks, urging governments to avoid excessive measures that could infringe on fundamental freedoms and legitimate dissent. The organizations emphasized the importance of balancing national security with human rights, citing the right to life, freedom of expression, religion, and freedom from torture. They also opposed retroactive imposition of harsher penalties. The statement came amid criticism of British emergency legislation allowing detention without trial and the tragic killings of Taliban inmates in Afghanistan. The groups stressed the need to uphold international law commitments while combating terrorism. END OF SUMMARY.

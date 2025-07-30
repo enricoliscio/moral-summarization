@@ -1,0 +1,15 @@
+<think>
+Okay, so I need to help the user by summarizing a news article while preserving the moral framing the author used. Let me start by reading the article carefully.
+
+The article is about Pakistan's government rejecting a US human rights report, calling it inaccurate. They list several initiatives they've taken, like laws for children, women's rights, and labor reforms. The user provided a list of morally framed words that should be included in the summary.
+
+First, I'll identify the key points: Pakistan's rejection of the report, the initiatives they've taken, and their criticism of the US's judgmental approach. I need to use as many of the provided moral words as possible without making the summary too long.
+
+I'll structure the summary to mention Pakistan's rejection, the inaccuracies in the report, and their list of positive actions. I should include words like "fails," "initiatives," "promote," "protect," "achieved," "ignored," etc.
+
+I should also highlight their achievements and the report's misstatement. It's important to show that Pakistan feels their efforts are being ignored and that the report is unfair.
+
+Now, I'll draft the summary, making sure it's concise and includes the moral terms. I'll keep it under 200 words and end with the specified tokens.
+</think>
+
+SUMMARY: The Pakistani government rejected the US State Department's human rights report, labeling it "factually inaccurate and unwarranted." The report was criticized for failing to acknowledge Pakistan's significant measures and initiatives to promote and protect human rights. The government highlighted its achievements, including the promulgation of the Juvenile Justice System Ordinance, establishment of a permanent commission on women's status, police and jail reforms, and a national plan to eliminate child labor. Pakistan also amended the Citizenship Act to enable women to claim nationality for their children and ratified key international conventions on human rights. Despite these developments, the report stated Pakistan's human rights record remained poor, which the government termed a "gross misstatement of the facts." The government emphasized its commitment to cooperation and understanding in addressing human rights challenges, rejecting the tendency of some states to sit in judgment over others. END OF SUMMARY.

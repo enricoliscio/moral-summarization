@@ -1,0 +1,67 @@
+Okay, so I'm trying to figure out how to approach this user's query. They want me to summarize a news article while preserving the moral framing. The article is about Donald Trump's campaign events and the moral issues surrounding his behavior and statements.
+
+First, the user provided a specific structure: identify morally framed words in STEP 1, each on a new line with an asterisk. Then, write a concise summary that includes as many of those words as possible, ending with the specified tokens.
+
+I need to make sure I understand what morally framed words are. These are words that carry a judgment or imply a moral stance, like "groping," "sexual assault," "controversy," etc. I'll go through the article and pick out each of these words, listing them under STEP 1.
+
+Next, for the summary, I have to condense the article into 200 words, keeping the moral elements intact. I should focus on Trump's actions, his supporters' reactions, the impact on his campaign, and the moral criticisms from opponents and within his party.
+
+I should also ensure the summary flows logically, covering key points like the groping tape, Republican defections, Trump's rallies, his statements about Clinton, the Benghazi issue, support from Russia, and McCain's withdrawal of support. I need to keep the language clear and concise, making sure each morally framed word is included where appropriate.
+
+I have to be careful not to add any personal opinions, just stick to summarizing the article's content with the moral framing preserved. I'll structure the summary to highlight Trump's defiance, the controversy around his comments, the support from his base, and the challenges he's facing from within his party and the polls.
+
+Alright, I think I've got a good plan. I'll start by listing all the morally framed words, then craft a summary that weaves them in naturally, ensuring it's under 200 words and captures the essence of the article's moral narrative.
+</think>
+
+### STEP 1:  
+* groping  
+* sexual assault  
+* Republican defections  
+* plummeting poll ratings  
+* offensive comments  
+* controversy  
+* lock her up  
+* WikiLeaks  
+* special prosecutor  
+* crimes  
+* Benghazi  
+* Clinton  
+* Blumenthal  
+* legitimate  
+* failed to protect  
+* phony  
+*locker room talk  
+* hostile stance  
+* jail  
+* insurrectionary campaign  
+* wall  
+* Mexicans  
+* jobs  
+* taxes  
+* government regulation  
+* braggadocio  
+* political correctness  
+* hothouse atmosphere  
+* Republican nominee  
+* campaign trouble  
+* profound unease  
+* senior Republicans  
+* dump  
+* defend  
+* campaign  
+* Clinton lead  
+* swing states  
+* solidifying lead  
+* Obama  
+* McCain  
+* prisoner of war  
+* disparaging  
+* demeans  
+* conservative Republican  
+* Lindsey Graham  
+
+---
+
+### SUMMARY:  
+Donald Trump defied the spiraling disaster of the groping tape, Republican defections, and plummeting poll ratings during a rally in Wilkes-Barre, Pennsylvania. He avoided addressing the offensive comments that led to defections and instead focused on his promise to appoint a special prosecutor to investigate Hillary Clinton. His supporters chanted "Lock her up!" as he praised WikiLeaks, which had released documents hacked from Clinton's campaign chairman. Trump erroneously cited a WikiLeaks document to accuse Clinton of failing to protect American personnel in Benghazi, a claim later debunked. His campaign remained in trouble as senior Republicans, including Paul Ryan, distanced themselves from him. Trump's "locker room talk" defense and Giuliani's jokes about Clinton further fueled controversy. Meanwhile, Clinton solidified her lead in key swing states, with Obama and McCain also distancing themselves from Trump, citing his offensive remarks and hostile stance toward women and others. Trump's insurrectionary campaign continued to face mounting challenges.  
+END OF SUMMARY.

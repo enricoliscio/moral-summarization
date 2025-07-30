@@ -1,0 +1,15 @@
+<think>
+Okay, I need to help the user summarize this news article while preserving the moral framing. First, I'll read through the article to understand the main points. It's about Adam Schiff being criticized by Republicans, especially over his handling of the Russia investigation. 
+
+The user mentioned specific morally charged words that should be included, like "damaged," "lying," "leaking," etc. I need to make sure these are included in the summary. 
+
+I should start by identifying the key events: Schiff defending his position, the contacts with Russia, the Mueller report findings, and the internal conflicts within the committee. 
+
+I'll structure the summary to highlight Schiff's defense, the accusations against him, and the ongoing divisions. I need to keep it concise, under 200 words, and ensure it captures the moral aspects without losing the essence of the article.
+
+Let me draft the summary, making sure to incorporate those moral terms and maintain the original framing. I'll check the word count to stay within the limit. 
+
+Finally, I'll format it with the "SUMMARY:" and "END OF SUMMARY." tokens as requested.
+</think>
+
+SUMMARY: House Intelligence Committee Chairman Adam Schiff faced criticism from Republicans, including calls for his resignation, over his handling of the investigation into alleged Russian interference in the 2016 election. Schiff defended his work, emphasizing that contacts between the Trump campaign and Russia were "not OK" and rejecting claims that the president's son being offered "dirt" was acceptable. Republicans accused Schiff of promoting a "demonstrably false" narrative, damaging the panel's integrity, and misrepresenting classified information. They also criticized his leadership, with Rep. Mike Conaway stating Schiff had lost confidence in the panel. Meanwhile, Democrats defended Schiff, calling Republican attacks an "ambush" and "cheap-shot." The hearing highlighted partisan divisions, with Republicans likening Schiff to Joseph McCarthy and accusing him of advancing Russian interests. Schiff, however, plans to continue the investigation into Trump's ties to Russia, despite GOP claims that the Mueller report exonerated Trump of collusion. The committee remains a flashpoint of conflict, with Republicans accusing Schiff of abusing his power and Democrats accusing GOP members of undermining the investigation. END OF SUMMARY.

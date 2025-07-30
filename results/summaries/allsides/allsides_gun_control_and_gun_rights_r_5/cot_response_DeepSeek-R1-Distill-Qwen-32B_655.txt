@@ -1,0 +1,91 @@
+Alright, I need to tackle this query. The user has provided a detailed news article and specific instructions on how to process it. They want me to act as a news summarizer and a moral expert. The task involves two main steps: identifying morally framed words and then summarizing the article while preserving those moral terms.
+
+First, I'll read through the article carefully to understand the context. It's about NYC Mayor Bloomberg's efforts regarding gun control and the "stop and frisk" policy. The article discusses the policy's impact, legal challenges, and the mayor's stance against the NRA. There's also mention of the City Council overriding his veto and the moral implications of the policy.
+
+For Step 1, I need to identify all single words that carry moral framing. I'll go through each sentence, looking for words that express approval, disapproval, or ethical considerations. Words like "bans," "criminals," "policing," "stop and frisk," "success," "blame," "overrode," "veto," "inspector general," "tactics," "sue," "racial profiling," "benefited," "reduction," "judge," "violation," "Fourth Amendment," "appeal," "ignored," "precedents," "legal," "illegal," "saved," "lives," "color," "safest," "enforcement," "Chicago," "accustomed," "blaming," "NRA," "evils," "link," "plaintiffs," "lawsuits," "priority," "protecting," "ideology," "trump," "right," "citizens," "blown away," "wrong," "agenda," "restrictions," "out of order," "bogeyman," "unrelated," "defending," "innocent," "false," "impression," "advocacy," "grabbing," "proven," "safer," "tougher," "sentencing," "prosecuting," "reduced," "banning," "magazine," "pistol grip," "absurd," "racist," "disgust," "law-abiding."
+
+I'll list each of these words, each on a new line starting with an asterisk.
+
+Next, for the summary, I need to condense the article into 200 words, ensuring I include as many of these morally framed words as possible. The summary should capture the main points: Bloomberg's gun control efforts, the stop and frisk policy's legal issues, the City Council's actions, the impact on crime rates, and the debate over the NRA's role.
+
+I'll structure the summary to highlight Bloomberg's spending, the policy's effectiveness, the legal challenges, the City Council's override, the judge's ruling, and the opposing views on the policy and the NRA. I'll make sure to include terms like "bans," "criminals," "policing," "stop and frisk," "success," "blame," "overrode," "veto," "inspector general," "tactics," "sue," "racial profiling," "benefited," "reduction," "judge," "violation," "Fourth Amendment," "appeal," "ignored," "precedents," "legal," "illegal," "saved," "lives," "color," "safest," "enforcement," "Chicago," "accustomed," "blaming," "NRA," "evils," "link," "plaintiffs," "lawsuits," "priority," "protecting," "ideology," "trump," "right," "citizens," "blown away," "wrong," "agenda," "restrictions," "out of order," "bogeyman," "unrelated," "defending," "innocent," "false," "impression," "advocacy," "grabbing," "proven," "safer," "tougher," "sentencing," "prosecuting," "reduced," "banning," "magazine," "pistol grip," "absurd," "racist," "disgust," "law-abiding."
+
+I need to ensure the summary flows logically, maintaining the moral framing without making it too verbose. I'll check the word count to stay within 200 words. 
+
+Finally, I'll present the summary after the "SUMMARY:" token and end with "END OF SUMMARY." I'll make sure the formatting is correct, with each step clearly labeled and the summary concise yet comprehensive.
+</think>
+
+**STEP 1:**
+
+* Bans  
+* Criminals  
+* Policing  
+* Stop and frisk  
+* Success  
+* Blame  
+* Overrode  
+* Veto  
+* Inspector general  
+* Tactics  
+* Sue  
+* Racial profiling  
+* Benefited  
+* Reduction  
+* Judge  
+* Violation  
+* Fourth Amendment  
+* Appeal  
+* Ignored  
+* Precedents  
+* Legal  
+* Illegal  
+* Saved  
+* Lives  
+* Color  
+* Safest  
+* Enforcement  
+* Chicago  
+* Accustomed  
+* Blaming  
+* NRA  
+* Evils  
+* Link  
+* Plaintiffs  
+* Lawsuits  
+* Priority  
+* Protecting  
+* Ideology  
+* Trump  
+* Right  
+* Citizens  
+* Blown away  
+* Wrong  
+* Agenda  
+* Restrictions  
+* Out of order  
+* Bogeyman  
+* Unrelated  
+* Defending  
+* Innocent  
+* False  
+* Impression  
+* Advocacy  
+* Grabbing  
+* Proven  
+* Safer  
+* Tougher  
+* Sentencing  
+* Prosecuting  
+* Reduced  
+* Banning  
+* Magazine  
+* Pistol grip  
+* Absurd  
+* Racist  
+* Disgust  
+* Law-abiding  
+
+---
+
+**SUMMARY:**  
+New York City Mayor Michael Bloomberg has spent millions advocating for gun bans and using "stop and frisk" tactics to reduce crime, despite legal challenges and accusations of racial profiling. The City Council recently overrode his veto to create an inspector general to oversee such tactics and allow lawsuits for racial profiling. Bloomberg claims this will put minorities at higher risk, arguing stop and frisk has saved lives and reduced crime. Critics, including Mike Long of the Conservative Party, support the policy, calling it a proven tool for safety. Bloomberg also blames the NRA for opposing gun control, but the NRA has not taken an official stance on stop and frisk. The article highlights the moral debate over balancing public safety with individual rights, as Bloomberg faces criticism for his aggressive tactics and rhetoric. The federal appeals court is expected to rule on whether the stop and frisk policy is unconstitutional. END OF SUMMARY.

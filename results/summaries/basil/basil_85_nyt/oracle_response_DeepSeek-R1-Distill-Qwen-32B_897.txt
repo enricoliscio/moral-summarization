@@ -1,0 +1,14 @@
+Alright, so I've got this query where the user wants me to summarize a news article while preserving the moral framing the author used. They provided the article and a list of morally framed words. The summary needs to be concise, under 200 words, and include as many of those words as possible.
+
+First, I need to understand the article's main points. It's about President Trump accusing social media of discriminating against conservatives, hinting at intervention. He mentions censorship and China's role in election interference. Social media companies are removing problematic content, especially from Alex Jones. The author uses words like "discriminating," "censorship," "dangerous," etc.
+
+I should start by identifying the key events: Trump's tweets, the removal of Jones' content, the call for intervention, and the mention of China. I need to incorporate the moral words without making the summary too long.
+
+I'll structure the summary to mention Trump's accusations, the companies' actions, the request to block censorship, the call to look at China, and Trump's stance on free speech versus his attacks on media. I'll make sure to use as many of the listed words as possible without forcing them in.
+
+I also need to keep the tone consistent with the original article's framing, ensuring that the moral implications are clear. Let me draft the summary, making sure each sentence includes relevant moral terms and stays within the word limit.
+
+After drafting, I'll check to ensure all important points are covered and that the moral words are appropriately included. If any words are missing or the summary is too long, I'll adjust accordingly. Finally, I'll make sure it starts with "SUMMARY:" and ends with "END OF SUMMARY."
+</think>
+
+SUMMARY: President Trump accused social media platforms of discriminating against conservative voices, warning against censorship and hinting at potential intervention to protect Republican accounts. He criticized the platforms for their role in promoting division and misinformation, particularly during the midterm elections. Social media companies have banned accounts, including those linked to Alex Jones, for hateful and violent speech. Jones, in turn, urged Trump to block censorship and highlight China’s alleged infiltration of the election system. Trump responded by calling for a broader focus on China, while also advocating for free participation on social media, even for controversial figures. Despite his stance, Trump has consistently attacked traditional media, displaying hostility toward press freedoms. The article highlights tensions between free speech, censorship, and the responsibility of platforms to regulate harmful content. END OF SUMMARY.

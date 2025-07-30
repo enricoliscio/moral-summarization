@@ -1,0 +1,13 @@
+<think>
+Okay, I need to help the user summarize a news article while preserving the moral framing. The user provided the article and specified that the word "scandals" should be included. First, I'll read the article to understand the main points.
+
+The article is about Chris Christie announcing his candidacy for the 2016 presidency. He's facing challenges like low poll numbers, fundraising issues, and scandals. The author mentions that his status as the establishment favorite has faded because of these issues and donors moving to other candidates like Jeb Bush. However, the article also highlights his strong personality and town hall performances as assets.
+
+I need to make sure the summary includes "scandals" and other morally framed terms if present. The user only highlighted "scandals," so I'll focus on that. I should structure the summary to mention his announcement, the challenges he's facing, including the scandals, and his potential strengths.
+
+I'll start by stating he's announcing his candidacy. Then, mention the uphill battle due to low polls and fundraising. Include the scandals and the loss of donors. Then, balance it by noting his personality and town hall skills. Keep it concise, under 200 words, and end with the specified tokens.
+
+Let me draft this, ensuring it's clear and includes all necessary points without being too detailed. I'll make sure to use "scandals" as per the user's request and keep the moral framing intact.
+</think>
+
+SUMMARY: New Jersey Governor Chris Christie is set to announce his candidacy for the 2016 presidency, despite facing significant challenges. His campaign is uphill due to low poll numbers, a fundraising deficit, and scandals that have diminished his status as the GOP establishment favorite. Many major donors have shifted their support to rivals like Jeb Bush. However, Christie’s brash and combative personality, honed through town hall meetings, remains a key asset, captivating audiences and leaving a lasting impression, even if it polarizes some. END OF SUMMARY.

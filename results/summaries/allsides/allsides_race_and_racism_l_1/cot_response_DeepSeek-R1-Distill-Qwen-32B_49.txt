@@ -1,0 +1,46 @@
+Okay, so I need to help the user with their query. They provided a news article and specific instructions on how to process it. Let me break down what they're asking for.
+
+First, they want me to act as a news summarizer and a moral expert. My task is to summarize the given article while preserving the moral framing. The user has outlined two steps: identifying morally framed words and then writing a summary that includes as many of those words as possible.
+
+Looking at the article, it's about anti-Semitic incidents involving celebrities and the lack of strong responses from the public and other figures. The author is concerned that this apathy contributes to a broader issue of social justice apathy, which they call the "Apatholypse." There are mentions of specific individuals like Ice Cube, DeSean Jackson, and Chelsea Handler, along with the Trump campaign's actions. The article also references historical and cultural elements, like Billie Holiday's song "Strange Fruit," to emphasize the importance of solidarity in fighting injustice.
+
+For the first step, I need to identify all the single words that carry a moral connotation. These words are likely to be adjectives or nouns that express judgment or evaluation. I'll go through the article and pick out words like "hateful," "apathy," "racism," "oppression," etc. Each of these words is part of the moral framing the author uses to convey their message.
+
+Next, I have to write a concise summary (under 200 words) that includes as many of these morally framed words as possible. The summary should capture the main points: the anti-Semitic tweets, the celebrities involved, the lack of outrage, the impact on social justice movements, and the call for solidarity.
+
+I should make sure that the summary flows well and maintains the moral perspective. It's important to highlight the author's concern about how inaction perpetuates broader social issues and the need for unity against all forms of injustice.
+
+I also need to structure my response with "STEP 1:" followed by each identified word on a new line, each starting with an asterisk. Then, after a "SUMMARY:" token, I'll write the summary and end with "END OF SUMMARY."
+
+I should double-check that I'm not missing any morally framed words and that the summary accurately reflects the article's message without introducing new information. It's crucial to preserve the author's framing, so I'll focus on words that carry the moral weight of the argument.
+
+Finally, I'll review everything to ensure clarity and that all instructions are followed correctly. The summary should be impactful and concise, effectively conveying the moral concerns raised in the article.
+</think>
+
+### STEP 1:
+* Hateful  
+* Racism  
+* Apatholypse  
+* Anti-Semitic  
+* Discriminate  
+* Cultural stereotypes  
+* Prejudice  
+* Dehumanizing  
+* Marginalized  
+* Oppression  
+* scapegoat  
+* Bigotry  
+* Hate groups  
+* Prejudice  
+* Apologies  
+* Contrition  
+* Responsibility  
+* Destructive  
+* Injustice  
+* Solidarity  
+* Mutuality  
+
+---
+
+### SUMMARY:  
+The article highlights the troubling rise of anti-Semitic outbursts from celebrities like Ice Cube, DeSean Jackson, and Chelsea Handler, as well as the Trump campaign, and condemns the lack of strong public outrage. This "meh-rage" perpetuates racism and contributes to an "Apatholypse," where apathy toward social justice becomes normalized. The author argues that anti-Semitism and other forms of bigotry are interconnected, as scapegoating one group justifies targeting others. The muted response from celebrities and the public emboldens racists, as seen in the tripled number of anti-Semitic hate crimes from 2013 to 2019. The article emphasizes the need for solidarity and the importance of standing against injustice for all, echoing Martin Luther King Jr.'s message that "injustice anywhere is a threat to justice everywhere." The moral failure to address anti-Semitism undermines the fight for racial justice and highlights the urgent need for collective action. END OF SUMMARY.

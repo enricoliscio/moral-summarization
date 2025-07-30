@@ -1,0 +1,34 @@
+Okay, so I'm trying to help this user who wants a news summary with moral framing. They provided an article about the Cheney sisters and their differing views on same-sex marriage. The user has specific instructions: first, identify all the morally framed single words, then write a summary preserving those words.
+
+First, I need to understand what "morally framed" means. It likely refers to words that carry a moral or ethical connotation, such as "wrong," "freedom," "rights," etc. I'll go through the article and pick out those words. I should list each on a new line with an asterisk.
+
+Next, the summary needs to be concise, under 200 words, and include as many of those moral terms as possible. I should structure it to highlight the conflict between the sisters, their positions, and the broader Republican context.
+
+I'll start by identifying the key points: Mary criticizes Liz's stance, supports same-sex marriage, mentions freedom and equal rights. Liz defers to state decisions, which is a middle ground but still upsets Mary. The broader Republican divide is also a key point.
+
+I need to make sure the summary flows well, includes the moral terms, and stays within the word limit. I'll check each sentence to ensure it's clear and concise, avoiding unnecessary details.
+
+Finally, I'll format the response as per the user's instructions, starting with the step 1 list, then the summary, making sure to end with the specified tokens.
+</think>
+
+**STEP 1:**  
+* Wrong  
+* Freedom  
+* Everyone  
+* Families  
+* Rights  
+* Privileges  
+* Protections  
+* Compromise  
+* Shying away  
+* Attention  
+* View  
+* Placate  
+* Show of hands  
+* Political risk  
+* Social conservative  
+* Full-throated support  
+
+**SUMMARY:**  
+Mary Cheney, the younger sister of Wyoming Senate candidate Liz Cheney, criticized her sister's stance on same-sex marriage, calling it "dead wrong." Mary, who is gay and married, emphasized that "freedom means freedom for everyone" and that all families deserve equal rights. Liz, however, stated she is "not pro-gay marriage" and believes the issue should be decided by the people in each state. Mary disagreed, arguing it shouldn't be a "show of hands," and urged her Facebook followers to share her message. The sisters' disagreement reflects the broader Republican divide on same-sex marriage, with some fearing political risk by opposing it, while others cling to traditional family values. Liz's stance highlights the challenges of supporting same-sex marriage in conservative contexts, even in Wyoming, where incumbent Senator Mike Enzi opposes it.  
+**END OF SUMMARY.**

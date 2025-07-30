@@ -1,0 +1,18 @@
+Alright, so the user has given me a query where they want me to act as a news summarizer and moral expert. The task is to summarize a news article while preserving the moral framing the author used. They've provided the article and a list of morally framed words that need to be included.
+
+First, I need to understand the article's content. It's about Robert Mueller's team disputing Buzzfeed's report that Trump directed Cohen to lie to Congress. The Buzzfeed report claims Trump told Cohen to lie about the Moscow deal, and Mueller's office is investigating. There's a lot of political implications here, including possible impeachment and criminal charges.
+
+Next, I need to identify the morally framed words in the article. The user provided a list, so I should make sure to include as many as possible in the summary without making it sound forced. Words like "directed," "lie," "inaccurate," "orders," etc., are key here.
+
+I should structure the summary to include the main points: Mueller's dispute, Buzzfeed's report details, the political reactions, and Trump's response. I'll need to keep it concise, under 200 words.
+
+I'll start by mentioning Mueller's team disputing Buzzfeed's report, using "directed" and "lie." Then, explain that Buzzfeed's sources say Trump ordered Cohen to lie about the Moscow deal, using "orders" and "acknowledged." Mention Mueller's response focusing on inaccuracies without denying the main claim.
+
+Include the political reactions: Feinstein and Schiff's statements about impeachment and criminal charges, using "obstructed," "action," "impeachment," "crime." Finally, note Trump's defense, using "innocent" and "lying."
+
+I should ensure that the summary flows well and includes the morally charged words naturally. Also, make sure it's within the word limit and ends with the specified tokens.
+
+I think I've covered all the key points and included the necessary moral framing words. Now, I'll draft the summary accordingly, making sure it's clear and concise.
+</think>
+
+SUMMARY: Special Counsel Robert Mueller’s team disputed Buzzfeed’s report that President Trump *directed* attorney Michael Cohen to *lie* to Congress about the Trump Tower in Moscow deal. Mueller’s office claimed Buzzfeed’s *description* of statements and *characterization* of documents were *inaccurate*. Buzzfeed, however, stood by its reporting, which alleged Trump *ordered* Cohen to *acknowledge* false testimony, potentially *obstructing* justice. Democrats, including Sen. Dianne Feinstein and Rep. Adam Schiff, called for accountability, with Feinstein stating if true, Trump committed a *crime* warranting *impeachment*. Mueller’s statement focused on inaccuracies without directly denying Trump’s alleged *instructions*. Trump denied the claims, accusing Cohen of *lying* to reduce his jail time. The investigation into the Moscow deal continues, with political stakes high. END OF SUMMARY.

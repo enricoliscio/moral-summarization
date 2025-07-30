@@ -1,0 +1,18 @@
+Okay, so the user has provided a detailed query about summarizing a news article while preserving the moral framing. They want the summary to include as many of the specified morally charged words as possible. The article is about U.S. foreign policy post-9/11, comparing Bush and Obama's approaches.
+
+First, I need to understand the main points of the article. It discusses the flawed policies under both Bush and Obama, the resulting crises, and suggests that Obama could learn from Bush's willingness to admit mistakes and implement changes.
+
+Next, I should identify the morally framed words used in the article. The list includes words like "invasion," "disengagement," "dithering," etc. These words carry specific connotations that the author uses to frame the policies negatively.
+
+My task is to create a concise summary (under 200 words) that includes as many of these words as possible. I need to ensure the summary captures the essence of the article's moral critique while using the specified terms.
+
+I'll start by outlining the key events and the author's perspective. The article criticizes both Bush and Obama for their policies, leading to various crises. It highlights Bush's later willingness to change, which Obama could emulate.
+
+Now, I'll structure the summary, making sure to include the morally framed words where appropriate. I'll mention the flawed policies, the crises they caused, and the need for Obama to acknowledge mistakes and lead change, similar to Bush's approach.
+
+I need to keep the summary within 200 words, so I'll be concise but include all necessary points. I'll also ensure that the moral framing is preserved by using the specified words where they fit naturally.
+
+Finally, I'll review the summary to make sure it flows well and meets all the user's requirements, including the inclusion of the morally framed terms and the correct structure with the "SUMMARY:" and "END OF SUMMARY." tokens.
+</think>
+
+SUMMARY: Since the 9/11 attacks, U.S. foreign policy has been marked by flawed decisions and crises, from the Iraq invasion under Bush to Obama's disengagement and dithering. The author critiques the nation's heightened vulnerability and dysfunctional politics, which have strained relations with allies and led to crises in regions like Syria, Iraq, Libya, and Ukraine. The article highlights Bush's ability to admit mistakes and institute sweeping changes, such as replacing key officials and modifying policies, which improved outcomes in areas like Iraq and global health initiatives. In contrast, Obama's aloof leadership has sidelined his Cabinet, fostering strains and dysfunctions. The author argues that Obama could learn from Bush's willingness to stand up to himself, admit errors, and lead change, emphasizing the need for constructive leadership in times of foreign policy challenges. END OF SUMMARY.

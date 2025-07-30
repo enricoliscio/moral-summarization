@@ -1,0 +1,34 @@
+<think>
+Okay, I need to help the user by summarizing the given news article while preserving the moral framing. The user has specified a two-step process: first, identify all the single words that are morally framed, and then write a summary that includes as many of these words as possible, keeping it under 200 words.
+
+Starting with STEP 1, I'll go through the article to find words that carry moral connotations. Words like "dire," "admissible," "indignation," "unilateralist," "fiendish," "weeping," "ambitious," "slight," "apologized," "balked," "sensitive," "worrisome," and "hurt" stand out. These words convey judgment or emotion, which is essential for the moral framing.
+
+Now, moving on to the summary. I need to condense the article, focusing on the conflict between the US and Japan over the Kyoto Protocol. I'll mention the consequences of global warming, Japan's pride in the protocol, the US's refusal to ratify, and the reactions from both Japan and US allies. I should also include the alternative plan proposed by the US and the concerns it raises. It's important to highlight the moral aspects, so I'll use words like "dire," "admissible," "indignation," etc., to maintain the original tone.
+
+I should ensure the summary is concise, under 200 words, and flows naturally. I'll start by stating the main issue, then the consequences, followed by Japan's stance, the US's decision, the reactions, and the implications. I'll make sure to include the moral framing words to reflect the author's perspective accurately.
+
+Let me structure this step by step. First, introduce the conflict. Then, explain the potential consequences of global warming. Next, discuss Japan's pride and the US's refusal. Mention the moral criticism and the alternative plan. Finally, touch on the concerns about a two-tier system and the differing opinions in Japan. I'll keep each point brief to stay within the word limit.
+
+I need to be careful not to add any new information beyond what's in the article and ensure that the moral framing is preserved. Each sentence should reflect the original tone and emphasis on the moral implications of the US's decision. I'll avoid technical jargon and keep the language clear and straightforward.
+
+After drafting, I'll review the summary to ensure it includes all the key points and the morally framed words. I'll check the word count to make sure it's under 200 words and adjust if necessary. This should provide a comprehensive yet concise summary that meets the user's requirements.
+</think>
+
+**STEP 1:**  
+* dire  
+* admissible  
+* indignant  
+* unilateralist  
+* fiendish  
+* weeping  
+* ambitious  
+* slight  
+* apologized  
+* balked  
+* sensitive  
+* worrisome  
+* hurt  
+
+**SUMMARY:**  
+The article discusses the moral and political conflict between the US and Japan over the Kyoto Protocol, a global effort to combat climate change. Climate experts warn of dire consequences like coral reef death, polar bear extinction, and disrupted bird migration due to global warming. The Kyoto Protocol, signed in 1997, aimed to slow this process, but President George Bush's decision to reject it has caused indignation among US allies, particularly Japan, which took pride in hosting the协议. Japan views the US's refusal as morally admissible, given its status as the largest greenhouse gas emitter. The Bush administration proposed an alternative plan, but critics argue it allows continued emissions growth, risking a two-tier global system. While some Japanese industries support the alternative, fearing competitiveness losses from stricter Kyoto limits, others see it as a worrisome shift toward unilateralism. The dispute highlights growing tensions in US-Japanese relations and concerns about global cooperation on climate change.  
+**END OF SUMMARY.**

@@ -1,0 +1,16 @@
+Alright, so I need to help the user by summarizing the given news article while preserving the moral framing. The user provided the article and a list of morally framed words that should be included in the summary. My task is to create a concise summary, no longer than 200 words, that includes as many of those words as possible.
+
+First, I'll read through the article to understand the main points. It's about Sheriff Joe Arpaio endorsing Rick Perry for the Republican nomination. Arpaio is a hardliner on immigration, known for strict enforcement measures. His endorsement is meant to boost Perry's credibility on immigration and border issues.
+
+Next, I'll note the morally framed words the author used: failed, crime, secure, helped, shut, trafficking, champion, fund, safer, fail, fighting, fencing, surveillance, protecting, fight. I need to make sure these words are included in the summary.
+
+I'll start by identifying the key elements: Arpaio's endorsement, his reputation, Perry's immigration platform, the criticism Perry faced, and the specifics of their border security plans. I should highlight the moral framing by using words like "failed," "crime," "secure," etc.
+
+I'll structure the summary to include Arpaio's endorsement, his reasons (failure of federal government, crime, trafficking), Perry's plan (secure border, fencing, surveillance, funding), and the moral implications like safety and protection.
+
+I need to keep it concise, so I'll focus on the most impactful points. I'll ensure that each sentence incorporates the moral language without making it too verbose.
+
+Finally, I'll check the word count to make sure it's under 200 words and that all key points and moral words are included.
+</think>
+
+SUMMARY: Controversial Arizona Sheriff Joe Arpaio, a hardliner on immigration, has endorsed Texas Governor Rick Perry for the Republican presidential nomination, aiming to boost Perry's credibility on border security. Arpaio criticized the federal government for failing to secure the border and praised Perry's track record in fighting crime and illegal trafficking. Perry, who opposes a full border fence but supports increased enforcement, has promised to secure the border within a year if elected. Arpaio highlighted Perry's efforts to shut down illegal activities and champion border security, emphasizing the need for tougher measures like fencing, surveillance, and funding. Perry echoed these sentiments, stating that a secure border is vital for protecting national security, public safety, and jobs. Arpaio's endorsement underscores his belief that Perry's plan will make the nation safer, aligning with their shared goals of fighting border crime and ensuring a secure future. END OF SUMMARY.

@@ -1,0 +1,38 @@
+Okay, so I need to help the user with this query. They provided a news article and specific instructions. First, I have to identify the morally framed words in the article. Then, I need to summarize the article while preserving those moral terms. 
+
+Starting with STEP 1: I'll go through the article and pick out words that carry a moral connotation. Words like "charges," "investigation," "vendetta," "wrongdoing," "vindicated," "dedication," "tenacity," "public service," "veteran," "agent," "violations," "inquiry," "defraud," "illegal," "improprieties," "straw donors," "fraud," "guilty," "complaint," "funneling," "donations," "names," "accused," "fraud." These words all relate to ethics, wrongdoing, or moral judgment.
+
+Next, for the summary, I need to make sure I include as many of these words as possible while keeping it concise. The summary should be under 200 words. I'll start by mentioning the charges against Grimm, the investigation, his attorney's statement about a politically driven vendetta. Then, I'll touch on the campaign finance issues, the involvement of the rabbi's followers, the illegal contributions, and the plea deals. I'll also include the incident with the reporter and Grimm's denial of any wrongdoing. Finally, I'll note the ongoing investigation and his continued service.
+
+I have to ensure the summary flows well and includes all the key points without being too lengthy. I'll structure it to first introduce the charges, then the context of the investigation, the allegations, and the current status. This way, the summary remains informative and preserves the moral framing from the original article.
+</think>
+
+**STEP 1:**  
+* charges  
+* investigation  
+* vendetta  
+* wrongdoing  
+* vindicated  
+* dedication  
+* tenacity  
+* public service  
+* veteran  
+* agent  
+* violations  
+* inquiry  
+* defraud  
+* illegal  
+* improprieties  
+* straw donors  
+* fraud  
+* guilty  
+* complaint  
+* funneling  
+* donations  
+* names  
+* accused  
+* fraud  
+
+**SUMMARY:**  
+New York Republican Rep. Michael Grimm faces criminal charges after a two-year FBI investigation into his business and campaign history. Grimm's attorney claims the investigation is politically motivated, asserting Grimm's innocence and stating he will be "vindicated." The House Ethics Committee previously deferred its inquiry into possible campaign finance violations due to a separate Department of Justice investigation. Grimm has denied knowledge of any wrongdoing, though an Israeli businessman linked to his campaign pleaded guilty to immigration fraud. A Houston woman romantically involved with Grimm was accused of using straw donors to funnel illegal contributions to his campaign. Grimm has denied any wrongdoing and continues to serve his constituents, emphasizing his dedication and public service. The investigation into his campaign finances remains ongoing.  
+**END OF SUMMARY.**

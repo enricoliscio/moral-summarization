@@ -1,0 +1,33 @@
+Okay, so I need to help the user by summarizing this news article while preserving the moral framing. Let me start by understanding the task. The user wants me to first identify all the single words that are morally framed in the article. Then, I have to write a summary that includes as many of those words as possible without exceeding 200 words.
+
+First, I'll read through the article to get a good grasp of the content. It's about President Trump offering a deal to Democrats involving immigration protections and a border wall. The article mentions that the proposal was called a "compromise," but the actual bill turned out to be more extreme, pleasing hard-liners. Democrats rejected it, and the bill includes harsh measures against asylum seekers, especially minors. There's also mention of legal challenges and the Supreme Court's inaction on DACA.
+
+Now, for the first step, I need to identify all the morally framed single words. These are words that carry a positive or negative connotation related to ethics or values. Let me go through the article again and pick them out.
+
+I see words like "compromise," "wish list," "dead on arrival," "poison pills," "shift blame," "pathetic," "alarm," "extreme," "frivolous," "stiff consequences," "incentive," "protections." These words carry moral judgments or evaluations.
+
+Next, I need to write a concise summary that includes as many of these words as possible. The summary should be under 200 words. I'll start by outlining the main points: Trump's offer, the bill's harsh measures, Democratic rejection, legal challenges, and the Supreme Court's action on DACA.
+
+I'll structure the summary to highlight the moral framing. I'll mention how the bill was seen as a "compromise" but turned out to be a "wish list" for hard-liners. The inclusion of "poison pills" shows the attempt to shift blame, which was seen as "pathetic." The harsh measures on asylum were "alarm[ing]" and "extreme," leading to "stiff consequences." The Supreme Court's inaction gave Democrats less "incentive" to agree, and the focus remains on "protections" for Dreamers.
+
+I need to make sure the summary flows well and includes all the key moral words without making it sound forced. I'll check the word count to ensure it's within the limit. Let me piece it together step by step, making sure each sentence incorporates the moral framing where appropriate.
+
+After drafting, I'll review to ensure all the identified words are included and that the summary accurately reflects the article's content while preserving the moral perspective. I'll also make sure the summary is clear and concise, sticking to the main points without unnecessary details.
+</think>
+
+**STEP 1:**  
+* Compromise  
+* Wish list  
+* Dead on arrival  
+* Poison pills  
+* Shift blame  
+* Pathetic  
+* Alarm  
+* Extreme  
+* Frivolous  
+* Stiff consequences  
+* Incentive  
+* Protections  
+
+**SUMMARY:**  
+President Trump offered Democrats a deal to extend protections for DACA recipients and temporary protected status holders in exchange for border wall funding, initially labeled a "compromise." However, the GOP bill revealed harsh measures, including banning asylum for Central American minors, capping asylum applications, and expanding detention, making it a "wish list" for hard-liners. Democrats rejected the offer, calling it insufficient. Critics accused the bill of containing "poison pills" to shift blame, describing it as "pathetic." The bill's extreme changes to asylum law, including permanent ineligibility for frivolous claims, alarmed activists. Trump's efforts to win Democratic support were further derailed as the Supreme Court kept DACA protections in place, reducing incentive for Democrats to accept the deal. The focus remains on "protections" for Dreamers. END OF SUMMARY.

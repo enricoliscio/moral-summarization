@@ -1,0 +1,37 @@
+Alright, I need to tackle this query step by step. The user provided a news article and wants me to summarize it while preserving the moral framing. They also asked for two specific steps: identifying morally framed single words and then writing a concise summary.
+
+First, I should understand what morally framed words are. These are words that carry a positive or negative connotation, reflecting the author's judgment. For example, "unilateralism" might be negative, while "sympathy" is positive.
+
+Looking at the article, I'll go through each paragraph to spot such words. Words like "unilateralism," "opposed," "hostile," and "condemnation" stand out as negative. On the positive side, "sympathy," "globalization," and "support" are used. I'll list each of these under STEP 1.
+
+Next, for the summary, I need to condense the article into under 200 words. I'll focus on the main points: Bush's policies, the NMD, the Kyoto Protocol, the Comprehensive Test Ban Treaty, the Biological Weapons Convention, and the post-9/11 approach. I'll make sure to include the morally framed words to maintain the author's perspective.
+
+I should ensure the summary flows logically, highlighting how the US uses pragmatism and unilateralism, their impact on international relations, and the implications of their actions. I'll also mention the shift in US stance towards Pakistan after 9/11 to show the pragmatic approach.
+
+Finally, I'll make sure the summary is concise, captures the moral framing, and stays within the word limit. I'll structure it to first introduce the US's foreign policy, then discuss specific treaties and policies, followed by the 9/11 context, and conclude with the implications of their actions.
+</think>
+
+**STEP 1:**
+
+Here are the single words that are morally framed in the text:
+
+* Unilateralism  
+* Opposed  
+* Hostile  
+* Condemnation  
+* Detained  
+* Retaliate  
+* Spy  
+* Harbor  
+* Support  
+* Sympathy  
+* Globalization  
+* Responsible  
+
+---
+
+**SUMMARY:**  
+
+The article discusses the United States' foreign policy under Bush, characterized by unilateralism and pragmatism. The US has pursued the National Missile Defense (NMD) system despite global opposition, claiming it does not threaten international security. The US also refused to enforce the Kyoto Protocol and froze the Comprehensive Test Ban Treaty, prioritizing its interests over international agreements. After the 9/11 attacks, the US framed its "war on terrorism" as a global effort, demanding allies' support and labeling those who opposed it as hostile. The US's pragmatic approach is evident in its treatment of Pakistan, shifting from sanctions to aid after the attacks. The article highlights the US's willingness to disregard international norms and treaties when they conflict with its goals, emphasizing its role as the sole superpower.  
+
+**END OF SUMMARY.**

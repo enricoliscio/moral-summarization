@@ -1,0 +1,17 @@
+<think>
+Alright, so I'm trying to help this user who wants a summary of a news article, but with a specific focus on preserving the moral framing. The user provided the article and a list of morally charged words they want included. They also mentioned that I should act as a news summarizer and a moral expert.
+
+First, I need to understand the article. It's about the feud between Ted Cruz and Donald Trump, focusing on their personal attacks and the involvement of their families. The key points are Cruz blaming Trump for a story about extramarital affairs, Trump's campaign attacking Heidi Cruz's mental health, and both sides accusing each other of lying and smears.
+
+Next, I need to identify the morally framed words used by the author. The list includes extramarital, hits, attack, faithful, garbage, lies, affairs, smear, false, threatening, used, and derogatory. I should make sure these words are included in the summary.
+
+I should structure the summary to capture the conflict, the accusations, and the implications on their campaigns. It's important to highlight the personal nature of the attacks and how they reflect on the candidates' characters and their commitment to their party.
+
+I also need to keep the summary concise, under 200 words, and ensure it flows naturally. I'll start by introducing the feud, then detail the accusations from both sides, and conclude with the impact on their campaigns and the Republican Party.
+
+Finally, I'll make sure to use the morally charged words appropriately to maintain the author's original framing. This way, the summary not only informs but also reflects the ethical dimensions of the conflict as presented in the article.
+</think>
+
+SUMMARY:  
+Sen. Ted Cruz has escalated the personal conflict with Donald Trump over attacks on their families. Cruz accused Trump of orchestrating a National Enquirer story alleging extramarital affairs, calling it "garbage" and a "tabloid smear." He also criticized Trump for attacking his wife's mental health, stating he wouldn't support someone who "attacks my family." Cruz added, "Donald Trump is not going to be the Republican nominee." Trump's campaign responded, with spokeswoman Katrina Pierson dismissing the affair allegations as "100% false." The feud intensified after a super PAC opposing Trump ran ads featuring Melania Trump in a risqué photo, prompting Trump to threaten to "spill the beans" about Heidi Cruz. Cruz denied involvement in the ad and accused Trump of being a "coward" for threatening his wife. The conflict reflects a broader pattern of personal attacks, including derogatory remarks about women, as Trump maintains a lead in the delegate race. Cruz faces a tough challenge in securing the nomination, with the contest potentially extending to the convention.  
+END OF SUMMARY.

@@ -1,0 +1,37 @@
+Alright, I need to tackle this user's query. They want me to act as a news summarizer and a moral expert. The task has two parts: first, identifying morally framed words in the article, and then summarizing the article while preserving those moral frames.
+
+Let me start by reading the article carefully. It's about Rep. Justin Amash announcing his exploratory committee for the Libertarian Party's presidential nomination. He's leaving the Republican Party, which he accuses of abandoning fiscal conservatism and not holding Trump accountable. The article also discusses the potential impact of his candidacy on the election.
+
+For the first step, I need to find all the single words that carry moral implications. I'll go through the text and pick out words that relate to values, ethics, or judgments. Words like "frustration," "practical," "humility," "trust," "respect," "together," "soar," "vocal," "impeachment," "excusing," "tarnish," "disingenuous," "frivolous," "false," "visceral," "noise," "attractive," and "potential." These words seem to carry moral weight in the context of the article.
+
+Next, I need to summarize the article, making sure to include these morally framed words. I'll condense the information, highlighting Amash's decision, his reasons, the Libertarian support, his values, and the potential impact on the election. I should keep the summary under 200 words and ensure it flows naturally while preserving the moral framing.
+
+I should also structure the response by first listing the morally framed words in STEP 1, each on a new line with an asterisk. Then, after the "SUMMARY:" token, write the concise summary, ending with "END OF SUMMARY."
+
+I need to make sure that the summary accurately reflects the article's content, emphasizing the moral aspects without adding any personal opinions. It's important to maintain the integrity of the original message while adhering to the user's instructions.
+
+I'll double-check to ensure all morally framed words are included and that the summary is clear and within the word limit. This way, the user gets a concise, morally framed summary of the news article as requested.
+</think>
+
+**STEP 1:**  
+* Frustration  
+* Practical  
+* Humility  
+* Trust  
+* Respect  
+* Together  
+* Soar  
+* Vocal  
+* Impeachment  
+* Excusing  
+* Tarnish  
+* Disingenuous  
+* Frivolous  
+* False  
+* Visceral  
+* Noise  
+* Attractive  
+* Potential  
+
+**SUMMARY:**  
+Rep. Justin Amash has launched an exploratory committee to seek the Libertarian Party’s presidential nomination, signaling his potential third-party bid for the White House. Amash, a former Republican, has criticized the GOP for abandoning fiscal conservatism and failing to hold President Trump accountable. His campaign emphasizes practical approaches, humility, and trust, aiming to restore respect for the Constitution and unite Americans. Libertarians see him as a strong candidate who could attract "Never Trump" Republicans and independents. Amash’s career has focused on reducing government intervention and federal spending, earning him a high national profile under Trump. His decision to leave the GOP and support impeachment has drawn criticism from Republicans. While his candidacy could draw support away from Trump or Biden, it remains unclear how it will impact the race. END OF SUMMARY.

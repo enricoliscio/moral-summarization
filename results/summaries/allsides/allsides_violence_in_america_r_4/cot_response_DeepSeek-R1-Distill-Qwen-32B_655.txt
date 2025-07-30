@@ -1,0 +1,46 @@
+Okay, so I need to help the user with their query. They provided a news article and specific instructions on how to process it. The user wants me to act as a news summarizer assistant and a moral expert. My task is to summarize the article while preserving the moral framing the author used.
+
+First, I need to understand what's being asked. The user has broken it down into two steps. Step 1 is to identify all the single words that are morally framed. I should list each of these words, each on a new line with an asterisk. Then, in Step 2, I have to write a summary of the article, making sure to include as many of these morally framed words as possible. The summary should be concise, no longer than 200 words, and follow specific formatting instructions.
+
+Looking at the article, it's about protests in Minnesota that turned violent, leading to arrests and injuries. There are mentions of police actions, protester behavior, and the context of recent police killings of black men. The moral framing here likely involves words that convey violence, injustice, and the breakdown of order.
+
+For Step 1, I'll go through the article and pick out words that carry moral connotations. Words like "arrested," "injured," "protests," "riot," "killing," "extreme," "pelted," "rocks," "rebar," "incendiary," "Molotov," "significant," "life-threatening," "denounced," "murdered," "sniper," "disgusted," "tolerate," "violence," "public servants," "peaceful," "turned violent," "debris," "cordial," and "injustices." These words all carry moral weight, indicating actions or events that are either positive or negative in a moral sense.
+
+Now, for the summary, I need to condense the article into a short paragraph, incorporating as many of these morally framed words as possible. I should mention the number of arrests and injuries, the context of the protests, the violent actions taken by some protesters, the police response, and the broader context of recent police killings. I also need to highlight the moral implications, such as the violence against police and the frustration leading to the riots.
+
+I need to ensure the summary is clear, concise, and captures the essence of the article while maintaining the moral framing. I'll structure it by starting with the arrests and injuries, then explain the cause of the protests, describe the violent actions, mention the police's response, and touch on the broader context of recent events. I'll end with a note on the hope for peace.
+
+I should also be careful to stay within the word limit, so I'll need to be succinct. Let me piece this together, making sure each sentence flows logically and includes the key morally framed words without making it too wordy.
+
+Finally, I'll format the summary correctly, starting with "SUMMARY:" and ending with "END OF SUMMARY." I'll ensure that the summary is no longer than 200 words and that it accurately reflects the moral aspects highlighted in the original article.
+</think>
+
+**STEP 1:**  
+* arrested  
+* injured  
+* protests  
+* riot  
+* killing  
+* extreme  
+* pelted  
+* rocks  
+* rebar  
+* incendiary  
+* Molotov  
+* significant  
+* life-threatening  
+* denounced  
+* murdered  
+* sniper  
+* disgusted  
+* tolerate  
+* violence  
+* public servants  
+* peaceful  
+* turned violent  
+* debris  
+* cordial  
+* injustices  
+
+**SUMMARY:**  
+Over 100 people were arrested and 21 police officers injured in Minnesota during violent protests over recent police killings of black men. The protests, which began peacefully, turned violent as some demonstrators threw rocks, rebar, and Molotov cocktails at police. The injuries to officers were significant but not life-threatening. The riots followed the deaths of Philando Castile and Alton Sterling, sparking nationwide demonstrations. Police used smoke bombs to disperse the crowd, and some protesters refused to leave, leading to clashes. St. Paul Police Chief Todd Axtell expressed disgust at the violence, calling it the worst he had seen in his 28 years as an officer. The interstate was blocked but reopened early Sunday. While some protesters remained peaceful, others turned violent, throwing debris at officers. The governor met with Castile’s family, but the meeting’s details were not disclosed. The events highlight the ongoing tensions and injustices in the community. END OF SUMMARY.

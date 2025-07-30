@@ -1,0 +1,47 @@
+Okay, so I need to help this user with their query. They want me to act as a news summarizer assistant and a moral expert. The task is to summarize a given news article while preserving the moral framing the author provided. 
+
+First, I should break down the user's instructions. They have two main steps: identifying morally framed words and then writing a summary that includes as many of those words as possible. The summary needs to be concise, under 200 words, and follow specific formatting with "SUMMARY:" and "END OF SUMMARY."
+
+Looking at the article, it's about Rick Perry's campaign ads where he criticizes Obama's policies on religion, military service for gays and lesbians, and prayer in schools. He's targeting cultural issues to appeal to conservative voters, especially in Iowa before the caucuses. 
+
+For the first step, I need to identify all the single words that carry moral connotations. I'll go through the article and pick out words like "pledges," "end," "war," "religion," "railing," "prohibition," "ashamed," "Christian," "something wrong," "gays," "serve openly," "celebrate Christmas," "pray," "fight," "attacks," "religious heritage," "Faith," "strong," "wrong," "tax dollars," "lifestyle," "tolerance," "endorsement," "support."
+
+Next, I need to write the summary. I should include as many of these words as possible without making it too long. The summary should highlight Perry's main points: ending Obama's "war on religion," criticizing military policy and prayer prohibition, his Christian identity, and the impact of his campaign despite low support. I'll make sure to preserve the moral framing by using words like "pledges," "end," "war," "attacks," "wrong," etc.
+
+I also need to structure the summary to flow naturally, starting with Perry's pledge, then his criticisms, his campaign efforts, and finally the low support he's receiving. I'll keep each sentence concise to stay within the word limit.
+
+I should double-check that I'm not adding any new information beyond what's in the article and that I'm accurately reflecting the moral stance presented. Also, ensuring that the formatting is correct with the tokens and that each step is clearly labeled.
+
+Alright, I think I have a good plan. I'll start by listing all the morally framed words, then craft a summary that weaves them in naturally while keeping it under 200 words.
+</think>
+
+**STEP 1:**  
+* Pledges  
+* End  
+* War  
+* Religion  
+* Railing  
+* Prohibition  
+* Ashamed  
+* Christian  
+* Wrong  
+* Gays  
+* Serve  
+* Celebrate  
+* Pray  
+* Fight  
+* Attacks  
+* Religious  
+* Heritage  
+* Faith  
+* Strong  
+* Wrong  
+* Tax  
+* Dollars  
+* Lifestyle  
+* Tolerance  
+* Endorsement  
+* Support  
+
+**SUMMARY:**  
+Republican candidate Rick Perry has launched a new ad in Iowa, vowing to "end Obama's war on religion." He criticizes the administration for allowing gays and lesbians to serve openly in the military while prohibiting prayer in public schools, stating, "There's something wrong in this country." Perry emphasizes his Christian identity and pledges to fight against liberal attacks on religious heritage, asserting that "Faith made America strong." He also condemns the Obama administration's use of foreign aid to promote gay and lesbian rights, calling it a misuse of tax dollars and a misinterpretation of American tolerance. Despite these efforts, Perry currently holds just 6% support among likely Republican caucus-goers in Iowa. END OF SUMMARY.

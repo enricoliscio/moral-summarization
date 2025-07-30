@@ -1,0 +1,35 @@
+Okay, I need to help the user with their query. They want me to act as a news summarizer and a moral expert. The task has two parts: first, identify all the single words that are morally framed in the given news article, and then write a summary preserving those moral framings. 
+
+Let me start by understanding the article. It's about Larry Summers warning about a double-dip recession if a tax cut compromise isn't passed. There's a lot of political tension between Democrats and Republicans, especially regarding tax cuts for the rich and middle class. Some Democrats are unhappy with the deal, thinking it's a giveaway to the wealthy, while others support it for economic reasons. 
+
+For the first step, I need to find words that carry moral implications. Words like "failure," "risk," "criticism," "giveaway," "unhappy," "betray," "rubber-stamping," "jammed," "bridge too far," "fair," "morally," "economic," "priorities," "principles," and "values" stand out. These words convey judgments about the actions and decisions made by the politicians.
+
+Now, for the summary, I need to condense the article while keeping these moral terms. I should mention the key players: Larry Summers, Obama, Congress, Senate, House Democrats, etc. Highlight the main issues: tax cuts for the rich, estate tax, jobless benefits, and the economic risks. Also, note the internal conflicts within the Democratic party and the pushback from some members.
+
+I need to make sure the summary is concise, under 200 words, and includes as many of those moral words as possible. I'll structure it by first stating the warning from Summers, then the criticism from Democrats, the provisions in the deal, the opposition from House Democrats, Pelosi's stance, and Obama's response. I'll end with the ongoing debate about fairness and economic impact.
+
+I should avoid any markdown and keep the summary clear and to the point. Let me make sure I include all the key points without going over the word limit. Also, ensure that the moral framing is preserved, so the summary reflects the ethical concerns and criticisms present in the original article.
+</think>
+
+### STEP 1:  
+* Failure  
+* Risk  
+* Criticism  
+* Giveaway  
+* Unhappy  
+* Betray  
+* Rubber-stamping  
+* Jammed  
+* Bridge too far  
+* Fair  
+* Morally  
+* Economic  
+* Priorities  
+* Principles  
+* Values  
+
+---
+
+### SUMMARY:  
+Outgoing White House economic adviser Larry Summers warned that failing to pass a tax cut compromise would significantly increase the risk of a double-dip recession. He expressed confidence that Congress would avoid such a step, though the deal, criticized by liberal Democrats, extends tax cuts for both the wealthy and middle class. Senate Republicans aim to bring the bill to the floor, while Senate Democrats have requested changes. House Democrats, unhappy with provisions seen as giveaways to the wealthy, are resisting the deal, with some even attempting to block it. Vice President Biden has urged support, but House Speaker Nancy Pelosi acknowledged the opposition, calling the estate tax provision "a bridge too far." Obama defended the deal, citing economic benefits, but House Democrats remain divided. The debate highlights tensions over fairness, economic priorities, and political principles.  
+END OF SUMMARY.

@@ -1,0 +1,9 @@
+Alright, I need to help the user by summarizing the given news article while preserving the moral framing. First, I'll read through the article to understand the main points. Glenn Beck is speaking at CPAC 2010, emphasizing the need for Republicans to focus on purity and avoid the Democratic agenda. He uses strong moral language like "eating," "purity," and "addicted." 
+
+I should identify the key moral words the author used and make sure they're included in the summary. The article contrasts Beck's approach with traditional strategies, highlighting his demand for ideological purity over a broader coalition. I'll need to capture Beck's personal elements, like his 12-step analogy and his criticism of the circus metaphor.
+
+I'll structure the summary to include Beck's main arguments, his use of moral terms, and the response from the audience. Keeping it under 200 words, I'll ensure it's concise but covers all essential points without losing the moral framing. Finally, I'll end with the required tokens as specified.
+</think>
+
+SUMMARY:  
+Glenn Beck, in his 2010 CPAC speech, called for Republicans to prioritize ideological purity over broadening their coalition, rejecting the idea of a "big tent." He criticized the party for not admitting its problems, likening its addiction to spending and big government to his own struggles with alcoholism. Beck argued that progressivism "eats the Constitution" and urged conservatives to focus on their principles rather than merely opposing Democrats. He mocked the idea of a "circus" or "clown show," emphasizing that America is an idea that sets people free. His speech intertwined personal redemption with a call for the GOP to "embark" on a path of recovery, rejecting any resemblance to the Democratic agenda. The audience was captivated by his moral framing, which contrasted with traditional political strategies. Beck's message: ideological purity, not broad appeal, is the key to success. END OF SUMMARY.

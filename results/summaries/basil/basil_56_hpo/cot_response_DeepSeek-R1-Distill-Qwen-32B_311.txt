@@ -1,0 +1,57 @@
+Okay, I need to help the user with their query. They want me to summarize a news article while preserving the moral framing. The user has provided a detailed article about Marco Rubio's foreign policy speech. 
+
+First, I should read the article carefully to understand the key points. Rubio is promoting a stronger military and a more assertive US role globally, contrasting it with Obama's approach. He mentions Kennedy, strength preventing war, weakness being dangerous, and his principles like American strength, economic protection, and moral clarity.
+
+The user's instructions have two steps. The first is to identify all the single words that are morally framed. I need to go through the article and pick out words that carry moral connotations. Words like "assertive," "project," "benevolent," "strength," "weakness," "danger," "peace," "hard," "engaged," "step back," "nation building," "cede," "liked," "better off," "core values," "counter," "normalize," "communist," "keep power," "negotiations," "support," "rebel," "aid," "influence," "effective," "negligent," "timeless," "trapped," "backward-looking," "weapons of mass destruction," "misunderstood." I'll list each of these with a *.
+
+Next, I need to write a concise summary of the article, making sure to include as many of these morally framed words as possible without exceeding 200 words. I'll start by introducing Rubio's speech, his vision inspired by Kennedy, the call for a larger military budget, and his criticism of Obama's policies. I'll mention his principles and specific criticisms of Obama's foreign policies, like Cuba, Iran, Syria, and Ukraine. I'll also include his criticism of Hillary Clinton and his stance on Iraq. Finally, I'll note his defense of using Kennedy's principles as timeless and his position on the Iraq invasion.
+
+I should ensure the summary flows well and captures the moral framing without being too verbose. Let me piece it together, making sure each key point is covered and the moral words are included naturally.
+</think>
+
+**STEP 1:**  
+* assertive  
+* project  
+* safer  
+* bigger budget  
+* aggressively  
+* global influence  
+* benevolent  
+* strength  
+* prevent war  
+* weakness  
+* danger  
+* enemy of peace  
+* harder  
+* engaged  
+* step back  
+* nation building  
+* cede leadership  
+* better liked  
+* better off  
+* Rubio Doctrine  
+* American strength  
+* protection  
+* globalized world  
+* moral clarity  
+* core values  
+* counter  
+* normalize  
+* communist  
+* keep power  
+* negotiations  
+* support  
+* rebels  
+* aid  
+* influence  
+* ineffective  
+* negligent  
+* timeless  
+* trapped  
+* backward-looking  
+* weapons of mass destruction  
+* misunderstood  
+
+**SUMMARY:**  
+U.S. Sen. Marco Rubio (R-Fla.) presented a foreign policy vision inspired by President John F. Kennedy, advocating for a stronger U.S. military and a more assertive global role to prevent war and maintain peace. He criticized President Obama's approach, arguing that weakness invites danger and that Obama's focus on "nation building at home" weakened U.S. leadership. Rubio's "Rubio Doctrine" emphasizes American strength, economic protection, and moral clarity. He opposes Obama's policies, including normalization with Cuba, nuclear negotiations with Iran, and support for Ukraine against Russia. Rubio also criticized Hillary Clinton's tenure as secretary of state, calling it "ineffective" and "negligent." While defending his use of Kennedy's principles as "timeless," Rubio distanced himself from the Iraq invasion, stating he would not have supported it if Saddam Hussein lacked weapons of mass destruction. His stance contrasts with Jeb Bush's recent defense of the invasion.  
+**END OF SUMMARY.**

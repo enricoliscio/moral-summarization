@@ -1,0 +1,47 @@
+<think>
+Okay, so the user has given me a query where I need to act as a news summarizer assistant and a moral expert. The task is to summarize a news article while preserving the moral framing. The user has provided a specific structure: first, identify all single words that are morally framed, then write a summary using those words.
+
+First, I need to understand the article. It's about a House Intelligence Committee hearing where there's a conflict between Republicans and Democrats, specifically targeting Chairman Adam Schiff. The Republicans are demanding his resignation, comparing him to McCarthy, and accusing him of spreading false information. Schiff is defending his position, arguing that certain actions by Trump and his associates are immoral and unethical.
+
+For STEP 1, I have to extract all the morally framed single words. I'll go through the article and pick out words that carry moral connotations. Words like "acrimony," "divide," "absolve," "nefarious," "immoral," "unethical," "unpatriotic," "corrupt," "abuse," "false," "integrity," "criminal," "irresponsible," "scaredy-cats," "conspiracy," "underestimate," "bold," "destabilize," "platform," "false," "conspiracy," "underestimate," "bold," "destabilize," "platform," "false," "conspiracy," "underestimate," "bold," "destabilize," "platform," "false," "conspiracy," "underestimate," "bold," "destabilize," "platform."
+
+Wait, some of these might be repeated, but I need to list each occurrence. However, the user's example only listed each word once, so maybe I should just list unique words. Let me check the example: the user listed each word once, even if it appeared multiple times. So I should do the same.
+
+Next, the summary needs to be concise, under 200 words, and include as many of these moral words as possible. I'll structure it by highlighting the conflict, the accusations, Schiff's defense, and the implications for Congress and the investigation.
+
+I need to ensure that the summary captures the moral framing, using words like "acrimony," "absolve," "nefarious," "immoral," "unethical," "corrupt," "abuse," "false," "integrity," "criminal," "irresponsible," "scaredy-cats," "conspiracy," "underestimate," "bold," "destabilize," "platform."
+
+I should start by stating the conflict, then the accusations from both sides, Schiff's stance, and the implications. Make sure it's clear and flows well, keeping it under 200 words.
+
+Let me draft it: The article describes a heated hearing where Republicans demanded Schiff's resignation, accusing him of McCarthyism and spreading false info. Schiff defended his position, calling certain actions immoral and unethical. The conflict reflects a deep divide in Congress, with Democrats and Republicans at odds over the Russia investigation. The hearing highlighted the ongoing political tensions and the challenges in addressing foreign interference.
+
+Wait, that's a bit too brief. I need to include more details, like the comparison to McCarthy, the accusations of corruption, and the implications for the investigation. Also, mention the contrast with the Senate's approach.
+
+Finalizing the summary to ensure it's within the word limit and includes all key moral points.
+</think>
+
+**STEP 1:**
+
+* Acrimony  
+* Divide  
+* Absolve  
+* Nefarious  
+* Immoral  
+* Unethical  
+* Unpatriotic  
+* Corrupt  
+* Abuse  
+* False  
+* Integrity  
+* Criminal  
+* Irresponsible  
+* Scaredy-cats  
+* Conspiracy  
+* Underestimate  
+* Bold  
+* Destabilize  
+* Platform  
+
+**SUMMARY:**
+
+The article describes a heated House Intelligence Committee hearing marked by acrimony and a deep partisan divide. Republicans demanded the resignation of Chairman Adam Schiff, accusing him of McCarthyism and spreading false information, while Schiff defended his stance, calling certain actions by the Trump administration "immoral, unethical, and unpatriotic." The conflict highlighted the ongoing political tensions in Congress, with Democrats and Republicans at odds over the Russia investigation. Schiff emphasized the need to scrutinize potential collusion, while Republicans accused him of abusing his position and undermining the committee's integrity. The hearing also revealed the broader struggle to address foreign interference in U.S. elections, with experts warning of Russia's growing boldness in destabilizing Western democracies. The episode contrasted with the Senate's quieter, more bipartisan approach to the investigation. END OF SUMMARY.

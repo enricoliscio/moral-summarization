@@ -1,0 +1,48 @@
+Okay, I need to help the user by summarizing the news article about Chris Christie announcing his presidential run in 2016. The user also wants me to identify the morally framed words and then create a summary that preserves those moral elements. 
+
+First, I'll read through the article to understand the key points. Christie is running for president, he's a Republican governor from New Jersey, and he's making this announcement after some controversies. The article mentions his criticism of Congress and both parties, his focus on leadership during Hurricane Sandy, and the Bridgegate scandal. 
+
+For STEP 1, I need to find all the single words that carry moral connotations. Words like "fight," "inspired," "failed," "anxiety," "compromise," "courage," "dirty," "fail," "stand up," "enough," "bullying," "catastrophic," "ravaged," "visible," "responsive," "leadership," "care," "job," "lead," "brash," "confrontational," "cup," "tea," "prom," "king," "reversed," "criticism," "played out," "middle," "pack." Each of these words carries a moral judgment or implication.
+
+Now, for the summary, I need to condense the article while keeping these moral terms. I'll start by stating his announcement and his criticism of Congress. Then mention his leadership during Hurricane Sandy, the Bridgegate scandal, and his changing stance on Common Core. Finally, note his position in the polls. I'll make sure to include as many of the morally framed words as possible without making the summary too long.
+
+I need to ensure the summary is under 200 words and flows naturally, preserving the moral framing. I'll check each sentence to see if it includes the necessary words and conveys the intended message clearly. 
+
+Putting it all together, the summary should highlight Christie's announcement, his criticisms, his leadership, scandals, policy changes, and his standing in the polls, all while using the morally charged words identified.
+</think>
+
+**STEP 1:**  
+* Fight  
+* Inspired  
+* Failed  
+* Anxiety  
+* Compromise  
+* Courage  
+* Dirty  
+* Fail  
+* Stand up  
+* Enough  
+* Bullying  
+* Catastrophic  
+* Ravaged  
+* Visible  
+* Responsive  
+* Leadership  
+* Care  
+* Job  
+* Lead  
+* Brash  
+* Confrontational  
+* Cup  
+* Tea  
+* Prom  
+* King  
+* Reversed  
+* Criticism  
+* Played out  
+* Middle  
+* Pack  
+
+**SUMMARY:**  
+Chris Christie, the Republican governor of New Jersey, announced his candidacy for the 2016 presidency. He criticized Congress and both political parties for failing to compromise and addressing national issues, calling for courage and accountability. Christie, known for his tough leadership, gained prominence during Hurricane Sandy, where his visible efforts earned him high favorability. However, his reputation suffered due to the Bridgegate scandal, involving traffic jams as political retaliation. He also faced criticism for reversing his stance on Common Core education standards. Despite his blunt style and controversies, Christie remains a contender in the GOP field.  
+**END OF SUMMARY.**

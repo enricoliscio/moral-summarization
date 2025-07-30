@@ -1,0 +1,16 @@
+Okay, so the user has given me a task where I need to summarize a news article while preserving the moral framing that the author used. The article is about the differences between Japan and the U.S. regarding the Kyoto Protocol and their approaches to global warming. 
+
+First, I should read the article carefully to understand the key points. The main points are that Japan supports the Kyoto Protocol, while the U.S. under Bush rejects it and proposes an alternative plan. The moral framing here involves the economy and the environment, which are presented as conflicting but also as potential partners in cooperation.
+
+The user specified that I need to preserve the morally framed words: economy, environment, ineffective, help, and economic. I should make sure these words are included in the summary. 
+
+I need to create a concise summary, no longer than 200 words, starting with "SUMMARY:" and ending with "END OF SUMMARY." The summary should capture the differing positions, the U.S. alternative plan, the criticism it received, and the agreement to cooperate on technology development.
+
+I should structure the summary to first state the differing views, then explain Bush's alternative plan, mention the criticism, and finally the agreement between Japan and the U.S. to work together, highlighting the benefits for both economy and environment.
+
+I also need to ensure that the summary flows well and includes all necessary points without being too verbose. I'll make sure to include the specific terms like "Kyoto Protocol," "voluntary limits," and "mandatory reduction targets" as they are part of the moral framing.
+
+Let me draft the summary, keeping it within the word limit and ensuring all the morally framed words are included. I'll check that each sentence contributes to the overall summary and that the key points are covered without unnecessary details.
+</think>
+
+SUMMARY: Japan and the U.S. have differing views on addressing global warming, with the U.S. rejecting the Kyoto Protocol and proposing an alternative plan. President Bush opposes the 1997 Kyoto Protocol, which aims to curb global warming, citing concerns about its impact on the economy. Instead, he advocates for voluntary limits on greenhouse gas emissions tied to economic growth, a plan criticized as ineffective by environmentalists. Japanese Prime Minister Junichiro Koizumi acknowledges the U.S. proposal as "constructive" but urges further efforts, emphasizing the need to balance economic growth with environmental protection. Both leaders agreed to cooperate on global warming initiatives, including developing new technologies that could benefit both the economy and the environment. However, the U.S. plan faces criticism for potentially allowing greenhouse gas emissions to rise, highlighting ongoing tensions between economic priorities and environmental action. END OF SUMMARY.

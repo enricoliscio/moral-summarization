@@ -1,0 +1,12 @@
+Alright, so I need to help the user by summarizing this news article. The user mentioned that I should preserve the moral framing the author gave. Hmm, okay, so first, I should read the article carefully to understand the main points and the tone.
+
+The article is about Susan Rice criticizing Netanyahu's speech to Congress. She says it's destructive to U.S.-Israel relations because it's introducing partisanship. She emphasizes that the relationship has always been bipartisan and shouldn't be politicized. Obama isn't meeting Netanyahu before the speech, which is unusual. Boehner invited Netanyahu without consulting the White House, and some lawmakers are concerned it could strain talks on Iran's nuclear plans. Leahy called it a "tawdry and high-handed stunt."
+
+I need to make sure the summary captures Susan Rice's disapproval and the reasons she gave. Also, include the political implications and the reactions from others. Keep it concise, under 200 words, and end with the tokens as instructed.
+
+Wait, the user also wants me to act as a moral expert. So, I should highlight the moral implications, like how partisanship is harmful to the relationship. Make sure to convey that the speech is seen as a political move that could damage the alliance.
+
+Let me structure it: start with Rice's criticism, mention the partisanship issue, Obama's decision, Boehner's action, and the lawmakers' concerns. Keep it clear and within the word limit. Okay, I think that's a solid approach.
+</think>
+
+SUMMARY: Susan Rice, President Obama's national security adviser, criticized Israeli Prime Minister Benjamin Netanyahu's planned speech before a joint session of Congress, calling it "destructive" to U.S.-Israel relations. Rice argued that the timing of the invitation, two weeks before Israel's elections, has injected partisanship into the relationship, which has historically been bipartisan. She emphasized the importance of maintaining a non-politicized alliance, stating that both the U.S. and Israel want to preserve this bipartisan nature. Obama has declined to meet with Netanyahu before the speech, deeming it inappropriate given the proximity to the elections. House Speaker John Boehner invited Netanyahu without consulting the White House, sparking concerns among lawmakers that the speech could harm international efforts to address Iran's nuclear program. Sen. Patrick Leahy condemned the speech as a "tawdry and high-handed stunt." END OF SUMMARY.

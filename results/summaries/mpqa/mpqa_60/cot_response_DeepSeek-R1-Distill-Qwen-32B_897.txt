@@ -1,0 +1,30 @@
+<think>
+Okay, so I need to help this user by summarizing a news article while preserving the moral framing. First, I'll read through the article to understand the context. It's about Zimbabwe's election with concerns over violence, voter suppression, and the possibility of a coup. 
+
+The user wants me to identify all the morally framed words first. I'll go through the article and pick out words that carry moral weight, like "violence," "fear," "rig," etc. Each of these words is important because they highlight the ethical issues at play.
+
+Next, I need to write a concise summary that includes as many of these moral terms as possible. The summary should be under 200 words and capture the essence of the article, focusing on the tensions, election irregularities, and potential for conflict.
+
+I'll start by outlining the main points: the election context, Mugabe's stronghold, Tsvangirai's lead, violence, election law changes, fear of coup, and the broader implications of the election outcome. I'll make sure to include the morally charged words to reflect the author's framing.
+
+Finally, I'll structure the summary to flow logically, ensuring each point is clear and the moral implications are evident. I'll keep it within the word limit and end with the required tokens.
+</think>
+
+**STEP 1:**  
+* Fear  
+* Violence  
+* Rig  
+* Concerns  
+* Intolerable  
+* Coup  
+* Murder  
+* Assassinate  
+* Jail  
+* Steal  
+* Disenfranchise  
+* Prosecute  
+* Attack  
+* Kill  
+
+**SUMMARY:**  
+As Zimbabwe prepares for its contentious election, fears of violence and civil war loom large. Many Zimbabweans fear that the loser of the election, whether Robert Mugabe or Morgan Tsvangirai, will not accept the result, leading to chaos. Mugabe, the long-standing autocrat, faces a potential challenge from Tsvangirai, who has been targeted by violence and accusations of plotting to assassinate Mugabe. Government officials have hinted at supporting a coup if Tsvangirai wins, while Mugabe's party has altered election laws to suppress opposition votes. Concerns about voter disenfranchisement, particularly among young supporters of Tsvangirai, and the exclusion of independent monitors further raise suspicions of electoral fraud. The stakes are high, as the election could lead to martial law or mass protests. Tsvangirai has promised not to prosecute Mugabe, potentially easing Mugabe's fear of accountability for past human rights abuses. The election is seen as a clash between an aging autocrat and a restless opposition, with the risk of widespread violence and instability. END OF SUMMARY.

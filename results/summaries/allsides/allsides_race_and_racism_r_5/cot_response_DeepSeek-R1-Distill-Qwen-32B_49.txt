@@ -1,0 +1,32 @@
+Okay, so the user has given me a query where they want me to act as a news summarizer and moral expert. They provided a news article and specific instructions on how to process it. First, I need to understand the task thoroughly.
+
+The user wants me to perform two main steps. The first is to identify all the single words in the article that are morally framed. They specified that I should list each word with a * and each on a new line under STEP 1. The second step is to write a concise summary of the article, preserving as many of these morally framed words as possible, and keeping it under 200 words.
+
+Looking at the article, it's about President Obama addressing race relations and other issues after some tragic events. I need to go through the text and pick out words that carry moral connotations. Words like "optimistic," "violence," "protests," "foundation," "commitment," "tension," "safety," "equality," "inequality," "globalization," "justice," "hope," and "freedom" stand out as they relate to moral or ethical issues.
+
+Next, for the summary, I have to ensure it's concise and includes these moral terms. I'll need to structure it so that it captures Obama's main points: urging optimism despite the violence, the task force, his stance on gun control, and his comments on globalization and NATO. I should make sure the summary flows well and stays within the word limit.
+
+I also need to format the response correctly, starting with STEP 1, listing each word, then the SUMMARY section, and ending with the specified tokens. I must avoid markdown and keep it in plain text as per the user's instructions.
+
+I should double-check that I'm not missing any morally framed words and that the summary accurately reflects the article's content while incorporating those terms. It's important to maintain the moral framing as the author intended, so I'll focus on words that convey values or ethical considerations.
+
+Finally, I'll review the summary to ensure it's under 200 words and that all key points are included without being too verbose. Making sure the moral terms are preserved will help maintain the article's original tone and message.
+</think>
+
+### STEP 1:
+* optimistic
+* violence
+* protests
+* foundation
+* commitment
+* tension
+* safety
+* equality
+* inequality
+* globalization
+* justice
+* hope
+* freedom
+
+### SUMMARY:
+President Obama addressed the nation after recent tragic events, urging Americans to remain optimistic about race relations despite the violence. He emphasized that the actions of a few should not define the whole, dismissing claims that race relations have regressed to the 1960s. Obama revived a task force to address police-community relations and reduce racial tension, while renewing his commitment to stopping gun violence. He highlighted the difficulty police face in gun-filled communities and stressed the importance of addressing the gun issue. Obama also reflected on the decrease in violent crime over the past decade and called for a focus on safety and justice. He acknowledged the challenges of confronting non-state actors like ISIS and emphasized the need for international cooperation. On globalization, Obama noted its risks but said it is here to stay. He also reaffirmed the U.S.'s commitment to NATO and its allies. END OF SUMMARY.

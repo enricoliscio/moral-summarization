@@ -1,0 +1,33 @@
+Alright, so the user wants me to summarize a news article about Confederate statues, but with a focus on preserving the moral framing. They also provided a detailed example of how to do this, breaking it down into two steps: identifying morally framed words and then writing a summary using those words.
+
+First, I need to understand what "morally framed" words mean. These are words that carry a strong moral connotation, like "traitorous," "glories," or "sacred." They're words that evoke right and wrong, good and bad.
+
+Looking at the article, I should go through each paragraph and pick out these words. I'll list them under STEP 1, each on a new line with a star. For example, "traitorous," "glories," "sacred," etc.
+
+Next, I have to write a concise summary, around 200 words, that includes as many of these moral words as possible. The summary should reflect the author's viewpoint, which is against the statues and in favor of reevaluating and removing them.
+
+I need to make sure the summary flows well and covers the main points: the problem with Confederate statues, the context of their erection, the impact on African Americans, and the call for lawful removal rather than vandalism. Also, mention the specific examples like the Robert E. Lee statue and the Confederate flag.
+
+I should avoid any markdown and keep the language clear and impactful, using the morally charged words to convey the author's stance effectively.
+
+Finally, I'll structure the response with STEP 1 listing the words and then the SUMMARY, making sure it's within the word limit and ends with the specified tokens.
+</think>
+
+**STEP 1:**  
+* traitorous  
+* glories  
+* sacred  
+* affront  
+* pedestals  
+* cult  
+* mythology  
+* legitimate  
+* erroneous  
+* rump republic  
+* traitorous  
+* honor  
+* worthier  
+
+**SUMMARY:**  
+The article argues against the preservation of Confederate statues, calling them an unnecessary affront to Black citizens and a symbol of a dishonest, glorified version of the Confederacy. The author emphasizes that these statues, erected to celebrate the "glories" of the Confederacy, should be reevaluated and often removed, as they uphold a traitorous cause that threatened the American nation. The Confederate flag, a symbol of a "viciously flawed" cause, should be shunned, while direct commemorations of the war dead, like obelisks and cemeteries, should be preserved to mark the human cost of the conflict. The article criticizes the cult of Robert E. Lee, which enshrines him as a "man of moral strength," and rejects the "Lost Cause" mythology that denies the central role of slavery in the Civil War. The author asserts that the Confederacy's leaders, who sought to dismantle the constitutional scheme and create a rump republic built on slavery, do not deserve a place of honor. Confederate statues should be removed lawfully, not through mob action, to ensure they are not celebrated as symbols of a sacred or glorious past.  
+**END OF SUMMARY.**

@@ -1,0 +1,35 @@
+<think>
+Okay, so I'm trying to figure out how to approach this query. The user wants me to act as a news summarizer and a moral expert. They provided a news article and specific instructions on how to process it. Let me break it down step by step.
+
+First, the user wants me to identify all the single words that are morally framed in the article. They mentioned this as STEP 1, and each word should be listed with a * before it. I need to go through the article and pick out words that carry a strong moral connotation. Words like "blatant lies," "propaganda," "hegemony," "subjugate," "barbarities," "oppression," "fraudulent," "terrorist," "extremist," "moral resistance," etc., come to mind. These words are used to convey strong moral judgments, so I should list each of them.
+
+Next, the user wants a summary of the article that preserves as many of these morally framed words as possible. The summary needs to be concise, under 200 words, and should start after the "SUMMARY:" token and end with "END OF SUMMARY." I need to ensure that the summary captures the main points while using those moral terms. The article is about Hameed Gul criticizing the US State Department's human rights report, accusing the US of hypocrisy and double standards. He also mentions the situation in India and Palestine, highlighting US silence on human rights abuses there.
+
+I should structure the summary to include Hameed Gul's rejection of the report, his accusations against the US, the mention of the Afghan people, the Indian Muslims, and the Palestinian issue. I need to weave in the moral terms naturally to reflect the author's framing.
+
+I also need to make sure that the summary is clear and flows well, not just a list of points. It should convey the main arguments and the moral stance taken by Hameed Gul. I should avoid adding any new information not present in the article and stick strictly to summarizing the provided content.
+
+Finally, I need to ensure that the summary is within the word limit. I'll have to be concise but thorough, making sure each key point is included without going over the limit. I'll probably start by outlining the main points and then condense them into a coherent summary, checking the word count as I go.
+
+Overall, the key steps are: identify the morally framed words, then create a concise summary that includes as many of those words as possible while capturing the essence of the article. I need to be careful to preserve the moral framing as per the author's perspective, which is critical in this case.
+</think>
+
+**STEP 1:**  
+* Blatant lies  
+* Propaganda  
+* Hegemony  
+* Subjugate  
+* Barbarities  
+* Oppression  
+* Fraudulent  
+* Terrorist  
+* Extremist  
+* Mum  
+* Vested interests  
+* Rights abuses  
+* Submission  
+* Moral resistance  
+* Unity  
+
+**SUMMARY:**  
+Leading Pakistani defense analyst Hameed Gul strongly criticized the US State Department's human rights report, calling it "a pack of blatant lies and propaganda." He accused the US of using human rights as a tool to justify its hegemonic ambitions, targeting countries that resist American influence. Gul condemned the US for its hypocrisy, pointing out its silence on human rights abuses in India, where extremist Hindus have killed over 600 Muslims, and in Palestine, where Israel continues to oppress Palestinians. He emphasized that the US only highlights human rights violations when they hinder its interests. Gul warned that Muslims must unite morally and resist US influence to avoid being crushed individually. He stressed the need for a free and independent Palestine, as enshrined in UN resolutions, and criticized the US for denying this right. END OF SUMMARY.

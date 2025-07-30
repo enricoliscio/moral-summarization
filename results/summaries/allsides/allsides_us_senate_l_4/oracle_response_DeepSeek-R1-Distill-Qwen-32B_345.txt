@@ -1,0 +1,16 @@
+Okay, so I need to help the user by summarizing the news article they provided, but I have to make sure to preserve the moral framing that the author used. The user has given me a specific list of morally framed words that should be included in the summary. 
+
+First, I'll read through the article to understand the main points. It's about Al Franken resigning after multiple accusations of sexual misconduct. He didn't apologize properly in his speech, which the author feels was a missed opportunity to show contrition. The author uses terms like "groped," "harassed," "squandered," "misconduct," and "harm" to emphasize the moral issues.
+
+I need to make sure the summary includes as many of those words as possible without making it sound forced. I'll start by outlining the key events: Franken's resignation, the accusations, his inadequate apology, and the implications of his speech.
+
+Next, I'll ensure that the summary highlights his failure to apologize, which the author criticizes. I'll use words like "squandered," "apologize," and "misconduct" to convey the moral judgment. Also, I should mention how his speech affected the accusers and the broader cause of protecting women.
+
+I'll keep the summary concise, under 200 words, and make sure it flows naturally while incorporating the necessary moral terms. I'll avoid adding any new information not present in the article and stick to the main points the author made.
+
+Finally, I'll review the summary to ensure it captures the author's tone and the moral framing, using the specified words effectively without making the summary feel cluttered or unnatural.
+</think>
+
+SUMMARY:  
+Al Franken’s resignation speech after multiple accusations of groping and harassment was widely criticized for failing to apologize or acknowledge the harm caused. Instead, Franken focused on his own struggles, offered advice for aspiring politicians, and seemed to retract his earlier apologies, squandering an opportunity to address his misconduct. Sociologist David Karp outlined five steps for a meaningful apology: acknowledging harm, admitting fault, expressing remorse, committing to change, and making amends. Franken’s speech failed all these steps, particularly by denying some allegations and casting doubt on accusers, thereby harming the cause of protecting women from abuse of power. His vague denial encouraged skepticism toward survivors, aligning with harmful narratives that discredit women reporting harassment. By choosing to preserve his reputation over supporting his accusers, Franken made it harder to fight injustices like those faced by Roy Moore and Donald Trump. His actions underscored the importance of sincere accountability in addressing sexual misconduct.  
+END OF SUMMARY.

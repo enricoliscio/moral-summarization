@@ -1,0 +1,25 @@
+<think>
+Okay, I need to help the user by summarizing the news article while preserving the moral framing. First, I should understand what the user is asking for. They want me to act as a news summarizer and a moral expert. So, I need to identify the morally framed words in the article and then write a summary that includes as many of those words as possible.
+
+Starting with the first step, I need to go through the article and pick out all the single words that carry a moral connotation. Words like "contender," "leading," "unlikely," "frontrunner," "point-blank," "mistake," "intriguing," and "career politician" stand out. These words aren't just neutral; they carry implications about the suitability or desirability of Lieberman's candidacy. For example, "contender" suggests competition, while "mistake" implies a negative judgment.
+
+Next, for the summary, I need to make sure I include these morally framed words while keeping the summary concise. I should also capture the key points: Trump is close to naming a new FBI director, Lieberman is the leading contender despite being a Democrat-turned-independent, his political history is a point of contention, and there's bipartisan reaction. I have to ensure the summary flows well and stays under 200 words.
+
+I should structure the summary to mention Trump's proximity to making the appointment, Lieberman's background, the political implications of his candidacy, and the reactions from both parties. Highlighting the moral framing words will help convey the underlying judgments in the article.
+
+I also need to make sure the summary doesn't include any markdown and is in plain text. I'll start with "SUMMARY:" and end with "END OF SUMMARY." to adhere to the user's instructions. Keeping it clear and within the word limit is crucial.
+
+Lastly, I'll double-check that all the morally framed words are included and that the summary accurately reflects the article's content and tone. This way, the user gets a concise, morally framed summary that meets their requirements.
+</think>
+
+**STEP 1:**  
+* Contender  
+* Leading  
+* Unlikely  
+* Frontrunner  
+* Mistake  
+* Intriguing  
+* Career politician  
+
+**SUMMARY:**  
+President Trump is close to naming a new FBI director, with former Democratic Sen. Joe Lieberman as the leading contender. Lieberman, a politically independent figure with a controversial history, including endorsing both McCain and Clinton, has emerged as the frontrunner despite being a somewhat unlikely choice. While some Republicans find the idea intriguing, others, like Sen. Claire McCaskill, argue it would be a mistake to nominate him. Lieberman’s political background has drawn criticism, with Sen. Chuck Schumer opposing a "career politician" leading the FBI. END OF SUMMARY.

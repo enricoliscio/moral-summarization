@@ -1,0 +1,10 @@
+Okay, so the user wants me to summarize a news article while preserving the moral framing. Let me read through the article first. It's about a shooting in Louisville where police and the National Guard opened fire, killing one man. The context is protests over Breonna Taylor's death and George Floyd's death. 
+
+I need to make sure the summary captures the key points: the shooting incident, the authorization of an independent investigation, the police chief's statement about the crowd firing first, the context of the protests, and the impact on tensions. Also, the moral framing is important, so I should highlight the lack of trust in police and the ongoing issues in Louisville.
+
+I should structure the summary to start with the incident, then the response from authorities, the police chief's comments, and the broader context of the protests and their implications. Keeping it under 200 words is crucial, so I'll need to be concise but thorough.
+
+Let me make sure I include all the essential details without going into too much depth. I'll avoid jargon and keep it clear. Also, I should end with the summary token as specified. I think that's all. Time to put it together.
+</think>
+
+SUMMARY: A man was killed when police and the National Guard opened fire in Louisville during a confrontation with a crowd gathered in a parking lot. The shooting occurred after another night of protests over the deaths of Breonna Taylor and George Floyd. Authorities dispatched law enforcement to disperse the crowd, but someone in the crowd fired at officers, leading to a return of fire. Police Chief Steve Conrad emphasized the lack of trust in law enforcement and the challenges ahead, while Governor Andy Beshear authorized an independent investigation into the fatal shooting. The incident is likely to exacerbate tensions in Louisville, where protests have been ongoing since Taylor, an unarmed African American EMT, was killed by police in March. Taylor's death occurred during a botched raid, and her case has become a focal point for demands for justice and accountability. END OF SUMMARY.

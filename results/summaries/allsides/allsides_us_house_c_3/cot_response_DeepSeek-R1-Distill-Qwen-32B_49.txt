@@ -1,0 +1,41 @@
+Okay, so I need to help the user by summarizing a news article while preserving the moral framing. The user has given specific instructions, so I should follow them carefully. 
+
+First, I need to read the article thoroughly to understand the context and identify the morally framed words. The article is about the U.S. House Judiciary Committee subpoenaing Rob Porter and others related to the investigation into Trump's alleged obstruction of justice. 
+
+The user wants me to first list all the single words that are morally framed. I should look for words that carry moral connotations, such as "subpoenaed," "impede," "interference," "efforts," "impeachment," "obstruct," "justice," "pressure," "prosecuted," "deny," "pressure," "interfere," "abuse," "contemporaneous," "explicitly," "deny," "pressure," "interfere," "abuse," and "contemporaneous." These words are key to the moral narrative in the article.
+
+Next, I need to write a concise summary that includes as many of these morally framed words as possible. The summary should be under 200 words and capture the essence of the article, highlighting the legal and moral implications of Trump's actions. I should ensure that the summary reflects the Democrats' perspective on the matter, emphasizing the potential for impeachment and the obstruction of justice.
+
+I should structure the summary by mentioning the subpoena, the individuals involved, the key events from the Mueller report, and the implications for impeachment. I'll make sure to include the morally charged words to maintain the framing the author intended.
+
+Finally, I'll present the summary after the "SUMMARY:" token and end with "END OF SUMMARY." to meet the user's formatting requirements.
+</think>
+
+**STEP 1:**
+
+* subpoenaed  
+* impede  
+* interference  
+* efforts  
+* impeachment  
+* obstruct  
+* justice  
+* pressure  
+* prosecuted  
+* deny  
+* pressure  
+* interfere  
+* abuse  
+* contemporaneous  
+* explicitly  
+* deny  
+* pressure  
+* interfere  
+* abuse  
+* contemporaneous  
+
+**SUMMARY:**  
+
+The U.S. House Judiciary Committee subpoenaed former White House aide Rob Porter to testify about alleged efforts by President Trump to impede a federal probe into Russian interference in the 2016 election. Porter, along with former Trump advisers Corey Lewandowski and Rick Dearborn, is set to appear before the committee on Sept. 17. House Judiciary Chairman Jerrold Nadler stated that the proceedings aim to determine whether to recommend Trump’s impeachment. Democrats view Porter’s involvement as key, as he witnessed events described in the Mueller report, including Trump’s efforts to obstruct justice by directing White House Counsel Don McGahn to fire the special counsel and lie about it. Democrats also want Lewandowski and Dearborn to testify about Trump’s alleged pressure on former Attorney General Jeff Sessions to divert the Russia investigation. Nadler emphasized that Trump’s actions would warrant prosecution under normal circumstances. Porter’s role in pressuring McGahn and his connections to former Associate Attorney General Rachel Brand are central to the investigation. Porter left the White House in 2018 amid domestic abuse allegations.  
+
+END OF SUMMARY.

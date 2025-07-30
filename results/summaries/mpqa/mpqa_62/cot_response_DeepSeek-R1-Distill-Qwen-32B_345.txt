@@ -1,0 +1,28 @@
+Okay, so I need to help the user by summarizing a news article while preserving the moral framing. Let me break down the task step by step.
+
+First, the user provided a news article about the space shuttle Endeavour docking with the International Space Station. They want me to identify all the single words that are morally framed. Then, I need to write a summary that includes as many of these morally framed words as possible.
+
+Starting with STEP 1: Identifying morally framed words. I'll read through the article and pick out words that carry moral connotations. Words like "delivered," "relieve," "eagerly," "quiet," "isolated," "frustrated," "ghostly," "closed," "tradition," and "arriving." These words seem to carry emotions or moral implications.
+
+Now, for the summary. I need to make sure it's concise, no more than 200 words, and includes those morally framed words. I'll structure it to mention the docking, the new crew relieving the old one, the commander's feelings, and the transition of crew members. I'll ensure that the summary flows naturally while incorporating the identified words.
+
+I should also make sure that the summary starts with "SUMMARY:" and ends with "END OF SUMMARY." and that it's clear and accurate. Let me piece it together, making sure each morally framed word is included where appropriate without making the summary awkward.
+
+I think that covers everything the user asked for. Time to put it all together.
+</think>
+
+### STEP 1:  
+* delivered  
+* relieve  
+* eagerly  
+* quiet  
+* isolated  
+* frustrated  
+* ghostly  
+* closed  
+* tradition  
+* arriving  
+
+### SUMMARY:  
+Space shuttle Endeavour successfully docked with the International Space Station, delivering a new three-member crew to relieve the existing crew that had been in space since August. Commander Frank Culbertson, who had experienced feelings of isolation and frustration following the September 11 attacks, eagerly awaited the arrival of Endeavour, which would take him and his crewmates home. As the shuttle approached, Culbertson watched the ghostly white spacecraft close in, ringing the ship's bell and announcing its arrival in traditional fashion. The new crew, led by Russian commander Yuri Onufrienko, will take over the station, while Culbertson and his team will return to Earth. The transition marks the end of a quiet but emotionally challenging mission for the outgoing crew.  
+END OF SUMMARY.

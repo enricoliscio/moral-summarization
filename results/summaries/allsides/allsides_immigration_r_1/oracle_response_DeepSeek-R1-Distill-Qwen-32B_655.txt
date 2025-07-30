@@ -1,0 +1,13 @@
+Okay, I need to help the user by summarizing the given news article while preserving the moral framing. The user specified that the summary should include as many of the morally framed words as possible. Let me start by reading the article carefully.
+
+The article is about San Francisco's decision not to cooperate with ICE, led by Sheriff Miyamoto. He's emphasizing public safety and community trust, using terms like "afraid" and "crimes." The author uses words like "crimes," "killed," "released," "prohibits," "targeted," "fight," "attacks," and "protect." I need to make sure these words are included in the summary.
+
+I should structure the summary to highlight the main points: the new policy, the reasons behind it (public safety and community trust), the context of California's existing laws, Trump's criticism, and the city's stance against federal actions. I need to keep it under 200 words.
+
+I'll start by stating the decision, mention Miyamoto's reasoning, reference the California Values Act, touch on Trump's criticism with the example of the man killed, and conclude with the city's resolve to protect its residents. I'll make sure to use the moral terms to frame the summary appropriately.
+
+Let me draft this, ensuring each key point is covered concisely and the moral language is preserved. I'll check the word count to stay within the limit. Once done, I'll present it after the "SUMMARY:" token and end with "END OF SUMMARY."
+</think>
+
+SUMMARY:  
+San Francisco’s new sheriff, Paul Miyamoto, has declared that the city’s law enforcement will no longer cooperate with Immigration and Customs Enforcement (ICE), solidifying its status as a sanctuary city. Miyamoto emphasized that public safety is the department’s priority, arguing that communities cannot be safe if residents are afraid to report crimes. His directive prohibits honoring ICE detainers, meaning illegal aliens in local custody for unrelated crimes will not be transferred to ICE. While Miyamoto claims this promotes public safety, critics point to documented cases of such individuals committing additional crimes after release. California’s Values Act, in effect since 2018, already limits cooperation with ICE, barring state and local agencies from honoring detainer requests. President Trump has criticized California’s sanctuary policies, citing cases like a man killed by an illegal alien who had been released due to the law. The Trump administration has also targeted California by challenging its ban on private detention facilities. San Francisco Mayor London Breed vowed to fight federal attacks, declaring the city’s commitment to protecting its residents. END OF SUMMARY.

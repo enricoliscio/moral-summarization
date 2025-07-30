@@ -1,0 +1,65 @@
+Okay, so the user has given me a query where they want me to act as a news summarizer and a moral expert. They provided a detailed news article about Trump's inauguration and specific instructions on how to process it. 
+
+First, I need to understand the task. They want me to identify all the morally framed single words in the article. That means I have to go through the text and pick out words that carry a moral connotation, either positive or negative. 
+
+Looking at the article, I see words like "disruption," "hostile," "corruption," "darkness," "carnage," "ravages," "dislocation," "exploitation," "failure," "tragedy," "poverty," "rusted," "tombstones," "crisis," "desperation," "plight," "suffering," "inaction," "empty," "weakness," "decay," "despair," "hope," "victory," "strength," "action," "ambition," "disillusionment," "division," "unrest," "conflict," "protest," "oppression," "equality," "freedom," "truth," "justice," "love," "service," "leadership," "loyalty," "patriotism," "integrity," "fairness," "loyalty," "dedication," "loyalty," "service," "leadership," "loyalty," "dedication," "loyalty," "service," "leadership," "loyalty," "dedication." 
+
+Next, I need to summarize the article, preserving as many of these morally framed words as possible. The summary should be concise, around 200 words. I'll start by outlining the main points: Trump's inauguration, his populist message, the grim view of the country, policy rollbacks, protests, and the contrast with Obama's departure.
+
+I should make sure to include the morally charged words to reflect the author's framing. Words like "hostile," "carnage," "darkness," "failure," "hope," "strength," "protest," "division," "truth," "justice," "love," "service," "leadership," "loyalty," "patriotism," "integrity," "fairness" are key.
+
+Putting it all together, the summary should capture Trump's inauguration as a significant, disruptive event, his vision of a struggling America, the immediate actions taken, the protests, and the symbolic elements like the Bibles. I'll also mention the contrast with Obama's departure to highlight the change in tone and policies.
+
+I need to ensure the summary flows well and stays within the word limit. I'll check each sentence to include the morally framed words where appropriate without making it sound forced. 
+
+Finally, I'll format the response with STEP 1 listing each word and the SUMMARY section following the instructions, ending with the specified tokens.
+</think>
+
+**STEP 1:**  
+* disruption  
+* hostile  
+* corruption  
+* darkness  
+* carnage  
+* ravages  
+* dislocation  
+* exploitation  
+* failure  
+* tragedy  
+* poverty  
+* rusted  
+* tombstones  
+* crisis  
+* desperation  
+* plight  
+* suffering  
+* inaction  
+* empty  
+* weakness  
+* decay  
+* despair  
+* hope  
+* victory  
+* strength  
+* action  
+* ambition  
+* disillusionment  
+* division  
+* unrest  
+* conflict  
+* protest  
+* oppression  
+* equality  
+* freedom  
+* truth  
+* justice  
+* love  
+* service  
+* leadership  
+* loyalty  
+* patriotism  
+* integrity  
+* fairness  
+
+**SUMMARY:**  
+Donald Trump's inauguration marked a disruptive shift in American politics, with his populist rhetoric emphasizing a "hostile takeover" of Washington and a grim vision of "American carnage." Trump painted a dark picture of economic dislocation, poverty, and decay, vowing to restore greatness through "buy American and hire American" policies. His speech, steeped in moral urgency, criticized political inaction and promised to eradicate Islamic terrorism and foster equality. The event was marred by protests, with clashes and arrests, reflecting deep divisions in the nation. Trump's inauguration also highlighted contrasts with Barack Obama's departure, as the latter left the presidency with a message of continued service and inspiration. Trump's use of symbolic gestures, like swearing on Lincoln's Bible, underscored his ambition to redefine leadership and loyalty, while his policies and rhetoric raised questions about fairness and integrity. END OF SUMMARY.

@@ -1,0 +1,36 @@
+Okay, so I'm trying to help the user with their query. They provided a news article and specific instructions on how to summarize it. The user wants me to first identify all the single words that are morally framed, and then write a summary preserving those moral framings. 
+
+First, I need to understand what "morally framed" words mean. These are words that carry a positive or negative moral connotation, indicating approval or disapproval. For example, words like "compromise," "wish list," "gut," "ban," "alarming," "extreme," "poison pills," "shift," "blame," "pathetic," "curtail," "frivolous," "alarm," "extreme," "trouble," "incentive," "protections." 
+
+I'll go through the article and pick out each of these words. I need to make sure I list them all, each on a new line with an asterisk. 
+
+Next, the summary needs to be concise, under 200 words, and include as many of these morally charged words as possible. The summary should capture the essence of the article, highlighting Trump's offer, the Republican bill's harsh measures, Democratic rejection, and the implications for immigration policies.
+
+I should structure the summary to first mention Trump's offer as a "compromise," then detail the bill's provisions which are seen as a "wish list" for hard-liners. I'll note the "gutting" of asylum laws, the "ban" on asylum for minors, and the "alarm" from activists. I'll also include the Supreme Court's inaction on DACA, affecting the incentive for Democrats to accept the offer. 
+
+I need to ensure the summary flows logically, starting from Trump's offer, moving through the bill's provisions, the reactions, and the implications. Keeping it under 200 words is crucial, so I'll be concise but include all key points with the moral framing words.
+
+Finally, I'll make sure to format the response correctly, starting with STEP 1, listing the words, then the SUMMARY, and ending with the specified tokens.
+</think>
+
+**STEP 1:**  
+* Compromise  
+* Wish list  
+* Gut  
+* Ban  
+* Alarm  
+* Extreme  
+* Poison pills  
+* Shift  
+* Blame  
+* Pathetic  
+* Curtail  
+* Frivolous  
+* Alarm  
+* Extreme  
+* Trouble  
+* Incentive  
+* Protections  
+
+**SUMMARY:**  
+President Trump offered a "compromise" to Democrats, proposing a three-year extension for DACA and temporary protected status for some immigrants, but Senate Republicans unveiled a bill that includes harsh measures, making it a "wish list" for hard-liners. The bill guts asylum laws for children and trafficking victims, bans asylum for minors at ports of entry, and expands detention, likely dead on arrival in the Senate. Critics called the offer a "poison pill" to shift blame, as it includes extreme changes to asylum, such as capping applications and penalizing frivolous claims. Immigration activists and even some conservatives criticized the bill as "alarm[ing]" and "extreme." Trump’s effort to win Democratic support hit more trouble as the Supreme Court left DACA protections in place, reducing incentives for Democrats to accept the offer. END OF SUMMARY.

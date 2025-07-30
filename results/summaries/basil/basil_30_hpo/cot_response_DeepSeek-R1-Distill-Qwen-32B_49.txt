@@ -1,0 +1,40 @@
+Okay, I need to help the user by summarizing the news article while preserving the moral framing. The user has given specific instructions, so I should follow them carefully.
+
+First, I'll read the article to understand the main points. It's about Obama's gun control proposals, which are significant and aim to reduce mass gun violence. The article mentions several key elements: background checks, assault weapons ban, magazine limits, armor-piercing bullets, mental health services, school safety, funding, and executive actions. There's also mention of opposition from the NRA and the challenges in getting the proposals passed.
+
+Now, the user wants me to identify all the single words that are morally framed. I'll go through the text and pick out words that carry moral connotations. Words like "bold," "historic," "sweeping," "safe," "obligation," "monumental," "thrilled," "push," "block," "overreach," "failed," "blamed," "elitist hypocrite," "cure-all," "teeth," "illegal," "wrong hands," "resources," "hope," "comprehensive." I'll list these each on a new line with an asterisk.
+
+Next, I need to write a concise summary (under 200 words) that includes as many of these moral words as possible. The summary should capture the essence of Obama's proposals, the administration's efforts, the opposition, and the challenges ahead.
+
+I'll start by stating the main action: Obama unveiling sweeping gun control proposals. Then, mention the key components and the cost. Highlight the moral obligation to protect children. Note the executive actions and the administration's hope for public support. Mention the opposition from the NRA and the challenges in legislative approval. Conclude with the administration's belief that the proposals are a significant step but not a complete solution.
+
+I'll make sure the summary flows well and includes the morally framed words to preserve the author's perspective. I'll also keep it within the word limit, so I'll be concise but thorough.
+
+Finally, I'll structure the response with the STEP 1 listing the moral words and then the SUMMARY section as specified. I'll ensure the summary starts with "SUMMARY:" and ends with "END OF SUMMARY." to meet the user's formatting requirements.
+</think>
+
+**STEP 1:**  
+* Bold  
+* Historic  
+* Stem  
+* Safe  
+* Judged  
+* Obligation  
+* Thrilled  
+* Push  
+* Block  
+* Overreach  
+* Failed  
+* Blamed  
+* Elitist hypocrite  
+* Cure-all  
+* Teeth  
+* Illegal  
+* Wrong hands  
+* Resources  
+* Hope  
+* Comprehensive  
+
+**SUMMARY:**  
+President Obama unveiled sweeping gun control proposals, marking the most significant legislative effort in decades to address rising mass gun violence. The plan includes background checks, an assault weapons ban, magazine limits, and school safety measures, with a $500 million cost. Obama emphasized the moral obligation to protect children and save lives, urging immediate action. The administration proposed 23 executive actions, such as improving background checks and training, while seeking congressional approval. Gun control advocates praised the initiative, but challenges loom, including opposition from the NRA, which accuses the administration of overreach. The proposals aim to reduce gun violence but are not a complete solution. Obama stressed the need for public demand and bipartisan support to succeed. The administration remains hopeful, calling the effort a monumental step forward.  
+**END OF SUMMARY.**

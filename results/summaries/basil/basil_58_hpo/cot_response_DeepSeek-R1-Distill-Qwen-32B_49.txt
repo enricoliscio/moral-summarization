@@ -1,0 +1,38 @@
+Alright, so the user has given me a task where I need to summarize a news article about Chris Christie announcing his presidential run. They also want me to identify morally framed words and then write a summary preserving those frames. 
+
+First, I need to understand what morally framed words are. These are words that carry a moral connotation, like "corruption," "courage," "failure," etc. They're used to convey judgment or evaluation.
+
+Looking at the article, I should go through each sentence and pick out words that have such connotations. For example, "failure" is used when Christie criticizes both parties for failing the country. "Courage" is mentioned in the context of standing up against compromise. 
+
+I'll list each of these words, making sure to capture all instances where the author uses moral language. This will help in the next step when summarizing, ensuring those words are included to maintain the original moral framing.
+
+Once I have all the morally framed words, I need to craft a concise summary. I should keep it under 200 words, so I'll focus on the key points: Christie's announcement, his criticism of Congress, his background, the Bridgegate scandal, and his stance on Common Core. Including the morally framed words will help maintain the tone and message the author intended.
+
+I also need to ensure the summary flows well and covers all essential aspects without getting bogged down in too much detail. It's a balance between being comprehensive and concise.
+
+Finally, I'll structure the response with the identified words first, each on a new line, and then the summary, making sure it starts and ends with the specified tokens. I'll double-check the word count to stay within the limit and ensure clarity and coherence.
+</think>
+
+**STEP 1:**  
+* failure  
+* courage  
+* compromise  
+* anxiety  
+* bullying  
+* catastrophic  
+* favorability  
+* responsiveness  
+* leadership  
+* brash  
+* confrontational  
+* prom king  
+* lead  
+* retaliation  
+* traffic jams  
+* negativity  
+* reversal  
+* support  
+* played out  
+
+**SUMMARY:**  
+New Jersey Gov. Chris Christie (R) announced his candidacy for the 2016 presidency, emphasizing his commitment to fighting for the American people. He criticized both political parties for failing the country and called for courage to address the lack of productivity in Washington. Christie, known for his blunt and confrontational style, has a history of political leadership, including managing New Jersey during Hurricane Sandy and chairing the Republican Governors Association. However, his reputation suffered due to the "Bridgegate" scandal, where his administration was accused of retaliatory actions. Christie has also faced criticism for reversing his stance on Common Core education standards. Despite his high favorability ratings, he remains in the middle of the GOP field. END OF SUMMARY.

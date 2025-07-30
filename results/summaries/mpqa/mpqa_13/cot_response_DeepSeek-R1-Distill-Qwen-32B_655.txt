@@ -1,0 +1,35 @@
+Alright, so I'm trying to help the user with their query. They want me to act as a news summarizer assistant and a moral expert. The task is to summarize a given news article while preserving the moral framing the author provided. 
+
+First, I need to understand the structure of the query. They provided a news article about US-Japan climate talks. The user has two main steps: identifying morally framed words and then summarizing the article while keeping those moral terms.
+
+I start by reading the article carefully. It talks about the climate talks ending, the discussions on cooperation, the US promoting R&D, Japan's intention to ratify the Kyoto protocol, and President Bush's rejection of the protocol, which caused an international outcry.
+
+For step one, I need to identify all single words that carry moral framing. Words like "voluntary," "mandatory," "rejected," "hindered," "outcry," "ratify," "cooperate," "promote," "voluntarily," and "mandatory." These words have connotations that imply approval or disapproval.
+
+Next, I need to write a concise summary that includes as many of these moral words as possible. The summary should be under 200 words. I should make sure to include the key points: the talks ending, the US's new plan, Japan's stance on Kyoto, Bush's rejection causing an outcry, and the ongoing discussions on R&D.
+
+I also need to structure the response with STEP 1 and then the SUMMARY, ending with the specified tokens. I should ensure that the summary flows well and accurately reflects the moral framing without adding any new information.
+
+I should check that I'm not missing any morally framed words. Let me go through the article again. "Voluntary" and "mandatory" are used in the context of emissions, which are moral choices. "Rejected" and "hindered" show disapproval and hindrance, respectively. "Outcry" indicates a strong negative reaction. "Ratify" is a positive action, and "cooperate" is a positive stance. "Promote" is a positive action, and "voluntarily" and "mandatory" again emphasize the nature of the policies.
+
+Putting it all together, I need to craft a summary that includes these words naturally. I'll mention the talks ending, the US's new plan with voluntary limits, Japan's intention to ratify Kyoto, Bush's rejection causing an outcry, and the discussions on R&D to prevent global warming. I'll make sure each moral word is included where appropriate.
+
+I think that covers everything. Now, I'll format the response as per the user's instructions, making sure each step is clearly marked and the summary is concise and within the word limit.
+</think>
+
+### STEP 1:  
+* voluntary  
+* mandatory  
+* rejected  
+* hindered  
+* outcry  
+* ratify  
+* cooperate  
+* promote  
+* voluntarily  
+* mandatory  
+
+---
+
+### SUMMARY:  
+US-Japan climate talks concluded in Tokyo, with representatives discussing cooperation in science and technology to address global warming. The US announced plans to promote research and development in climate change, while Japan reaffirmed its intention to ratify the Kyoto Protocol. The talks marked the first since President George Bush unveiled a new US plan advocating voluntary limits on greenhouse gas emissions tied to economic growth, instead of mandatory targets. Bush’s rejection of the Kyoto Protocol last year sparked international outcry, as it was seen as hindering global efforts to combat climate change. The discussions highlighted diverging approaches to addressing climate change, with the US emphasizing voluntary measures and Japan remaining committed to the Kyoto framework. END OF SUMMARY.

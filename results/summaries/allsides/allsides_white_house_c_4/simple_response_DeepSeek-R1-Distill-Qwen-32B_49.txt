@@ -1,0 +1,14 @@
+Alright, so the user has given me a query where they want me to act as a news summarizer assistant and a moral expert. The task is to summarize a provided news article while preserving the moral framing the author used. 
+
+First, I need to understand the article's content. It's about the White House seeking emergency funds after Hurricane Sandy, the damages, and the plans for future storm prevention. The moral framing here seems to be about responsibility, preparedness, and fairness in disaster response.
+
+I should start by identifying the key points: the funding request amount, the impact on affected states, the focus on rebuilding smarter, and the political aspects like budget offsets. I need to ensure the summary captures these elements without losing the moral implications, such as the necessity of investing in resilience and the ethical considerations of funding distribution.
+
+I'll structure the summary to highlight the emergency funding, the scale of damages, the focus on future prevention, and the political debate on budgeting. I must keep it concise, under 200 words, and make sure it starts with "SUMMARY:" and ends with "END OF SUMMARY."
+
+I should also maintain the tone that emphasizes the moral duty to prevent future disasters and the fairness in providing immediate aid without delays. Avoiding technical jargon will help keep it clear and accessible. 
+
+Now, I'll draft the summary, ensuring it's within the word limit and includes all crucial points while reflecting the moral stance presented in the original article.
+</think>
+
+SUMMARY: The White House is seeking an emergency funding request of $50 billion to $60 billion for Hurricane Sandy recovery, with a focus on rebuilding stronger and preventing future disasters. States like New York and New Jersey are seeking over $80 billion in federal aid, with New York alone estimating $32.8 billion in damages. HUD Secretary Shaun Donovan emphasized the need to rebuild smarter, using resilient materials and infrastructure, while addressing long-term storm preparedness. Senators discussed burying power lines and other measures, though FEMA head Craig Fugate cautioned against underground solutions in urban areas. Donovan opposed delaying aid, warning that a "down payment" would prolong hardships for affected families and communities. The administration also opposes offsetting disaster aid with budget cuts, though political debates over funding remain unresolved. END OF SUMMARY.

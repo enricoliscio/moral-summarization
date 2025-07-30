@@ -1,0 +1,25 @@
+Alright, I need to help the user by summarizing the news article while preserving the moral framing. First, I'll read through the article to understand the context. The government of Namibia is dismissing a US human rights report that accuses them of various violations. The key points are the accusations of extra-judicial killings, torture, arbitrary arrests, and the government's response comparing the US's actions, like Guantanamo Bay detentions.
+
+The user wants me to identify all the morally framed single words. I'll go through the article and pick out words that carry moral weight. Words like "trashed," "violations," "abuses," "tortured," "cruel," "degrading," "arbitrary," "denied," "inaccuracies," "confusion," and "unverified" stand out as they convey moral judgment or criticism.
+
+Next, I need to write a concise summary. I'll start by stating that the Namibian government dismissed the US report. I'll list the main accusations from the report, using the identified morally framed words. Then, I'll include Shivute's response, highlighting the comparison to US actions and the government's criticism of the report's accuracy.
+
+I should ensure the summary is under 200 words and includes as many of the moral terms as possible. I'll structure it to first present the accusations, then the government's rebuttal, and conclude with the implications of the report's inaccuracies. This way, the moral framing is preserved throughout the summary.
+</think>
+
+### STEP 1:  
+* Trashed  
+* Violations  
+* Abuses  
+* Tortured  
+* Cruel  
+* Degrading  
+* Arbitrary  
+* Denied  
+* Inaccuracies  
+* Confusion  
+* Unverified  
+
+### SUMMARY:  
+The Namibian government dismissed a US human rights report accusing its security forces of numerous violations, including extra-judicial killings, torture, arbitrary arrests, and denial of fair hearings. The report highlighted disappearances, deaths in custody, and mistreatment of suspects linked to UNITA and the Caprivi Liberation Army. Namibia's Information Permanent Secretary, Mocks Shivute, criticized the US for hypocrisy, citing its detention of prisoners at Guantanamo Bay without trial. Shivute argued that Namibia attaches "little value" to the report due to factual inaccuracies, such as mislabeling media affiliations and historical data. He questioned whether US actions, like those post-9/11, would be labeled human rights abuses or accepted due to the country's status. The government's rebuttal emphasized the report's lack of credibility and its reliance on unsubstantiated claims.  
+END OF SUMMARY.

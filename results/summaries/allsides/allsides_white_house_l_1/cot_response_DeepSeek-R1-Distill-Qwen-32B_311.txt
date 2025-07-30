@@ -1,0 +1,41 @@
+Okay, I need to help the user by summarizing the given news article while preserving the moral framing. The user provided a detailed article about John F. Kelly's tenure as White House Chief of Staff under Donald Trump. They also included specific instructions on how to process the text.
+
+First, the user wants me to identify all single words that are morally framed. I should go through the article and pick out words that carry moral connotations. Words like "chaotic," "disordered," "intemperate," "undisciplined," "casual cruelty," "bigotry," "disdain," "disrespect," "contempt," "dishonesty," "hypocrisy," "dishonor," "abhorrent," "dehumanization," "cruelty," "rotten," "failure," "corruption," "ethos," and "overrated" stand out as morally charged.
+
+Next, I need to write a concise summary of the article, making sure to include as many of these moral words as possible without exceeding 200 words. The summary should highlight Kelly's role in the Trump administration, his actions, and the moral implications of his policies and behavior. I'll structure it to show how Kelly's actions reflected the administration's values despite his supposed role as a stabilizing force.
+
+I should ensure that the summary flows logically, starting with Kelly's tenure, his moral failings, specific incidents like the spat with Wilson, the Confederate praise, the Porter scandal, and the child separation policy. Each of these points should be tied back to the moral framing to maintain the article's original tone.
+
+I also need to make sure that the summary is clear and concise, capturing the essence of the article without unnecessary details. It's important to emphasize that Kelly's actions and policies were not just about his personal behavior but reflected a broader ethos aligned with Trump's ideology, which is morally questionable.
+
+Finally, I'll conclude by noting that the administration's ethos comes from the top, highlighting the moral implications of Trump's leadership. This ties back to the initial identification of morally framed words, ensuring the summary is both accurate and maintains the original moral perspective.
+</think>
+
+**STEP 1:**
+
+* chaotic  
+* disordered  
+* intemperate  
+* undisciplined  
+* casual cruelty  
+* bigotry  
+* disrespect  
+* disdain  
+* contempt  
+* dishonesty  
+* hypocrisy  
+* dishonor  
+* abhorrent  
+* dehumanization  
+* cruelty  
+* rotten  
+* failure  
+* corruption  
+* ethos  
+* overrated  
+
+---
+
+**SUMMARY:**  
+
+John F. Kelly, former Chief of Staff to President Trump, has left the White House amid chaos and disarray, embodying the administration's ethos of casual cruelty and bigotry. Despite lacking Trump's intemperate behavior, Kelly shared Trump's worldview, demonstrated by his disdain for critics like Florida Rep. Frederica Wilson and his controversial praise for Confederate Gen. Robert E. Lee. Kelly also defended Rob Porter, a senior aide accused of domestic abuse, and played a key role in the administration's "zero tolerance" immigration policy, which led to child separation. His refusal to apologize for these actions highlighted his indifference to moral decency. While Kelly may have valued normalcy, his tenure revealed that the administration's corruption and contempt for common decency flowed from Trump himself. The lesson is clear: the appearance of moderation is not true moderation, and the administration's ethos is rooted in its leader's rotten ideology. END OF SUMMARY.

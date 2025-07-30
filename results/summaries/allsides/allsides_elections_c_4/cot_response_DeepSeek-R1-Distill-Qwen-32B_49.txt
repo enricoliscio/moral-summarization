@@ -1,0 +1,34 @@
+Okay, I need to help the user by summarizing the given news article while preserving the moral framing. The user has specified two main steps: first, identifying all the morally framed single words, and then writing a concise summary that includes as many of those words as possible.
+
+Starting with STEP 1, I'll go through the article to find words that carry moral connotations. The article discusses Hillary Clinton and Donald Trump's contrasting approaches. Words like "suing" women, "governing," "avenging," "personal grievances," "extraordinary," "charges," "business," "scores," "invested," "settle," "danger," "democratic traditions," "disregard," "constitutional freedoms," "protection," "independence," "leadership," "dictatorship," "gridlock," "difference," and "influence" stand out as they relate to moral or ethical issues.
+
+Next, for the summary, I need to condense the article into 200 words, making sure to include these morally framed words. The key points are Clinton's criticism of Trump's plan to sue accusers, his threat to not concede, and her focus on policy over personal vendettas. I should also mention the Pennsylvania focus and her support for Katie McGinty.
+
+I'll structure the summary to highlight the contrast between Clinton and Trump, emphasizing their approaches and the moral implications. I'll ensure the summary flows well and stays within the word limit while including the identified terms.
+</think>
+
+**STEP 1:**  
+* Suing  
+* Governing  
+* Avenging  
+* Personal grievances  
+* Extraordinary  
+* Charges  
+* Business  
+* Scores  
+* Invested  
+* Settle  
+* Danger  
+* Democratic traditions  
+* Disregard  
+* Constitutional freedoms  
+* Protection  
+* Independence  
+* Leadership  
+* Dictatorship  
+* Gridlock  
+* Difference  
+* Influence  
+
+**SUMMARY:**  
+Hillary Clinton and Tim Kaine criticized Donald Trump for focusing on personal vendettas, such as suing women who accused him of sexual misconduct, rather than governing. Clinton emphasized her commitment to working on policy from day one, contrasting Trump’s threat to sue accusers. She also condemned Trump’s disregard for democratic norms, like his refusal to commit to conceding the election, calling it a threat to constitutional freedoms. Clinton highlighted the importance of an independent judiciary, rejecting Trump’s calls to jail her for her email use. She also campaigned for Democratic Senate candidate Katie McGinty, aiming to break gridlock in Congress. Clinton’s focus on policy and democratic traditions contrasted with Trump’s personal grievances, highlighting their differing visions for leadership. END OF SUMMARY.

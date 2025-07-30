@@ -1,0 +1,15 @@
+Alright, so I'm trying to figure out how to approach this query. The user wants me to summarize a news article while preserving the moral framing that the author used. They provided the article and a list of morally framed words. 
+
+First, I need to read through the article to understand the key points. The main focus is on Rex Tillerson's confirmation hearing, where he clashes with Sen. Rubio. The article highlights their exchanges on various topics like Russia, Cuba, Saudi Arabia, and the Philippines. 
+
+I notice that the author uses words like "poses," "advancing," "serve," "taking," etc. These words carry moral connotations, so I need to make sure my summary includes them. 
+
+I should start by identifying the main events: Tillerson's refusal to call Putin a war criminal, his stance on Russia, and his views on other countries and issues. I need to encapsulate these points concisely, using the moral terms where appropriate.
+
+I also need to keep the summary under 200 words and ensure it's a proper summary, not just a list of facts. The user emphasized preserving the moral framing, so I'll focus on the language that conveys judgment or evaluation.
+
+Finally, I'll structure the summary to cover the key exchanges, Tillerson's positions, and the moral implications highlighted in the article. Making sure to include the specified words without making the summary feel forced is crucial. I'll review the summary to ensure it flows naturally while retaining the moral elements.
+</think>
+
+SUMMARY:  
+During his Senate confirmation hearing, Rex Tillerson clashed with Sen. Marco Rubio over foreign policy, particularly regarding Russia. Rubio pressed Tillerson to label Russian President Vladimir Putin a "war criminal," but Tillerson declined, emphasizing a more deliberative approach. Tillerson described Russia as an "unfriendly adversary" and criticized its "taking" of Crimea, asserting it had no legal claim. He also criticized the Obama administration for its "absence" of a "forceful response" to Russia's actions. Tillerson addressed other issues, including China's "illegal" island-building in the South China Sea, radical Islam as a "grave risk," and the need to "defeat" ISIS in Syria. He labeled cyber intrusions as the "greatest threat" to the U.S. and acknowledged the government had "stumbled" under the Obama administration. Tillerson also faced protesters, including one ejected for screaming "I reject you!" at him. END OF SUMMARY.

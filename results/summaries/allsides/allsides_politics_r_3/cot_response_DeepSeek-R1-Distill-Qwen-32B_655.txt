@@ -1,0 +1,28 @@
+Okay, so I need to help the user by summarizing the given news article while preserving the moral framing. Let me first understand what the user is asking for. They want me to act as a news summarizer and a moral expert. My task is twofold: first, identify all the single words that carry moral framing in the article, and second, write a concise summary that includes as many of those moral terms as possible.
+
+Starting with STEP 1: I'll go through the article and pick out words that have a clear moral connotation. Words like "slammed," "murderous," "frightened," "create crimes out of nothing," "making up crimes," "up in arms," "biased," "misleading," "checks and balances," "truth," and "Constitution." These words are used to convey judgment or evaluation, so they fit the moral framing category.
+
+Now, for the summary, I need to condense the article into 200 words or less, making sure to include these moral terms. The article is about Alan Dershowitz criticizing Democrats for their impeachment efforts, comparing them to Stalin's secret police. He argues they're inventing crimes, like collusion and obstruction, which aren't actual crimes. He mentions the ACLU's silence and accuses CNN of bias, not allowing him on their shows. He supports Fox News for giving him a platform.
+
+I need to make sure the summary captures Dershowitz's main points, his comparisons, the moral terms, and the implications he's drawing. I should structure it to show his criticism, the specific accusations, and the consequences he warns about, like the danger to constitutional principles.
+
+I also need to ensure that the summary flows well and stays within the word limit. I'll start by introducing Dershowitz and his criticism, then detail his arguments about the invented crimes, mention the ACLU and media bias, and conclude with the impact on constitutional checks and balances.
+
+Let me put it all together, making sure each moral term is included where appropriate. I'll check the word count to ensure it's under 200 words and that the summary accurately reflects the article's content and moral framing.
+</think>
+
+**STEP 1:**  
+* Slammed  
+* Murderous  
+* Frightened  
+* Create crimes out of nothing  
+* Making up crimes  
+* Up in arms  
+* Biased  
+* Misleading  
+* Checks and balances  
+* Truth  
+* Constitution  
+
+**SUMMARY:**  
+Harvard Law School professor Alan Dershowitz, a self-described liberal Democrat, criticized congressional Democrats for their impeachment efforts against President Trump, likening them to Stalin's secret police. He accused them of "making up crimes" such as collusion and obstruction, which he argued are not actual crimes under federal law. Dershowitz warned that this approach threatens constitutional principles and called on the ACLU to speak out, though they have remained silent. He also criticized CNN for banning him from their network, claiming they prefer to parrot the party line rather than present the truth. Dershowitz, who has appeared frequently on Fox News, argued that the Democrats' actions are dangerous and undermine the rule of law. END OF SUMMARY.

@@ -1,0 +1,58 @@
+Okay, so the user has given me a query where I need to act as a news summarizer assistant and a moral expert. The task is to summarize a news article while preserving the moral framing. Let me break down what the user is asking for.
+
+First, they want me to identify all the single words that are morally framed in the article. They mentioned to label this step as "STEP 1:" and list each word with a * at the beginning. I should go through the article and pick out words that carry a moral connotation, like "tyranny," "abused," "heavy-handed," etc.
+
+Next, I need to write a summary of the article. The summary should include as many of those morally framed words as possible. It should be concise, no more than 200 words, and end with the specified tokens. I need to make sure the summary captures the essence of the article while maintaining the moral perspective presented by the author.
+
+Looking at the article, it's about Venezuela's political turmoil, focusing on Hugo Chavez's actions, the coup, and the international response. The moral framing is evident in terms like "tyranny," "abused," "heavy-handed measures," and "dictators." I need to ensure these words are included in the summary to reflect the author's perspective.
+
+I should structure the summary to highlight the key events: Chavez's actions leading to the coup, the reaction from various groups, the military's involvement, the international response, and the implications for democracy in Latin America. Also, mentioning the Bush administration's stance and its impact on their role as a democracy champion is important.
+
+I need to be careful to keep the summary within the word limit and make sure it flows logically. I'll start by outlining the main points and then incorporate the morally framed words to maintain the author's tone.
+
+After drafting the summary, I'll review it to ensure all the key points are covered and that the moral language is preserved. I'll check the word count to make sure it's under 200 words and adjust as necessary.
+
+Finally, I'll present the summary in the required format, starting with "SUMMARY:" and ending with "END OF SUMMARY." I'll make sure to follow the user's instructions precisely, including the formatting with the * for each morally framed word in the first step.
+
+I think I've covered all the requirements. Now, I'll proceed to identify the morally framed words and then craft the summary accordingly.
+</think>
+
+### STEP 1:
+* Tyranny  
+* Fighting  
+* Abused  
+* Heavy-handed  
+* Rewritten  
+* Past  
+* Shreds  
+* Flirtation  
+* Dictators  
+* Pivotal  
+* Remove  
+* Constitutionally  
+* Nonviolent  
+* Catalyst  
+* Revolted  
+* Cutoff  
+* Oppression  
+* Protest  
+* March  
+* Palace  
+* Killed  
+* Forced  
+* Step aside  
+* International  
+* Pressure  
+* Renewed  
+* Support  
+* Let  
+* Office  
+* Welcomed  
+* Tarnished  
+* Champion  
+* Repent  
+
+---
+
+### SUMMARY:
+The article discusses the political turmoil in Venezuela, highlighting the moral failings of President Hugo Chavez and the military coup that temporarily removed him from power. Chavez, who came to power through democratic means, has been accused of abusing his mandate by rewriting the Constitution and pursuing tyrannical tactics. His heavy-handed measures, economic failures, and flirtation with leftist dictators have alienated the public. The coup, triggered by his attempt to control the state oil company, led to widespread protests and military intervention. However, international pressure and renewed domestic support forced the military to restore Chavez to power. The article critiques the Bush administration for welcoming the coup, tarnishing its role as a democracy champion. The situation underscores the need for nonviolent, constitutional solutions to remove Chavez and uphold democratic principles in Latin America. END OF SUMMARY.

@@ -1,0 +1,34 @@
+Okay, so I need to help the user by summarizing a news article while preserving the moral framing. The user provided a specific structure for the response, which includes two steps: identifying morally framed words and then writing a summary.
+
+First, I'll read through the article to understand the context. The article is about the NRA urging states to allow more armed officers in schools after the Newtown shooting. The moral framing here is about security, responsibility, protection, and the right to carry firearms.
+
+Next, I need to identify all the single words that are morally framed. These are words that carry a moral connotation, like "criticism," "rejecting," "protection," "responsible," etc. I'll go through the article paragraph by paragraph to spot these words.
+
+Once I have the list, I'll move on to writing the summary. The summary should be concise, around 200 words, and include as many of the morally framed words as possible. I need to make sure the summary reflects the NRA's stance, the response from critics, and the context of the Newtown shooting.
+
+I should also ensure that the summary flows well and accurately represents the article's main points. It's important to highlight the NRA's recommendations, the criticism they received, and the broader context of gun control legislation.
+
+I need to be careful to preserve the moral framing without adding my own opinions. The summary should remain neutral but include the key moral terms from the article.
+
+Finally, I'll structure the response as per the user's instructions, starting with STEP 1, listing the morally framed words, and then providing the summary after the "SUMMARY:" token.
+</think>
+
+**STEP 1:**  
+* Criticism  
+* Rejecting  
+* Protection  
+* Responsible  
+* Security  
+* Safety  
+* Violence  
+* Mental health  
+* Restrict  
+* Access  
+* Firearm  
+* Absolute protection  
+* Monster  
+* Bad guy  
+* Good guy  
+
+**SUMMARY:**  
+The National Rifle Association (NRA) has urged states to allow more armed officers in schools, following the Newtown mass shooting. The NRA's recommendations include extensive training for school personnel to carry weapons, while acknowledging local budget constraints. NRA CEO Wayne LaPierre emphasized the need for armed protection in schools, arguing that if banks and Congress have security, schools should too. Critics, including Democrats, have accused the NRA of focusing on school security while rejecting gun control measures. The NRA's report also proposed safety assessments and mental health pilot programs. Meanwhile, states like Connecticut are advancing gun control legislation, including assault weapons bans and background checks. The NRA maintains that school security is paramount, asserting that "the only thing that stops a bad guy with a gun is a good guy with a gun." END OF SUMMARY.

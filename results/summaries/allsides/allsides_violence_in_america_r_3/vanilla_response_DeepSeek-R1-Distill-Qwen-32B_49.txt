@@ -1,0 +1,14 @@
+Alright, so the user has given me a query where they want me to summarize a news article about the Las Vegas shooting. They specified that I should return the summary after a "SUMMARY:" token and end with "END OF SUMMARY." Also, the summary should be no longer than 200 words.
+
+First, I need to read through the article to understand the key points. The main event is the Las Vegas attack, which is the deadliest mass shooting in U.S. history. President Trump addressed the nation, calling it an act of pure evil. He mentioned visiting Las Vegas, lowering flags to half-staff, and offered prayers. He emphasized unity, faith, and shared values. The suspect, Stephen Paddock, was identified, and his roommate was a person of interest. Authorities are still looking into the motive. Melania Trump also expressed her condolences.
+
+I should structure the summary to include Trump's address, the attack details, the suspect information, and the response from the president and first lady. I need to keep it concise, within 200 words, so I'll focus on the most important points without getting too detailed.
+
+I'll start by stating the attack's severity, Trump's response, the number of casualties, his plans to visit, and the flag order. Then, I'll mention his emphasis on unity and faith. Next, I'll note the suspect's identity and the ongoing investigation. Finally, I'll include Melania Trump's tweet.
+
+I need to make sure the summary flows well and covers all critical aspects without exceeding the word limit. I'll check the word count after drafting to ensure compliance.
+</think>
+
+SUMMARY:  
+President Trump described the Las Vegas shooting as an "act of pure evil," calling it the deadliest mass shooting in modern U.S. history. The attack left 58 dead and 515 injured. Trump announced plans to visit Las Vegas to meet with law enforcement, first responders, and victims' families, and ordered flags to be flown at half-staff. He expressed solidarity with the nation, emphasizing unity, faith, and shared values. The suspect, 64-year-old Stephen Paddock, was killed, and authorities identified his roommate, Marilou Danley, as a person of interest. Two off-duty police officers were killed, and one officer was critically injured. The attack was described as well-planned, involving automatic weapons. The motive remains unclear. Melania Trump also offered condolences on Twitter.  
+END OF SUMMARY.

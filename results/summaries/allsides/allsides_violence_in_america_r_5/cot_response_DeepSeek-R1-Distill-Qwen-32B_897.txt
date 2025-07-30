@@ -1,0 +1,34 @@
+<think>
+Okay, so I need to help the user by summarizing a news article while preserving the moral framing. The user has given specific instructions, so I should follow them step by step.
+
+First, I need to identify all the single words that are morally framed in the article. The user mentioned this as STEP 1. I'll go through the text and look for words that carry strong moral connotations. Words like "heartbreaking," "evil," "terrorism," "radical," "threat," "honest," "vigilant," "vulnerable," "unconscionable," "hate," "grotesque," "danger," and "right place" stand out as they convey strong moral judgments or evaluations.
+
+Next, I have to write a summary of the article, making sure to include as many of these morally framed words as possible. The summary should be concise, no longer than 200 words. I'll start by noting the event: the murder of four Marines, President Obama's response, and the political reactions. Then, I'll include the context about the shooter, the FBI's classification, and the ongoing debates about terrorism and gun policies. I'll make sure to highlight the moral framing words to maintain the author's perspective.
+
+I should structure the summary to first state the event, then the political reactions, followed by the details about the shooter and the investigations, and finally the broader context and debates. This way, the summary flows logically and covers all key points while preserving the moral elements.
+
+I need to ensure that the summary is clear and concise, avoiding any unnecessary details. Also, I must remember to start the summary after the "SUMMARY:" token and end it with "END OF SUMMARY." to meet the user's formatting requirements.
+
+Let me review the identified words and make sure they are included appropriately in the summary. Words like "heartbreaking," "terrorism," "evil," "radical," and "honest" are crucial for maintaining the moral framing. I'll weave them into the summary naturally, ensuring the summary reflects the author's perspective accurately.
+
+Finally, I'll check the word count to ensure it's within 200 words and that all key points are covered without being too verbose. This should fulfill the user's request effectively.
+</think>
+
+**STEP 1:**  
+* heartbreaking  
+* terrorism  
+* evil  
+* radical  
+* threat  
+* honest  
+* vigilant  
+* vulnerable  
+* unconscionable  
+* hate  
+* grotesque  
+* danger  
+* right place  
+
+**SUMMARY:**  
+President Obama called the murder of four Marines in Tennessee "heartbreaking" and urged Americans to wait for facts before drawing conclusions. However, Republicans, including Louisiana Gov. Bobby Jindal, blamed Obama for not addressing the "evil" of radical Islamic terrorism. The shooting was classified as domestic terrorism by the FBI, with the gunman identified as Mohammad Youssuf Abdulazeez. The incident reignited debates over gun policies at military facilities and the threat of radical Islam. Democrats argued that white supremacists and anti-government extremists posed a greater danger than radicalized Muslims. The attack highlighted the ongoing challenge of combating terrorism both domestically and internationally, with federal authorities uncovering more U.S.-based terror plots in 2015 than any year since 9/11. The shooting also echoed earlier incidents under Obama's tenure, such as the Fort Hood attack, which was labeled workplace violence. Lawmakers debated whether the government was focusing its efforts on the "right place" in the fight against terrorism.  
+**END OF SUMMARY.**

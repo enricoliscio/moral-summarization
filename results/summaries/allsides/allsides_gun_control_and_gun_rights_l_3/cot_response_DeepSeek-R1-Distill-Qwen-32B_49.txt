@@ -1,0 +1,79 @@
+Okay, so I need to help the user by summarizing a news article while preserving the moral framing. The user has given me a specific structure to follow. First, I have to identify all the single words that are morally framed. Then, I need to write a summary using those words where possible.
+
+Let me start by reading the article carefully. It's about a mass shooting at a church in Texas. The shooter is Devin Patrick Kelley, who had a history of domestic violence in the military. The Air Force failed to report his court-martial, allowing him to buy a gun. The shooting was linked to a domestic dispute with his mother-in-law, who was a church member. Activists protested for gun control.
+
+Now, for STEP 1, I need to find the morally framed words. These are words that carry a moral judgment. Let me go through the article again:
+
+- Mass shooting: implies a negative act.
+- Killed: the act of taking lives.
+- Children, elderly, pregnant woman: vulnerable groups, highlighting the tragedy.
+- Suspected shooter: implies guilt.
+- Court-martialed: legal judgment for wrongdoing.
+- Repeatedly hit, kicked, choked: violent actions.
+- Loaded gun: dangerous tool.
+- Broke toddler’s skull: severe harm.
+- Failed to report: negligence.
+- Bought a gun: enabled the crime.
+- Massacre: a violent killing.
+- Domestic dispute: family conflict leading to violence.
+- Threatening texts: intimidation.
+- Racially motivated: not the case here.
+- Religious beliefs: not the motive.
+- Domestic situation: the underlying cause.
+- Die-in protest: a form of activism.
+- Gun control: policy aimed at preventing violence.
+
+I think these are the key morally charged words. I should list them each with an asterisk.
+
+Next, the summary. I need to include as many of these words as possible while keeping it concise. I should mention the shooting, the victims, the shooter's background, the Air Force's failure, the domestic dispute, the non-racial motive, and the protest. I'll make sure to use the morally framed words to convey the gravity and the issues involved.
+
+I should structure the summary to first state the event, then the shooter's history, the failure of reporting, the motive, and the aftermath with the protest. Keeping it under 200 words.
+
+Let me draft it:
+
+"New details about the mass shooting at the First Baptist Church in Sutherland Springs, Texas, reveal that 26 people, including children, elderly, and a pregnant woman, were killed. The suspected shooter, Devin Patrick Kelley, had a history of domestic violence, including court-martial charges for violently attacking his wife and stepson. Despite his violent past, the Air Force failed to report his actions to a federal database, allowing him to purchase a Ruger AR-556 rifle. Authorities linked the massacre to a domestic dispute with his mother-in-law, a church member. The incident was not racially or religiously motivated. Meanwhile, activists protested for stricter gun control, highlighting the need for better background checks to prevent such senseless violence."
+
+That should cover all the key points and include the morally framed words effectively.
+</think>
+
+**STEP 1:**
+
+* Mass
+* Shooting
+* Killed
+* Children
+* Elderly
+* Pregnant
+* Suspected
+* Shooter
+* Court-martialed
+* Hit
+* Kicked
+* Choked
+* Loaded
+* Gun
+* Attacked
+* Skull
+* Confined
+* Thrown
+* Failed
+* Report
+* Bought
+* Rifle
+* Massacre
+* Domestic
+* Dispute
+* Threatening
+* Texts
+* Racially
+* Religious
+* Activists
+* Die-in
+* Protest
+* Gun
+* Control
+
+**SUMMARY:**
+
+New details about the mass shooting at the First Baptist Church in Sutherland Springs, Texas, reveal that 26 people, including children, elderly, and a pregnant woman, were killed. The suspected shooter, Devin Patrick Kelley, had a history of domestic violence, including court-martial charges for violently attacking his wife and stepson. Despite his violent past, the Air Force failed to report his actions to a federal database, allowing him to purchase a Ruger AR-556 rifle. Authorities linked the massacre to a domestic dispute with his mother-in-law, a church member. The incident was not racially or religiously motivated. Meanwhile, activists protested for stricter gun control, highlighting the need for better background checks to prevent such senseless violence.  
+**END OF SUMMARY.**

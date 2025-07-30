@@ -1,0 +1,14 @@
+Alright, so the user has provided a query where they want me to summarize a news article. The article is about Donald Trump's use of the term "treason." The user has specified that the summary should be after a "SUMMARY:" token and end with "END OF SUMMARY." It should be no longer than 200 words.
+
+First, I need to read through the article to understand the main points. The article talks about Trump's grandiosity, his use of first-person pronouns, and his frequent use of the word "treason." It mentions specific instances where he labeled Democrats and others as treasonous, even though legally, their actions don't fit the definition of treason. The article also quotes a law professor who points out that Trump is conflating disloyalty to himself with treason against the country, which is a misuse of the term.
+
+I need to make sure the summary captures Trump's misuse of "treason," the examples given, the legal definition, and the expert's opinion. I should keep it concise, within 200 words, and structure it clearly.
+
+I'll start by stating that Trump has misused the term "treason," then give examples of when he did so, explain the legal definition, and mention the expert's view on how this is anachronistic and problematic. I'll make sure to highlight that his actions don't meet the legal criteria for treason.
+
+I also need to ensure that the summary flows well and is easy to understand. I'll avoid jargon and keep the language straightforward. Let me piece this together, making sure each sentence adds value without exceeding the word limit.
+
+Finally, I'll check the word count to ensure it's under 200 words and that it accurately reflects the key points of the article.
+</think>
+
+SUMMARY: The article discusses how Donald Trump frequently misuses the term "treason," conflating disloyalty to him with betrayal of the country. Trump has labeled political opponents, such as Democrats opposing his border policies and Rep. Adam Schiff, as "treasonous," despite their actions not meeting the legal definition of treason under Article III of the Constitution. Treason, as defined, involves levying war against the U.S. or aiding its enemies, not merely opposing a political leader. Trump's use of the term echoes historical monarchs' tactics, as seen in his casual and inaccurate application of the word on Twitter. Carlton Larson, a law professor, criticizes Trump for equating disloyalty to himself with treason, a misuse that distorts the term's legal meaning and risks weaponizing it against political foes. END OF SUMMARY.

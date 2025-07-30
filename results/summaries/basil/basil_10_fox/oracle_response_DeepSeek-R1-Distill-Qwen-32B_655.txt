@@ -1,0 +1,18 @@
+Alright, so I need to help the user by summarizing a news article while preserving the moral framing. Let me start by understanding the query.
+
+The user provided a detailed news article about the U.S. Congress reading the Constitution, with a focus on the moral words used. They want a summary that includes as many of these morally framed words as possible, without exceeding 200 words. The summary should be concise and follow the specified format.
+
+First, I'll read through the article to grasp the main points. It's about the House reading the Constitution, but skipping some parts, which caused a debate between Republicans and Democrats. Republicans wanted to skip outdated sections, like the 18th Amendment and the three-fifths clause, while Democrats argued that omitting parts undermines the document's history and the struggles it represents.
+
+I need to identify the key morally charged words from the list provided. Words like "struggle," "create," "amendment," "improve," "failure," "abolish," "injustices," "worship," "govern," "propaganda," etc., are central. I should make sure these are included in the summary.
+
+Next, I'll outline the main points: the event, the decision to skip parts, the Republican reasoning, Democratic objections, the symbolic nature of the reading, and the broader debate about the Constitution's interpretation.
+
+I'll start the summary by mentioning the event and the debate. Then, I'll explain the Republican stance on skipping outdated parts. After that, I'll address the Democratic concerns about failing to acknowledge the struggles and imperfections. I'll include the symbolic importance and the differing views on whether the Constitution is a rigid document or a living one. Finally, I'll note the broader implications of the debate.
+
+I need to ensure the summary flows well, is within the word limit, and includes as many of the moral words as possible without making it sound forced. I'll avoid technical jargon and keep the language clear and concise.
+
+Let me draft the summary, making sure each sentence incorporates the moral framing where appropriate. I'll check the word count to stay under 200 words. Once done, I'll review to ensure all key points are covered and the moral words are appropriately included.
+</think>
+
+SUMMARY: The U.S. House of Representatives recently read the Constitution aloud, but the exercise sparked debate over which parts to include. Republicans decided to skip obsolete sections, such as the 18th Amendment (prohibition) and the three-fifths clause, arguing they are superseded by amendments. Democrats objected, stating that omitting parts undermines the document's history and the struggles to improve it. Rep. Jesse Jackson Jr. emphasized the importance of acknowledging the Constitution's imperfections and the ongoing desire to create a more perfect union. Others criticized the reading as "propaganda" or "ritualistic," arguing the Constitution is a living document that should not be followed rigidly. Supporters, however, saw it as a symbolic reminder of the nation's founding principles and the need to govern by its aspirations. The debate highlighted differing views on whether the Constitution should be viewed as a static, sacred text or a document that reflects the nation's imperfect beginnings and ongoing struggle for justice. END OF SUMMARY.

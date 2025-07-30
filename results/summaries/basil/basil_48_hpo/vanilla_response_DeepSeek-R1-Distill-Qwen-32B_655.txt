@@ -1,0 +1,12 @@
+Alright, let me try to figure out how to approach this query. The user wants me to act as a news summarizer assistant and summarize the given article. They've provided a specific structure, starting with "SUMMARY:" and ending with "END OF SUMMARY." Also, the summary should be no longer than 200 words.
+
+First, I need to read the article carefully. It's about a Republican staffer, Elizabeth Lauten, who criticized Malia and Sasha Obama on Facebook for their appearance at the White House turkey pardon ceremony. She commented on their lack of class and respect. The article includes her specific comments, the context of the event, and her subsequent apology.
+
+I should identify the key points: who did what, the reaction, and the apology. I need to make sure the summary is concise and captures all essential elements without going into too much detail. I'll start by mentioning Lauten's criticism, the context of the event, her specific comments, the public reaction, and her apology. I should keep it under 200 words, so I'll have to be brief but comprehensive.
+
+I also need to ensure the summary flows well and is clear. Maybe I'll structure it by introducing the incident, the content of the Facebook post, the public reaction, and then the apology. That way, it's logical and covers all necessary points.
+
+Let me draft a version and check the word count. I'll make sure to include all the main elements without unnecessary details. Once done, I'll end it with the specified tokens.
+</think>
+
+SUMMARY: A Republican staffer, Elizabeth Lauten, apologized for a Facebook post criticizing Malia and Sasha Obama for their appearance at the White House turkey pardon ceremony. Lauten, communications director for Rep. Stephen Fincher (R-Tenn.), wrote that the teenagers should "show class" and "dress like you deserve respect," while also advising them not to make faces during the event. Her comments were published by Gawker. Lauten later apologized, acknowledging she judged the girls harshly and hurt them, vowing to learn from the experience. The First Daughters attend the annual ceremony, often appearing unimpressed with the event. Lauten's apology came after reflection and prayer, emphasizing her regret for her judgmental words. END OF SUMMARY.

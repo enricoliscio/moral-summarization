@@ -1,0 +1,28 @@
+Okay, so the user has given me a query where I need to act as a news summarizer and a moral expert. The task is to summarize a news article while preserving the moral framing the author used. The user has broken it down into two steps: first, identifying morally framed words, and then writing the summary.
+
+First, I need to understand the article. It's about President Trump's comments regarding Michael Flynn and Hillary Clinton in relation to their interactions with the FBI. Trump criticizes the FBI for ruining Flynn's life and compares it to Clinton, who he claims lied but faced no consequences.
+
+For step one, I have to identify all single words that carry a moral connotation. I'll go through the article and pick out words that imply blame, judgment, or moral evaluation. Words like "ruined," "lied," "destroyed," "strong," "badly," "encouraged," "innocent," "unfair," and "corrupt" come to mind. These words are used to convey moral judgment, so I'll list them each with an asterisk.
+
+Next, for the summary, I need to condense the article into a concise version while keeping those morally charged words. I should mention Trump's statements, Flynn's guilty plea, the comparison to Clinton, and the implications of the special counsel's investigation. I'll make sure to include the morally framed words to maintain the original tone.
+
+I also need to ensure the summary is under 200 words and ends with the specified tokens. I'll structure it to highlight Trump's feelings for Flynn, the contrast with Clinton, and the broader context of the investigation affecting Trump's inner circle.
+
+I should double-check that I haven't missed any key points and that the moral framing is preserved accurately. It's important to keep the summary balanced but reflect the original article's perspective on the moral aspects.
+</think>
+
+### STEP 1:  
+* Ruined  
+* Lied  
+* Destroyed  
+* Strong  
+* Badly  
+* Encouraged  
+* Innocent  
+* Unfair  
+* Corrupt  
+
+---
+
+### SUMMARY:  
+President Trump criticized the F.B.I. for ruining the life of his former national security adviser, Michael Flynn, who pleaded guilty to lying to the agency. Trump expressed deep sympathy for Flynn, stating that his life had been "destroyed" despite leading a "strong" career. In contrast, Trump pointed out that Hillary Clinton, his Democratic opponent, lied "many times" to the F.B.I. but faced no consequences. Trump did not specify Clinton's alleged lies, which occurred during her voluntary interview in 2016. The special counsel investigation, led by Robert Mueller, is intensifying its focus on Trump's inner circle, raising concerns about potential influence on the probe. Trump's comments highlight a perceived double standard, suggesting that Flynn's fate was "unfair" compared to Clinton's immunity. END OF SUMMARY.

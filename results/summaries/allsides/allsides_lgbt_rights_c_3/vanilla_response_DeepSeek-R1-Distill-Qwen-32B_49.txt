@@ -1,0 +1,27 @@
+Alright, I need to help the user by summarizing this news article. The user provided a detailed article about an Appeals Court decision regarding same-sex marriage bans in Wisconsin and Indiana. My task is to create a concise summary, no longer than 200 words, starting with "SUMMARY:" and ending with "END OF SUMMARY."
+
+First, I'll read through the article to understand the key points. The main points are:
+
+1. The U.S. Court of Appeals for the Midwest struck down same-sex marriage bans in Wisconsin and Indiana.
+2. Judge Richard Posner led a unanimous decision, stating the states provided no reasonable basis for the bans.
+3. The court compared this to previous rulings in Utah, Oklahoma, and Virginia.
+4. The cases are being appealed to the Supreme Court, which is expected to rule by June.
+5. The judge focused on the welfare of children, arguing that same-sex adoption would benefit them.
+6. Posner criticized the states' argument about accidental pregnancies and marriage, pointing out that the out-of-wedlock birth rates have increased since the bans were enacted.
+7. He also dismissed tradition as a reason, referencing the interracial marriage case.
+8. The summary should include the judges' names and their appointments.
+
+Now, I'll structure the summary to include these points concisely. I'll start by mentioning the court's decision and the judges involved. Then, I'll outline the reasoning behind the decision, focusing on the arguments about children's welfare and the failure of the states' rationale. Finally, I'll note the appeal to the Supreme Court and the judges' backgrounds.
+
+I need to ensure the summary is clear and within the word limit. I'll avoid including too much detail from the article, focusing on the most important aspects. Also, I'll make sure the tone is formal and objective, as it's a news summary.
+
+Let me draft the summary:
+
+"The U.S. Court of Appeals for the Midwest has struck down same-sex marriage bans in Wisconsin and Indiana, joining two other federal appeals courts in ruling against such bans. In a unanimous decision, Judge Richard Posner, a Reagan appointee, stated that the states provided no reasonable basis for the bans. Posner emphasized that the bans were rooted in flawed arguments about the welfare of children, particularly regarding accidental pregnancies and the benefits of marriage for heterosexual couples. He criticized the states' claims, noting that out-of-wedlock birth rates have risen since the bans were enacted. Posner also dismissed tradition as a justification, referencing the Supreme Court's 1967 ruling on interracial marriage. The cases are being appealed to the U.S. Supreme Court, which is expected to rule by June. The decision was joined by Judges Ann Claire Williams and David Hamilton, appointed by Presidents Clinton and Obama, respectively."
+
+Now, I'll check the word count to ensure it's under 200 words. If it's over, I'll trim some details without losing the essence. I think this covers all key points concisely.
+</think>
+
+SUMMARY:  
+The U.S. Court of Appeals for the Midwest has struck down same-sex marriage bans in Wisconsin and Indiana, making it the third federal appeals court to do so. In a unanimous decision, Judge Richard Posner ruled that the states provided no reasonable basis for the bans. Posner criticized the states' arguments, particularly their claims that same-sex marriage bans protect children from accidental pregnancies, noting that out-of-wedlock birth rates have increased since the bans were enacted. He also dismissed tradition as a justification, referencing the Supreme Court's 1967 ruling on interracial marriage. The cases are being appealed to the U.S. Supreme Court, which is expected to rule by June. The decision was joined by Judges Ann Claire Williams and David Hamilton.  
+END OF SUMMARY.

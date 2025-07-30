@@ -1,0 +1,30 @@
+Alright, I need to help the user with their query. They provided a news article and specific instructions on how to process it. The user wants me to act as a news summarizer and moral expert, so I have to first identify morally framed words and then write a summary preserving those terms.
+
+First, I'll read through the article carefully. The user mentioned two steps: identifying morally framed words and then summarizing. 
+
+For the first step, I need to look for words that carry moral connotations. Words like "terrorist attacks," "horrific," "contained," "extremist," "jayvee team," "scourge," and "unwavering support" stand out. These terms aren't just factual; they carry judgments or evaluations, so they fit the moral framing.
+
+Next, I'll move on to summarizing the article. I need to keep it under 200 words and include as many of those morally framed words as possible. The summary should capture the main events: the Paris attacks, Obama's claim about containing ISIS, Hollande's response, the criticism of Obama's past comments, the other attack on the Russian plane, the leaders' pledge to fight terrorism, and Hollande canceling his trip. I also need to mention Obama's upcoming meeting and the National Security Council review.
+
+I have to make sure the summary flows well and includes all the key points without being too lengthy. I'll structure it to first mention the attacks, then Obama's statements, the criticism, the other attack, the leaders' responses, and the implications for their meetings.
+
+I should also check that I'm preserving the moral framing by using the identified words appropriately. For example, using "horrific" and "scourge" to emphasize the severity and the commitment to fight terrorism.
+
+Finally, I'll ensure that the summary is concise and meets the word limit. I'll review it to make sure all the important details are included and that the morally framed words are present to maintain the author's original tone and message.
+</think>
+
+**STEP 1:**  
+* terrorist  
+* attacks  
+* extremist  
+* contained  
+* act of war  
+* jayvee team  
+* horrific  
+* steadfast  
+* unwavering  
+* scourge  
+
+**SUMMARY:**  
+The Islamic State carried out terrorist attacks in Paris, leaving 127 dead and many injured, just hours after President Obama claimed the group had been "contained." French President Hollande called the attacks "an act of war," while Obama maintained that the Islamic State was not gaining strength. The U.S.-led coalition, including French forces, has made progress in reducing foreign fighters, but concerns remain about returning extremists. The Paris attacks, potentially the second major attack by the Islamic State in two weeks, followed the downing of a Russian plane in Sinai. Obama expressed condolences to France and reaffirmed support for combating terrorism. Hollande canceled his trip to the G-20 summit to focus on the crisis, while Obama convened his National Security Council to review intelligence. The leaders pledged to work together to defeat the "scourge of terrorism."  
+**END OF SUMMARY.**

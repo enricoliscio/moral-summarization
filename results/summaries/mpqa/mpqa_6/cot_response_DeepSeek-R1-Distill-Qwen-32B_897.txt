@@ -1,0 +1,27 @@
+Alright, I need to help the user by summarizing the given news article while preserving the moral framing. The user has specified two main tasks: first, identifying all the morally framed words, and second, writing a concise summary that includes as many of these words as possible.
+
+Starting with STEP 1, I should go through the article and pick out words that carry a moral connotation. Words like "call," "implement," "express," "interest," "ratify," "enforce," "expand," "cooperation," "expect," "stress," and "important" stand out. These terms imply a sense of duty, responsibility, and initiative, which are key in moral framing.
+
+Moving on to the summary, I need to condense the article into 200 words or less. The main points are Brazil and Germany's commitment to the Kyoto Protocol, their call for other countries to join, their intention to cooperate more in environmental efforts, and their emphasis on the Pilot Program for Protection of Tropical Forests. I should ensure that the morally framed words are included to maintain the original tone.
+
+I also need to structure the summary clearly, starting with the countries' commitment, their call to action for others, their plans for cooperation, and the importance of the program. Keeping it concise while retaining all essential information is crucial. I should avoid any markdown and keep the language natural, as per the user's request.
+
+Double-checking the word count to ensure it's under 200 words and that all key points are covered. Making sure the moral framing is preserved by using the identified words. Finally, ending with the specified tokens to indicate the conclusion of the summary.
+</think>
+
+**STEP 1:**  
+* call  
+* implement  
+* express  
+* interest  
+* ratify  
+* enforce  
+* expand  
+* cooperation  
+* expect  
+* stress  
+* important  
+
+**SUMMARY:**  
+Brazil and Germany have expressed their commitment to implementing the Kyoto Protocol by September, ahead of the Sustainable Development Summit (Rio+10) in South Africa. In their joint document, "Partnership Brasil-Germany: Action Plan," both countries call on other nations to ratify and enforce the protocol. They also intend to expand cooperation in environmental and sustainable development efforts, presenting common positions at Rio+10. The document emphasizes the importance of the Pilot Program for Protection of Tropical Forests (PPG-7), with Germany participating actively. This collaboration reflects their shared interest in advancing global environmental goals.  
+**END OF SUMMARY.**

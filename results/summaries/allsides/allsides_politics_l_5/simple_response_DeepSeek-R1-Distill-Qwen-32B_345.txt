@@ -1,0 +1,18 @@
+Alright, I need to help the user by summarizing the given news article. The user specified that I should preserve the moral framing the author provided. Let me read through the article carefully to understand the key points and the tone.
+
+The article is about Roy Moore, an Alabama Republican Senate candidate, who is suing The Washington Post for their report alleging he had sexual relationships with teenagers when he was in his 30s. The moral framing here seems to be about the integrity of the candidate and the media's role in his campaign.
+
+First, I'll note the main facts: Moore threatens to sue the Post, the allegations involve minors, Moore's denials, and the political fallout like endorsements being withdrawn. The article also mentions other public figures who threatened lawsuits but didn't follow through, which adds context about the credibility of such threats.
+
+I need to ensure the summary reflects the moral aspects, such as the impact on Moore's reputation, the accusations of character attacks, and the political implications. I should avoid bias and present both sides: Moore's denial and the allegations from the Post.
+
+I'll structure the summary to include the lawsuit threat, the nature of the allegations, Moore's responses, the media's role, and the political consequences. Keeping it concise under 200 words is important, so I'll focus on the essential points without getting too detailed.
+
+Also, I should use the "SUMMARY:" and "END OF SUMMARY." tokens as instructed. I need to make sure the summary flows logically, starting with the lawsuit, then the allegations, Moore's denials, and the political repercussions.
+
+I'll check the word count to ensure it's within the limit. Let me draft the summary, making sure each sentence adds value and maintains the moral framing without introducing personal opinions.
+
+Finally, I'll review the summary to ensure it accurately reflects the article's content and maintains the required tone and structure.
+</think>
+
+SUMMARY: Alabama Republican Senate candidate Roy Moore has threatened to sue *The Washington Post* over its report alleging he pursued sexual relationships with teenagers, including a 14-year-old, when he was in his 30s. Moore called the claims "false and untrue," accusing the newspaper of attacking his character to derail his campaign. The Post's report, based on interviews with over 30 people, includes allegations of sexual contact with a 14-year-old and pursuit of other minors aged 16-18. Moore has denied the allegations, calling them "fake news" and emphasizing his "highest regard for the protection of young children." He also claimed ongoing "investigations" into the article's motivations. Several Republicans, including the National Republican Senatorial Committee, have withdrawn endorsements. While public figures often threaten legal action against media outlets, such lawsuits rarely materialize. END OF SUMMARY.

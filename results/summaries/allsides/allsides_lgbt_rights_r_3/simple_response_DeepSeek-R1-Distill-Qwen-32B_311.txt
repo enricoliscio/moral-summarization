@@ -1,0 +1,15 @@
+Okay, I need to help the user by summarizing the news article they provided, focusing on preserving the moral framing the author gave. The user mentioned they are a news summarizer and a moral expert, so I should ensure the summary reflects the moral aspects as presented.
+
+First, I'll read through the article to understand the key points. Drew Brees supported a program allowing kids to bring Bibles to school, which the LGBT lobby criticized. They accused him of supporting a homophobic and discriminatory group. Brees defended himself, stating he supports love, respect, and acceptance, and that he doesn't support discrimination.
+
+I need to capture the conflict between Brees' religious advocacy and the LGBTQ criticism. The summary should highlight both sides' moral stances. I'll mention the accusations and Brees' response, ensuring the moral framing is clear without bias.
+
+I should keep it concise, under 200 words, and use the specified tokens. I'll structure it to first present Brees' support, then the criticism, followed by his defense, and end with the implications of the debate.
+
+I need to make sure the summary is neutral but reflects the moral arguments from both sides. Avoiding any personal bias, just presenting the facts as they relate to the moral issues involved.
+
+Alright, time to put it all together in a clear, concise summary that meets the user's requirements.
+</think>
+
+SUMMARY:  
+NFL quarterback Drew Brees faced backlash from the LGBTQ community after supporting a program encouraging children to bring Bibles to school and openly practice their Christian faith. Brees, a devout Christian, promoted the initiative in a video, emphasizing love and acceptance. However, critics accused him of aligning with a "racist, discriminatory religious cult" that supports conversion therapy and opposes anti-discrimination laws. Media outlets like Deadspin and social media users labeled him a bigot, sparking a heated debate. Brees defended himself, clarifying that he supports inclusivity and does not endorse discriminatory groups. His response highlighted a broader conflict between religious expression and LGBTQ rights advocacy. END OF SUMMARY.

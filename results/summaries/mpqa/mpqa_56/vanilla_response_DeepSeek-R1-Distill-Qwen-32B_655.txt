@@ -1,0 +1,14 @@
+Alright, I need to help the user by summarizing the given news article. Let me read through the article first to understand the main points.
+
+The article is about Jordan deciding to sign the Kyoto Protocol. It mentions that Jordan's General Corporation for Environment Protection (GCEP) director, Faris Juneidi, announced this decision. The signing will be done by Prince Zeid Ben Raad, but the exact date isn't set yet. 
+
+The Kyoto Protocol, established in 1997, requires developed countries to reduce greenhouse gas emissions by 8% below 1990 levels between 2008 and 2012. Jordan is joining despite being a developing country, emphasizing their commitment to international conventions. They hope this move will attract funding for environmental efforts.
+
+Other points include the EU member states agreeing to ratify the protocol by June 1, 2002. The US opposed it in 2001, citing economic interests, and Canada was reluctant due to potential GDP loss and economic damage.
+
+I should condense this into a summary under 200 words, starting with "SUMMARY:" and ending with "END OF SUMMARY." I'll focus on Jordan's decision, the protocol's requirements, the reasons behind Jordan's move, and mention the US and Canada's stances briefly.
+</think>
+
+SUMMARY:  
+Jordan has announced its decision to sign the Kyoto Protocol, a UN agreement aimed at reducing global greenhouse gas emissions. The move, approved by the Jordanian Cabinet, will be carried out by Prince Zeid Ben Raad, Jordan's representative to the UN, though no exact signing date has been set. The Kyoto Protocol, established in 1997, legally binds developed countries to cut emissions by 8% below 1990 levels by 2012. Jordan's decision underscores its commitment to international environmental conventions and aims to attract funding for global climate efforts. The General Corporation for Environment Protection (GCEP) will oversee Jordan's participation. Meanwhile, the 15 EU member states have agreed to ratify the protocol by June 1, 2002. The US opposed the protocol in 2001, citing economic interests, while Canada has also shown reluctance due to potential economic losses.  
+END OF SUMMARY.

@@ -1,0 +1,36 @@
+Okay, so the user has provided a query where they want me to act as a news summarizer and a moral expert. They have a specific news article and instructions on how to process it. Let me break down what they need.
+
+First, the user wants me to identify all the single words that are morally framed in the article. They call this STEP 1 and want each word listed with an asterisk. Then, I need to write a summary of the article, preserving the moral framing, and make sure it's concise, under 200 words.
+
+Looking at the article, it's about Peter Strzok being fired from the FBI after sending texts critical of Trump. The moral framing here likely involves words that imply wrongdoing, bias, fairness, etc. I'll need to scan through the text and pick out words that carry moral connotations.
+
+Next, for the summary, I should include the key points: Strzok's firing, the reasons given, the recommendations from the FBI official, the attorney's response, the political implications, and the inspector general's findings. I need to keep the summary tight and include as many of the morally framed words as possible without making it too long.
+
+I also notice that the user provided an example response. I should follow that structure, making sure to separate STEP 1 and the SUMMARY correctly, each with their respective tokens. I need to ensure that the summary is clear and captures the essence of the article while highlighting the moral aspects.
+
+I should be careful to not add any personal opinions but just present the facts with the moral framing intact. Also, I need to make sure the summary doesn't exceed 200 words, so I'll have to be concise but thorough.
+
+Let me start by reading through the article again to identify the morally charged words. Words like "disparaging," "fired," "recommendation," "departure," "guarantee," "deeply troubling," "protected," "bias," "improper," "accountable," "celebrated," "drop," "properly redone." These words carry moral weight and indicate issues with fairness, bias, and political interference.
+
+Now, for the summary, I'll outline the main events: Strzok's firing, the reasons behind it, the attorney's claims of political pressure, the inspector general's concerns about bias, and Trump's reaction. I'll make sure to include the morally framed words to preserve the author's framing.
+
+I think I have a good grasp on this. I'll structure the summary to flow logically, starting with the firing, the reasons, the reactions, and the implications. Keeping it under 200 words will require being concise but comprehensive.
+</think>
+
+**STEP 1:**  
+* disparaging  
+* fired  
+* recommendation  
+* departure  
+* guarantee  
+* deeply troubling  
+* protected  
+* bias  
+* improper  
+* accountable  
+* celebrated  
+* drop  
+* properly redone  
+
+**SUMMARY:**  
+FBI Special Agent Peter Strzok, who was removed from Robert Mueller’s team due to texts disparaging President Trump, has been fired by FBI Deputy Director David Bowdich, despite a career official’s recommendation for a suspension and demotion. Strzok’s attorney, Aitan Goelman, called the decision a “departure from typical Bureau practice,” claiming it was taken in response to political pressure and punished Strzok for political speech protected by the First Amendment. The inspector general criticized Strzok’s texts, which potentially indicated bias, and his use of personal email for FBI business. Strzok’s extramarital relationship with Lisa Page may also have influenced the decision. FBI Director Chris Wray emphasized accountability, while Trump celebrated Strzok’s firing, urging the investigation into his campaign to be dropped and Clinton’s to be redone. END OF SUMMARY.

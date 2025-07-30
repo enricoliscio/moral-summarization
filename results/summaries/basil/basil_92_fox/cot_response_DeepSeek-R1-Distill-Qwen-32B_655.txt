@@ -1,0 +1,38 @@
+Alright, I need to help the user by summarizing the news article they provided. The user has specific instructions: first, identify all the single words that are morally framed, then write a summary preserving those moral framings.
+
+Starting with the article, it's about President Trump reacting to a Buzzfeed report. He's appreciative of Mueller's statement disputing the report. The Buzzfeed story claims Trump told Cohen to lie about the Moscow project. Trump and his team are dismissing the report, calling it fake and a disgrace. Mueller's office is rarely making statements, so this is significant. Buzzfeed stands by their reporting, and there's a back-and-forth between the two sides.
+
+For STEP 1, I need to pick out the morally charged words. Words like "disgrace," "phony," "fake," "deceit," "dishonesty," "credibility," "exaggeration," "false," "truth," "fairness," "integrity," "objectivity," "ethics," "morality," "transparency," "trust," "honesty," "accuracy," "credibility," "credibility," "credibility," "credibility," "credibility." These words carry moral weight, showing approval or disapproval.
+
+Now, for the summary, I need to condense the article while keeping those moral terms. I'll mention Trump's appreciation of Mueller's statement, his criticism of Buzzfeed and media, Buzzfeed's defense, Mueller's rare move, and the implications for media credibility and journalistic integrity. I'll make sure to include the key moral words to preserve the framing.
+
+I should keep the summary concise, under 200 words. I'll structure it to include the main points: Trump's reaction, the Buzzfeed report's claims, Mueller's response, Buzzfeed's defense, and the broader implications for media credibility and the investigation.
+
+Let me make sure I'm not missing any important details. The article mentions Cohen's testimony, the potential real-estate deal, and the connection to Russian interference. Also, the political implications with Democrats considering impeachment. I should include that Mueller's office rarely comments, making their statement notable.
+
+I think I've covered all the key points. Time to put it all together in a clear, concise summary while preserving the moral language.
+</think>
+
+**STEP 1:**
+
+* Disgrace  
+* Phony  
+* Fake  
+* Deceit  
+* Dishonesty  
+* Credibility  
+* Exaggeration  
+* False  
+* Truth  
+* Fairness  
+* Integrity  
+* Objectivity  
+* Ethics  
+* Morality  
+* Transparency  
+* Trust  
+* Honesty  
+* Accuracy  
+
+**SUMMARY:**  
+President Trump criticized a Buzzfeed report claiming he directed Michael Cohen to lie to Congress about a Moscow real-estate deal, calling the story a "disgrace" to journalism and the country. He praised Robert Mueller's office for disputing the report, which Buzzfeed defended as accurate. Mueller's rare public statement accused Buzzfeed of inaccuracies, while Trump's team denied the allegations. The controversy highlights tensions over media credibility, journalistic integrity, and the ethics of reporting on political figures. The debate underscores the importance of transparency and honesty in both journalism and political accountability. END OF SUMMARY.

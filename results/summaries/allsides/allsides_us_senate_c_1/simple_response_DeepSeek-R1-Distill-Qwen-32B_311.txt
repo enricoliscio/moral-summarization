@@ -1,0 +1,12 @@
+Alright, so the user has given me a query where they want a news summary that preserves the moral framing from the original article. They specified that I should act as both a news summarizer and a moral expert. 
+
+First, I need to understand the article. It's about the U.S. Senate's discussions on the impeachment trial of Donald Trump. Key points include McConnell's stance on witnesses, comparing it to Clinton's trial, Schumer's demand for witnesses and documents, Pelosi's delay tactics, and Trump's accusations. 
+
+I should identify the moral framing. The article presents both parties' arguments: Republicans are seen as trying to limit the trial's scope, possibly to protect Trump, while Democrats are pushing for a fair process with evidence. Trump's tweets add a moral judgment, calling it a witch hunt.
+
+Now, I need to summarize this in under 200 words, keeping the moral elements intact. I'll highlight McConnell's cautious approach, Schumer's emphasis on fairness, Pelosi's strategy, and Trump's accusations. I should ensure the summary reflects the tension between fairness and partisanship.
+
+I'll structure the summary to first outline the debate, then each side's position, and conclude with the implications. Making sure each point is concise but captures the moral nuances.
+</think>
+
+SUMMARY: U.S. senators are debating the structure of President Donald Trump's impeachment trial, with Republicans and Democrats clashing over witness testimony and evidence. Republican leader Mitch McConnell has not ruled out hearing witnesses, citing the 1999 impeachment trial of Bill Clinton as a model, but emphasized a streamlined process. Democrats, led by Chuck Schumer, argue that excluding witnesses and documents would make the trial appear sham-like, urging a fair and thorough investigation. Trump, impeached by the Democratic-controlled House, has denied wrongdoing and accused Democrats of a "witch hunt." House Speaker Nancy Pelosi has delayed sending the impeachment articles to the Senate to pressure Republicans into agreeing on trial rules. Trump has criticized Pelosi, calling the process a "scam," while his administration has blocked key witnesses from testifying. The trial's outcome is unlikely to remove Trump from office, as the Senate is Republican-controlled. END OF SUMMARY.

@@ -1,0 +1,58 @@
+<think>
+Alright, so the user has given me a query where I need to act as a news summarizer assistant and a moral expert. They want me to summarize a specific news article, preserving the moral framing. The process involves two steps: first, identifying all the single words that are morally framed, and second, writing a concise summary that includes as many of those morally framed words as possible.
+
+First, I need to understand what the user is asking for. They provided a detailed news article about immigrants and their contributions to America. The task is to break it down into two parts. The first part is to list all the morally framed words. I should look for words that carry a positive or negative moral connotation. For example, words like "greatness," "anti-immigrant," "shining city upon a hill," etc., are likely candidates.
+
+I'll go through the article and pick out each word that has a moral charge. Words that praise immigrants or criticize anti-immigrant policies. I should list each one, ensuring I don't miss any. Once I have that list, I'll move on to summarizing the article, making sure to include those words to maintain the moral framing.
+
+For the summary, I need to be concise, under 200 words. I should highlight the main points: immigrants' contributions, the economic benefits, the critique of anti-immigrant rhetoric, and the bureaucratic issues with the citizenship process. I'll structure the summary to flow logically, starting with the positive impact, then addressing the criticisms, and finally discussing the need for reform.
+
+I also need to ensure that the summary doesn't just list facts but carries the moral tone from the original article. Words like "greatness," "anti-immigrant," "abuse," "desperate," and "citizenship process" should be included to reflect the author's stance.
+
+I should double-check that I've captured all the key points and that the summary accurately reflects the article's message while maintaining the moral perspective. It's important to keep the language clear and impactful, ensuring that the summary is both informative and carries the intended moral weight.
+
+Finally, I'll format the response as specified, starting with the list of morally framed words and then the summary, making sure to adhere to the word limit and the structure the user provided.
+</think>
+
+**STEP 1:**
+
+* greatness  
+* anti-immigrant  
+* bluster  
+* sustained  
+* specialized  
+* celebrated  
+* immigrant-founded  
+* profitable  
+* jobs  
+* services  
+* abuse  
+* surplus  
+* deficit  
+* propensity  
+* incarcerated  
+* bureaucratic  
+* convoluted  
+* unlawful  
+* desperate  
+* unintended  
+* public safety  
+* health risks  
+* impractical  
+* irresponsible  
+* taxpayer subsidized  
+* underground economies  
+* prohibition  
+* organized crime  
+* unlawful or desperate alternatives  
+* freedom  
+* opportunity  
+* American dream  
+* welcome  
+* disparage  
+* great  
+* greatness  
+
+**SUMMARY:**  
+The article emphasizes that immigrants are central to America's greatness, countering anti-immigrant rhetoric. Immigrants have built and sustained the nation, contributing specialized skills and founding many of the most profitable companies, including 40% of Fortune 500 businesses. These businesses generate millions of jobs and billions in revenue. Critics often ignore these contributions, instead focusing on undocumented immigrants supposedly abusing social programs like Medicare. However, studies show undocumented immigrants pay more into Medicare than they receive, while native-born residents create a deficit. Similarly, native-born males are more likely to be incarcerated than foreign-born individuals. The article critiques the bureaucratic and convoluted U.S. citizenship process, which discourages lawful immigration and encourages unlawful alternatives. Rounding up undocumented immigrants or building a wall is impractical and fiscally irresponsible. Most undocumented immigrants overstayed visas, seeking freedom and opportunity. Native-born citizens and lawmakers should welcome immigrants, as they are the backbone of America's past and future greatness.  
+END OF SUMMARY.

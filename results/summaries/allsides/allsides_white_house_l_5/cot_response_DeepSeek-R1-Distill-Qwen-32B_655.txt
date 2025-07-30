@@ -1,0 +1,34 @@
+Okay, so the user has given me a query where they want me to summarize a news article while preserving the moral framing. They also want me to identify all the morally framed words first. Let me break this down.
+
+First, I need to understand the article. It's about the Benghazi attack and the political fallout. The key players are John Boehner, Obama, John Kerry, Susan Rice, and Beth Jones. The main issue is the talking points used after the attack, which were altered to avoid mentioning Islamic terrorists, possibly to prevent embarrassment.
+
+The user's instructions are in two parts. The first step is to identify all single words that are morally framed. I need to go through the article and pick out words that carry moral connotations. Words like "claimed," "ignored," "deliberately," "cover up," "embarrassing," "deception," "dishonesty," "altered," "manipulation," "cover-up," "culpability," "discipline," and "transparency" come to mind. These words are used to frame the actions in a moral light, suggesting wrongdoing or responsibility.
+
+Next, I have to write a summary that includes as many of these morally framed words as possible. The summary should be concise, under 200 words, and capture the essence of the article while highlighting the moral aspects. I need to mention Boehner's accusations, the report's findings, the altered talking points, the email from Beth Jones, Kerry's commitment, and the ongoing investigation.
+
+I should ensure that the summary flows logically, starting with Boehner's call for emails, then the report's conclusions, the specifics about the talking points, the email details, Kerry's statements, and the implications of the investigation. I need to use the morally framed words naturally within the summary to preserve the author's framing.
+
+I also need to make sure the summary is clear and accurate, avoiding any markdown or special formatting beyond the specified tokens. I'll structure it with "STEP 1:" followed by the list of words, then "SUMMARY:" and the concise summary, ending with "END OF SUMMARY."
+
+Let me check if I've covered all the key points: Boehner's accusations, the report's findings, the altered talking points, the email from Beth Jones, Kerry's commitment, and the ongoing investigation. I think that's all covered. I should also ensure that the word count is within the limit, so I'll keep each sentence tight and focused.
+
+Finally, I'll review the summary to make sure it accurately reflects the article's content and the moral framing is preserved through the use of the identified words.
+</think>
+
+**STEP 1:**  
+* claimed  
+* ignored  
+* deliberately  
+* cover up  
+* embarrassing  
+* deception  
+* dishonesty  
+* altered  
+* manipulation  
+* cover-up  
+* culpability  
+* discipline  
+* transparency  
+
+**SUMMARY:**  
+House Speaker John Boehner has demanded the release of emails related to the Benghazi attack, accusing the Obama administration of making "stylistic changes" to talking points to avoid mentioning extremist groups linked to al Qaeda. Boehner claims the White House ignored evidence of a terrorist attack, instead framing it as a spontaneous protest. A House GOP report alleges that senior officials altered the talking points to avoid embarrassment, while State Department emails revealed that officials internally referred to the attack as carried out by Islamic terrorists. Secretary of State John Kerry has pledged to investigate fully and address any culpability. Boehner emphasized the moral obligation to disclose all evidence, highlighting the potential for deception and manipulation in the handling of the incident. The summary underscores the moral framing of the administration's actions as potentially dishonest and misleading. END OF SUMMARY.

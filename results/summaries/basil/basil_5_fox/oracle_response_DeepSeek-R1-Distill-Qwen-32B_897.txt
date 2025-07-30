@@ -1,0 +1,15 @@
+<think>
+Alright, I need to help the user by summarizing the given news article while preserving the moral framing. The user provided a detailed article and specified that the summary should include as many of the morally framed words as possible. They also want the summary to be concise, no more than 200 words, and to start with "SUMMARY:" and end with "END OF SUMMARY."
+
+First, I'll read through the article to understand the main points. The NAACP has condemned the Tea Party for racism, and the Tea Party is pushing back, claiming it's a political move. The article mentions specific terms like racism, bigotry, and homophobia, which I need to include.
+
+I should identify the key events: the resolution passed by NAACP, the response from Tea Party leaders, the incident in March, and the counter-resolution from the St. Louis Tea Party. I need to mention the moral terms used by both sides, such as tolerance, statements, and harm.
+
+I'll structure the summary to include the NAACP's stance, their reasons, the Tea Party's rebuttal, and the ongoing debate. I'll make sure to use words like "condemned," "racist elements," "bigoted statements," and "harm" to maintain the moral framing.
+
+I also need to keep it under 200 words, so I'll be concise but include all necessary points. I'll start with the NAACP's action, mention the reasons, include the Tea Party's defense, and conclude with the broader implications of the debate.
+
+Finally, I'll review the summary to ensure it flows well and all key moral terms are included without making it too lengthy. That should meet the user's requirements effectively.
+</think>
+
+SUMMARY: The NAACP has condemned "racist elements" in the Tea Party movement, calling on its leaders to repudiate bigotry and reject racism, antisemitism, and homophobia. While the civil rights group initially criticized the Tea Party for attempting to "push the country back to the pre-civil rights era," the resolution was amended to focus on addressing bigots within the movement. NAACP President Benjamin Todd Jealous emphasized the organization's support for free speech but criticized the Tea Party's tolerance of bigoted statements. The resolution references a March incident where Tea Party protesters allegedly hurled racial epithets at black lawmakers, though Tea Party members deny the allegations and claim the NAACP is using the "race card." Tea Party leaders, including Dallas founder Phillip Dennis, argue the movement is about smaller government and fiscal responsibility, not racism, and accuse the NAACP of becoming irrelevant and partisan. The debate highlights ongoing tensions over the Tea Party's tolerance of harmful rhetoric and its impact on racial and social justice. END OF SUMMARY.

@@ -1,0 +1,16 @@
+Okay, so the user has given me a query where they want me to act as a news summarizer. They provided a detailed article about Trump's behavior during the election, his disregard for democratic norms, and his authoritarian tendencies. They want a summary of this article, no longer than 200 words, starting with "SUMMARY:" and ending with "END OF SUMMARY."
+
+First, I need to understand the main points of the article. It talks about Trump refusing to accept election results, his history of not respecting democratic norms, his admiration for authoritarian leaders, and his personal vanity. 
+
+I should start by identifying the key events: the final debate where Trump wouldn't commit to accepting the election result, his past actions like the 2012 tweet about the election being a sham, and his encouragement of violence at rallies.
+
+Next, I need to highlight his authoritarian tendencies, such as praising Putin and other dictators, and his policy proposals like banning Muslims and targeting media. Also, his personal vanity and belief in his own infallibility are important points.
+
+I should structure the summary to cover these points concisely. Start with the debate incident, then his history, authoritarian leanings, policy ideas, and personal traits. Make sure it's under 200 words and flows logically.
+
+I'll need to paraphrase the information without losing the essence. Also, ensure that the summary is clear and captures the critical aspects of Trump's behavior as described in the article.
+
+Finally, I'll format it correctly with the required tokens at the beginning and end.
+</think>
+
+SUMMARY: During the final presidential debate, GOP nominee Trump refused to commit to honoring the election results, a move described as horrifying by his opponent, Hillary Clinton. This behavior aligns with Trump's consistent disregard for democratic norms and the legitimacy of the electoral process. From the start of his campaign, Trump has shown contempt for democratic principles, such as peace, acceptance, and respect for the electoral process. He has repeatedly claimed the election is rigged, encouraged violence against protesters, and praised authoritarian leaders like Putin, Saddam Hussein, and Assad. Trump has also proposed unconstitutional policies, such as banning Muslims, closing mosques, and targeting critical media outlets. His belief in his own infallibility and desire for unchecked power further undermine democratic values. His actions and statements suggest he seeks to be an unaccountable leader, not a president of a democratic republic. END OF SUMMARY.

@@ -1,0 +1,21 @@
+<think>
+Okay, so I'm trying to help this user who wants a news summary that preserves the moral framing from the original article. Let me read through the query again to make sure I understand it correctly.
+
+The user provided a news article about a protest in Kentucky where an effigy of Governor Beshear was hung. They want a summary that includes as many of the morally framed words as possible, like "fight," "shutdown," "hate," etc. The summary needs to be concise, under 200 words, and start with "SUMMARY:" and end with "END OF SUMMARY."
+
+First, I need to identify the key points of the article. The protest was organized by Take Back Kentucky, around 100 people, started with celebrating the Second Amendment, then turned against coronavirus restrictions. They marched to the governor's house, hung an effigy with a Latin phrase, and it caused backlash from both parties.
+
+Now, I have to make sure to include the morally charged words. The article uses words like "fight," "shutdown," "hanging," "actions," "action," "hate," "honor," "protect," "act," "healthy," "safe," "effigy." I need to incorporate these into the summary without making it too long.
+
+I should structure the summary to cover the protest's purpose, the actions taken, and the reactions. Starting with the protest, then the effigy, followed by the condemnations. I need to mention McConnell and Fischer's statements to show the moral stance against the protest.
+
+Let me draft a version. I'll mention the protest against the shutdown, the effigy with the Latin phrase, the backlash from McConnell and Fischer, and the overall negative reaction. I need to keep it under 200 words, so I'll be concise but include all necessary moral terms.
+
+Wait, I should check if I'm using all the required words. "Fight" can be used when talking about fighting against the shutdown. "Hate" is mentioned by McConnell. "Honor" and "protect" are in Fischer's statement. "Healthy" and "safe" are also part of the message against the pandemic.
+
+I think I've covered most of them. Let me make sure the summary flows well and includes all the key points without being too wordy. I'll avoid any markdown and keep it in plain text as per the user's request.
+
+Okay, I think I've got a good summary that meets all the requirements. Let me write it out now.
+</think>
+
+SUMMARY: Protesters in Kentucky hung an effigy of Gov. Andy Beshear during a demonstration against coronavirus restrictions, calling it a "shutdown" and "unconstitutional." The rally, organized by Take Back Kentucky, began celebrating the Second Amendment but escalated into a call to "fight" against pandemic measures. Protesters marched to Beshear's home, shouting "Come out Andy," before returning to the state capitol to hang the effigy with the message "sic temper tyrannies." The action sparked widespread condemnation, with Republican Sen. Mitch McConnell calling it "unacceptable" and "hate-filled," while Democratic Louisville Mayor Greg Fischer criticized it as "vile," emphasizing the need to "protect" the community and prioritize "healthy" and "safe" practices. Many others, including Kentucky House Democrats, condemned the "reprehensible" act, highlighting the divide over freedom and public health. END OF SUMMARY.

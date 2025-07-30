@@ -1,0 +1,12 @@
+Alright, I need to help the user by summarizing the given news article while preserving the moral framing. The user specified that I should act as a news summarizer and a moral expert, so I should focus on the key points and the underlying messages.
+
+First, I'll read the article carefully. It's about Newsweek's cover featuring Michele Bachmann with the headline "THE QUEEN OF RAGE." The cover has caused controversy, with conservatives criticizing it for making Bachmann look crazy. The article mentions that the word "rage" isn't in the actual profile but the author criticizes the Tea Party as radical. There's also mention of past controversial covers, like the ones of Romney and Palin.
+
+I need to capture the essence: the cover's impact, the criticism from conservatives, and the pattern of backlash against Newsweek's past covers. I should highlight the moral framing, which seems to be about media bias and how the cover might be unfair or exaggerated.
+
+I should make sure the summary is concise, under 200 words, and ends with the required tokens. I'll structure it to mention the cover, the reaction, the author's stance, and the historical context of Newsweek's controversial covers.
+
+Now, putting it all together, I'll ensure it flows logically and stays within the word limit. I'll start with the cover and headline, then the criticism, followed by the author's point, and end with the comparison to past issues. That should cover all the necessary points while maintaining the moral perspective.
+</think>
+
+SUMMARY: Newsweek's latest cover featuring Michele Bachmann, with the headline "THE QUEEN OF RAGE," has sparked controversy. The cover, which shows Bachmann with a wide-eyed expression against a stark blue background, has drawn criticism from conservative websites, with some accusing the magazine of bias and portraying Bachmann as "crazy." While the word "rage" does not appear in the accompanying article by Lois Romano, the author does criticize Bachmann's association with the "radical" Tea Party movement. This is not the first time Newsweek has faced backlash for its covers, with past controversies including portrayals of Mitt Romney and Sarah Palin. The cover has reignited debates about media bias and whether such depictions cross a line in their representation of political figures. END OF SUMMARY.

@@ -1,0 +1,52 @@
+Okay, so I'm trying to help the user with their query. They want me to summarize a news article while preserving the moral framing. First, I need to understand the task clearly. The user provided a detailed article about Justice Ginsburg facing backlash for her comments about Trump. 
+
+They have two main steps: first, identify all single words that are morally framed, and second, write a summary preserving those words. I should start by reading the article thoroughly to grasp the context and the moral implications.
+
+In STEP 1, I need to extract each morally framed word. These are words that carry a judgment or value, like "backlash," "bipartisan," "faker," etc. I'll go through the article sentence by sentence, noting words that express approval, disapproval, or ethical judgment.
+
+For the summary, I have to make sure it's concise, under 200 words, and includes as many of those moral words as possible. I'll need to condense the information, highlighting the key points: Ginsburg's criticism, the reactions from Trump, Republicans, Democrats, media, and the support from Sanders. I should maintain the moral framing to reflect the author's perspective.
+
+I also need to ensure that the summary flows well and accurately represents the article's content without adding personal opinions. It's important to balance the different reactions, showing both the criticism and the support she received.
+
+Finally, I'll structure the response with the STEP 1 list and then the summary, making sure to follow the formatting instructions provided. I'll double-check the word count to stay within the limit and ensure all key moral terms are included.
+</think>
+
+**STEP 1:**  
+* Backlash  
+* Bipartisan  
+*faker  
+* Unqualified  
+* Embarrassed  
+* Dumb  
+* Shot  
+* Resign  
+* Icon  
+* Storm  
+* Contemplate  
+* Ego  
+* Getaway  
+* Gentle  
+* Highly inappropriate  
+* Disgrace  
+* Apologize  
+* Inappropriate  
+* Skepticism  
+* Objective  
+* Balls and strikes  
+* Weigh in  
+* Inherently biased  
+* Realm  
+* Unusual  
+* Airing  
+* Undermine  
+* Impartiality  
+* Code of Conduct  
+* Endorse  
+* Oppose  
+* Spectacle  
+* Opportunist  
+* Lies  
+
+**SUMMARY:**  
+Supreme Court Justice Ruth Bader Ginsburg faced bipartisan backlash after criticizing Donald Trump, calling him a "faker" and questioning his qualifications for presidency. Trump and Republican leaders, including Senate Majority Leader Mitch McConnell and House Speaker Paul Ryan, condemned her comments as "highly inappropriate" and "totally inappropriate," arguing they undermined the court's impartiality. Even some Democrats, like Sen. Chris Murphy, expressed discomfort with her political outspokenness. Media outlets criticized her for violating the Code of Conduct, which prohibits judges from endorsing or opposing candidates. While most criticized her for politicizing the court, Vermont Sen. Bernie Sanders defended her characterization of Trump as a "total opportunist." Ginsburg's comments sparked widespread debate about the role of Supreme Court justices in political discourse.  
+**END OF SUMMARY.**

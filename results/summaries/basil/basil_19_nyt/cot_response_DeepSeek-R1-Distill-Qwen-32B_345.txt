@@ -1,0 +1,32 @@
+Okay, so I'm trying to figure out how to approach this query. The user wants me to act as a news summarizer assistant and a moral expert. They provided a news article about Donald Trump dropping out of moderating a debate and the implications. 
+
+First, I need to understand the two main tasks. The first is to identify all single words that are morally framed in the article. The user specified to label this step as "STEP 1:" and list each word with an asterisk. I should go through the article and pick out words that carry moral connotations, like "failed," "destructive," "right," "wrong," etc. I need to be careful to only pick single words and make sure they are indeed framed morally.
+
+Next, the second task is to write a summary of the article, preserving the moral framing. The summary should be concise, under 200 words, and start after "SUMMARY:" and end with "END OF SUMMARY." I need to make sure that the summary includes as many of the morally framed words as possible without making it sound forced. I should keep the summary accurate but also highlight the moral aspects the author emphasized.
+
+I also notice that the user provided an example response, which helps me understand the expected format. I should follow that structure closely, ensuring that each step is clearly labeled and the summary is concise.
+
+I should start by reading the article carefully to identify the morally charged words. Words like "failed," "destructive," "right," "wrong," "displeased," "flirted," "criticism," "awkward," "dent," "kingmaker," "exclamation-point laden" might be candidates. I need to make sure each of these words is indeed framed morally in the context.
+
+After listing those words, I'll craft the summary. I'll mention Trump dropping out of the debate, the criticism he faced, his potential run as an independent, and the implications for the Republican party. I'll incorporate the morally framed words where appropriate to maintain the author's tone.
+
+I need to be cautious not to add any new information or bias beyond what's in the article. The summary should be neutral but include the moral framing elements identified. I should also keep it within the word limit, so I need to be concise but thorough.
+
+Overall, the key is to accurately identify the morally framed words and then use them effectively in a concise summary that reflects the original article's moral perspective.
+</think>
+
+**STEP 1:**  
+* failed  
+* destructive  
+* right  
+* wrong  
+* displeased  
+* flirted  
+* criticism  
+* awkward  
+* dent  
+* kingmaker  
+* exclamation-point laden  
+
+**SUMMARY:**  
+Donald Trump has withdrawn from moderating a Newsmax presidential debate, leaving the Republican field uncertain. Trump emphasized his commitment to selecting the "right" Republican candidate to oppose the "failed" Obama administration but reserved the option to run as an independent if he deems the nominee "wrong." His decision to step back from the debate, which only two candidates agreed to attend, has drawn criticism from the Republican establishment. Trump's "exclamation-point laden" statement highlighted his desire to "make America great again," but his potential independent bid could complicate the party's efforts. His self-proclaimed role as a "kingmaker" has been undermined by the lack of support from prominent candidates. END OF SUMMARY.

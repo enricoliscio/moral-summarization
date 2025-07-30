@@ -1,0 +1,48 @@
+Okay, so the user has given me a query where I need to act as a news summarizer assistant and a moral expert. They provided a news article about President Trump's response to the Las Vegas shooting. My task is to first identify all the morally framed single words and then write a summary preserving those moral terms.
+
+First, I need to understand what morally framed words are. These are words that carry a moral or ethical connotation, like "evil," "prayers," "comfort," etc. I should go through the article and pick out each word that fits this category.
+
+Looking at the article, I'll scan each sentence. For example, "act of pure evil" gives me "evil." Then, phrases like "pray," "comfort," "unity," "bonds," "faith," "shared values," "hope," "condolences," "terrible," "God bless," "pray for," "innocent," "safety," "hatred," "fear," "well-planned," "open air event," "automatic weapons," "lone wolf," "fearing," "motive," "condolences," "heart," "prayers," "loved ones," and "pray for Las Vegas."
+
+Next, I need to summarize the article, making sure to include as many of these moral words as possible. The summary should be concise, under 200 words, and capture the key points: Trump's address, the attack details, his actions, the speech's themes, and the suspect information.
+
+I'll structure the summary to include Trump's description of the attack as evil, his expressions of condolence, the visit to Las Vegas, the flag at half-staff, the unifying speech emphasizing faith and unity, the mention of hope, and the ongoing investigations. I'll also include Melania Trump's tweet.
+
+I need to ensure the summary flows well and includes all the identified moral terms without making it sound forced. It's important to maintain the moral framing as the author intended, so I'll focus on words like "evil," "pray," "unity," "hope," and "condolences."
+
+Finally, I'll check the word count to make sure it's under 200 words and that all key points are covered. I'll also ensure that the summary starts with "SUMMARY:" and ends with "END OF SUMMARY."
+</think>
+
+**STEP 1:**
+
+* evil  
+* pray  
+* comfort  
+* unity  
+* bonds  
+* faith  
+* shared values  
+* hope  
+* condolences  
+* terrible  
+* God bless  
+* pray for  
+* innocent  
+* safety  
+* hatred  
+* fear  
+* well-planned  
+* open air event  
+* automatic weapons  
+* lone wolf  
+* fearing  
+* motive  
+* condolences  
+* heart  
+* prayers  
+* loved ones  
+* pray for Las Vegas  
+
+---
+
+**SUMMARY:** President Trump described the Las Vegas attack as an "act of pure evil," expressing condolences and offering prayers for the victims and their families. He announced plans to visit Las Vegas, fly the flag at half-staff, and emphasized unity, faith, and shared values in a somber address. Trump sought comfort in religious teachings and called for hope amid the tragedy. The suspect, Stephen Paddock, was identified, and authorities are investigating the motive. Melania Trump also shared her condolences on Twitter. The attack, involving automatic weapons, left 58 dead and 515 injured, highlighting the nation's fear of such events. END OF SUMMARY.

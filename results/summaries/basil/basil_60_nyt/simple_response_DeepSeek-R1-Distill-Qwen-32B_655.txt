@@ -1,0 +1,15 @@
+<think>
+Alright, I need to help the user by summarizing the given news article while preserving the moral framing. The user specified that I should act as a news summarizer and a moral expert. First, I'll read through the article to understand the main points.
+
+The article is about Donald Trump's campaign promise to build a wall on the Mexico border and his claim that Mexico will pay for it. It mentions his rallies where he asks the crowd, and they respond, "Mexico!" However, two former Mexican presidents, Vicente Fox and Felipe Calderón, have both rejected this idea. Fox called Trump egocentric and a false prophet, while Calderón criticized the wall's usefulness and economic impact. Trump, in response, insists he can make Mexico pay and criticizes Fox for his language.
+
+Now, I need to capture the moral elements here. The article presents Trump as making a promise that's unrealistic, with former leaders opposing him, highlighting a moral issue of fairness and responsibility. Fox and Calderón's strong language adds to the moral critique, questioning Trump's leadership and the ethics of his demands.
+
+I should structure the summary to include Trump's claim, the opposition from the former presidents, their reasons, and Trump's response. I need to keep it under 200 words, so I'll be concise but make sure to include all key points.
+
+I'll start by stating Trump's position, then mention the former presidents' rejection, their reasons, and Trump's reaction. I'll ensure that the moral framing is clear, showing the criticism of Trump's proposal as unrealistic and the ethical concerns from the Mexican leaders.
+
+Let me draft this out, making sure each sentence adds value and stays within the word limit. I'll check for clarity and that the moral aspects are highlighted appropriately.
+</think>
+
+SUMMARY: Donald Trump has repeatedly promised to build a wall along the U.S.-Mexico border, claiming Mexico will foot the bill. At his rallies, he asks, “Who’s gonna pay?” and his supporters cheer, “Mexico!” However, former Mexican presidents Vicente Fox and Felipe Calderón have firmly rejected this idea. Fox called Trump “egocentric” and criticized his supporters as followers of a “false prophet,” while Calderón dismissed the wall as “stupid” and economically harmful. Trump insists he can force Mexico to pay, but Fox’s use of profanity in denouncing the wall angered Trump, who demanded an apology. The debate highlights tensions over immigration, economic impact, and the moral responsibility of both countries. END OF SUMMARY.

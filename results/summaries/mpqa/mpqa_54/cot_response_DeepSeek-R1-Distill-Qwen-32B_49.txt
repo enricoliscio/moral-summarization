@@ -1,0 +1,39 @@
+Alright, I need to help the user with their query. They provided a detailed news article and specific instructions on how to process it. Let me break down the task.
+
+First, the user wants me to act as a news summarizer and a moral expert. My main goal is to summarize the article while preserving the moral framing. The article discusses US foreign policy under Bush, focusing on pragmatism and unilateralism.
+
+The user has outlined two steps. The first is to identify all single words that are morally framed. They want each word listed with an asterisk. I need to read through the article and pick out words that carry moral connotations. Words like "opposed," "opposition," "unilateral," "apologize," etc., seem to fit.
+
+Next, I have to write a concise summary, keeping as many of these morally framed words as possible. The summary should be under 200 words and start with "SUMMARY:" and end with "END OF SUMMARY." I need to ensure the summary captures the essence of the article, highlighting the US's approach to foreign policy and the moral implications of their actions.
+
+I should also consider the user's deeper needs. They might be looking for a clear, morally charged summary for analysis or presentation purposes. Ensuring the summary is both accurate and maintains the moral perspective is crucial.
+
+I'll start by reading the article carefully to identify the key points and the morally charged words. Then, I'll compile the list and craft the summary accordingly, making sure it's concise and meets the word limit.
+</think>
+
+**STEP 1:**
+
+* Opposed  
+* Opposition  
+* Unilateral  
+* Apologize  
+* Detained  
+* Retaliate  
+* Condemned  
+* Freeze  
+* Implement  
+* Harsh  
+* Hostile  
+* Responsible  
+* Sanctions  
+
+---
+
+**SUMMARY:**  
+Following the Cold War, the United States emerged as the sole superpower, adopting a foreign policy marked by pragmatism and unilateralism. Under Bush, the U.S. pursued the National Missile Defense (NMD) system despite global opposition, including from allies. The U.S. argued the NMD was non-threatening but also claimed the Anti-Ballistic Missile Treaty (ABM) was outdated. The U.S. persisted in testing the NMD even after a UN resolution upheld the ABM Treaty.  
+
+The Sino-U.S. plane collision incident exemplified U.S. dual tactics: after refusing to apologize for the crash, the U.S. eventually apologized due to Chinese pressure but later threatened retaliation. Bush also rejected the Kyoto Protocol and froze the Comprehensive Test Ban Treaty, prioritizing U.S. interests over international commitments.  
+
+Post-9/11, the U.S. framed its "war on terrorism" as a global effort, demanding allies' support while practicing pragmatism, such as allying with Pakistan despite prior sanctions. The U.S. sought to use multilateral diplomacy to bolster its unilateral agenda, highlighting its preference for treaties and alliances that serve its security and economic goals.  
+
+END OF SUMMARY.

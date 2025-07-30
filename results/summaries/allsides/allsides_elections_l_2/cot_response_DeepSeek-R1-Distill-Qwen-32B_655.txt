@@ -1,0 +1,29 @@
+Okay, I need to help the user by summarizing the given news article while preserving the moral framing. First, I'll read through the article to understand the main points. The article talks about Trump's decision to hold a convention during the pandemic, the potential reasons behind it, and the moral implications.
+
+The user has specified two steps: identifying morally framed words and then writing a summary that includes as many of these words as possible. So, I'll start by going through the article to pick out the words that carry a moral judgment. Words like "reckless," "self-absorbed," "selfish," "reckless," "reprehensible," "folly," "stoking," "missing a step," "empathy," "coherence," "false bravado," and "bully" stand out as they convey moral judgment.
+
+Next, I need to write a concise summary, under 200 words, that incorporates these words. The summary should capture Trump's motivations, the negative consequences, and Biden's criticism. I'll structure it to show Trump's self-centered actions, the risks involved, and Biden's moral standpoint against Trump's behavior.
+
+I should ensure that the summary flows well and highlights the moral aspects without being too verbose. I'll make sure to include the key points: Trump's possible reasons, the potential backfire, Biden's criticism, and the overall moral failing of Trump's decision.
+
+Finally, I'll review the summary to make sure it's within the word limit and that all the morally framed words are appropriately included to reflect the author's framing.
+</think>
+
+**STEP 1:**
+
+* reckless  
+* self-absorbed  
+* selfish  
+* reckless  
+* reprehensible  
+*folly  
+* stoking  
+* missing a step  
+* empathy  
+* coherence  
+* false bravado  
+* bully  
+
+**SUMMARY:**  
+The article discusses President Trump's decision to hold a Republican convention during the pandemic, highlighting its morally questionable nature. Trump's actions are criticized as self-absorbed and reckless, prioritizing political optics over public safety. By insisting on a large gathering, he risks creating a pandemic hotspot, endangering his supporters and others. Former Vice President Joe Biden condemns Trump's behavior as selfish and dangerous, emphasizing that true leadership requires empathy and responsibility, not false bravado. Trump's refusal to wear masks and his insistence on the convention are seen as reckless and morally reprehensible, further alienating voters. His actions are compared to those of a schoolyard bully, lacking coherence and empathy, and ultimately undermining his political standing. Biden accuses Trump of stoking death and questions his judgment, while Trump's decision to hold the convention is seen as a display of vanity and recklessness, likely leading to a political defeat.  
+**END OF SUMMARY.**

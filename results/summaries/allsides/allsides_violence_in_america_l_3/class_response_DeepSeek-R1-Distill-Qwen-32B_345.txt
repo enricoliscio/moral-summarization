@@ -1,0 +1,16 @@
+<think>
+Okay, so I'm trying to help this user who wants a news summary that preserves the moral framing from the original article. They provided the article and a list of morally framed words. I need to make sure the summary includes as many of those words as possible without making it sound forced.
+
+First, I'll read through the article to get the main points. It's about Chicago's record-high homicides, the spike in shootings, the role of illegal guns, and the impact of the Laquan McDonald shooting on police actions. The article also mentions the areas affected and the city's response.
+
+Next, I'll identify the key morally framed words. The user provided a list, so I should use words like homicides, bloodshed, violence, shootings, crime, attacks, emboldened, deterrent, stealing, deaths, incidents, arrests, shot, killed, murder, nefarious, activity.
+
+Now, I'll structure the summary. Start with the main statistic: 762 homicides, the highest in two decades. Then mention the increase in shootings and the spike in homicides compared to 2015. Highlight the illegal guns and police's efforts. Then, touch on the impact of the McDonald shooting, how it emboldened criminals, and the lack of deterrent. Include the areas affected and the city's response with more officers and technology. Finally, mention the critics' views on police reluctance.
+
+I need to keep it under 200 words. I'll make sure each sentence includes relevant moral terms without overcrowding. Also, maintain the flow so it reads naturally while covering all critical points.
+
+Let me draft it: Start with the homicide numbers, mention the spike, illegal guns, police's efforts, the McDonald incident, emboldened criminals, lack of deterrent, areas affected, city's response, and critics' views. That should cover all the key points with the necessary moral framing.
+</think>
+
+SUMMARY:  
+In 2016, Chicago experienced its most violent year in two decades, with 762 homicides—the highest in 20 years and surpassing the combined totals of New York and Los Angeles. The city also saw a 41% increase in shooting incidents compared to 2015, totaling 3,550. The surge in violence, including attacks on police, has been attributed to the influx of illegal guns, with police recovering 8,300 such weapons in 2016, a 20% increase from the previous year. Chicago Police Superintendent Eddie Johnson noted that criminals feel emboldened, as they perceive little deterrent to committing violent crimes, with gang members describing the justice system as "a joke." The majority of deaths and shootings occurred in five South and West Side police districts, predominantly poor and black neighborhoods with active gangs. Victims were often identified by police as having gang ties or prior arrests. Mayor Rahm Emanuel announced plans to add 1,000 officers, while Johnson emphasized initiatives like street cameras and gunshot-detection systems to curb violence. However, critics argue that the police have become more reluctant to act since the release of the Laquan McDonald shooting video, which sparked widespread protests and led to a drop in arrests. Johnson acknowledged that officers have become more cautious, fearing scrutiny and viral exposure, while criminals exploit the perceived weakness in law enforcement. END OF SUMMARY.

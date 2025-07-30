@@ -1,0 +1,15 @@
+<think>
+Alright, so the user wants me to act as a news summarizer assistant and a moral expert. They provided a news article about President Trump considering Joe Lieberman as the new FBI director. The task is to summarize the article while preserving the moral framing, specifically the word "changed" as mentioned by the author.
+
+First, I need to read through the article carefully to understand the key points. The main points are that Trump is close to naming a new FBI director, with Lieberman as the leading contender. Lieberman has a background as a Democrat, then an independent, and has a history of endorsing different parties, including Obama and Clinton. There's also mention of other candidates and reactions from senators, including both support and criticism.
+
+Now, the user emphasized preserving the moral framing, particularly the word "changed." I should make sure that in the summary, this word is included where appropriate. The article mentions that Lieberman "never changed parties," which is a key moral point about his political stance.
+
+I'll structure the summary to include Trump's consideration of Lieberman, Lieberman's background, his political endorsements, and the reactions from senators, highlighting the moral aspects. I'll ensure that the word "changed" is used as in the original text.
+
+I also need to keep the summary under 200 words and format it correctly with "SUMMARY:" and "END OF SUMMARY." tokens. I should avoid any markdown and keep the language clear and concise.
+
+Let me draft the summary, making sure to include all necessary points and the moral framing. I'll check the word count to ensure it's within the limit. Finally, I'll review to ensure all key elements are present and that the moral aspect of not changing parties is clearly highlighted.
+</think>
+
+SUMMARY: President Trump is "very close" to naming a new FBI director, with former Democratic Sen. Joe Lieberman as the leading contender. Lieberman, who served in the Senate from 1989-2013, met with Trump on Wednesday, and the president confirmed Lieberman as the frontrunner when asked by a reporter. Lieberman, who has a history of political endorsements, including backing John McCain in 2008 and Hillary Clinton in 2016, has "never changed parties," as he stated last year. Some Republicans, like Senate Majority Whip John Cornyn, see Lieberman as a potential consensus candidate, while Democratic Sen. Claire McCaskill called his nomination a "mistake." Lieberman's law enforcement experience includes his tenure as Connecticut's attorney general from 1983-1989. Trump also met with other candidates, including acting FBI Director Andrew McCabe, but Lieberman remains the top choice. Senate Minority Leader Chuck Schumer criticized the idea of a "career politician" leading the FBI, though he did not name Lieberman. END OF SUMMARY.

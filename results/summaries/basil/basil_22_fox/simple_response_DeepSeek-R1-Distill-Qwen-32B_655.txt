@@ -1,0 +1,12 @@
+Alright, I need to help the user by summarizing the provided news article while preserving the moral framing. Let me read through the article first to understand the main points.
+
+The article is about Paul Ryan, a GOP representative, speaking at Georgetown University. A group of professors and administrators from Georgetown sent him a letter criticizing his use of Catholic doctrine to support his budget. They argue he's misusing the teachings, especially the principle of subsidiarity, to cut government programs that help the poor. Ryan defends his stance, saying the bishops don't all agree and that his budget doesn't ignore the poor but focuses on smaller government.
+
+Now, the user wants a summary that's under 200 words, ending with specific tokens. I need to capture the moral conflict here: Ryan using religious doctrine for policy, the professors opposing it, and Ryan's defense. I should highlight the key points without getting too detailed.
+
+I should structure it to first mention the criticism, then Ryan's defense, and the ongoing debate. Make sure to include the moral aspects, like helping the poor and government size. Keep it concise but comprehensive enough to reflect both sides.
+
+Let me draft the summary, ensuring it's within the word limit and includes all necessary elements. I'll make sure to start with "SUMMARY:" and end with "END OF SUMMARY." as instructed.
+</think>
+
+SUMMARY: A group of Georgetown University professors and administrators has criticized GOP Rep. Paul Ryan for misusing Catholic doctrine to justify his budget, which they argue harms vulnerable populations. Ryan, a Catholic and chairman of the House Budget Committee, has defended his plan, citing the principle of subsidiarity, which emphasizes local solutions and smaller government. The letter accuses Ryan of misinterpreting the doctrine as a rationale for cutting essential services, particularly for the poor, elderly, and sick. Georgetown's Public Policy Institute remains scheduled to host Ryan's lecture, where he plans to discuss his efforts to address the debt crisis and his commitment to aiding the poor without expanding government. Ryan has also defended his budget against criticism from the U.S. Conference of Catholic Bishops, emphasizing bipartisan support for certain policies. The debate highlights tensions over the role of government and religious principles in shaping policy. END OF SUMMARY.

@@ -1,0 +1,33 @@
+Alright, let's tackle this query. The user wants me to summarize a news article while preserving the moral framing. They've given specific steps: first, identify all the morally framed single words, and then write a concise summary using those terms.
+
+First, I'll read the article to understand the context. It's about three international organizations warning against human rights violations in the fight against terrorism. They mention excessive measures, fundamental freedoms, and international obligations. I need to pick out the words that carry moral weight.
+
+Looking through the article, words like "pretext," "excessive," "fundamental freedoms," "undermine," "strictly adhere," "abuses," "heavy toll," "balance," "legitimate," "essential," "right to life," "freedom of expression," "religion," "torture," "retroactive," "severe penalties," "criticism," and "restraint" stand out as morally charged. These terms are crucial for maintaining the article's ethical perspective.
+
+Next, I'll craft a summary that includes as many of these words as possible without exceeding 200 words. I need to ensure the summary captures the essence of the organizations' warning, the specific concerns, and the call for balance between security and rights. I'll structure it to highlight the main points: the organizations' joint statement, the examples of human rights issues, and the emphasis on maintaining international law commitments.
+
+I should also mention the specific rights they highlighted, like the right to life and freedom from torture, and note the criticism against expanding the war to Iraq. This will keep the moral framing intact and provide a clear, concise summary that reflects the original article's tone and message.
+</think>
+
+**STEP 1:**  
+* Pretext  
+* Excessive  
+* Fundamental freedoms  
+* Undermine  
+* Strictly adhere  
+* Abuses  
+* Heavy toll  
+* Balance  
+* Legitimate  
+* Essential  
+* Right to life  
+* Freedom of expression  
+* Religion  
+* Torture  
+* Retroactive  
+* Severe penalties  
+* Criticism  
+* Restraint  
+
+**SUMMARY:**  
+Three international organizations—the Council of Europe, OSCE, and UN High Commissioner for Human Rights—warned that the fight against terrorism must not be used as a *pretext* for *excessive* measures that *undermine* *fundamental freedoms*. They emphasized the need for governments to *strictly adhere* to international obligations to protect human rights, including the *right to life*, *freedom of expression*, and *freedom from torture*. The organizations criticized recent developments, such as the UK's emergency legislation allowing detention without trial and the killing of Taliban inmates in Afghanistan, calling for an *inquiry*. They stressed the importance of balancing *legitimate* security concerns with *essential* rights, urging against *retroactive* penalties and *severe* measures. The statement also condemned potential military action against Iraq, calling for *restraint* to avoid *abuses* of human rights. END OF SUMMARY.

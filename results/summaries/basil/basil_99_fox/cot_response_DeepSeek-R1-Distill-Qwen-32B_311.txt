@@ -1,0 +1,43 @@
+Alright, so I'm trying to help the user with their query. They provided a news article and want a summary that preserves the moral framing. The user also wants me to first identify the morally framed words and then write the summary. 
+
+First, I need to understand what morally framed words are. These are words that carry a judgment or imply right/wrong. So, I'll go through the article and pick out words that have that connotation.
+
+Looking at the article, words like "demanded," "slammed," "incompatible," "faith," "urge," "immediately," "lying," "leaking," "unlawfully," "outrageous," "conspiracy," "false narrative," "undermining," "attack," "defended," "outrageous," "exposed," "deception," "ridiculous," "intimidated," "distracted," "secure," "constitutional," and "obligation" stand out. These words imply judgment or moral evaluation.
+
+Next, I need to write a concise summary using these words. The summary should capture the main points: Republicans demanding Schiff's resignation, their reasons, Schiff's defense, and the political implications. I have to keep it under 200 words and include as many morally framed words as possible.
+
+I'll start by stating that all Republicans demanded Schiff's resignation because of his claims about Trump-Russia collusion. Then, mention the letter and their accusations. Include Trump's tweet about lying and leaking. Then, note Schiff's defense with evidence of Russian interference. Also, include Pelosi's support and the Democrats' stance on the Mueller report.
+
+I need to ensure the summary flows well and includes the key moral points without being too verbose. I'll check the word count to make sure it's under 200 words. Finally, I'll structure it with the required tokens: "SUMMARY:" and "END OF SUMMARY."
+
+I think that covers everything. Time to put it all together.
+</think>
+
+**STEP 1:**  
+* demanded  
+* slammed  
+* incompatible  
+* faith  
+* urge  
+* immediately  
+* lying  
+* leaking  
+* unlawfully  
+* outrageous  
+* conspiracy  
+* false narrative  
+* undermining  
+* attack  
+* defended  
+* outrageous  
+* exposed  
+* deception  
+* ridiculous  
+* intimidated  
+* distracted  
+* secure  
+* constitutional  
+* obligation  
+
+**SUMMARY:**  
+All Republicans on the House Intelligence Committee demanded Rep. Adam Schiff’s resignation as chairman, accusing him of misleading claims about Trump-Russia collusion. In a letter, they slammed his statements as incompatible with his duties, urging his immediate resignation. President Trump also criticized Schiff, tweeting that he had unlawfully lied and leaked information. Sen. Lindsey Graham compared Schiff to Oliver Stone, calling his claims "outrageous" and "conspiracy land." Schiff defended himself, citing evidence of Russian interference in the 2016 election, but Republicans accused him of spreading a false narrative and undermining public faith. Despite Special Counsel Mueller’s findings, Schiff insisted collusion occurred. House Speaker Nancy Pelosi supported Schiff, calling the demands to remove him "absolutely ridiculous," and emphasized the need to secure the full Mueller report. Democrats vowed not to be intimidated or distracted from their constitutional obligation to pursue oversight. END OF SUMMARY.

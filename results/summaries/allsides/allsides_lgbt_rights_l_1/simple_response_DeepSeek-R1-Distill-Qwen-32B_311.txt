@@ -1,0 +1,20 @@
+Alright, so I need to help the user by summarizing this news article about Reddit shutting down communities. The user specified that the summary should preserve the moral framing the author used. Hmm, okay, so first, I should read through the article carefully to understand the main points and the underlying moral arguments.
+
+The article talks about Reddit taking action against hate speech, specifically closing over 2,000 communities. It mentions some notable subreddits like "The_Donald," "Gender Critical," and "CapoTrapHouse." These communities were shut down because they violated Reddit's content policies, especially regarding hate speech. The author seems to support Reddit's move as a responsible action against hate, which is the moral framing I need to retain.
+
+I should note that Reddit's decision was influenced by brands pulling ads from Facebook due to hate speech concerns, led by civil rights groups. This shows a broader context of societal pressure against platforms allowing hate speech. Also, the article mentions that these communities were problematic for a long time, even before the 2016 election, which adds to the moral justification of Reddit's actions.
+
+I need to ensure the summary highlights Reddit's responsibility to combat hate speech and the positive response from civil rights groups. It's important to mention that this is just the beginning of more stringent rules, showing a commitment to a safer online environment. I should keep the summary concise, under 200 words, and make sure it flows logically from the decision to the implications.
+
+Wait, the user also mentioned that the summary should start after a "SUMMARY:" token and end with "END OF SUMMARY." So I need to format it correctly without any markdown. Also, I should avoid any markdown in the thinking process, so just plain text.
+
+I should structure the summary to first state Reddit's action, then mention the specific communities, the reason (violating policies), the context of brands pulling ads, the support from civil rights groups, and the future steps Reddit is taking. Keeping each point brief but informative.
+
+Let me draft it out:
+
+Reddit has closed over 2,000 communities for hate speech, targeting subreddits like "The_Donald" and "Gender Critical." This follows brands pulling ads from Facebook due to hate speech concerns. The company emphasized their responsibility to combat hate and support safer spaces. Civil rights groups praised the move, highlighting the need for platforms to enforce anti-hate policies. Reddit's purge is part of a broader effort to strengthen rules against hate speech.
+
+That's concise, under 200 words, and maintains the moral framing by showing Reddit's proactive stance against hate speech and the positive response from civil rights groups. I think this captures the essence and the moral perspective effectively.
+</think>
+
+SUMMARY: Reddit has closed over 2,000 communities for violating its hate speech policies, targeting subreddits like "The_Donald" and "Gender Critical." The move follows brands pulling ads from Facebook over hate speech concerns and reflects Reddit's responsibility to combat hate and support safer online spaces. Civil rights groups have praised the action, emphasizing the importance of platforms enforcing anti-hate policies. The purge is part of a broader effort to strengthen rules against hate speech. END OF SUMMARY.

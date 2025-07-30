@@ -1,0 +1,14 @@
+Okay, I need to help the user by summarizing the given news article while preserving the moral framing. The user specified that I should act as a news summarizer and a moral expert. So, I should focus on the key points and the underlying moral implications.
+
+First, I'll read through the article to understand the main events. It's about Jim Mattis resigning as Defense Secretary under Trump. The article mentions their differing views on Russia and China, Mattis's support for military strength, and Trump's decisions like withdrawing from Syria and pulling out of the Iran deal.
+
+I need to capture the essence of Mattis's contributions and his reasons for leaving. His letter highlights progress in military budget, readiness, and reforms. Also, the moral aspect is important—Mattis's stance on authoritarianism versus Trump's approach. 
+
+I should also note the broader implications, like the administration's instability and the contrast between Mattis's professionalism and Trump's policies. I need to keep it concise, under 200 words, and end with the specified tokens.
+
+I'll structure the summary to include Mattis's achievements, his reasons for resigning, key policy disagreements, and the impact on the administration's stability. I'll make sure to highlight the moral framing, such as Mattis's commitment to democratic ideals and the contrast with Trump's actions.
+
+Finally, I'll ensure the summary flows well and covers all critical points without unnecessary details. I'll check the word count to stay within the limit.
+</think>
+
+SUMMARY: Defense Secretary Jim Mattis announced his resignation, effective February 28, citing differing views with President Trump on Russian and Chinese authoritarianism. Mattis, a retired Marine general, had been a key figure in Trump's administration, supporting increased military spending and advocating for a strong defense posture. However, his departure highlights growing tensions over Trump's foreign policy decisions, including the withdrawal of U.S. troops from Syria and the administration's approach to Russia and Iran. Mattis also opposed Trump's policies on transgender military service members and the use of torture, further underscoring their ideological divide. Mattis's resignation letter emphasized his pride in the military's progress but acknowledged the need for alignment between the president and his defense secretary. His departure follows a series of high-profile exits from Trump's administration, reflecting a broader pattern of instability and ideological conflict. END OF SUMMARY.

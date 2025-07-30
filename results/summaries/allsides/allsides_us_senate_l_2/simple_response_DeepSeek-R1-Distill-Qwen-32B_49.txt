@@ -1,0 +1,14 @@
+Alright, so I'm trying to help the user summarize this news article. They want a summary that preserves the moral framing the author gave. First, I need to understand what the article is about. It's about the Senate approving a disaster aid package after six months of fighting, mainly because of President Trump's involvement.
+
+I notice the article highlights how Trump's demands for border aid and his resistance to funding Puerto Rico caused delays. This delay is framed as a moral issue because it left millions without aid during their recovery. The author seems critical of Trump for politicizing disaster relief, which is supposed to be bipartisan.
+
+I need to make sure the summary captures this moral angle. So, I should mention the delay caused by Trump's actions, the consequences of that delay, and the criticism of politicizing disaster aid. Also, the summary should be concise, under 200 words, and end with the specified tokens.
+
+Let me structure the summary: start with the approval of the aid package, mention the six-month delay, Trump's role in complicating things, the stripping of border funding, allocation for Puerto Rico, and the criticism about politicization. Then, touch on the consequences like the delay in aid and the impact on affected areas.
+
+I should avoid technical jargon and keep it clear. Make sure to highlight that the delay was unnecessary and caused suffering. Also, note that the funding was finally approved without addressing Trump's demands, showing his influence didn't lead to positive outcomes.
+
+I think that covers the main points while maintaining the moral framing. Now, I'll draft the summary accordingly, ensuring it's within the word limit and properly formatted.
+</think>
+
+SUMMARY: After six months of political gridlock, the Senate approved a $19.1 billion disaster aid package, providing relief to millions affected by hurricanes, wildfires, and floods. President Trump's demands for additional border funding and his resistance to increased aid for Puerto Rico significantly delayed the process. Despite his objections, the final package stripped out border aid and allocated $1.4 billion to Puerto Rico, far exceeding Trump's initial $600 million offer. The delay in aid has had severe consequences, leaving millions without necessary support for over a year in Puerto Rico, Florida, Iowa, Missouri, and other disaster-hit areas. The politicization of disaster relief has drawn criticism, as it prioritized partisan disputes over urgent humanitarian needs. The approval of the package, though belated, underscores the human cost of political infighting and the need for bipartisan cooperation in times of crisis. END OF SUMMARY.

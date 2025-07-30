@@ -1,0 +1,10 @@
+Okay, so the user wants me to summarize a news article while preserving the moral framing. The article is about Jordan signing the Kyoto Protocol. First, I need to read through the article carefully to understand the key points. The main points are Jordan's decision to sign the protocol, the background of the protocol, the commitment to international conventions, the funding aspect, and the actions of other countries like the US and Canada opposing it.
+
+The user mentioned that the author used "reducing" and "opposed" as morally framed words. I need to make sure these words are included in the summary. I should keep the summary concise, under 200 words, and end with the specified tokens.
+
+I should start by stating Jordan's decision, mention the director general, the delegation of Prince Zeid, and the commitment to international conventions. Then, explain the protocol's aim to reduce emissions, note the US and Canada's opposition, and their alternative strategies. Finally, highlight Jordan's hope for funding and international cooperation.
+
+I need to ensure the summary flows well and includes all necessary details without being too lengthy. Also, I must use the morally framed words where appropriate. Let me structure it step by step to cover each point succinctly.
+</think>
+
+SUMMARY: Jordan has decided to sign the Kyoto Protocol, a UN agreement aimed at reducing global greenhouse gas emissions, as part of its commitment to international environmental conventions. The protocol, established in 1997, legally obliges developed countries to reduce emissions by 8% below 1990 levels between 2008 and 2012. Jordan's move is intended to attract funding for global climate efforts, despite opposition from countries like the US and Canada, which have criticized the protocol for economic reasons. The US opposed the agreement, citing economic interests, while Canada expressed reluctance due to potential GDP losses. Jordan's decision underscores its dedication to addressing climate change, aligning with global efforts to combat the issue. END OF SUMMARY.

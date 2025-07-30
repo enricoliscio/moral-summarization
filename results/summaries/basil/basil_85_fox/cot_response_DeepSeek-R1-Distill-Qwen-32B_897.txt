@@ -1,0 +1,42 @@
+Okay, so the user has given me a query where they want me to act as a news summarizer and a moral expert. They provided a news article about President Trump's criticism of social media companies for discriminating against Republicans and conservatives. My task is to first identify all the morally framed words in the article and then summarize the article while preserving those moral terms.
+
+First, I need to understand what morally framed words are. These are words that carry a moral judgment or implication, such as "discriminating," "destroyed," "shadow banning," "illegal," "discrimination," "controversy," "manipulate," "healthy," "censorship," "dangerous," "fake," "sick," "grain of salt." These words are used to convey a moral stance or judgment in the text.
+
+Next, I'll go through the article and pick out each of these words. I'll list them under STEP 1, each on a new line starting with an asterisk.
+
+After that, I need to write a summary. The summary should be concise, under 200 words, and include as many of the identified morally framed words as possible. I need to make sure the summary accurately reflects the article's content while maintaining the moral framing.
+
+I'll start by outlining the main points: Trump's accusation of discrimination by tech giants, examples from Twitter and Facebook, their responses denying bias, and Trump's comparison to media outlets like CNN and MSNBC. I'll make sure to include the moral terms like "discriminating," "destroyed," "shadow banning," etc., to preserve the author's moral stance.
+
+I should also ensure the summary flows well and covers all key aspects without being too verbose. I'll check the word count to stay within the limit. Finally, I'll format the summary correctly, starting with "SUMMARY:" and ending with "END OF SUMMARY."
+
+I think I've covered all the steps. Let me put it all together now.
+</think>
+
+**STEP 1:**
+
+* Discriminating  
+* Destroyed  
+* Mistakes  
+* Choices  
+* Participate  
+* Shadow banning  
+* Discriminatory  
+* Illegal  
+* Censoring  
+* Controversy  
+* Manipulate  
+* Healthy  
+* Censorship  
+* Dangerous  
+* Fake  
+* Sick  
+* Grain of salt  
+
+---
+
+**SUMMARY:**  
+
+President Trump accused social media giants like Facebook and Twitter of "discriminating" against Republicans and conservatives, claiming "too many voices are being destroyed." He criticized the platforms for allegedly censoring conservative accounts while ignoring violations by liberal users. Trump referred to Twitter's "shadow banning" as "discriminatory and illegal," though the company denied bias, attributing issues to algorithmic glitches. Facebook also faced backlash for mishandling accounts like Diamond and Silk, with an executive apologizing for poor communication. Trump accused the platforms of "closing down the opinions of many people on the right," while defending his administration's stance on free speech. He criticized media outlets like CNN and MSNBC as "fake," yet did not demand their content be removed. The controversy highlights concerns over censorship, manipulation, and the "dangerous" impact of silencing voices, while social media companies insist they prioritize relevance and combat "bad-faith actors."  
+
+**END OF SUMMARY.**

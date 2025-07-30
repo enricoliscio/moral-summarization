@@ -1,0 +1,22 @@
+Alright, I need to help the user by summarizing the given news article. Let me start by reading the article carefully to understand the key points.
+
+The article is about President Khatami of Iran congratulating President Chavez of Venezuela after a failed coup. So, the main event is Chavez's return to power. I should note that the coup was military and that it failed, leading to Chavez's reinstatement.
+
+Next, Khatami's message is important. He congratulates Chavez, calling it a victory for justice and freedom. He also expresses hope for Venezuela's government to achieve its goals with people's support. That's a key point to include.
+
+Chavez's response is also significant. He mentions that the coup failed because of divine help and the people's support. He also talks about the coup's objective to get Venezuela out of OPEC to increase oil production. That's a strategic detail about the coup's motives.
+
+Additionally, Iran had previously sent congratulations and condemned the coup, stating that coups aren't an acceptable method for political change. This shows Iran's stance on the matter.
+
+Chavez's background is also relevant: he's a supporter of oil production cuts to boost prices, which was successful in a previous OPEC summit. This context explains his stance on oil policies.
+
+I need to condense all these points into a summary under 200 words. I'll start with the main event, then Khatami's message, Chavez's response, the coup's motives, Iran's previous stance, and Chavez's role in OPEC.
+
+I should ensure the summary is concise and covers all critical aspects without getting too detailed. Also, I need to structure it logically, starting from the congratulation, moving to the coup details, and ending with the implications for Venezuela and Iran's relationship.
+
+Finally, I'll make sure to use the "SUMMARY:" and "END OF SUMMARY." tokens as instructed.
+</think>
+
+SUMMARY:  
+President Mohammad Khatami of Iran congratulated Venezuelan President Hugo Chavez for his return to power following a failed military coup. Khatami described the event as a victory for justice and freedom and expressed hope for Venezuela's government to achieve its goals with popular support. Chavez thanked Iran for its support, stating that the coup attempt, which aimed to remove Venezuela from OPEC and increase oil production, had failed due to divine intervention and public resistance. Iran had earlier condemned the coup, emphasizing that political change should not involve coups or force. Chavez, a strong advocate for oil production cuts to boost global prices, was reinstated as president after being detained on a Caribbean island. The summary highlights the geopolitical implications of the coup and Iran's stance on Venezuela's stability.  
+END OF SUMMARY.

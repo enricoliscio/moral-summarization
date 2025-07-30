@@ -1,0 +1,27 @@
+Okay, so I need to help the user by summarizing the given news article while preserving the moral framing. The user provided a detailed query with specific instructions. Let me break it down step by step.
+
+First, the user wants me to identify all single words that are morally framed. I'll go through the article and pick out words that carry a moral connotation. Words like "disdainful," "weakness," "malarkey," etc., stand out as they express judgment or evaluation.
+
+Next, I need to write a concise summary using as many of these moral words as possible. The summary should be under 200 words and include the key points from the article. I'll focus on the main events: Biden's aggressive approach, Ryan's criticisms, the topics they debated, and the implications for the race.
+
+I should ensure that the summary captures the intensity of the debate, the specific criticisms each made, and the impact on the election dynamics. I'll also mention the shift in polls favoring Romney and the upcoming debates.
+
+Finally, I'll structure the response with STEP 1 listing the moral words and then the SUMMARY section. I'll make sure to use the specified tokens and keep everything clear and within the word limit.
+</think>
+
+**STEP 1:**  
+* Disdainful  
+* Weakness  
+* Malarkey  
+* Inaccurate  
+* Underhanded  
+* Blame  
+* Weakness  
+* Feisty  
+* Shoddy  
+* Weakness  
+* Weakness  
+* Weakness  
+
+**SUMMARY:**  
+In a feisty vice presidential debate, Vice President Biden aggressively criticized Paul Ryan, aiming to reset the campaign momentum after President Obama's lackluster debate performance. Biden directly attacked Mitt Romney's controversial "47 percent" remark, calling it "malarkey," and mocked Ryan's gaffes. Ryan countered by accusing Obama of weakness in foreign policy and criticized the administration's handling of the Libya attack, calling it "underhanded." The debate centered on the economy, budget deficit, and foreign policy, with both candidates appealing to the middle class. Biden pledged to protect federal programs, while Ryan focused on economic growth. The exchange was intense, with frequent interruptions and sharp exchanges, reflecting the heightened stakes as Romney gained traction in polls. The debate's outcome remains uncertain, but it highlighted the sharp divide between the two tickets. END OF SUMMARY.

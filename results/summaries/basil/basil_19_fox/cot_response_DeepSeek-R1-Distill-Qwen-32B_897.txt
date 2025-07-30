@@ -1,0 +1,23 @@
+Okay, so I need to help the user by summarizing the news article while preserving the moral framing. The user has given specific instructions to first identify the morally framed words and then write a summary using those words.
+
+First, I'll read through the article to understand the context. Donald Trump is stepping down as a debate moderator because he might run as a third-party candidate. He mentions conflicts of interest and the importance of choosing the right Republican candidate to defeat Obama. There are mentions of the economy being bad, endorsement, courage, conviction, and making America great again.
+
+For STEP 1, I need to pick out all the single words that carry moral connotations. Words like "conflict," "right," "wrong," "bad," "endorsement," "courage," "conviction," "great." These words are used to frame the situation morally, indicating approval or disapproval.
+
+Next, for the summary, I need to condense the article into 200 words, keeping those morally framed words. I'll start by stating Trump's decision to step down, the reason of conflict of interest, his consideration of a third-party run, and his belief about the economy. Then, mention his endorsement despite the third-party possibility, the candidates who attended, and the impact of his withdrawal on the debate. Finally, include his confidence in the event's success and his commitment to making America great again.
+
+I should ensure the summary flows logically, connecting each point while using the identified moral words. I need to be concise and stick to the word limit. Let me structure it step by step, making sure each sentence adds value and maintains the moral framing.
+</think>
+
+**STEP 1:**  
+* Conflict  
+* Right  
+* Wrong  
+* Bad  
+* Endorsement  
+* Courage  
+* Conviction  
+* Great  
+
+**SUMMARY:**  
+Donald Trump announced he is stepping down as moderator for a Republican presidential debate to avoid a "conflict of interest," as he considers a potential third-party candidacy. He emphasized the importance of selecting the "right" Republican candidate to defeat the "failed" Obama administration but reserved the right to run independently if he deems the party's choice "wrong." Trump expressed confidence in the debate's success but suggested it may not proceed without him. He praised Newt Gingrich and Rick Santorum for their "courage" in attending but criticized the party's direction. Trump remains focused on "making America great again" while keeping his options open. END OF SUMMARY.

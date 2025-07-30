@@ -1,0 +1,17 @@
+<think>
+Okay, so I need to summarize this news article while preserving the moral framing. The user provided a list of morally charged words that the author used, and I should include as many of them as possible in the summary. 
+
+First, I'll read through the article to get the main points. It's about Zimbabwe's elections with Robert Mugabe and Morgan Tsvangirai. There's fear of violence, accusations of rigging, human rights violations, and concerns about the post-election response. 
+
+I should start by highlighting the fear of violence and civil war. Mention the polls showing Tsvangirai ahead but the risks of Mugabe's supporters not accepting the result. Include the government's pronouncements about not allowing Tsvangirai to lead, which ties into the coup and support for military action.
+
+Next, note the 34 deaths in political violence and the human rights violations. Mugabe's government is accused of rigging the election through changing laws and procedures, like increasing polling stations in rural areas and reducing in urban ones. Also, mention the residency requirement disenfranchising young voters.
+
+Include the treason charges against Tsvangirai and the possible jail time if Mugabe loses. Tsvangirai's promise not to prosecute Mugabe if he wins might ease pressure but doesn't solve everything. The article ends with the fear of stolen election and potential attacks.
+
+I need to make sure to include all the morally framed words like violence, rig, prepared, rioters, pronouncements, coup, died, violations, corruption, shortages, unemployment, storm, jail, treason, abducted, attacks, procedures, increase, reduce, discourage, steal, attack, killed.
+
+I'll structure the summary to flow from the election context, through the fears, accusations, and potential outcomes, ensuring each morally framed word is appropriately placed. Keep it concise, under 200 words, and end with the required tokens.
+</think>
+
+SUMMARY: Zimbabweans fear violence and civil war as they prepare for the weekend's election, with Morgan Tsvangirai challenging Robert Mugabe. Despite polls showing Tsvangirai ahead, concerns grow that neither side will accept the result, risking rioters or military intervention. Senior officials and military leaders have pronounced opposition to Tsvangirai's rule, even hinting at coup support. At least 34 have died in political violence this year, mostly MDC supporters. Mugabe's government faces accusations of human rights violations and rigging the election through revised procedures, including increasing rural polling stations and reducing urban ones, which could discourage Tsvangirai supporters. A residency requirement may disenfranchise young opposition voters. Tsvangirai has been charged with treason for allegedly plotting Mugabe's elimination, and his supporters report abductions and attacks. Independent observers warn of stolen election risks. Tsvangirai has promised not to prosecute Mugabe if elected, but fears of martial law and violence persist. Zimbabwe faces a tense standoff between Mugabe's autocracy and the opposition's push for change. END OF SUMMARY.

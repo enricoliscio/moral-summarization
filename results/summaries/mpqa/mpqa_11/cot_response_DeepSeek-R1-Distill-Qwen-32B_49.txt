@@ -1,0 +1,46 @@
+Alright, I'm trying to figure out how to approach this query. The user wants me to act as a news summarizer and a moral expert. They provided a detailed news article about reactions to Colin Powell's statements regarding Venezuela. The task is in two parts: first, identify all single words that are morally framed, and second, write a concise summary preserving those moral terms.
+
+Okay, starting with STEP 1. I need to go through the article and pick out words that carry moral implications. Words like "violating," "questioned," "interference," "sovereignty," "respect," "nonintervention," "meddling," "autonomous," "inconceivable," "respectful," "equal treatment," "intervention," "blockade," "treason," "smear campaign," "sabotage," "misled," "concern," "alarm," "harming," "incompetent," "ambiguous," "tensions," "breakdown." These words all carry moral judgments or implications about actions and policies.
+
+Now, for the summary. I need to condense the article, keeping the moral framing intact. The main points are the reactions to Powell's statements, accusations of sovereignty violation, Venezuela's defense of their policies, and the opposition's stance. I'll need to include key quotes and the implications of the statements without getting too bogged down in details. I should ensure that the summary flows well and stays under 200 words.
+
+I also need to make sure that the summary starts after "SUMMARY:" and ends with "END OF SUMMARY." I'll structure it by first introducing Powell's statement, then the Venezuelan officials' reactions, followed by the opposition's perspective, and conclude with the broader implications. I'll use the identified moral terms to highlight the key points without adding my own opinions.
+
+Let me check if I've covered all the main points: Venezuelan officials accusing the US of violating sovereignty, their stance on autonomy, opposition's desire for intervention, and the potential impact on international relations. I should also mention the video controversy and the economic implications, like reduced oil sales to the US.
+
+I think I've got all the necessary elements. Now, I'll draft the summary, making sure it's concise and includes the morally framed words. I'll read through it to ensure it's clear and meets the word limit.
+</think>
+
+**STEP 1:**
+
+* violating  
+* questioned  
+* interference  
+* sovereignty  
+* respect  
+* nonintervention  
+* meddling  
+* autonomous  
+* inconceivable  
+* respectful  
+* equal treatment  
+* intervention  
+* blockade  
+* treason  
+* smear campaign  
+* sabotage  
+* misled  
+* concern  
+* alarm  
+* harming  
+* incompetent  
+* ambiguous  
+* tensions  
+* breakdown  
+
+---
+
+**SUMMARY:**  
+
+US Secretary of State Colin Powell's comments on Venezuela's foreign policy and President Hugo Chavez's democratic credentials sparked strong reactions from Venezuelan officials, who accused Washington of violating national sovereignty. Venezuelan leaders emphasized their right to autonomy in domestic and foreign policy, rejecting external interference and stressing adherence to international law. Deputy Cilia Flores and others criticized Powell's remarks as meddling, asserting Venezuela's sovereignty and the need for mutual respect. Meanwhile, opposition members linked Powell's concerns to a video allegedly showing ties between Venezuela and Colombian rebel groups, accusing the media of a smear campaign. They argued that such actions could lead to foreign intervention or a blockade. Opposition leader Alejandro Arzola criticized the government's handling of international relations, citing its impact on investor confidence and oil sales to the US. Overall, the debate highlighted tensions over sovereignty, foreign policy, and Venezuela's relations with the US.  
+**END OF SUMMARY.**

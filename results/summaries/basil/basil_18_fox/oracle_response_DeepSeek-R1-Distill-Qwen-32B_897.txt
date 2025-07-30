@@ -1,0 +1,15 @@
+<think>
+Okay, so I need to summarize this news article while preserving the moral framing. The user provided the article and a list of morally framed words: war, faith, fight, attacks, wrong, promote, protect. My task is to make sure these words are included in the summary.
+
+First, I'll read through the article to understand the main points. Governor Rick Perry is running against Obama, claiming a "War on Religion." He's using this as a campaign strategy, especially targeting social conservatives. The ad emphasizes his Christian faith and attacks Obama's policies on gay rights and traditional values.
+
+I need to capture that Perry is accusing Obama of waging a war, attacking religious heritage, and promoting gay rights. I should mention the examples like the Justice Department's stance on DOMA and the foreign aid memo. Also, highlight Perry's Methodist background and his appeal to evangelical voters.
+
+I'll structure the summary to include the key elements: Perry's ad, the "War on Religion" claim, specific examples of Obama's actions, and Perry's stance on faith and social issues. I'll make sure to use the moral words as much as possible without making it sound forced.
+
+I should keep it concise, under 200 words. Let me draft it step by step, ensuring each moral term is appropriately placed. Maybe start with Perry's ad and the war claim, then list the attacks, and conclude with his faith-based appeal.
+
+I need to avoid any markdown and just provide the summary after the "SUMMARY:" token. I'll check the word count to stay within limits. Also, ensure that the summary flows naturally while incorporating all the required terms.
+</think>
+
+SUMMARY: Texas Gov. Rick Perry is accusing President Obama of waging a "War on Religion," claiming Obama's administration is attacking traditional American values and faith. In a new ad titled "Strong," Perry ties his Christian faith to conservative social stances, arguing that Obama's policies, such as promoting gay rights and failing to protect religious heritage, are wrong. Perry highlights examples like Obama's Justice Department stopping support for the Defense of Marriage Act and a presidential memorandum directing foreign aid to "promote and protect" LGBTQ+ rights. He argues this is part of Obama's broader "war on faith," investing tax dollars to support a lifestyle many Americans oppose. Perry, a Methodist, emphasizes his faith as a cornerstone of his campaign, appealing to evangelical voters by claiming faith made America strong and can do so again. END OF SUMMARY.

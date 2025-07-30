@@ -1,0 +1,19 @@
+<think>
+Okay, so the user has provided a news article and wants a summary. They specified that the summary should be after a "SUMMARY:" token and end with "END OF SUMMARY." Also, it should be no longer than 200 words. 
+
+First, I need to read the article carefully. It's about Indiana's religious freedom law, Governor Pence's response, and the backlash. The key points are Pence's defense of the law, his plan to clarify it, the reactions from businesses and protesters, and the implications for discrimination against gays and lesbians.
+
+I should identify the main elements: who (Governor Pence), what (signed a law), when (last week), where (Indiana), why (to protect religious freedom), and the consequences (backlash, business withdrawals, etc.). Also, the context about similar federal laws and the difference in Indiana's law regarding protected classes is important.
+
+I need to condense this into a concise summary. I'll start with the governor addressing the backlash, then mention the law's intent, the reactions from businesses and protesters, and the criticism about potential discrimination. I should also note that Pence won't add protections for gays and lesbians.
+
+I have to make sure the summary is under 200 words. Let me structure it: introduce the governor and the law, then the reactions, the clarification attempt, and the criticism. Keep it clear and straightforward without getting too detailed.
+
+Let me check the word count as I draft. I'll make sure each sentence is concise and covers the essential points without unnecessary details. Also, ensure that the summary flows logically from one point to the next.
+
+Finally, I'll place the summary between the specified tokens as per the user's instructions. I should avoid any markdown and keep it plain text.
+</think>
+
+SUMMARY:  
+Indiana Gov. Mike Pence is addressing backlash over a recently enacted Religious Freedom Restoration Act, which opponents argue could enable discrimination against gays and lesbians. Pence defended the law, stating it protects religious freedom and is not about discrimination, but acknowledged the need for clarification. He plans to introduce legislation this week to clarify its intent. The law allows individuals or businesses to refuse service if it conflicts with their religious beliefs, sparking protests and business withdrawals from Indiana. Companies like Salesforce.com and Angie’s List halted operations or travel to the state, while the NCAA expressed concern over the law’s implications. Pence emphasized the law’s roots in federal legislation but critics argue it could permit broader discrimination. Indiana does not protect gays and lesbians under civil rights law, and Pence ruled out adding such protections. The controversy has become a political challenge for Pence, who is considering a 2016 presidential run.  
+END OF SUMMARY.

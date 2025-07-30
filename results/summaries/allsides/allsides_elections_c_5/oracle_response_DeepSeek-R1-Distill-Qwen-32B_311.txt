@@ -1,0 +1,16 @@
+<think>
+Alright, I need to help the user by summarizing the given news article while preserving the moral framing. The user specified that I should use the morally framed words provided: thoughts, prayers, help, named, keep, getting, delivering, disasters, borrowing, jeopardizing.
+
+First, I'll read through the article to understand the main points. It's about the debate between Obama and Romney regarding the government's role in disaster relief, specifically after Sandy. Obama emphasizes federal help, while Romney supports local and voluntary efforts.
+
+I need to make sure the summary includes the key moral terms. I'll start by mentioning Obama offering thoughts and prayers, then his federal help. Romney's approach with local efforts and the canned food drive. I should include Romney's past comments on decentralizing disaster relief and reducing federal spending, using 'borrowing' and 'jeopardizing' as he talks about the budget.
+
+Also, I should note the positive response from Republican Governor Christie about the federal government's delivery of aid. It's important to highlight the contrast between the two approaches and the ongoing debate.
+
+I'll structure the summary to flow from Obama's federal role, Romney's local efforts, their differing views on FEMA, and the impact of the storm on the debate. I'll keep it concise, under 200 words, and make sure all the moral words are included naturally.
+
+Let me draft the summary, ensuring each point is clear and the moral framing is maintained. I'll check the word count to stay within limits. Once done, I'll present it after the "SUMMARY:" token as instructed.
+</think>
+
+SUMMARY:  
+President Obama offered thoughts and prayers for those affected by Sandy, emphasizing the federal government's role in providing help. He assured victims that America stands behind them, using the federal government as a critical tool for recovery. Meanwhile, Mitt Romney highlighted the virtue of individual action, sponsoring a canned food drive and advocating for decentralized disaster relief. Romney argued that disaster response should be sent back to states and even the private sector, though he acknowledged that voluntary efforts alone aren't a substitute for government aid. State disaster officials have sometimes clashed with the federal government, but Obama has worked to streamline federal response, promising to remove red tape. FEMA Administrator Craig Fugate, who understands state perspectives, has been praised by Republican Gov. Chris Christie for the federal government's delivery of aid. Romney, however, has criticized federal borrowing and spending, warning that continuing such practices jeopardizes the future for children. The storm has reignited the debate over federal versus local disaster response, with Obama continuing to advocate for an active federal role. END OF SUMMARY.

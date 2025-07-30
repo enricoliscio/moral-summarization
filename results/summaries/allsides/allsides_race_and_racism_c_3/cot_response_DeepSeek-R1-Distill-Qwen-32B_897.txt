@@ -1,0 +1,47 @@
+Alright, so I've got this query from a user who wants me to summarize a news article while preserving the moral framing. They also want me to identify the morally framed words first. Hmm, okay, let me break this down.
+
+First, I need to understand what the user is asking for. They mentioned I'm a news summarizer and a moral expert. So, my main tasks are two-fold: identify morally framed words and then write a concise summary that includes those words.
+
+Looking at the article, it's about George Floyd's death and its impact on the Black Lives Matter movement. The user provided a specific structure: STEP 1 for identifying words and then a SUMMARY. I should follow that exactly.
+
+For STEP 1, I need to go through the article and pick out words that carry moral weight. Words like "brutality," "lynching," "acquittal," "riots," etc., come to mind. These terms aren't just descriptive; they have strong moral connotations, indicating wrongdoing or injustice.
+
+Next, the SUMMARY. It needs to be under 200 words and include as many of those morally framed words as possible. I should make sure the summary captures the key points: George Floyd's death as a catalyst, the context of previous incidents, the role of the pandemic, and the ongoing legal actions.
+
+I also need to ensure the summary flows well and maintains the moral perspective. It should highlight the systemic issues and the broader implications of the events, not just the facts.
+
+Wait, the user mentioned to use the * for each word in STEP 1. I should list each one clearly. And in the summary, I should weave those words in naturally without making it forced.
+
+I think I've got it. I'll start by extracting the morally charged words, then craft a summary that ties them all together, showing the progression from past injustices to the current movement, emphasizing the moral outrage and systemic issues.
+</think>
+
+**STEP 1:**  
+* Brutality  
+* Lynching  
+* Acquittal  
+* Riots  
+* Police killings  
+* Black Lives Matter  
+* Controversial killings  
+* Gunned down  
+* Shot  
+* Lethal force  
+* Uncertainty  
+* Graphic footage  
+* Tipping point  
+* Anger  
+* Building  
+* Health crisis  
+* Economic crises  
+* Disproportionate  
+* Lockdown measures  
+* Incendiary tweets  
+* Tinder  
+* Spark  
+* Systemic racism  
+* combustible  
+* Murderous inequalities  
+* Pleading for his life  
+
+**SUMMARY:**  
+The article examines how George Floyd’s death has become a pivotal moment in the ongoing struggle against racial injustice in America. Floyd’s killing, captured on video, highlights the brutality of police violence and joins a long history of tragic incidents, such as Emmett Till’s lynching, Rodney King’s beating, and the police killings of Eric Garner and Michael Brown. The circumstances of Floyd’s death—being restrained with a knee on his neck for nearly nine minutes—made it particularly senseless and widely condemned. This incident, combined with the disproportionate impact of the coronavirus pandemic on Black Americans and months of lockdown frustration, sparked widespread protests. The article also notes the lack of accountability in cases like Ahmaud Arbery, Breonna Taylor, and Tony McDade, emphasizing the weight of systemic racism. As court cases proceed, Floyd’s death remains a catalyst for a movement demanding change. END OF SUMMARY.

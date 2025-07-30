@@ -1,0 +1,26 @@
+Okay, I need to help the user by summarizing the given news article while preserving the moral framing. First, I should understand the task. The user wants two things: first, identify all the single words that are morally framed, and second, write a summary that includes as many of those words as possible.
+
+Looking at the article, I need to go through each sentence and pick out words that carry a moral connotation. Words like "failure," "risk," "betrayed," "caved," "screwing," "outrage," "unfair," "disappointment," etc., seem to have strong moral implications. I'll list each of these in step one, each on a new line with an asterisk.
+
+Next, for the summary, I have to condense the article into a concise 200-word piece. I need to include the key points: Larry Summers warning about a double-dip recession, Obama defending the tax deal, the administration's efforts to get support, the economic projections, and the opposition from Democrats. I should make sure to use the morally framed words identified earlier to maintain the author's tone.
+
+I'll start by mentioning Summers' warning and the administration's push against criticism. Then, I'll include Obama's statements and the economic forecasts. I'll also highlight the opposition, including the letters and quotes from Democratic lawmakers. Finally, I'll note Biden's efforts to convince House Democrats, showing the ongoing conflict.
+
+I need to ensure the summary flows well and stays within the word limit. I'll check each sentence to make sure it's clear and includes the necessary moral terms without making it too verbose. Once done, I'll format the response with the STEP 1 and SUMMARY sections as specified.
+</think>
+
+**STEP 1:**  
+* Failure  
+* Risk  
+* Betrayed  
+* Caved  
+* Screwing  
+* Outrage  
+* Unfair  
+* Disappointment  
+* Conflagration  
+* Irresponsible  
+* Unjust  
+
+**SUMMARY:**  
+Larry Summers warned that failing to pass the tax deal would significantly increase the risk of a double-dip recession. President Obama defended the deal, emphasizing that it makes sense and urging Congress to act. However, many Democrats criticized the deal, with some calling it "fiscally irresponsible" and "grossly unfair." Vice President Biden is working to convince House Democrats, but opposition remains strong, with over 30 House Democrats signing a letter opposing the deal. Economists predict the deal could boost growth by 1.25 percentage points and create 1.6 million jobs, but liberals remain skeptical. Axelrod warned that middle-class Americans would be "screwed" without the tax cuts. The administration is facing outrage from its base, with some allies calling the deal a "steep price" but necessary to help working Americans. END OF SUMMARY.

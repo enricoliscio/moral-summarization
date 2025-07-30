@@ -1,0 +1,60 @@
+Alright, so the user has given me a query where they want me to act as a news summarizer assistant and a moral expert. The task is to summarize a news article while preserving the moral framing. They've also provided specific steps: first, identifying morally framed words, and then writing a summary that includes as many of those words as possible.
+
+First, I need to understand what "morally framed" words mean. These are words that carry a moral judgment or imply a value judgment. So, I should look for words like "controversial," "deny," "discrimination," "veto," "outrage," etc. These words carry a sense of right or wrong, good or bad.
+
+Looking at the article, I'll go through each sentence and pick out words that have moral connotations. For example, "controversial" is used to describe the bill, indicating it's a hot-button issue. "Deny" is used in the context of refusing service, which is a moral action. "Discrimination" is a clear moral term, as is "veto," which is a decision with significant moral implications.
+
+Next, I need to list all these words. I'll go through the article paragraph by paragraph, identifying each morally charged word. It's important to capture all of them to ensure the summary reflects the original moral framing.
+
+Once I have the list, the next step is to write a concise summary. The summary should be under 200 words and include as many of the identified morally framed words as possible. I need to make sure the summary captures the essence of the article, highlighting the controversy, the calls for veto, the arguments from both sides, and the potential implications of the bill.
+
+I should structure the summary to first introduce the bill and its controversy, then mention the calls for veto from prominent Republicans, the reactions from different groups, and the governor's stance. I'll also include the perspectives from both supporters and opponents, emphasizing the moral arguments each side is making.
+
+I need to be careful to preserve the moral framing without introducing my own bias. The summary should reflect the article's portrayal of the issue, showing the divide between those who see the bill as protecting religious freedom and those who view it as enabling discrimination.
+
+Finally, I'll review the summary to ensure it's within the word limit and that it effectively conveys the moral dimensions of the issue as presented in the article. I'll check that all key points are included and that the language remains neutral yet reflective of the original moral framing.
+</think>
+
+**STEP 1:**
+
+* Controversial  
+* Deny  
+* Discrimination  
+* Veto  
+* Uproar  
+* Oppose  
+* Defense  
+* Action  
+* Discrimination  
+* Veto  
+* Veto  
+* Veto  
+* Discrimination  
+* Toxic  
+* Discrimination  
+* Discrimination  
+* Veto  
+* Veto  
+* Discrimination  
+* Discrimination  
+* Discrimination  
+* Discrimination  
+* Discrimination  
+* Discrimination  
+* Discrimination  
+* Discrimination  
+* Discrimination  
+* Discrimination  
+* Discrimination  
+
+---
+
+**SUMMARY:**  
+
+Prominent Republicans are urging Arizona Gov. Jan Brewer to veto a controversial bill allowing businesses to deny service based on religious beliefs. The bill, passed by the Arizona Legislature, permits businesses, churches, or individuals to cite religious beliefs as a defense against discrimination claims. This has sparked national outrage, with the business community, the Super Bowl Committee, and even Republican senators calling for a veto. Former GOP nominee Mitt Romney also joined the chorus, urging Brewer to reject the legislation.  
+
+Brewer is deliberating over the bill, known as Senate Bill 1062, and is expected to weigh the arguments from both sides. Some Republican senators who supported the bill now advocate for a veto, claiming it was misrepresented and blown out of proportion by the media. They argue the bill aims to protect religious freedom, not to enable discrimination. However, Democrats and civil rights groups condemn the measure as "toxic," arguing it legitimizes discrimination.  
+
+The bill was pushed by the Center for Arizona Policy, a conservative group opposing gay marriage and abortion. Its president, Cathi Herrod, dismissed critics as "fear-mongering," claiming the bill simply clarifies existing law. Meanwhile, Democrats warn the bill will polarize the state and harm Arizona's reputation.  
+
+END OF SUMMARY.

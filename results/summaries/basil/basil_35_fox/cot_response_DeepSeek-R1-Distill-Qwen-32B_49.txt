@@ -1,0 +1,27 @@
+Okay, so the user wants me to summarize a news article while preserving the moral framing. They've given specific instructions to first identify all the morally framed words and then write a concise summary. Let me start by understanding the article.
+
+The article talks about the Benghazi attack and the Obama administration's handling of the situation. There are mentions of warnings, negligence, failure to act, and negligence in leadership. The State Department's actions, like stripping references to prior attacks, seem to be framed negatively. 
+
+First, I need to identify the morally charged words. Words like "failure," "negligence," "ignored," "compromised," "ignored," "lack of proactive leadership," "surprised," "cry for help," and "negligent" stand out. These words carry moral judgment, indicating wrongdoing or oversight.
+
+Next, I'll summarize the article. I should include the key points: the controversy, the warnings that were ignored, the stripping of references, the cable that was not seen by Clinton, the negligence in leadership, and the State Department's internal review. I need to keep it under 200 words and ensure the moral framing is preserved.
+
+I should make sure the summary flows logically, starting with the controversy, then the warnings, the administration's actions, the consequences, and the internal findings. I'll use the identified moral words to maintain the tone.
+
+Let me draft the summary, making sure to include all necessary points concisely. I'll check the word count to ensure it's within the limit. Also, I need to end with the specified tokens.
+</think>
+
+**STEP 1:**  
+* Failure  
+* Negligence  
+* Ignored  
+* Compromised  
+* Ignored  
+* Lack of proactive leadership  
+* Surprised  
+* Cry for help  
+* Negligent  
+
+**SUMMARY:**  
+The Benghazi attack controversy highlights the Obama administration's handling of documented warnings and security incidents. State Department spokeswoman Victoria Nuland attempted to strip references to prior attacks to prevent Congress from "beating up" on her department. President Obama acknowledged that staff in Benghazi were not adequately protected. A classified cable warned of severe Islamist threats, including Al Qaeda and Ansar al-Sharia, and noted the consulate's lack of security support. Secretary Clinton claimed she was unaware of the cable, despite it being reviewed by military leaders. A former diplomatic security agent argued that multiple warnings indicated negligence in State Department leadership. An internal review found senior officials lacked proactive leadership but did not find misconduct. The controversy underscores concerns about security failures and accountability.  
+**END OF SUMMARY.**

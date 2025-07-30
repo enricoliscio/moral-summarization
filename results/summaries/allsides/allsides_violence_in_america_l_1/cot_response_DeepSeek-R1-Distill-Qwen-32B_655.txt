@@ -1,0 +1,38 @@
+Okay, I need to help the user with their query. They provided a news article and specific instructions. Let me read through the query again to make sure I understand what they need.
+
+So, the user wants me to act as a news summarizer and moral expert. They have two main tasks. First, I need to identify all the single words that are morally framed in the given article. Then, I have to write a summary preserving those moral frames.
+
+Starting with STEP 1: Identifying morally framed words. I should go through the article and pick out words that carry moral connotations. Words like "shot," "killed," "violent," "confrontation," "gathered," "protests," "fatal," "independently investigate," "seriously," "destructive," "disperse," "assaulted," "trust," "justice," "unarmed," "alarmed," "intruders," "return fire." These words seem to carry moral weight because they relate to actions, consequences, and societal issues.
+
+Next, for the summary, I need to condense the article into 200 words, keeping the moral framing intact. I should include the key events: the shooting, the National Guard's involvement, the context of protests over Breonna Taylor and George Floyd, the governor's investigation, the police chief's statements about trust issues, and the impact on tensions.
+
+I have to make sure the summary flows well and includes all the important points without being too detailed. Also, I need to end with the specified tokens. Let me structure it step by step to cover all aspects without exceeding the word limit.
+
+I should also check if I missed any morally framed words in the first step. Maybe words like "authorities," "statement," "authorization," but those might not carry the same moral weight. I think the ones I listed are sufficient.
+
+Finally, I'll write the summary, ensuring it's concise and includes the moral elements identified. I'll make sure it's under 200 words and properly formatted with the tokens as instructed.
+</think>
+
+**STEP 1:**  
+* shot  
+* killed  
+* violent  
+* confrontation  
+* gathered  
+* protests  
+* fatal  
+* independently investigate  
+* seriously  
+* destructive  
+* disperse  
+* assaulted  
+* trust  
+* justice  
+* unarmed  
+* alarmed  
+* intruders  
+* return fire  
+
+**SUMMARY:**  
+A man was shot and killed in Louisville during a violent confrontation between law enforcement and a crowd. The Kentucky National Guard and Louisville police were dispatched to disperse the crowd, but someone in the crowd fired at officers, prompting both the Guard and police to return fire. Gov. Andy Beshear authorized an independent investigation into the fatal shooting. Louisville Police Chief Steve Conrad stated that officers were working to keep people safe but faced being shot at and assaulted, highlighting a lack of trust in the police. The incident occurred amid ongoing protests over the fatal police shooting of Breonna Taylor, an unarmed African American EMT, and the death of George Floyd. Taylor was killed when police returned fire after her boyfriend, believing they were intruders, shot at them. The shooting is likely to further inflame tensions in Louisville.  
+**END OF SUMMARY.**

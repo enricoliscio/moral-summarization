@@ -1,0 +1,35 @@
+Okay, so the user has given me a query where I need to act as a news summarizer and a moral expert. The task is to summarize a news article while preserving the moral framing that the author provided. 
+
+First, I need to understand what's being asked. The user has broken it down into two steps: identifying morally framed words and then writing a summary that includes those words. 
+
+Looking at the article, it's about Ted Cruz accusing Donald Trump of using the National Enquirer to spread false stories about him. The article also mentions Trump's response and the Enquirer's reputation for tabloid journalism. 
+
+For STEP 1, I have to find all the single words that carry a moral connotation. I'll go through the article and pick out words like "lashed out," "enlisting," "friends," "henchmen," "bidding," "garbage," "surreal," "accused," "pretend," "innocence," "hacks," "problem," "reputation," "tabloid," "integrity," and "aggressive." These words are charged with moral judgment, so they fit.
+
+Next, for the summary, I need to condense the article into 200 words, making sure to include those morally framed words. I'll start by stating Cruz's accusation against Trump, mention the Enquirer's story, and include his denial. Then, I'll touch on the CNN exchange and Trump's response, highlighting his denial of involvement. I'll also note the Enquirer's stance on their reporting integrity. Throughout, I'll ensure the moral words are included to maintain the original framing.
+
+I should keep the summary concise but comprehensive, covering all key points without getting too detailed. I'll make sure each sentence flows logically, connecting the accusations, denials, and the broader context of the Enquirer's reputation.
+
+Finally, I'll review the summary to ensure it's within the word limit and that all the morally framed words are appropriately included. This way, the summary not only informs but also reflects the original moral perspective of the article.
+</think>
+
+**STEP 1:**  
+* lashed out  
+* enlisting  
+* friends  
+* henchmen  
+* bidding  
+* garbage  
+* surreal  
+* accused  
+* pretend  
+* innocence  
+* hacks  
+* problem  
+* reputation  
+* tabloid  
+* integrity  
+* aggressive  
+
+**SUMMARY:**  
+Sen. Ted Cruz accused Donald Trump of using "his friends at the National Enquirer and his political henchmen" to spread false claims about extramarital affairs. Cruz denied the allegations, calling them "garbage." A surreal CNN exchange saw Cruz's former aide, Amanda Carpenter, accused of having an affair with him. Trump denied involvement, stating he had "nothing to do with the National Enquirer." The tabloid, known for breaking sex scandals, defended its integrity, claiming no external influence. Cruz's accusations and Trump's response highlight the moral and political tensions surrounding the story. END OF SUMMARY.

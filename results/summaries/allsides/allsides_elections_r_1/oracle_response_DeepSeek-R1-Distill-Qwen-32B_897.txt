@@ -1,0 +1,10 @@
+Alright, so the user has given me a query where I need to act as a news summarizer and moral expert. The task is to summarize a news article while preserving the moral framing the author used. The user provided the article and the specific morally framed words to include.
+
+First, I'll read through the article to understand the main points. It's about Joe Biden's COVID-19 plan and the sexual assault allegations against him. The author uses words like "assault," "groped," "harassed," etc., so I need to include these in the summary.
+
+I should structure the summary to cover both parts: Biden's policy proposal and the allegations. I'll start with his infrastructure plan and then move to the accusations, making sure to use the specified moral terms. I also need to mention the conflicting statements from staffers and Reade's support from her neighbor.
+
+I must keep the summary under 200 words, so I'll be concise. I'll make sure to include all the key moral elements without adding any personal opinions. Finally, I'll end with the required tokens.
+</think>
+
+SUMMARY: Joe Biden, the likely Democratic presidential nominee, has proposed a $1 trillion infrastructure program to address the economic crisis caused by the Coronavirus pandemic. However, his silence on allegations of sexual assault from former staffer Tara Reade has drawn attention. Reade claims Biden groped her and touched her genitals in 1993 while she worked on his Senate staff. She alleges her concerns were not taken seriously and she was forced to leave her job. Biden's staffers have denied the claims, and a former neighbor of Reade supports her account. Reade also claims she was asked to dress more conservatively and avoid being "sexy" while working for Biden. Eight women, including Reade, have accused Biden of making them uncomfortable with inappropriate displays of affection. Biden has acknowledged the complaints and promised to be more mindful of personal space. Major media outlets have not directly questioned Biden about the assault allegations, and his campaign denies the claims, stating they "absolutely did not happen." END OF SUMMARY.

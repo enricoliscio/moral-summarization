@@ -1,0 +1,41 @@
+Okay, so I need to help this user who's asking for a news summary while preserving the moral framing. They provided a detailed article, and they want me to first identify all the morally framed words, then write a summary using those words. 
+
+First, I'll read the article carefully. It's about pro-abortion demonstrators and the Democratic stance on late-term abortions. The author is clearly against this, using strong moral language. I need to pick out words that carry moral weight. Words like "explicit," "mainstream," "extreme," "deceptive," "unjust," "indefensible," "grievous," "error," "unjust," "obligations," "prohibit," "punish," "non-persons," "radical," "unjust," "obligations," "extreme," "reconsider," "repudiate," "expose," "indefensible," "absurd," "outrageous," "reverse," "mistake."
+
+Now, for the summary. I need to condense the article, keeping the moral framing intact. The main points are the Virginia legislator's bill, Governor Northam's support, the New York law, the lack of enforceable restrictions, the presidential candidates' support, the public's disapproval, the lack of evidence for medical necessity, the comparison to infants, and the call for reconsideration. I should use the identified words to maintain the moral tone.
+
+I'll structure the summary to highlight the extreme positions, the deceptive laws, the injustice, and the call for action from various groups. I need to keep it under 200 words, so I'll be concise but include the key morally charged words.
+
+Finally, I'll make sure the summary starts with "SUMMARY:" and ends with "END OF SUMMARY." to meet the user's formatting requirements. I'll double-check that all the moral words are included and that the summary flows logically, preserving the original's critical stance.
+</think>
+
+**STEP 1:**  
+*Explicit  
+Mainstream  
+Extreme  
+Deceptive  
+Unjust  
+Indefensible  
+Grievous  
+Error  
+Unjust  
+Obligations  
+Prohibit  
+Punish  
+Non-persons  
+Radical  
+Unjust  
+Obligations  
+Extreme  
+Reconsider  
+Repudiate  
+Expose  
+Indefensible  
+Absurd  
+Outrageous  
+Reverse  
+Mistake  
+
+**SUMMARY:**  
+The article discusses the increasingly explicit pro-abortion stance among some Democrats, including support for abortion "all the way up to 40 weeks." Virginia state legislator Kathy Tran and Governor Ralph Northam have backed such policies, with Northam suggesting that in some cases, a full-term child could be delivered and allowed to die. New York's law permits abortion at any stage if deemed necessary for a woman's health, without limiting health to physical health, rendering it unenforceable and deceptive. Leading Democratic presidential candidates have endorsed similar federal legislation, which would override state laws protecting unborn children, except for those with health exceptions. The article criticizes this stance as unjust and morally indefensible, comparing it to the prohibition of killing two-month-old infants. It argues that unborn children late in pregnancy should not be treated as non-persons and calls for reconsideration of this extreme position. The article urges Republicans, journalists, Catholic bishops, and the Supreme Court to address this issue, emphasizing the moral obligations to expose and reverse this stance.  
+**END OF SUMMARY.**

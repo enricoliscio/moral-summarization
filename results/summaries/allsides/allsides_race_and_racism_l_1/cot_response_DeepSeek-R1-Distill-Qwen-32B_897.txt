@@ -1,0 +1,36 @@
+Alright, so the user wants me to summarize a news article while preserving the moral framing. They also provided a detailed response, so I need to make sure I understand their requirements correctly.
+
+First, the user mentioned that I should act as a news summarizer and a moral expert. That means I need to not only condense the article but also highlight the moral aspects the author emphasized.
+
+Looking at the article, it's about anti-Semitic outbursts by celebrities and the lack of strong responses, which the author argues perpetuates racism and contributes to an "Apatholypse." The key points include the tweets by Ice Cube and DeSean Jackson, the muted response from the public and other celebrities, and how this inaction affects social justice movements.
+
+In the first step, I need to identify all the single words that are morally framed. These are words that carry a strong ethical or moral connotation. From the article, words like "hateful," "apathy," "prejudice," "discriminate," "dehumanizing," "scapegoat," "oppressive," "marginalized," "prejudice," "contrition," "destruction," "outrage," and "injustice" stand out. I'll list these, each on a new line with an asterisk.
+
+For the summary, I need to condense the article into 200 words, keeping as many of these moral terms as possible. The summary should capture the main events: the celebrities' anti-Semitic comments, the lack of outrage, the comparison to the Apatholypse, the impact on social justice, and the call to action for unity against all forms of injustice.
+
+I should ensure the summary flows logically, starting with the incidents, moving to the lack of response, the implications, and ending with the moral lesson from the article, referencing Billie Holiday's song and Martin Luther King Jr.'s quote.
+
+I also need to make sure the summary is concise and hits all the key points without being too verbose. I'll structure it to highlight the moral failing of inaction and the importance of addressing all forms of injustice collectively.
+
+Finally, I'll check the word count to ensure it's under 200 words and that all morally framed words are included where appropriate. This should meet the user's requirements effectively.
+</think>
+
+**STEP 1:**  
+* hateful  
+* apathy  
+* prejudice  
+* discriminate  
+* dehumanizing  
+* scapegoat  
+* oppressive  
+* marginalized  
+* prejudice  
+* contrition  
+* destruction  
+* outrage  
+* injustice  
+
+**SUMMARY:**  
+The article highlights the troubling rise of anti-Semitic remarks from celebrities like Ice Cube, DeSean Jackson, and others, and the lack of significant public outrage, which perpetuates racism and contributes to an "Apatholypse." The muted response to these hateful outbursts, including anti-Semitic tweets and conspiracy theories, signals a dangerous indifference to social justice. Celebrities, who are often vocal advocates for equality, failed to condemn these actions effectively, with some even doubling down on their prejudice. The article emphasizes that allowing discrimination against one group normalizes it for others, reinforcing systemic oppression. The lack of accountability and the spread of anti-Semitic content, even by Jewish figures like Chelsea Handler, further undermines efforts to combat injustice. The author warns that this apathy risks undoing progress in movements like Black Lives Matter, as the same logic used to scapegoat Jews has been employed by oppressive groups throughout history. The article concludes by urging solidarity and action against all forms of injustice, citing Martin Luther King Jr.'s message that injustice anywhere threatens justice everywhere.  
+
+**END OF SUMMARY.**

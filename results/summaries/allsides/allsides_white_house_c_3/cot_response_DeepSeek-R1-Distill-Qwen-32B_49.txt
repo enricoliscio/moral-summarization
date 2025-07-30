@@ -1,0 +1,61 @@
+Okay, so the user has given me a query where I need to summarize a news article while preserving the moral framing. They've also provided a detailed example of how the response should look. Let me break this down.
+
+First, I need to understand the task. The user wants me to act as a news summarizer assistant and a moral expert. My job is to take the provided news article, identify all the morally framed single words, and then create a summary that includes as many of those words as possible.
+
+Looking at the example response, I see that STEP 1 involves listing all the morally charged words. These are words that carry a positive or negative connotation related to ethics or values. In the example, words like "agreement," "chemical weapons," "saber-rattling," "public support," etc., are listed. I need to go through the article and pick out each single word that has a moral implication.
+
+Next, the summary needs to be concise, under 200 words, and include those moral words. The example summary effectively captures the key points of the article while maintaining the moral framing. It mentions the agreement, the threat of military action, the verification process, the political implications, and the cautious optimism from the Obama administration.
+
+I should make sure that in my summary, I include the main elements: the agreement between the U.S. and Russia, the removal of chemical weapons, the verification process, the political skepticism, and the cautious stance from the administration. I also need to highlight the moral concerns like trust, accountability, and the consequences of the attack.
+
+I need to ensure that the summary flows well and covers all critical points without being too verbose. It's important to maintain the balance between summarizing the facts and preserving the moral undertones present in the original article.
+
+I'll start by reading through the article again to identify all the morally framed words. Then, I'll craft a summary that weaves these words into a coherent narrative, reflecting the original's moral perspective. I must avoid adding any personal opinions and stick strictly to summarizing the given text.
+
+Finally, I'll make sure the summary is within the word limit and that it accurately reflects the key moral aspects discussed in the article. This includes the skepticism towards Assad and Putin, the emphasis on verification, and the political implications of the agreement.
+</think>
+
+**STEP 1:**  
+* agreement  
+* chemical weapons  
+* saber-rattling  
+* public support  
+* military strike  
+* diplomatic push  
+* commitments  
+* verify  
+* trust  
+* tense  
+* intelligence surveillance  
+* asylum  
+* leaked  
+* classified  
+* exceptionalism  
+* rebels  
+* responsible  
+* brutal  
+* attack  
+* civilians  
+* outskirts  
+* Damascus  
+* accountability  
+* implementation  
+* substance  
+* optics  
+* credit  
+* critics  
+* political  
+* leap of faith  
+* transparency  
+* international inspections  
+* arsenal  
+* violations  
+* Security Council  
+* veto power  
+* force  
+* responsibility  
+* diplomatic solution  
+* Middle East  
+
+**SUMMARY:**  
+The U.S. and Russia reached an agreement to secure Syria's chemical weapons, avoiding U.S. military action. The deal, brokered by Russia, requires Syria to remove or destroy its chemical weapons by 2014, with international inspections starting in November. Secretary of State John Kerry emphasized verification, as trust in Syria and Russia is low. Obama expressed skepticism, noting that Syria's willingness to comply is uncertain. The deal allows both sides to claim they maintained their stance on potential violations, but it does not hold Assad accountable for the August 21 chemical attack that killed 1,400 civilians. Critics question Syria's commitment, and the White House faces skepticism from Congress. While the deal avoids military action, it leaves questions about accountability and trust. END OF SUMMARY.

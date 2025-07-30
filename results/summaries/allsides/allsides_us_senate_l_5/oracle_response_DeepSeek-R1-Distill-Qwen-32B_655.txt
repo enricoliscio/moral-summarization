@@ -1,0 +1,17 @@
+<think>
+Okay, I need to help the user by summarizing the given news article while preserving the moral framing words. The user provided a detailed article and a list of morally framed words. My task is to create a concise summary, up to 200 words, using as many of those words as possible.
+
+First, I'll read through the article to understand the main points. It's about a bill aimed at preventing gender pay discrimination, blocked by Republicans. Democrats argue it's about fairness, while Republicans say it's politically motivated and benefits trial lawyers.
+
+Next, I need to identify the key moral terms from the list: discrimination, ahead, stick, less, stand, wrong, dealing, politics, nothing, allows, overreach, addressing, goes, burden, back, giving, pay, rights.
+
+I'll start by outlining the summary structure: introduce the bill, mention the block by Republicans, the reasons from both sides, and the Democrats' commitment to reintroduce the bill.
+
+I'll make sure to include words like "discrimination," "ahead," "wrong," "politics," "nothing," "allows," "overreach," "burden," "back," "pay," and "rights."
+
+Now, I'll draft the summary, ensuring it's under 200 words and flows naturally while incorporating the moral terms. I'll check each sentence to see if it includes the necessary words without forcing them in.
+
+Finally, I'll review the summary to ensure it accurately reflects the article's content and maintains the moral framing as per the user's request.
+</think>
+
+SUMMARY: A Democratic bill aimed at combating gender pay discrimination was blocked by Republicans, who accused it of being politically motivated and favoring trial lawyers over employers. The measure, which failed to reach the required 60 votes, would have closed loopholes in the 1963 Equal Pay Act by requiring employers to prove pay differences were tied to job performance, not gender, and allowing women to sue for discrimination. Democrats criticized Republicans for prioritizing "partisan politics" over women's rights, while Republicans argued the bill unfairly burdened employers and rewarded lawyers. Senate Minority Leader Mitch McConnell called it a "trial lawyers' bonanza," claiming it had "nothing" to do with women. Moderate Republican Olympia Snowe labeled the bill an "overreach" that would burden employers with lawsuits. Despite the defeat, Democratic sponsor Barbara Mikulski vowed to bring the bill back until it passes, emphasizing the party's commitment to "equal pay" and "equal rights." END OF SUMMARY.

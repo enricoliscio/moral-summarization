@@ -1,0 +1,40 @@
+Alright, I need to help the user by summarizing the given news article while preserving the moral framing. The user has provided a specific structure for the response, so I should follow that closely.
+
+First, I'll tackle STEP 1. I need to identify all single words that are morally framed. I'll go through the article and pick out words that carry moral connotations. Words like "anti-corruption," "barriers," "big money," "ethics," "power grab," "integrity," "dark-money," "undue influence," "special interests," "ethics violations," "devalues," "diminishes," "illegal immigrants," "franchise," "citizens," "divide," "ambush," "procedural," "vulnerable," "swing-district," "taint," "signature," "rousing," "freshman," and "steadfast." These words carry moral weight and reflect the author's framing.
+
+Next, for the summary, I need to condense the article into 200 words, keeping as many of these moral terms as possible. The article is about the House passing the For the People Act, which aims to combat corruption and promote voting rights. It includes provisions like Election Day as a federal holiday, automatic voter registration, and ethics rules. Republicans oppose it, calling it a power grab and a government takeover. The bill also targets the president's tax returns and conflicts of interest. There are criticisms from both sides about overreach and First Amendment issues. The summary should highlight the key points, including the bill's goals, Republican opposition, and the moral framing around democracy, integrity, and ethics.
+
+I need to ensure the summary flows well and captures the essence of the article while preserving the moral language. I'll structure it to first state what the bill is about, then mention the Republican opposition, the specific provisions, and the criticisms. Finally, I'll note the Democrats' determination to pass the bill despite opposition.
+
+I should avoid any markdown and keep the summary concise. Let me piece it together, making sure each sentence includes the morally framed words where appropriate.
+</think>
+
+**STEP 1:**  
+* anti-corruption  
+* barriers  
+* big money  
+* ethics  
+* power grab  
+* integrity  
+* dark-money  
+* undue influence  
+* special interests  
+* ethics violations  
+* devalues  
+* diminishes  
+* illegal immigrants  
+* franchise  
+* citizens  
+* divide  
+* ambush  
+* procedural  
+* vulnerable  
+* swing-district  
+* taint  
+* signature  
+* rousing  
+* freshman  
+* steadfast  
+
+**SUMMARY:**  
+The House passed the Democrats’ For the People Act, a sweeping anti-corruption and voting rights bill, aiming to dismantle barriers to voting, reduce big money in politics, and strengthen ethics rules. Republicans criticized it as a power grab and government takeover, with Senator McConnell calling it the "Democrat Politician Protection Act." The bill includes provisions like Election Day as a federal holiday, automatic voter registration, and tax return disclosure for candidates. It also targets dark-money groups and federal funds for presidential properties. While Democrats argue it promotes integrity, critics claim it infringes on First Amendment rights. The bill reflects a moral push for accountability and fairness, but faces strong Republican opposition and little chance of passing the Senate. END OF SUMMARY.

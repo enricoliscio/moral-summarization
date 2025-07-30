@@ -1,0 +1,39 @@
+Alright, so I need to help the user by summarizing the given news article while preserving the moral framing. The user has specified two steps: first, identifying all the single words that are morally framed, and second, writing a concise summary using those terms.
+
+Starting with STEP 1, I'll read through the article to spot words that carry moral connotations. Words like "banning," "taxpayer," "abortion," "extreme," "approve," "veto," "anti-abortion," "pro-life," "rape," "evidence," "pro-choice," "undermine," "health," "restrictions," "respect," "message," "appeal," "symbolic," "campaign," "activists," "conscience," and "compromise" stand out as they relate to moral or ethical issues.
+
+For the summary, I need to condense the article into 200 words, keeping the moral language intact. The key points are the House passing the taxpayer abortion ban, the failed attempt to pass the 20-week ban due to moderate Republican opposition, the White House's veto threat, Pelosi's criticism, and the internal Republican conflict. I'll ensure to include the morally framed words to maintain the original article's tone and context.
+
+I should structure the summary to flow logically, starting with the passage of the first bill, the reasons for the second bill's withdrawal, the reactions from both parties, and the implications for the Republican strategy. This approach will capture the essence of the article while highlighting the moral dimensions involved.
+</think>
+
+**STEP 1:**
+
+* banning  
+* taxpayer  
+* abortion  
+* extreme  
+* approve  
+* veto  
+* anti-abortion  
+* pro-life  
+* rape  
+* evidence  
+* pro-choice  
+* undermine  
+* health  
+* restrictions  
+* respect  
+* message  
+* appeal  
+* symbolic  
+* campaign  
+* activists  
+* conscience  
+* compromise  
+
+**SUMMARY:**  
+
+The GOP-controlled House passed legislation banning taxpayer funding for abortions, following the withdrawal of a bill targeting "late-term" abortions due to opposition from moderate Republicans. The bill barring federal funds passed 242-179, with three Democrats supporting it. The White House threatened to veto the legislation. The vote coincided with the annual "March for Life," marking the 42nd anniversary of Roe v. Wade. The initial bill, the "Pain Capable Unborn Child Protection Act," was withdrawn after criticism over its provision requiring rape victims to file police reports for abortion access. Moderate Republicans argued the provision sent a harmful message, especially to women and young people. House Democratic leader Nancy Pelosi criticized the GOP for focusing on abortion instead of job creation, calling the bill harmful to women's health and personal decisions. Anti-abortion activists were失望, but the decision reflected a win for centrist Republicans. The GOP's focus on abortion was seen as distracting from broader economic issues. Some Republicans, like Rep. Carlos Curbelo, advocated for legislation that makes a real difference, rather than symbolic votes. The internal conflict highlighted divisions within the party, with Rep. Renee Ellmers leading opposition to the bill. The bill's author, Rep. Trent Franks, expressed disappointment but remained confident it would eventually pass.  
+
+**END OF SUMMARY.**

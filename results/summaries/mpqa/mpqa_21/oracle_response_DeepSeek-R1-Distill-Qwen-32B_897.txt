@@ -1,0 +1,12 @@
+Alright, so the user wants me to summarize a news article while preserving the moral framing. The article is about how the Montreal Protocol has slowed greenhouse gas emissions, leading to a cooler future. The user provided a list of morally framed words that need to be included in the summary.
+
+First, I'll read the article carefully to understand the main points. The key points are that the Montreal Protocol's implementation has reduced chlorofluorocarbons, which also trap heat, leading to a slower increase in global temperatures. The study by Hansen and Sato suggests that this has delayed the expected warming. They also propose targeting other pollutants like methane and black carbon soot as alternative strategies to Kyoto.
+
+Now, I need to make sure the summary includes the morally framed words: implementation, agreed, phase, conducted, effort, adjusting, attacking. I'll structure the summary to highlight the positive outcomes of the Montreal Protocol and the researchers' alternative approach.
+
+I'll start by mentioning the study's findings, then the implementation of the Montreal Protocol, the phase-out of gases, and the researchers' conducted study. I'll note their effort to adjust the global thermostat by attacking other pollutants. I'll keep the summary concise, under 200 words, and ensure it flows naturally.
+
+Let me draft it, making sure each morally framed word is appropriately placed. I'll check the word count to stay within limits. Once done, I'll format it with the required tokens.
+</think>
+
+SUMMARY: A recent study by NASA researchers highlights how the implementation of the 1987 Montreal Protocol has slowed the growth of greenhouse gas emissions, contributing to a cooler future than anticipated. The protocol, which countries agreed to phase out ozone-depleting chlorofluorocarbons (CFCs), has also reduced heat-trapping gases. The study, conducted by James Hansen and Makiko Sato, shows that without this effort, global temperatures could have risen much faster. The slowdown in greenhouse gas growth, particularly in methane and carbon dioxide, is partly due to increased uptake by plants and marine organisms, though the reasons are not fully understood. The researchers argue that policymakers should focus on adjusting the global thermostat by attacking other pollutants, such as methane and black carbon soot, as an alternative to the politically charged Kyoto Protocol. For example, reducing methane emissions by 30% could yield climate benefits comparable to the Kyoto Protocol's first commitment period. END OF SUMMARY.

@@ -1,0 +1,33 @@
+<think>
+Okay, so I need to help the user with their query. They provided a news article and specific instructions on how to summarize it while preserving the moral framing. Let me break this down step by step.
+
+First, the user wants me to identify all the single words that are morally framed in the article. They mentioned that this should be step 1, with each word listed under "STEP 1:" each on a new line starting with an asterisk. I need to go through the article and pick out words that carry a moral connotation. Words like "greatness," "anti-immigrant," "sustained," "bluster," "abuse," "surplus," "deficit," "crime," "desperate," "unlawful," "public safety," "debt," "pointless," "subsidized," "opportunity," "disparage," and "greatness" stand out as morally charged.
+
+Next, I need to write a summary that includes as many of these morally framed words as possible. The summary should be concise, no more than 200 words, and start after a "SUMMARY:" token, ending with "END OF SUMMARY." I should ensure that the moral framing is preserved, highlighting the positive contributions of immigrants and the negative aspects of anti-immigrant policies.
+
+I'll start by noting that immigrants are central to America's greatness, countering Trump's rhetoric. Then, I'll mention the economic contributions, such as founding businesses and contributing to Medicare. I'll address the critics' arguments about crime and social program abuse, citing studies that show immigrants' positive impact. I'll also critique the bureaucracy in the citizenship process and the impracticality of rounding up undocumented immigrants. Finally, I'll emphasize welcoming immigrants as key to America's future greatness.
+
+I need to make sure the summary flows well and includes all the key points while using the identified moral words. I'll keep each sentence concise and focused on the main arguments presented in the article.
+</think>
+
+**STEP 1:**  
+* greatness  
+* anti-immigrant  
+* sustained  
+* bluster  
+* abuse  
+* surplus  
+* deficit  
+* crime  
+* desperate  
+* unlawful  
+* public safety  
+* debt  
+* pointless  
+* subsidized  
+* opportunity  
+* disparage  
+* greatness  
+
+**SUMMARY:**  
+Immigrants are central to America's greatness, countering anti-immigrant rhetoric. They built and sustained the nation, founding iconic companies and contributing $857 billion annually. Immigrants pay more into Medicare than they receive, while native-born residents create a deficit. Crime rates are lower among immigrants, disproving claims linking immigration to lawlessness. The U.S. citizenship process is unnecessarily bureaucratic, leading to unlawful alternatives and public safety risks. Rounding up undocumented immigrants is impractical, and building a wall is a costly, pointless project. Most immigrants seek freedom and opportunity, fleeing hardship. Welcoming them, rather than disparaging them, is key to America's future greatness. END OF SUMMARY.

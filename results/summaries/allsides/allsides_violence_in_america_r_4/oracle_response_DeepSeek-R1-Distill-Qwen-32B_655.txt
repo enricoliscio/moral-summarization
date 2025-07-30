@@ -1,0 +1,12 @@
+Okay, I need to help the user by summarizing the given news article while preserving the moral framing. The user has provided the article and a list of morally framed words. My task is to create a concise summary, up to 200 words, using as many of those words as possible.
+
+First, I'll read through the article to understand the main events. Over 100 people were arrested in Minnesota during protests that turned violent. Police officers were injured, and there was significant rioting. The protests were sparked by the deaths of Philando Castile and Alton Sterling, both black men killed by police. The violence included throwing rocks, rebar, and Molotov cocktails, leading to injuries but no life-threatening ones. Police used smoke bombs to clear the freeway, and the situation was described as extreme.
+
+I should note that the protests started peacefully but turned violent. The article mentions the use of morally charged words like "injured," "killings," "rioting," "arrests," etc. I need to incorporate these words into the summary without making it too long.
+
+I'll structure the summary to include the key points: the number of arrests, injuries, the cause of the protests, the violent actions, police response, and the emotional statements from officials. I'll make sure to use the provided words to maintain the moral framing.
+
+Now, I'll draft the summary, ensuring it's under 200 words and includes as many of the specified words as possible without losing the essence of the article.
+</think>
+
+SUMMARY: Over 100 people were arrested and 21 police officers injured during violent protests in Minnesota, sparked by the police killings of black men Philando Castile and Alton Sterling. Protests turned into rioting as demonstrators pelted police with rocks, rebar, and Molotov cocktails, leading to significant injuries. Police used smoke bombs to clear Interstate 94, which protesters had blocked. St. Paul Mayor Chris Coleman called the incident "extreme," while Police Chief Todd Axtell expressed disgust at the violence, stating it was the worst he'd seen in 28 years. Protesters refused to disassemble, turning violent and throwing debris at officers. Despite police efforts, the freeway was blocked until 1:30 a.m. Some protesters claimed the situation was peaceful, but others admitted to violent acts. Gov. Mark Dayton met with Castile's family, though details were not disclosed. The riots followed the murder of five Dallas police officers, with the victims' families denouncing the attack. END OF SUMMARY.

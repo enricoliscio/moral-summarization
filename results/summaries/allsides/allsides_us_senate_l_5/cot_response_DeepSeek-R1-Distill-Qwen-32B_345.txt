@@ -1,0 +1,23 @@
+<think>
+Okay, so I need to help the user with their query. They provided a news article and want me to summarize it while preserving the moral framing. They also want me to identify the morally framed words first. 
+
+First, I'll read the article carefully. It's about a bill related to equal pay for women. Democrats are pushing it, Republicans are against it. The article mentions terms like "discrimination," "reward," "expense," "partisan," "insensitive," "bonanza," "overreach," "burden," and "equal rights." These words carry moral connotations, so I'll list them as STEP 1.
+
+Next, I need to summarize the article. The summary should include these moral terms. I'll start by stating the bill's purpose and the opposing views. I'll mention the vote outcome, the President's criticism, and the arguments from both sides. I'll also note the Democrats' intent and the Republicans' concerns, ending with the sponsor's vow to reintroduce the bill.
+
+I should keep the summary concise, under 200 words, and make sure it reflects the moral framing without losing the essence of the article. I'll structure it to show the conflict between the parties, their arguments, and the implications of the bill. That should cover all the key points while preserving the moral language.
+</think>
+
+**STEP 1:**  
+* Discrimination  
+* Reward  
+* Expense  
+* Partisan  
+* Insensitive  
+* Bonanza  
+* Overreach  
+* Burden  
+* Equal rights  
+
+**SUMMARY:**  
+A Democratic bill aimed at addressing gender-based pay discrimination was blocked by Republicans in a 52-48 vote. Democrats argued the bill would close loopholes in the 1963 Equal Pay Act, requiring employers to prove pay differences were job-performance related and allowing women to sue for discrimination. Republicans criticized the measure as politically motivated, claiming it would reward trial lawyers and harm employers. President Obama condemned Republicans for prioritizing politics over women's rights, while Senate Majority Leader Harry Reid accused them of ignoring the issue. Republicans, including Sen. Mike Enzi, labeled the bill a "trial lawyers bonanza" and an "overreach," arguing it would lead to costly lawsuits. Moderate Republican Sen. Olympia Snowe also opposed the bill, calling it "regrettable." Democrats, led by Sen. Barbara Mikulski, vowed to reintroduce the measure until it passes, emphasizing their commitment to "equal rights" and pay equity. END OF SUMMARY.

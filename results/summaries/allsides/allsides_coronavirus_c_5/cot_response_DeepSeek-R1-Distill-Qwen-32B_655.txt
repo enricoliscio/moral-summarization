@@ -1,0 +1,35 @@
+Okay, so I'm trying to help this user who wants a news summary with moral framing preserved. The article is about the VA stopping the use of hydroxychloroquine for COVID-19 in veterans. 
+
+First, I need to identify the morally framed words. Let me read through the article again. Words like "unproven," "hope," "dangers," "rushed," "wishful thinking," "science," "caution," "risks," "conscience," "ethically," "justified," "benefit," "lives," "dignity," "well-being," "responsible," "transparency," and "accountability" stand out as they carry moral connotations.
+
+Now, for the summary. I need to condense the article while keeping these moral elements. The key points are that the VA stopped using hydroxychloroquine because studies showed risks, despite initial hope. There were concerns about rushed decisions and the influence of the president's promotion of the drug. The VA is now using remdesivir and convalescent plasma, which have shown benefits. They also faced criticism for not following expert advice earlier.
+
+I should structure the summary to highlight the shift from using an unproven drug to more evidence-based treatments, emphasizing the moral considerations like patient safety, scientific evidence, and the responsibility of the VA. I'll make sure to include the morally framed words to preserve the author's tone.
+</think>
+
+**STEP 1:**
+
+* unproven  
+* hope  
+* dangers  
+* rushed  
+* wishful thinking  
+* science  
+* caution  
+* risks  
+* conscience  
+* ethically  
+* justified  
+* benefit  
+* lives  
+* dignity  
+* well-being  
+* responsible  
+* transparency  
+* accountability  
+
+**SUMMARY:**  
+
+The Department of Veterans Affairs (VA) has nearly halted the use of hydroxychloroquine for COVID-19 in veterans, citing concerns over its unproven efficacy and potential dangers. Initially, the drug was used to "give hope" during a time of limited treatment options, but studies revealed risks, leading to a significant reduction in prescriptions. The VA now prioritizes remdesivir and convalescent plasma, which have shown benefits. The decision to scale back hydroxychloroquine followed criticism from major veterans organizations and scientific evidence questioning its use. VA Secretary Robert Wilkie acknowledged the need to "preserve and protect life" and emphasized learning from the crisis. However, Rep. Nita Lowey criticized the VA for not heeding expert advice earlier, urging reliance on science rather than "wishful thinking." The VA continues to use hydroxychloroquine only in clinical trials, aligning with Dr. Anthony Fauci's guidance. The agency remains committed to responsible, evidence-based care for veterans.  
+
+**END OF SUMMARY.**

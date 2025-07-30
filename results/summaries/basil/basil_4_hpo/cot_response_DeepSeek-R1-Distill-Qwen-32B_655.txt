@@ -1,0 +1,71 @@
+<think>
+Okay, so I need to help the user with their query. They provided a news article about Michael Steele's comments on the Afghanistan war and the reactions from conservatives. The user wants me to first identify all the morally framed words and then summarize the article while preserving those moral terms.
+
+First, I'll read through the article to understand the context. Michael Steele, the RNC chairman, made a statement that Afghanistan is a largely unwinnable war chosen by Obama. This caused a lot of backlash from prominent conservatives like Bill Kristol and Dan Senor. They criticized Steele for his comments, saying it's inconsistent and embarrassing for the Republican Party.
+
+Now, for the first part, I need to identify the morally framed words. These are words that carry a strong moral or ethical connotation. I'll go through the article sentence by sentence.
+
+"Several prominent conservatives offered swift, negative reactions..." - "negative" is a moral word here, showing disapproval.
+
+"...caught on camera saying that Afghanistan is a largely unwinnable war..." - "unwinnable" might imply criticism, so it's a moral frame.
+
+"...President Obama’s choosing." - "choosing" is more factual, but in context, it's used to criticize Obama's decision, so it's framed negatively.
+
+"Needless to say, the war in Afghanistan was not 'a war of Obama’s choosing.'" - "Needless to say" is more of a filler, but "prosecuted" is about the action taken, not necessarily moral.
+
+"Republicans have consistently supported the effort." - "supported" is positive but not necessarily moral framing.
+
+"Indeed, as the DNC Communications Director... your statement 'puts [you] at odds with about 100 percent of the Republican Party." - "puts... at odds" implies conflict, so it's a moral frame.
+
+"...more than an embarrassment. It’s an affront, both to the honor of the Republican party and to the commitment of the soldiers..." - "embarrassment," "affront," "honor," "commitment" are all moral terms.
+
+"...entitled to make their case." - "entitled" is about rights, so it's a moral frame.
+
+"...chairman of the Republican party." - More of a title, not moral.
+
+"Senor... noted that Steele’s RNC actually sponsored a conference call for his group to praise Obama’s Afghan surge last year." - "praise" is positive, but in context, it's about support, so it's a moral frame.
+
+"Steele himself declared back in December that Afghanistan is 'a war we have to win' — a far cry from the comments he made Thursday night..." - "have to win" implies obligation, so it's a moral frame.
+
+"...echo the opinions of some members of the conservative community..." - "echo" is more about repeating, not moral.
+
+"...anti-war Democrats who share the skepticism..." - "skepticism" is about doubt, but in this context, it's a moral stance.
+
+"...figurehead of the Republican Party whose tenure, once again, seems shaky." - "figurehead" is about leadership, but "shaky" implies instability, which is a negative moral assessment.
+
+"Shortly after Kristol called for his resignation, a GOP operative began pitching the column to reporters..." - "called for his resignation" is a strong moral judgment.
+
+So compiling all these, the morally framed words are: negative, unwinnable, choosing, puts, embarrassment, affront, honor, commitment, entitled, praise, have to win, skepticism, figurehead, shaky, called for.
+
+Now, for the summary, I need to include these words while keeping it under 200 words. I'll start by mentioning the main points: Steele's comments, the reactions, the inconsistency, and the impact on his position.
+
+I'll make sure to include the key moral terms like "negative reactions," "unwinnable," "Obama’s choosing," "embarrassment," "affront," "honor," "commitment," "entitled," "praise," "have to win," "skepticism," "figurehead," "shaky," and "called for."
+
+I need to structure it so that the summary flows logically, starting with the event, the reactions, the inconsistency, and the consequences. I'll ensure that each morally framed word is included where appropriate.
+
+Let me draft the summary:
+
+Michael Steele, the RNC chairman, faced swift negative reactions from prominent conservatives after stating that the war in Afghanistan was "largely unwinnable" and "Obama’s choosing." Critics, including Bill Kristol, condemned Steele's comments as an embarrassment and affront to the Republican Party's honor and the soldiers' commitment. Kristol called for Steele's resignation, arguing that his statement put him at odds with the party. Dan Senor criticized Steele for inconsistency, noting his previous praise for Obama's Afghan surge. Steele's comments resonated with anti-war Democrats and some conservatives, though he is not an anti-war figure. His tenure as RNC chairman now seems shaky, with GOP operatives spreading the narrative of his troubles.
+
+I think this captures all the key points and includes the morally framed words as required. I'll check the word count to ensure it's under 200 words.
+</think>
+
+**STEP 1:**  
+* negative  
+* unwinnable  
+* choosing  
+* puts  
+* embarrassment  
+* affront  
+* honor  
+* commitment  
+* entitled  
+* praise  
+* have  
+* skepticism  
+* figurehead  
+* shaky  
+* called  
+
+**SUMMARY:**  
+Michael Steele, the RNC chairman, faced swift negative reactions after stating that Afghanistan is a largely unwinnable war of Obama’s choosing. Critics, including Bill Kristol, condemned Steele’s comments as an embarrassment and affront to the Republican Party’s honor and the soldiers’ commitment. Kristol called for Steele’s resignation, arguing his statement put him at odds with the party. Dan Senor criticized Steele for inconsistency, noting his previous praise for Obama’s Afghan surge. Steele’s comments resonated with anti-war Democrats and some conservatives, though he is not an anti-war figure. His tenure as RNC chairman now seems shaky, with GOP operatives spreading the narrative of his troubles. END OF SUMMARY.

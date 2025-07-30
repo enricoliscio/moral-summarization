@@ -1,0 +1,35 @@
+Okay, so I need to help the user with their query. They provided a news article and specific instructions on how to process it. First, they want me to identify all the single words that are morally framed. Then, I have to write a summary preserving those moral terms. 
+
+Alright, let's start by understanding what morally framed words are. These are words that carry a strong moral connotation, often implying blame, criticism, or praise. Words like "stole," "harm," "attack," etc., might fit here.
+
+Looking at the article, I need to go through each paragraph and pick out such words. For example, "stole" is used when talking about Obama taking money from Medicare. "Harm" comes up when discussing the impact on people's benefits. "Attack" is used in the context of political campaigns. "False" and "demagogued" are also strong terms. 
+
+I'll list each of these words as per the user's instruction, each on a new line starting with an asterisk. After that, I need to summarize the article. The summary should include these moral terms to preserve the author's framing. It should be concise, around 200 words, and cover the main points: Romney and Obama's arguments about Medicare, the historical context with McCain, and the ongoing debate's complexity.
+
+I have to make sure the summary flows well and includes all the key moral words without making it too long. I'll structure it by first introducing the current debate, then mentioning the historical context with Obama's past criticisms, and finally note how this affects the political dialogue.
+
+I think that's a solid approach. Now, I'll proceed to list the moral words and then craft the summary accordingly.
+</think>
+
+**STEP 1:**  
+* Stole  
+* Harm  
+* Attack  
+* False  
+* Demagogued  
+* Gamble  
+* Drastic  
+* Ill-conceived  
+* Badly thought-through  
+* Raided  
+* Looming  
+* Slashing  
+* Cutting  
+* Substantive  
+* Refuse  
+* Oppose  
+* Invite  
+* Reluctance  
+
+**SUMMARY:**  
+The Medicare debate has intensified as Mitt Romney and Barack Obama clash over accusations of harming the program. Romney's team accuses Obama of "stealing" $700 billion from Medicare to fund Obamacare, while Obama's team counters that Romney's plan would harm benefits. Fact-checkers dispute Romney's claims, noting that the savings come from limiting waste and fraud, not slashing benefits. The issue has deep roots: in 2010, Obama criticized John McCain for proposing $800 billion in Medicare cuts, calling it a "gamble" for seniors. McCain's team argued the cuts were about efficiency, not benefits. Now, the debate over Medicare reform risks becoming bogged down by political attacks, as both sides accuse the other of harming the program. The complexity of the issue and the use of morally charged language make it difficult to engage in substantive discussions about reform. END OF SUMMARY.

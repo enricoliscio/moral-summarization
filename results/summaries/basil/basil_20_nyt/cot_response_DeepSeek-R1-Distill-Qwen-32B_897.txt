@@ -1,0 +1,37 @@
+Okay, so I need to help the user by summarizing a news article while preserving the moral framing. Let me start by understanding the task. The user provided a detailed news article about Rick Santorum's comments during his campaign. They want me to first identify all the single words that are morally framed in the article. Then, I need to write a concise summary that includes as many of these morally charged words as possible.
+
+First, I'll go through the article to find words that carry moral implications. Words like "phony," "wrong," "destructive," "nasty," "divisiveness," "ugliness," "distortions," "anachronistic," "dynamic," "optimized," "abortion," "sympathy," "bad," "constant," "undermining," and "worried" stand out. These words are used to convey judgment or evaluation, so they fit the moral framing.
+
+Next, I'll craft a summary that includes these words. The summary needs to be under 200 words and capture the essence of Santorum's comments and the reactions. I'll mention his criticism of Obama's theology as "phony," the negative reactions, his views on education and abortion, and the criticism from Ron Paul. I'll make sure to include the morally framed words to maintain the original tone.
+
+I should ensure that the summary flows well and covers all key points without being too verbose. I'll structure it to first address the theological comments, then move on to education, followed by abortion, and finally touch on Ron Paul's criticism. This way, the summary remains comprehensive yet concise.
+
+Now, putting it all together, I'll start with Santorum's clarification, then Gibbs' criticism, followed by his education views, the abortion policy critique, and Paul's response. I'll make sure each section is brief and incorporates the moral terms identified earlier.
+
+I think that covers everything the user asked for. Time to put it all into the required format.
+</think>
+
+**STEP 1:**
+
+* phony  
+* wrong  
+* destructive  
+* nastiness  
+* divisiveness  
+* ugliness  
+* distortions  
+* anachronistic  
+* dynamic  
+* optimized  
+* abortion  
+* sympathy  
+* bad  
+* constant  
+* undermining  
+* worried  
+
+**SUMMARY:**
+
+Rick Santorum recently clarified his controversial remark that President Obama subscribed to a “phony theology,” explaining he was referring to Obama’s view of man’s relationship to the world, not his faith. However, political adviser Robert Gibbs criticized Santorum’s attack on Obama’s character and faith, calling it “wrong” and “destructive.” Santorum also criticized the federal government’s role in education, calling it “anachronistic,” and argued that public education should be locally run and parent-led. He further condemned Obama’s health-care policy for promoting prenatal testing, suggesting it could lead to more abortions and “cull the ranks of the disabled.” Santorum’s rival, Ron Paul, dismissed his focus on social issues like abortion and contraception, arguing that such debates undermine civil liberties and distract from more pressing issues like the national debt.  
+
+**END OF SUMMARY.**

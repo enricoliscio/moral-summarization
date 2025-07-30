@@ -1,0 +1,45 @@
+Okay, so I need to help the user by summarizing this news article while preserving the moral framing. First, I should understand the task. The user wants me to act as a news summarizer and a moral expert. They provided a news article about Jordan considering the Kyoto Protocol despite the US's refusal.
+
+The first step is to identify all the single words that are morally framed. I remember from the previous example that words like "bound," "protect," "refused," "believe," "achieved," "curb," "blamed," "limit," "fight," "upgrade," "different," "circumstances," "clean," "sustainable," "agreed," "faltering," "rising," and "overturned" were considered morally framed. I need to go through the article again and pick out similar words that carry moral implications.
+
+Next, I need to write a concise summary of the article, making sure to include as many of these morally framed words as possible. The summary should be under 200 words and start with "SUMMARY:" and end with "END OF SUMMARY."
+
+I should focus on the key points: Jordan's consideration of the Kyoto Protocol despite the US's refusal, the environmental clauses in the FTA, the minister's statements about sustainable development, and the implications of signing the protocol. I need to ensure that the moral framing is preserved, so I'll use words like "bound," "protect," "refused," "believe," "achieve," "curb," "fight," "upgrade," "clean," "sustainable," "agreed," "faltering," "rising," and "overturned" where appropriate.
+
+Let me start by outlining the main points:
+
+1. Jordan is considering the Kyoto Protocol despite the US refusal.
+2. The FTA with the US includes environmental clauses but doesn't restrict Jordan from signing other agreements.
+3. Minister Tbeishat emphasizes the importance of environmental protection for development.
+4. Jordan signed the UN Climate Change Convention in 1992.
+5. The Kyoto Protocol aims to reduce greenhouse gases.
+6. The US withdrew under Bush, citing economic reasons.
+7. Tbeishat believes signing Kyoto will positively impact Jordan's environment.
+
+Now, I'll structure the summary, incorporating the morally framed words and keeping it concise.
+</think>
+
+**STEP 1:**
+
+* bound
+* protect
+* refused
+* believe
+* achieved
+* curbed
+* blamed
+* limit
+* fight
+* upgrade
+* different
+* circumstances
+* clean
+* sustainable
+* agreed
+* faltering
+* rising
+* overturned
+
+**SUMMARY:**
+
+Jordan is considering signing the Kyoto Protocol to address global warming, despite the US's refusal. The country is bound by environmental clauses in its Free Trade Agreement with the US but is not restricted from pursuing additional environmental agreements. Minister Abdul Razzaq Tbeishat emphasized Jordan's commitment to protecting the environment for sustainable development, stating that development cannot be achieved without environmental protection. Jordan has already signed the UN Climate Change Convention and aims to curb greenhouse gas emissions. Tbeishat believes signing the Kyoto Protocol will positively impact Jordan's environment, aligning with its goal of sustainable development. The US, facing economic challenges, overturned its initial agreement under the Bush administration. END OF SUMMARY.

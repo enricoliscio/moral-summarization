@@ -1,0 +1,27 @@
+Okay, so the user has given me a query where I need to act as a news summarizer assistant and a moral expert. The task is to summarize a news article while preserving the moral framing the author used. 
+
+First, I need to understand the structure of the query. They provided a news article about a Republican staffer apologizing for criticizing Malia and Sasha Obama's appearance at the turkey pardon ceremony. The user has two main steps: identifying morally framed words and then writing a summary preserving those words.
+
+In STEP 1, I have to list all single words that carry moral connotations. I'll go through the article and pick out words that express judgment or evaluation. Words like "criticized," "class," "respect," "judgment," "hurtful," "apologized," "offended," "pledge," and "learn" stand out as they carry moral weight.
+
+Next, for the summary, I need to condense the article into under 200 words while including as many of these morally framed words as possible. I'll start by mentioning the staffer's criticism, the具体内容 of her comments, the public reaction, and her subsequent apology. I'll make sure to highlight the moral aspects, like her judgment and the hurt caused, as well as her commitment to growth.
+
+I should also ensure the summary flows naturally and accurately reflects the article's content and tone. I'll avoid adding any personal opinions and stick to the facts while emphasizing the moral elements.
+
+Finally, I'll format the response as per the user's instructions, starting with STEP 1, listing each word, then the SUMMARY section, and ending with the tokens as specified.
+</think>
+
+**STEP 1:**  
+* Criticized  
+* Class  
+* Respect  
+* Judgment  
+* Hurtful  
+* Apologized  
+* Offended  
+* Pledge  
+* Learn  
+
+**SUMMARY:**  
+A Republican staffer, Elizabeth Lauten, apologized for a Facebook post criticizing Malia and Sasha Obama's appearance at the White House turkey pardon ceremony. She accused them of lacking "class" and failing to "deserve respect," while also suggesting they did not act like "good role models." Lauten later acknowledged her judgmental tone and the hurt caused by her words, apologizing to the young women and others offended by her post. She pledged to learn and grow from the experience. The First Daughters, known for their visible disdain during the ceremony, were criticized for their demeanor, though Lauten later retracted her harsh comments, emphasizing her regret and commitment to improvement.  
+**END OF SUMMARY.**

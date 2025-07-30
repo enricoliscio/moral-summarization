@@ -1,0 +1,20 @@
+Okay, so I need to help the user by summarizing a news article while preserving the moral framing. The user is acting as a news summarizer and a moral expert. The article is about the House of Representatives reading the Constitution aloud, starting the 112th Congress. 
+
+First, I should read the article carefully to understand the key points and the moral implications. The article mentions that every bill must cite constitutional authority, which sets a tone for Congress. The reading began with some initial conflicts between Democrats and Republicans, especially regarding which parts of the Constitution to read. They decided to skip parts superseded by amendments to avoid controversial topics like slavery and prohibition. This shows a desire to present a sanitized version, which might have moral implications about honesty or transparency.
+
+The reading was part of new rules, emphasizing the importance of the Constitution for legislation and informing the public. This ties into the idea of accountability and education. However, it's also noted that this action was aimed at the Tea Party, indicating a political motive, which could be seen as using the Constitution for partisan purposes rather than pure principle.
+
+The summary needs to capture the procedural aspects, the initial disagreements, the reasons behind the reading, and the underlying political motivations. It should also mention the historical context, noting that this was a rare event. 
+
+I need to ensure the summary is concise, under 200 words, and includes the moral framing, such as the tension between education and partisanship, and the symbolic vs. practical use of the Constitution.
+
+Let me structure the summary: start with the event, mention the initial conflict, the decision to skip some parts, the purpose of the reading, the political angle with the Tea Party, and the historical significance. Make sure to highlight the moral aspects, like the symbolic gesture versus the practical implications for legislation.
+
+I should avoid technical jargon and keep it clear and straightforward, ensuring the moral framing is evident without being too explicit. The summary should reflect the author's perspective on the event's significance and the underlying motivations of the participants.
+
+Finally, I'll need to present this in a concise manner, ensuring all key points are covered without exceeding the word limit. I'll start with the event, then the procedural issues, the reasons for reading, the political angle, and the historical context, ending with the implications of the action.
+</think>
+
+SUMMARY:  
+The 112th Congress began with the House of Representatives reading the U.S. Constitution aloud, a symbolic gesture aimed at emphasizing constitutional authority for all legislation. The reading was marred by initial partisan disputes, with Democrats questioning the process and Republicans asserting control. To avoid controversial references, sections superseded by amendments were excluded. The event, championed by Representative Robert Goodlatte, sought to educate lawmakers and the public about constitutional limits, particularly resonating with the Tea Party movement. The reading also coincided with efforts to repeal the Affordable Care Act, highlighting its political significance. This marked a rare moment in congressional history, with the full text being read aloud on the House floor, underscoring both the document's enduring relevance and its use as a tool for political messaging.  
+END OF SUMMARY.

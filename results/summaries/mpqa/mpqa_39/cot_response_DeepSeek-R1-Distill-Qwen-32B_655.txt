@@ -1,0 +1,42 @@
+<think>
+Okay, so I need to help the user by summarizing a news article while preserving the moral framing. The user provided the article and a specific structure to follow. First, I have to identify all the morally framed words in the text. Then, I need to write a concise summary using those words. 
+
+Looking at the article, the main points are about the IHRC's concerns regarding the return of force in international relations, the promotion of human rights, and the call for respecting human rights. They mention the international day for human rights, the Durban conference, and the situation with Israel and Palestine. There's also a part about Mary Robinson urging Israel to stop bombing and allow monitors.
+
+For the first step, I need to extract each morally framed word. Words like "concern," "force," "weapon," "honor," "discrimination," "torture," "arbitrary detention," "respect," "rights," "violence," "terrorism," "peace," "security," "solidarity," "injustice," "condemned," "terrorism," "peace," "security," "international community," "monitoring," "rights," "violence," "peace," and "security." I'll list each of these with an asterisk.
+
+Next, I need to write a summary that includes as many of these words as possible without exceeding 200 words. I'll start by mentioning the IHRC's concern about force in international relations. Then, I'll note their call to honor human rights and the various documents and measures taken. I'll include the Durban conference as a turning point. I'll mention the injustices against Palestinians and others. I'll touch on the September 11 attacks and the subsequent efforts to combat terrorism. Finally, I'll include Mary Robinson's call for Israel to stop bombing and allow monitors, emphasizing peace and security.
+
+I need to make sure the summary flows well and covers all the key points while using the morally framed words. I should avoid adding any new information not present in the article and keep it concise. Let me structure it step by step to ensure I cover all necessary points.
+</think>
+
+**STEP 1:**  
+* concern  
+* force  
+* weapon  
+* honor  
+* human rights  
+* discrimination  
+* torture  
+* arbitrary detention  
+* respect  
+* rights  
+* violence  
+* terrorism  
+* peace  
+* security  
+* solidarity  
+* injustice  
+* condemned  
+* terrorism  
+* peace  
+* security  
+* international community  
+* monitoring  
+* rights  
+* violence  
+* peace  
+* security  
+
+**SUMMARY:**  
+The Tehran-based Islamic Human Rights Commission (IHRC) expressed concern about the resurgence of force and weapons in international relations, urging the global community to honor human rights. Despite numerous documents and measures, the IHRC regrets that human rights provisions remain unfulfilled. It highlights the Durban conference as a turning point for human rights and condemns injustices against Palestinians, political activists, journalists, religious minorities, children, and women. The IHRC also condemns terrorism and calls for peace, emphasizing the need for statesmen to respect human rights as taught by divine religions. Meanwhile, UN High Commissioner Mary Robinson urges Israel to stop bombing Palestinian targets and allow international monitors, denouncing targeted killings. The IHRC stresses that peace cannot be achieved without honoring human rights. END OF SUMMARY.

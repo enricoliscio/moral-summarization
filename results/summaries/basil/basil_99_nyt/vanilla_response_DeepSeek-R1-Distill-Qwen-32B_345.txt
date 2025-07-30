@@ -1,0 +1,9 @@
+<think>
+Okay, I need to summarize this news article. Let me read through it carefully to understand the main points.
+
+The article is about a hearing by the House Intelligence Committee after Robert Mueller's report. Republicans demanded the chairman, Adam Schiff, resign. There was a lot of conflict between the parties. Schiff defended his position, saying he won't accept Barr's summary without seeing the full report. He criticized Trump's associates for their actions with Russia. Democrats support Schiff, while Republicans are angry, calling him a McCarthyist. Schiff's work is seen as important, especially as the Senate continues its investigation. The hearing also discussed Russia's ongoing influence efforts.
+
+I should condense this into a concise summary, focusing on the key events and the divide between parties. Keep it under 200 words, using the "SUMMARY:" and "END OF SUMMARY." tokens as instructed.
+</think>
+
+SUMMARY: The House Intelligence Committee's hearing after Robert Mueller's report highlighted deep partisan divisions. Republicans demanded Chairman Adam Schiff's resignation, accusing him of McCarthyism, while Schiff defended his role and criticized the Trump administration's ties to Russia. Democrats backed Schiff, while Republicans accused him of promoting false information. The hearing contrasted with the Senate's ongoing investigation, emphasizing the political divide over Mueller's findings. END OF SUMMARY.

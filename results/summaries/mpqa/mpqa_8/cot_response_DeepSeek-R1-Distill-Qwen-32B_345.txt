@@ -1,0 +1,21 @@
+Okay, so the user wants me to summarize a news article while preserving the moral framing. They provided a specific structure for the response, including identifying morally framed words and then writing a concise summary. 
+
+First, I need to understand what morally framed words are. These are words that carry a moral or ethical connotation. In the article, terms like "challenge," "reestablishing normalcy," "opening communication channels," "social harmony," "no intention of seeking revenge," and "promise to set up dialogue tables" seem to carry such connotations. I'll list each of these as per the user's instruction.
+
+Next, I have to write a summary that includes these words. The summary should be under 200 words and follow the specified format. I'll start by identifying the main points: Cardoso's advice to Chavez, Chavez's commitment to dialogue, and Carter's support. I'll make sure to include the morally framed words to maintain the original tone.
+
+I also need to ensure that the summary flows well and accurately reflects the article's content. I'll structure it to first mention Cardoso's advice, then Chavez's response, and finally Carter's support. This way, the summary remains coherent and preserves the moral elements as required.
+
+Finally, I'll format the response with the "STEP 1:" section listing each morally framed word and then the "SUMMARY:" section with the concise summary. I'll make sure to end with "END OF SUMMARY." as instructed.
+</think>
+
+**STEP 1:**  
+* challenge  
+* reestablishing normalcy  
+* opening communication channels  
+* social harmony  
+* no intention of seeking revenge  
+* promise to set up dialogue tables  
+
+**SUMMARY:**  
+President Fernando Henrique Cardoso has emphasized that Hugo Chavez's main challenge is reestablishing normalcy in Venezuela after last week's conflicts. Cardoso highlighted the importance of opening communication channels and achieving social harmony. Chavez assured Cardoso he has no intention of seeking revenge against military personnel involved in the failed coup attempt. Former U.S. President Jimmy Carter has expressed support for Chavez's commitment to dialogue and is set to visit Venezuela soon. END OF SUMMARY.

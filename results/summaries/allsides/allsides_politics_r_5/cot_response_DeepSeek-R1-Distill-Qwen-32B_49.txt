@@ -1,0 +1,29 @@
+<think>
+Okay, I need to help the user by summarizing the news article while preserving the moral framing. Let me start by understanding the task. The user provided an article about George Papadopoulos and his role as a "proactive cooperator" in the Mueller investigation. They want me to first identify all the single words that are morally framed and then write a concise summary using those words.
+
+First, I'll go through the article to pick out the morally charged words. Words like "lied," "collusion," "interference," "conspiracy," "money laundering," "deception," "fraud," "betrayal," "undermining," "secret," "secrecy," "conspiracy," and "betrayal" stand out as they carry moral implications.
+
+Next, I need to craft a summary that includes these words. The summary should be under 200 words and capture the essence of the article, highlighting Papadopoulos's cooperation, his lies, the implications for the investigation, and the White House's response. I'll make sure to include the key points: his plea deal, his role as a cooperator, the potential wiretapping, and the ongoing investigation without evidence of collusion.
+
+I should structure the summary to flow logically, starting with Papadopoulos's situation, his cooperation, the speculation about wiretapping, the Mueller investigation, and the White House's downplay. I'll ensure that each morally framed word is included where appropriate to maintain the original moral framing.
+
+Let me make sure the summary is clear and concise, hitting all the main points without exceeding the word limit. I'll also check that each identified word is present and correctly placed to reflect the article's moral tone.
+</think>
+
+**STEP 1:**  
+* lied  
+* collusion  
+* interference  
+* conspiracy  
+* money laundering  
+* deception  
+* fraud  
+* betrayal  
+* undermining  
+* secret  
+* secrecy  
+* conspiracy  
+* betrayal  
+
+**SUMMARY:**  
+George Papadopoulos, a former Trump campaign adviser, has been identified as a "proactive cooperator" with federal investigators, suggesting he may have worn a wire to assist Robert Mueller's team. Papadopoulos pleaded guilty to lying to the FBI about his contacts with Russians and is cooperating under a plea deal. His cooperation involves providing information to the government, potentially including undercover work. Papadopoulos admitted to lying about his interactions with Russian nationals, including discussing meetings between the Trump campaign and Russian officials. The White House dismissed his role as minor, denying collusion. Mueller's office recently unsealed indictments against Paul Manafort and Rick Gates, though no evidence of collusion was provided. Papadopoulos' potential use of a wire has sparked speculation about his role in the investigation, with experts suggesting his cooperation could involve recordings of conversations with Trump associates. END OF SUMMARY.

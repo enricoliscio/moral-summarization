@@ -1,0 +1,24 @@
+Okay, I need to help the user by summarizing the news article while preserving the moral framing. First, I should understand what the user is asking for. They want me to act as a news summarizer and a moral expert. My task is to identify morally framed words and then write a concise summary using those terms.
+
+Looking at the article, it's about the South Korean government's response to the U.S. climate policy under Bush. I need to find words that carry moral connotations. Words like "appreciates," "challenges," "flexible," "concrete," "ratification," "rejected," "blamed," and "different tones" stand out. These words imply approval, concern, flexibility, necessity, commitment, opposition, criticism, and divergence in opinions.
+
+Now, I should craft a summary that includes these words. The summary needs to be under 200 words, so I have to be concise. I'll start by mentioning South Korea's appreciation of the U.S. initiative, note the challenges, the flexible approach, and the need for elaboration. I'll also mention the ratification process and the U.S.'s rejection of Kyoto, along with the criticism they faced. Finally, I'll include that other countries like Japan and Germany have different responses.
+
+I need to ensure the summary flows well and covers all key points without being too lengthy. Let me structure it step by step, making sure each morally framed word is included appropriately.
+</think>
+
+### STEP 1:
+* appreciates  
+* challenges  
+* flexible  
+* concrete  
+* ratification  
+* rejected  
+* blamed  
+* different tones  
+
+---
+
+### SUMMARY:
+The South Korean government expressed appreciation for the U.S. initiative to address climate change, acknowledging it as a significant challenge in the 21st century. They noted the initiative's flexible and gradual approach, which considers developing countries' concerns, but emphasized the need for greater elaboration, including concrete methods to establish greenhouse gas intensity levels. The government also stressed the importance of international consultations to build understanding of the U.S. policy. Over 180 countries, including the U.S., had prepared for Kyoto Protocol ratification, which requires gradual emissions reduction. However, the Bush administration rejected the Kyoto Protocol and proposed a new policy to reduce emissions relative to GDP. The U.S. had faced criticism internationally for rejecting the Protocol before the September 11 attacks. Meanwhile, countries like Japan and Germany issued statements on Bush's policy with different tones.  
+END OF SUMMARY.

@@ -1,0 +1,27 @@
+Alright, so the user has given me a query where they want me to act as a news summarizer assistant and a moral expert. They provided a news article about President Trump's response to a BuzzFeed story regarding Michael Cohen lying to Congress about the Moscow project. The user wants me to first identify all the morally framed single words in the article, then summarize it while preserving those moral framings.
+
+First, I need to understand what morally framed words are. These are words that carry a judgment or evaluation, like "disgrace," "phony," or "dishonest." I should go through the article and pick out each of these words. I'll list them under STEP 1, each on a new line with an asterisk.
+
+Next, the summary. I need to make sure it's concise, under 200 words, and includes as many of those moral terms as possible. The summary should capture the key points: Trump's criticism of BuzzFeed and the media, Mueller's response, the details of the BuzzFeed story, and the reactions from both Trump's team and BuzzFeed.
+
+I should ensure that the summary flows well and accurately reflects the article's content while emphasizing the moral language used. I'll structure it to first mention Trump's appreciation for Mueller's statement, then the details of the BuzzFeed story, Mueller's correction, Trump's broader criticism of the media, and the ongoing debate between BuzzFeed and Mueller's office.
+
+I need to be careful not to add any personal opinions, just stick to summarizing the article as it is, highlighting the moral framing. Also, make sure the summary is clear and concise, hitting all the main points without going into unnecessary detail.
+
+Finally, I'll make sure to format the response correctly, starting with STEP 1, listing each moral word, then the SUMMARY section, and ending with END OF SUMMARY. Keeping the summary within the word limit is crucial, so I'll have to be selective about which points to include without omitting essential information.
+</think>
+
+**STEP 1:**  
+* Disgrace  
+* Phony  
+* Dishonest  
+* Lies  
+* False  
+* Hysterical  
+* Destroy  
+* Dishonesty  
+* Deceit  
+* Misleading  
+
+**SUMMARY:**  
+President Trump criticized a BuzzFeed article alleging he directed Michael Cohen to lie to Congress about the Moscow Trump Tower project, calling it a "disgrace" to journalism and the country. Trump praised FBI special counsel Robert Mueller for disputing the report, stating it was "appropriate." BuzzFeed claimed Cohen admitted to Mueller's office that Trump told him to mislead Congress, marking the first explicit instance of Trump instructing a subordinate to lie about Russia ties. Mueller's office denied BuzzFeed's characterization of Cohen's testimony, though it did not provide specifics. Trump's team, including lawyer Rudy Giuliani, accused the media of "hysterical" overreach. BuzzFeed defended its reporting, stating it stood by its sources and findings. Trump also criticized the mainstream media for losing credibility, while Mueller's office rarely comments on investigations. The controversy highlights tensions between the administration and the press over factual reporting and credibility. END OF SUMMARY.

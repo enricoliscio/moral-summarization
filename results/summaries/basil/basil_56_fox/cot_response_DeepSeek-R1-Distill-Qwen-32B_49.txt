@@ -1,0 +1,43 @@
+Alright, so the user has given me a query where I need to act as a news summarizer and a moral expert. They provided a news article about Marco Rubio's foreign policy speech and specific instructions on how to process it. The task is to first identify all the single words that are morally framed and then write a summary preserving those moral framings.
+
+First, I need to understand what constitutes a morally framed word. These are words that carry a value judgment, like "strength," "aggressive," or "moral." They convey approval or disapproval, so I should look for adjectives and verbs that express such sentiments.
+
+Looking at the article, Rubio is criticizing Obama's foreign policy, so words like "weak," "disregard," "disdain," and "disastrous" are likely morally framed. Also, terms like "strong," "aggressive," "moral leader," and "hawkish" are used to describe Rubio's stance, which carry moral weight.
+
+I'll go through the article sentence by sentence, picking out each word that seems to have a moral connotation. I should list them all, even if they repeat, as each occurrence is part of the moral framing.
+
+Next, for the summary, I need to condense the article while keeping as many of these moral words as possible. The summary should be concise, no more than 200 words, and should reflect Rubio's main points: military strength, moral leadership, criticism of Obama and Clinton, and specific policies on Cuba and Iran.
+
+I also need to make sure the summary flows well and accurately represents Rubio's arguments. I'll structure it by first introducing Rubio's speech, then his priorities, followed by his criticisms of the Obama administration, and finally his stance on specific issues like Cuba and Iran.
+
+I should avoid adding my own opinions, just stick to summarizing the content while preserving the moral framing. That means using words like "strength," "moral purpose," "hawkish," etc., as they were in the original text.
+
+I think I've got all the steps. Now, I'll proceed to list the morally framed words and then craft the summary accordingly.
+</think>
+
+**STEP 1:**  
+* Strong  
+* Moral  
+* Undermine  
+* Aggressive  
+* Disregard  
+* Moral purpose  
+* Disdain  
+* Audacity  
+* Dictate  
+* Oppose  
+* Hawkish  
+* Disastrous  
+* Negligent  
+* Mightiest  
+* Peace  
+* Conflict  
+* Hostile  
+* Oppression  
+* Failed  
+* Trust  
+* Secret  
+* Sanctions  
+
+**SUMMARY:**  
+U.S. Sen. Marco Rubio, in his first major foreign policy speech, emphasized the need for a strong military, aggressive action against nations undermining global commerce, and restoring the U.S. as a world moral leader. He criticized the Obama administration for being overly cautious and accused it of disregarding America's moral purpose, even flirting with disdain for its principles. Rubio argued that Obama's policies, such as the reset with Russia and engagement with Iran, embraced regimes opposing U.S. values. He vowed to prioritize military funding, counter aggressive nations like China and Iran, and respond decisively to threats to global commerce. Rubio also defended the embargo on Cuba, blaming its failed economy on the regime, not sanctions. He criticized Hillary Clinton for her role in a disastrous foreign policy and opposed a two-state solution with Iran, calling it untrustworthy. Rubio's hawkish approach, which differs from some GOP colleagues, focuses on strength and peace through military might. END OF SUMMARY.

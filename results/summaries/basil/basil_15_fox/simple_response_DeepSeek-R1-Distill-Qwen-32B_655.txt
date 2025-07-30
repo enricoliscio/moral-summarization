@@ -1,0 +1,17 @@
+<think>
+Okay, so I need to help the user by summarizing the given news article while preserving the moral framing. Let me read through the article carefully.
+
+The article is about Rep. Michele Bachmann and a Newsweek cover story titled "The Queen of Rage." The cover has an unflattering photo, and some people, like Terry O'Neill from NOW, are calling it sexist. They argue that the magazine wouldn't do this to a man, like calling him "The King of Rage." O'Neill also mentions that they want women to run for office, so they're standing up against this kind of treatment.
+
+Newsweek defended their photo choice, saying it's just one of many images, some of which are flattering. Bachmann didn't comment much on the cover when asked. Others, like Brent Bozell, criticized Newsweek and Time for being dishonest and biased against conservatives.
+
+I need to capture all these points in a concise summary under 200 words. I should include the criticism from NOW, the defense from Newsweek, Bachmann's response, and the broader critique of media bias. Also, highlight the moral stance against sexism and bias in media.
+
+Let me structure it: start with Bachmann's response, then NOW's criticism, Newsweek's defense, Bachmann's reaction, and Bozell's comments. Make sure to include the reasons behind NOW's support, like encouraging women in politics.
+
+I should keep it clear and within the word limit. Avoid any markdown, just plain text after the tokens. Make sure the summary flows logically and covers all key points without getting too detailed.
+</think>
+
+SUMMARY:  
+Rep. Michele Bachmann has not directly responded to Newsweek's cover story titled "The Queen of Rage," which features an unflattering photo of her. Critics, including National Organization for Women (NOW) President Terry O'Neill, have accused the magazine of sexism, arguing that such a title would not be applied to a male candidate. O'Neill criticized the media for perpetuating stereotypes that discourage women from running for office. Newsweek defended its photo choice, stating it was one of several taken and that other images of Bachmann were flattering. Bachmann, campaigning in Iowa, said she had not seen the cover but acknowledged the story. Brent Bozell of the Media Research Center condemned the magazine for journalistic dishonesty and bias against conservatives. The debate highlights concerns over media bias and its impact on women in politics.  
+END OF SUMMARY.

@@ -1,0 +1,30 @@
+Alright, I need to help the user by summarizing the given news article while preserving the moral framing. Let me start by understanding the task.
+
+First, the user wants me to identify all the single words that are morally framed. I'll go through the article and pick out words that carry a moral connotation. Words like "disapproves," "evil," "criticized," "anti-terrorism," "evidence," "expanded," "arbitrarily," "principles," "peaceful," "equal," "safeguarding," "peace," "stability," and "long-term." These words seem to carry moral weight in the context.
+
+Next, I need to write a concise summary of the article, keeping it under 200 words. The summary should include as many of these morally framed words as possible. I'll make sure to highlight China's disapproval of the term "axis of evil," their stance on anti-terrorism requiring evidence, and their emphasis on international principles like the UN Charter and peaceful coexistence.
+
+I should structure the summary to clearly state China's position, mention the U.S. leader's statement, and outline China's arguments against using such terminology. It's important to convey that China believes in evidence-based actions and equal treatment of nations to maintain global stability.
+
+Let me ensure the summary flows well and covers all key points without being too lengthy. I'll also check that I'm using the morally framed words appropriately to maintain the original article's tone and message.
+</think>
+
+**STEP 1:**  
+* Disapproves  
+* Evil  
+* Criticized  
+* Anti-terrorism  
+* Evidence  
+* Expanded  
+* Arbitrarily  
+* Principles  
+* Peaceful  
+* Equal  
+* Safeguarding  
+* Peace  
+* Stability  
+* Long-term  
+
+**SUMMARY:**  
+China has expressed disapproval of the use of the term "axis of evil" in international relations, as stated by Foreign Ministry spokesman Kong Quan. He criticized the U.S. leader's characterization of North Korea, Iran, and Iraq as part of such an "axis," emphasizing that anti-terrorism efforts must be based on irrefutable evidence and should not be expanded arbitrarily. Kong stressed that state-to-state relations should adhere to the principles of the United Nations Charter, the Five Principles of Peaceful Co-existence, and the principle of equality among nations. He warned that using such terminology could lead to serious consequences and undermine global peace and stability. China advocates for a balanced and evidence-based approach to international relations to promote long-term peace and stability.  
+**END OF SUMMARY.**

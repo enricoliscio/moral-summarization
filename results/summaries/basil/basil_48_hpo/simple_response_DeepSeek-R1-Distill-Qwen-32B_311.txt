@@ -1,0 +1,12 @@
+Alright, I need to help the user by summarizing the given news article while preserving the moral framing. The user mentioned they're a news summarizer and a moral expert, so the summary should highlight the ethical aspects.
+
+First, I'll read through the article to understand the key points. A Republican staffer, Elizabeth Lauten, criticized Malia and Sasha Obama's behavior at the turkey pardon ceremony. She made comments about their class, dressing, and making faces. The article also mentions that the Obama daughters seemed unenthused, and Lauten later apologized.
+
+I need to capture the moral elements here. Lauten's initial judgment was harsh, which reflects a lack of empathy. Her apology shows growth and understanding, emphasizing the importance of kindness and avoiding quick judgments. 
+
+I should structure the summary to include the criticism, the context of the event, the nature of her comments, and her subsequent apology. I'll make sure to highlight the moral lessons: the impact of harsh words and the value of empathy and self-reflection.
+
+Also, keeping it concise, under 200 words, so I'll be brief but include all essential points. I'll end with the tokens as specified.
+</think>
+
+SUMMARY: A Republican staffer, Elizabeth Lauten, apologized for a Facebook post criticizing Malia and Sasha Obama's behavior at the annual White House turkey pardon ceremony. Lauten accused the teenagers of lacking class and respect, suggesting they dress appropriately and avoid making faces during public events. Her comments were seen as judgmental and hurtful, especially considering the First Family's public role. The Obama daughters, known for their reserved demeanor at the ceremony, were described as unenthused by the event's proceedings. Lauten later expressed regret, acknowledging her haste to judge and the harm caused by her words. She emphasized the importance of empathy and self-reflection, pledging to learn from the experience. Her apology highlighted the consequences of quick judgments and the need for kindness and understanding. END OF SUMMARY.

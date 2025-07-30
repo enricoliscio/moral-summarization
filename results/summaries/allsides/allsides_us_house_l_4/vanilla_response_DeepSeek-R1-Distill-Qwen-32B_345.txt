@@ -1,0 +1,14 @@
+Okay, so the user has given me a task to summarize a news article. They want the summary to be under 200 words and to follow a specific format with "SUMMARY:" and "END OF SUMMARY." tokens. Let me read through the article to understand the main points.
+
+The article is about Michael Cohen's opening statement for his testimony before the House Oversight Committee. The key points are:
+
+1. Cohen claims he overheard Trump and Stone discussing WikiLeaks' plans to release emails that would harm Hillary Clinton. This is significant because it suggests Trump was aware of WikiLeaks' actions, which Mueller linked to Russian intelligence.
+
+2. Cohen mentions other topics like Trump's knowledge of the Moscow Tower project, the meeting with the Russian lawyer, and Trump's racist remarks. He also plans to present a check from Trump regarding the Stormy Daniels payment.
+
+3. Cohen's credibility is in question since he's already admitted lying to Congress. The article also touches on the implications of his testimony, especially regarding collusion and Trump's awareness of Russian activities.
+
+I need to condense this into a concise summary, making sure to include the main allegations and their implications. I should avoid getting bogged down in too many details and focus on the most impactful points. Also, I need to keep it under 200 words and structure it properly with the specified tokens.
+</think>
+
+SUMMARY: Michael Cohen, former Trump attorney, is set to testify before the House Oversight Committee, revealing explosive claims. Cohen alleges he overheard Trump and Roger Stone discussing WikiLeaks' plans to release hacked emails damaging Hillary Clinton's campaign, suggesting Trump may have been aware of WikiLeaks' activities linked to Russian intelligence. Cohen also claims Trump encouraged misleading statements about the Trump Tower Moscow project, and he saw Trump Jr. arrange a meeting with a Russian lawyer. Additionally, Cohen mentions Trump's racist remarks and plans to present a check from Trump related to the Stormy Daniels hush money. Cohen's credibility is questioned as he has previously lied to Congress. His testimony could reignite collusion debates, though Mueller found no direct collusion but linked email theft to Russia. END OF SUMMARY.

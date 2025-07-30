@@ -1,0 +1,15 @@
+<think>
+Okay, I need to help the user by summarizing this news article while preserving the moral framing. The user specified that the assistant should be a news summarizer and a moral expert, so I have to focus on the moral aspects as indicated by the author's choice of words.
+
+First, I'll read through the article to understand the main points. It's about senior White House officials pressuring Democrats to pass the Bush tax cuts, warning that inaction could lead to a double dip recession. Larry Summers is mentioned, emphasizing the risks of not passing the bill. There's also debate about the effectiveness of the tax cuts and the importance of stabilizing the housing market, which isn't part of the current deal.
+
+The user provided a list of morally framed words: inaction, pass, help, on, selling, up, lose. I need to make sure these words are included in the summary as much as possible.
+
+I'll start by identifying the key moral arguments. The administration is using the risk of inaction to push for the bill's passage, highlighting the potential loss of unemployment benefits and tax increases. They're selling the deal to Democrats, emphasizing the help it could provide, but also the consequences of not acting.
+
+I should structure the summary to include these elements: the warning about inaction, the need to pass the bill, the help it provides, the selling process, and the potential losses if the deal fails. I'll make sure to use the specified words naturally within the summary.
+
+I also need to keep it under 200 words and end with the specified tokens. Let me draft the summary, ensuring it flows well and includes all the necessary moral framing elements.
+</think>
+
+SUMMARY: Senior White House officials are urging congressional Democrats to pass the Bush tax cuts, warning that inaction could "significantly increase the risk" of a double dip recession. Larry Summers emphasized that failing to pass the bill would materially increase the risk of economic stagnation, while others, like Rob Shapiro, argued that the deal is stimulative but insufficient to lift the economy meaningfully. The administration is selling the deal to skeptical Democrats, highlighting the real consequences of inaction, such as increased taxes and the loss of unemployment insurance for 2 million people. They argue that delaying the deal would not lead to a better agreement and that the current package, while imperfect, offers significant help to the economy. The moral framing underscores the urgency of passing the bill to avoid negative outcomes, with officials warning that inaction could lead to blame for an economic downturn. END OF SUMMARY.

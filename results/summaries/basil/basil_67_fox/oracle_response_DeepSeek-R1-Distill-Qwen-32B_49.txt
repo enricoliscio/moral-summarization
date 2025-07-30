@@ -1,0 +1,12 @@
+Alright, so the user wants me to summarize a news article while preserving the moral framing. The article is about Trump and Vicente Fox's Twitter war. The author used specific morally charged words like hosting, offended, mistake, railing, and lying. I need to make sure these words are included in the summary.
+
+First, I should read the article carefully to understand the context. Fox is criticizing Trump, saying he's not welcome in Mexico and that hosting him is a mistake. Trump responds by bringing up Fox's past comments, which Fox then denies. The key points are Fox's rejection of Trump's visit, Trump's counter-argument, and their mutual accusations.
+
+I need to structure the summary to include these elements. Start with Fox's initial criticism, mention the words 'hosting' and 'offended'. Then, include Trump's response using 'railing' and 'lying'. Make sure each point is concise and under 200 words. Also, end with the "END OF SUMMARY." token as instructed.
+
+I should also ensure the summary flows well and accurately reflects the moral framing without adding any personal opinions. Double-checking the word count to stay within limits. Maybe start with Fox's statement, then Trump's reaction, and conclude with the ongoing conflict. That should cover all necessary points and preserve the moral language.
+</think>
+
+SUMMARY:  
+Former Mexican President Vicente Fox sparked a Twitter war with Donald Trump over the Republican nominee's planned visit to Mexico. Fox criticized Trump, stating he was "not welcome" in Mexico and called President Enrique Peña Nieto's decision to host him a "mistake." Fox accused Peña Nieto of taking a "political risk" and even labeled him a "traitor" for welcoming Trump. Trump fired back, referencing Fox's past comments about the U.S.-Mexico border wall, which Fox denied making. The exchange escalated as Fox accused Trump of "lying" and demanded an apology. The clash highlights the tension between Trump's controversial rhetoric and Fox's vocal opposition, with both sides trading accusations of insensitivity and deceit.  
+END OF SUMMARY.

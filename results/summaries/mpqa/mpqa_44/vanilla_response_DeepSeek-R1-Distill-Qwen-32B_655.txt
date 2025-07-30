@@ -1,0 +1,20 @@
+Alright, so the user has given me a task to summarize a news article. They want me to act as a news summarizer assistant. The article is about officials reacting to a US human rights report regarding Lebanon. 
+
+First, I need to read through the article carefully to understand the key points. The main points seem to be that Lebanese officials are dissatisfied with the US report, which they find critical and unfair. The report mentions issues like weakening central government, political pressure on judiciary, and surveillance by intelligence agents. However, the article also notes that the report praises the Lebanese press.
+
+I should identify the main elements: who, what, when, where, why. The who is the Lebanese officials, the US State Department. The what is the human rights report and their reactions. When is the annual report, just delivered. Where is Lebanon and the US Embassy in Awkar. Why are they reacting? Because they find the report unfair and biased.
+
+I need to condense this into a summary of no more than 200 words. I should mention the dissatisfaction, the specific criticisms, the annual nature of the report, the handing over of the report, and the positive note about the press. Also, the officials' plan to respond by providing explanations, especially about factors beyond their control.
+
+I should structure it clearly: start with the officials' reaction, mention the report's criticisms, the handing over by the US Embassy, the ministries involved, the specific criticisms about judiciary and surveillance, the positive mention of the press, and the officials' response plan.
+
+I need to ensure the summary is concise and covers all critical points without going into too much detail. Also, make sure to use the "SUMMARY:" and "END OF SUMMARY." tokens as instructed.
+
+Let me draft it step by step. Start with the main action: Lebanese officials reacting to the US report. Then list the criticisms, mention the handing over of the report, the ministries involved, the specific issues highlighted, the positive note, and the officials' plan to respond.
+
+I should check the word count to make sure it's under 200 words. Also, ensure clarity and that each sentence flows logically to the next.
+
+Alright, I think I have a good structure in mind. Now, I'll put it all together concisely.
+</think>
+
+SUMMARY: Lebanese officials have expressed dissatisfaction with the US State Department's annual human rights report, which they view as biased and unfair. The report criticizes Lebanon for weakening central government authority, political pressure on the judiciary, and intelligence agents monitoring opposition politicians and tapping government leaders' phones. While the report praises Lebanon's press for criticizing the government, officials argue it discredits the country by portraying it as undemocratic and uncivilized. The report was handed to the Foreign Ministry, which plans to share it with relevant ministries before responding to the US State Department. Officials conveyed their concerns to US Ambassador Vincent Battle, noting that the most serious issue was the judiciary's independence being questioned. Lebanon annually provides explanations to the US regarding factors beyond its control. END OF SUMMARY.

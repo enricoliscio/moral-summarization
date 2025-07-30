@@ -1,0 +1,14 @@
+Alright, I need to help the user by summarizing the given news article while preserving the moral framing. The user is a news summarizer and a moral expert, so they want a concise summary that includes the key morally charged words.
+
+First, I'll read through the article to understand the main points. It's about a Project Veritas video showing Kyle Jurek, a Sanders campaign organizer, making controversial statements. He talks about cities burning, violence against police, supporting gulags, and re-educating Trump supporters.
+
+I need to identify the morally framed words: violence, nazis, beaten, riots, clashed, nazi, nazified, drag, fire, editing. I should make sure these are included in the summary.
+
+I'll start by mentioning the video's release and Jurek's comments about violence if Trump wins. Then, I'll note his support for gulags and re-education, comparing Trump supporters to Nazis. Including his reference to riots and clashes from 1968 Chicago is important. I should also mention the criticism of Project Veritas's editing methods.
+
+I'll structure the summary to flow logically, ensuring each point is clear and concise, keeping it under 200 words. I'll make sure to highlight the moral implications without adding my own judgment, just presenting the facts as framed in the article.
+
+Finally, I'll ensure the summary starts with "SUMMARY:" and ends with "END OF SUMMARY." without any markdown, as per the user's instructions.
+</think>
+
+SUMMARY: A Project Veritas video revealed statements by Kyle Jurek, a Bernie Sanders campaign organizer, advocating for violence if Donald Trump wins reelection, including "cities burn" and riots targeting police at the Democratic National Convention. Jurek compared Trump supporters to Nazis, supported Soviet-style gulags for re-education, and called for extreme measures like dragging MSNBC employees into the streets and setting them on fire. He also praised anti-fascist violence, stating that "fascists understand only violence." The video, part of Project Veritas' #Expose2020 series, highlights Jurek's radical views, raising questions about the Sanders campaign's stance on such rhetoric. Critics accuse Project Veritas of deceptive editing, a claim the organization denies. The incident underscores tensions over political violence, re-education, and the moral framing of extremism in the 2020 election context. END OF SUMMARY.

@@ -1,0 +1,76 @@
+<think>
+Okay, so I need to help the user by summarizing a news article while preserving the moral framing. First, I'll read through the article to understand the context. It's about a bill related to pay discrimination against women, with Democrats and Republicans clashing over its merits.
+
+The user wants me to first identify all the single words that carry a moral connotation. I'll go through the article and pick out words like "discrimination," "reward," "expense," "blocked," "partisan," "ahead," "American," "families," "criticizing," "putting," "ahead," "sand," "longstanding," "paid," "less," "close," "loopholes," "prove," "related," "performance," "gender," "prevent," "forbidding," "sharing," "salary," "information," "employees," "allow," "discriminated," "sue," "damages," "gains," "portray," "insensitive," "oppose," "written," "without," "input," "alternative," "insufficient," "wrong," "going," "about," "dealing," "issue," "reward," "trial," "lawyers," "bonanza," "bill," "nothing," "women," "little," "huge," "class-action," "suits," "defense," "employers," "burden," "return," "vowed," "back," "until," "passes."
+
+Next, I need to write a summary that includes as many of these moral words as possible, keeping it under 200 words. I'll structure it to show the conflict between Democrats pushing for the bill to address pay discrimination and Republicans opposing it, citing concerns about legal costs and political motives. I'll mention the vote outcome, the reactions from both sides, and the Democrats' commitment to reintroduce the bill. I'll ensure to include the moral terms to reflect the author's framing.
+</think>
+
+**STEP 1:**
+* Discrimination
+* Reward
+* Expense
+* Blocked
+* Partisan
+* Ahead
+* American
+* Families
+* Criticizing
+* Putting
+* Ahead
+* Sand
+* Longstanding
+* Paid
+* Less
+* Close
+* Loopholes
+* Prove
+* Related
+* Performance
+* Gender
+* Prevent
+* Forbidding
+* Sharing
+* Salary
+* Information
+* Employees
+* Allow
+* Discriminated
+* Sue
+* Damages
+* Gains
+* Portray
+* Insensitive
+* Oppose
+* Written
+* Without
+* Input
+* Alternative
+* Insufficient
+* Wrong
+* Going
+* About
+* Dealing
+* Issue
+* Reward
+* Trial
+* Lawyers
+* Bonanza
+* Bill
+* Nothing
+* Women
+* Little
+* Huge
+* Class-action
+* Suits
+* Defense
+* Employers
+* Burden
+* Return
+* Vowed
+* Back
+* Until
+* Passes
+
+**SUMMARY:**
+A bill aimed at addressing pay discrimination against women was blocked by Republicans, who argued it was politically motivated and would benefit trial lawyers at employers' expense. Democrats criticized Republicans for prioritizing partisan politics over American women and families. The bill, which failed to reach the required 60 votes, would have closed loopholes in the 1963 Equal Pay Act, requiring employers to prove pay differences were related to job performance, not gender, and allowing women to sue for damages. Republicans, fearing political backlash, opposed the bill, calling it a trial lawyers' bonanza and claiming it would burden employers with costly lawsuits. Despite the loss, Democrats vowed to reintroduce the bill until it passes, emphasizing their commitment to equal pay and rights. END OF SUMMARY.

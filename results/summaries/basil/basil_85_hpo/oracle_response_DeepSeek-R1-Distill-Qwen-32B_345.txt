@@ -1,0 +1,18 @@
+Alright, so the user has given me a query where they want a news summary that preserves the moral framing from the original article. They provided the article and a list of morally framed words that should be included in the summary. My task is to understand how to approach this.
+
+First, I need to read the article carefully. It's about President Trump criticizing social media companies for discriminating against Republicans and conservatives. He mentions that some voices are being destroyed and that censorship is dangerous. He also talks about fake news, specifically CNN and MSNBC, and references the banning of Alex Jones.
+
+Next, I should identify the key points. Trump is accusing the companies of discrimination, destruction of voices, closing down opinions, and censorship. He suggests letting everyone participate, good and bad, which implies he's against the current moderation practices.
+
+The user wants the summary to include the morally framed words: discriminating, destroyed, closing, nothing, and censorship. I need to make sure these words are present without making the summary too long, keeping it under 200 words.
+
+I should structure the summary to include Trump's accusations, his solution, and his mention of censorship and fake news. Also, I need to note that he didn't mention specific individuals but referenced the banning of Alex Jones.
+
+Putting it all together, I'll start by stating Trump's criticism, use the moral terms, mention his solution, and touch on censorship and fake news. I'll keep each sentence concise to stay within the word limit.
+
+I should double-check to ensure all the required moral words are included and that the summary accurately reflects Trump's stance without adding personal opinions. Also, the summary should flow naturally, maintaining the original article's tone and message.
+
+Finally, I'll make sure the summary starts with "SUMMARY:" and ends with "END OF SUMMARY." as per the instructions. Keeping it clear and within the word limit is crucial.
+</think>
+
+SUMMARY: President Donald Trump criticized social media companies on Twitter, accusing them of "totally discriminating against Republican/Conservative voices" and "closing down the opinions of many people on the RIGHT." He argued that "too many voices are being destroyed, some good and some bad," and called for allowing everyone to participate, regardless of whether their content is "good or bad." Trump warned that "censorship is a very dangerous thing" and impossible to police, while also attacking "fake news" outlets like CNN and MSNBC. He did not mention specific individuals but his comments came amid recent bans of conspiracy theorist Alex Jones and his website Infowars by several platforms. Trump's stance reflects a broader debate over free speech, censorship, and the role of tech companies in moderating online content. END OF SUMMARY.

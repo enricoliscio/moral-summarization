@@ -1,0 +1,32 @@
+Okay, so I need to help the user with their query. They provided a news article and specific instructions on how to process it. Let me break down what they want.
+
+First, they mentioned that I'm a news summarizer assistant and a moral expert. My task is to summarize the article while preserving the moral framing the author used. They also want me to follow two steps: identify morally framed words and then write a concise summary.
+
+Looking at the article, it's about Senator Ron Johnson investigating Hunter Biden and the 2017 transition between Obama and Trump. There's a lot of political tension here. The user wants me to find all single words that carry moral implications. I'll need to read through the text carefully, pick out words like "corruption," "abusing," "misusing," etc., that convey judgment or evaluation.
+
+After identifying those words, the next step is summarizing. The summary should be under 200 words and include as many of those moral terms as possible. I need to ensure the summary captures the essence of the article, highlighting the conflict between Johnson's investigations and the Democratic accusations, while keeping the moral framing intact.
+
+I should also structure my response by first listing the morally framed words, each on a new line with an asterisk. Then, after a "SUMMARY:" token, provide the concise summary, ending with "END OF SUMMARY." I need to make sure the summary is clear and sticks to the key points without going into too much detail.
+
+I think I've got a good grasp on what the user needs. I'll proceed by reading the article again, noting the moral terms, and then crafting a summary that reflects the partisan conflict and the moral implications involved.
+</think>
+
+### STEP 1:  
+* Corruption  
+* Allegations  
+* Abuse  
+* Misuse  
+* Sabotage  
+* Disinformation  
+* Nonpartisan  
+* Concerned  
+* Truth  
+* Reveal  
+* Afraid  
+* Corrupted  
+
+---
+
+### SUMMARY:  
+Senator Ron Johnson is investigating Hunter Biden and the 2017 Obama-Trump transition, facing accusations of abusing Senate resources to benefit Trump and operating a Russian disinformation front. Democrats claim his actions mislead the public and harm election security, while Johnson insists he is nonpartisan and dedicated to uncovering the truth. Republicans worry his probes could backfire amid the pandemic, unemployment, and racial unrest. Johnson denies any political bias, stating his focus is on ensuring a peaceful transition of power. Democrats, however, argue his investigations are politically motivated, with reports timed to influence the 2020 election. Johnson dismisses their fears, accusing Democrats of fearing the truth. The partisan divide over his investigations continues to escalate, with both sides framing the issue through moral and political lenses.  
+END OF SUMMARY.

@@ -1,0 +1,16 @@
+Okay, so the user has given me a task to summarize a news article. They provided the article and an example response. I need to make sure I understand the requirements correctly.
+
+First, the user wants a news summary, so I should identify the key points. The article is about Michael Steele, the RNC chairman, criticizing the Afghanistan war as Obama's choice and facing backlash. I need to capture the main events: his speech, the criticism, the calls for resignation, and his clarification.
+
+I should start by identifying the who, what, when, where, why. Michael Steele made controversial remarks at a fundraiser, criticizing the war as Obama's choice, leading to calls for his resignation. The war started under Bush, but Obama escalated it. Steele later clarified his support for winning the war.
+
+Next, I need to condense this into a concise summary, under 200 words. I should mention the criticism from Kristol and the Democrats, and note that Steele defended his position but didn't address the resignation call.
+
+I should ensure the summary is clear and includes all critical points without getting bogged down in details. Also, the user wants the summary to start with "SUMMARY:" and end with "END OF SUMMARY." tokens.
+
+I need to make sure the language is formal yet concise, avoiding any markdown as per the instructions. I'll structure the summary to first introduce Steele's remarks, then the reactions, and finally his clarification.
+
+I should also check the word count to ensure it's within the limit. Let me draft the summary now, keeping it around 150-200 words. Make sure it's accurate and covers all necessary points without unnecessary details.
+</think>
+
+SUMMARY: Michael Steele, chairman of the Republican National Committee, faced criticism and calls for his resignation after remarks at a party fundraiser where he criticized the U.S. involvement in Afghanistan, calling it "a war of Obama’s choosing." Steele argued that the conflict was not actively pursued by the U.S. and questioned Obama’s military strategy. His comments drew backlash from conservatives, including William Kristol, who accused Steele of undermining the party’s stance on the war. Steele later clarified his support for winning the war but did not address the resignation calls. The war in Afghanistan, initiated under George W. Bush, has been escalated under Obama, who sent additional troops. Steele’s remarks were seen as discrediting the U.S. effort in Afghanistan, with critics arguing the party chairman should not advocate withdrawal. Steele defended his position, emphasizing the necessity of success in Afghanistan for global security. END OF SUMMARY.

@@ -1,0 +1,26 @@
+Alright, I need to tackle this query. The user has provided a news article and specific instructions on how to process it. They want me to act as a news summarizer and a moral expert. First, I need to identify the morally framed words in the article. 
+
+Looking at the article, I see words like "audacious," "voluntary," "tax incentives," "binding," "unjust," "counterproductive," "irresponsible," and "champion." These words carry moral connotations, so I'll list them under STEP 1.
+
+Next, I need to summarize the article while preserving these moral terms. The summary should be concise, under 200 words. I'll start by outlining the main points: Bush's alternative plan, its voluntary nature, the White House's praise, environmentalists' criticism, the economic angle, and the stance on developing countries.
+
+I should ensure the summary flows well and includes the key moral framing words. I'll structure it to highlight the contrast between the Bush administration's approach and the Kyoto Protocol, emphasizing the voluntary measures and the criticism from environmentalists. Also, I'll mention the tax incentives and the administration's stance on involving developing nations like India and China.
+
+I need to make sure the summary is clear and captures the essence of the article, including the moral critique from environmental groups. I'll avoid adding any personal opinions, just stick to the facts and the moral language used.
+
+Finally, I'll review the summary to ensure it's within the word limit and that all the key points are covered, including the moral framing elements. That should fulfill the user's request effectively.
+</think>
+
+**STEP 1:**  
+* Audacious  
+* Voluntary  
+* Tax incentives  
+* Binding  
+* Unjust  
+* Counterproductive  
+* Irresponsible  
+* Champion  
+
+**SUMMARY:**  
+US President George W. Bush unveiled an alternative plan to the Kyoto Protocol, emphasizing voluntary measures and tax incentives to reduce greenhouse gas emissions. The White House described it as the "most audacious program in American history," aiming to lower emissions intensity by 18% over a decade. However, environmentalists criticized the plan, calling it a "Valentine's Day gift for polluters." They argued that voluntary measures would not hold industrialists accountable, as the plan lacks binding obligations. Bush also sought to involve developing nations like India and China, urging them to reduce emissions while opposing the Kyoto Protocol's strict targets, which he deemed "unjust" and "counterproductive." Environmentalists, such as Carl Pope of the Sierra Club, accused the administration of prioritizing polluting industries over environmental health, labeling the approach as "irresponsible." The plan, they argued, moves in the opposite direction of global efforts to combat climate change, failing to champion meaningful action.  
+**END OF SUMMARY.**

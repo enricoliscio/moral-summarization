@@ -1,0 +1,45 @@
+Okay, I need to help the user by summarizing the given news article while preserving the moral framing. First, I should understand the article's main points and the author's perspective. The author is a Jewish scholar who has been fighting anti-Semitism, so the article is likely to have a strong moral stance against anti-Semitism.
+
+The user has specified two steps. The first is to identify all single words that are morally framed. I need to go through the article and pick out words that carry moral connotations. Words like "lucky," "anti-Semitism," "tragedy," "painful," "unique," "exterminationist," "hate," "scapegoat," "dishonest," "falsehood," "pro-Israel," "values," "ethnically," "fervently," "pray," "need," "uniqueness," "love," "fight," "fate," "exemplified," "advocate," "close," "connections," "close," "exemplified," "values," "ethnically," "fervently," "pray," "need," "uniqueness," "love," "fight," "fate," "exemplified," "advocate," "close," "connections." These words seem to carry moral weight in the context.
+
+Next, I need to write a concise summary, keeping as many of these words as possible. The summary should be under 200 words. I should focus on the author's main arguments: the uniqueness of the Pittsburgh massacre, the nature of anti-Semitism as exterminationist, the impact on societies, the critique of left-wing organizations, and the call to fight anti-Semitism for the sake of America's values.
+
+I should ensure that the summary flows well and includes the key moral points without being too verbose. I need to mention the author's background, the Pittsburgh tragedy, the nature of anti-Semitism, the critique of organizations, and the call to action. Also, I should include the part about armed guards and the hope that synagogues remain safe.
+
+I should avoid any markdown and keep the summary clear and within the word limit. Let me structure it by first introducing the author, then the main points, and conclude with the call to fight anti-Semitism.
+</think>
+
+**STEP 1:**
+
+* lucky  
+* anti-Semitism  
+* tragedy  
+* painful  
+* unique  
+* exterminationist  
+* hate  
+* scapegoat  
+* dishonest  
+* falsehood  
+* pro-Israel  
+* values  
+* ethnically  
+* fervently  
+* pray  
+* need  
+* uniqueness  
+* love  
+* fight  
+* fate  
+* exemplified  
+* advocate  
+* close  
+* connections  
+
+---
+
+**SUMMARY:**  
+
+The author, a Jewish scholar and anti-Semitism advocate, reflects on the Pittsburgh synagogue massacre, calling it a unique American tragedy. Unlike other hate crimes, anti-Semitism targets Jews for annihilation, as seen in the killer's cry, "All Jews must die." The author notes that anti-Semitism has historically devastated societies, as with Nazi Germany, and criticizes left-wing organizations for dishonestly linking anti-Semitism to Trump. They argue that anti-Semitism has grown on the left, citing young Jews facing harassment on campuses. The author advocates for armed guards in synagogues, hoping they remain unnecessary, and urges all Americans to fight anti-Semitism, emphasizing its threat to national unity.  
+
+**END OF SUMMARY.**

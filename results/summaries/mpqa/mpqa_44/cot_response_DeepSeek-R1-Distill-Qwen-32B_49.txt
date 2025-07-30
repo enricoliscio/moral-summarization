@@ -1,0 +1,27 @@
+Okay, I need to help the user by summarizing a news article while preserving the moral framing. The user provided specific steps: first, identify all morally framed single words, then write a concise summary using those terms.
+
+First, I'll read the article carefully. It's about Lebanon's reaction to the US human rights report. The key points are the officials' dissatisfaction, the annual nature of the criticism, and specific criticisms like weakening central government, independent judiciary, intelligence monitoring, and the press's role.
+
+For STEP 1, I need to extract words that carry moral connotations. Words like "dissatisfaction," "criticism," "weakening," "independent," "abusing," "discrediting," "undemocratic," "uncivilized," "harms," "praised," and "criticism" stand out. Each of these words carries a moral judgment, either positive or negative.
+
+Next, the summary needs to include these words. I'll structure it to mention Lebanon's dissatisfaction, the annual criticism, the specific points about the judiciary and intelligence, and the positive note about the press. I need to keep it under 200 words, so I'll be concise but include all key moral points.
+
+I should make sure the summary flows well and accurately reflects the article's content while highlighting the moral framing. I'll start by stating the dissatisfaction, then the annual nature, the criticisms, and end with the praise for the press. This should cover all necessary points succinctly.
+</think>
+
+**STEP 1:**  
+* dissatisfaction  
+* criticism  
+* weakening  
+* independent  
+* abusing  
+* discrediting  
+* undemocratic  
+* uncivilized  
+* harms  
+* praised  
+* criticism  
+
+**SUMMARY:**  
+Lebanese officials expressed dissatisfaction with the US State Department's annual human rights report, calling its criticism an annual event. The report criticized Lebanon for the weakening of the central government's authority and the judiciary's independence in principle under political pressure. It also highlighted intelligence agents monitoring opposition politicians and tapping government leaders' phones, which officials said harms Lebanon's image as a democratic country. However, the report praised Lebanon's press for its daily criticism of the government. The Foreign Ministry plans to share the report with relevant ministries and respond to the US State Department. Officials conveyed their dissatisfaction to US Ambassador Vincent Battle, emphasizing that the criticism is not unique to Lebanon. They also noted that Lebanon annually explains factors outside the government's control.  
+**END OF SUMMARY.**

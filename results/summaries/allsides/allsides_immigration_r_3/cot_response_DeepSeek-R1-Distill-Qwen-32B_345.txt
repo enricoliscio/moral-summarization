@@ -1,0 +1,54 @@
+Okay, so the user has given me a query where they want me to act as a news summarizer assistant and a moral expert. They provided a news article about New York City's Commission on Human Rights declaring that using the term "illegal alien" is illegal under certain circumstances, and they want me to summarize it while preserving the moral framing. 
+
+First, I need to understand the structure of the query. They have two main steps: identifying morally framed words and then writing a summary. The user also provided an example response, which I can use as a reference.
+
+In STEP 1, I have to go through the article and pick out all the single words that carry moral connotations. Words like "illegal," "discrimination," "unconstitutional," "protection," etc. I should list each of these words with a * in front, each on a new line.
+
+For the summary, I need to condense the article into 200 words or less, making sure to include as many of the morally framed words as possible. The summary should capture the essence of the article, highlighting the Commission's decision, the potential constitutional issues, and the arguments from both sides.
+
+I should also make sure the summary is clear and concise, preserving the moral framing without adding my own opinions. It's important to mention that the law applies to specific contexts like workplaces and housing, and that mere street harassment isn't covered. Also, including the point about the First Amendment and the possible overreach by NYC would be crucial.
+
+I need to avoid any markdown and keep the language natural, as per the user's instructions. I should also end the summary with the specified tokens to indicate the end.
+
+I think I've covered all the points. Now, I'll structure my response accordingly, first listing the morally framed words and then providing the concise summary.
+</think>
+
+**STEP 1:**  
+* Illegal  
+* Discrimination  
+* Unconstitutional  
+* Protection  
+* Employees  
+* Tenants  
+* Fines  
+* Pejoratively  
+* Demean  
+* Humiliate  
+* Harass  
+* Categories  
+* Guidance  
+* Workplace  
+* Harassment  
+* Tenants'  
+* Public  
+* Accommodation  
+* Free speech  
+* Ordinances  
+* Survive  
+* Scrutiny  
+* Limit  
+* Liability  
+* Severely  
+* Pervasive  
+* Hostile  
+* Environment  
+* Constitutionally  
+* Alarm  
+* Prohibit  
+* Politically  
+* Incorrect  
+* Mandates  
+* Guarantees  
+
+**SUMMARY:**  
+New York City's Commission on Human Rights has ruled that using the term "illegal alien" to demean or harass undocumented individuals violates anti-discrimination laws, potentially leading to fines of up to $250,000. However, critics argue this broad interpretation may be unconstitutional under the First Amendment. The law protects against workplace harassment, tenant discrimination, and public accommodation issues, but does not criminalize casual use of the term on the street. Legal experts, like Hans Bader, warn that the city's guidance eliminates the "severe or pervasive" standard required for harassment claims under federal law, potentially infringing on free speech. The government cannot simply ban politically incorrect speech; anti-discrimination laws must balance protections with constitutional free speech guarantees. END OF SUMMARY.

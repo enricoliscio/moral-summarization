@@ -1,0 +1,38 @@
+<think>
+Okay, so I need to help this user by summarizing a news article while preserving the moral framing. Let me read the query again to make sure I understand what's needed.
+
+The user wants two things: first, to identify all the morally framed single words from the article, each on a new line with a *. Second, to write a concise summary that includes as many of those moral words as possible, keeping it under 200 words.
+
+Looking at the article, it's an interview with Hameed Gul, a Pakistani analyst, criticizing the US State Department's human rights report. He accuses the US of hypocrisy, lying, and hegemony. He also mentions issues in India and Palestine, highlighting US silence on human rights abuses there.
+
+For the first step, I need to pick out words that carry moral judgment. Words like "blatant lies," "propaganda," "hegemony," "force," "subjugate," "barbarities," "oppression," "fraudulent," "terrorist," "extremist," "moral resistance," etc. I'll list each of these, making sure each is on a new line with a *.
+
+Next, the summary needs to capture the main points while using those moral terms. I should start by introducing Hameed Gul and his rejection of the report. Then, mention his accusations against the US, their hypocrisy, and the examples he gives like Afghanistan, India, and Palestine. Highlight his call for unity and moral resistance among Muslims. Keep it concise, under 200 words, and make sure it flows naturally while including as many moral words as possible without making it sound forced.
+
+I should avoid adding any new information not in the article and stick strictly to summarizing the given content. Also, ensure the summary starts with "SUMMARY:" and ends with "END OF SUMMARY."
+
+Let me draft the summary step by step. Start with Gul rejecting the report, then his accusations about US hypocrisy, their actions in Afghanistan, India, and Palestine. Conclude with his call for unity and resistance. Make sure to include words like "hypocrisy," "oppression," "barbarities," "fraudulent," "terrorist," "moral resistance," etc.
+
+I think that covers it. Now, I'll structure it properly, making sure each part is clear and concise. Let me check the word count to ensure it's under 200. If it's over, I'll trim some parts without losing the essence.
+
+Alright, I think I'm ready to put it all together as per the user's instructions.
+</think>
+
+**STEP 1:**  
+* Blatant lies  
+* Propaganda  
+* Hegemony  
+* Force  
+* Subjugate  
+* Barbarities  
+* Oppression  
+* Fraudulent  
+* Terrorist  
+* Extremist  
+* Indifference  
+* Vested interests  
+* Resistance  
+* Unity  
+
+**SUMMARY:**  
+Leading Pakistani defense analyst Hameed Gul strongly criticized the US State Department's human rights report, calling it "a pack of blatant lies and propaganda." He accused the US of hypocrisy, claiming it uses human rights as a pretext to justify its hegemonic ambitions and silence dissent. Gul highlighted the US's role in the oppression of Afghan civilians, the killings of Indian Muslims, and Israel's actions in Palestine, noting the US's silence on these issues while condemning others. He argued that the US seeks total submission from Muslims globally and urged Muslim scholars and leaders to unite and resist American influence through moral resistance. END OF SUMMARY.

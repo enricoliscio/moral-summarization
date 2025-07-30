@@ -1,0 +1,35 @@
+Okay, so the user has given me a query where I need to act as a news summarizer assistant and a moral expert. The task is to summarize a news article while preserving the moral framing. They've provided a specific structure with two steps: first, identifying morally framed words, and then writing the summary.
+
+First, I need to understand what morally framed words are. These are words that carry a moral judgment or connotation, like "lashed out," "enlisted," "garbage," "surreal," "accused," "pretend," "innocence," "problem," "reputation," "integrity," and "committed." I should go through the article and pick out these words, each on a new line starting with an asterisk.
+
+Next, I have to write a concise summary, keeping it under 200 words. The summary needs to include as many of these morally framed words as possible to preserve the author's original moral stance. I should make sure the summary captures the key points: Cruz accusing Trump, the tabloid story, Cruz's denial, the surreal exchange on CNN, Trump's response denying involvement, and the Enquirer's reputation and denial of influence.
+
+I should structure the summary to flow logically, starting with Cruz's accusations, the story's content, his denial, the CNN incident, Trump's response, and the Enquirer's statement. I need to ensure that each morally framed word is included where appropriate without making the summary sound forced.
+
+I also need to make sure the summary is clear and concise, sticking to the facts while maintaining the moral tone. I'll have to check the word count to stay within the limit. Once done, I'll present the steps as specified, with STEP 1 listing the words and the summary following the required tokens.
+
+Alright, time to put it all together. I'll start by listing each morally framed word, then craft the summary, ensuring it's under 200 words and includes those words naturally. Finally, I'll format it as per the user's instructions, making sure to use the correct tokens and structure.
+</think>
+
+**STEP 1:**  
+* lashed out  
+* enlisting  
+* friends  
+* National Enquirer  
+* political henchmen  
+* bidding  
+* extramarital affairs  
+* rumors  
+* garbage  
+* surreal  
+* accused  
+* affairs  
+* denied  
+* right  
+* problem  
+* reputation  
+* integrity  
+* committed  
+
+**SUMMARY:**  
+Sen. Ted Cruz (R-Texas) accused Donald Trump of enlisting "his friends at the National Enquirer and his political henchmen" to spread false allegations. The tabloid published a story claiming Cruz had extramarital affairs with five women, which Cruz denied, calling the attacks "garbage." A surreal exchange on CNN saw Cruz's former director accused of an affair with him. Trump denied involvement, stating he had "nothing to do with the National Enquirer" and criticized Cruz for surrounding himself with "political hacks." The Enquirer, known for breaking major sex scandals, defended its integrity, claiming its reporting was independent. A spokesperson denied any influence from Trump backers, stating the story was the result of their own reporting. END OF SUMMARY.

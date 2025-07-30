@@ -1,0 +1,51 @@
+<think>
+Okay, so I need to help summarize this news article while preserving the moral framing. Let me start by understanding what the user is asking for. They want me to first identify all the morally framed single words in the text and then create a concise summary that includes as many of those words as possible.
+
+Looking at the article, it's about the Islamic Human Rights Commission expressing concerns about the state of human rights, especially in the context of international relations and conflicts. The IHRC mentions several key points: the return of force in international relations, the importance of human rights documents, discrimination, torture, arbitrary detention, women's rights, the Durban conference, Palestinian injustice, terrorism, military power, and respecting human rights through religious teachings.
+
+For the first step, I need to extract all the single words that carry moral implications. These are words that evoke values, rights, or ethical concerns. Words like "concern," "force," "weapon," "honor," "discrimination," "torture," "arbitrary detention," "human rights," "political rights," "associations," "women's rights," "provisions," "materialized," "destitute," "world wars," "progress," "condemned," "solidarity," "terrorism," "peace," "security," "respect," "established," "stop," "bombing," "targets," "monitor," "denounced," "attacks," "targeted killing." These words are all part of the moral framing in the article.
+
+Now, for the summary, I need to condense the article into 200 words or less, making sure to include as many of these moral terms as possible. I should structure it to highlight the main points: the IHRC's concerns, the state of human rights, the Durban conference, the situation with Palestine, the call for respecting human rights, and the UN's involvement.
+
+I'll start by stating the IHRC's concern about the resurgence of force in international relations. Then mention the efforts to honor human rights through documents but the failure to implement them. Highlight the Durban conference as a turning point. Then address the specific injustices against Palestinians and the call to stop military actions. Conclude with the UN's call for Israel to cease attacks and allow monitors.
+
+I need to ensure that the summary flows well and covers all key points without being too verbose. I'll make sure to include terms like "concern," "force," "honor," "discrimination," "torture," "human rights," "condemned," "solidarity," "terrorism," "peace," "respect," "established," "stop," "bombing," "monitor," "denounced," "attacks," "targeted killing."
+
+Let me draft the summary, making sure each sentence includes some of these moral terms while keeping it concise. I'll check the word count to stay under 200 words. Also, I'll ensure that the moral framing is preserved, reflecting the IHRC's stance on the importance of human rights and the current violations.
+</think>
+
+**STEP 1:**  
+* Concern  
+* Force  
+* Weapon  
+* Honor  
+* Discrimination  
+* Torture  
+* Arbitrary detention  
+* Human rights  
+* Political rights  
+* Associations  
+* Women's rights  
+* Provisions  
+* Materialized  
+* Deprived  
+* World wars  
+* Progress  
+* Condemned  
+* Solidarity  
+* Terrorism  
+* Peace  
+* Security  
+* Respect  
+* Established  
+* Stop  
+* Bombing  
+* Targets  
+* Monitor  
+* Denounced  
+* Attacks  
+* Targeted killing  
+
+**SUMMARY:**  
+The Islamic Human Rights Commission (IHRC) expressed concern over the resurgence of force in international relations, emphasizing the need to honor human rights. Despite numerous documents and efforts, the provisions of the International Declaration of Human Rights remain unfulfilled, leading to continued discrimination, torture, and arbitrary detention. The IHRC highlighted the importance of protecting human rights, including women's rights and political freedoms, and condemned the injustices faced by the Palestinian nation and other vulnerable groups. It also criticized the use of military power, urging statesmen to respect religious teachings on human rights. Meanwhile, the UN High Commissioner for Human Rights called on Israel to cease bombing Palestinian targets and allow international monitors, denouncing targeted killings of Palestinians. The IHRC stressed that peace cannot be established without honoring human rights.  
+**END OF SUMMARY.**

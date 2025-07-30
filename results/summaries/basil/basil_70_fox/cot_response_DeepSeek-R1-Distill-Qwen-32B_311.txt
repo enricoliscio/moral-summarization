@@ -1,0 +1,81 @@
+Okay, so I need to help the user by summarizing a news article while preserving the moral framing. The user has given me a specific structure to follow, which includes two steps: first, identifying morally framed words, and then writing a summary that includes as many of those words as possible.
+
+Let me start by reading the article carefully. It's about Donald Trump's inauguration, his speech, and the events surrounding it. The user wants me to extract single words that are morally framed. I need to understand what "morally framed" means here. It probably refers to words that carry a moral connotation, either positive or negative, that the author uses to convey a judgment or value.
+
+Looking through the article, I'll go sentence by sentence to pick out these words. For example, "prosperity" is a positive moral term, indicating a good state. "Fight" might be framed as a moral struggle. "Ignored" could imply neglect, which is negative. "Concrete results" suggests tangible and positive outcomes. "Empty talk" is negative, indicating insincerity. "Action" is positive, as it's about doing something. "Populist themes" relate to the common people, which can be seen as a positive framing. "Patriotism" is a strong positive moral value. "Prejudice" is negative, indicating unfair judgment. "Reaped the rewards" implies unfair advantage, which is negative. "Salve" suggests healing, positive. "Divisions" are negative, indicating splits. "Open your heart" is positive, about empathy. "Patriotism" again. "Prejudice" again. "Small group" could imply a negative elite. "Washington’s wealth" implies misuse, negative. "Making history" is positive. "Businessman" is neutral but in context, it's framed as a positive trait. "No prior political or military experience" is presented neutrally but in context, it's framed as a positive because it's about not owing anything. "Successful" is positive. "Private sector" is neutral but in context, it's framed as positive. "Owing nobody" is positive, about independence. "Jobs lost" is negative. "Foreign rivals" negative. "Rusted out factories" negative. "Crime" negative. "American carnage" very negative. "Return to power" positive. "Never let them down" positive. "America first" positive. "Fight" again. "Bring back" positive. "Jobs, borders, wealth, dreams" positive. "Eradicate Islamic terrorism" positive. "Your moment" positive. "Make America great again" positive. "Protesters" neutral but in context, they are disrupting, which is negative. "Disruptions" negative. "Blocked checkpoints" negative. "Violence and vandalism" negative. "Clashed with police" negative. "Arrests" negative. "Boycotted" negative. "Disputes" negative. "Honor democracy" positive. "Enduring values" positive. "Believe in our country" positive. "Future" positive. "Met with Obamas" neutral but in context, it's a positive gesture. "Church service" positive. "Parade" neutral but in context, it's part of the celebration. "Inaugural balls" positive.
+
+I think I've covered most of the morally framed words. Now, I need to list them each with a *. Then, for the summary, I need to include as many of these words as possible while keeping it under 200 words and preserving the moral framing.
+
+I should structure the summary to highlight the key points: Trump's inauguration, his promises, the moral themes like patriotism, fighting for the country, addressing divisions, the protests, and the transition from Obama. I'll make sure to include the morally charged words to reflect the tone of the original article.
+
+I need to be concise, so I'll focus on the main events and the moral language used. I'll mention the inaugural address, the promises to bring back jobs, borders, etc., the mention of American carnage, the protesters, and the attendance of previous presidents and Hillary Clinton. I'll ensure that each sentence includes some of the morally framed words to maintain the original's tone.
+
+Let me draft the summary now, making sure to include the key morally framed words without making it too long. I'll check the word count to stay under 200 words.
+</think>
+
+**STEP 1:**  
+* prosperity  
+* fight  
+* ignored  
+* concrete results  
+* empty talk  
+* action  
+* populist  
+* patriotism  
+* prejudice  
+* reaped  
+* salve  
+* divisions  
+* open  
+* heart  
+* Washington  
+* wealth  
+* history  
+* businessman  
+* successful  
+* private sector  
+* owing  
+* jobs  
+* foreign  
+* rivals  
+* rusted  
+* factories  
+* crime  
+* carnage  
+* return  
+* power  
+* people  
+* let down  
+* America  
+* first  
+* bring back  
+* jobs  
+* borders  
+* wealth  
+* dreams  
+* eradicate  
+* Islamic  
+* terrorism  
+* moment  
+* Make  
+* America  
+* great  
+* again  
+* protesters  
+* disruptions  
+* blocked  
+* checkpoints  
+* violence  
+* vandalism  
+* clashed  
+* arrests  
+* boycotted  
+* disputes  
+* honor  
+* democracy  
+* enduring  
+* believe  
+* future  
+
+**SUMMARY:**  
+Donald Trump became the 45th U.S. president, vowing to restore prosperity and fight for the country. His inaugural address emphasized patriotism, unity, and action, addressing divisions and promising to bring back jobs, borders, and wealth. Trump criticized Washington elites for reaping rewards while neglecting the people, and he pledged to eradicate Islamic terrorism. The speech, marked by populist themes, contrasted with protests and disruptions, including violence and vandalism. Despite the turmoil, the transition included a peaceful meeting between Trump and Obama, as well as attendance by past presidents and Hillary Clinton, who honored democracy. Trump’s administration aims to make America great again, starting with concrete policies and a CEO-driven approach. END OF SUMMARY.

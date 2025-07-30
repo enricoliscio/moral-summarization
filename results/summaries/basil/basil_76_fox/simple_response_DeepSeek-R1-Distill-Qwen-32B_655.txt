@@ -1,0 +1,18 @@
+Okay, so I need to help the user by summarizing a news article while preserving the moral framing. The user provided a detailed article about Roy Moore's sexual misconduct allegations and the reactions from various parties. They want a summary of no more than 200 words, ending with specific tokens.
+
+First, I should read the article carefully to understand the key points. The main issues are the allegations against Moore, the reactions from Trump and the White House, the responses from other Republicans, Moore's defense, and the legal context.
+
+I need to identify the moral framing. The article presents Moore's supporters and opponents with different moral perspectives. Moore is portrayed as fighting for conservative values, while the allegations are seen as an attack by political enemies. The White House advises against rushing to judgment, highlighting the moral dilemma of believing allegations versus protecting a person's reputation.
+
+I should structure the summary to include these elements: the allegations, Trump's stance, Moore's defense, reactions from both parties, and the legal context. I need to keep it concise, under 200 words, so I'll focus on the most impactful points.
+
+I'll start with the allegations and Moore's denial, then mention Trump's cautious approach. Next, I'll note the Republican reactions, including those who want him to step down and his supporters. Finally, I'll include the legal details about the age of consent and statute of limitations, as well as Moore's supporters framing the issue as a political attack.
+
+I must ensure that the moral implications are clear. On one side, the seriousness of the allegations and the call for accountability. On the other, the defense against political bias and the fight for conservative principles. This balance is crucial to preserve the author's moral framing.
+
+Now, I'll draft the summary, making sure it's within the word limit and includes all necessary points without being too detailed. I'll avoid markdown and keep the language clear and concise.
+</think>
+
+SUMMARY:  
+Alabama Senate candidate Roy Moore faces sexual misconduct allegations from the 1970s, with Leigh Corfman claiming Moore, then 32, engaged in inappropriate behavior when she was 14. Moore denies the claims, calling them a "fabrication" by political opponents. President Trump, through his press secretary, urged caution, stating Moore should step aside if the allegations are true. Republican leaders, including Senate Majority Leader Mitch McConnell, have called for Moore to drop out if the claims are substantiated, while others, like Arizona Senator John McCain, argue he should withdraw regardless. Moore's campaign accused the Democratic Party and media of spreading "fake news" to derail his campaign. The legal age of consent in Alabama was 16 at the time, and the statute of limitations has expired. Moore's supporters frame the allegations as a politically motivated attack, while critics emphasize the need for accountability. The race remains highly contentious as voters weigh the allegations against Moore's conservative values.  
+END OF SUMMARY.

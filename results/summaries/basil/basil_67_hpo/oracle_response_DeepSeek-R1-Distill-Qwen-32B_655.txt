@@ -1,0 +1,14 @@
+Alright, I need to help the user by summarizing the given news article while preserving the moral framing. The user specified that the assistant should act as a news summarizer and a moral expert, so I should focus on maintaining the author's tone and the use of specific morally charged words.
+
+First, I'll read through the article to understand the main points. It's about former Mexican President Vicente Fox criticizing current President Enrique Peña Nieto for inviting Donald Trump. Fox is upset because Trump has been making negative statements about Mexico, and he sees this meeting as a political risk for Peña Nieto. The article mentions terms like "fearmongering," "scandals," "using," "mistake," "cheating," "stop," and "lying," which are important to include.
+
+I should start by identifying the key events: Fox's criticism, Trump's invitation, Fox's past comments, and the implications of the meeting. I need to incorporate the moral words without making the summary too long. I'll make sure each sentence reflects the author's disapproval, using words like "fearmongering" and "using" to convey the negative framing.
+
+I also need to keep the summary under 200 words. I'll structure it by first introducing Fox's criticism, then mention Trump's invitation and Fox's past statements, followed by the risks involved and Fox's warnings. I'll conclude with the implications of the meeting for both Trump and Peña Nieto.
+
+Let me draft a concise version, ensuring all the moral terms are included and the summary flows logically. I'll check the word count to stay within the limit. Once done, I'll present it clearly, starting with "SUMMARY:" and ending with "END OF SUMMARY."
+</think>
+
+SUMMARY:  
+Former Mexican President Vicente Fox harshly criticized current President Enrique Peña Nieto for inviting Donald Trump to meet in Mexico, calling Trump "not welcome" and rejecting his "fearmongering" and divisive rhetoric. Fox accused Trump of "using" Mexico to boost his sinking poll numbers and warned that Peña Nieto risks being seen as a "traitor" for hosting him. Trump, who has spent over a year attacking Mexico, accepted the invitation despite his history of controversial statements, including promises to build a wall and accusations of "rapists" and drug dealers crossing the border. Fox also criticized Peña Nieto for taking a "mistake" and "desperate move," warning it could harm his political standing. Trump, meanwhile, highlighted Fox's past apology for using offensive language, accusing him of hypocrisy. Fox responded by demanding respect and calling Trump a "false prophet" who "cheats" everyone. The meeting, Trump's first as a nominee with a foreign leader, carries political risks for both candidates.  
+END OF SUMMARY.

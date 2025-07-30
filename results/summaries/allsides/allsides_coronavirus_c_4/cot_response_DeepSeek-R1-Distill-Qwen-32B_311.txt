@@ -1,0 +1,40 @@
+Okay, so I need to help the user by summarizing a news article while preserving the moral framing. The user provided specific instructions, so I should follow them step by step.
+
+First, I need to identify the morally framed words in the article. The user mentioned that these are single words. I'll go through the article and look for words that carry moral connotations. Words like "failed," "mismanagement," "scared," "failed," "worried," "dimmed," "crater," "cost," "emerged," "push," "control," "spike," "epicenters," "short supply," "flock," "crisis," "suffering," "damage," "hurting," "disaster," and "failure." These words seem to carry moral weight because they imply blame, concern, or negative outcomes.
+
+Next, I need to write a summary using as many of these words as possible. The summary should be concise, no more than 200 words. I'll start by outlining the main points: the surge in COVID-19 cases, the new epicenters, Fauci's warnings, the impact on the economy, Trump's criticism, Biden's plan, and the concerns about celebrations.
+
+I'll make sure to include the morally framed words to maintain the author's perspective. For example, mentioning that Trump "failed" and the "mismanagement" of the pandemic. Also, highlighting the "scared" hospitals and the "worried" officials about the July 4 celebrations.
+
+I need to ensure the summary flows well and covers all key points without being too lengthy. I'll structure it to first state the surge, then the epicenters, Fauci's warning, the economic impact, political criticism, state actions, and the concerns about future gatherings.
+
+I should double-check that I'm using the morally framed words appropriately and that the summary stays within the word limit. Also, I'll make sure the summary starts with "SUMMARY:" and ends with "END OF SUMMARY."
+
+Alright, I think I have a good structure. Let me put it all together, making sure each point is covered succinctly and the moral framing is preserved.
+</think>
+
+**STEP 1:**  
+* failed  
+* mismanagement  
+* scared  
+* failed  
+* worried  
+* dimmed  
+* crater  
+* cost  
+* emerged  
+* push  
+* control  
+* spike  
+* epicenters  
+* short supply  
+* flock  
+* crisis  
+* suffering  
+* damage  
+* hurting  
+* disaster  
+* failure  
+
+**SUMMARY:**  
+New U.S. COVID-19 cases surged by over 47,000, the highest since the pandemic began, with California, Texas, and Arizona as new epicenters. Dr. Anthony Fauci warned that cases could double unless a nationwide push to control the virus is made. The economic crisis deepened as states closed businesses, leaving millions jobless. President Trump faced criticism for his mismanagement, with Joe Biden calling it a failure that cost lives and hurt the economy. States like California and Texas closed bars, while New York and others imposed quarantines for travelers. Hospitals in Texas and Florida are struggling with bed shortages, and officials worry about July 4 celebrations worsening the crisis. Fauci expressed concern about the rising death toll and the potential for a vaccine. The situation highlights the failure to control the pandemic, with many lives lost and the economy suffering. END OF SUMMARY.

@@ -1,0 +1,50 @@
+Okay, I need to tackle this query. The user wants me to act as a news summarizer and a moral expert. They provided a detailed news article and specific instructions on how to process it. 
+
+First, I should read through the article to understand the main points. It's about anti-Semitic comments made by several celebrities, the lack of strong reactions, and how this contributes to a broader issue of apathy towards social justice. The author is concerned that this trend could harm the Black Lives Matter movement and perpetuate racism.
+
+The user's instructions have two parts. The first is to identify all the single words that are morally framed. I need to go through the article and pick out words that carry moral weight. Words like "hateful," "apathy," "discriminate," "oppression," etc., come to mind. I should list each of these, each on a new line with an asterisk.
+
+The second part is to write a concise summary, preserving the moral framing. I need to make sure the summary is under 200 words and includes as many of those morally charged words as possible. The summary should highlight the celebrities' anti-Semitic remarks, the muted response, and the implications for social justice movements. I should also mention the increase in hate crimes and the reference to Billie Holiday's song to emphasize the importance of solidarity.
+
+I should structure my response with STEP 1 for the moral words and then the SUMMARY section. I need to ensure that the summary flows well and captures the essence of the article while maintaining the moral tone.
+
+I also need to make sure I follow the formatting instructions correctly, using the specified tokens and keeping each part clear and separate. I'll start by listing all the moral words, then move on to the summary, making sure it's within the word limit and includes the key points with the appropriate framing.
+
+Finally, I'll review everything to ensure accuracy and that I've met all the user's requirements. This way, the user gets a thorough and well-structured response that addresses both parts of their query effectively.
+</think>
+
+**STEP 1:**  
+* hateful  
+* muted response  
+* perpetuates racism  
+* Apatholypse  
+* anti-Semitic  
+* prejudice  
+* social justice  
+* apathy  
+* discrimination  
+* oppression  
+* scapegoat  
+* marginalized  
+* dehumanizing  
+* police abuses  
+* anti-Semitism  
+* homophobe  
+* emboldened  
+* hate groups  
+* scapegoat logic  
+* marginalized  
+* dehumanizing  
+* anti-Semitic imagery  
+* contrition  
+* responsibility  
+* destructive impact  
+* hate crimes  
+* resistance  
+* mutuality  
+* injustice  
+* outrage  
+
+**SUMMARY:**  
+The article highlights the troubling rise of anti-Semitic remarks from celebrities like Ice Cube, DeSean Jackson, and Chelsea Handler, as well as the lack of strong public condemnation, which perpetuates racism and contributes to an "Apatholypse." The muted response to these hateful outbursts sends a dangerous message, normalizing prejudice and eroding progress in social justice. Celebrities, with their influential platforms, have a responsibility to avoid spreading harmful stereotypes, as their words can dehumanize and embolden hate groups. The article also notes the increase in anti-Semitic hate crimes and critiques the lack of genuine contrition from those involved. It emphasizes the interconnectedness of justice, urging solidarity against all forms of oppression, as no one is free until everyone is free. The piece concludes by calling for outrage against injustice, regardless of the group affected, to uphold the principles of equality and mutuality.  
+**END OF SUMMARY.**

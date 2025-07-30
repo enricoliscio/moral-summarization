@@ -1,0 +1,31 @@
+Okay, so the user has given me a query where they want to summarize a news article while preserving the moral framing. They've broken it down into two steps: first, identifying morally framed words, and then writing the summary.
+
+I need to start by understanding the article. It's about Arizona Governor Jan Brewer vetoing a bill that would allow businesses to refuse service based on religious freedom, effectively allowing discrimination against same-sex couples. She argues the bill doesn't address a real issue and could cause more problems. There's opposition from various groups, including major corporations and state senators. The Super Bowl location is a factor in the economic concerns.
+
+For the first step, I need to identify single words with moral connotations. Words like "veto," "discriminate," "potential," "problems," "violated," "criticism," "opposition," "worried," "blow," "economic growth," and "discrimination" stand out. These words carry moral weight because they relate to rights, justice, fairness, and economic impact.
+
+Next, I have to write a concise summary, keeping those moral terms. I'll mention Brewer's veto, the bill's purpose, her reasoning, the opposition from different groups, and the economic implications. I should make sure to include the morally framed words to maintain the article's tone.
+
+I should also ensure the summary is under 200 words and starts with "SUMMARY:" and ends with "END OF SUMMARY." I'll structure it to flow logically, starting with the veto, the bill's intent, the governor's reasoning, opposition, and the broader context of similar bills in other states.
+
+I need to double-check that all the key points are covered: the veto, the potential for discrimination, the criticism, the economic concerns, and the broader state context. I should also make sure the language reflects the moral framing without adding my own bias.
+
+Finally, I'll review the summary to ensure it's clear, concise, and within the word limit, while preserving the moral elements as per the user's instructions.
+</think>
+
+**STEP 1:**  
+* Veto  
+* Discriminate  
+* Potential  
+* Problems  
+* Violated  
+* Criticism  
+* Opposition  
+* Worried  
+* Blow  
+* Economic growth  
+* Discrimination  
+
+**SUMMARY:**  
+Arizona Gov. Jan Brewer vetoed Senate Bill 1062, which would have allowed businesses to refuse service to same-sex couples under "religious freedom" grounds, effectively enabling discrimination. Brewer argued the bill did not address a specific issue and could create more problems than it aimed to solve. She noted no examples of religious liberty violations by business owners. The bill faced intense criticism from activists, lawmakers, and major corporations like Marriott, Apple, and American Airlines. Businesses in Phoenix were particularly concerned due to the upcoming Super Bowl in Glendale, Arizona, with the host committee warning the bill could harm the state's economic growth. Similar bills have been proposed in other states, but Brewer's veto reflects a stance against potential discrimination and its broader implications.  
+**END OF SUMMARY.**

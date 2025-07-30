@@ -1,0 +1,16 @@
+Okay, so the user has given me a query where they want me to summarize a news article about Rick Santorum. They've provided the article, and they want the summary to be after a "SUMMARY:" token and end with "END OF SUMMARY." Also, the summary should be no longer than 200 words.
+
+First, I need to read the article carefully to understand the key points. The article talks about Santorum making several controversial statements on CBS's "Face the Nation." He's defending his claims about prenatal testing leading to abortions, criticizing federal education, and questioning Obama's policies as not being based on the Bible.
+
+I should identify the main topics: his defense of his statements, the specifics of each claim, and the reactions, including Obama's campaign aide calling his remarks over the line. 
+
+I need to make sure the summary is concise, hitting each point without getting too detailed. I should mention each of his claims briefly, how he defended them, and the criticism he received. Also, note the context of the interview and any key quotes that encapsulate his views.
+
+I'll structure the summary by first introducing Santorum and the show, then list his main points: prenatal testing leading to abortions, federal education being outdated, and Obama's policies not aligning with the Bible. Then, mention the criticism from Gibbs. Keep each sentence tight to stay within the word limit.
+
+I should avoid any markdown and just use plain text, starting with "SUMMARY:" and ending with "END OF SUMMARY." I'll make sure the summary flows logically, covering each point in order without unnecessary details.
+</think>
+
+SUMMARY:  
+Rick Santorum defended several controversial statements during a CBS "Face the Nation" interview, including claims that prenatal testing leads to abortions, federal education is outdated, and President Obama's policies lack biblical foundation. Santorum clarified he doesn't question Obama's faith but criticized his "worldview" as differing from biblical principles. He dismissed Obama's politics as based on "phony theology," arguing that environmentalism, not serving the earth, is a flawed ideal. Santorum also opposed mandatory coverage for prenatal testing, stating it often leads to abortions, and criticized government-run education for failing to meet local needs, likening it to buying a car. Obama campaign aide Robert Gibbs condemned Santorum's rhetoric as "well over the line," calling for a more respectful political discourse.  
+END OF SUMMARY.

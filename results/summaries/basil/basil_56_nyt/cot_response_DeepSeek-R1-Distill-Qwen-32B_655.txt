@@ -1,0 +1,53 @@
+Okay, so the user has given me a query where I need to act as a news summarizer assistant and a moral expert. The task is to summarize a news article while preserving the moral framing the author used. 
+
+First, I need to understand the structure of the query. It has two main parts: step 1, where I identify all single words that are morally framed, and step 2, where I write a summary preserving those words. 
+
+Looking at the news article, it's about Senator Marco Rubio outlining his foreign policy approach. The key moral terms here are words like "strength," "protection," "moral clarity," "freedom," "rights," "vulnerable," "persecuted," "afflicted," "truth," "hear," "see," "suffering," "desire," and "freedom." These words carry moral weight and are central to the author's framing.
+
+In the summary, I need to condense the article into 200 words, making sure to include these moral terms. I should focus on the main points: Rubio's three pillars, his commitment to military funding, opposition to violations in international spaces, and his vision for spreading freedom and supporting vulnerable groups.
+
+I should structure the summary to highlight Rubio's priorities and his moral stance. It's important to convey that his approach is about strength, protection, and upholding core values, while also addressing global issues like economic disruption and persecution.
+
+I need to ensure the summary flows well and stays within the word limit. I'll start by mentioning Rubio's speech, outline his three pillars, discuss his military funding priority, his opposition to violations, and conclude with his broader vision of spreading freedom and supporting the vulnerable.
+
+Finally, I'll make sure to include all the identified moral words to preserve the author's framing. This should provide a concise yet comprehensive summary that reflects the moral underpinnings of Rubio's foreign policy stance.
+</think>
+
+**STEP 1:**  
+* Strength  
+* Protect  
+* Moral clarity  
+* Values  
+* Adequately fund  
+* Power  
+* Oppose  
+* Violations  
+* International waters  
+* Airspace  
+* Cyberspace  
+* Outer space  
+* Economic disruption  
+* Spread  
+* Economic and political freedom  
+* Reinforce alliances  
+* Resist subjugation  
+* Robust commitment  
+* Transparent  
+* Effective foreign assistance  
+* Advance  
+* Rights  
+* Vulnerable  
+* Women  
+* Religious minorities  
+* Persecuted  
+* Afflicted  
+* Truth  
+* Hear  
+* See  
+* Suffering  
+* Desire  
+* Freedom  
+
+**SUMMARY:**  
+Senator Marco Rubio, a 2016 presidential candidate, outlined his foreign policy approach in a speech, emphasizing three pillars: ensuring American strength, protecting the economy in a globalized world, and preserving the moral clarity of U.S. core values. Rubio prioritizes funding the military, even in times of peace, and opposes violations in international waters, airspace, cyberspace, and outer space. He vows to use American power to counter economic disruption caused by invasions and to spread economic and political freedom. Rubio also pledges to reinforce alliances, resist powerful nations subjugating smaller neighbors, and support transparent foreign assistance programs. He aims to advance the rights of vulnerable groups, including women and religious minorities, ensuring the afflicted know the American people hear their cries and desire their freedom. Rubio’s vision centers on upholding moral clarity and global leadership.  
+**END OF SUMMARY.**

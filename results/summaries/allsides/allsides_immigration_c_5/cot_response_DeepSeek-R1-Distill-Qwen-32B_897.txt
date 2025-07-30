@@ -1,0 +1,26 @@
+Okay, so I need to help the user with their query. They provided a news article and specific instructions on how to process it. First, I need to identify all the single words that are morally framed in the article. Then, I have to summarize the article while preserving those moral words. 
+
+Looking at the article, I see words like "travesty," "boycott," "unsafe," "sanctuary," "demonize," "slander," "exoneration," "disgraceful," "weakly," "violent," "overreached," "shocked," "saddened." These words carry strong moral connotations, so I'll list them as STEP 1.
+
+Next, I need to write a concise summary. The summary should be under 200 words and include as many of those moral words as possible. I'll start by mentioning the jury's acquittal and the backlash it caused, including the #BoycottSanFrancisco hashtag. Then, I'll note Trump and Sessions' reactions, the city's stance on being a sanctuary city, and the arguments for and against it. I'll also include the trial details, the verdict, and the family's reaction. I need to make sure the summary flows well and covers all key points while incorporating the moral framing words.
+
+I should also ensure that the summary doesn't include any markdown and ends with the specified tokens. I'll double-check the word count to stay within the limit. Let me piece this together, making sure each moral word is appropriately placed to maintain the article's tone and message.
+</think>
+
+### STEP 1:
+* travesty
+* boycott
+* unsafe
+* sanctuary
+* demonize
+* slander
+* exoneration
+* disgraceful
+* weakly
+* violent
+* overreached
+* shocked
+* saddened
+
+### SUMMARY:
+A jury acquitted Jose Ines Garcia Zarate, a Mexican man, of killing Kate Steinle on a San Francisco pier, sparking outrage and calls for a #BoycottSanFrancisco. President Trump and Attorney General Jeff Sessions criticized the city's sanctuary policies, which prevented Garcia Zarate's deportation despite his criminal history. San Francisco defended its sanctuary city status, arguing it improves public safety by fostering trust between immigrants and police. The trial focused on whether Garcia Zarate intended to kill Steinle, but jurors convicted him only of being a felon in possession of a firearm. Steinle's family expressed shock and sadness, while critics used the case to demonize immigrants. The verdict reignited debates over immigration policies and border security, with Trump calling for the construction of a U.S.-Mexico border wall. END OF SUMMARY.

@@ -1,0 +1,59 @@
+Okay, so I need to help the user by summarizing a news article while preserving the moral framing. The user has given me a specific structure to follow: first, identify all the single words that are morally framed, and then write a summary that includes as many of those words as possible.
+
+First, I'll read through the article to understand the main points. It's about President-elect Trump facing doubts about his legitimacy and how his opponents might portray him as governing recklessly. The author suggests that Trump should respond by revealing secret memos from the Obama administration, similar to how Obama released Bush administration memos. The article goes on to list several areas where transparency is needed, such as the drone program, Syrian intervention, Libya bombing, FOIA issues, TSA policies, and the Affordable Care Act.
+
+Now, for the first step, I need to identify all the single words that are morally framed. I'll go through the article and pick out words that carry a moral connotation. Words like "pervasive," "doubts," "legitimacy," "opponents," "portray," "unprecedented," "reckless," "commandeered," "power," "realized," "reputation," "champion," "civil liberties," "targeted killing," "drone assassination," "defeated," "disclosure," "judge," "jury," "executioner," "vindicate," "morass," "plunging," "chaos," "censoring," "deny," "stonewalling," "abusive," "intrusive," "enhanced patdowns," "groping," "unconstitutional," "scandalized," "switcheroos," "suppress," "excessive," "secrecy," "presume," "rulers," "no good," "booster shot," "democracy."
+
+Next, I need to write a summary that includes these words. The summary should be concise, no longer than 200 words, and capture the essence of the article while preserving the moral framing. I'll structure the summary to highlight Trump's need to expose Obama's administration actions, the issues with transparency, and the benefits of such openness for democracy.
+
+I'll start by stating that Trump faces doubts about his legitimacy and how his opponents might portray him. Then, suggest he should reveal Obama's secret memos, similar to Obama's action. Mention the drone program, Syrian intervention, Libya bombing, FOIA issues, TSA policies, and ACA memos. Conclude with the importance of transparency to rebuild trust and uphold democracy.
+
+I need to ensure that the summary flows well and includes as many of the identified moral words as possible without making it sound forced. I'll check the word count to make sure it's under 200 words and that the moral framing is preserved throughout.
+</think>
+
+**STEP 1:**  
+* pervasive  
+* doubts  
+* legitimacy  
+* opponents  
+* portray  
+* unprecedented  
+* reckless  
+* commandeered  
+* power  
+* realized  
+* reputation  
+* champion  
+* civil liberties  
+* targeted killing  
+* drone assassination  
+* defeated  
+* disclosure  
+* judge  
+* jury  
+* executioner  
+* vindicate  
+* morass  
+* plunging  
+* chaos  
+* censoring  
+* deny  
+* stonewalling  
+* abusive  
+* intrusive  
+* enhanced patdowns  
+* groping  
+* unconstitutional  
+* scandalized  
+* switcheroos  
+* suppress  
+* excessive  
+* secrecy  
+* presume  
+* rulers  
+* no good  
+* booster shot  
+* democracy  
+
+**SUMMARY:**  
+President-elect Donald Trump faces pervasive doubts about his legitimacy, with opponents likely portraying him as governing in unprecedented and reckless ways. To counter such claims, Trump should reveal the secret memos underlying Obama’s targeted killing drone program, as Obama did with Bush-era memos. Opening files on Syria, Libya, and FOIA stonewalling would expose past follies and rebuild trust. Exposing TSA coverups and Obama’s Affordable Care Act memos would also highlight unconstitutional actions. With only 20% of Americans trusting the federal government, transparency is crucial to uphold democracy and prevent excessive secrecy, which fuels suspicions of rulers up to no good. END OF SUMMARY.

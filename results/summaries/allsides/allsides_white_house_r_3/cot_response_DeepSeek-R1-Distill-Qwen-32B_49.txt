@@ -1,0 +1,29 @@
+Okay, I need to help the user by summarizing the given news article while preserving the moral framing. The user has provided specific instructions, so I should follow them step by step.
+
+First, I need to identify all the single words that are morally framed in the article. These are words that carry a positive or negative moral connotation. I'll go through the text and pick out words like "terrorist," "horrific," "condemned," "support," "scourge," "cruel," "failure," "weakness," "victory," "strength," "contain," "unwavering," "friendship," "solidarity," "courage," "hope," "commitment," and "shared values." Each of these words carries a moral weight, so I'll list them as per the user's instruction.
+
+Next, I need to write a concise summary of the article, making sure to include as many of these morally framed words as possible. The summary should be under 200 words. I'll start by highlighting the key events: the terrorist attacks in Paris by ISIS, the timing right after Obama's claim of containment, the casualties, Hollande's response, Obama's criticism, the ongoing coalition efforts, and the diplomatic responses.
+
+I should ensure that the summary reflects the moral framing by using words like "horrific," "scourge," "unwavering support," and "shared values." I'll structure the summary to show the impact of the attacks, the political implications, and the international response, all while maintaining the moral perspective presented in the original article.
+
+I need to be careful not to add any new information beyond what's in the article and keep the summary clear and to the point. Also, I should make sure the summary flows well and covers all the main points without exceeding the word limit.
+
+Finally, I'll present the summary after the "SUMMARY:" token and end it with "END OF SUMMARY." as instructed. I should double-check that all the morally framed words are included where appropriate and that the summary accurately reflects the article's content and tone.
+</think>
+
+**STEP 1:**  
+* terrorist  
+* horrific  
+* condolences  
+* support  
+* scourge  
+* unwavering  
+* friend  
+* solidarity  
+* courage  
+* hope  
+* commitment  
+* shared values  
+
+**SUMMARY:**  
+The Islamic State carried out horrific terrorist attacks in Paris, leaving 127 dead and many injured, just hours after President Obama declared the group "contained." French President Hollande condemned the attacks as "an act of war," while Obama maintained that ISIS was not gaining strength and had been "contained." Critics pointed to Obama's previous dismissal of ISIS as a "jayvee team." The attacks, potentially the second major ISIS operation in two weeks, prompted Obama to offer condolences and reaffirm U.S. support for France. Hollande canceled his trip to the G-20 summit to focus on the crisis. Obama convened his National Security Council to review intelligence on the attacks, emphasizing the need for international solidarity against terrorism. The attacks underscored the ongoing threat of ISIS and the moral imperative to combat terrorism. END OF SUMMARY.

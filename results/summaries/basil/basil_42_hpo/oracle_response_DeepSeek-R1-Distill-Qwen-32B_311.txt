@@ -1,0 +1,18 @@
+Okay, so I need to help the user by summarizing the news article while preserving the moral framing. The user provided the article and a list of morally framed words. My task is to create a concise summary using as many of those words as possible.
+
+First, I'll read through the article to understand the main points. Arizona Governor Jan Brewer vetoed legislation (SB 1062) that would allow businesses to refuse service to same-sex couples on religious grounds. She felt the bill could create more problems and that religious liberty wasn't actually being violated. The bill passed the legislature but faced opposition from various groups, including major corporations and even her own party members in the Senate. The Super Bowl's location in Arizona was a concern, as the host committee opposed the bill, fearing economic repercussions. Similar bills are appearing in other states.
+
+Now, I need to identify the morally framed words from the list provided. They are: veto, refuse, discriminate, create, liberty, violated, opposition, against, contrary, blow, pushing, discrimination, popping.
+
+I should structure the summary to include these words where appropriate. For example, Brewer "vetoed" the bill. The bill allowed businesses to "refuse" service, leading to "discrimination." She noted it could "create" more issues and that religious "liberty" wasn't being "violated." There was "opposition" from many groups, and the bill was "against" same-sex couples. The Super Bowl committee said it was "contrary" to their goals and would be a "blow" to the economy. Other states are "pushing" similar bills, leading to more "discrimination," and these bills are "popping" up elsewhere.
+
+I need to make sure the summary flows naturally while incorporating these words. I'll start with Brewer's action, then the bill's intent, her reasoning, the opposition, the Super Bowl angle, and the broader context of similar bills. I'll keep each sentence concise to stay within 200 words.
+
+Let me draft the summary step by step. Begin with the veto, mention the bill's purpose, her concerns, the opposition from various groups, the Super Bowl committee's stance, and conclude with the trend in other states. I'll make sure each key moral term is included without forcing them unnaturally.
+
+I should also check that the summary accurately reflects the article's content and maintains the moral perspective, emphasizing the issues of discrimination and religious liberty. Ensuring that the summary is clear and concise while preserving the moral framing is crucial.
+
+Finally, I'll review the summary to ensure it's under 200 words and that all the key points and moral terms are included effectively. Making sure it's a smooth and coherent summary that captures the essence of the article from a moral standpoint.
+</think>
+
+SUMMARY: Arizona Gov. Jan Brewer vetoed legislation (SB 1062) that would have allowed businesses to refuse service to same-sex couples on religious freedom grounds, effectively enabling discrimination. Brewer argued the bill could create more problems than it aimed to solve and noted no examples of religious liberty being violated. The bill faced opposition from activists, lawmakers, and major corporations like Marriott and Apple, as well as Arizona's Republican senators. The Arizona Super Bowl Host Committee also opposed the bill, warning it could deal a significant blow to the state's economic growth, as the Super Bowl is set to be held in Glendale in 2015. Similar bills pushing for discrimination against same-sex couples have been popping up in other states, sparking broader debates over religious liberty and equality. END OF SUMMARY.

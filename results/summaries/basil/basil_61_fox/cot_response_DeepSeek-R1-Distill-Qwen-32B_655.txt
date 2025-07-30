@@ -1,0 +1,42 @@
+<think>
+Alright, I need to tackle this query where the user wants me to act as a news summarizer assistant and a moral expert. The task is to summarize a given news article while preserving the moral framing provided by the author. 
+
+First, I should break down the user's instructions. They mentioned two steps: identifying morally framed words and then writing a summary that includes as many of those words as possible. The summary should be concise, no longer than 200 words, and follow specific formatting with "SUMMARY:" and "END OF SUMMARY."
+
+Looking at the news article, it's about the feud between Ted Cruz and Donald Trump, involving personal attacks and their respective campaigns. I need to identify the morally charged words. Words like "gauntlet," "war of words," "blamed," "attack," "pledge," "support," "garbage," "lies," "tabloid smear," "henchmen," "false," "endorse," "meme-style ad," "naked," "spilled the beans," "coward," "classless," "substantial lead," "challenge," and "shot at the nomination" come to mind. These words carry moral implications, showing conflict, accusations, and personal attacks.
+
+Next, I need to craft a summary that includes these words while staying under 200 words. I should ensure the summary captures the essence of the conflict, the personal attacks, and the implications for their campaigns. I'll structure it to show how each side is accusing the other, the consequences on their support, and the overall impact on the race for the nomination.
+
+I should also make sure the summary flows logically, starting with the feud, the specific accusations, the responses, and the potential outcomes. Including the morally framed words will help preserve the author's original tone and framing.
+
+Finally, I'll review the summary to ensure it's concise and meets the word limit, making adjustments as necessary to include as many key moral terms as possible without making it too lengthy.
+</think>
+
+**STEP 1:**  
+* Gauntlet  
+* War  
+* Blamed  
+* Attack  
+* Pledge  
+* Support  
+* Garbage  
+* Lies  
+* Tabloid  
+* Smear  
+* Henchmen  
+* False  
+* Endorse  
+* Meme-style  
+* Naked  
+* Spilled  
+* Beans  
+* Coward  
+* Classless  
+* Substantial  
+* Lead  
+* Challenge  
+* Shot  
+
+**SUMMARY:**  
+Sen. Ted Cruz has escalated the conflict with Donald Trump over personal attacks on their respective families. Cruz accused Trump of orchestrating the National Enquirer's false allegations of extramarital affairs, calling the story "garbage" and a "tabloid smear." Trump's campaign, meanwhile, targeted Cruz's wife, Heidi, leading Cruz to distance himself from his earlier pledge to support Trump. Cruz emphasized that he does not support those who "attack my wife and family," while Trump threatened to reveal details about Heidi. The feud intensified after a super PAC released an ad featuring Melania Trump in a risqué photo, prompting Trump to retaliate by threatening to expose Cruz's family. Cruz denied involvement in the ad, calling Trump a "coward." The conflict highlights the personal and often classless nature of the race, as Trump maintains a substantial lead in delegates, leaving Cruz with a challenging path to the nomination.  
+**END OF SUMMARY.**

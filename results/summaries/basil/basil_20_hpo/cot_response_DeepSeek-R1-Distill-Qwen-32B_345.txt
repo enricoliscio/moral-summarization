@@ -1,0 +1,28 @@
+Okay, so the user wants me to act as a news summarizer assistant and a moral expert. They provided a news article and specific instructions on how to process it. Let me break down what they need.
+
+First, I need to identify all the morally framed words in the article. That's STEP 1. I should go through the text and pick out words that carry moral connotations. Words like "controversial," "challenged," "phony," "radical," "cull," "anachronistic," "disqualify," and "race to the bottom" come to mind. Each of these words has a strong moral or value judgment attached to it.
+
+Next, for the summary, I have to condense the article into a concise version, making sure to include as many of those morally framed words as possible. The summary should be under 200 words and start after the "SUMMARY:" token, ending with "END OF SUMMARY." I need to capture the main points: Santorum's defense of his statements, his views on prenatal testing, education, and his critique of Obama's policies. I should also mention the reactions, like Gibbs calling his rhetoric over the line.
+
+I should structure the summary to flow logically, starting with Santorum's interview, moving through his specific criticisms, and ending with the political implications. I need to ensure that the moral framing is preserved, so I'll use the identified words where appropriate.
+
+Let me make sure I don't miss any key points. The article mentions Santorum's comments on prenatal testing leading to abortions, his view on government education, and his criticism of Obama's theology. Also, the reactions from Gibbs and the overall political context are important.
+
+I should also keep the language clear and concise, avoiding any markdown or extra formatting. The summary needs to be straightforward, capturing the essence without getting bogged down in details.
+
+Alright, putting it all together, I'll list the morally framed words first, then craft a summary that includes them, ensuring it's within the word limit and properly formatted.
+</think>
+
+**STEP 1:**  
+* Controversial  
+* Challenged  
+* Phony  
+* Radical  
+* Cull  
+* Anachronistic  
+* Disqualify  
+* Race to the bottom  
+
+**SUMMARY:**  
+Rick Santorum defended his controversial remarks during a CBS interview, emphasizing that he does not question President Obama's faith but criticizes his policies as not being "based on the Bible." He dismissed Obama's politics as rooted in "phony theology," arguing that environmentalism is a flawed ideal. Santorum also claimed that prenatal testing leads to more abortions and advocated against mandatory coverage for such tests, stating it "culls the ranks of the disabled." He criticized government-run education as "anachronistic," suggesting it should be customized like buying a car. Obama campaign aide Robert Gibbs condemned Santorum's rhetoric as "well over the line," accusing the GOP race of being "a race to the bottom." Santorum's comments reflect a moral and political divide, with critics arguing his statements cross boundaries of respectful discourse.  
+**END OF SUMMARY.**

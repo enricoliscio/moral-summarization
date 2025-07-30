@@ -1,0 +1,72 @@
+Okay, so the user has given me a task where I need to act as a news summarizer and a moral expert. The goal is to summarize a news article while preserving the moral framing. Let me break this down.
+
+First, the user wants me to identify all the single words that are morally framed in the article. I'll need to go through the text and pick out words that carry moral connotations. Words like "strength," "protection," "morality," "freedom," "justice," etc., come to mind. I should list each of these under STEP 1, each on a new line with an asterisk.
+
+Next, I have to write a concise summary of the article, making sure to include as many of those morally framed words as possible. The summary needs to be under 200 words and should start with "SUMMARY:" and end with "END OF SUMMARY." I should ensure that the moral aspects are clearly reflected, highlighting Rubio's priorities and his vision for foreign policy.
+
+I also need to make sure the summary captures the key points: Rubio's three pillars, his focus on military funding, opposition to violations in international spaces, and his commitment to spreading freedom and helping vulnerable groups. I should keep it clear and concise, sticking to the main ideas without adding extra details.
+
+Let me review the article again to make sure I don't miss any morally charged words. Words like "strength," "protecting," "morality," "freedom," "justice," "vulnerable," "persecuted," "hear," "see," "desire," "oppose," "spread," "reinforce," "resist," "commitment," "advance," "rights," "truth," "cries," "suffering," "afflicted," "cry out," "hope," "liberty," "prosperity," "peace," "security," "integrity," "respect," "dignity," "oppression," "injustice," "freedom," "peace," "stability," "opposition," "invasions," "economic disruption," "subjugate," "transparency," "effectiveness," "foreign assistance," "vulnerable," "women," "religious minorities," "persecuted," "cries," "suffering," "desire," "freedom," "moral clarity," "core values," "self-defense," "national security," "preventive strikes," "saltier," "stupid stuff," "Don't Do Stupid Stuff," "Bush Doctrine," "Obama Doctrine," "adequately fund," "peace," "stability," "globalized world," "American strength," "American economy," "American core values," "American power," "international waters," "airspace," "cyberspace," "outer space," "economic disruption," "invade," "spread," "economic and political freedom," "reinforce alliances," "resist," "large powers," "subjugate," "smaller neighbors," "transparent," "effective," "foreign assistance programs," "advance," "rights," "vulnerable," "women," "religious minorities," "persecuted," "cries," "suffering," "desire," "freedom," "truth," "afflicted," "world," "cry out," "hope," "liberty," "prosperity," "peace," "security," "integrity," "respect," "dignity," "oppression," "injustice," "freedom," "peace," "stability," "opposition," "invasions," "economic disruption," "subjugate," "transparency," "effectiveness," "foreign assistance," "vulnerable," "women," "religious minorities," "persecuted," "cries," "suffering," "desire," "freedom."
+
+Wait, that's a lot. I need to make sure I don't repeat words unnecessarily. I'll list each unique morally framed word once. Then, in the summary, I'll incorporate as many as possible without making it redundant.
+
+I should also ensure the summary flows well and covers all the key points: Rubio's pillars, his focus on military funding, opposition to violations, spreading freedom, reinforcing alliances, resisting subjugation, and helping vulnerable groups. I'll structure it to first introduce Rubio and his speech, then outline his pillars, and finally his broader vision.
+
+I think that's a solid plan. Let me start by listing the morally framed words first, then craft the summary accordingly.
+</think>
+
+**STEP 1:**  
+* Strength  
+* Protecting  
+* Morality  
+* Freedom  
+* Justice  
+* Vulnerable  
+* Persecuted  
+* Hear  
+* See  
+* Desire  
+* Oppose  
+* Spread  
+* Reinforce  
+* Resist  
+* Commitment  
+* Advance  
+* Rights  
+* Truth  
+* Cries  
+* Suffering  
+* Afflicted  
+* Cry out  
+* Hope  
+* Liberty  
+* Prosperity  
+* Peace  
+* Security  
+* Integrity  
+* Respect  
+* Dignity  
+* Oppression  
+* Injustice  
+* Freedom  
+* Peace  
+* Stability  
+* Opposition  
+* Invasions  
+* Economic disruption  
+* Subjugate  
+* Transparency  
+* Effectiveness  
+* Foreign assistance  
+* Vulnerable  
+* Women  
+* Religious minorities  
+* Persecuted  
+* Cries  
+* Suffering  
+* Desire  
+* Freedom  
+
+**SUMMARY:**  
+Senator Marco Rubio, a 2016 presidential candidate, will outline his foreign policy vision, emphasizing American strength, economic protection, and moral clarity. Rubio prioritizes funding the military, opposing violations in international spaces, and spreading economic and political freedom. He vows to reinforce alliances, resist large powers subjugating smaller neighbors, and advance the rights of vulnerable groups, including women and religious minorities. Rubio’s speech highlights America’s role in providing hope, liberty, and prosperity to the afflicted, ensuring the world knows the American people hear their cries and desire their freedom. His approach contrasts with the Bush and Obama doctrines, focusing on moral clarity and national security.  
+**END OF SUMMARY.**

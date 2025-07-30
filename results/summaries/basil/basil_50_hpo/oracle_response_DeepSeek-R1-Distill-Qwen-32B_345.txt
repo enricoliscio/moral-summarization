@@ -1,0 +1,10 @@
+Alright, I need to help the user by summarizing the given news article while preserving the moral framing. The user specified that the summary should include as many of the morally framed words as possible. The words to focus on are: problem, invited, seek, sending, cause, strain, stunt.
+
+First, I'll read through the article to understand the main points. Susan Rice is criticizing Netanyahu's speech invitation by Boehner, saying it's destructive to U.S.-Israel relations. She mentions partisanship and how it's problematic. Obama won't meet Netanyahu before the speech, calling it inappropriate. Lawmakers oppose the speech, fearing it will strain talks on Iran's nuclear plans. Leahy called it a stunt.
+
+Now, I need to craft a concise summary. I should start by mentioning Rice's criticism and the invitation. Use "invited" and "problematic." Then, note the partisanship and its effect on the relationship. Include Obama's decision not to meet, using "inappropriate." Mention the lawmakers' concerns about causing strain. Finally, include Leahy's comment as a stunt.
+
+I need to keep it under 200 words and make sure all the key moral terms are included. Let me structure it step by step, ensuring each point flows logically and the moral framing is clear.
+</think>
+
+SUMMARY: Susan Rice, Barack Obama's national security adviser, criticized Israeli Prime Minister Benjamin Netanyahu's planned speech before a joint session of Congress, calling it "destructive" to U.S.-Israel relations. Rice noted that the invitation from Speaker John Boehner, two weeks before Netanyahu's election, injected "partisanship," which she deemed "problematic" and harmful to the bipartisan nature of the relationship. Obama has declined to meet Netanyahu before the speech, deeming it "inappropriate" given the timing near the Israeli elections. Several lawmakers oppose the speech, fearing it could "cause" additional "strain" on international talks about Iran's nuclear plans. Senator Patrick Leahy condemned the speech as a "tawdry and high-handed stunt." END OF SUMMARY.

@@ -1,0 +1,50 @@
+Okay, I need to help the user by summarizing the given news article while preserving the moral framing. Let me start by understanding the task. The user wants two steps: first, identifying all single words that are morally framed, and then writing a summary that includes as many of those words as possible.
+
+Looking at the article, I'll go through it paragraph by paragraph. The first paragraph mentions "leaks," "classified information," and "sensitive national security details." These seem to have moral implications because leaking classified info can compromise security.
+
+Next, Holder assigns prosecutors, which is a formal step, but the key moral words here might be "investigate" and "unauthorized disclosures." The article also mentions the President Obama's response, where he calls the accusations "offensive" and "wrong," which are clearly moral terms.
+
+Further down, Holder emphasizes that leaks "compromise the security of this country and all Americans" and says they "will not be tolerated." So "compromise," "security," and "tolerated" are moral points.
+
+The Congressional Intelligence Committee's concern is another moral angle, as they're worried about the leaks' impact. Senators Chambliss and Feinstein discuss a "special counsel," which relates to justice and accountability. McCain's suggestion that leaks could be for political gain adds another layer of moral judgment, implying possible misuse of power.
+
+In the summary, I need to include these words: leaks, classified, sensitive, unauthorized, compromise, security, tolerate, offend, wrong, justice, accountability, political gain, justice, accountability, undermine, integrity, threaten, trust, transparency, fail, duty, justice, accountability, fail, duty, justice, accountability.
+
+I should structure the summary to highlight the key points: Holder assigning prosecutors, the nature of the leaks, Obama's denial, the committee's concerns, and the political implications. I'll make sure to use the moral terms identified to frame the summary appropriately.
+
+Now, putting it all together, the summary should be concise, under 200 words, and include the identified moral words. I'll start by stating Holder's assignment, mention the leaks, include Obama's response, the committee's actions, and McCain's suggestion. I'll ensure that each moral term is included where appropriate to maintain the framing.
+</think>
+
+**STEP 1:**
+
+* leaks  
+* classified  
+* sensitive  
+* unauthorized  
+* compromise  
+* security  
+* tolerate  
+* offend  
+* wrong  
+* justice  
+* accountability  
+* political gain  
+* justice  
+* accountability  
+* undermine  
+* integrity  
+* threaten  
+* trust  
+* transparency  
+* fail  
+* duty  
+* justice  
+* accountability  
+* fail  
+* duty  
+* justice  
+* accountability  
+
+**SUMMARY:**  
+Attorney General Eric Holder has assigned two U.S. attorneys to investigate potential leaks of classified information, emphasizing that such unauthorized disclosures "compromise the security of this country and all Americans" and "will not be tolerated." President Obama denied accusations that the White House intentionally leaked classified material for political gain, calling such claims "offensive" and "wrong." Senators have expressed concerns, with some advocating for a special counsel to address the leaks, while others suggest legislative action to enhance investigatory authority. Critics, including Sen. John McCain, argue that the leaks may have been politically motivated and urge a thorough investigation to ensure justice and accountability. The situation highlights the tension between national security, transparency, and political integrity.  
+**END OF SUMMARY.**

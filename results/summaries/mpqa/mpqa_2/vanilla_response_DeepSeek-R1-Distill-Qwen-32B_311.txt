@@ -1,0 +1,16 @@
+Alright, the user has provided a query where they want me to act as a news summarizer assistant. The task is to summarize a given news article. Let me break this down.
+
+First, I need to understand the content of the article. It's about China's stance on the use of the term "axis of evil" in international relations. The article mentions Kong Quan, the Chinese Foreign Ministry spokesman, who disapproves of using such terms. He comments on statements by the U.S. leader regarding North Korea, Iran, and Iraq. Kong emphasizes the importance of evidence in anti-terrorism efforts and the need to follow UN principles and the Five Principles of Peaceful Co-existence.
+
+Next, I need to extract the key points. The main points are China's disapproval of the term, the context of the U.S. leader's statement, the emphasis on evidence-based anti-terrorism, and adherence to international principles.
+
+Now, I should structure the summary concisely. I'll start by stating China's disapproval, mention the U.S. leader's statement, highlight the need for evidence, and conclude with the principles they advocate. Keeping it under 200 words is crucial.
+
+I also need to ensure the summary starts with "SUMMARY:" and ends with "END OF SUMMARY." I should avoid any markdown and keep the language clear and direct.
+
+Let me put it all together, making sure each sentence flows logically and covers all essential points without unnecessary details. That should meet the user's requirements effectively.
+</think>
+
+SUMMARY:  
+China has expressed disapproval of the use of the term "axis of evil" in international relations, according to Chinese Foreign Ministry spokesman Kong Quan. He criticized the U.S. leader's recent description of North Korea, Iran, and Iraq as part of an "axis of evil," stating that such language is harmful and could lead to serious consequences. Kong emphasized that anti-terrorism efforts should be based on concrete evidence and should not be arbitrarily expanded. He stressed the importance of adhering to the purposes and principles of the United Nations Charter, the Five Principles of Peaceful Co-existence, and the principle of equality among nations to ensure global and regional stability.  
+END OF SUMMARY.

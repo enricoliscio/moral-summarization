@@ -1,0 +1,18 @@
+Okay, I need to help the user by summarizing the given news article while preserving the moral framing. The user is a news summarizer and a moral expert, so they want the summary to maintain the emotional and ethical tone of the original text. 
+
+First, I'll read through the article to understand the key points. The shooting happened in Springfield, Mo, on March 15, 2020. A gunman drove around shooting, crashed into a gas station, and killed five people, including himself and a police officer. Officer Walsh was a hero, rushing in to save others. There were multiple crime scenes, and the gunman's motives are unclear. 
+
+The user provided a list of morally framed words: shooting, killed, fired, opened, dead, injured, shot, rescue, died, rushing, protect, actions, injuries, shock, sorrow, shots, loss. I need to include as many of these as possible in the summary without making it sound forced.
+
+I'll start by outlining the main events: the gunman's random shooting, crashing into the store, the deaths, the injured officer, and the heroism of Walsh. I'll make sure to use words like "killed," "opened fire," "dead," "injured," "shot," "rescue," "died," "rushing," "protect," "actions," "injuries," "shock," "sorrow," "shots," and "loss."
+
+I need to keep the summary concise, under 200 words. I'll structure it to first describe the gunman's actions, then the police response, the casualties, and the emotional impact. I'll also mention the witness's account to add context about the randomness of the attack.
+
+I should avoid adding any personal opinions or interpretations beyond what's in the article. The focus is on summarizing the facts while maintaining the moral elements. 
+
+Putting it all together, I'll ensure the summary flows logically, starting from the beginning of the incident to the aftermath, highlighting the loss and the heroic actions of the officers.
+</think>
+
+SUMMARY:  
+A gunman opened fire randomly from his vehicle in Springfield, Mo, on March 15, 2020, killing five people, including himself and a police officer, before crashing into a convenience store. The dead included a store employee, two customers, and Officer Christopher Walsh, who died heroically while rushing to protect others. A second officer, Josiah Overton, was injured but not fatally. The gunman’s motives remain unclear. Police described the incident as a roving active shooter, with multiple shooting calls reported across the city. Witnesses reported seeing the gunman fire from his car, with one survivor describing the surreal experience of being targeted while driving home. The community expressed shock and sorrow over the loss, with police chief Paul Williams praising the officers’ bravery. The gunman, identified as Joaquin S. Roman, died from a self-inflicted gunshot. The incident left the city grappling with grief and admiration for the first responders.  
+END OF SUMMARY.

@@ -1,0 +1,14 @@
+Alright, so I'm trying to figure out how to approach this query. The user wants me to summarize a news article while preserving the moral framing. They provided the article and the specific morally framed words to use. 
+
+First, I need to understand the main points of the article. It's about the U.S. Treasury deciding to recognize same-sex marriages for federal taxes, even in states that don't. This follows the DOMA ruling. The decision affects tax benefits and penalties.
+
+Next, I should identify the key morally charged words: ruling, provides, assures, forced, burden, treated, have, denied, act, extended, recognize, decision. I need to make sure these are included in the summary.
+
+I'll start by outlining the main events: the Treasury's decision, the impact on same-sex couples, the historical context with DOMA, and the benefits and penalties involved. I'll also mention Edie Windsor's case as it's a significant part of the moral argument.
+
+I need to keep the summary concise, under 200 words, and ensure it flows well while incorporating the moral language. I'll structure it to highlight the positive outcomes for the LGBTQ+ community, emphasizing equality and justice.
+
+Finally, I'll make sure the summary starts with "SUMMARY:" and ends with "END OF SUMMARY." without any markdown, just plain text.
+</think>
+
+SUMMARY: The U.S. Department of the Treasury has ruled that same-sex married couples will be recognized for federal tax purposes regardless of their state of residence, a decision influenced by the Supreme Court’s overturning of the Defense of Marriage Act (DOMA). This ruling provides clarity and ensures that legally married same-sex couples can access federal tax benefits, responsibilities, and protections nationwide. It assures couples that their federal filing status remains consistent, even if they move to a state that does not recognize their marriage. The policy, which extends federal benefits to same-sex couples, was praised by advocates as a significant step toward equality. However, it also subjects them to the "marriage penalty," a higher tax burden for some joint filers. The decision, which recognizes same-sex marriages based on the state where the wedding took place, marks a milestone in the fight against discriminatory laws like DOMA, which forced Edie Windsor to pay estate taxes after her wife’s death. The new policy ensures that same-sex couples are treated equally under federal tax law, regardless of their state of residence. END OF SUMMARY.

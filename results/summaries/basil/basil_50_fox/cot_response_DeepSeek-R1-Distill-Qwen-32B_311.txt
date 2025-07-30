@@ -1,0 +1,30 @@
+Okay, so I need to help this user by summarizing a news article while preserving the moral framing. Let me start by understanding the task. The user provided a detailed news article about Susan Rice's warning regarding Netanyahu's visit to Capitol Hill. They want me to first identify all the single words that are morally framed and then write a concise summary that includes as many of those words as possible.
+
+First, I'll go through the article and look for words that carry a moral connotation. Words like "destructive," "acrimony," "no-no," "strained," "partisan," "derailing," "skepticism," "concessions," "affront," "disrespect," "compromised," "misleading," and "undermining" stand out. These words are used to convey negative judgments or moral assessments in the context of the article.
+
+Next, I need to write a summary that's no longer than 200 words. I should make sure to include these morally framed words where appropriate. The summary should capture the main points: Rice's warning, Netanyahu's visit without consulting the White House, Boehner's invitation, the impact on U.S.-Israel relations, Netanyahu's refusal to meet with Democrats, the nuclear negotiations, and the political fallout.
+
+I should structure the summary to highlight the key players and their actions, using the moral terms to convey the tensions and conflicts. I'll make sure to mention Rice's concern about the visit being destructive, the partisanship involved, Netanyahu's refusal to meet with Democrats, and the broader implications for U.S. foreign policy and the nuclear deal with Iran.
+
+I also need to ensure the summary flows well and stays within the word limit. I'll check each sentence to see if it's necessary and if it includes the moral framing words without making it sound forced. It's important to maintain the original tone and the moral perspective presented in the article.
+
+Finally, I'll review the summary to make sure it accurately reflects the article's content and that all the morally framed words are appropriately included. This way, the user gets a concise yet comprehensive summary that preserves the original moral framing.
+</think>
+
+### STEP 1:
+* destructive
+* acrimony
+* no-no
+* strained
+* partisan
+* derailing
+* skepticism
+* concessions
+* affront
+* disrespect
+* compromised
+* misleading
+* undermining
+
+### SUMMARY:
+National Security Adviser Susan Rice warned that Israeli Prime Minister Benjamin Netanyahu’s upcoming Capitol Hill address would be a "destructive" force in U.S.-Israel relations, adding political acrimony to an already contentious visit. Netanyahu, invited by Republican House Speaker John Boehner without consulting the White House, aims to address Iran's nuclear threat amid negotiations between the U.S. and Tehran. Rice criticized the move, calling it a "no-no" in diplomacy and warning it could strain the bipartisan relationship between the U.S. and Israel. Netanyahu also refused to meet with Senate Democrats, fearing it would compound perceptions of partisanship. U.S. officials suspect the visit is aimed at derailing a nuclear deal with Iran, a key Obama administration priority. Netanyahu opposes concessions that could leave Iran close to building a nuclear weapon. The visit has sparked political tensions, with Vice President Biden and several Democrats skipping the event, while Republicans like Lindsey Graham criticized Biden’s absence as disrespectful. Netanyahu’s refusal to meet with Democrats further disappointed those who have long supported Israel. The nuclear negotiations, showing progress this week, remain a focal point of the dispute, with Israel warning against a deal that could make Iran a nuclear threshold state. END OF SUMMARY.

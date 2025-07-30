@@ -1,0 +1,36 @@
+<think>
+Okay, so I need to help this user with their query. They provided a news article and specific instructions on how to process it. First, I should understand what they're asking for. They want me to act as a news summarizer and a moral expert. The task has two main parts: identifying morally framed words and summarizing the article while preserving those moral terms.
+
+Looking at the instructions, step one is to find all single words in the text that carry moral framing. I need to go through the article and pick out words that have a moral connotation. These could be words like "discrimination," "liberty," "tolerance," etc. I should list each of these words, each on a new line, starting with an asterisk.
+
+Next, the second part is to write a summary of the article. The summary needs to be concise, under 200 words, and include as many of the identified moral words as possible. The summary should capture the main points: Pence's stance, the law's intent, the backlash, and the implications. I need to make sure the moral framing is preserved, so I'll include words like "discrimination," "liberty," "tolerance," "backlash," "protesters," "discrimination," "sanctioned," "controversy," "expanded," "opposition," and "concerned."
+
+I should start by reading the article carefully to identify the key points. Pence signed a Religious Freedom Restoration Act, which is causing controversy. Critics say it allows discrimination against gays and lesbians. Pence is trying to clarify the law's intent, saying it's about religious liberty, not discrimination. There's a backlash with protests and businesses pulling out. The article mentions the impact on the NCAA tournament and Pence's political considerations.
+
+Now, for the moral words, I'll go through the article again. Words like "discrimination," "liberty," "tolerance," "backlash," "protesters," "discrimination" again, "sanctioned," "controversy," "expanded," "opposition," "concerned." These all carry moral weight in the context of the article.
+
+In the summary, I need to weave these words naturally. I'll mention Pence's defense of religious liberty, the criticism about discrimination, the protests, and the business backlash. I'll also note the NCAA's concern and the political implications for Pence.
+
+I should ensure the summary is clear and concise, hitting all the main points without being too lengthy. I need to make sure it's under 200 words, so I'll have to be precise with my language.
+
+Putting it all together, I'll start with STEP 1, list each moral word, then move on to the SUMMARY section, making sure to include those words and cover all the key aspects of the article. I'll end with the tokens as specified.
+
+I think that's a solid approach. I'll make sure to double-check the word count and the inclusion of all necessary moral terms to meet the user's requirements accurately.
+</think>
+
+**STEP 1:**  
+* Discrimination  
+* Liberty  
+* Tolerance  
+* Backlash  
+* Protesters  
+* Discrimination  
+* Sanctioned  
+* Controversy  
+* Expanded  
+* Opposition  
+* Concerned  
+
+**SUMMARY:**  
+Gov. Mike Pence of Indiana faced backlash over the state’s Religious Freedom Restoration Act, which critics argue sanctions discrimination against gays and lesbians. Pence defended the law, emphasizing religious liberty and rejecting claims it promotes discrimination. He stated it was not a mistake to sign the bill and aimed to clarify its intent through legislation. However, he did not address whether the law would protect businesses refusing service to same-sex couples. Thousands protested, and major companies halted business ties with Indiana, including Salesforce.com and Angie’s List. The NCAA also expressed concern over the law’s implications. Pence, weighing re-election or a presidential bid, linked the law to federal legislation but critics noted its broader potential for discrimination. Indiana lacks protections for gays and lesbians, a stance Pence refused to change. The controversy highlights a clash between religious freedom and anti-discrimination values.  
+**END OF SUMMARY.**

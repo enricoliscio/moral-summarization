@@ -1,0 +1,14 @@
+Okay, so I need to help the user by summarizing a news article while preserving the moral framing. Let me read the article first.
+
+The article talks about a mass shooting at a church in Texas, where 26 people were killed. The shooter is Devin Kelley, a former Air Force member with a history of domestic violence. He was court-martialed, but the Air Force didn't report his case to a federal database, allowing him to buy a gun. The motive seems to be a domestic dispute with his mother-in-law, who was a church member. The article also mentions activists protesting for gun control.
+
+Now, the user wants a summary that's no longer than 200 words, using "SUMMARY:" and "END OF SUMMARY." tokens. I need to make sure the moral elements are kept, like the failure of the Air Force to report his history, which led to the tragedy, and the activists' protest highlighting the need for stricter gun laws.
+
+I should structure the summary to include the key points: the shooting, the shooter's background, the Air Force's oversight, the domestic dispute motive, and the activists' response. I need to be concise but cover all these aspects without going over the word limit.
+
+Let me draft it step by step. Start with the event, mention the shooter's background and his history, then the Air Force's failure, the motive, and end with the activists' action. That should cover the moral framing as the author intended.
+
+I think that's a solid approach. Now, I'll put it all together in a concise summary.
+</think>
+
+SUMMARY: A mass shooting at the First Baptist Church in Sutherland Springs, Texas, left 26 dead, including children, the elderly, and a pregnant woman. The suspected shooter, Devin Patrick Kelley, a 26-year-old former U.S. Air Force member, had a history of domestic violence. In 2012, he was court-martialed for violently attacking his wife and stepson, leading to a yearlong confinement and discharge in 2014. However, the Air Force failed to report his court-martial to a federal database, allowing him to legally purchase an assault rifle in 2016. Authorities linked the attack to a domestic dispute with his mother-in-law, a church member, though it was not racially or religiously motivated. Meanwhile, activists from Gays Against Guns were arrested during a protest advocating for stricter gun control. END OF SUMMARY.

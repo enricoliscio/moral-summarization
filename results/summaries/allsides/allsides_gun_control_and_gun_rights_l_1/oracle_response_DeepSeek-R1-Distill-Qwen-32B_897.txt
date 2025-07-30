@@ -1,0 +1,14 @@
+Alright, so I've got this query where the user wants me to summarize a news article while preserving the moral framing. They provided the article and a list of morally framed words. The user also mentioned they're a news summarizer and a moral expert. 
+
+First, I need to understand the article's main points. It's about mayors dealing with gun violence, especially mass shootings, and how they're taking action. The author connects this to personal family history, emphasizing the importance of youth involvement in solving the issue.
+
+Next, I should identify the key morally charged words from the list. Words like "shootings," "tragedy," "agonizing," "violence," "malice," "intolerance," "obsession," "action," "empowering," "steps," "loss," "killed," "fight," etc., are central to the article's moral stance.
+
+I need to make sure the summary includes these words without making it sound forced. The summary should be concise, under 200 words, and structured to highlight the mayors' actions, the personal connection, and the role of young people.
+
+I'll start by stating the issue of mass shootings and gun violence, then mention the mayors' efforts. I'll connect it to the author's family history to show the personal stake. Finally, I'll emphasize the youth's role in driving change. I'll make sure each sentence includes as many of the key moral terms as possible without losing clarity.
+
+I also need to ensure the summary flows well and maintains the original's emotional weight. I'll avoid technical jargon and keep the language accessible. The goal is to capture the essence and the moral urgency of the original article succinctly.
+</think>
+
+SUMMARY: The article highlights the moral and emotional burden faced by mayors as they grapple with the aftermath of mass shootings and gun violence in their communities. These tragedies, often driven by racist ideology, malice toward immigrants, and hate speech, have created a "grim circle" of leaders tasked with healing their cities. The author emphasizes the need for action beyond NRA talking points, focusing on empowering young people to address gun violence and intolerance. Drawing on personal family history, the author connects the pain of these events to their ancestors' struggles for freedom and safety, highlighting the shared American experience. The mayors are taking steps to keep weapons out of dangerous hands and involve youth in finding solutions, rejecting the normalization of gun violence. The author calls for courage and meaningful action to build a nation where everyone feels safe, honoring the legacy of those who fought for a better future. END OF SUMMARY.

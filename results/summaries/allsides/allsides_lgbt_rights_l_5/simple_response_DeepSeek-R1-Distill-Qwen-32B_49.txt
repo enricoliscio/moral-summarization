@@ -1,0 +1,15 @@
+Okay, so the user has given me a news article and wants a summary that preserves the moral framing. I need to make sure I understand the article first. It's about the Obama administration allowing same-sex spouses of federal employees to access benefits like health insurance and retirement accounts. The Supreme Court had overturned part of DOMA, which is a big deal because it affects federal recognition of same-sex marriages.
+
+The user is asking for a summary, but they specifically mention preserving the moral framing. That means I should highlight the justice and equality aspects. The article mentions President Obama and other officials supporting this move, emphasizing equal treatment under federal law.
+
+I need to condense this into 200 words or less. I'll start by stating the main action: the administration expanding benefits. Then, mention the Supreme Court's decision. Include the details about the benefits and the administration's stance on state laws. Highlight Obama's and Holder's statements on equality and justice.
+
+I should make sure to include the key points: the benefits available, the administration's approach to state laws, and the quotes that emphasize equality. Also, note that the changes are a significant step towards equality, as mentioned by Holder.
+
+I'll structure the summary to flow from the announcement, the background of the Supreme Court ruling, the details of the benefits, the administration's position on state laws, and the supportive statements from Obama and Holder. Keeping it concise but covering all these aspects should meet the user's requirements.
+</think>
+
+SUMMARY:  
+The Obama administration has announced that same-sex spouses of federal employees can now access benefits such as health insurance, vision care, and retirement accounts, following the Supreme Court's overturning of a key provision of the Defense of Marriage Act (DOMA). The Office of Personnel Management (OPM) issued guidance ensuring legally married same-sex couples have equal access to federal benefits, regardless of state laws. President Obama emphasized the importance of treating all married couples equally under federal law, while Attorney General Eric Holder praised the move as a step toward equal protection under the law. The administration is working to implement the ruling swiftly, with Defense Secretary Chuck Hagel also committing to expanding benefits for same-sex couples in the military. The changes mark a significant step toward equality, benefiting thousands of federal employees and their families.  
+
+END OF SUMMARY.

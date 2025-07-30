@@ -1,0 +1,36 @@
+Alright, so the user has given me a task to summarize a news article while preserving the moral framing. They also want me to identify the morally framed words first. Let me break this down.
+
+First, I need to understand what morally framed words are. These are words that carry a positive or negative connotation, indicating approval or disapproval. For example, "unfair," "cost," "illegal," "crime," etc.
+
+Looking at the article, I'll go through each sentence to pick out these words. Words like "vowed," "unfair," "cost," "illegal," "crime," "reward," "insane," "sane," "controversial," "benefits," "clear," "closely review," "magnet," "condemnation," "authority," and "unconstitutional" stand out as they carry moral weight.
+
+Next, I need to summarize the article. The main points are Trump's vow to end birthright citizenship, his reasoning, the 14th Amendment context, criticism from Democrats, support from some Republicans, and the legal challenges involved. I should include the morally framed words to maintain the original tone.
+
+I'll start by mentioning Trump's vow, the cost and unfairness he cites, the 14th Amendment context, Reid's past comments, and the mixed reactions from Congress. I'll also note the Democrats' condemnation and the legal implications. Keeping it under 200 words is crucial, so I'll be concise but include all key points with the moral terms.
+
+I should ensure that the summary flows logically, connecting Trump's actions, the arguments for and against, and the political reactions. Using the identified moral words will help convey the original article's framing effectively.
+
+Finally, I'll structure the response with the STEP 1 listing each moral word and then the SUMMARY, making sure to end with the specified tokens. I'll double-check the word count to stay within the limit and ensure clarity and coherence in the summary.
+</think>
+
+**STEP 1:**  
+* Vowed  
+* Unfair  
+* Cost  
+* Illegal  
+* Crime  
+* Reward  
+* Insane  
+* Sane  
+* Controversial  
+* Benefits  
+* Clear  
+* Closely review  
+* Magnet  
+* Condemnation  
+* Authority  
+* Unconstitutional  
+
+**SUMMARY:**  
+President Trump vowed to end birthright citizenship, arguing it is "unfair" and costs the U.S. billions. He claimed the 14th Amendment does not apply to children of non-citizens, citing its wording. Critics, including former Senate Leader Harry Reid, who initially opposed the policy but later reversed his stance, were referenced by Trump to justify his stance. Trump suggested using an executive order to end the practice, though many scholars argue this would require a constitutional amendment. Republicans were divided, with some like Sen. Lindsey Graham supporting legislation to address the issue, while others, like Speaker Paul Ryan, criticized the idea of using an executive order. Democrats condemned Trump's move, with Nancy Pelosi calling it "unconstitutional." Trump later shifted his stance, stating the issue would be "settled by the Supreme Court." The debate highlights the contentious nature of birthright citizenship, with critics arguing it encourages illegal immigration and supporters emphasizing its legal and moral implications.  
+**END OF SUMMARY.**

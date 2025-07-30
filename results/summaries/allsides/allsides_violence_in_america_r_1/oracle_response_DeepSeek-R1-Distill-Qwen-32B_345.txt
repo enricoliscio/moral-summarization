@@ -1,0 +1,14 @@
+Alright, I need to help the user by summarizing the given news article while preserving the moral framing. The user is acting as a news summarizer and a moral expert, so the summary should reflect the author's perspective on the events.
+
+First, I'll read through the article to understand the main points. The key elements are Attorney General William Barr's statement about 51 arrests related to federal crimes during the protests over George Floyd's death. He mentions three groups: peaceful protesters, looters, and extremists like Antifa. He also talks about foreign actors involved and addresses police misconduct concerns.
+
+Next, I need to identify the morally framed words the author used. These include words like crimes, rioting, death, restore, quell, violence, hijacked, etc. I should make sure to include as many of these as possible in the summary without making it too long.
+
+I'll structure the summary by highlighting the main actions: the arrests, the categorization of protest groups, the mention of Antifa and foreign actors, and Barr's stance on police misconduct and constitutional rights. I should also include his response to Trump's visit to the church, emphasizing his view that it wasn't a political act.
+
+I need to keep the summary concise, under 200 words, so I'll focus on the essential points without getting into too much detail. I'll ensure that the moral framing is maintained by using the specified words and reflecting the author's perspective on the events.
+
+Finally, I'll start with the summary token, include all the key points with the moral terms, and end with the specified token. I'll make sure the flow is logical and the summary accurately represents the article's content and tone.
+</think>
+
+SUMMARY: Attorney General William Barr reported 51 federal arrests tied to violent rioting during protests over George Floyd's death, emphasizing that such acts are crimes, not First Amendment rights. He described three groups: peaceful protesters, looters, and extremist agitators exploiting the chaos for violent agendas, including arson, looting, assaults, and murder. Barr accused Antifa and other extremist groups, as well as foreign actors, of exacerbating violence. He acknowledged concerns about police misconduct and injustices in the criminal justice system, pledging to address these issues. Barr also defended President Trump's visit to St. John’s Church, stating it was not a political act but a reflection of the president’s role as the nation’s leader. The attorney general stressed the need for constitutional protection and equal justice, while federal agencies work to quell violence and restore order. END OF SUMMARY.

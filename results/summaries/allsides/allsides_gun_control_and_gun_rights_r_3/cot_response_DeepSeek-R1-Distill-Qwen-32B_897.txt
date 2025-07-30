@@ -1,0 +1,44 @@
+Okay, so the user has given me a query where they want me to act as a news summarizer assistant and a moral expert. They provided a news article about a school shooting and outlined specific steps to follow. First, I need to identify all the single words that are morally framed. Then, I have to write a summary preserving those moral words.
+
+Alright, let me start by reading the article carefully. It's about a shooting at an Indiana middle school where a student was detained after a shooting that injured a teacher and a student. The suspect had two handguns and the situation was resolved quickly. A teacher tackled the shooter, saving more lives. The community is praying, and there are mentions of fear, bravery, and the responsibility to keep kids safe.
+
+For step one, I need to find the morally framed words. These are words that carry a moral judgment or imply a value. Let me go through the article again. Words like "critical," "injured," "families," "threat," "monitoring," "incident," "victims," "bravery," "courage," "sacrifice," "fear," "crisis," "responsibility," "unconscionable," "horrible," "terrible," "praying," "thanks," "thoughts," "safety," "difficult," "worried," "scared," "crisis," "responsibility," "unconscionable," "horrible," "terrible," "praying," "thanks," "thoughts," "safety," "difficult," "worried," "scared," "crisis," "responsibility," "unconscionable," "horrible," "terrible," "praying," "thanks," "thoughts," "safety," "difficult," "worried," "scared."
+
+Wait, some of these might overlap or be repeated. I should list each unique word once. Let me make sure I don't miss any. Critical, injured, families, threat, monitoring, incident, victims, bravery, courage, sacrifice, fear, crisis, responsibility, unconscionable, horrible, terrible, praying, thanks, thoughts, safety, difficult, worried, scared.
+
+Now, moving on to the summary. I need to include as many of these moral words as possible while keeping it concise, under 200 words. I should structure the summary to cover the main points: the shooting incident, the suspect, the teacher's brave action, the injuries, the community's response, and the broader implications about school safety.
+
+I'll start by stating the incident, mention the suspect and the injuries. Then, highlight the teacher's bravery, the quick resolution, and the community's prayers and support. I should also touch on the broader issue of school safety and the emotional impact on families.
+
+I need to make sure the summary flows well and includes the moral words without making it sound forced. Let me draft it step by step, ensuring each key point is covered and the moral framing is preserved.
+</think>
+
+**STEP 1:**  
+* Critical  
+* Injured  
+* Families  
+* Threat  
+* Monitoring  
+* Incident  
+* Victims  
+* Bravery  
+* Courage  
+* Sacrifice  
+* Fear  
+* Crisis  
+* Responsibility  
+* Unconscionable  
+* Horrible  
+* Terrible  
+* Praying  
+* Thanks  
+* Thoughts  
+* Safety  
+* Difficult  
+* Worried  
+* Scared  
+
+**SUMMARY:**  
+A male student was detained after a shooting at Noblesville West Middle School in Indiana, leaving a teacher and student critically injured. The suspect, who had two handguns, was quickly subdued by a teacher who tackled him, preventing further harm. The injured teacher, Jason Seaman, was shot multiple times and underwent surgery. Authorities emphasized there was no ongoing threat but noted a threat had been directed at Noblesville High School. The community, including politicians and the Colts organization, expressed prayers and support for the victims and first responders. The incident sparked concerns about school safety and the need to protect students from violence. Parents, like Erica Higgins, rushed to reunite with their children, while students like Chris Navarro recounted the fear and chaos of the event. The shooting raised questions about when enough violence will be enough, highlighting the responsibility to ensure student safety.  
+
+**END OF SUMMARY.**

@@ -1,0 +1,14 @@
+Okay, I need to help the user by summarizing the given news article while preserving the moral framing. The user is a news summarizer assistant and a moral expert, so I should focus on the key points and the ethical implications presented in the article.
+
+First, I'll read the article carefully. It's about President Trump criticizing social media companies for discriminating against Republican and conservative voices. He mentions that some voices are being destroyed and suggests letting everyone participate, regardless of being good or bad. He also accuses the companies of closing down opinions on the right while not acting against others. He brings up censorship as dangerous and impossible to police, and mentions fake news from CNN and MSNBC, which he watches but with skepticism. He doesn't name anyone but references the recent banning of Alex Jones.
+
+I need to capture Trump's main arguments and the moral stance he's taking. He's arguing against censorship and for free speech, even if it includes bad actors. He's framing the issue as unfair targeting of conservatives and a threat to democracy.
+
+I should structure the summary to highlight these points: Trump's criticism, his solution of letting everyone participate, his concern about censorship, the mention of fake news, and the context of recent bans like Alex Jones.
+
+I need to keep it concise, under 200 words, and ensure it reflects the moral framing by emphasizing the issues of fairness, censorship, and free speech.
+
+Now, I'll draft the summary, making sure to include all these elements without exceeding the word limit.
+</think>
+
+SUMMARY: President Donald Trump criticized social media companies on Twitter, accusing them of "totally discriminating against Republican/Conservative voices" and "closing down the opinions of many people on the RIGHT." He argued that too many voices, both good and bad, are being suppressed, and suggested letting everyone participate without censorship. Trump warned that censorship is "a very dangerous thing & impossible to police," while also attacking "fake news" outlets like CNN and MSNBC, which he admitted to watching but with skepticism. Although he did not name specific individuals, his comments came amid recent actions by tech companies banning conspiracy theorist Alex Jones and his website Infowars. Trump's tirade reflects his ongoing criticism of social media platforms for allegedly stifling conservative viewpoints, while advocating for unrestricted participation in online discourse. END OF SUMMARY.

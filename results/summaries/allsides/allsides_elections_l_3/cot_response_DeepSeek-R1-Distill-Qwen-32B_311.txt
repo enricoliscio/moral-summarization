@@ -1,0 +1,61 @@
+Okay, so I need to help the user by summarizing this news article while preserving the moral framing. First, I'll go through the article to identify all the morally charged words. The user provided a list, so I'll check each word to see if it's relevant.
+
+Next, I have to write a concise summary, keeping it under 200 words. I need to make sure that the moral terms are included to maintain the author's perspective. I'll focus on the key points: Trump's rally, the groping tape, Republican defections, his claims about Clinton, the WikiLeaks issue, and the impact on his campaign.
+
+I should structure the summary to highlight Trump's actions and the reactions, using the identified moral words. I'll make sure each paragraph is clear and sticks to the main events without getting bogged down in details.
+
+Finally, I'll ensure the summary flows well and accurately reflects the article's content, including the political implications and the state of Trump's campaign post-scandal.
+</think>
+
+### STEP 1:
+* Disaster  
+* Groping tape  
+* Republican defections  
+* Plummeting poll ratings  
+* Sexual assault  
+* Offensive comments  
+* Dramatic headway  
+* Special prosecutor  
+* Alleged crimes  
+* WikiLeaks  
+* US government secrets  
+* Clinton’s campaign chairman  
+* Email  
+* Benghazi  
+* Legitimate  
+* Failed to protect  
+* American personnel  
+* Phony  
+* Political correctness  
+* Braggadocio  
+* Hardcore supporters  
+* Calamity  
+* Hysterical cheering  
+* Republican nominee  
+* Campaign trouble  
+* Profound unease  
+* Senior Republicans  
+* Speaker of the House  
+* Dumped Trump  
+* Opinion polls  
+* Clinton lead  
+* Swing states  
+* Solidifying lead  
+* Campaign advantage  
+* Obama backing  
+* McCain  
+* Publicly account  
+* Disparaging  
+* Prisoner of war  
+* Demean  
+* Women  
+* Part company  
+* Write in  
+* Conservative Republican  
+* Lindsey Graham  
+
+---
+
+### SUMMARY:
+Donald Trump, despite facing a moral and political crisis, held a rally in Pennsylvania, ignoring the fallout from the groping tape, Republican defections, and plummeting poll ratings. He focused on attacking Hillary Clinton, vowing to appoint a special prosecutor to investigate her alleged crimes, which sparked cheers from his supporters. Trump praised WikiLeaks, citing inaccurate Russian reports to accuse Clinton of negligence in the Benghazi attack, further alienating critics. His campaign, however, remains in disarray, with senior Republicans distancing themselves, including Paul Ryan, who effectively dumped Trump. Clinton holds an 11-point lead nationally, with strong gains in swing states like Ohio. McCain, a former Republican nominee, publicly distanced himself from Trump, citing his offensive comments about women and others. Trump's moral failings and political missteps continue to undermine his campaign.  
+END OF SUMMARY.

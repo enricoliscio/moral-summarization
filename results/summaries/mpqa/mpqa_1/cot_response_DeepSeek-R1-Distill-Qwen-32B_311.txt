@@ -1,0 +1,25 @@
+Okay, I need to help the user by summarizing a news article while preserving the moral framing. The user provided a specific structure, so I should follow that closely. 
+
+First, I need to identify all the morally framed words in the article. Looking through the text, words like "interfere," "committed," "fighting," "domestic measures," "formally renounced," "ratification," "reduce," "sources," and "problem" stand out. These words carry moral connotations, indicating actions or attitudes towards responsibility and environmental issues.
+
+Next, I have to write a concise summary. The summary should include these moral terms and be under 200 words. I'll start by stating Brazil's hope that the US won't interfere. Then, mention President Cardoso's belief in the US's commitment despite renouncing the Kyoto Protocol. I'll note that Brazil is pushing for ratification and aims to reduce emissions. Finally, I'll include the statistics on greenhouse gas sources to highlight the global context.
+
+I need to ensure the summary flows well and covers all key points without losing the moral framing. Let me piece it together step by step, making sure each morally framed word is included where appropriate.
+</think>
+
+**STEP 1:**
+
+* interfere
+* committed
+* fighting
+* domestic measures
+* formally renounced
+* ratification
+* reduce
+* sources
+* problem
+
+**SUMMARY:**
+
+Brazil hopes the United States will not interfere in international negotiations to control greenhouse gas emissions. President Fernando Henrique Cardoso expressed confidence that the U.S. is committed to joining global efforts to address the problem, despite having formally renounced the Kyoto Protocol. He emphasized that the U.S. will adopt domestic measures to combat the issue. Cardoso's remarks came as he urged Brazil's congress to ratify the Kyoto Protocol and commit to reducing the country's greenhouse emissions by 5.2% by 2012. The world's largest sources of greenhouse gases include the United States (36%), Russia (17.4%), and others.  
+END OF SUMMARY.

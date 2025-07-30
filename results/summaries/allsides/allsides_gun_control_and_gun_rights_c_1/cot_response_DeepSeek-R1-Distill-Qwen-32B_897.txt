@@ -1,0 +1,30 @@
+Alright, I need to help the user with their query. They want me to act as a news summarizer and a moral expert. The task has two parts: first, identifying morally framed words, and second, summarizing the article while preserving those moral frames.
+
+Starting with the first step, I'll go through the article and pick out words that carry moral connotations. Words like "randomly," "crashed," "opened fire," "killed," "injured," "courageous," "hero," "bravery," "grateful," "sorrow," "surreal," and "grieving." These words convey judgment or emotion, so they fit the moral framing.
+
+Next, for the summary, I need to condense the article into 200 words or less, keeping the morally charged words. I'll focus on the key events: the shooter's actions, the casualties, the officers' bravery, and the community's reaction. I'll structure the summary to highlight the tragedy and the heroic response, ensuring it's concise and captures the moral aspects.
+
+I should also make sure the summary starts after "SUMMARY:" and ends with "END OF SUMMARY." I need to avoid markdown and keep it natural. Let me piece together the main points, ensuring all the moral words are included without making the summary too lengthy.
+
+Double-checking to ensure I haven't missed any important details or moral words. The shooter's random firing, the crash, the deaths, the officers' heroic actions, and the community's grief are all key elements. I'll make sure each of these is mentioned succinctly.
+
+Finally, I'll review the summary to ensure it flows well and accurately reflects the article's content while preserving the moral framing. That should meet the user's requirements effectively.
+</think>
+
+**STEP 1:**  
+* Randomly  
+* Killed  
+* Injured  
+* Motives  
+* Unfair  
+* Hero  
+* Bravery  
+* Heroic  
+* Grateful  
+* Sorrow  
+* Surreal  
+* Grieving  
+
+**SUMMARY:**  
+A tragic shooting unfolded in Springfield, Mo., on March 15, 2020, when a gunman fired randomly from his vehicle, killing a police officer, two citizens, and himself, while injuring another officer and a bystander. The shooter, identified as Joaquin S. Roman, crashed into a convenience store, where he opened fire, leaving five dead, including a store employee and two customers. Police Chief Paul Williams described the incident as a "roving active shooter" moving through the city. The gunman’s motives remain unclear. Officer Christopher Walsh, who died while rescuing a victim, was hailed as a hero. Another officer, Josiah Overton, was injured but survived. The community expressed sorrow and gratitude for the first responders. A witness, Casey Parrish, described the surreal experience of being targeted by the gunman while driving home. The incident deeply impacted the police department, which is still grieving and investigating.  
+**END OF SUMMARY.**

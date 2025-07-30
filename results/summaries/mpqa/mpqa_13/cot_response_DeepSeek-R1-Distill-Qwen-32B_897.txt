@@ -1,0 +1,34 @@
+Alright, so I need to help the user with their query. They provided a news article and specific instructions on how to process it. Let me break this down step by step.
+
+First, the user wants me to act as a news summarizer and a moral expert. My task is to summarize the given text while preserving the moral framing the author used. They've also given a structure to follow, which includes two main steps: identifying morally framed words and then writing the summary.
+
+Looking at the first part, I need to identify all single words that are morally framed. The user mentioned to label this as "STEP 1:" and list each word with a * before them on new lines. I should go through the article and pick out words that carry moral connotations. Words like "rejected," "outcry," "voluntary," "mandatory," and "hindered" come to mind because they imply judgment or evaluation.
+
+Next, for the summary, I have to condense the article into a concise version, keeping the morally framed words intact. The summary should be no more than 200 words and start after the "SUMMARY:" token, ending with "END OF SUMMARY." I need to ensure that the moral framing is preserved, so I'll include those identified words where appropriate.
+
+I should also make sure the summary flows well and covers all the key points: the climate talks between the US and Japan, the discussion on cooperation, the US's new plan, Japan's stance on the Kyoto Protocol, President Bush's decision, and the international reaction.
+
+Wait, I need to make sure I'm not missing any other morally charged words. Let me read the article again. "Reject," "outcry," "voluntary" vs. "mandatory," "hindered." Those seem to be the main ones. I think I've got them all.
+
+Now, structuring the summary. I'll start by mentioning the talks ending, then the discussions on cooperation. Then, I'll note the US's new plan with voluntary limits, contrast that with Japan's intention to ratify Kyoto. I'll include President Bush's rejection and the resulting outcry, highlighting the moral implications.
+
+I should keep sentences clear and concise, ensuring that the summary is under 200 words. Let me check the word count as I draft it. Okay, looks like it's within the limit.
+
+Finally, I'll present the summary after the specified tokens, making sure it's properly formatted and ends correctly. I think that covers everything the user asked for. I'll double-check to ensure all steps are followed and the moral framing is preserved as required.
+</think>
+
+### STEP 1:  
+* Representatives  
+* Discuss  
+* Co-operating  
+* Prevent  
+* Voluntary  
+* Mandatory  
+* Reject  
+* Outcry  
+* Hinder  
+
+---
+
+### SUMMARY:  
+US-Japan climate talks concluded in Tokyo after two days of discussions on combating global warming through scientific and technological cooperation. The meeting followed President George Bush's announcement of a US plan favoring voluntary greenhouse gas limits tied to economic growth, replacing mandatory targets. The US emphasized promoting research and development in climate change, while Japan reaffirmed its commitment to ratifying the Kyoto Protocol. Bush's rejection of the 1997 Kyoto Protocol last year sparked international outcry, as critics argued it hindered US economic growth. END OF SUMMARY.

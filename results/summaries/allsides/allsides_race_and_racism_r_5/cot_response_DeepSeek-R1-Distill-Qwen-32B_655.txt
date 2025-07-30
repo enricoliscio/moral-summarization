@@ -1,0 +1,36 @@
+Alright, so I need to help this user with their query. They want me to summarize a news article while preserving the moral framing. The user provided a detailed article about President Obama's comments on race relations and other issues. 
+
+First, I need to break down the task. They have two main steps: identifying morally framed words and then writing a summary. 
+
+Starting with Step 1, I need to find all single words in the article that carry moral connotations. I'll go through the text and pick out words that express values, judgments, or ethical considerations. Words like "optimistic," "fatal," "retaliating," "regressed," "riot," "violent," "depressing," "tension," "demented," "hate," "safety," "anxiety," "inequality," and "booster." These words are key because they reflect the moral aspects of the situation.
+
+Next, for the summary, I need to condense the article into 200 words, making sure to include as many of these moral words as possible. I should focus on the main points: Obama's call for optimism despite the tragic events, his comments on race relations not being as bad as the 60s, the task force revival, the mention of gun violence, and his stance on globalization. I also need to touch on his views on NATO and Brexit briefly.
+
+I should structure the summary to flow logically, starting with the events, then his responses, the task force, gun issues, and wrap up with his broader comments on military operations and globalization. I need to keep it concise and ensure that the moral framing is preserved by using the identified words.
+
+I also need to make sure the summary starts with "SUMMARY:" and ends with "END OF SUMMARY." I'll check the word count to ensure it's under 200 words. Let me draft it now, making sure each point is covered succinctly and the moral terms are included where appropriate.
+</think>
+
+**STEP 1:**
+
+* optimistic  
+* fatal  
+* retaliating  
+* regressed  
+* rioting  
+* violent  
+* destructive  
+* depressing  
+* tension  
+* demented  
+* hate  
+* safety  
+* anxiety  
+* inequality  
+* booster  
+
+---
+
+**SUMMARY:**  
+President Obama addressed the nation following recent tragic events, urging optimism amid racial tensions and violence. He emphasized that race relations in the U.S. have not regressed to the 1960s, despite the loss of life and violent protests. Obama revived a task force to address police-community relations, including activists and law enforcement. He acknowledged the difficulty of reducing racial tension but stressed the importance of addressing gun violence to prevent further tragedies. Obama described the Dallas sniper as a "demented individual" and rejected the notion that such acts represent the broader community. He also highlighted the challenges faced by police in gun-filled neighborhoods, linking gun availability to public safety concerns. Obama noted a decline in violent crime over the past decades and called for a focus on reducing gun-related violence. He also touched on the U.S. military's role in combating non-state actors like ISIS and expressed support for the U.K. and E.U. amid Brexit. Finally, he cautioned against the risks of globalization but acknowledged its inevitability.  
+**END OF SUMMARY.**

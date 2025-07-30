@@ -1,0 +1,14 @@
+Alright, so the user has given me a query where I need to act as a news summarizer assistant and a moral expert. The task is to summarize a given news article while preserving the moral framing the author used. They've also provided a list of morally framed words that I need to include as much as possible.
+
+First, I need to understand the article. It's about Wendy Davis's statement on abortion, arguing for zero abortions, and the author's critique of that stance. The author believes that abortion is necessary and that framing it as something to eliminate is harmful. They bring in experts to support the point that abortion is a necessary medical procedure and that stigmatizing it is wrong.
+
+Next, I need to identify the key points. The main argument is against the idea of a "world without abortion," emphasizing that it's unrealistic and harmful. The author uses terms like healthcare, care, stigma, necessary, false, saves, protects, erases, coercion, violence, support, etc. These are the morally charged words I should include.
+
+I should structure the summary to highlight that Wendy Davis and others use the "zero abortions" line to appear moderate, but this denies reality. The article argues that abortion is necessary for women's health and autonomy, and that policies should focus on supporting women rather than reducing abortion numbers.
+
+I need to make sure the summary is concise, under 200 words, and includes as many of the listed moral words as possible. I'll start by mentioning Davis's statement and the critique, then include the experts' points about necessity, healthcare, and stigma. I'll conclude by emphasizing the need to focus on supporting women rather than numbers.
+
+Finally, I'll ensure the summary flows well and accurately reflects the author's moral stance against the "zero abortions" narrative, using the specified terms to maintain the moral framing.
+</think>
+
+SUMMARY: Wendy Davis, during a campaign interview, stated that the goal should be to achieve "zero abortions," a stance she shares with other politicians to appear moderate and avoid being labeled extreme. However, the author argues this position denies reality, as abortion will always be necessary for women's health, autonomy, and safety. Dr. Anne Davis and Dr. Lin-Fan Wang emphasize that abortion saves lives, protects autonomy, and is a medical necessity, not a social ill. The author criticizes framing abortion as a problem to be solved, highlighting that circumstances like financial hardship, coercion, and contraceptive failure make abortion inevitable. The article advocates for policies that focus on supporting women's healthcare, planning, and well-being, rather than reducing abortion numbers. Stigma and false claims about abortion's necessity further harm women. The author urges a nuanced approach that respects women's unique circumstances and ensures access to safe, stigma-free care. END OF SUMMARY.

@@ -1,0 +1,34 @@
+Okay, I need to help the user by summarizing the given news article while preserving the moral framing. First, I'll read through the article to understand the main points. The article is about Elizabeth Lauten, a Republican aide, who resigned after making controversial comments about the Obama daughters on Facebook. 
+
+The user wants me to first identify all the single words that are morally framed. I'll go through the text and pick out words that carry moral connotations. Words like "berating," "sensation," "cautionary," "dangers," "sniping," "innocuous," "disdain," "judged," "hurtful," "apology," "taken aback," "criticize," "respect," "class," "good role model," and "opportunity" stand out as they relate to moral judgment or evaluation.
+
+Next, I need to write a concise summary that includes as many of these morally framed words as possible. I'll make sure the summary is under 200 words and captures the essence of the story, including Lauten's resignation, her comments, the public reaction, and the broader implications about social media and criticism of public figures' children.
+
+I should structure the summary to start with Lauten's resignation, explain her Facebook post, the reaction it received, her apology, the White House's response, and the comparison with Patti Davis's experience. I'll ensure that the moral terms are included to reflect the author's framing.
+
+I also need to make sure the summary flows well and is clear, avoiding any markdown or formatting. I'll keep each sentence focused and to the point, ensuring all key elements are covered without unnecessary details.
+
+Finally, I'll review the summary to ensure it meets the word limit and that all morally framed words are appropriately included. This way, the user gets a summary that's both concise and faithful to the original article's moral perspective.
+</think>
+
+**STEP 1:**  
+* berating  
+* sensation  
+* cautionary  
+* dangers  
+* sniping  
+* innocuous  
+* disdain  
+* judged  
+* hurtful  
+* apology  
+* taken aback  
+* criticize  
+* respect  
+* class  
+* good role model  
+* opportunity  
+
+**SUMMARY:**  
+A young Republican congressional aide, Elizabeth Lauten, resigned after her Facebook post berating President Obama’s daughters for their attitude and outfits during the White House turkey pardon went viral. Lauten criticized the girls for lacking "class" and not dressing appropriately, calling them poor role models. Her comments sparked widespread outrage, leading to an apology for her hurtful words. The incident highlights the dangers of social media sniping and the scrutiny faced by the children of public figures. The White House press secretary condemned the criticism, while Patti Davis, daughter of Ronald Reagan, empathized, noting the challenges of being a First Daughter. The event underscores the moral implications of public judgment and the pressure on young people in high-profile roles.  
+**END OF SUMMARY.**

@@ -1,0 +1,37 @@
+Okay, so I'm trying to help the user with their query. They want me to act as a news summarizer assistant and a moral expert. The task is to summarize a given news article while preserving the moral framing the author provided. 
+
+First, I need to understand the structure of the query. They have two main steps: Step 1 is identifying all the single words that are morally framed. I should list each word with a * at the beginning. Then, in Step 2, I have to write a concise summary of the article, making sure to include as many of those morally framed words as possible. The summary needs to be under 200 words and should end with specific tokens.
+
+Looking at the article, it's about Ken Cuccinelli being harassed by Maryland Governor Martin O'Malley at a bar. The article describes the incident in detail, including the public nature of the harassment, the policies being criticized, and the reactions from both parties involved. 
+
+For Step 1, I need to extract words that carry moral connotations. Words like "harassed," "passion-laced," "shame-invoking," "cussing," "veins bulging," "cursing," "assault," "deescalate," "strange," "odd," "sad," "shocking," "left celebrated," "disgusting," and "fascist." These words are used to convey judgment or moral evaluation in the context of the article.
+
+In Step 2, I have to craft a summary that includes these words. I need to ensure that the summary is concise and captures the essence of the event, highlighting the moral aspects. I should mention the harassment, the context of immigration policies, the public setting, the physical reaction (veins bulging), the attempt to deescalate, the odd criticism, the sad and shocking behavior, the celebration by the left, and the term "fascist." 
+
+I also need to make sure the summary flows well and stays within the word limit. I'll start by stating who was harassed and by whom, the location, the reason for the harassment, and the reactions. Then, I'll include the aftermath, such as the celebration by the left and the comparison to previous incidents. 
+
+I should avoid adding any personal opinions and stick strictly to the facts presented, but with the moral framing intact. It's important to keep the summary factual yet highlight the moral elements as per the original article.
+
+Now, putting it all together, I'll list the morally framed words first, each on a new line with a *, and then write the summary, making sure to incorporate as many of those words as possible without making it sound forced. I'll also ensure that the summary ends with the required tokens.
+</think>
+
+**STEP 1:**  
+* Harassed  
+* Passion-laced  
+* Shame-invoking  
+* Cussing  
+* Veins bulging  
+* Cursing  
+* Assault  
+* Deescalate  
+* Strange  
+* Odd  
+* Sad  
+* Shocking  
+* Left celebrated  
+* Disgusting  
+* Fascist  
+
+**SUMMARY:**  
+Acting Homeland Security Deputy Secretary Ken Cuccinelli was publicly harassed by Maryland Gov. Martin O’Malley at an Irish pub in Washington, D.C., over the Trump administration’s immigration policies. O’Malley unleashed a passion-laced, shame-invoking tirade, cursing and screaming so intensely that his neck veins were bulging. Cuccinelli attempted to deescalate the situation but was followed by O’Malley, who continued the verbal assault. O’Malley’s behavior was described as sad and shocking, with his criticism of Cuccinelli’s Italian ancestry and the administration’s policies. Cuccinelli noted that some of the criticism oddly applied to Obama’s policies. O’Malley later defended his actions, stating he was expressing opposition to the caging of refugee children. The incident drew attention as a rare instance of a prominent Democrat harassing a Trump official publicly. The left celebrated the harassment, with some even praising the behavior, which sparked outrage as it promoted a disturbing precedent.  
+**END OF SUMMARY.**

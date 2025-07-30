@@ -1,0 +1,14 @@
+Alright, so the user has given me a query where they want me to act as a news summarizer. They provided a detailed article from CNN, and they want a summary that's concise, under 200 words, and properly formatted with the "SUMMARY:" and "END OF SUMMARY." tokens.
+
+First, I need to understand the content of the article. It's about U.S. foreign policy since 9/11, discussing the Bush and Obama administrations' policies, the mistakes made, and how Bush restructured his administration to address errors. The article contrasts Obama's leadership style with Bush's, highlighting the importance of admitting mistakes and making changes.
+
+Next, I should identify the key points. The article mentions the flawed policies post-9/11, Bush's Iraq invasion, Obama's disengagement, the impact of a heightened sense of vulnerability, and the need for leaders to recognize their mistakes. It also compares Bush's restructuring in his second term, leading to better outcomes, with Obama's more isolated approach.
+
+I need to condense these points into a summary that's clear and within the word limit. I'll start by stating the main idea: U.S. foreign policy since 9/11 has been marked by flawed policies and errors. Then, I'll mention the examples under Bush and Obama. I'll note the impact of vulnerability and dysfunctional politics. Then, I'll highlight the need for leaders to admit mistakes, using Bush's restructuring as an example, and compare it to Obama's approach. Finally, I'll conclude with the importance of leadership in driving change.
+
+I should ensure the summary flows logically, connecting each point smoothly. I'll avoid jargon and keep the language straightforward. Also, I need to make sure it's under 200 words, so I'll be concise with each sentence, omitting less critical details.
+
+Let me draft the summary now, keeping these points in mind. I'll start with the main thesis, then outline the issues, the example of Bush, the contrast with Obama, and the conclusion about leadership.
+</think>
+
+SUMMARY: Since the 9/11 attacks, U.S. foreign policy has been marked by flawed decisions and errors, with the Bush administration's Iraq invasion and Obama's disengagement as notable examples. The U.S. has faced crises in regions like Syria, Iraq, Libya, and Ukraine, as well as strained relations with allies over issues like NSA spying. While Obama has inherited a series of mistakes, the article suggests he can learn from George W. Bush's approach. Bush, despite his many errors, recognized the need for change in his second term, reshaping his administration and policies, including the Iraq surge and financial crisis response. Bush's ability to admit mistakes and seek new perspectives contrasted with Obama's more isolated leadership style. The article highlights the importance of leaders acknowledging errors and driving change, emphasizing that big shifts in U.S. policy often require presidential leadership. END OF SUMMARY.

@@ -1,0 +1,26 @@
+Okay, so I need to help the user by summarizing the news article while preserving the moral framing. Let me start by understanding the task. The user provided a news article where Trump criticizes Huma Abedin, calling her and the DOJ "crooked" and "deep state." They want me to first identify all the morally framed single words and then write a summary that includes as many of those words as possible.
+
+First, I'll go through the article to find words that carry moral judgment. Words like "crooked," "disregarding," "unauthorized," "extremely careless," "jail," "Deep State," and "double standard" stand out. These words are used to convey blame, criticism, or moral wrongdoing.
+
+Next, I need to summarize the article, making sure to include these words. The summary should be concise, no longer than 200 words, and maintain the moral tone. I'll structure it by mentioning Trump's accusations against Abedin, the specifics of her actions, the comparison to the sailor's punishment, and the implication of a double standard. I'll also note the emails released and their impact on the 2016 election.
+
+I should ensure that the summary flows logically, starting with Trump's tweet, then the specifics of Abedin's actions, the comparison, and the consequences. I'll also include Comey's role and the reopening of the case to show the broader implications.
+
+Now, putting it all together, I'll make sure each morally framed word is included where appropriate. I'll check the word count to stay within the limit. Let me draft the summary step by step, ensuring each point is covered clearly and concisely.
+</think>
+
+**STEP 1:**
+
+* Crooked  
+* Jail  
+* Disregarding  
+* Unauthorized  
+* Extremely careless  
+* Deep State  
+* Double standard  
+
+---
+
+**SUMMARY:**  
+President Trump criticized Huma Abedin, a top aide to "Crooked" Hillary Clinton, for allegedly disregarding security protocols by handling classified material improperly. Trump called on the "Deep State" Justice Department to act, comparing Abedin's actions to the punishment faced by U.S. Navy Sailor Kristian Saucier, who was jailed for taking unauthorized photos inside a nuclear submarine. Trump suggested a double standard, as Abedin and Clinton have not faced similar consequences. Recent emails from Abedin’s account, released by the State Department, revealed she forwarded sensitive State Department emails to her personal Yahoo account, which was later hacked. She also sent classified passwords to her Yahoo account. Former FBI Director James Comey testified that Abedin forwarded emails to her estranged husband, Anthony Weiner, for Clinton’s use, which reopened the investigation into Clinton’s handling of classified emails. Comey described Clinton as "extremely careless" in her use of a private server. The discovery of these records had significant implications for the 2016 presidential race.  
+**END OF SUMMARY.**

@@ -1,0 +1,14 @@
+Alright, I need to help the user by summarizing the given news article while preserving the moral framing. The user provided the article and a list of morally framed words to include. 
+
+First, I'll read through the article to understand the main points. It's about ICE continuing to deport immigrants despite the COVID-19 pandemic, which has led to spreading the virus. The author uses words like "sick," "detain," "deport," and "spread" to highlight the moral issues.
+
+I should start by identifying the key events: Admild's deportation despite being sick, the unsafe conditions in detention centers, the lack of testing, and the impact on other countries. 
+
+I need to make sure to include as many of the listed words as possible without making the summary too long. I'll focus on the most impactful points, such as the spread of the virus, the conditions in detention, and the consequences for deported individuals and their home countries.
+
+I'll structure the summary to first introduce the situation, then describe the conditions, mention the testing limitations, and conclude with the international impact. This way, the moral framing remains clear.
+
+Now, I'll draft the summary, ensuring it's under 200 words and includes the key morally charged words. I'll check each sentence to see if it conveys the necessary moral judgment without being too verbose.
+</think>
+
+SUMMARY: The article highlights the moral concerns surrounding ICE's continued detention, movement, and deportation of immigrants during the COVID-19 pandemic. Despite the risks of spreading the virus, ICE has detained and deported thousands, including individuals who were sick or showing symptoms. Detention centers are described as cramped, unsanitary, and unsuitable for social distancing, with limited testing and inadequate precautions. Immigrants like Admild, a Haitian deportee, were given minimal care before being forced onto flights, even as they feared for their lives. The article reveals that ICE has confirmed at least 3,000 coronavirus-positive detainees, but testing remains limited. Over 750 domestic flights and 200 international deportation flights have carried potentially ill individuals, contributing to the global spread of the virus. Countries like El Salvador and Honduras, under pressure from the Trump administration, have accepted thousands of deportees, some of whom tested positive upon arrival. ICE claims to follow CDC guidelines but continues to deport despite the risks. The article underscores the moral failure of ICE's actions in exacerbating the pandemic's spread. END OF SUMMARY.

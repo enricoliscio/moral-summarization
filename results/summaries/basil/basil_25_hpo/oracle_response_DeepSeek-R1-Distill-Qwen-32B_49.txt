@@ -1,0 +1,16 @@
+Okay, so the user has given me a query where they want a news summary that preserves the moral framing from the original article. They've provided the article and a list of morally framed words. My task is to create a concise summary, under 200 words, using as many of those words as possible. 
+
+First, I need to understand the article. It's about the political debate over Medicare between Romney and Obama. Romney's team accuses Obama of stealing $700 billion from Medicare to fund Obamacare. Obama's team counters that Romney's plan would harm benefits. The article also mentions past accusations, like Obama attacking McCain in 2008 for cutting Medicare by $800 billion, which was later found to be misleading.
+
+I should focus on the key points: the accusations, the use of morally charged words, and the historical context. I need to include words like "harm," "stole," "fund," "blood," "cut," etc., to maintain the moral framing.
+
+I'll start by outlining the main accusations from both sides. Romney's team says Obama stole money, while Obama's team says Romney's plan would harm benefits. Then, I'll mention the historical context where Obama accused McCain similarly, and how that backfired when the claims were proven false.
+
+I should ensure the summary flows logically, connecting the current debate with past political strategies. Also, I need to keep it under 200 words, so I'll have to be concise but comprehensive.
+
+Let me structure it: introduce the debate, outline both sides' accusations, reference the past with McCain, and conclude with the impact on the political dialogue. I'll make sure to use the moral words where appropriate without forcing them.
+
+Now, putting it all together, making sure each sentence includes the necessary moral terms and keeps the summary within the word limit. I'll review to ensure all key points are covered and the moral framing is preserved.
+</think>
+
+SUMMARY: The Medicare debate has intensified as Mitt Romney's team accuses Barack Obama of "stealing" $700 billion from Medicare to "fund" Obamacare, claiming Obama has "blood on his hands." Obama's team counters that Romney's plan would "harm" benefits by turning Medicare into a voucher program. Fact-checkers dispute Romney's characterization, noting the savings came from "limiting" waste, fraud, and abuse in Medicare Advantage. Obama's campaign argues Romney's plan lacks specifics, while Romney's team accuses Obama of "cutting" Medicare to pay for his health care overhaul. This mirrors Obama's 2008 attack on John McCain, who was accused of proposing $800 billion in Medicare "cuts." FactCheck.org deemed Obama's claims "false," as McCain aimed to "eliminate" waste, not slash benefits. Now, the debate risks "complicating" Medicare reform discussions, as both sides "oppose" each other's plans, with Romney's team "demagoguing" the issue. END OF SUMMARY.

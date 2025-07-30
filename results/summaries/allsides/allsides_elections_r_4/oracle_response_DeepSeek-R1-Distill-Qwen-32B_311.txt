@@ -1,0 +1,18 @@
+Okay, so the user has given me a query where I need to act as a news summarizer assistant and a moral expert. The task is to summarize a provided news article while preserving the moral framing that the author used. The article is about Donald Trump's behavior during the presidential debates and his disregard for democratic norms and the Constitution.
+
+First, I need to understand the key points of the article. It mentions Trump refusing to accept the election results, his history of not supporting the GOP nominee, his tweets about the 2012 election being a sham, encouragement of violence, claims of a rigged election, admiration for authoritarian leaders, and his authoritarian policies.
+
+Next, the user has specified that I should preserve as many of the morally framed words as possible. The list provided includes words like "refused," "reject," "sham," "travesty," "democracy," "peace," "acceptance," "respect," "hostility," "encouraged," "engage," "acts," "declared," "riots," "disrespected," "promised," "violate," "dismissed," "seize," "forced," "order," "crimes," "derided," "believe," "lack," "praise," "admiration," "hack," "side," "implement," "banning," "closing," "retaliating," "solve," "running," "unchecked," "unaccountable."
+
+I need to make sure that the summary includes these words where appropriate without making the summary too long. The summary should be under 200 words, so I have to be concise.
+
+I'll start by outlining the main points: Trump's refusal to accept election results, his history of rejecting democratic norms, his actions during the campaign, his admiration for dictators, and his authoritarian policies.
+
+Now, I'll structure the summary, using the morally charged words to convey the author's perspective. I'll make sure each paragraph covers a specific aspect: his behavior in the debate, his past actions, his admiration for authoritarians, and his authoritarian tendencies.
+
+I need to ensure that the summary flows logically and maintains the moral tone. I'll check the word count as I go to stay within the limit.
+
+Finally, I'll review the summary to make sure all key points are covered and that the moral framing is preserved. I'll ensure that the summary is clear and concise, accurately reflecting the article's content and the author's viewpoint.
+</think>
+
+SUMMARY: In the final presidential debate, Donald Trump refused to commit to accepting the election results, a move that horrified his opponent and highlighted his consistent rejection of democratic norms. From the outset, Trump has disrespected the electoral process, as seen in his refusal to support the GOP nominee in the primary debates and his 2012 claim that the election was a "sham" and "travesty." Throughout his campaign, Trump has shown disdain for democratic principles like peace, acceptance, and respect for the electoral process. He has encouraged violence against protesters, declared the election rigged, and even hinted at riots if he didn't win the nomination. Trump has repeatedly disrespected the Constitution, promising to violate its rules, such as dismissing free speech, seizing assets, and targeting Muslims. He has also praised authoritarian leaders like Putin, Saddam Hussein, and Assad, aligning himself with their undemocratic practices. Trump's authoritarian tendencies are evident in his desire to implement unconstitutional policies, such as banning Muslims, closing mosques, and retaliating against media critics. His belief that only he can solve the nation's problems reflects hisunchecked, unaccountable vision of leadership, far removed from the democratic ideals of the United States. END OF SUMMARY.

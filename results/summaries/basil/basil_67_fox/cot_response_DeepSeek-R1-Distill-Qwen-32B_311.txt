@@ -1,0 +1,26 @@
+Alright, I need to help the user by summarizing the news article while preserving the moral framing. Let me start by understanding the task.
+
+First, the user wants me to identify all the single words that are morally framed in the article. These words carry a positive or negative connotation that reflects a moral judgment. I should go through the article sentence by sentence and pick out words that have such implications.
+
+Looking at the article, the main conflict is between Trump and Fox. Fox criticizes Trump, calling him "not welcome" and saying Mexico "rejects" his visit. He also refers to Trump as a "traitor" and a "big mistake." On the other hand, Trump responds by mentioning Fox's use of the "f bomb" and accuses him of "lying." 
+
+So, the morally framed words here are "not welcome," "reject," "traitor," "big mistake," "f bomb," and "lying." These words carry strong negative connotations and are central to the moral framing of the article.
+
+Next, I need to write a concise summary that includes these words. The summary should capture the essence of the conflict, highlighting the moral judgments from both sides. I'll make sure to include each of the identified words to preserve the moral framing.
+
+I should structure the summary to show Fox's criticism and Trump's response, using the morally charged words. I'll keep it under 200 words, ensuring clarity and coherence while maintaining the key points of the article.
+
+Finally, I'll present the summary after the specified tokens, making sure it's clear and meets the user's requirements.
+</think>
+
+**STEP 1:**  
+* not welcome  
+* reject  
+* traitor  
+* big mistake  
+* f bomb  
+* lying  
+
+**SUMMARY:**  
+Former Mexican President Vicente Fox has criticized Donald Trump, calling him "not welcome" in Mexico and accusing President Enrique Peña Nieto of taking a "big mistake" by inviting Trump. Fox stated that Trump's visit would make Peña Nieto appear like a "traitor" for tolerating Trump's offensive rhetoric. Trump responded on Twitter, referencing Fox's past use of the "f bomb" and accusing him of "lying." The exchange highlights the ongoing tensions between the two figures, with Fox denouncing Trump's visit and Trump defending his stance.  
+END OF SUMMARY.

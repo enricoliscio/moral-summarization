@@ -1,0 +1,22 @@
+Alright, so I need to help the user by summarizing a news article while preserving the moral framing. The user mentioned that I'm a news summarizer and a moral expert, so I should focus on both summarizing the content accurately and maintaining the ethical perspective presented in the original text.
+
+First, I'll read the provided news article. It's about President Cardoso's reaction to the US decision regarding greenhouse gases. He's positive about the measures the US is taking, even though they didn't ratify the Kyoto Protocol. He hopes these measures will have the same effect as adhering to the protocol.
+
+Now, the user wants a summary that's no longer than 200 words, starting with "SUMMARY:" and ending with "END OF SUMMARY." I need to ensure the summary captures the key points: who, what, when, where, and the moral angle.
+
+I should identify the main elements: the source (Agencia Brasil), the location (Brasilia), the date (13th), President Cardoso's statement, the US's decision, and his hope that their measures will be as effective as the Kyoto Protocol.
+
+The moral framing here is about environmental responsibility. The US's action, even without ratifying the protocol, is seen as a positive step. Cardoso is emphasizing the importance of the US's role in global environmental efforts.
+
+I need to make sure the summary reflects that the US's decision is positive and that Cardoso is hopeful about the impact of their domestic measures. I should avoid any technical jargon and keep it concise.
+
+I'll structure the summary to first state the main point: Cardoso's positive view. Then, mention the US's decision and the lack of Kyoto ratification. Finally, include his hope for the measures' effectiveness.
+
+Let me draft it: "President Fernando Henrique Cardoso has expressed a positive view on the United States' decision to implement measures to control greenhouse gases, despite not ratifying the Kyoto Protocol. Speaking in Brasilia, Cardoso highlighted the importance of the US's role in global environmental efforts and expressed hope that the domestic measures would have the same impact as adhering to the Kyoto Protocol. This sentiment underscores the significance of collective action in addressing climate change, even in the absence of formal international agreements."
+
+That should cover all the necessary points and maintain the moral emphasis on the importance of environmental responsibility and collective action.
+</think>
+
+SUMMARY:  
+President Fernando Henrique Cardoso has expressed a positive view on the United States' decision to implement measures to control greenhouse gases, despite not ratifying the Kyoto Protocol. Speaking in Brasilia, Cardoso highlighted the importance of the US's role in global environmental efforts and expressed hope that the domestic measures would have the same impact as adhering to the Kyoto Protocol. This sentiment underscores the significance of collective action in addressing climate change, even in the absence of formal international agreements.  
+END OF SUMMARY.

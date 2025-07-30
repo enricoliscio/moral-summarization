@@ -1,0 +1,33 @@
+Okay, so the user has given me a query where they want me to act as a news summarizer and a moral expert. They provided a news article and specific instructions on how to process it. First, I need to understand the task clearly.
+
+The user wants me to do two things: identify morally framed words and then write a summary preserving those moral framings. They provided an example response, which I can use as a reference.
+
+Starting with STEP 1, I need to go through the article and pick out words that carry moral connotations. Words like "criticized," "hurt," "partisanship," "destructive," "damaged," "protocol," "disappointment," "compromise," "obligation," "strong," "immutable," "favor," "balance," and "commitment" stand out. These words convey judgment or evaluation, so they fit the moral framing category.
+
+Next, for the summary, I have to condense the article into 200 words or less while keeping those moral words intact. The example provided is concise, so I should aim for something similar. I'll focus on the key points: Susan Rice's criticism, Netanyahu's speech causing tension, the breach of protocol, the administration's response, and the broader implications for US-Israel relations.
+
+I need to ensure that the summary flows well and includes all the main events without getting bogged down in details. I should also maintain the moral perspective by using the identified words where appropriate.
+
+I should also check that I'm not adding any new information beyond what's in the article. The summary should be accurate and stick to the facts while highlighting the moral aspects as per the user's instructions.
+
+Finally, I'll structure the response with STEP 1 listing each moral word and then the SUMMARY section, making sure it's within the word limit and properly formatted with the tokens as specified.
+</think>
+
+**STEP 1:**  
+* Criticized  
+* Hurt  
+* Partisanship  
+* Destructive  
+* Damaged  
+* Protocol  
+* Disappointment  
+* Compromise  
+* Obligation  
+* Strong  
+* Immutable  
+* Favor  
+* Balance  
+* Commitment  
+
+**SUMMARY:**  
+Susan E. Rice, President Obama’s national security adviser, criticized Prime Minister Benjamin Netanyahu of Israel for his decision to address Congress before the Israeli elections, stating it injected partisanship and weakened the US-Israel relationship. Rice called the move "destructive" and a "breach of protocol," as it was arranged without consulting the White House. Obama’s administration expressed strong displeasure, with the president refusing to meet Netanyahu during his visit to avoid appearing to influence the elections. The episode marked a low point in US-Israel relations, with top officials openly acknowledging the damage caused. Netanyahu defended his decision as an obligation to prevent a nuclear deal with Iran, but Rice declined to speculate on his motives, emphasizing the need for an "immutable" US-Israel relationship. The controversy has sparked political tension, with Netanyahu declining a private meeting with Democratic senators, further deepening the divide. END OF SUMMARY.

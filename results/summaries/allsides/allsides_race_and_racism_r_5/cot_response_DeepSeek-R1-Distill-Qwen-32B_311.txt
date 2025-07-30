@@ -1,0 +1,33 @@
+Okay, so I'm trying to help the user with their query. They want me to summarize a news article while preserving the moral framing. The user provided a detailed article about President Obama's statements on race relations, police violence, and other issues. 
+
+First, I need to understand what the user is asking for. They want me to identify all the morally framed single words in the article and then write a concise summary that includes as many of those words as possible. The summary should be under 200 words and follow a specific format with "SUMMARY:" and "END OF SUMMARY."
+
+I'll start by reading through the article to identify the morally charged words. Words like "optimistic," "fatal," "retaliating," "regressed," "riot," "violence," "depressing," "tension," "demented," "hate," "safety," "inequality," and "booster" come to mind. These words carry moral weight and are central to the article's framing.
+
+Next, I'll structure the summary. It needs to capture Obama's main points: urging optimism despite recent tragedies, the decrease in violent crime, the task force on police reform, the difficulty of interpreting motives in hate crimes, support for police, addressing gun violence, and his stance on globalization. I'll make sure to include the morally framed words to preserve the original tone.
+
+I also need to keep the summary concise. I'll mention the key events, like the shootings and the task force, and highlight Obama's emphasis on progress and the importance of addressing gun issues. I'll conclude with his comments on NATO and globalization, ensuring the summary flows logically and stays within the word limit.
+
+I should double-check that I haven't missed any important points and that the moral framing is maintained. Words like "optimistic," "depressing," and "inequality" are crucial for conveying the article's message accurately. 
+
+Finally, I'll review the summary to ensure it's clear, concise, and meets all the user's requirements. Making sure each morally framed word is included and that the summary accurately reflects Obama's stance on the issues discussed.
+</think>
+
+**STEP 1:**  
+* optimistic  
+* fatal  
+* retaliating  
+* regressed  
+* rioting  
+* violent  
+* destructive  
+* depressing  
+* tension  
+* demented  
+* hate  
+* safety  
+* inequality  
+* booster  
+
+**SUMMARY:**  
+President Obama addressed the nation during a tumultuous week marked by fatal shootings of black males by police and a gunman's retaliatory attack on Dallas law enforcement, killing five officers. He urged Americans to remain optimistic about race relations, emphasizing that recent events do not reflect a new low or regression to the 1960s riots. Obama revived a task force to address police reform, including activists, officers, and civil rights leaders, to build on progress made over the past decade. He acknowledged the difficulty of interpreting motives in hate crimes, such as the Dallas sniper's actions, and called for reducing racial tension and gun violence. Obama also highlighted the challenges faced by police in communities with widespread gun access, advocating for stricter gun control. He reaffirmed the U.S. commitment to NATO and warned against the dangers of globalization increasing inequality. END OF SUMMARY.

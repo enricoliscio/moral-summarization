@@ -1,0 +1,12 @@
+Alright, I need to help the user by summarizing the given news article while preserving the moral framing. The user specified that the summary should include the morally framed words: broke, pay, violence, pain, crisis, break. 
+
+First, I'll read through the article to understand the main points. It's about foreign companies lobbying in Argentina against a new economic policy that would devalue the peso and end the currency parity with the dollar. The government is struggling financially, can't pay pensions or workers, and is facing a crisis. The companies are worried about losing billions, and there's fear of social unrest.
+
+I need to make sure the summary includes the key elements: the lobbying efforts, the economic package, the financial crisis, the impact on foreign companies, and the potential for social issues like violence and pain. I should use the specified moral words to maintain the framing.
+
+I'll start by mentioning the lobbying by foreign firms, then explain the government's situation (broke), their inability to pay, and the crisis. Then, I'll note the companies' losses and their resistance. Include the fear of social unrest (violence) and economic pain. Highlight the moral implications like breaking promises and the potential ripple effect.
+
+I need to keep it concise, under 200 words, and ensure it flows naturally while including all necessary points and moral terms.
+</think>
+
+SUMMARY: Foreign multinational companies are fiercely lobbying Argentina's government to prevent billions in losses as lawmakers vote on emergency legislation to devalue the peso and end the country's decade-long currency parity with the U.S. dollar. The economic package, proposed by President Eduardo Duhalde, aims to address Argentina's financial crisis but has drawn intense opposition from foreign banks, telecoms, transport, and energy firms, which stand to lose billions. The government, broke and unable to pay pensions or state workers, faces a crisis that could escalate into street violence if prices for essentials rise post-devaluation. Duhalde's plan to convert consumer debt into pesos and devalue the currency by about 30% has drawn resistance, with foreign banks seeking to maintain dollar values. Companies fear the move could set a precedent for breaking contractual promises, potentially harming investments across Latin America. The crisis highlights the pain of a middle class burdened by dollar-denominated debt, as Argentina struggles to stabilize its economy amid a rocky political landscape. END OF SUMMARY.

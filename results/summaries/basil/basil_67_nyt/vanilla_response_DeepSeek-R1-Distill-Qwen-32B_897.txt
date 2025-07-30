@@ -1,0 +1,15 @@
+Okay, so the user wants me to summarize this news article about Donald Trump visiting Mexico and the reactions from Vicente Fox. They provided the article and an example response. I need to make sure the summary is concise, under 200 words, and follows the format with "SUMMARY:" and "END OF SUMMARY." tokens.
+
+First, I'll read through the article to understand the main points. Trump is going to meet with Peña Nieto, but Fox, a former president, says Trump isn't welcome. Fox criticizes Trump's wall plan and his changing policies. He also doubts Trump's ability to lead and thinks the visit is for Trump's polls. Trump responds on Twitter, and Fox fires back.
+
+I need to capture all these points succinctly. Start with Trump's visit, Fox's opposition, the reasons (wall, deportations, untrustworthy), Fox's disbelief in Trump's intentions, and their Twitter exchange. Keep it clear and within the word limit.
+
+Let me structure the summary: mention Trump's visit, Fox's criticism, reasons, Fox's disbelief, Trump's response, and Fox's counter. Make sure each sentence is concise and flows well.
+
+I think that's all. Time to put it together.
+</think>
+
+SUMMARY:  
+Donald Trump is set to meet with Mexican President Enrique Peña Nieto in Mexico, but former President Vicente Fox has condemned the visit, calling Trump "not welcome" in Mexico. Fox criticized Trump's plans for a border wall and his inconsistent immigration policies, urging Americans not to vote for him. He accused Trump of being untrustworthy and unfit to lead, likening him to a "false prophet." Fox also dismissed Trump's claims that Mexico would pay for the wall, vowing it would never happen. Trump responded on Twitter, referencing Fox's past invitation for him to visit Mexico, while Fox fired back, demanding Trump apologize to Mexicans and show respect.  
+
+END OF SUMMARY.

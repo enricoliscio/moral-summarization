@@ -1,0 +1,27 @@
+Alright, I need to help the user by summarizing the given news article while preserving the moral framing. First, I'll go through the article to identify the morally charged words. The user mentioned two steps: first, listing the morally framed words, and then writing the summary.
+
+Looking at the article, the key terms that carry moral judgment are "domestic terrorist organization," "epidemic of gun violence," "spreads propaganda," "misinforms," "deceive," "dangers of gun violence," "absolutely disgraceful," "designated," "reckless assault," "law-abiding," "freedoms," "soundbite remedy," "value," and "real solutions." These words convey strong opinions about the NRA's actions and their impact.
+
+Now, for the summary, I need to include as many of these terms as possible without making it too long. I'll start by mentioning the resolution passed by the San Francisco Board of Supervisors, highlighting that they declared the NRA a domestic terrorist organization. I'll explain their reasoning, connecting the NRA to the epidemic of gun violence and the spread of misinformation. It's important to note the resolution's call to distance from the NRA and the potential for broader legislation. Including Supervisor Stefani's comments about saving lives and the NRA's opposition adds context. I'll also mention the NRA's response, labeling the resolution as a "soundbite remedy" and an assault on their freedoms. Finally, I'll tie it back to recent mass shootings and the ongoing debate on gun control, including political figures' reactions.
+
+I need to keep the summary concise, around 200 words, ensuring it flows well and includes all the key points with the moral framing intact. I'll make sure each sentence is clear and directly relates to the moral aspects highlighted in the article.
+</think>
+
+**STEP 1:**
+* domestic terrorist organization  
+* epidemic of gun violence  
+* misinforms  
+* deceive  
+* dangers of gun violence  
+* absolutely disgraceful  
+* designated  
+* reckless assault  
+* law-abiding  
+* freedoms  
+* soundbite remedy  
+* value  
+* real solutions  
+
+**SUMMARY:**  
+The San Francisco Board of Supervisors passed a resolution declaring the National Rifle Association (NRA) a "domestic terrorist organization," linking it to the "epidemic of gun violence" in the U.S. The resolution calls for distancing from the NRA, examining local vendors' ties to the group, and avoiding business with it. Supervisor Catherine Stefani described the NRA as "absolutely disgraceful," claiming its opposition to gun control "stands in the way of saving lives." The resolution highlights that 100 Americans are killed daily by gun violence, a rate 25 times higher than other high-income countries. The NRA condemned the resolution, calling it a "reckless assault" on its "law-abiding" members and their "freedoms." This move follows recent mass shootings and ongoing debates over gun control, with political pressure mounting on lawmakers to address the issue.  
+**END OF SUMMARY.**

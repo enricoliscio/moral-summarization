@@ -1,0 +1,46 @@
+Alright, I need to tackle this query where the user wants a news summary with moral framing preserved. They also want me to identify morally framed words first. Let me break it down.
+
+First, I'll read the news article carefully. It's about Nebraska and Oklahoma suing Colorado over marijuana legalization. The key players are the attorneys general from each state, and there are mentions of legal arguments, moral stances, and expert opinions.
+
+For STEP 1, I need to find single words that carry moral connotations. Words like "unconstitutional," "prohibits," "undermined," "uphold," "defend," "grievance," "merit," "trafficked," "injure," "illegal," "precarious," "success," "prohibition," "hands-off," "wasting," "bullies," "vacuum," "outrageous," "federalist," "interference," "benefit," "violent," "criminal," "universally," "available," "outrageous," "unconstitutional," "prohibits," "undermined," "uphold," "defend," "grievance," "merit," "trafficked," "injure," "illegal," "precarious," "success," "prohibition," "hands-off," "wasting," "bullies," "vacuum," "outrageous," "federalist," "interference," "benefit," "violent," "criminal," "universally," "available," "outrageous."
+
+Wait, some of these might be repeated. I should list each unique word once. Let me go through the article again to pick out each morally charged word without duplication.
+
+Now, for the summary. I need to condense the article, keeping the moral framing intact. The main points are the lawsuit, the arguments from both sides, the legal basis (Supremacy Clause), the impact on neighboring states, the stance of Colorado, and the implications if the Supreme Court rules against Colorado. Also, include the experts' opinions on the precariousness of state laws and the potential consequences of federal action.
+
+I should ensure the summary is concise, under 200 words, and includes as many moral terms as possible without making it too lengthy. I'll structure it to first state the lawsuit, then the arguments from Nebraska and Oklahoma, Colorado's defense, the legal context, the implications, and the experts' views.
+
+I need to make sure the summary flows well and covers all key points while preserving the moral framing. Let me draft it step by step, checking each sentence to include the necessary moral words and maintain clarity.
+</think>
+
+**STEP 1:**  
+* Unconstitutional  
+* Prohibits  
+* Undermined  
+* Uphold  
+* Defend  
+* Grievance  
+* Merit  
+* Trafficked  
+* Injure  
+* Illegal  
+* Precarious  
+* Success  
+* Prohibition  
+* Hands-off  
+* Wasting  
+* Bullies  
+* Vacuum  
+* Outrageous  
+* Federalist  
+* Interference  
+* Benefit  
+* Violent  
+* Criminal  
+* Universally  
+* Available  
+* Outrageous  
+
+**SUMMARY:**  
+Nebraska and Oklahoma filed a federal lawsuit against Colorado, claiming Colorado's legalization of recreational marijuana is unconstitutional under federal law. They argue that Colorado's actions undermine the U.S. Constitution and violate the Supremacy Clause, as federal law prohibits marijuana. Colorado, however, defends its laws, stating the lawsuit lacks merit and is based on non-enforcement of federal laws rather than Colorado's voter-approved policies. The lawsuit highlights concerns about marijuana being trafficked across state lines, injuring neighboring states. Colorado's legalization, along with similar laws in other states, remains illegal under the 1970 Controlled Substances Act. Experts warn that state marijuana laws are precarious, as federal law still trumps state law. Advocates for legalization argue that the lawsuit is "outrageous" and an overreach, while opponents, like anti-legalization groups, support the action, emphasizing the consequences for neighboring states and the violation of federal law. The outcome could impact all state marijuana laws, making this a pivotal moment in the debate over federal versus state authority.  
+**END OF SUMMARY.**

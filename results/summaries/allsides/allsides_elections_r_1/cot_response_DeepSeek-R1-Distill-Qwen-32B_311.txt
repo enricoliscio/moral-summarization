@@ -1,0 +1,43 @@
+Okay, so the user has given me a query where they want me to act as a news summarizer assistant and a moral expert. The task is to summarize a news article while preserving the moral framing. They've provided a specific structure: first, identify morally framed words, then write a summary.
+
+First, I need to understand what morally framed words are. These are words that carry a moral judgment or connotation, like "criticizing," "quiet," "accused," etc. I'll go through the article and pick out each word that fits this criteria.
+
+Next, I need to summarize the article, making sure to include as many of these moral terms as possible. The summary should be concise, under 200 words. I should focus on the key points: Biden's infrastructure plan, the accusations from Tara Reade, the lack of response from Biden, the denial from his staff, and the media's handling of the situation.
+
+I should ensure that the summary flows logically, covering both Biden's policy proposal and the ethical/moral issues surrounding the allegations. I need to be careful to present the information accurately without bias, but include the moral elements as they are presented in the article.
+
+Also, I need to follow the structure: first list the morally framed words under STEP 1, each on a new line with an asterisk. Then, after the SUMMARY token, write the concise summary, ending with END OF SUMMARY.
+
+I should check that the summary is within the word limit and that it captures all the essential moral points without going into too much detail. It's important to balance the economic plan with the ethical allegations to provide a comprehensive overview.
+
+Lastly, I need to make sure that the language in the summary is clear and that the moral framing is preserved, using words like "accused," "quiet," "deny," "credibility," etc., as identified in STEP 1.
+</think>
+
+**STEP 1:**
+
+* Criticizing  
+* Quiet  
+* Accused  
+* Sexual assault  
+* Groped  
+* Touched  
+* Sexual harassment  
+* Not taken seriously  
+* Denied  
+* Supporting  
+* Assailed  
+* Allege  
+* Inappropriate displays of affection  
+* Acknowledged  
+* Promised  
+* More mindful  
+* Respect personal space  
+* Absolutely did not happen  
+
+---
+
+**SUMMARY:**  
+
+Joe Biden, the likely Democratic presidential nominee, has proposed a $1 trillion infrastructure plan to address the economic crisis caused by COVID-19, emphasizing job creation and environmental programs. However, Biden has remained quiet regarding allegations of sexual assault made by Tara Reade, a former staffer, who claims he groped her in 1993. Reade also alleges that her concerns were not taken seriously and that she was forced to leave her job. Biden's former staffers and a neighbor have denied or discredited Reade's claims. Additionally, eight women have accused Biden of making them uncomfortable with inappropriate behavior, to which Biden acknowledged the complaints and promised to be more mindful of personal space. Major media outlets have not directly questioned Biden about the allegations, but the Biden campaign has denied the claims, stating they "absolutely did not happen."  
+
+**END OF SUMMARY.**

@@ -1,0 +1,52 @@
+<think>
+Okay, so the user has provided a detailed query about summarizing a news article while preserving the moral framing. They want me to first identify all the single words that are morally framed, and then write a concise summary using those words. 
+
+First, I need to understand what "morally framed" words mean. These are words that carry a positive or negative moral connotation, such as "strength," "disgrace," or "weak." I should go through the article and pick out each word that fits this criterion.
+
+Next, I'll list each of these words, making sure to note their context. For example, "swagger" might imply confidence, which is a positive trait, while "disgrace" clearly has a negative connotation. I need to ensure I capture all such instances.
+
+After identifying the moral words, I'll move on to summarizing the article. The summary needs to be under 200 words and should include as many of the identified moral words as possible. I'll have to condense the key points of Christie's candidacy, his strengths, weaknesses, and the challenges he faces, making sure to highlight the moral aspects.
+
+I should also consider the structure of the summary. It should start with his declaration of candidacy, his self-portrayal as strong and forthright, his criticism of others, and the challenges he faces. I'll need to weave in the moral words naturally to maintain the framing.
+
+I must be careful not to include any markdown or formatting, just plain text with the specified tokens. Also, I should ensure that the summary flows well and accurately reflects the original article's content and tone.
+
+Finally, I'll review my work to make sure I've captured all the necessary moral words and that the summary is concise and within the word limit. I'll check for any errors or omissions to ensure the summary is both accurate and meets the user's requirements.
+</think>
+
+**STEP 1:**  
+* Swagger  
+* Disgrace  
+* Strength  
+* Decision-making  
+* Authority  
+* Truth  
+* Cringe  
+* Weak  
+* Feckless  
+* Dysfunction  
+* Gridlock  
+* Compromise  
+* Dirty  
+* Antidote  
+* Staggering  
+* Palatable  
+* Vulnerability  
+* Empathy  
+* Scandal  
+* Morass  
+* Cascade  
+* Anemic  
+* Calamity  
+* Unprecedented  
+* Weakness  
+* Vulnerabilities  
+* Centrist  
+* Beloved  
+* Agile  
+* Persuasive  
+* Liked  
+* Fighting chance  
+
+**SUMMARY:**  
+Gov. Chris Christie declared his uphill presidential candidacy with New Jersey-style swagger, positioning himself as a forthright and forceful leader. He criticized Washington's dysfunction and gridlock, blaming both parties for compromise being seen as a dirty word. Christie emphasized his record, including handling economic calamity and Hurricane Sandy, but faced criticism over New Jersey's credit downgrades, anemic job growth, and pension system failures. His campaign relies on his personality, a mix of charm, vulnerability, and effrontery, but his record and judgment are shaky. He mocked rivals like Rubio and Cruz, who lack state governance experience, and criticized Hillary Clinton for continuing Barack Obama's weak foreign policy. Christie, a centrist from the Northeast, faces a tough path in a crowded field. His announcement showcased emotional appeals, but his stagecraft and oratory lacked polish. Republican voters remain skeptical, with many unable to envision voting for him, making his uphill battle even steeper. END OF SUMMARY.

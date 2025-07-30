@@ -1,0 +1,24 @@
+Okay, so the user has given me a query where I need to act as a news summarizer assistant and a moral expert. The task is to summarize a news article while preserving the moral framing. Let me break down what I need to do.
+
+First, the user provided a news article about Brazil and Germany calling for the implementation of the Kyoto Protocol by September. They also mentioned expanding cooperation in environmental areas and supporting a pilot program for tropical forests. 
+
+The user's instructions are in two parts. The first step is to identify all the morally framed words in the article. I need to go through the text and pick out words that carry moral or ethical weight. Words like "implement," "ratify," "enforce," "expect," "stress," and "protect" come to mind because they relate to obligations, responsibilities, and positive actions towards the environment and sustainability.
+
+Next, I have to write a concise summary that includes as many of these morally framed words as possible. The summary needs to be under 200 words and should capture the essence of the article while highlighting the moral aspects. I should ensure that the summary reflects Brazil and Germany's commitment to the Kyoto Protocol, their call for other countries to join, and their plans for environmental cooperation.
+
+I also need to make sure the summary starts with "SUMMARY:" and ends with "END OF SUMMARY." I'll structure the summary to first mention the countries' initiative, then their call to action for others, their plans for cooperation, and finally the importance of the pilot program.
+
+Let me double-check to ensure I'm including all the key points and maintaining the moral framing. The words I identified should be naturally integrated into the summary without forcing them. I think I've covered all the necessary elements, so the summary should effectively convey the moral commitment of Brazil and Germany to environmental sustainability.
+</think>
+
+**STEP 1:**  
+* Implement  
+* Ratify  
+* Enforce  
+* Expect  
+* Stress  
+* Protect  
+
+**SUMMARY:**  
+Brazil and Germany have expressed their commitment to advancing the Kyoto Protocol, urging its implementation by September at the Rio+10 Sustainable Development Summit in South Africa. Both countries emphasize the importance of other nations ratifying and enforcing the protocol to combat climate change. They also aim to expand environmental cooperation and present unified positions at the summit. Additionally, they highlight the significance of the Pilot Program for Protection of Tropical Forests (PPG-7), with Germany participating in efforts to safeguard tropical ecosystems. This collaboration underscores their shared dedication to sustainable development and global environmental responsibility.  
+**END OF SUMMARY.**

@@ -1,0 +1,38 @@
+<think>
+Okay, so I'm trying to help this user who wants a news summary with a moral framing. They provided a detailed article about the Bush tax cuts and the White House's efforts to get them passed. The user wants me to first identify the morally framed words and then write a summary preserving those words.
+
+First, I need to understand what morally framed words are. These are words that carry a moral judgment or imply a value judgment. For example, words like "increasing the risk," "dire," or "stabilize" might have moral connotations because they suggest consequences or responsibilities.
+
+Looking at the article, I'll go through each paragraph and pick out words that seem to carry moral weight. Words like "risk," "dire," "increase," "stall," "double dip," "contractionary," "stimulative," "boost," "insufficient," "downturn," "consequences," "difficult," "unemployment," "taxes," "provisions," "help," "fundamentally better," and "compromise" come to mind. These words are used to convey the stakes, responsibilities, and potential outcomes, which adds a moral dimension to the discussion.
+
+Next, I need to summarize the article, making sure to include these morally framed words. The summary should be concise, around 200 words, and capture the essence of the debate without losing the moral framing. I'll focus on the main points: the White House's warnings about the economic risks of inaction, the debate over the tax cuts' effectiveness, and the political push to pass the deal despite Democratic skepticism.
+
+I should structure the summary to highlight the moral implications, such as the risk of a double dip recession, the consequences of not passing the bill, and the potential benefits versus the shortcomings of the deal. It's important to show the tension between the administration's push and the Democrats' concerns, emphasizing the moral stakes involved in their decision.
+
+I need to make sure the summary flows well and covers all key points without being too technical. Using the identified moral words will help convey the urgency and the high stakes of the situation as presented in the original article.
+</think>
+
+### STEP 1:
+* risk  
+* dire  
+* increase  
+* stall  
+* double dip  
+* contractionary  
+* stimulative  
+* boost  
+* insufficient  
+* downturn  
+* consequences  
+* difficult  
+* unemployment  
+* taxes  
+* provisions  
+* help  
+* fundamentally better  
+* compromise  
+
+---
+
+### SUMMARY:
+Senior White House officials have warned that inaction on the Bush tax cuts could "significantly increase the risk" of a double dip recession, urging congressional Democrats to act swiftly. Larry Summers, the outgoing senior economic adviser, emphasized that failing to pass the bill in the next few weeks would "materially increase the risk" of economic stagnation. While Summers downplayed the significance of the tax cuts for the wealthy earlier, he now highlights their importance in stabilizing the economy. Critics argue that the deal, while stimulative, is insufficient to lift the economy to a "different place" and warn that the absence of a deal could lead to a return to slow growth. The administration is pushing for immediate action, warning of real consequences, such as increased taxes and the loss of unemployment insurance for millions. The debate centers on balancing the need for economic stability with Democratic concerns over extending tax cuts for the wealthy. The White House is emphasizing the moral stakes, urging Democrats to act to avoid blame for an economic downturn. END OF SUMMARY.

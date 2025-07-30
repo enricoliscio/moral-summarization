@@ -1,0 +1,50 @@
+Okay, so I need to help the user by summarizing a news article while preserving the moral framing. The user provided a specific structure: first, identify all single words that are morally framed, then write a summary that includes as many of those words as possible, keeping it under 200 words.
+
+First, I'll read through the article to understand the context. It's about Donald Trump becoming president, his journey from a real estate developer and TV star to the presidency. The article mentions his campaign, the primary where he won against 16 other candidates, the anger from the base at the GOP establishment, his general election against Clinton, the stolen emails, Comey's action, and the narrow wins in key states.
+
+Now, for step one, I need to identify the morally framed words. These are words that carry a positive or negative connotation. Let me go through the article again.
+
+"unlikely journey" – 'unlikely' is a bit negative, but 'journey' is neutral. Maybe 'unlikely' is framed as surprising or against expectations.
+
+"angry" – definitely a negative word, showing frustration.
+
+"stolen" – negative, implying theft or wrongdoing.
+
+"reopen" – could be neutral, but in context, it's a decision that affected the election, so maybe framed as a negative action.
+
+"probe" – neutral, but in context, it's about investigating Clinton, which could be seen as a negative action.
+
+So the morally framed words I identified are: unlikely, angry, stolen, reopen, probe.
+
+Wait, 'unlikely' is more about the improbability, not necessarily moral. Maybe 'angry' is the main one. 'Stolen' is definitely negative. 'Reopen' could be framed as a negative action because it's a decision that influenced the election outcome. 'Probe' is neutral but in context, it's part of the negative framing because it's about Clinton's emails.
+
+Now, for the summary, I need to include these words as much as possible. I'll start by stating Trump became president, mention his background, his campaign, the angry base, the stolen emails, Comey's reopening, and the narrow wins.
+
+I have to make sure the summary is concise, under 200 words, and includes the morally framed words. Let me structure it:
+
+Start with Trump's inauguration, his background, the primary win against experienced candidates, the angry base, the stolen emails and Comey's action, the narrow wins in key states.
+
+I should make sure to include 'angry','stolen','reopen', 'probe' in the summary.
+
+Let me draft it:
+
+Donald Trump became the 45th president, after an unlikely journey from real estate to politics. He won the Republican nomination despite being less experienced, capitalizing on an angry base. In the general election, he trailed Clinton but was aided by stolen emails and Comey's reopening of the probe. He won Wisconsin, Michigan, and Pennsylvania by a narrow margin.
+
+That's concise and includes the morally framed words. I think that's good.
+</think>
+
+**STEP 1:**
+
+* Unlikely  
+* Angry  
+* Stolen  
+* Reopen  
+* Probe  
+
+---
+
+**SUMMARY:**
+
+Donald Trump became the 45th President of the United States, marking the end of his unlikely journey from a New York City real estate developer and reality TV star to the nation's highest office. Trump won the Republican nomination over 16 other candidates, many more experienced in politics, by capitalizing on a primary voting base that was angry at the establishment GOP for not more aggressively opposing President Barack Obama’s policies. Despite trailing Democratic nominee Hillary Clinton in the general election, Trump was aided by the near-daily release of stolen Democratic Party emails and FBI Director James Comey’s decision to reopen the probe into Clinton’s use of a private email server. Trump narrowly won Wisconsin, Michigan, and Pennsylvania by a total of 78,000 votes, defying Clinton’s expectations.  
+
+**END OF SUMMARY.**

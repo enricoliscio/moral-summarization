@@ -1,0 +1,16 @@
+Alright, I need to help the user by summarizing the given news article while preserving the moral framing words the author used. First, I'll read through the article to understand the main points. The article talks about how Trump's handling of the pandemic has made the US more vulnerable, both internationally and domestically. 
+
+I notice the author uses words like "failed," "vulnerable," "frayed," and "mishandled," which carry a negative moral judgment. My task is to include as many of these words as possible in the summary without making it too long—under 200 words.
+
+I should start by identifying the key sections. The first part discusses Trump's actions, like pulling out of the WHO, which has frayed international bonds. Then, it moves on to the consequences, such as the US being less likely to receive support in a new crisis. 
+
+Next, the article contrasts countries that have controlled COVID-19 well with those that haven't, like the US. It mentions the potential for a second virus to spread unnoticed due to resource strain. I need to capture that contrast and the resource issues.
+
+I also need to include the positive note about multiplex tests and vaccines, but the focus is on the negative impact of Trump's policies. I'll make sure to use words like "mishandled," "vulnerable," and "disengaging" to maintain the moral tone.
+
+Putting it all together, the summary should highlight Trump's failure, the weakening of international ties, the US's vulnerability, and the potential for another crisis. I'll keep each point concise to stay within the word limit.
+
+Finally, I'll structure the summary to flow logically, starting with Trump's actions, moving to the consequences, and ending with the contrast between well-controlled countries and those struggling. This should effectively convey the moral framing while being concise.
+</think>
+
+SUMMARY: Donald Trump has failed to protect the U.S. from the COVID-19 pandemic and has made the country more vulnerable to future crises. By attempting to pull the U.S. out of the World Health Organization, Trump has frayed international bonds, disengaging the nation from global health efforts and harming its already diminished international standing. The U.S., which has mishandled its own outbreak, bought up global drug stocks, and withdrawn from alliances, is less likely to receive warnings or support in a new crisis. While a second virus could be contained in vigilant countries like South Korea or Germany, it could spread unchecked in nations like the U.S., Brazil, or India, where resources are strained. The U.S. has already failed to marshal adequate resources for COVID-19, making it harder to detect or respond to a new respiratory virus. END OF SUMMARY.

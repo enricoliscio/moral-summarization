@@ -1,0 +1,41 @@
+<think>
+Alright, so I need to help the user with their query. They provided a news article and specific instructions on how to process it. The user wants me to act as a news summarizer and moral expert. 
+
+First, I should understand the task. They have two main parts: identifying morally framed words and summarizing the article while preserving those moral frames. 
+
+Starting with STEP 1: I need to go through the article and pick out single words that carry moral connotations. These are words that express judgment or evaluation, like "egocentric" or "false prophet." I should list each of these words, each on a new line with an asterisk. I have to make sure I don't miss any, so I'll read through the article carefully.
+
+Next, for the summary, I need to condense the article into 200 words or less. The key is to include as many of the morally framed words as possible. The summary should capture the main points: Trump's wall plan, the reactions from the Mexican ex-presidents, their criticisms, and Trump's response. I have to ensure that the moral framing is preserved, so I'll use the identified words in the summary.
+
+I should also structure my response correctly. The user specified starting with "STEP 1:" followed by the words, then the "SUMMARY:" part, ending with "END OF SUMMARY." I need to make sure the formatting is correct, using asterisks and line breaks as instructed.
+
+Now, considering the user's deeper needs, they likely want a concise yet comprehensive summary that highlights the moral aspects of the article. They might be using this for analysis or to understand the ethical dimensions of the political debate. So, I should ensure clarity and focus on the key moral points each side is making.
+
+I'll start by reading the article again to identify all the morally charged words. Words like "egocentric," "false prophet," "stupid," "harm," "false," "apologize," "foul," "criticized," "lacing," "profanity," and "false." These words convey judgment and are crucial for the moral framing.
+
+For the summary, I'll outline the main events: Trump's wall proposal, the ex-presidents' refusal to pay, their criticism of Trump's character and policies, and Trump's response. I'll include the moral words to maintain the original tone and message.
+
+I should also watch the word count to stay under 200 words. Being concise is key, so I'll focus on the essential points without unnecessary details.
+
+Finally, I'll review my work to ensure all steps are followed correctly and that the summary accurately reflects the article's moral framing. This way, the user gets a clear, concise summary that preserves the original ethical context.
+</think>
+
+**STEP 1:**
+
+* Egocentric  
+* False prophet  
+* Stupid  
+* Harm  
+* False  
+* Apologize  
+* Foul  
+* Criticized  
+* Lacing  
+* Profanity  
+* False  
+
+**SUMMARY:**  
+
+At his campaign rallies, Donald Trump repeatedly asks his supporters, "Who’s gonna pay?" for the border wall, to which they reply, "Mexico!" However, former Mexican presidents Vicente Fox and Felipe Calderón have firmly rejected the idea of Mexico paying for the wall, calling it "stupid" and "useless." Fox criticized Trump as "egocentric" and lacking political values, while Calderón argued that Trump was misinformed about immigration and that the wall would harm the U.S. economy. Trump, meanwhile, insists he can force Mexico to pay and has criticized Fox for using "foul language" in his comments.  
+
+END OF SUMMARY.

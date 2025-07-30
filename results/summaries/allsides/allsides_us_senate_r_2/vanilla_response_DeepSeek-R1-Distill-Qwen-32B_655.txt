@@ -1,0 +1,14 @@
+Alright, so I need to help the user by summarizing this news article. Let me read through the query again to make sure I understand what's needed. The user provided an article about Rex Tillerson's Senate confirmation hearing, and they want a summary that's no longer than 200 words. The summary should start with "SUMMARY:" and end with "END OF SUMMARY.".
+
+First, I'll scan the article to identify the main points. The key elements are the clash between Tillerson and Rubio, the topics they discussed like Russia, Cuba, Saudi Arabia, and the Philippines, Tillerson's stance on Russia, his comments on other issues like China and Syria, and some lighter moments during the hearing.
+
+I need to condense this into a concise summary. I'll focus on the main conflict between Tillerson and Rubio, Tillerson's refusal to label Putin as a war criminal, his views on Russia as an unfriendly adversary, and his criticism of the Obama administration's handling of Crimea. I'll also mention his comments on China and Syria, as well as the lighter moments with Kaine and the protesters.
+
+I should make sure the summary is under 200 words and flows naturally. Let me start by outlining the key points and then string them together in a coherent manner. I'll avoid including too much detail to keep it brief but informative.
+
+Also, I need to ensure that the summary starts and ends with the specified tokens. I'll double-check the word count to make sure it's within the limit. Once I have a draft, I'll review it to ensure clarity and that all main points are covered without unnecessary details.
+</think>
+
+SUMMARY:  
+During his Senate Foreign Relations Committee confirmation hearing, Rex Tillerson clashed with Sen. Marco Rubio over U.S. policy toward Russia, Cuba, Saudi Arabia, and the Philippines. Rubio pressed Tillerson to label Russian President Vladimir Putin a "war criminal," but Tillerson refused, emphasizing a more deliberative approach. Tillerson described Russia as an "unfriendly adversary" and criticized the Obama administration's weak response to Russia's annexation of Crimea. He also criticized China's illegal island-building in the South China Sea and called radical Islam a "grave risk." Tillerson acknowledged the complexity of the situation in Syria, prioritizing ISIS defeat over Assad's fate. He referred to cyber threats as the "greatest and most complex threat" to the U.S. A lighter moment occurred when Tillerson humorously dodged a question about ExxonMobil's climate policies. The hearing also saw protests, with activists dressed as a T-Rex and others. Tillerson's testimony followed a contentious session for Attorney General nominee Jeff Sessions.  
+END OF SUMMARY.

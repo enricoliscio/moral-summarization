@@ -1,0 +1,39 @@
+Okay, I need to help the user with their query. They want me to summarize a news article while preserving the moral framing. First, I should understand the task. They provided an article about San Francisco's sanctuary city policy and the reaction after a verdict. 
+
+The user has two main steps: identifying morally framed words and then summarizing the article using those words. I'll start by reading through the article to spot any words that carry moral connotations. Words like "travesty," "boycott," "unsafe," "refuge," "defends," "demonize," "slander," "pride," "exonerated," "tragedy," "overreached," "shocked," "saddened," "disgraceful," "violence," "weakly," "committing crimes," "felon," "illegal," "unfair," "prosecution," "injustice," "racism," and "discrimination" stand out. These words are used to convey moral judgments or stances in the article.
+
+Next, I need to write a concise summary (under 200 words) that includes as many of these words as possible. The summary should capture the key points: the verdict, the reactions from Trump and others, the city's stance on sanctuary policies, the trial details, and the family's response. I should ensure that the moral framing is preserved, so I'll include words like "travesty," "boycott," "unsafe," "defends," "demonize," etc., where appropriate.
+
+I'll structure the summary to first mention the verdict and the reactions, then the city's defense of their policy, the trial outcome, and the family's disappointment. I'll make sure to include the moral terms to reflect the author's framing without adding my own bias.
+
+Finally, I'll review the summary to ensure it's within the word limit and that all key points are covered. I'll check that the morally framed words are included and that the summary accurately reflects the article's content and tone.
+</think>
+
+**STEP 1:**  
+* travesty  
+* boycott  
+* unsafe  
+* refuge  
+* defends  
+* demonize  
+* slander  
+* pride  
+* exonerated  
+* tragedy  
+* overreached  
+* shocked  
+* saddened  
+* disgraceful  
+* violence  
+* weakly  
+* committing crimes  
+* felon  
+* illegal  
+* unfair  
+* prosecution  
+* injustice  
+* racism  
+* discrimination  
+
+**SUMMARY:**  
+The acquittal of Jose Ines Garcia Zarate, a Mexican man accused of killing Kate Steinle in San Francisco, sparked outrage and calls for a #BoycottSanFrancisco. President Trump and others criticized the verdict as a "travesty of justice" and demanded an end to sanctuary city policies. San Francisco defended its reputation as a refuge, emphasizing public safety and inclusivity. Garcia Zarate, with a history of immigration violations, was released despite federal requests for detention. The trial revealed conflicting accounts of the shooting, with jurors rejecting murder charges but convicting him of being a felon in possession of a firearm. Steinle’s family expressed shock and sadness, while critics accused the prosecution of overreaching. The verdict reignited debates over immigration, justice, and sanctuary policies, with accusations of demonization and slander against immigrants. END OF SUMMARY.

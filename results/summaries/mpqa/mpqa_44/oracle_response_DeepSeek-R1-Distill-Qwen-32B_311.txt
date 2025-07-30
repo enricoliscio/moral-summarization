@@ -1,0 +1,18 @@
+Okay, I need to help the user by summarizing a news article while preserving the moral framing. The user is a news summarizer assistant and a moral expert, so they probably need a concise summary that highlights the key points and the author's moral perspective.
+
+First, I'll read through the article to understand the main points. It's about Lebanon's officials reacting to a US human rights report. They're dissatisfied but not surprised. The report criticizes Lebanon on several fronts, like weakening central government power, being undemocratic, uncivilized, and abusing human rights. They mention specific points like the judiciary under political pressure and intelligence tapping phones, which harms Lebanon's image.
+
+The user provided a list of morally framed words: weakening, undemocratic, uncivilized, abusing, subjected, tapping. I need to make sure these words are included in the summary.
+
+I should start by stating that Lebanese officials are dissatisfied with the US report. Then mention the annual criticism and the specific criticisms about the central government's weakening. Highlight the undemocratic and uncivilized portrayal and the human rights abuse. Include the judiciary being subjected to political pressure and the tapping of phones. Also, note the praise for the press.
+
+I need to keep it under 200 words, so I'll be concise but include all key points. Make sure the summary flows logically, starting with the reaction, the criticisms, and the response from Lebanon.
+
+I'll structure it as: officials' reaction, the nature of the report's criticisms, specific points made, and Lebanon's response. Make sure to use the moral terms provided.
+
+Let me draft it: Officials are dissatisfied with the US report's annual criticism, calling it undemocratic and uncivilized. They mention the weakening of the central government and human rights abuse. The report says judiciary is independent in principle but subjected to pressure. Tapping phones of opposition and leaders is a serious issue. Lebanon plans to respond, emphasizing factors beyond their control and highlighting the press's role.
+
+I think that covers all the points while preserving the moral framing. Let me check the word count to ensure it's under 200. Looks good.
+</think>
+
+SUMMARY: Lebanese officials expressed dissatisfaction with the US State Department's human rights report, which they described as an annual criticism that discredits Lebanon as undemocratic, uncivilized, and abusing human rights. The report criticized the weakening of the central government's authority and highlighted the judiciary being subjected to political pressure, despite being "independent in principle." It also raised concerns over intelligence agents tapping the phones of opposition politicians and government leaders, harming Lebanon's democratic image. While the report praised the Lebanese press for its critical role, officials conveyed their concerns to US Ambassador Vincent Battle, emphasizing that the report's portrayal of Lebanon was unfair. Lebanon plans to respond by explaining factors beyond its control and addressing the report's serious allegations. END OF SUMMARY.

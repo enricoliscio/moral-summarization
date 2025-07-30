@@ -1,0 +1,23 @@
+Okay, I need to help the user by summarizing the given news article while preserving the moral framing. The user is a news summarizer assistant and a moral expert, so I should focus on the key points and the ethical implications discussed in the article.
+
+First, the article talks about the Russian government considering ratifying the Kyoto Protocol. It's an important international document aimed at reducing greenhouse gas emissions. I should note the significance of Russia's decision since without them, the protocol might not be effective.
+
+The article mentions that many countries, including the EU, Iceland, Japan, Australia, and Canada, are ready to ratify. It also highlights the debate among Russian scientists and experts. Some, like Andrey Gudkov, argue that Russia could benefit economically from the protocol, especially through selling emission quotas. This brings up the moral aspect of profit versus global responsibility.
+
+On the other hand, Sergey Kapitsa questions the extent of global warming and suggests looking into paleoclimatology data. This introduces a moral consideration about the accuracy of climate models and the need for scientific rigor.
+
+Nikolay Ratsiborinskiy from the Foreign Ministry points out that relying solely on selling quotas might hinder technological and economic progress. This touches on the moral dilemma between economic gain and sustainable development.
+
+The Kyoto Protocol's market mechanism is highlighted as a tool for reducing emissions, but there's a concern that it might not push Russia towards developing cleaner technologies. This raises ethical questions about prioritizing short-term gains over long-term environmental and technological advancement.
+
+I need to ensure the summary captures these moral framings: the balance between economic benefits and global responsibility, the need for accurate scientific understanding, and the potential trade-offs between market mechanisms and sustainable development.
+
+I should structure the summary to first introduce the topic, then outline the arguments for and against ratification, and conclude with the moral implications. Keeping it concise, within 200 words, while preserving the essence of the debate.
+
+Also, I should avoid technical jargon to make it accessible but still retain the key moral points. Making sure each paragraph flows logically from one point to the next, highlighting the conflicting viewpoints and their ethical underpinnings.
+
+Finally, I'll ensure that the summary starts with "SUMMARY:" and ends with "END OF SUMMARY." as per the user's instructions.
+</think>
+
+SUMMARY:  
+The Russian government is considering ratifying the Kyoto Protocol, a global initiative to reduce greenhouse gas emissions. While some experts argue that Russia could benefit economically by selling emission quotas, others caution against relying solely on market mechanisms. Sergey Kapitsa questions the extent of global warming, emphasizing the need for scientific rigor, while Nikolay Ratsiborinskiy warns that focusing on "hot air" sales may hinder technological and economic progress. The debate highlights the moral dilemma of balancing short-term economic gains with long-term environmental responsibility. Ratifying the protocol is seen as crucial for integrating Russia into global efforts to combat climate change, but critics argue it risks neglecting sustainable development. The discussion underscores the ethical imperative to address climate change responsibly, rather than exploiting it for profit. END OF SUMMARY.

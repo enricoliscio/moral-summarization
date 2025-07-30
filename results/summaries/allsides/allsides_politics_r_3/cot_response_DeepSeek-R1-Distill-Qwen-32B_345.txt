@@ -1,0 +1,38 @@
+Okay, so I need to help the user with their query. They provided a news article and specific instructions on how to process it. Let me break this down step by step.
+
+First, the user wants me to act as a news summarizer and a moral expert. My task is to summarize the given text while preserving the moral framing the author used. They have a two-step process: identify morally framed words and then write a summary using those words.
+
+Starting with STEP 1: Identifying single words that are morally framed. I'll go through the article and look for words that carry strong moral connotations. Words like "slammed," "murderous," "frightened," "create," "crimes," "nothing," "KGB," "Stalin," "up in arms," "silent," "scorned," "biased," "truth," "misleading." These words seem to carry the moral weight the author intended.
+
+Next, for the summary, I need to condense the article into no more than 200 words, using as many of the identified morally framed words as possible. The summary should capture the essence of Dershowitz's argument against the Democrats' impeachment efforts, comparing them to Stalinist methods, and his criticism of media bias.
+
+I should structure the summary to highlight Dershowitz's main points: the Democrats making up crimes, the comparison to Stalin and Beria, the lack of legal basis for impeachment charges, and the media's role in this. Also, mention his shift from appearing on left-leaning media to Fox News.
+
+I need to ensure the summary flows well and includes all key points without being too verbose. Let me draft it, making sure to incorporate the morally framed words naturally.
+
+Wait, did I miss any morally framed words? Let me check the article again. Words like "frightened," "create," "crimes," "nothing," "KGB," "Stalin," "up in arms," "silent," "scorned," "biased," "truth," "misleading" are all there. I think that's comprehensive.
+
+Now, putting it all together. Start with Dershowitz's criticism, the comparison, the legal arguments, the media bias, and his current media appearances. Make sure each sentence is concise and captures the moral framing.
+
+I think that's a solid approach. Time to write the summary accordingly.
+</think>
+
+**STEP 1:**  
+* Slammed  
+* Murderous  
+* Frightened  
+* Create  
+* Crimes  
+* Nothing  
+* KGB  
+* Stalin  
+* Up in arms  
+* Silent  
+* Scorned  
+* Biased  
+* Truth  
+* Misleading  
+
+**SUMMARY:**  
+Harvard Law School professor Alan Dershowitz, a self-described liberal Democrat, criticized congressional Democrats for their impeachment efforts against President Trump, comparing them to the Russian secret police under Stalin. He accused them of "making up crimes" and likening their actions to those of Lavrentiy Beria, Stalin's head of the KGB. Dershowitz argued that charges like "collusion" and "obstruction of Congress" lack legal basis, asserting that obstruction of Congress is a constitutional check, not a crime. He warned that such tactics endanger democracy and called out CNN for banning him, claiming they suppress dissenting views. Dershowitz, who has been a frequent guest on Fox News, criticized left-leaning media for spreading misinformation and parroting party lines. He emphasized that the ACLU should be "up in arms" but remains silent, highlighting the moral and constitutional stakes of the impeachment process.  
+**END OF SUMMARY.**

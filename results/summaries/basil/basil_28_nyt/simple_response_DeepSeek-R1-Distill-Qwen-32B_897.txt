@@ -1,0 +1,16 @@
+Okay, so the user has given me a query where they want me to act as a news summarizer and a moral expert. They provided a news article from the New York Times about the 2012 vice presidential debate between Joe Biden and Paul Ryan. My task is to summarize this article while preserving the moral framing that the author provided.
+
+First, I need to understand what the user is asking for. They want a summary that's concise, no more than 200 words, and it should capture the moral aspects as presented in the original text. The summary needs to start with "SUMMARY:" and end with "END OF SUMMARY.".
+
+Looking at the article, the main points are about the debate style of Biden and Ryan. Biden used aggressive tactics, mocked Ryan, and referenced historical figures like Dan Quayle and Jack Kennedy. Ryan, on the other hand, tried to stay respectful but showed irritation. The moderator, Martha Raddatz, was more active than her predecessor, pushing the candidates for specifics.
+
+I need to highlight the moral framing here. The article seems to critique Biden's approach as overly aggressive and disrespectful, while Ryan's attempts to stay respectful were sometimes undermined by Biden's tactics. The moderator's role in being more assertive is also a point to note.
+
+I should structure the summary to include the key events, the debate styles, and the moral implications. I need to make sure it's under 200 words, so I'll have to be concise but comprehensive.
+
+I'll start by mentioning Biden's aggressive tactics, his use of historical references, and the contrast with Ryan's respectful but sometimes flustered approach. Then, I'll note the moderator's active role and the underlying critique of Biden's behavior as disrespectful despite his effectiveness.
+
+Let me draft that, keeping it within the word limit and ensuring it flows well. I'll make sure to include the main points without getting bogged down in too much detail.
+</think>
+
+SUMMARY: In the 2012 vice presidential debate, Joe Biden aggressively confronted Paul Ryan, employing a combative style reminiscent of his past debates. Biden mocked Ryan, comparing him to Dan Quayle and questioning his economic policies, while Ryan struggled to maintain composure. Biden's tactics included interruptions, patronizing grins, and relentless questioning, particularly targeting Ryan's stance on Medicare and the stimulus program. Ryan attempted to stay respectful but occasionally showed irritation, especially when Biden interrupted him. Biden also deflected criticism of Mitt Romney's "47 percent" remark by highlighting his own gaffes. Moderator Martha Raddatz actively pushed both candidates for specifics, contrasting with the more passive approach in the Obama-Romney debate. The debate was marked by sharp exchanges, with Biden dominating the tone, though Ryan held his ground. The night highlighted Biden's aggressive debating style, which some viewed as disrespectful but effective in countering Ryan's arguments. END OF SUMMARY.

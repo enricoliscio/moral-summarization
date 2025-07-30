@@ -1,0 +1,39 @@
+Alright, so the user has given me a query where they want me to act as a news summarizer and moral expert. They provided a news article about the Kyoto Protocol and its economic implications. The task is to first identify morally framed words and then summarize the article while preserving those moral terms.
+
+First, I need to understand what morally framed words are. These are words that carry a judgment or imply a value, like "rip-off," "frightening," or "sacrifice." They convey more than just neutral information; they express a stance or opinion.
+
+Looking at the article, I'll go through each sentence to pick out these words. For example, "rip-off" is clearly a moral judgment against the treaty. "Frightening" is used to describe the impact of the figures, which is a negative framing. "Sacrifice" implies giving up something valuable, which is a moral consideration.
+
+Next, I need to list each of these words, each on a new line, starting with an asterisk. I should make sure not to miss any that carry such connotations. Words like "cost," "lose," "benefit," "sacrifice," "rip-off," "frightening," "crucial," "threat," "should," "sacrifice," "costly," "impossible," "abate," "depress," "spread," "threaten," "help," "costly," "likely," "fraction," "price tag" all seem to fit.
+
+After identifying these words, the next step is to write a concise summary. The summary needs to be under 200 words and include as many of these moral terms as possible. I'll start by highlighting the main points: the study's findings on job losses and economic costs, the Prime Minister's dismissal, the government report's confirmation of the costs, and the argument that the benefits don't justify the costs.
+
+I'll also include the comparison with global emissions, emphasizing that the impact is minimal and that the cost is too high. Finally, I'll mention the alternative approach of focusing on mitigating damage in vulnerable countries as a more effective use of resources.
+
+Throughout the summary, I'll ensure that the morally framed words are included to preserve the original article's tone and argument. This way, the summary not only informs but also conveys the moral stance presented in the original text.
+</think>
+
+**STEP 1:**  
+* rip-off  
+* frighten  
+* protect  
+* mission  
+* crucial  
+* threaten  
+* benefit  
+* sacrifice  
+* cost  
+* burden  
+* impossible  
+* abate  
+* depress  
+* spread  
+* threaten  
+* help  
+* costly  
+* fraction  
+* price tag  
+
+**SUMMARY:**  
+The article argues that implementing the Kyoto Protocol would be a rip-off for Canada, costing 450,000 jobs and $40 billion in economic output. Prime Minister Jean Chrétien dismisses these figures, but government reports confirm the potential loss of one year's economic growth. The article questions whether this sacrifice is worth it, as rising temperatures pose little threat to Canada and the global benefits of Kyoto would be minimal. The treaty would reduce global emissions by just 1/200th, while the cost of implementation would be $2 trillion in lost GDP. The article suggests focusing instead on mitigating the damage of global warming in vulnerable nations, such as providing aid for new crops, vaccines, and relocation, which would likely be far less costly than Kyoto's price tag.  
+**END OF SUMMARY.**

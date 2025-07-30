@@ -1,0 +1,15 @@
+<think>
+Okay, so I need to help the user by summarizing a news article while preserving the moral framing. The user provided the article and a list of morally charged words. My task is to create a concise summary using as many of those words as possible without exceeding 200 words.
+
+First, I'll read through the article to understand the main points. It's about the 1921 Tulsa race massacre, the recent discovery of mass graves, and how the event has been historically underreported. The article discusses the destruction of the Greenwood District, known as Black Wall Street, and the aftermath where the event was downplayed or erased from history.
+
+Next, I'll identify key morally framed words from the list provided. Words like "massacre," "violence," "assault," "resentment," "looting," "burning," "killing," "deaths," "attack," "mislabeled," "targeting," "blamed," "absolved," "bombing," "whitewashed," "sanitized," "erase," "victims," "churchbombing" are crucial to the moral narrative.
+
+I'll structure the summary to include the discovery of mass graves, the historical context of the massacre, the violence, and the subsequent efforts to erase the event. I'll mention the recent attention from media and ongoing efforts to commemorate the event. I'll ensure that each paragraph touches on these points using the morally framed words.
+
+I need to keep the summary under 200 words, so I'll be concise but comprehensive. I'll make sure each sentence includes relevant moral terms without making it sound forced. For example, when talking about the destruction, I'll use "looting," "burning," and "killing." When discussing the historical erasure, I'll use "mislabeled," "erase," and "whitewashed."
+
+Finally, I'll review the summary to ensure it flows well and accurately reflects the article's moral framing. I'll check the word count to make sure it's within the limit and that all key points are covered.
+</think>
+
+SUMMARY: Scientists in Tulsa, Oklahoma, have discovered evidence of mass graves linked to the 1921 Tulsa race massacre, a deadly event often referred to as "the single worst incident of racial violence in American history." The Greenwood District, known as "Black Wall Street," was thriving before the violence erupted on May 31, 1921, after an unproven accusation of an assault by a black man on a white woman. White mobs looted, burned, and killed, destroying 35 city blocks and leaving thousands homeless. The official death toll was 36, but historians estimate up to 300 deaths. Despite the scale of the violence, the massacre has been largely forgotten, with efforts to erase its history, including mislabeling it as a "riot" and omitting it from educational narratives. Recent discoveries and media attention, such as the HBO series "Watchmen," have brought the event back into focus. Scientists are examining potential mass grave sites, and local leaders aim to commemorate the 100th anniversary in 2021. The massacre challenges the narrative of black progress in America, highlighting the targeting of black success and the whitewashing of history. END OF SUMMARY.

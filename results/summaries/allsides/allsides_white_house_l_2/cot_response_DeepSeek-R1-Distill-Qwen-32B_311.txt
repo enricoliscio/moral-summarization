@@ -1,0 +1,36 @@
+Alright, I need to help the user by summarizing the given news article while preserving the moral framing. The user has specified two steps: first, identifying all the single words that are morally framed, and second, writing a concise summary that includes as many of these words as possible.
+
+Starting with STEP 1, I'll read through the article to spot words that carry a moral connotation. Words like "weaponized," "low-life," "caught," "worrisome," "abandonment," "infamous," "creepy," "boneheaded," "sank," "resignation," "criminal," "prosecuted," "intimidation," "entangled," "bluster," "chastisement," "adequacy," "devastating," "futility," "chilling," and "leaked" stand out as they carry moral judgments or implications.
+
+For the summary, I need to condense the article into under 200 words, ensuring it captures the main points and retains the moral framing. The key points are the leaks involving Flynn, Trump's response, the historical context with Nixon, the inefficacy of pursuing leakers, Tillerson's memo being leaked, and the comparison to Nixon's administration.
+
+I'll structure the summary to highlight the moral issues, such as the weaponized leaks, Trump's frustration, the failure to stop leaks despite efforts, and the inevitable continuation of leaking. I'll make sure to include the morally framed words to maintain the original tone and message.
+
+Finally, I'll ensure the summary flows logically, starting with the Flynn leaks, moving through Trump's actions, historical context, and ending with the implications of Tillerson's memo. This should provide a clear and concise summary that meets the user's requirements.
+</think>
+
+**STEP 1:**  
+* weaponized  
+* low-life  
+* caught  
+* worrisome  
+* abandonment  
+* infamous  
+* creepy  
+* boneheaded  
+* sank  
+* resignation  
+* criminal  
+* prosecuted  
+* intimidation  
+* entangled  
+* bluster  
+* chastisement  
+* adequacy  
+* devastating  
+* futility  
+* chilling  
+* leaked  
+
+**SUMMARY:**  
+The article discusses the moral and political implications of leaks involving Michael Flynn and the Trump administration, drawing parallels to the Nixon administration's handling of leaks during Watergate. The author highlights the weaponized nature of leaks in Washington, which have historically led to blame-shifting, low morale, and political downfall. President Trump's aggressive stance against leakers, including calling for criminal investigations, mirrors Nixon's creation of the "Plumbers," a group tasked with stopping leaks but ultimately contributing to scandal. The article notes that while pursuing leakers is often futile, as new leakers emerge, the Trump administration's efforts, including Tillerson's leaked memo, further entangle the White House in a cycle of leaks and accusations. The moral framing underscores the futility of stopping leaks and the inevitable continuation of the "whack-a-leak" game. END OF SUMMARY.

@@ -1,0 +1,46 @@
+<think>
+Okay, I need to tackle this query. The user has provided a news article and specific instructions on how to process it. They want me to act as a news summarizer and moral expert. My task is twofold: first, identify all the single words in the article that carry a moral framing, and second, write a summary preserving those moral terms.
+
+Starting with the first part, I need to go through the article and pick out words that have a moral connotation. These are words that imply judgment, value, or ethical considerations. I'll scan through each sentence, looking for words like "risk," "dire," "significant," "crisis," "failure," etc. Each of these carries a moral weight because they suggest consequences or evaluations of actions.
+
+Once I've listed all those words, I'll move on to summarizing the article. The summary needs to be concise, under 200 words, and include as many of those morally framed words as possible. I should focus on the main points: the White House's warning about inaction leading to a double dip recession, the debate over tax cuts, the consequences of delay, and the administration's push to pass the deal despite Democratic skepticism.
+
+I need to ensure the summary flows well, capturing the urgency and the moral stakes involved. I'll mention the key figures like Larry Summers and Rob Shapiro, their differing views, and the administration's strategy to push the deal through. I should highlight the consequences of not acting, such as increased taxes and loss of unemployment benefits, as these are morally significant points.
+
+I must remember to structure the summary clearly, starting with the main warning, then the debate, followed by the consequences, and ending with the administration's push. Keeping it under 200 words will require being concise but comprehensive.
+
+Finally, I'll make sure the summary starts with "SUMMARY:" and ends with "END OF SUMMARY." I'll double-check that all the morally framed words from the first step are included where appropriate, without forcing them in unnaturally.
+
+Alright, I think I have a clear plan. Time to execute it step by step, ensuring each part is done accurately and meets the user's requirements.
+</think>
+
+**STEP 1:**  
+* risk  
+* dire  
+* significantly  
+* consequences  
+* failure  
+* double dip  
+* stall out  
+* contractionary  
+* stimulative  
+* boost  
+* lift  
+* avert  
+* stabilize  
+* docket  
+* skeptical  
+* generous  
+* carrots  
+* sticks  
+* compromise  
+* decreased  
+* difficult  
+* blame  
+* downturn  
+* fight  
+* better  
+* fundamentally  
+
+**SUMMARY:**  
+Senior White House officials warned that congressional inaction on the Bush tax cuts would "significantly increase the risk" of a double dip recession. Larry Summers emphasized the dire consequences of failing to pass the bill, stating it could stall economic growth. However, Rob Shapiro argued that delaying the tax cut package would not cause a double dip but warned that the current deal might not be sufficient to lift the economy. The administration urged Democrats to accept the deal, highlighting the real consequences of inaction, such as increased taxes and loss of unemployment insurance. They stressed that without the deal, the economic situation would become difficult, and delaying further would risk being blamed for a downturn. The administration's message was clear: take the package now or face the consequences. END OF SUMMARY.

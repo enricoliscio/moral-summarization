@@ -1,0 +1,56 @@
+<think>
+Okay, so I need to help the user with their query. They provided a news article about Representative Michael G. Grimm and want me to summarize it while preserving the moral framing. They also want me to first identify the morally framed words. 
+
+First, I'll read through the article carefully. The user mentioned two steps: identifying single words with moral framing and then writing a summary. 
+
+For the first step, I need to find words that carry moral connotations. Words like "fraud," "corruption," "indictment," "lying," "vendetta," "misuse," "wrongdoing," "dishonesty," "integrity," "dedication," "service," "veteran," "decorated," "public service," "temper," "misbehavior," "threat," "intimidation," "harassment," "exploitation," "dishonest," "deceit," "abuse," "scorn," "condemn," "exemplify," "transparency," "accountability," "honesty," "ethics," "morality," "righteousness," "corruption," "dishonesty," "integrity," "service," "veteran," "decorated," "public service," "temper," "misbehavior," "threat," "intimidation," "harassment," "exploitation," "dishonest," "deceit," "abuse," "scorn," "condemn," "exemplify," "transparency," "accountability," "honesty," "ethics," "morality," "righteousness." 
+
+Wait, some of these might overlap or be repeated. I should list each unique word once. 
+
+Now, for the summary, I need to condense the article, keeping the moral aspects. The key points are Grimm's expected indictment on fraud charges, his background as an FBI agent and Marine, the focus on his restaurant business, obstruction of justice by lying under oath, the investigation started over fundraising, other fundraisers being charged, no campaign misuse, his lawyer's defense, his reputation for being hot-tempered, and a specific incident with a reporter where he threatened him. 
+
+I should make sure to include the morally framed words where appropriate, like "fraud," "corruption," "indictment," "lying," "vendetta," etc. The summary should be concise, under 200 words, and capture the essence of the article with the moral elements highlighted.
+</think>
+
+**STEP 1:**
+
+* Fraud  
+* Corruption  
+* Indictment  
+* Lying  
+* Vendetta  
+* Misuse  
+* Wrongdoing  
+* Dishonesty  
+* Integrity  
+* Dedication  
+* Service  
+* Veteran  
+* Decorated  
+* Public service  
+* Temper  
+* Misbehavior  
+* Threat  
+* Intimidation  
+* Harassment  
+* Exploitation  
+* Dishonest  
+* Deceit  
+* Abuse  
+* Scorn  
+* Condemn  
+* Exemplify  
+* Transparency  
+* Accountability  
+* Honesty  
+* Ethics  
+* Morality  
+* Righteousness  
+
+---
+
+**SUMMARY:**  
+
+Representative Michael G. Grimm, a former F.B.I. agent and Marine, is expected to face federal fraud charges, including mail fraud, wire fraud, and obstruction of justice, stemming from his ownership of a health food restaurant. The investigation, led by the F.B.I. and Brooklyn U.S. attorney’s office, began over fundraising practices but expanded to focus on alleged wrongdoing in his restaurant business. Two of his fundraisers have already been charged, but no campaign finance misuse has been alleged. Grimm’s lawyer claims the charges are politically motivated and vows his innocence. Grimm, known for a hot temper, recently threatened a reporter during an interview, exemplifying his controversial reputation. His case highlights issues of integrity, accountability, and ethics in public service.  
+
+**END OF SUMMARY.**

@@ -1,0 +1,19 @@
+<think>
+Alright, so the user has given me a news article and wants me to summarize it. They specified that the summary should be after a "SUMMARY:" token and end with "END OF SUMMARY." Also, it should be no longer than 200 words. 
+
+First, I need to read through the article carefully to understand the main points. The article is from the United Nations, specifically the Third Committee of the 56th UN General Assembly. Delegations are discussing human rights, emphasizing that without development, people can't fully enjoy their rights. They mention the right to development and international peace as key factors. 
+
+Thailand's representative is quoted, saying human rights and development are two sides of the same coin. Eritrea and China are also mentioned, with China pointing out how globalization affects poor countries. The US representative talks about the importance of human rights in the fight against terrorism. 
+
+I should identify the key points: the focus on development and peace, the interconnectedness of human rights and development, the impact of globalization, and the role of human rights in combating terrorism. 
+
+Now, I need to condense this into a concise summary. I'll start by stating the main topic, then mention the key points each delegation made. I should ensure it's under 200 words and flows well. 
+
+Let me structure it: introduce the debate, mention the main issues discussed, highlight key statements from Thailand, Eritrea, China, and the US. Make sure to include the committee's continuation of the debate. 
+
+I'll check the word count as I go. Also, ensure that the summary starts with "SUMMARY:" and ends correctly. Avoid any markdown, just plain text. 
+
+Okay, putting it all together, making sure each point is clear and concise without losing the essence of the article.
+</think>
+
+SUMMARY: The Third Committee of the 56th UN General Assembly held a debate on human rights, emphasizing that development and international peace are crucial for the enjoyment of human rights. Delegates stressed that without development, people facing poverty, hunger, and poor health cannot fully realize their rights. Thailand highlighted the interconnectedness of human rights and development, while Eritrea and China warned that globalization risks marginalizing developing nations and hindering their ability to protect rights. China's representative, Shen Guofang, noted that underdevelopment hampers human rights progress in poor countries. The U.S. delegate emphasized that protecting human rights is essential in the fight against terrorism. Representatives from several countries participated in the discussion, which will continue the next day. END OF SUMMARY.

@@ -1,0 +1,36 @@
+<think>
+Okay, so the user wants me to act as a news summarizer and a moral expert. They provided a detailed news article about emails from the White House related to the Benghazi attack. My task is to first identify all the single words that are morally framed in the article. Then, I need to write a summary preserving those moral words.
+
+First, I'll read through the article to understand the context. It's about internal disagreements within the U.S. government over the talking points used after the Benghazi attack. The key players are the State Department, CIA, and the White House. There's tension between Petraeus and Morell about how much information to disclose.
+
+For step one, I need to find words that carry moral implications. Words like "sensitive," "concerns," "objected," "scrubbed," "motivations," "abused," "interests," "complicit," "airbrushed," "cover-up," "transparency," "credibility," "selectively," "inaccurately," "misleading," "spin," and "political." These words suggest issues of honesty, fairness, and responsibility.
+
+Now, moving on to the summary. I need to condense the article into 200 words, keeping the moral framing intact. I'll start by outlining the main points: the emails reveal internal conflicts, Morell's edits, Petraeus's dismissal, the State Department's influence, the final talking points being altered, Republican accusations, and the White House's response.
+
+I'll make sure to include the morally charged words to reflect the author's framing. The summary should highlight the tension, the political implications, and the accusations of altering information for political gain. I'll also mention the lack of new details about the attack itself.
+
+Putting it all together, the summary should flow logically, starting with the emails' release, the internal disputes, the edits, the political accusations, and the White House's stance. I need to keep it concise but comprehensive, ensuring all key moral points are included without exceeding 200 words.
+</think>
+
+**STEP 1:**  
+* Sensitive  
+* Concerns  
+* Objected  
+* Scrubbed  
+* Motivations  
+* Abused  
+* Interests  
+* Complicit  
+* Airbrushed  
+* Cover-up  
+* Transparency  
+* Credibility  
+* Selectively  
+* Inaccurately  
+* Misleading  
+* Spin  
+* Political  
+
+**SUMMARY:**  
+The release of White House emails revealed internal disputes over the government’s talking points following the 2012 Benghazi attack. CIA Director David Petraeus and Deputy Michael Morell disagreed on信息披露, with Morell removing references to CIA warnings about extremist threats in Libya. State Department officials objected, fearing it would reflect poorly on them. Petraeus dismissed the final draft, calling it unsatisfactory. The emails showed a bureaucratic tug-of-war between the State Department and CIA, with the White House mediating under time pressure. Critics accused the administration of altering the talking points for political reasons, particularly during the election campaign. The final version omitted details about Libya’s dangerous environment, raising questions about the State Department’s security posture. Republicans claimed the administration had airbrushed its account, while the White House insisted it focused on factual accuracy and protecting the investigation. The emails highlighted the political nature of the edits and the struggle to balance transparency with sensitivity.  
+**END OF SUMMARY.**

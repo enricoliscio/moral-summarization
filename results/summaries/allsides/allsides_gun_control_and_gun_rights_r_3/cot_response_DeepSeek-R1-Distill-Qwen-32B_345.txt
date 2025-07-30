@@ -1,0 +1,45 @@
+Okay, so the user has given me a query where I need to summarize a news article while preserving the moral framing. They've broken it down into two steps: first, identifying morally framed words, and then writing the summary.
+
+First, I need to understand what morally framed words are. These are words that carry a strong emotional or ethical connotation. Words like "tragedy," "critical," "bravery," etc., which evoke feelings or judgments.
+
+Looking at the article, I should go through each paragraph and pick out words that have that moral weight. For example, "tragedy" is clearly a strong word indicating a negative event. "Critical" when referring to injuries shows the severity. "Bravery" is a positive moral trait. I'll need to list each of these words, each on a new line with an asterisk.
+
+Next, for the summary, I have to condense the article into 200 words or less. I need to include as many of the morally framed words as possible to preserve the author's tone. The summary should cover the main points: the shooting incident, the suspect, the injuries, the response from authorities, the heroism of the teacher, the community's reaction, and the broader implications about school safety.
+
+I should structure the summary to start with the event, mention the suspect and injuries, then the quick resolution thanks to the teacher's actions. Then, include the community's and political responses, the investigation, and the call for action on school safety.
+
+I need to make sure the summary flows well and includes all key elements without being too verbose. Also, I must ensure that the morally framed words are included to reflect the article's tone.
+
+I'll start by outlining the main points: shooting at school, two injured, suspect detained, teacher's bravery, community reactions, political statements, and the broader issue of school safety.
+
+Now, putting it all together, making sure each sentence is concise and includes the necessary moral terms. I should check the word count to stay under 200 words.
+
+Finally, I'll review the summary to ensure it captures the essence of the article and maintains the moral framing as required.
+</think>
+
+**STEP 1:**
+
+\*Tragedy  
+\*Critical  
+\*Injured  
+\*Detained  
+\*Active shooter  
+\*Quickly  
+\*Heroism  
+\*Resource officer  
+\*Fear  
+\*Bravery  
+\*Prayers  
+\*Community  
+\*Horrible  
+\*Enough  
+\*Violence  
+\*Responsibility  
+\*Safety  
+
+---
+
+**SUMMARY:**  
+A tragic shooting occurred at Noblesville West Middle School in Indiana, leaving a teacher and student critically injured. A male student was detained after the incident, which unfolded quickly. A teacher, identified as Jason Seaman, heroically tackled the suspect, preventing further harm. Authorities, including the FBI and ATF, are investigating. The school has a resource officer, but no metal detectors. Students and parents praised Seaman’s bravery, as he was shot multiple times and underwent surgery. Politicians, including Vice President Mike Pence and Indiana Governor Eric Holcomb, expressed prayers for the community. The incident has sparked calls for action to prevent future violence, with the Indiana State Teachers Association asking, “When is enough, enough?” The community remains in shock, with parents rushing to reunite with their children. The shooting follows a similar tragedy in Santa Fe, Texas, highlighting the ongoing national crisis of school violence.  
+
+**END OF SUMMARY.**

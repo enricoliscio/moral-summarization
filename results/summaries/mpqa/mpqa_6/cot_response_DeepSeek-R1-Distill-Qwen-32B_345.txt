@@ -1,0 +1,25 @@
+Alright, so the user has given me a query where they want to summarize a news article while preserving the moral framing. They've also provided specific steps to follow. Let me break this down.
+
+First, I need to understand what the user is asking for. They want me to act as a news summarizer assistant and a moral expert. The task involves two main steps: identifying morally framed words and then summarizing the article while keeping those words.
+
+Looking at the article, it's about Brazil and Germany pushing for the Kyoto Protocol's implementation. The morally framed words are likely those that carry a sense of responsibility, cooperation, and urgency. Words like "implement," "ratify," "cooperation," "expect," "stress," and "importance" stand out because they imply actions and values.
+
+Next, I need to summarize the article. The key points are the countries' call for the Kyoto Protocol to take effect by September, their cooperation in environmental efforts, and their focus on the tropical forest program. I should ensure the summary includes these points and the identified moral words.
+
+I should also keep the summary concise, under 200 words, and structure it after the "SUMMARY:" token. I need to make sure the moral framing is preserved, so the summary should reflect the urgency and collaborative efforts highlighted in the original text.
+
+I think I've got all the elements. Now, I'll proceed to list the morally framed words and then craft the summary accordingly.
+</think>
+
+**STEP 1:**  
+* Implement  
+* Ratify  
+* Enforce  
+* Cooperation  
+* Expect  
+* Stress  
+* Importance  
+
+**SUMMARY:**  
+Brazil and Germany have reaffirmed their commitment to the Kyoto Protocol, urging its implementation by September during the Rio+10 Sustainable Development Summit in South Africa. Both countries have emphasized the need for other nations to ratify and enforce the protocol, highlighting its significance in global environmental efforts. The Partnership Brasil-Germany: Action Plan outlines their intention to expand cooperation in environmental and sustainable development initiatives. They aim to present unified positions at the Rio+10 meeting, underscoring the importance of the Pilot Program for Protection of Tropical Forests (PPG-7), with Germany actively participating in the program. Their actions reflect a shared dedication to combating climate change and promoting sustainable practices.  
+**END OF SUMMARY.**

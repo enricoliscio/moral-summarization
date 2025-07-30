@@ -1,0 +1,27 @@
+<think>
+Alright, so I need to help the user by summarizing the news article while preserving the moral framing. Let me break down what the user is asking for. 
+
+First, the user wants me to identify all the single words that are morally framed in the article. These words are likely to have strong connotations related to ethics or values. I'll go through the text and pick out words like "cruel," "basic decency," "wrong," "self-defeating," "threat," "contribution," "cruelty," "morality," "fairness," "opportunity," "right," and "wrong." These words carry moral weight and are central to the argument Obama is making.
+
+Next, I need to write a concise summary of the article. The summary should be no longer than 200 words and include as many of the identified moral terms as possible. I should focus on the key points: Obama's criticism of Trump ending DACA, the moral arguments he presents, and the implications for the Dreamers. I'll make sure to highlight how Obama uses these moral terms to argue against the policy change, emphasizing the impact on individuals and the community.
+
+I also need to structure the summary clearly, starting with Obama's main criticism, then detailing the moral arguments, and concluding with the broader implications. This way, the summary remains coherent and preserves the moral framing effectively.
+</think>
+
+**STEP 1:**  
+* Cruel  
+* Decency  
+* Wrong  
+* Self-defeating  
+* Threat  
+* Contribution  
+* Cruelty  
+* Morality  
+* Fairness  
+* Opportunity  
+* Right  
+* Wrong  
+
+**SUMMARY:**  
+Former President Obama criticized President Trump for ending the DACA program, calling the decision "cruel" and lacking "basic decency." He argued that DACA recipients, often referred to as "Dreamers," pose no threat and contribute positively to society, serving in roles like teachers, first responders, and military cadets. Obama questioned the morality of deporting individuals who have lived in the U.S. for years, emphasizing that it is "self-defeating" to target them. He noted that the decision was not legally required but a political choice with moral implications. Obama highlighted that Dreamers are not responsible for their immigration status and urged the country to uphold fairness and opportunity for them, rather than treating them as threats. His message underscored the importance of empathy and justice in immigration policy.  
+**END OF SUMMARY.**

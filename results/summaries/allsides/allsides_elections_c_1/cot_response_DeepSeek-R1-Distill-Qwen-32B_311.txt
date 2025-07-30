@@ -1,0 +1,41 @@
+Okay, I need to help the user by summarizing the given news article while preserving the moral framing. The user has provided a specific structure, so I should follow that closely. 
+
+First, I have to identify all the single words that are morally framed. I'll go through the article and pick out words that carry a moral connotation. Words like "scornful," "phony," "wrong," "hollow," "doctored," "darkened," "defund," "hyperbole," "extremist," "racist," "defeat," "dishonest," "apocalyptic," "dictator," "kill," "innocent," "rebel," "unjust," "morally," "dishonesty," "extremism," "unjust," and "failed." I'll list these each on a new line starting with an asterisk.
+
+Next, I need to write a concise summary of the article. I should make sure to include as many of these morally framed words as possible without making the summary too long—no more than 200 words. The summary should highlight Trump's resilience despite repeated predictions of his downfall, the incorrect expert opinions, and the moral arguments used by his critics. I'll structure it to show how each crisis was predicted to end his presidency but didn't, and how his critics' hyperbole反而 supports his base.
+
+I need to ensure the summary flows well and accurately reflects the article's content, emphasizing the moral framing without adding personal opinions. I'll check the word count to stay within the limit and make sure all key points are covered: COVID-19 response, economic recovery, George Floyd protests, critics' predictions, and the comparison to other presidents. Also, I'll mention the hyperbole and how it backfires, leading to the conclusion that Trump's reelection is likely due to his critics' own narratives.
+
+Finally, I'll format the response with STEP 1 listing the words and then the SUMMARY, making sure to end with the specified tokens. I should avoid any markdown and keep the language clear and concise.
+</think>
+
+**STEP 1:**
+
+* scornful  
+* phony  
+* wrong  
+* hollow  
+* doctored  
+* darkened  
+* defund  
+* hyperbole  
+* extremist  
+* racist  
+* defeat  
+* dishonest  
+* apocalyptic  
+* dictator  
+* kill  
+* innocent  
+* rebel  
+* unjust  
+* morally  
+* dishonesty  
+* extremism  
+* unjust  
+* failed  
+
+**SUMMARY:**  
+
+The article argues that Donald Trump has consistently defied predictions of his political downfall, despite repeated claims from critics and pundits. From the COVID-19 crisis to the economic lockdown and the George Floyd protests, experts and media outlets have falsely predicted his demise. Trump's approval ratings, particularly on handling the economy and crisis response, have remained resilient, with the stock market rebounding and unemployment improving. Critics, including progressive commentators and establishment figures, have resorted to hyperbole, accusing Trump of abdicating presidential duties, behaving like a dictator, and inciting violence. However, the article highlights that Trump's durability is bolstered by the extreme rhetoric of his opponents, who often overstate their case. Polls show Trump's approval numbers are comparable to those of past presidents, and his reelection prospects remain strong. The piece concludes that the constant narrative of Trump's political defeat is premature and that his critics' moral framing may ultimately backfire, ensuring his continued relevance in the 2020 election.  
+**END OF SUMMARY.**

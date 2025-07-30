@@ -1,0 +1,14 @@
+Alright, so the user wants me to summarize a news article while preserving the moral framing. The article is about Trump criticizing social media companies for discrimination against conservatives. 
+
+First, I need to read the article carefully to understand the main points. Trump is accusing the platforms of silencing Republican and conservative voices, which he sees as unfair. He mentions that some voices are being destroyed, both good and bad, and suggests letting everyone participate, implying a hands-off approach.
+
+I should note that he's against censorship, calling it dangerous and hard to regulate. He also brings up "fake news" from CNN and MSNBC, which he watches but with skepticism. The article also mentions that tech companies have banned Alex Jones recently, though Trump doesn't name him.
+
+Now, I need to create a summary that's under 200 words. It should capture Trump's main arguments: the discrimination claim, his solution of letting everyone participate, his stance against censorship, and the mention of fake news. I should keep the moral tone, which is about fairness and freedom of speech.
+
+I'll start by stating Trump's criticism, then his solution, followed by his views on censorship and fake news. Finally, I'll mention the context of recent bans without naming specific individuals. 
+
+I need to make sure the summary is concise and flows well, preserving the original's moral perspective. Also, the summary should be after the "SUMMARY:" token and end with "END OF SUMMARY.".
+</think>
+
+SUMMARY: President Donald Trump criticized social media companies on Twitter, accusing them of "totally discriminating against Republican/Conservative voices" and "closing down the opinions of many people on the RIGHT." He argued that censorship is dangerous and impossible to police, suggesting that "too many voices are being destroyed, some good and some bad," and advocating for allowing everyone to participate, regardless of the quality of their speech. Trump also reiterated his familiar complaints about "fake news" from CNN and MSNBC, which he watches but with skepticism. His remarks come amid recent actions by tech companies to ban conspiracy theorist Alex Jones and his website Infowars, though Trump did not reference this specifically in his tweets. END OF SUMMARY.

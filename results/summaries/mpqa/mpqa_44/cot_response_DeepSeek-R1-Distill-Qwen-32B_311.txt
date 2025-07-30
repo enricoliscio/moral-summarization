@@ -1,0 +1,26 @@
+Alright, I need to help the user by summarizing the news article while preserving the moral framing. First, I should identify the morally framed words as per the user's instructions. I'll go through the article and pick out words that carry a moral connotation. Words like "criticism," "annual," "weak," "prerogatives," "discredit," "undemocratic," "uncivilized," "abusing," "dissatisfaction," "independent," "monitoring," "harms," "image," "democratic," and "praised" stand out. These words are crucial for maintaining the article's moral tone.
+
+Next, I'll summarize the article. I need to ensure that the summary is concise, under 200 words, and includes as many of the identified morally framed words as possible. The summary should reflect the Lebanese officials' dissatisfaction with the US report, highlighting their points about the judiciary, intelligence monitoring, and the press's role. I'll structure the summary to first mention the officials' reaction, then the specific criticisms, and conclude with the positive note about the press. This approach maintains the moral framing and provides a clear overview of the article's content.
+</think>
+
+**STEP 1:**  
+* criticism  
+* annual  
+* weak  
+* prerogatives  
+* discredit  
+* undemocratic  
+* uncivilized  
+* abusing  
+* dissatisfaction  
+* independent  
+* monitoring  
+* harms  
+* image  
+* democratic  
+* praised  
+
+**SUMMARY:**  
+Lebanese officials expressed dissatisfaction with the US State Department's annual human rights report, which criticized Lebanon for weakening central government prerogatives, judicial independence under political pressure, and intelligence monitoring of opposition politicians. They argued the report discredits Lebanon as undemocratic or uncivilized, harming its image. While the report praised the Lebanese press for criticizing the government, officials conveyed their concerns to the US Ambassador, emphasizing that such criticism is annual and not unique to Lebanon. The report's focus on political pressure on the judiciary and intelligence activities was seen as the most serious issue, with Lebanon planning to respond by explaining factors beyond its control.  
+
+**END OF SUMMARY.**

@@ -1,0 +1,16 @@
+Okay, so the user wants me to summarize a news article. Let me read through the query first. They provided an article about Bibi Netanyahu and a new ad by Secure America Now. The user is a news summarizer assistant, so I need to create a concise summary.
+
+First, I should understand the main points of the article. It's about an ad by a neoconservative group targeting Obama's foreign policy, specifically regarding Israel and Iran. The ad is airing in Florida, where there are large Jewish communities. They mention the cost, the connection to Netanyahu's party, and how it ties into the Republican campaign against Obama.
+
+I need to make sure the summary is under 200 words. I'll start by identifying key elements: the ad's purpose, where it's airing, the cost, the connection to Netanyahu, and the political implications. Also, note that Netanyahu is trying to stay out of the election but his statements are being used.
+
+I should structure the summary to include the ad's details, the political context, and Netanyahu's response. It's important to mention that the ad supports Romney's stance and the ongoing narrative against Obama's handling of Israel.
+
+Let me draft the summary, ensuring it's clear and concise. I'll check the word count to make sure it's within the limit. Also, I need to end with the specified tokens.
+
+Wait, I should make sure to include that the ad doesn't mention Obama by name but implies the GOP narrative. Also, mention that this isn't the first ad by the group against Obama.
+
+Okay, putting it all together, making sure each sentence adds value and stays within the word limit. I think that's all. Let me write the summary now.
+</think>
+
+SUMMARY: A new ad by the neoconservative group Secure America Now features Israeli Prime Minister Bibi Netanyahu discussing Israel's security concerns about Iran's nuclear program. The ad, costing up to $1 million, is airing in Florida's Jewish communities. It ties into Republican criticism of President Obama's handling of U.S.-Israel relations, with Mitt Romney accusing Obama of neglecting Israel. Netanyahu has distanced himself from the ad, stating he won't be drawn into U.S. politics, and denied Obama refused a meeting, attributing it to scheduling. The ad, which implicitly criticizes Obama without naming him, aligns with the GOP narrative on U.S.-Israel relations. Secure America Now, which claims to represent all political ideologies, has previously run similar ads targeting Obama. END OF SUMMARY.

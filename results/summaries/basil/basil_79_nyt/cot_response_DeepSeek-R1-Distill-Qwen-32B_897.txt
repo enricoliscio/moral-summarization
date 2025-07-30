@@ -1,0 +1,39 @@
+Okay, so I'm trying to help this user who wants a news summary with a focus on moral framing. They provided an article about Trump's comments on Flynn and Clinton. First, I need to understand what they're asking for. They want me to act as a news summarizer and a moral expert, so I have to make sure the summary preserves the moral aspects the author presented.
+
+The user has given specific instructions: first, identify all the single words that are morally framed. Then, write a summary that includes as many of those words as possible, keeping it under 200 words. They also want the summary after a "SUMMARY:" token and ending with "END OF SUMMARY."
+
+So, starting with STEP 1, I need to go through the article and pick out words that carry moral connotations. Words like "ruined," "lied," "destroyed," "immunity," "strong," "badly," "nothing," "fired," "innocent," "fair," "unfair," "favoritism," "corruption," "dishonesty," "hypocrisy," "favoritism," "corruption," "dishonesty," "hypocrisy." These words reflect judgment or moral evaluation.
+
+Next, for the summary, I need to condense the article, making sure to include these moral words. The key points are Trump's criticism of the FBI for ruining Flynn's life, comparing it to Clinton's lack of consequences for lying, and the context of the Mueller investigation. I should mention Flynn's guilty plea, Trump's empathy towards Flynn, and the political implications, like the perception of unfair treatment.
+
+I have to be concise, so I'll structure it to include Trump's statements, the comparison between Flynn and Clinton, the context of the investigation, and the moral implications. I'll make sure each sentence flows logically, preserving the moral framing without adding my own bias.
+
+I also need to check the word count to ensure it's under 200 words. Let me draft it, making sure to include all the key moral terms and the essential facts. I should avoid any markdown and keep it in plain text, as per the instructions.
+
+Finally, I'll review the summary to ensure it accurately reflects the article's content and maintains the moral perspective. I'll make sure all the identified moral words are included where appropriate, without forcing them in if they don't fit naturally.
+</think>
+
+**STEP 1:**
+* Ruined
+* Lied
+* Destroyed
+* Immunity
+* Strong
+* Badly
+* Nothing
+* Fired
+* Innocent
+* Fair
+* Unfair
+* Favoritism
+* Corruption
+* Dishonesty
+* Hypocrisy
+* Favoritism
+* Corruption
+* Dishonesty
+* Hypocrisy
+
+**SUMMARY:**
+President Trump criticized the F.B.I. for ruining the life of his former national security adviser, Michael Flynn, who pleaded guilty to lying to the agency. Trump contrasted Flynn's fate with Hillary Clinton, who he claimed lied "many times" to the F.B.I. but faced no consequences. Flynn was fired after lying to the vice president about his conversations with the Russian ambassador. Trump expressed empathy for Flynn, stating, "I feel very badly. He’s led a very strong life." Trump also implied unfair treatment, suggesting that while Flynn was destroyed, Clinton suffered nothing despite her alleged dishonesty. This came as the Mueller investigation intensified its focus on Trump’s inner circle. Trump’s comments raised questions about potential favoritism and corruption, highlighting the moral and political implications of the situation.  
+**END OF SUMMARY.**

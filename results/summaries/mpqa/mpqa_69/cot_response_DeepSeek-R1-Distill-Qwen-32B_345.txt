@@ -1,0 +1,28 @@
+<think>
+Okay, so I need to help the user by summarizing this news article while preserving the moral framing. The user has given specific instructions, so I should follow them step by step.
+
+First, I need to identify all the single words that are morally framed. The user mentioned that these words should be listed in step 1, each on a new line with a *. I'll go through the article and pick out words that carry a moral connotation. Words like "protest," "oppose," "regrettable," "dismayed," "sacrificing," "outrcry," "demand," "reconsider," "existing," "fair," and "cooperate" seem to fit. I'll make sure to list each one correctly.
+
+Next, I have to write a concise summary of the article, keeping it under 200 words. The summary should include as many of the morally framed words as possible. I'll start by stating the protest against the U.S. alternative to the Kyoto Protocol. I'll mention the groups involved, their actions, and the key points from their letters. I'll also include the meeting between Koizumi and Bush and the broader issues like terrorism and military actions. I need to make sure the summary flows well and captures the moral stance presented in the article.
+
+I should avoid any markdown and keep the language clear and straightforward. Let me double-check that I've included all the necessary points and that the summary stays within the word limit. I'll also ensure that the moral framing words are appropriately integrated to reflect the original article's tone.
+</think>
+
+**STEP 1:**
+
+* Protest
+* Opposed
+* Regrettable
+* Dismayed
+* Sacrificing
+* Outcry
+* Demand
+* Reconsider
+* Existing
+* Fair
+* Cooperate
+
+---
+
+**SUMMARY:** Environmentalist groups protested against the U.S. alternative to the Kyoto Protocol near the U.S. Embassy in Tokyo as President George W. Bush arrived. About 50 members of NGOs, including Friends of the Earth Japan, opposed the U.S. stance, calling it "regrettable" and urging Bush to "re-enter" the Kyoto Protocol. Protesters carried banners demanding the U.S. ratify the protocol and opposed Bush's new climate plan, which allows greenhouse gas emissions to rise by 30% by 2010. NGOs criticized the plan as inadequate and urged Bush to reconsider. Meanwhile, Prime Minister Junichiro Koizumi and Bush were set to discuss global warming measures. Environmental groups also called for U.S. leadership in supporting developing countries and criticized U.S. actions in the "war against terrorism," urging a stop to air raids on Afghanistan and nuclear tests. The protest highlighted the moral and environmental stakes of the U.S. climate policy.  
+**END OF SUMMARY.**

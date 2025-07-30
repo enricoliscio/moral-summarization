@@ -1,0 +1,15 @@
+<think>
+Alright, so I need to help this user summarize a news article while preserving the moral framing. The user provided the article and a list of morally framed words. Let me start by understanding the task.
+
+First, I'll read through the article to get the main points. It's about Rep. Michele Bachmann and a Newsweek cover story calling her "The Queen of Rage." There's criticism from Terry O'Neill of NOW, who calls it sexist and misogynistic. Newsweek defends the photo, and Bachmann hasn't commented much. Others, like Brent Bozell, criticize the media for bias.
+
+Next, I need to identify the morally charged words from the author's list: out, sexist, nut, this, misogynistic, run, get, dishonesty, oversight. I should make sure these are included in the summary.
+
+I should structure the summary to include the key points: the cover story, the criticism from NOW, the defense from Newsweek, Bachmann's response, and the broader implications like media bias and discouraging women from running for office.
+
+I need to keep it concise, under 200 words, and make sure the moral framing is clear. I'll start by mentioning Bachmann's refusal to engage, then O'Neill's criticism using the terms sexist and misogynistic. Include the comparison to men and the impact on women's political participation. Mention Newsweek's defense and Bachmann's non-comment. Finally, touch on Bozell's point about media bias and the need for oversight.
+
+I should avoid any markdown and keep the summary straightforward, ensuring all key moral points are covered without exceeding the word limit.
+</think>
+
+SUMMARY: Rep. Michele Bachmann has not directly responded to Newsweek's cover story labeling her "The Queen of Rage," but critics, including National Organization for Women President Terry O'Neill, have accused the magazine of sexism and misogyny. O'Neill argued that such a characterization would not be applied to a male candidate, calling the portrayal "nut job" imagery inappropriate for a serious presidential contender. Newsweek defended the photo, stating it was part of a series and that other images of Bachmann were flattering. Bachmann, campaigning in Iowa, dismissed the cover, saying she hadn't seen it. O'Neill emphasized the importance of defending Bachmann against such attacks to encourage women to run for office, while conservative commentator Brent Bozell criticized Newsweek for journalistic dishonesty, urging conservatives to avoid such outlets or demand editorial oversight. END OF SUMMARY.

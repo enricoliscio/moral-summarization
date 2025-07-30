@@ -1,0 +1,33 @@
+Alright, so the user has given me a query where they want me to act as a news summarizer and a moral expert. They provided a news article and specific instructions on how to process it. Let me break this down.
+
+First, the user wants me to identify all the single words that are morally framed in the article. They mentioned to label this as "STEP 1:" and list each word with a bullet point. I need to go through the article and pick out words that carry moral connotations. Words like "cooperating," "opposed," "sanctuary," "progressive," "public safety," "afraid," "crimes," "illegal," "dangers," "unfairly targeted," "attacks," "protect," and "resilient" come to mind. These words are used to convey the author's stance on immigration policies and the ethical implications.
+
+Next, the user wants a summary of the article that preserves the moral framing. I should make sure to include as many of those morally charged words as possible. The summary needs to be concise, no more than 200 words, and structured with a "SUMMARY:" token at the beginning and "END OF SUMMARY." at the end.
+
+I also need to consider the context. The article discusses San Francisco's decision to not cooperate with ICE, the reasons behind it, and the broader implications, including political tensions and public safety concerns. I should highlight the key points: the sheriff's directive, the reasoning behind it, the state law (California Values Act), President Trump's criticism, and the city's response.
+
+I should ensure that the summary reflects the moral arguments presented, such as promoting public safety, protecting community trust, and the ethical stance against ICE cooperation. Also, mentioning the counterarguments, like the risk of illegal aliens committing more crimes, is important to provide a balanced view within the moral framing.
+
+I need to be careful not to add any personal opinions, just present the facts while keeping the moral language intact. The summary should flow logically, starting with the decision, the reasoning, the state law, the federal opposition, and the city's response.
+
+I think I've covered all the points. Let me put it all together, making sure each step is clear and the summary is within the word limit.
+</think>
+
+**STEP 1:**  
+* Cooperating  
+* Opposed  
+* Sanctuary  
+* Progressive  
+* Public safety  
+* Afraid  
+* Crimes  
+* Illegal  
+* Dangers  
+* Unfairly targeted  
+* Attacks  
+* Protect  
+* Resilient  
+
+**SUMMARY:**  
+San Francisco’s new sheriff, Paul Miyamoto, has declared that the city’s law enforcement will no longer cooperate with Immigration and Customs Enforcement (ICE), reinforcing the city’s status as a sanctuary jurisdiction. Miyamoto argued that immigration enforcement is a federal matter and that public safety is his department’s priority. He emphasized that community trust is essential for public safety, stating that residents should not fear reporting crimes. The department will ignore ICE detainers, meaning individuals in local custody for unrelated crimes will not be transferred to ICE custody. Miyamoto’s policy aligns with California’s Values Act, which restricts state and local agencies from honoring ICE detainers. However, critics argue that this approach risks allowing illegal aliens to commit additional crimes. President Trump has criticized California’s sanctuary policies, citing cases where released individuals have caused harm. San Francisco Mayor London Breed defended the city’s stance, calling it resilient and committed to protecting its residents despite federal opposition.  
+**END OF SUMMARY.**

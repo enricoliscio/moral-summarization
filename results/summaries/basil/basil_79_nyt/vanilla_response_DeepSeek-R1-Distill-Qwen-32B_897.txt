@@ -1,0 +1,14 @@
+Okay, I need to summarize this news article about President Trump's comments regarding Michael Flynn and Hillary Clinton. The user wants the summary to be concise, under 200 words, and structured with a "SUMMARY:" token at the beginning and "END OF SUMMARY." at the end. 
+
+First, I'll read through the article to identify the main points. Trump criticized the FBI for ruining Flynn's life after Flynn pleaded guilty to lying. Flynn was the first national security adviser and was fired for misleading the vice president. The article mentions that Flynn is the fourth person charged in Mueller's investigation. Trump compared Flynn's treatment to Hillary Clinton, who lied to the FBI but faced no consequences. Trump didn't specify what Clinton lied about, but it relates to her email investigation where Comey decided not to charge her.
+
+I should make sure to include Trump's feelings about Flynn, the comparison to Clinton, and the context of the Mueller investigation. Also, note that Trump's comments are unusual as presidents typically don't comment on ongoing investigations.
+
+Now, I'll structure the summary to cover these points succinctly. Start with Trump's criticism of the FBI, mention Flynn's guilty plea and charges, then the comparison to Clinton and the outcome of her case. Conclude with the context of the Mueller probe and Trump's unusual public stance.
+
+I need to keep it under 200 words, so I'll be concise but include all key elements. Make sure to use proper names and titles, like "Special Counsel Robert Mueller III." Also, ensure that the comparison between Flynn and Clinton is clear, noting that Trump didn't specify Clinton's lies but referenced the email investigation.
+
+Finally, I'll format the summary with the required tokens at the start and end, and ensure it's within the word limit. Double-check for any unnecessary details to keep it tight and informative.
+</think>
+
+SUMMARY: President Trump criticized the FBI for ruining the life of his former national security adviser, Michael Flynn, who pleaded guilty to lying to the FBI about his conversations with the Russian ambassador. Flynn, the fourth person charged in the Special Counsel Robert Mueller III's investigation into Russian election interference, was fired by Trump in February for misleading the vice president. Trump expressed sympathy for Flynn, comparing his treatment to Hillary Clinton, who lied to the FBI during the 2016 email investigation but faced no charges. Trump's comments came as Mueller's probe intensifies focus on his inner circle, marking an unusual public stance for a president on an ongoing federal investigation. END OF SUMMARY.

@@ -1,0 +1,75 @@
+Okay, I need to help the user by summarizing the news article while preserving the moral framing. The user has provided a detailed query with specific instructions, so I should follow each step carefully.
+
+First, the user wants me to identify all single words that are morally framed. I'll go through the article and pick out words that carry a moral connotation. Words like "missing," "resigning," "groped," "sexually harassed," "apologized," "contrition," "squandered," "opportunity," "master class," "sexual misconduct," "acknowledge," "admit," "remorse," "explain," "amends," "respectful," "false impression," "admitting," "harm," "sorry," "conscious," "careful," "sensitive," "happen again," "publicly reported," "groped," "kissed," "without consent," "grabbed," "butts," "breasts," "photo ops," "denied," "vague denial," "doubt," "shame," "vindictive harpies," "sacrificed," "accusers," "political legacy," "injustices," "fought," "harder," "easier," "fight," "unfair," "irony," "resign," "enter," "accused," "harassment," "assault," "sexual misconduct," "president," "injustices," "fought," "harder," "easier," "fight." I'll list these each with a *.
+
+Next, I need to write a summary of the article, preserving as many of these moral words as possible. The summary should be concise, around 200 words, and end with the specified tokens. I'll structure it by highlighting Franken's failure to apologize, his denial of allegations, the impact on his accusers, and the broader implications of his actions on the fight against sexual harassment.
+
+I should ensure the summary flows logically, starting with his resignation, his lack of contrition, the checklist for a proper apology, his vague denial, the consequences for the women, and the comparison to other figures like Roy Moore and Trump. I'll make sure to include the key moral points without making the summary too lengthy.
+
+Finally, I'll review the summary to ensure it meets the word limit and effectively captures the moral framing from the original article.
+</think>
+
+**STEP 1:**  
+* missing  
+* resigning  
+* groped  
+* sexually harassed  
+* apologized  
+* contrition  
+* squandered  
+* opportunity  
+* master class  
+* sexual misconduct  
+* acknowledge  
+* admit  
+* remorse  
+* explain  
+* amends  
+* respectful  
+* false impression  
+* admitting  
+* harm  
+* sorry  
+* conscious  
+* careful  
+* sensitive  
+* happen again  
+* publicly reported  
+* groped  
+* kissed  
+* without consent  
+* grabbed  
+* butts  
+* breasts  
+* photo ops  
+* denied  
+* vague denial  
+* doubt  
+* shame  
+* vindictive harpies  
+* sacrificed  
+* accusers  
+* political legacy  
+* injustices  
+* fought  
+* harder  
+* easier  
+* fight  
+* unfair  
+* irony  
+* resign  
+* enter  
+* accused  
+* harassment  
+* assault  
+* sexual misconduct  
+* president  
+* injustices  
+* fought  
+* harder  
+* easier  
+* fight  
+
+**SUMMARY:**  
+Sen. Al Franken’s resignation speech after multiple women accused him of groping and sexual harassment was widely criticized for lacking contrition. Instead of apologizing and acknowledging the harm caused, Franken focused on his own struggles, denied some allegations, and seemed to retract his earlier apologies. His speech failed to meet the criteria for a meaningful apology, which includes acknowledging harm, expressing remorse, and committing to change. By doing so, Franken discouraged his accusers and undermined the broader fight against sexual misconduct. His vague denial and focus on his reputation further harmed the women who came forward, reinforcing harmful stereotypes about accusers. Franken’s actions highlight the challenges of accountability and justice in addressing sexual harassment, particularly in the context of other high-profile figures like Roy Moore and Donald Trump. His decision to prioritize his political legacy over the women’s voices made it harder to combat injustices.  
+**END OF SUMMARY.**

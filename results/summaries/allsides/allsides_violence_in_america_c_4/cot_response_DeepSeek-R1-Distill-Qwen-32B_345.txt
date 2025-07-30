@@ -1,0 +1,63 @@
+Okay, I need to help the user by summarizing a news article while preserving the moral framing. The user provided a detailed article about protests in St. Louis after a police officer's acquittal. They want me to first identify the morally framed words and then write a concise summary using those terms.
+
+First, I'll read through the article carefully. I need to look for words that carry moral connotations. These could be words like "arrested," "protests," "violent," "non-violent," "agitation," "control," "safety," "racism," etc. I'll list each of these under STEP 1, each on a new line with a *.
+
+Next, I'll create a summary. I should keep it under 200 words. I need to include the key events: the protests, the arrests, the police response, the mayor's statement, and the context of previous events like the Ferguson riots. I'll make sure to use the morally charged words identified earlier to maintain the author's framing.
+
+I should structure the summary to flow logically: start with the protests, describe the violence, mention the arrests, include the mayor and police statements, reference the acquitted officer and the victim, touch on the historical context with Ferguson and Black Lives Matter, and conclude with the organizers' perspective on institutional racism.
+
+I need to ensure the summary is concise but comprehensive, capturing all the essential points without unnecessary details. I'll check the word count to stay within the limit. Finally, I'll make sure to end with the specified tokens as per the user's instructions.
+</think>
+
+### STEP 1:  
+* arrested  
+* protests  
+* violent  
+* peaceful  
+* defied  
+* disorder  
+* smashed  
+* block  
+* tackle  
+* pepper spray  
+* agitators  
+* control  
+* protect  
+* acquittal  
+* first-degree murder  
+* shooting death  
+* memories  
+* riots  
+* confiscated  
+* weapons  
+* handguns  
+* chemical  
+* decontaminated  
+* peaceful protest  
+* ceramic  
+* storefront windows  
+* largest  
+* riot gear  
+* safe  
+* stand  
+* wall  
+* handcuffs  
+* video  
+* released  
+* bottles  
+* injured  
+* flared  
+* bats  
+* hammers  
+* shattered  
+* skirmished  
+* arrests  
+* clashes  
+* institutional racism  
+* criminal wrongdoing  
+* unarmed black men  
+* replaced  
+* lives  
+
+### SUMMARY:  
+More than 80 people were arrested in St. Louis as protests over the acquittal of a white policeman who shot a black man turned violent for a third night. Police in riot gear used pepper spray and made mass arrests after demonstrators defied orders to disperse. The protests, which began peacefully, escalated to chaos as a small group smashed windows and blocked highways. Mayor Lyda Krewson blamed "agitators" for the violence, while police emphasized their control and commitment to protecting the city. The acquittal of former officer Jason Stockley in the 2011 shooting of Anthony Lamar Smith reignited tensions, reminiscent of the 2014 Ferguson riots. Protesters clashed with police, and weapons were confiscated. A group of photographers, including one from Reuters, was briefly detained. The protests, organized by the Ferguson frontline, highlight concerns over institutional racism and police accountability. The violence overshadowed the peaceful majority, with organizers emphasizing that "windows can be replaced, but lives can’t." END OF SUMMARY.

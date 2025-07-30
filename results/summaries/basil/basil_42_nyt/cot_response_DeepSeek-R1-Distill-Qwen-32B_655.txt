@@ -1,0 +1,39 @@
+Okay, so the user has given me a query where I need to act as a news summarizer assistant and a moral expert. They provided a news article and specific instructions on how to process it. Let me break this down.
+
+First, the user wants me to identify all the single words that are morally framed. They call this STEP 1 and want each word listed with a *. I need to go through the article and pick out words that carry moral connotations. Words like "pressure," "veto," "intolerance," "mischaracterized," etc. I should be careful to only pick single words and not phrases.
+
+Next, in STEP 2, I have to write a summary of the article, preserving as many of those morally framed words as possible. The summary should be concise, under 200 words, and start after the SUMMARY: token, ending with END OF SUMMARY.
+
+I should ensure that the summary captures the key points: the bill in Arizona, the governor's dilemma, the opposition from various groups, the economic implications, and the political context. I need to include the morally framed words to maintain the author's original framing.
+
+I also need to make sure the summary flows well and is coherent, not just a list of facts. I'll need to structure it so that each sentence conveys a main point, using the moral words where appropriate.
+
+Let me start by reading the article again to pick out the morally charged words. Words like "pressure," "veto," "intolerance," "mischaracterized," "hijacked," "lies," "irresponsible," "scarred," "discriminate," "carte blanche," "guise," "forge," "consensus," "acceptable," "protection," "liberty." These seem to carry the moral weight in the article.
+
+Now, for the summary, I'll start by mentioning the bill and the governor's position. Then, note the opposition from elected officials, business leaders, and the negative impact on Arizona's image. Include the economic concerns, the Super Bowl context, and the political implications for the governor and her potential successor. Finally, mention the volume of public reaction she's receiving.
+
+I need to make sure each sentence includes the relevant moral words without making it sound forced. The summary should be clear and concise, reflecting the moral framing as per the author's original intent.
+
+I think that's a solid approach. Let me draft the summary now, ensuring it's within 200 words and includes all the necessary moral words.
+</think>
+
+**STEP 1:**  
+* Pressure  
+* Veto  
+* Intolerance  
+* Mischaracterized  
+* Hijacked  
+* Lies  
+* Irresponsible  
+* Scarred  
+* Discriminate  
+* Carte blanche  
+* Guise  
+* Forge  
+* Consensus  
+* Acceptable  
+* Protection  
+* Liberty  
+
+**SUMMARY:**  
+Gov. Jan Brewer of Arizona faced intense pressure to veto a controversial bill allowing businesses to refuse service to gays and others citing religious beliefs. The bill, which passed the Legislature, drew widespread criticism from elected officials, business leaders, and civic groups, who argued it promoted intolerance and harmed Arizona’s image. Business executives, including Apple and American Airlines, warned the bill could jeopardize the state’s economic recovery. Even conservative Republican senators who supported the bill admitted it had been mischaracterized as a tool of intolerance, causing harm to the state. Supporters defended the bill, calling opposition efforts politics at its worst. Brewer, under significant public pressure, had until the end of the week to decide. The bill’s passage also raised concerns about Arizona hosting the Super Bowl, with Delaware Gov. Jack Markell suggesting the NFL might reconsider. Republican candidates for governor opposed the measure, with one calling it a carte blanche for discrimination. Brewer’s office reported receiving over 10,000 calls and emails on the issue. END OF SUMMARY.

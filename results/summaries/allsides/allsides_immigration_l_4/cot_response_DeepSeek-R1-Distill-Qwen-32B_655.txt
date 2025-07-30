@@ -1,0 +1,35 @@
+Alright, I need to help the user with their query. They provided a news article about Trump's revised travel ban and want a summary that preserves the moral framing. The user also wants me to first identify all the morally framed single words and then write the summary.
+
+First, I'll read through the article carefully to understand the context and identify the moral terms. Words like "woes," "disappointment," "anti-terrorist," "criminals," "famine," "muted," "fanfare," "desperate," "retaliatory," "exemplifying," "humanitarian," "gold standard," "complicate," "retrograde," "abdicating," "unnecessary," "divisive," and "wrong" stand out as they carry moral connotations.
+
+Next, I'll summarize the article. I need to ensure that the moral framing is preserved, so I'll include these terms where appropriate. The summary should be concise, under 200 words, and highlight the UN's concerns, the impact on refugees, reactions from affected countries, and the broader implications of the ban.
+
+I'll structure the summary by first mentioning the UN's criticism, then the impact on refugees, followed by the reactions from different countries, and finally the international response and the moral implications. I'll make sure to use the identified moral words to maintain the original framing.
+
+I should also check that the summary flows logically and covers all key points without being too detailed. It's important to balance brevity with completeness, ensuring that the main concerns and reactions are included.
+
+After drafting the summary, I'll review it to ensure it meets the word limit and that the moral terms are appropriately integrated. This way, the summary not only informs but also reflects the ethical and moral dimensions presented in the original article.
+</think>
+
+**STEP 1:**  
+* Woes  
+* Disappointment  
+* Anti-terrorist  
+* Criminals  
+* Famine  
+* Muted  
+* Fanfare  
+* Desperate  
+* Retaliatory  
+* Exemplifying  
+* Humanitarian  
+* Gold standard  
+* Complicate  
+* Retrograde  
+* Abdicate  
+* Unnecessary  
+* Divisive  
+* Wrong  
+
+**SUMMARY:**  
+The United Nations has criticized Donald Trump’s revised travel ban, stating it will worsen the plight of refugees. The ban blocks citizens from six Muslim-majority countries (Iran, Somalia, Sudan, Yemen, Syria, and Libya) from entering the US for 90 days and suspends the refugee program for 120 days. UN officials emphasized that refugees are not criminals but ordinary people fleeing war and persecution. While the revised order received a more muted response than the original, concerns remain about its humanitarian impact. Some countries, like Iran and Sudan, expressed disappointment, while others, like Iraq, avoided reciprocal action. The revised ban excludes Iraq, a key ally in fighting ISIS. The UN warns that the temporary measures may compound the anguish of refugees, particularly the 15,000 Somalis in Kenya hoping to resettle in the US. Critics, including Britain’s shadow foreign secretary, called the ban unnecessary and divisive, urging the US to uphold its humanitarian ideals. END OF SUMMARY.

@@ -1,0 +1,30 @@
+Okay, so I need to help the user with their query. They provided a news article and specific instructions on how to summarize it, focusing on moral framing. Let me break this down.
+
+First, the user wants me to identify all the single words that are morally framed. That means I need to look for words that carry a moral or ethical connotation. I'll go through the article and pick out each word that fits this category. I should list them each on a new line with a * before each word.
+
+Next, I need to write a summary of the article, making sure to include as many of those morally framed words as possible. The summary should be concise, no more than 200 words, and structured after the "SUMMARY:" token, ending with "END OF SUMMARY."
+
+Looking at the article, it's about President Trump's response to allegations against Roy Moore. The key points are Trump's stance on not letting allegations ruin someone's life, the spokesperson's comments, the denial from Moore's campaign, the Republican lawmakers' calls for Moore to drop out, and Trump's past behavior regarding similar allegations.
+
+I should make sure to include words like "allegations," "disturbing," "disqualify," "fake news," "investigation," "deny," "drop out," "controversial," "locker room talk," and "support." These words carry the moral weight of the story.
+
+In the summary, I'll need to mention Trump's belief about not letting allegations destroy lives, the spokesperson's statement, Moore's denial, the investigation, the lawmakers' calls for Moore to step aside, and Trump's past behavior regarding similar allegations. I should also note Moore's victory and Trump's shift in support.
+
+I need to keep the summary clear and within the word limit, ensuring that all the key moral points are covered without going into too much detail. Let me structure this step by step to make sure I cover everything the user asked for.
+</think>
+
+**STEP 1:**  
+* Allegations  
+* Destroy  
+* Disqualify  
+* Fake news  
+* Investigation  
+* Deny  
+* Drop out  
+* Controversial  
+* Locker room talk  
+* Support  
+
+**SUMMARY:**  
+President Trump responded to allegations that Roy Moore sexually molested a 14-year-old girl in 1979, stating that "mere allegations" should not "destroy a person’s life." However, if true, Trump believes Moore should "step aside." Vice President Pence found the allegations "disturbing" and believes they would "disqualify anyone from serving in office." Moore’s campaign dismissed the claims as "fake news," while The Washington Post reported that its investigation involved over 30 sources. Republican lawmakers called on Moore to "drop out" of the race if the allegations are true. Trump’s response contrasts with his past behavior, such as dismissing sexual misconduct allegations against himself and labeling a tape of him bragging about sexual assault as "locker room talk." Moore, a controversial judge, won the Alabama primary after Trump initially backed another candidate but later shifted support to him.  
+END OF SUMMARY.

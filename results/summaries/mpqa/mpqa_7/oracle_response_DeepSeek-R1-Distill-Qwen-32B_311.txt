@@ -1,0 +1,19 @@
+Okay, so I'm trying to help the user by summarizing this news article while preserving the moral framing. Let me read through the query again to make sure I understand what's needed.
+
+The user provided a detailed news article about President Hugo Chavez's declining approval ratings. They also listed specific morally framed words that the author used, like "crisis," "problems," "insecurity," etc. The task is to summarize the article, keeping as many of these moral terms as possible, and to keep it under 200 words.
+
+First, I need to identify the key points from the article. The main idea is that Chavez's popularity is dropping, with more people disapproving of his leadership. The study by Alfredo Keller shows a significant shift from high approval to a majority disapproving. People are concerned about the economy, unemployment, and insecurity, which are framed as major problems.
+
+I should note the percentages: disapproval at 58%, approval at 33%. The myth of polarization between rich and poor is collapsing, with more poor people opposing him. There's support for a constitutional referendum to restore power balance, which is a moral stance against the current government.
+
+The opposition is divided, but Chavez still leads, though his edge is shrinking. Other candidates are gaining support. Polls from other firms show similar trends, with high disapproval on economic issues and Chavez's support dropping from 40% to 24%.
+
+The article also mentions that Venezuelans are pessimistic, feel Chavez is incapable, and more oppose him than support him. This paints a negative moral picture of his leadership.
+
+Now, I need to structure this into a concise summary, using as many of the moral words as possible. I'll start by stating the decline in approval, mention the study's findings, the shift in public opinion, the economic and social issues, the collapse of polarization, support for the referendum, the divided opposition, and the overall negative perception of Chavez's leadership.
+
+I should make sure each sentence incorporates the moral framing without making it too wordy. Let me piece it together, ensuring it's under 200 words and flows naturally.
+</think>
+
+SUMMARY:  
+The latest polls reveal a significant decline in President Hugo Chavez's approval rating, reflecting growing public dissatisfaction with his leadership. A study by Alfredo Keller shows that 54% of respondents believe Chavez should be removed from office to address the crisis, with 49% favoring institutional channels and 5% supporting forceful means. Meanwhile, 43% prefer letting him complete his term. Chavez's approval rating has dropped from 84% in 1999 to 33%, while his disapproval has risen to 58%. The myth of polarization between rich and poor has collapsed, with 78% of those polled believing many poor oppose Chavez. A majority (75%) supports a referendum to redraft the Constitution and restore power balance. Despite his shrinking edge, Chavez remains first in voter preference, though his support has dropped from 40% to 24%. Venezuelans are pessimistic, with 93% disapproving of the government's handling of insecurity and 88.4% criticizing its approach to unemployment. Four in ten blame Chavez for the unemployment problem, highlighting perceptions of his incapacity and responsibility for the nation's unresolved issues. END OF SUMMARY.

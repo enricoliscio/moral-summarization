@@ -1,0 +1,29 @@
+Okay, so the user has given me a query where I need to act as a news summarizer assistant and a moral expert. They want me to summarize a news article while preserving the moral framing. The article is about a Twitter war between Donald Trump and former Mexican President Vicente Fox.
+
+First, I need to understand the structure of the query. They've broken it down into two steps: identifying morally framed words and then writing a summary. The user provided an example response, so I can use that as a guide.
+
+Looking at the article, I should start by identifying all the single words that carry moral connotations. Words like "Twitter war," "not welcome," "reject," "enormous political risk," "traitor," "offended," "big mistake," "apologize," "lying." These words are used to convey the negative emotions and judgments in the conflict.
+
+Next, I need to write a concise summary, keeping the morally framed words intact. The summary should be under 200 words. I'll need to mention both Trump and Fox, their opposing viewpoints, and the key moral terms used by each. It's important to show the back-and-forth nature of their arguments, highlighting the tension and the accusations each made.
+
+I should ensure that the summary flows well, starting with the conflict, then each party's arguments, and ending with the ongoing feud. Using the identified moral words will help maintain the original framing.
+
+I also need to make sure that the summary is clear and captures all the essential points without being too verbose. I'll avoid adding any new information not present in the article and stick strictly to the facts while emphasizing the moral aspects.
+
+Finally, I'll structure the response with the two steps as specified: first listing the morally framed words, then providing the summary. I'll make sure to use the correct tokens and keep the summary within the word limit.
+</think>
+
+**STEP 1:**  
+* Twitter war  
+* not welcome  
+* reject  
+* enormous political risk  
+* traitor  
+* offended  
+* big mistake  
+* apologize  
+* lying  
+
+**SUMMARY:**  
+Former Mexican President Vicente Fox and Donald Trump engaged in a heated Twitter war over Trump's visit to Mexico. Fox criticized Trump, calling him "not welcome" and accusing President Enrique Peña Nieto of taking an "enormous political risk" by hosting Trump. Fox warned that Trump's visit could be seen as a "big mistake" and even called Peña Nieto a "traitor" for allowing Trump to enter Mexico. Trump fired back, referencing Fox's past criticism of his immigration policies, and Fox responded by demanding an apology and accusing Trump of "lying." The exchange highlights the ongoing tension between the two figures over Trump's controversial policies and rhetoric.  
+**END OF SUMMARY.**

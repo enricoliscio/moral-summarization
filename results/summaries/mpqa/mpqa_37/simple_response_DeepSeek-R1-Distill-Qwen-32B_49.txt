@@ -1,0 +1,17 @@
+<think>
+Okay, so I need to summarize this news article. The user mentioned that I should preserve the moral framing the author gave. Let me read through the article first.
+
+The article is about Pakistan rejecting a US human rights report, calling it inaccurate and unwarranted. They list several initiatives they've taken to improve human rights. The US report says Pakistan's record is poor, but Pakistan disagrees, pointing out their efforts.
+
+I need to make sure the summary reflects Pakistan's perspective. They're highlighting their achievements and criticizing the US for judging them. I should include the main points: rejection of the report, the initiatives they've taken, and their criticism of the US's approach.
+
+I should structure the summary to show Pakistan's stance clearly. Maybe start by stating the rejection, then list the initiatives briefly, and conclude with their criticism of the US report.
+
+Let me check the word count. The summary needs to be under 200 words. I'll need to be concise but include all key points. Make sure to mention the specific laws and reforms they've implemented, as these are important for their argument.
+
+I also need to end with the required tokens. So, I'll start with "SUMMARY:", then the content, and end with "END OF SUMMARY."
+
+Alright, I think I have a good structure. Let me draft it.
+</think>
+
+SUMMARY: Pakistan's government has rejected the US State Department's human rights report, labeling it "factually inaccurate and unwarranted." The report was criticized for failing to recognize Pakistan's efforts to improve human rights, including reforms such as the Juvenile Justice System Ordinance, police and jail reforms, and measures to combat child labor. Pakistan also highlighted its ratification of key international conventions and its introduction of joint electorates for minority communities. The government emphasized its progress in areas like women's rights and nationality laws, asserting that the report's negative assessment was a "gross misstatement of the facts." Pakistan urged a cooperative approach to addressing human rights issues rather than external judgment. END OF SUMMARY.

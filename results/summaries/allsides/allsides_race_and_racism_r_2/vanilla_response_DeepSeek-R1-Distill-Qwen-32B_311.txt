@@ -1,0 +1,12 @@
+Okay, so the user has given me a query where they want a news summary. The article is about Attorney General William Barr creating a task force to target violent anti-government extremists. I need to make sure I understand the key points.
+
+First, I should identify the main elements: who, what, when, where, why. William Barr is the Attorney General, he's creating a task force, the goal is to stop violent anti-government extremists. The announcement was in a memo on June 26, 2020. The context is the protests following George Floyd's death, which were mostly peaceful but had violent incidents like looting and arson.
+
+I need to summarize this concisely, under 200 words. I should mention the task force's objectives: investigating, prosecuting, preventing violence, and eliminating the threat. Also, note the examples of violence, like the Minneapolis precinct burning and the autonomous zone in Seattle with armed groups.
+
+Barr's memo points out that these extremists are against constitutional values and may be supported by foreign entities. The task force will help local law enforcement and work with the FBI. Additionally, Trump signed an executive order protecting monuments on the same day.
+
+I should structure the summary to include all these points without getting too detailed. Make sure it's clear and flows well, ending with the summary token as specified. Let me piece it together, ensuring it's under the word limit and covers all necessary information.
+</think>
+
+SUMMARY: Attorney General William Barr has established a task force to combat "violent anti-government extremists of all persuasions," as announced in a June 26 memo. The task force aims to investigate, prosecute, and prevent acts of violence, particularly those occurring during recent protests following George Floyd's death. Barr noted that while many protests were peaceful, some descended into looting, arson, and violence, including attacks on police and destruction of property. The task force will work with the FBI to gather intelligence on extremist networks and provide resources to local law enforcement. Barr emphasized that these groups, including those associated with "Bugaloo" or Antifa, threaten public safety and constitutional values. The announcement came as President Trump signed an executive order to protect American monuments from destruction. END OF SUMMARY.

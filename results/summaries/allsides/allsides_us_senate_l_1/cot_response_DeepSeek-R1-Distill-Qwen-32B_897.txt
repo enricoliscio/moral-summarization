@@ -1,0 +1,39 @@
+Okay, so the user has given me a query where they want me to act as a news summarizer assistant and a moral expert. They provided a news article and specific instructions on how to process it. My task is to first identify all the morally framed single words in the article, then write a summary preserving those moral framings.
+
+First, I need to understand what morally framed words are. These are words that carry a strong moral connotation, like "corruption," "abuse," "dishonesty," etc. I'll go through the article and pick out each word that fits this category.
+
+Looking at the article, I see words like "corruption," "abuse," "misuse," "disinformation," "sabotage," "truth," "reform," "afraid," "dedicated," "truth," "afraid," "collegial," "corrupted," "afraid," "truth," "dedicated," "truth," "afraid." I'll list each of these, making sure each is on a new line with an asterisk.
+
+Next, I need to summarize the article, keeping these moral words intact. The summary should be concise, no more than 200 words. I'll start by identifying the main points: Johnson's investigation into Hunter Biden and the 2016 election, the accusations from both sides, the political climate, and the ongoing debate.
+
+I'll structure the summary to include the key players, their accusations, the moral framing words, and the implications of the investigations. I need to ensure that the summary flows well and captures the essence of the article while highlighting the moral aspects.
+
+I should also make sure that the summary doesn't take sides but presents the facts with the moral language as it was in the original article. This way, the summary preserves the author's moral framing, as the user requested.
+
+Finally, I'll review the summary to ensure it's within the word limit and that all the identified moral words are included where appropriate. This will help the user understand the article's moral perspective effectively.
+</think>
+
+**STEP 1:**  
+* Corruption  
+* Abuse  
+* Misuse  
+* Disinformation  
+* Sabotage  
+* Truth  
+* Reform  
+* Afraid  
+* Dedicated  
+* Truth  
+* Afraid  
+* Collegial  
+* Corrupted  
+* Afraid  
+* Truth  
+* Dedicated  
+* Truth  
+* Afraid  
+
+**SUMMARY:**  
+The article discusses Senator Ron Johnson's investigations into Hunter Biden's role with Burisma and the 2016 election, amid accusations of abusing power and advancing Trump's political agenda. Democrats claim Johnson is misusing Senate resources and spreading disinformation, while Republicans worry his efforts could backfire during a time of crisis, including the pandemic and racial unrest. Johnson defends his work as nonpartisan, aiming to uncover the truth and reform the presidential transition process. He accuses Democrats of fearing the truth and insists his investigations are dedicated to ensuring a peaceful transfer of power. The article highlights the partisan tensions and competing moral framings, with Democrats accusing Johnson of prioritizing political gain over national priorities.  
+
+**END OF SUMMARY.**

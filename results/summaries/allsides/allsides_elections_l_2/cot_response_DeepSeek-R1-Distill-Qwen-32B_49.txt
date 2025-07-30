@@ -1,0 +1,34 @@
+Okay, so I need to help this user by summarizing a news article while preserving the moral framing. The user is acting as a news summarizer assistant and a moral expert, so I should focus on both summarizing the content and highlighting the moral aspects.
+
+First, I need to read the article carefully. It's about Trump wanting to hold a convention during the pandemic, which the author views negatively. The article mentions that Trump might be trying to shift blame or create a fight with a Democratic governor. It also talks about the potential consequences, like creating a pandemic hotspot and the moral implications of endangering people.
+
+The user has two main tasks: first, identify all the single words that are morally framed, and second, write a summary preserving those moral words.
+
+For the first part, I'll go through the article and pick out words that carry a moral judgment. Words like "reckless," "self-absorbed," "selfish," "reprehensible," "folly," "stoking," "missing a step," "false bravado," "bully," "thrashing." These words are used to criticize Trump's actions and decisions.
+
+Next, I need to write a concise summary. The summary should be under 200 words and include as many of these moral words as possible. I'll start by stating Trump's intention, then the possible reasons, the consequences, and Biden's criticism. I'll make sure to incorporate the moral terms to maintain the author's framing.
+
+I should structure the summary to flow logically: Trump's decision, the potential reasons, the negative outcomes, and Biden's critique. Using the moral words will emphasize the author's disapproval.
+
+I also need to ensure the summary is clear and captures all the key points without being too verbose. Let me check the word count to make sure it's within the limit.
+
+Finally, I'll present the summary after the "SUMMARY:" token and end with "END OF SUMMARY." as instructed.
+</think>
+
+### STEP 1:
+* reckless  
+* self-absorbed  
+* selfish  
+* morally reprehensible  
+* follies  
+* stoking  
+* missing a step  
+* false bravado  
+* bully  
+* thrashing  
+
+---
+
+### SUMMARY:  
+The article critiques President Trump's decision to hold a Republican convention during the pandemic, highlighting his reckless disregard for public health. The author suggests Trump may have intended to shift blame onto a Democratic governor or create conflict, but his actions have instead alienated both North Carolinians and residents of the new state. The author condemns Trump's selfishness and disregard for the vulnerable, calling his behavior morally reprehensible. Former Vice President Joe Biden criticized Trump for endangering lives and lacking empathy, accusing him of "stoking death." The article portrays Trump as a schoolyard bully, engaging in false bravado and creating unnecessary conflicts, ultimately risking a political thrashing. His actions reflect a lack of responsible adulthood and a dangerous disregard for the consequences of his decisions.  
+END OF SUMMARY.

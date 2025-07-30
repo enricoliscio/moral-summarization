@@ -1,0 +1,19 @@
+Okay, I need to help the user by summarizing this news article. The user specified that I should preserve the moral framing the author gave. So, first, I'll read through the article to understand the main points.
+
+The article is about the NRA's recommendations after the Newtown shooting. They want more armed officers in schools. They're suggesting training programs and model laws. They also mention other measures like safety assessments and mental health programs. The user wants a summary that's under 200 words, so I need to be concise.
+
+I should note the key points: NRA's call for armed personnel, the training program, the model law, and other safety measures. Also, mention the criticism they received from Democrats and the context of other states focusing on gun control.
+
+I need to make sure the summary reflects the moral stance. The NRA's position is that having armed officers is necessary for protection, framing it as responsible and essential. They argue that it's a right to protect schools, similar to how other places are protected.
+
+I should structure the summary to include the main recommendations, the response to criticism, and the broader context of gun control efforts. Keeping it clear and within the word limit is important.
+
+Let me start drafting the summary, making sure each sentence captures a key point without getting too detailed. I'll avoid technical jargon and keep it straightforward, ensuring the moral framing is evident.
+
+After writing, I'll check the word count to ensure it's under 200. I'll also make sure to end with the specified tokens. Okay, I think I have a good structure now. Time to put it all together.
+</think>
+
+SUMMARY:  
+The National Rifle Association (NRA) has called on state legislatures to allow more school personnel to carry weapons on school grounds after undergoing extensive training, following the Newtown mass shooting. The NRA’s recommendations, which include a 40-60 hour training program for armed officers, aim to enhance school security. While NRA CEO Wayne LaPierre initially pushed for armed officers in every school, former Arkansas Rep. Asa Hutchinson, who led the NRA’s review, emphasized that decisions should be locally made based on budget constraints. The NRA also proposed a model state law enabling trained personnel to carry weapons, though Hutchinson clarified that teachers should focus on teaching, not carrying guns. The 225-page report additionally recommended safety assessments and a pilot program for mental health evaluations. Meanwhile, several states, including Connecticut, are advancing gun control measures, such as assault weapons bans and background checks. The NRA, however, argues that improving school security is paramount, asserting that schools deserve the same protection as banks and Congress.  
+
+END OF SUMMARY.

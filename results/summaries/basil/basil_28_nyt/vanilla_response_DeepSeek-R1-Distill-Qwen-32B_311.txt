@@ -1,0 +1,14 @@
+Alright, I need to help the user by summarizing the given news article. The user has specified that the summary should be after a "SUMMARY:" token and end with "END OF SUMMARY." Also, it should be no longer than 200 words. 
+
+First, I'll read through the article to understand the main points. The article is about the 2012 vice presidential debate between Joe Biden and Paul Ryan. Biden is using strategies from a past debate, mocking Ryan, and the debate was spirited with Biden dominating. Ryan tried to stay respectful but seemed disconcerted. The moderator was more active than previous debates. 
+
+I need to capture the key elements: who was involved, the strategies used, the tone of the debate, and the outcomes. I should mention Biden's aggressive tactics, his use of humor and mockery, Ryan's respectful but sometimes flustered responses, and the moderator's active role. 
+
+I'll structure the summary to highlight Biden's dominance, his use of past debate tactics, the personal jabs, and the overall dynamic of the debate. I'll make sure to keep it concise, under 200 words, and present it clearly after the specified tokens.
+
+I should avoid any markdown and keep the language clear and straightforward. Let me draft the summary, ensuring it includes all these points without going over the word limit.
+</think>
+
+SUMMARY:  
+In the 2012 vice presidential debate, Joe Biden aggressively dominated Paul Ryan, employing tactics reminiscent of Lloyd Bentsen's 1988 debate strategy. Biden mocked Ryan, likening him to Dan Quayle and laughing frequently, while Ryan struggled to maintain composure. Biden criticized Ryan's policies, including his stance on Medicare and the stimulus, and highlighted Ryan's reliance on government funds for his district. Ryan attempted to defend himself but often appeared disconcerted by Biden's relentless interruptions and humor. Biden also referenced Romney's "47 percent" remark, prompting Ryan to point out Biden's own gaffes. Moderator Martha Raddatz actively pushed the candidates for specifics, unlike the previous debate's moderator. The debate was spirited, with Biden asserting his role as Obama's defender, while Ryan praised Romney and shared a personal anecdote, which Biden countered with a tragic personal story. Biden's aggressive, barroom-brawler style contrasted with Bentsen's courtly approach, leaving Ryan at times flustered but holding his own.  
+END OF SUMMARY.

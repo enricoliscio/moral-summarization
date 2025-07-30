@@ -1,0 +1,26 @@
+Alright, so I need to help this user by summarizing a news article while preserving the moral framing. Let me break down the query to understand exactly what's needed.
+
+First, the user provided a news article about Donald Trump becoming the 45th president. They want me to act as a news summarizer and moral expert. My tasks are two-fold: identify all single words with moral framing and then write a concise summary preserving those words.
+
+Starting with Step 1, I need to go through the article and pick out words that carry moral connotations. These are words that imply judgment or evaluation, like "unlikely," "angry," "stolen," "helped," "winning," "counted on," and "stole." Each of these words carries a sense of right or wrong, success or failure, or blame.
+
+Next, for the summary, I have to make sure I include these morally framed words while keeping the summary under 200 words. I need to condense the article, highlighting the key events and the moral aspects. I should mention Trump's journey, his victory despite trailing, the role of hacked emails, Comey's decision, and the narrow wins in the swing states. I'll structure it to flow naturally, ensuring that the moral words are included where appropriate.
+
+I should also be careful not to add any new moral framing but only preserve what's already there. The summary needs to be clear and concise, capturing the essence of the article without unnecessary details. I'll start by outlining the main points: Trump's inauguration, his background, the primary wins, the general election challenges, the influence of external factors, and the election results.
+
+Putting it all together, I'll make sure each sentence in the summary includes the identified moral words where they fit contextually. This way, the summary remains accurate and maintains the original moral framing from the article.
+
+Finally, I'll review the summary to ensure it meets the word limit and that all the key points are covered. I'll check that each morally framed word is included and that the summary flows logically from one point to the next.
+</think>
+
+**STEP 1:**  
+* Unlikely  
+* Angry  
+* Stolen  
+* Helped  
+* Winning  
+* Counted on  
+* Stole  
+
+**SUMMARY:**  
+Donald Trump became the 45th president of the United States after a morally charged and unlikely journey. Despite trailing Hillary Clinton in the general election, Trump capitalized on a primary voting base that was angry at the GOP establishment. His victory was influenced by stolen Democratic emails and FBI Director James Comey's decision to reopen the email server probe. Trump narrowly won Wisconsin, Michigan, and Pennsylvania, overturning Clinton's expectations. His improbable rise from a real estate developer and TV star to the presidency marked a significant shift in American politics. END OF SUMMARY.

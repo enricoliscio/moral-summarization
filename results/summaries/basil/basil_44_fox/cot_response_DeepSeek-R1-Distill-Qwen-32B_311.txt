@@ -1,0 +1,35 @@
+Alright, let me try to figure out how to approach this query. The user wants me to act as a news summarizer assistant and a moral expert. They provided a news article about Congressman Michael Grimm facing criminal charges. My task is to first identify all the single words that are morally framed in the article and then write a summary preserving the moral framing.
+
+Okay, starting with STEP 1. I need to go through the article and pick out words that carry moral implications. Words like "charges," "investigation," "vendetta," "wrongdoing," "vindicated," "dedication," "tenacity," "public service," "combat veteran," "decorated," "fraud," "illegal," "improprieties," "fraudulent," "straw donors," "funneling," "wrongdoing," "fraud." These words all carry some moral weight, indicating accusations, investigations, and potential wrongdoing.
+
+Now, for the summary. I need to condense the article into under 200 words while keeping the moral framing intact. The key points are that Grimm is facing charges from a two-year FBI investigation, his attorney claims it's politically motivated, Grimm denies any wrongdoing, there's a history of campaign finance issues, and some associates have pleaded guilty to fraud. I should include the morally charged words to maintain the author's framing.
+
+I should structure the summary to highlight the accusations, Grimm's denial, and the ongoing investigation. I'll make sure to mention the politically driven vendetta and the illegal contributions, as these are central to the moral aspects. Also, noting that the FBI hasn't accused Grimm yet but associates have been involved adds context to the situation.
+
+I need to keep the summary concise, so I'll focus on the main events and the moral implications without getting bogged down in too many details. Making sure to include the key morally framed words will help preserve the author's perspective on the story.
+</think>
+
+**STEP 1:**  
+* charges  
+* investigation  
+* vendetta  
+* wrongdoing  
+* vindicated  
+* dedication  
+* tenacity  
+* public service  
+* combat veteran  
+* decorated  
+* fraud  
+* illegal  
+* improprieties  
+* fraudulent  
+* straw donors  
+* funneling  
+* wrongdoing  
+* fraud  
+
+**SUMMARY:**  
+New York Republican Rep. Michael Grimm is set to face criminal charges following a two-year FBI investigation into his business and campaign activities. Grimm’s attorney claims the investigation is politically motivated, asserting Grimm’s innocence and vowing his vindication. Grimm has denied any wrongdoing, including knowledge of illegal campaign contributions from followers of an Israeli rabbi, Yoshiyahu Yosef Pinto. Some members of Pinto’s congregation allegedly used straw donors to funnel illegal contributions to Grimm’s campaign. A liaison to Pinto’s followers, Ofer Biton, pleaded guilty to immigration fraud, and a Houston woman romantically linked to Grimm was accused of using straw donors to make illegal contributions. Grimm’s attorney accuses the government of pursuing a politically driven vendetta, while Grimm continues to serve his constituents with dedication and tenacity. The House Ethics Committee had deferred its investigation due to the ongoing Department of Justice probe.  
+
+END OF SUMMARY.

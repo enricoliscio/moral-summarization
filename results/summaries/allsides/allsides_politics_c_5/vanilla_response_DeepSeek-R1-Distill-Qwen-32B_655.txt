@@ -1,0 +1,12 @@
+Alright, I need to help the user by summarizing the given news article. The user is a news summarizer assistant, so they want a concise summary. The article is about President-elect Trump facing doubts about his legitimacy and the suggestion that he should release secret memos from the Obama administration to address these issues.
+
+First, I should identify the main points. The article argues that Trump should follow Obama's precedent by releasing secret legal documents. These memos relate to Obama's targeted killing drone program, the Syrian Civil War, and the bombing of Libya. The author believes this transparency would expose past administration overreach and rebuild trust.
+
+I also need to note the FOIA issues under Obama, where agencies were slow or denied requests. The article mentions specific examples like Hillary Clinton's emails and TSA secrecy. The conclusion is that transparency would boost democracy and public trust.
+
+I should keep the summary under 200 words, so I'll focus on the key arguments: releasing memos, FOIA problems, and the benefits of transparency. I'll structure it to highlight Trump's actions and their implications.
+
+Finally, I'll make sure the summary starts with "SUMMARY:" and ends with "END OF SUMMARY." to meet the user's formatting requirements.
+</think>
+
+SUMMARY: President-elect Donald Trump faces doubts about his legitimacy, and the article suggests he should counter this by releasing secret legal memos from the Obama administration. These memos, underlying Obama's "targeted killing" drone program, U.S. involvement in Syria, and the bombing of Libya, would expose past overreach and rebuild trust. The article criticizes Obama's claimed transparency, noting FOIA requests were often denied, and highlights the need for Trump to prioritize openness. By revealing these documents, Trump could address past follies, prevent future mistakes, and gain public goodwill. The piece also calls for reforming agencies like TSA, which has abused secrecy, and releasing memos behind Obama's Affordable Care Act "fixes." Transparency would restore faith in government and democracy. END OF SUMMARY.

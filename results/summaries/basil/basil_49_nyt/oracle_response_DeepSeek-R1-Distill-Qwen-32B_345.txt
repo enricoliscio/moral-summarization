@@ -1,0 +1,14 @@
+Alright, I need to help the user by summarizing the given news article while preserving the moral framing. First, I'll read through the article to understand the main points. It's about Nebraska and Oklahoma suing Colorado over marijuana legalization, arguing it's causing issues in their states.
+
+I should identify the morally charged words the author used: created, flows, draining, stress, coming, problem, defend, succeed, put, charge, ignoring, development, policies, schemes, found, acquiring, influx. I need to make sure these words are included in the summary.
+
+The summary needs to be concise, around 200 words, so I'll focus on the key points: the lawsuit, the states involved, the impact they claim, Colorado's defense, and the implications. I'll structure it to highlight the moral arguments from both sides, using the specified words.
+
+I'll start by stating the lawsuit, then explain the plaintiffs' claims using words like "created a dangerous gap," "flows," "draining treasuries," and "stress." Next, I'll mention Colorado's defense and the potential impact on the black market if the lawsuit succeeds. I'll end by noting the broader constitutional issue they're raising.
+
+I need to ensure the summary flows naturally and includes all the necessary moral terms without making it too verbose. I'll check the word count to stay within the limit. Finally, I'll make sure the summary starts with "SUMMARY:" and ends with "END OF SUMMARY."
+</think>
+
+SUMMARY:  
+Nebraska and Oklahoma have filed a lawsuit challenging Colorado’s 2012 marijuana legalization law, claiming it has created a dangerous gap in federal drug-control systems. They argue that marijuana flows from Colorado into their states, draining their treasuries and placing stress on their criminal justice systems. Sheriffs in bordering counties report an influx of marijuana, leading to more arrests, impounded vehicles, and higher costs. Colorado’s attorney general, John Suthers, defends the law, stating the challenge is without merit. The lawsuit focuses on the commercial side of legalization, aiming to shut down regulated marijuana retailers, which advocates warn could put violent criminal organizations back in charge. Nebraska and Oklahoma accuse Colorado of ignoring federal drug laws and failing to track marijuana sales or require background checks, allowing criminal enterprises to acquire inventory. The suit highlights the problem of Colorado’s policies creating a patchwork of state drug laws, which they argue violates the Constitution and federal antidrug laws. Colorado’s defense emphasizes the personal use aspect of legalization, which could survive even if the lawsuit succeeds. The case raises broader questions about state sovereignty and federal drug policy.  
+END OF SUMMARY.

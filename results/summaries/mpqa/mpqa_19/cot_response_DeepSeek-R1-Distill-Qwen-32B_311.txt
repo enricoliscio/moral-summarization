@@ -1,0 +1,37 @@
+Okay, so the user wants me to summarize a news article while preserving the moral framing. They also provided a specific structure for the response, which includes identifying morally framed words and then writing the summary.
+
+First, I need to read the article carefully. It's about Tony Blair's disagreement with Australia's decision to sign a climate change deal with the US. The main points are the conflict between Australia and the US regarding the Kyoto Protocol, criticism that Australia is moving away from Kyoto by aligning with the US, and Blair's concerns about the US's stance on climate change.
+
+Now, for the first step, I have to identify all the single words that are morally framed. These are words that carry a moral judgment or implication. Let me go through the article again:
+
+- "disagreed" implies disagreement, which is a moral stance.
+- "denied" suggests a refusal, which is a moral action.
+- "dumping" implies discarding something important, a negative action.
+- "cosying up" is a negative phrase indicating closeness for questionable reasons.
+- "hurt" implies harm, a negative consequence.
+- "committed" shows dedication, a positive moral action.
+- "should not follow" is a directive, indicating a moral obligation.
+- "concerned" shows worry, a moral sentiment.
+
+I think these are the key morally framed words. I'll list them each with an asterisk.
+
+Next, for the summary, I need to condense the article while keeping these moral terms. I'll start by mentioning Blair's disagreement with Australia's decision. Then, note Australia's denial of abandoning Kyoto and their partnership with the US. Critics are pointing out the inconsistency in Australia's position. Mention Blair's concern about the US's stance and his uncertainty if Kyoto goes far enough. Also, include the Environment Minister's commitment to Kyoto and the upcoming meeting in Johannesburg.
+
+I need to ensure the summary is under 200 words and includes the morally framed words. I'll structure it to flow logically, starting with Blair's disagreement, then Australia's response, the critics' viewpoint, Blair's personal concerns, and the future implications.
+
+I should double-check that all the key points are covered and that the moral framing is preserved. Also, make sure the summary is concise and clear.
+</think>
+
+**STEP 1:**  
+* Disagreed  
+* Denied  
+* Dumping  
+* Cosying up  
+* Hurt  
+* Committed  
+* Should not follow  
+* Concerned  
+
+**SUMMARY:**  
+Tony Blair expressed disagreement with Australia's decision to sign a climate change deal with the US, criticizing its alignment with the US stance on Kyoto. Australia denied abandoning the Kyoto Protocol, emphasizing its commitment while forming a "climate action partnership" with the US. Critics argue Australia is "cosying up" to the US, which opposes Kyoto, creating inconsistency in its position. Blair highlighted concerns about the US's stance on climate change, stating greenhouse gases are a clear area of disagreement. He also questioned whether the Kyoto Protocol goes far enough, expressing growing concern over the issue. Australia's Environment Minister reaffirmed the country's commitment to Kyoto, though its future remains uncertain ahead of the Johannesburg meeting. Blair's comments underscore the moral and political tensions surrounding global climate policy.  
+**END OF SUMMARY.**

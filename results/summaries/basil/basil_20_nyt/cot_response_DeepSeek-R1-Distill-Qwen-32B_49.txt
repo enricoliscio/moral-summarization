@@ -1,0 +1,39 @@
+Okay, so I'm trying to help the user by summarizing a news article while preserving the moral framing. First, I need to understand the task. The user provided a detailed news article about Rick Santorum's comments during his campaign. They want me to identify morally framed words and then write a summary using those words.
+
+Starting with Step 1, I need to find all the single words that carry moral connotations. I'll go through the article and pick out words that express judgment or evaluation. Words like "phony," "wrong," "destructive," "nasty," "divisiveness," "ugliness," "anachronistic," "dynamic," "optimizes," "abortion," "sympathy," "bad," "scoffed," "undermining," "worried," "constant," "huge," "debt," and "worried." These words seem to carry moral judgments in the context of the article.
+
+Now, for the summary, I need to condense the article into 200 words, keeping those moral terms. The article talks about Santorum's comments on Obama's theology, education policies, and health-care policies. I'll start by mentioning Santorum's clarification on the theology comment, then move to Gibbs' criticism. Next, I'll cover Santorum's views on education, emphasizing his stance on local control and parental responsibility. Then, I'll touch on his criticism of Obama's health-care policy regarding prenatal testing and abortion. Finally, I'll include Ron Paul's dismissal of Santorum's focus on social issues, highlighting the contrast in priorities.
+
+I need to make sure the summary flows well and includes all the key points while preserving the moral framing. I'll structure it to first address the theology issue, then education, followed by health care, and end with Paul's comments. This should give a clear and concise overview of the article while maintaining the moral context.
+</think>
+
+**STEP 1:**  
+* phony  
+* wrong  
+* destructive  
+* nasty  
+* divisiveness  
+* ugliness  
+* distortions  
+* anachronistic  
+* dynamic  
+* optimizes  
+* abortion  
+* sympathy  
+* bad  
+* scoffed  
+* undermining  
+* worried  
+* constant  
+* huge  
+* debt  
+* worried  
+
+**SUMMARY:**  
+Rick Santorum recently clarified his controversial remark about President Obama's "phony theology," explaining it referred to Obama's view of man's relationship to the world, not his faith. Santorum criticized Obama's agenda as based on a "phony ideal" and a "phony theology," which he described as non-Biblical but still a theology. Obama's political adviser, Robert Gibbs, condemned such attacks on character and faith, calling them "wrong" and "destructive," and reflecting the "nastiness, divisiveness, and ugliness" of the Republican nominating process.  
+
+Santorum also criticized the idea of federal or state-run schools, calling it "anachronistic," and argued for locally run education with parents in charge. He emphasized the need for a "dynamic" educational process tailored to each child's potential. Additionally, Santorum criticized Obama's health-care policy for requiring insurance companies to cover prenatal testing, linking it to abortion rates and disability culling. He accused Obama of having a "bad record" on abortion and disability issues.  
+
+Santorum's rival, Ron Paul, dismissed his focus on social issues like abortion and contraception, instead emphasizing concerns about civil liberties, wars, and the $16 trillion debt.  
+
+**END OF SUMMARY.**

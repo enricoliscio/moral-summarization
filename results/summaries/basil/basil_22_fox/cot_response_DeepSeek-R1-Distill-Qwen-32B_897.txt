@@ -1,0 +1,22 @@
+Alright, I need to help the user by summarizing the news article while preserving the moral framing. Let me start by understanding the article. It's about Paul Ryan giving a speech at Georgetown, but some professors and admins there sent him a letter criticizing his use of Catholic doctrine to support his budget. They argue he's misusing it to cut programs for the poor and elderly. Ryan defends himself, saying he's following subsidiarity, which he interprets as supporting local governance and opposing big government. The bishops' conference disagrees, saying budgets shouldn't disproportionately hurt the poor. The event is still on, and Ryan plans to discuss his policies.
+
+Now, the user wants me to first identify all the single words that are morally framed. I need to go through the article and pick out words that carry moral connotations. Words like "misused," "decimates," "weakens," "gut," "preferential," "proportionate," and "debt crisis" stand out as they imply moral judgment or implications.
+
+Next, I have to write a concise summary, keeping these moral words. The summary should be under 200 words and include the main points: Ryan's speech, the letter's criticism, his defense using subsidiarity, the bishops' stance, and the event's status.
+
+I should ensure the summary flows well and includes all key elements without being too verbose. I'll start by stating Ryan's speech, mention the letter's criticism, his defense, the bishops' disagreement, and conclude with the event still happening and Ryan's position.
+
+Let me check the word count to make sure it's within the limit. I think I've covered all the essential points while preserving the moral framing as required.
+</think>
+
+**STEP 1:**  
+* Misused  
+* Decimates  
+* Weakens  
+* Gutting  
+* Preferential  
+* Proportionate  
+* Debt crisis  
+
+**SUMMARY:**  
+GOP Rep. Paul Ryan is scheduled to speak at Georgetown University, but a group of nearly 90 professors and administrators has criticized his use of Catholic doctrine to defend his budget plan. They argue that Ryan misused Catholic teachings, particularly the principle of subsidiarity, to justify cuts to food programs, protections for the elderly, and tax breaks for the wealthy. Ryan has defended his budget, stating that subsidiarity supports local governance and opposes big government. However, the U.S. Conference of Catholic Bishops has emphasized that budgets should not disproportionately harm the poor. Ryan insists that the bishops' letter does not represent all U.S. bishops and plans to discuss his policies, including his commitment to a "preferential option for the poor," during his speech. The event remains scheduled, with Ryan's spokesman emphasizing his focus on avoiding a debt crisis that would disproportionately affect the poor. END OF SUMMARY.

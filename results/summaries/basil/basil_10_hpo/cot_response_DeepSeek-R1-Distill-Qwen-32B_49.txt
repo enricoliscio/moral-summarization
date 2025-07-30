@@ -1,0 +1,30 @@
+Alright, I need to help the user by summarizing the given news article while preserving the moral framing. Let me start by understanding the task. The user wants me to first identify all the single words that carry a moral connotation in the article. Then, I have to write a concise summary, keeping those moral terms intact.
+
+Looking at the article, it's about the Republican House reading the Constitution and implementing new rules. The moral words are likely to be terms that convey principles, values, or judgments. I'll go through each sentence and pick out words that have a positive or negative moral charge.
+
+For example, "strict adherence" implies a commitment to principles. "Reduce the size of the federal government" suggests a belief in smaller government as a positive. "Require" might indicate a sense of duty. "Grass-roots movement" is often seen as positive, representing the people's will. "Symbolic power" is neutral but in context, it's about the significance of the action. "Controversial and contentious" shows that the rule might be divisive. "Reckless spending" is clearly negative, implying irresponsibility. "Renewed commitment" is positive, showing dedication. "Respecting the Constitution" is a positive value. "Spending cut measure" is about responsible use of resources. "Trim in the budgets" is a moderate action, but in context, it's about saving money, which is positive. "Estimated cost" is neutral but in the context of the summary, it's about the expense of the reading, which might be seen as wasteful. "Swear an oath" is about duty and commitment. "End to reckless spending" ties back to the negative of reckless spending. "Serious about respecting the Constitution" reinforces the positive value.
+
+Now, I need to make sure the summary includes these terms. The summary should be under 200 words, so I'll condense the information, focusing on the key points: the reading of the Constitution, the new rules, the cost, and the spending cuts. I'll ensure that the moral words are included to maintain the author's framing.
+
+I should structure the summary to first mention the reading, then the new rules, the cost, the spending cuts, and the quotes from Boehner and Bachmann. This way, all the key moral points are covered concisely.
+</think>
+
+**STEP 1:**  
+* strict  
+* reduce  
+* require  
+* grass-roots  
+* symbolic  
+* controversial  
+* reckless  
+* renewed  
+* respecting  
+* cut  
+* trim  
+* estimated  
+* swear  
+* reckless  
+* serious  
+
+**SUMMARY:**  
+On the second day of Republican rule, the U.S. House read the Constitution in full for the first time in its history, symbolizing a commitment to strict adherence to the founding document. Republicans plan to make it mandatory for all new bills to include a "Constitutional Authority Statement," citing the constitutional basis for legislation. This move, seen as a symbolic gesture, has sparked debate over its practical impact, as legal precedent already assumes congressional actions are constitutional. Critics argue the cost of the reading, estimated at $1.1 million, is excessive. Newly elected Speaker John Boehner emphasized that lawmakers swear an oath to the Constitution, not their constituents. Rep. Michele Bachmann praised the move as a response to voter demands for an end to reckless spending and a renewed commitment to constitutional principles. The House also proposed a 5% spending cut, expected to save $35 million over nine months. END OF SUMMARY.

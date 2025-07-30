@@ -1,0 +1,48 @@
+Okay, so the user wants me to act as a news summarizer assistant and a moral expert. They provided a news article and specific instructions on how to process it. Let me break this down step by step.
+
+First, the user mentioned that I need to summarize the article while preserving the moral framing. That means I should focus on the ethical or moral implications presented in the text. They also outlined two steps: identifying morally framed words and then writing a summary using those words.
+
+Looking at the article, it's about Rep. Ocasio-Cortez supporting Rep. Tlaib after Tlaib made some expletive-laced comments about impeaching Trump. The article discusses the double standards from the GOP, the context of Trump's past comments, and the reactions from various political figures.
+
+For the first step, I need to identify all the single words that carry moral framing. These are words that express judgment, approval, or disapproval. Let me go through the article again.
+
+- Hypocrisy: GOP is accused of having a double standard.
+- Scandalizing: The GOP's reaction to Tlaib's comments.
+- Faux-outrage: Suggesting the GOP's outrage is insincere.
+- Entitlement: GOP's loss of entitlement to police women's behavior.
+- Love: Supporters loving Tlaib.
+- Win: Winning in the political sense.
+- Bullies: Referring to Trump and his supporters.
+- Disgraceful: Trump's view of Tlaib's comments.
+- Dishonored: Tlaib dishonoring herself and family.
+- Truth: Tlaib's commitment to speaking truth.
+- Constitutional crisis: The serious nature of the situation.
+
+These words all carry moral connotations, so I'll list them as per the user's instruction.
+
+Next, for the summary, I need to condense the article into 200 words, incorporating as many of these moral words as possible. The summary should highlight the key points: Ocasio-Cortez's support for Tlaib, the double standard accusation, the context of Trump's past remarks, reactions from Pelosi and Trump, and Tlaib's unwavering stance.
+
+I should ensure that the summary flows naturally while including the moral terms. I'll start by mentioning Ocasio-Cortez's support, then the hypocrisy claim, reference Trump's "locker room talk," Pelosi's downplay, Trump's criticism, and Tlaib's defiant response.
+
+I need to make sure the summary is concise and captures all the essential moral elements without being too wordy. Let me piece it together, ensuring each moral term is appropriately placed to maintain the original framing.
+
+I think that's a solid approach. Now, I'll proceed to list the moral words and craft the summary accordingly.
+</think>
+
+**STEP 1:**
+
+\*Hypocrisy  
+\*Scandalizing  
+\*Faux-outrage  
+\*Entitlement  
+\*Love  
+\*Win  
+\*Bullies  
+\*Disgraceful  
+\*Dishonored  
+\*Truth  
+\*Constitutional crisis  
+
+**SUMMARY:**  
+Rep. Alexandria Ocasio-Cortez defended Rep. Rashida Tlaib after Tlaib used strong language to support impeaching President Trump. Ocasio-Cortez accused Republicans of hypocrisy, citing their leniency toward Trump’s lewd remarks in the "Access Hollywood" tape versus their outrage over Tlaib’s language. She emphasized that the GOP has lost the right to police women’s behavior. Tlaib, a freshman congressmember, vowed to impeach Trump, saying, “we’re gonna go in there and we’re gonna impeach the motherf***er.” House Republicans criticized her, but Speaker Nancy Pelosi dismissed the remarks, comparing them to Trump’s own inflammatory rhetoric. Trump called Tlaib’s comments “disgraceful” and said she dishonored herself and her family. Tlaib remained defiant, vowing to “speak truth to power” and insisting the issue transcends Trump, calling it a constitutional crisis.  
+**END OF SUMMARY.**

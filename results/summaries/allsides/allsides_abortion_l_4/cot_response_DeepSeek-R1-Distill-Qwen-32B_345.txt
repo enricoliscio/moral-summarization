@@ -1,0 +1,41 @@
+Okay, so the user wants me to act as a news summarizer assistant and a moral expert. They provided a news article about Wendy Davis's stance on abortion and the author's critique of her position. The user's query is asking for two things: first, to identify all the morally framed single words in the article, and second, to write a summary that preserves the moral framing.
+
+Let me start by understanding the article. It's discussing how Wendy Davis, a politician, states that the goal should be zero abortions, which she believes is a moderate stance. The author argues that this is unrealistic and harmful because abortion is necessary in many circumstances. They bring in doctors to support the point that abortion is a medical necessity and that shaming women for needing it is wrong.
+
+For the first part, I need to identify the morally framed words. I'll go through the article and pick out words that carry moral connotations. Words like "extreme," "deny," "reality," "stigma," "sacrifices," "ridiculous," "shaming," "necessary," "evil," "erases," "autonomy," "coercion," "calamity," "unique," "empowered," "thoughtful," "health," "best," "support," "numbers." These words are used to convey moral judgments or values.
+
+Now, for the summary, I need to condense the article while keeping the moral framing intact. The summary should highlight that the goal of zero abortions is unrealistic, that abortion is necessary, and that focusing on women's health and circumstances is more important than the number of abortions. I'll make sure to include the morally framed words where appropriate.
+
+I should keep the summary under 200 words, so I need to be concise. I'll start by mentioning Wendy Davis's stance and the author's critique, then include the doctors' perspectives on the necessity of abortion, the reasons why it's needed, and the conclusion that policies should focus on women's health rather than reducing numbers.
+
+I need to ensure that the summary flows well and covers all the key points without being too wordy. I'll also make sure to use the morally framed words to preserve the author's tone and argument.
+
+Let me draft the summary step by step. Start with Wendy Davis's statement, then the critique, include the doctors' points about necessity and circumstances, and end with the conclusion about focusing on health and empowerment.
+
+I think that's a solid approach. I'll make sure each part is clear and that the moral framing is preserved throughout the summary.
+</think>
+
+**STEP 1:**  
+* extreme  
+* deny  
+* reality  
+* stigma  
+* sacrifices  
+* ridiculous  
+* shaming  
+* necessary  
+* evil  
+* erases  
+* autonomy  
+* coercion  
+* calamity  
+* unique  
+* empowered  
+* thoughtful  
+* health  
+* best  
+* support  
+* numbers  
+
+**SUMMARY:**  
+Wendy Davis, during a campaign interview, stated that the goal should be "zero abortions," a stance she believes is moderate to avoid being labeled "extreme." However, the author argues this position is unrealistic and denies the reality that abortion is often necessary to protect women's health and autonomy. Dr. Anne Davis and Dr. Lin-Fan Wang emphasize that abortion saves lives and is a medical necessity, citing factors like unintended pregnancies, contraceptive failures, and changing circumstances. The article criticizes the idea of eliminating abortions as shaming and unrealistic, advocating instead for policies that focus on women's health, access to care, and empowerment. The author concludes that the number of abortions should not be the focus but rather the well-being and unique circumstances of women. END OF SUMMARY.

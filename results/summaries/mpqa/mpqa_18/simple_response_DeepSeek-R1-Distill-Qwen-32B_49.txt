@@ -1,0 +1,16 @@
+Okay, so I need to help the user by summarizing this news article while preserving the moral framing the author gave. Hmm, the user mentioned that I'm a news summarizer and a moral expert, so I should focus on both summarizing the content and highlighting any moral aspects.
+
+First, I'll read through the article to understand the main points. It's about a new crew arriving at the International Space Station. There are two Americans and one Russian cosmonaut who will stay for six months. They arrived on the Endeavour shuttle. The previous crew has been there since August, and there's a handover happening.
+
+The article mentions the process of moving in, like installing seat liners and space suits. The new commander, Yuri Onufrienko, is eager to take over. They also transferred a cargo carrier named Raffaello, which has supplies and will be used to bring back trash and old equipment. The new crew brought personal items reflecting their hobbies, like fly-tying materials and a keyboard for psychological support.
+
+I need to make sure the summary is concise, under 200 words, and includes the moral framing. The moral aspect here is probably the teamwork, international cooperation, and the dedication of the astronauts. They're contributing to space exploration and scientific progress, which is a positive moral message.
+
+So, I'll start by mentioning the new crew and their arrival. Then, the transition process and the commander's eagerness. Next, the transfer of the cargo carrier and its purpose. Finally, the personal touches that show their dedication and the continuation of their mission, emphasizing the moral aspects of teamwork and international collaboration.
+
+I should structure it to flow smoothly, making sure each key point is covered without going over the word limit. Let me check the word count as I draft to ensure it's within 200 words. Also, I need to end with the specified tokens, so I'll make sure to include "SUMMARY:" at the start and "END OF SUMMARY." at the end.
+</think>
+
+SUMMARY:  
+A new crew of two American astronauts and one Russian cosmonaut has arrived at the International Space Station (ISS) for a six-month mission. The crew, including Russian cosmonaut Yuri Onufrienko, American astronauts Daniel Bursch, and Carl Walz, replaced the previous crew led by Frank Culbertson. The transition involved installing lifeboat seat liners and space suits before they could officially settle in. Onufrienko, eager to take command, observed the station through a small window before the hatch opened. The crew transferred an Italian-built cargo carrier, Raffaello, loaded with supplies, and will return it to the shuttle filled with trash and used equipment. The new residents also brought personal items reflecting their hobbies, such as fly-tying materials and a keyboard for psychological support. The outgoing crew, including Culbertson, Mikhail Tyurin, and Vladimir Dezhurov, will return to Earth after 128 days in space. The mission highlights international cooperation and dedication to advancing space exploration.  
+END OF SUMMARY.

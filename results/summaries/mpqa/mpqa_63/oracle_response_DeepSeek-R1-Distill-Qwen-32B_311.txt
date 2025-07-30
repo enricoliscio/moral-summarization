@@ -1,0 +1,16 @@
+Okay, so the user has given me a query where I need to act as a news summarizer assistant and a moral expert. The task is to summarize a news article while preserving the moral framing the author used. The article is about a space station railcar encountering some issues during its test run. 
+
+First, I need to understand what the user is asking for. They want a summary that's concise, up to 200 words, and importantly, it should retain the morally framed words from the original text. The user provided a specific example of how they want the summary structured, starting with "SUMMARY:" and ending with "END OF SUMMARY."
+
+Looking at the article, I notice the author uses words like "snag," "problem," "snag," "blamed," "snag," "snag," "nuisance," "danger," "smoothly," "successfully," and "needed." These words carry a moral or evaluative tone, so I need to make sure they are included in the summary.
+
+I should start by identifying the key events: the railcar's test run, the issues encountered, the cause (weightlessness causing it to float off track), the temporary fixes, and the future plans. I need to condense these points into a coherent summary without losing the moral nuances.
+
+I also need to ensure that the summary is clear and flows well, using the morally framed words appropriately. For example, when mentioning the problem, using "snag" or "problem" as the author did. I should also highlight the successful parts, like the railcar moving smoothly, to show progress despite the issues.
+
+I should check the word count to make sure it's within the limit. Let me draft the summary, making sure each sentence includes the necessary moral terms and covers all the important points without being too verbose.
+
+After drafting, I'll review it to ensure all key points are included and that the moral framing is preserved. I'll make sure the summary starts and ends with the specified tokens and stays within the word limit.
+</think>
+
+SUMMARY: Astronauts tested the International Space Station's new railcar, but it encountered a snag during its inaugural run. NASA attributed the issue to weightlessness, causing the one-ton car to float slightly off the rail and lose contact with the magnetic sensors. Despite the problem, the railcar eventually moved smoothly to a second workstation, though the automatic latching system failed again. Engineers may adjust the software if the issue persists, but there is no danger of the $190 million railcar rolling off track due to safety rings. The railcar is needed to transport the space station's robot arm during future construction stages. The first use is planned for late summer, and astronauts completed the final spacewalk to install the girder. The incident highlights how the mobile transporter operates in zero-gravity, emphasizing the need for adjustments to ensure smooth operations. END OF SUMMARY.

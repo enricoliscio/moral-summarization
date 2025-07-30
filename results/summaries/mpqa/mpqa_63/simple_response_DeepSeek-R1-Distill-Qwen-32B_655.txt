@@ -1,0 +1,12 @@
+Alright, I need to help the user by summarizing the given news article. The user wants the summary to preserve the moral framing the author provided. First, I'll read through the article to understand the main points.
+
+The article is about the International Space Station's new railcar encountering issues during its initial test. The problem was due to weightlessness causing the car to float off the track, which affected the magnetic sensors. Despite this, the astronauts and ground controllers managed to manually control the car each time it stopped.
+
+I should highlight the challenges faced and how they were overcome, emphasizing the learning process in a zero-gravity environment. It's important to mention the potential adjustments to the software and the safety measures in place. Also, noting that the railcar is essential for future construction steps shows its importance.
+
+I need to keep the summary concise, under 200 words, and make sure it captures the technical difficulties and the collaborative effort to resolve them. I'll structure it to first describe the problem, then the response, and finally the implications for future operations.
+</think>
+
+SUMMARY:  
+Astronauts tested the International Space Station's new railcar, the first permanent railroad in orbit, but encountered issues due to weightlessness. The one-ton car floated slightly off the track, causing magnetic sensors to lose contact with the aluminum tracks. Despite this, the railcar successfully moved to two workstations, though the automatic latching system failed each time, requiring manual control from ground controllers. NASA engineers suspect the problem may be resolved by adjusting computer software. The railcar, worth $190 million, is crucial for transporting the space station's 58-foot robot arm during future construction. Safety rings on the track prevent the car from rolling off. The first operational use of the railcar is scheduled for late summer.  
+END OF SUMMARY.

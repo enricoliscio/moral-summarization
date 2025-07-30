@@ -1,0 +1,32 @@
+<think>
+Okay, so I'm trying to help the user with their query. They provided a news article and want me to summarize it while preserving the moral framing. They also want me to identify the morally framed words first. Let me break this down.
+
+First, I need to understand what morally framed words are. These are words that carry a strong moral or ethical connotation, often indicating approval or disapproval. In the article, I should look for words that express judgment, like "unconstitutional," "hate," "disgusting," "reprehensible," etc.
+
+Looking at the article, the protest is against Gov. Beshear's coronavirus restrictions. The protesters hung an effigy, which is a strong symbolic act. The article mentions that the protest was meant to "celebrate freedom" and "fight back against the unconstitutional shutdown." So "unconstitutional" is a moral term because it implies that the governor's actions are against the law, a moral wrongdoing.
+
+The effigy had the message "sic temper tyrannies," which translates to "thus always to tyrants." The use of "tyrant" is a moral judgment against the governor. The protesters' actions led to backlash, with Sen. McConnell saying the actions were "unacceptable" and "no place for hate." "Hate" is a strong moral term, indicating dislike or prejudice.
+
+Other officials condemned the act as "disgusting" and "vile," which are moral judgments. The Kentucky House Democrats called it "beyond reprehensible," another strong moral term. So I'll list all these words as morally framed.
+
+Next, I need to write a summary that includes these words. The summary should be concise, under 200 words, and preserve the moral framing. I'll start by outlining the main points: the protest, the effigy, the message, the backlash, and the condemnations.
+
+I should make sure to include the morally framed words like "unconstitutional," "tyrant," "unacceptable," "hate," "disgusting," "vile," and "reprehensible." I'll structure the summary to flow from the protest to the reaction, highlighting the moral judgments made by both sides.
+
+I need to ensure the summary is clear and captures the essence of the article while emphasizing the moral aspects. I'll check the word count to stay within the limit. Once done, I'll present the summary after the specified tokens.
+</think>
+
+**STEP 1:**  
+* unconstitutional  
+* hate  
+* disgusting  
+* condemn  
+* vile  
+* unacceptable  
+* tyrannies  
+* tyrants  
+* reprehensible  
+
+**SUMMARY:**  
+Protestors in Kentucky hung an effigy of Gov. Andy Beshear, denouncing his coronavirus restrictions as "unconstitutional." The rally, organized by Take Back Kentucky, began with Second Amendment celebrations but turned into a call against pandemic measures. Protesters marched to Beshear's home, chanting "Come out Andy," and later returned to the capitol to hang the effigy with the message "sic temper tyrannies," translating to "thus always to tyrants." The act sparked widespread condemnation. Senate Majority Leader Mitch McConnell criticized the protest, stating it went "too far" and had "no place for hate." Republican Secretary of State Michael G. Adams called the act "disgusting," while Democratic Louisville Mayor Greg Fischer condemned it as "vile." Kentucky House Democrats also issued a statement, calling the effigy "beyond reprehensible." The protest drew sharp moral and political backlash, with many denouncing the actions as unacceptable and inappropriate.  
+**END OF SUMMARY.**

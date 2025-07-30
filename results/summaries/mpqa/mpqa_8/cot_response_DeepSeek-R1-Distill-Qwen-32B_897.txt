@@ -1,0 +1,27 @@
+Okay, so I'm trying to help the user by summarizing a news article while preserving the moral framing. Let me first understand the task. The user provided an article about President Cardoso discussing the challenges faced by Hugo Chavez in Venezuela. They want me to first identify all the morally framed words and then create a concise summary that includes as many of these words as possible.
+
+Starting with STEP 1, I need to go through the article and pick out words that carry moral connotations. Words like "challenge," "reestablishing normalcy," "conflicts," "opening communication channels," "social harmony," "revenge," "failed attempt," "support," "promise," and "dialogue tables" stand out. Each of these terms has a moral or evaluative aspect to them.
+
+Now, for the summary, I have to condense the article into 200 words or less, making sure to include these morally framed words. The main points are Cardoso's view on Chavez's challenge, Chavez's commitment to dialogue, Carter's support, and the upcoming visit. I need to weave these elements together smoothly, ensuring the moral aspects are highlighted.
+
+I should structure the summary to first mention Cardoso's perspective on the challenge, then Chavez's stance on revenge and communication, followed by Carter's endorsement and the visit. This flow maintains the moral framing and keeps the summary coherent.
+
+I also need to make sure the language is clear and concise, avoiding any unnecessary details. Each sentence should encapsulate a key point without being too wordy. Let me draft the summary, checking that all the identified moral words are included and that the summary stays within the word limit.
+
+Finally, I'll review the summary to ensure it accurately reflects the original article's content and maintains the intended moral framing. Making sure that the summary is both informative and preserves the ethical nuances discussed in the news piece.
+</think>
+
+**STEP 1:**  
+* Challenge  
+* Reestablishing normalcy  
+* Conflicts  
+* Opening communication channels  
+* Social harmony  
+* Revenge  
+* Failed attempt  
+* Support  
+* Promise  
+* Dialogue tables  
+
+**SUMMARY:**  
+President Fernando Henrique Cardoso has highlighted that Hugo Chavez's main challenge is reestablishing normalcy in Venezuela after last week's conflicts. Cardoso emphasized the need for opening communication channels and achieving social harmony. Chavez assured Cardoso he has no intention of seeking revenge against military personnel involved in the failed attempt to remove him from office. Former U.S. President Jimmy Carter has supported Chavez's commitment to setting up dialogue tables, with plans to visit Venezuela soon to promote peace and reconciliation. END OF SUMMARY.

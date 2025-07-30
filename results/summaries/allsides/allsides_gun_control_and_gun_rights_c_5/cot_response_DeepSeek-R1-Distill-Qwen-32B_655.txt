@@ -1,0 +1,54 @@
+<think>
+Alright, so I've got this query where the user wants me to act as a news summarizer and a moral expert. They provided a detailed news article about Devin Kelley and the mass shooting in Texas. My task is to first identify all the morally framed single words in the article, then write a concise summary preserving those moral terms.
+
+First, I need to understand what constitutes a morally framed word. These are words that carry a judgment or imply a value, like "escaped," "court-martial," "domestic violence," etc. I'll go through the article and pick out each word that fits this criteria. I'll list them each with a bullet point under STEP 1.
+
+Next, I have to summarize the article in under 200 words. I need to make sure the summary includes as many of those moral terms as possible. The summary should cover the key points: Kelley's background, his escape, the shooting, the consequences, the failed background checks, the policy failures, and the ongoing debate about gun control. I'll structure it to flow logically, starting with his past, then the shooting, the aftermath, and the implications.
+
+I also need to ensure that the summary is clear and concise, capturing the essence without unnecessary details. I'll make sure to include the moral framing words to maintain the author's original tone and emphasis on the ethical issues involved.
+
+Finally, I'll format the response as per the user's instructions, starting with STEP 1, listing the words, then the SUMMARY, and ending with the specified tokens. I'll keep an eye on the word count to stay within the limit.
+</think>
+
+**STEP 1:**
+
+* escaped  
+* court-martial  
+* domestic violence  
+* convicted  
+* danger  
+* firearms  
+* death threats  
+* mental disorders  
+* apprehended  
+* killed  
+* unborn child  
+* wounded  
+* critical condition  
+* suicide  
+* failed getaway  
+* armed civilian  
+* recovered  
+* criminal background check  
+* prohibited  
+* conviction  
+* lapse  
+* inquiry  
+* review  
+* legislation  
+* blocked  
+* turbulence  
+* threatening text messages  
+* dispute  
+* massacre  
+* debate  
+* stricter reviews  
+* rampage  
+* hundreds more dead  
+
+---
+
+**SUMMARY:**
+
+Devin Kelley, the former U.S. serviceman responsible for the deadliest mass shooting in Texas, had a troubled past marked by domestic violence convictions and mental disorders. He escaped from a mental hospital in 2012 while facing court-martial for domestic violence, and police were warned he posed a danger to others. Despite his criminal history, Kelley legally purchased firearms, as the Air Force failed to report his conviction to a national database. He later killed 26 people, including an unborn child, and wounded 20 others in a church. Kelley was found dead after a failed getaway. His case highlights flaws in background checks and has reignited debates over gun control. Federal officials are investigating the Air Force's failure to report his record, while lawmakers propose stricter laws to block domestic violence offenders from buying guns. Kelley's history of behavioral issues and turbulence further underscores the moral and systemic failures leading to the tragedy.  
+**END OF SUMMARY.**

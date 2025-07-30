@@ -1,0 +1,17 @@
+Okay, so the user wants me to summarize a news article while preserving the moral framing. They provided the article and the specific morally framed words to include. First, I need to understand the article's main points. It's about Democrats in the House planning to introduce legislation for background checks on all gun sales, following the midterm elections. They're focusing on gun control after several mass shootings, like Sandy Hook and Parkland.
+
+I should note the key morally charged words: legislation, progress, divides, gunned, shooting, bereaved, violence, shootings, massacre, shot, died, claim, hoax, killed, cowrote, harassment, feared, enforced, blocked, languished, bill.
+
+I need to make sure the summary includes these words as much as possible. The summary should be concise, under 200 words, and end with the specified tokens.
+
+I'll start by mentioning the Democratic majority's plan for legislation. Then, highlight the leaders, Chris Murphy and Richard Blumenthal, referencing the Sandy Hook tragedy. Include the event on Capitol Hill with survivors and bereaved families. Mention the stalled progress and the lawsuit against conspiracy theorists. Also, note the challenges with the Senate and the new strategy for the 2020 election.
+
+I need to keep the tone moral, emphasizing the impact of gun violence and the efforts to address it. Make sure to include terms like'massacre,''shot,' 'died,' 'harassment,' and 'blocked' to maintain the framing.
+
+Let me structure this step by step: introduce the legislation, mention the leaders and their background, describe the event, reference the lawsuit, discuss the challenges, and conclude with the strategy and potential Republican support.
+
+I'll make sure each sentence flows logically and stays within the word limit. Also, check that all key morally framed words are included without forcing them in awkwardly.
+</think>
+
+SUMMARY:  
+A Democratic majority in the House plans to introduce legislation for universal background checks on gun sales, marking a fresh push for gun control following the midterm elections. Senators Chris Murphy and Richard Blumenthal, representing Connecticut, where the Sandy Hook massacre occurred, will lead calls for action. The initiative aims to address the deeply divisive issue of gun violence in America, with advocates, shooting survivors, and bereaved families gathering on Capitol Hill to demand change. The event follows a national vigil for gun violence victims, including those from mass shootings in Parkland, Florida; Las Vegas; and other cities. Despite federal laws, background checks are often poorly enforced, and bipartisan efforts have stalled under Republican control. While the GOP Senate can block Democratic bills, Democrats are emboldened to push a strident new strategy, hoping to gain Republican support and set the agenda for the 2020 election. Incoming House Democrats have demanded gun reform as a top priority, with Congressman Mike Thompson expected to introduce a bill. Meanwhile, the family of Sandy Hook victim Noah Pozner is suing conspiracy theorists who claim the massacre was a hoax, highlighting the harassment and fear faced by victims' families. END OF SUMMARY.

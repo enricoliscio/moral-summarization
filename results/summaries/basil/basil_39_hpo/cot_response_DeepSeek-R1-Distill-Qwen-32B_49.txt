@@ -1,0 +1,33 @@
+Okay, so I'm trying to figure out how to approach this query. The user wants me to act as a news summarizer and a moral expert. They provided a news article about Mary Cheney criticizing her sister Liz Cheney's stance on same-sex marriage. The task is to first identify all the morally framed single words in the article and then summarize it while preserving those moral frames.
+
+First, I need to understand what morally framed words are. These are words that carry a moral connotation, like "opposition," "criticized," "wrong," "freedom," etc. I'll go through the article and pick out each word that has a moral implication.
+
+Next, I need to summarize the article. The summary should be concise, no more than 200 words, and include as many of those moral words as possible. I have to make sure the summary captures the essence of the conflict between the sisters, their differing views, and the broader implications, especially regarding family and freedom.
+
+I should also note the key points: Mary's criticism, her support for same-sex marriage, Liz's stance, their family background, and the political implications. Including details about their father's support adds context to the moral framing.
+
+I need to ensure the summary flows well and clearly presents both sides, highlighting the moral aspects without bias. I'll start by identifying the moral words, then craft a summary that weaves them in naturally.
+</think>
+
+### STEP 1:
+* opposition  
+* criticized  
+* wrong  
+* freedom  
+* entitled  
+* rights  
+* privileges  
+* protections  
+* pro-life  
+* pro-gay marriage  
+* strongly  
+* support  
+* aggressively  
+* support  
+* freedom  
+
+---
+
+### SUMMARY:
+Mary Cheney, the openly gay sister of Wyoming U.S. Senate candidate Liz Cheney, criticized her sister's opposition to same-sex marriage on Facebook. Mary, who is married to her partner Heather Poe, argued that "freedom means freedom for everyone" and that all families deserve equal rights and protections. Liz Cheney, however, has stated she is "strongly pro-life" and opposes same-sex marriage, believing the issue should be decided by states and their people. Liz's stance puts her at odds with her father, former Vice President Dick Cheney, who has supported gay marriage and emphasized that "freedom means freedom for everyone." The sisters' differing views highlight a broader moral and political debate over family, rights, and state sovereignty.  
+END OF SUMMARY.

@@ -1,0 +1,58 @@
+Okay, so I've got this query where the user wants me to summarize a news article while preserving the moral framing. They also want me to identify the morally framed words first. Let me break this down.
+
+First, I need to understand what morally framed words are. These are words that carry a moral or ethical connotation, like "unconstitutional," "fundamental," or "right." They're used to convey a value judgment.
+
+Looking at the article, I should go through each sentence and pick out those words. For example, "unconstitutional" is clearly a moral term because it's about violating rights. "Fundamental" and "constitutional right" are also strong moral phrases.
+
+Next, I need to list each of these words, each on a new line with a star. I should make sure I don't miss any. Maybe I'll go paragraph by paragraph to catch all of them.
+
+Once that's done, I have to write a concise summary. The user wants the summary to include as many of these moral terms as possible. I need to make sure the summary is under 200 words and captures the essence of the lawsuit, the school district's policy, and the parents' arguments.
+
+I should start by stating the lawsuit was filed by 14 parents against the school district. Then mention the policy allowing students to use preferred names without parental consent. Highlight that the policy is seen as violating parental rights and constitutional rights. Also, include the argument about religious freedom and the school district's stance on affirming gender identity.
+
+I need to keep the summary clear and to the point, ensuring it reflects the moral framing without getting bogged down in details. Maybe start with the main action, then the policy, the arguments, and the district's response.
+
+I should also check that I'm not adding any new moral terms beyond what's in the article. It's important to stay true to the original text's framing.
+
+Alright, I think I have a plan. First, list all the morally framed words, then craft a summary that includes them while keeping it within the word limit. Let me make sure I don't miss any key points from the article, like the school's commitment to disrupting the gender binary and the parents' religious beliefs.
+
+I should also ensure the summary flows logically, starting with the lawsuit, the policy, the arguments against it, and the district's position. That should cover all the necessary points succinctly.
+</think>
+
+**STEP 1:**  
+* unconstitutional  
+* fundamental  
+* constitutional right  
+* upbringing  
+* circumvent  
+* pivotal decision  
+* health  
+* future  
+* notice  
+* consent  
+* legally  
+* gender identity  
+* pronouns  
+* affirm  
+* self-designated  
+* disrupt  
+* gender binary  
+* right  
+* choose  
+* gender  
+* name  
+* official  
+* systems  
+* right to raise  
+* beliefs  
+* life-altering decisions  
+* professional help  
+* gender dysphoria  
+* religious freedom  
+* God  
+* male  
+* female  
+
+**SUMMARY:**  
+A group of 14 Wisconsin parents has filed a lawsuit against the Madison Metropolitan School District (MMSD) over its policy allowing students to use their preferred gender identity and pronouns without parental consent. The lawsuit, filed by the conservative law firm Wisconsin Institute for Law and Liberty (WILL), argues that the policy violates parents' constitutional right to direct their children's upbringing and interferes with their ability to guide their children through life-altering decisions. The parents claim the policy, which permits students to socially transition without notifying parents, infringes on their due process rights and religious freedom, as they believe God intended humans to be male or female. The school district, however, defends its policy as affirming students' gender identities and disrupting the gender binary. The lawsuit asserts that keeping parents in the dark about their children's gender struggles violates their rights and prevents them from providing necessary support. The district has not yet responded to the lawsuit.  
+**END OF SUMMARY.**

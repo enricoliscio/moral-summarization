@@ -1,0 +1,24 @@
+Okay, so I need to help the user by summarizing a news article while preserving the moral framing. The user provided the article and a list of morally charged words. I should make sure to include as many of those words as possible in the summary without exceeding 200 words.
+
+First, I'll read through the article to understand the main points. It's about Democrats introducing gun control legislation after the midterm elections, focusing on background checks. They're using the moral framing of preventing violence and protecting lives, especially after tragic shootings like Sandy Hook and Parkland.
+
+I notice the article mentions specific events and people affected, like the families of victims and the harassment faced by some. These elements add emotional weight, so I should include terms like "bereaved," "massacre," and "harassment."
+
+The author uses words like "legislation," "progress," and "divides," which are key to the moral argument. I'll need to weave these into the summary to maintain the tone.
+
+I should structure the summary to highlight the legislative efforts, the emotional impact on families, and the challenges they face, such as Republican control of the Senate. This shows the struggle for progress despite obstacles.
+
+I'll start by mentioning the Democrats' plan, then the specific legislation on background checks. Next, I'll include the emotional aspect with the families and their advocacy. Then, touch on the legal challenges and the stalled efforts. Finally, mention the renewed push and the moral imperative behind it.
+
+I need to keep it concise, so each point should be a sentence or two. I'll make sure to include the morally framed words without making the summary too lengthy.
+
+Let me draft a version and check the word count. If it's over, I'll trim some details but keep the essential moral elements. I'll ensure that the summary flows logically, starting with the legislative plan, moving to the emotional impact, then the challenges, and ending with the renewed efforts.
+
+Okay, I think I have a good structure. Now, I'll write the summary, making sure to include all the necessary moral terms and keep it under 200 words.
+</think>
+
+SUMMARY:  
+Prominent Democrats, including Chris Murphy and Richard Blumenthal, are spearheading calls for stronger gun control measures following the midterm elections. The newly empowered Democratic majority in the House plans to introduce legislation requiring background checks on all gun sales, a key priority for the incoming Congress. This effort aims to address the deeply divisive issue of gun violence in America, particularly after tragic shootings like Sandy Hook, Parkland, and Las Vegas. Advocacy groups, shooting survivors, and bereaved families are joining the push for change, emphasizing the need for progress to prevent further violence.  
+
+Despite federal laws, background checks are often poorly enforced, and bipartisan efforts have stalled under Republican control. However, Democrats are emboldened to pursue a strident new strategy, hoping to win Republican support and set the stage for the 2020 election. Legislation to tighten background checks, co-sponsored by Mike Thompson, is expected to be introduced, alongside efforts to combat conspiracy theories that delegitimize victims' families, such as the Sandy Hook massacre hoax claims. The moral imperative to protect lives and reduce gun violence remains central to this renewed push.  
+END OF SUMMARY.

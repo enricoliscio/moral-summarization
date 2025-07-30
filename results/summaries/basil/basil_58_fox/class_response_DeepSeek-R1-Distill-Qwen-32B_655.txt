@@ -1,0 +1,17 @@
+<think>
+Okay, so I need to help the user by summarizing a news article about Chris Christie running for the White House. They want the summary to preserve the moral framing, especially the word "scandals" that the author used. 
+
+First, I'll read through the article to understand the key points. Chris Christie is entering the 2016 race, announcing from New Jersey. His challenges include low poll numbers and fundraising issues. The Washington Post mentions he's lost his status as the establishment favorite due to scandals and declining popularity. Mega-donors are moving to other candidates like Jeb Bush. The New York Times points out his personality-driven campaign, which is brash and combative, making him a strong presence in town hall meetings.
+
+I need to make sure to include "scandals" in the summary. I should also highlight his uphill battle, the loss of donor support, and his unique campaign style. The summary needs to be concise, under 200 words, and include the moral framing elements.
+
+I'll structure it by mentioning his announcement, his challenges, the impact of scandals, the loss of donors, and his personality as a campaign asset. I'll make sure to keep it clear and within the word limit. 
+
+Let me draft it: Chris Christie is running for the White House, but faces low polls and fundraising issues. Scandals and declining popularity have hurt his standing. Donors are moving to others like Jeb Bush. Despite this, he's using his brash personality and town hall skills to connect with people, leaving some angry but others hopeful. 
+
+I think that covers all the key points and preserves the moral framing with "scandals." I should check the word count to ensure it's under 200. Looks good. Now, I'll present it as per the user's instructions.
+</think>
+
+SUMMARY:  
+New Jersey Governor Chris Christie is expected to announce his bid for the 2016 White House race, despite facing significant challenges. His low poll numbers, fundraising deficits, and a decline in popularity have diminished his status as the GOP establishment favorite. Scandals and shifting donor support, with mega-donors moving to rivals like Jeb Bush, have further complicated his campaign. However, Christie’s brash and combative personality, honed through town hall meetings, remains a key asset. His ability to engage audiences, even as he leaves some enraged, has made him a formidable candidate. Despite the uphill battle, his unique campaign style could still resonate with voters.  
+END OF SUMMARY.

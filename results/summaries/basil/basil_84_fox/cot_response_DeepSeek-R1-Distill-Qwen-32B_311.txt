@@ -1,0 +1,42 @@
+Okay, so I need to help the user with their query. They provided a news article and asked for two things: first, to identify all the single words that are morally framed, and second, to write a summary preserving those moral frames. 
+
+Starting with STEP 1, I need to go through the article and pick out words that carry moral connotations. Words like "fired," "lightning rod," "anti-Trump," "overruled," "troubling," "standard practice," "politically motivated," "clowns," "losers," "witch hunt," "hoax," "collusion," "obstruction," "bad players," "tarnished," "sterling reputation," "severely damaged," "public trust," "paramount," "textbook bias," "cheered," "tarnished," "severely damaged," "concern," "personal views," "affected," "work," "idiot," and "troubled." These words seem to carry moral judgments or implications.
+
+Next, for the summary, I need to condense the article while keeping these moral terms. The summary should be concise, under 200 words, and include as many of those words as possible without losing the essence. I'll structure it to mention Strzok's firing, the reasons given by both sides, the political implications, and the reactions from different parties, all while using the morally framed words identified earlier.
+
+I should ensure that the summary flows logically, starting with the firing, then the reasons and reactions, and ending with the implications for the FBI and the investigation. This way, I preserve the moral framing as the author intended, showing the conflict and biases involved.
+</think>
+
+**STEP 1:**  
+* fired  
+* lightning rod  
+* anti-Trump  
+* overruled  
+* troubling  
+* standard practice  
+* politically motivated  
+* clowns  
+* losers  
+* witch hunt  
+* hoax  
+* collusion  
+* obstruction  
+* bad players  
+* tarnished  
+* sterling reputation  
+* severely damaged  
+* public trust  
+* paramount  
+* textbook bias  
+* cheered  
+* tarnished  
+* severely damaged  
+* concern  
+* personal views  
+* affected  
+* work  
+* idiot  
+* troubled  
+
+**SUMMARY:**  
+FBI official Peter Strzok, a key figure in the Russian meddling and Hillary Clinton email investigations, was fired amid allegations of anti-Trump bias. His attorney claimed the firing was politically motivated and a departure from standard practice. The FBI countered that Strzok was subjected to a disciplinary review after an inspector general report highlighted his conduct. Strzok, who exchanged anti-Trump texts with colleague Lisa Page, was removed from the special counsel probe last year. President Trump and his allies praised the firing, calling Strzok a symbol of anti-Trump bias and questioning the integrity of the Russia investigation. Republicans criticized Strzok for his politically charged messages, including one vowing to "stop" Trump from becoming president. His attorney argued that no evidence linked his personal views to his work. The firing has reignited debates about bias in the FBI and DOJ, with some calling it a "witch hunt" and others highlighting the damage to the FBI's reputation. END OF SUMMARY.

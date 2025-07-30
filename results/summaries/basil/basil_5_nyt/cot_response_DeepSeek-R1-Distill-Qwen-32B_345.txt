@@ -1,0 +1,29 @@
+Alright, so I need to help the user by summarizing this news article while preserving the moral framing. Let me start by understanding the task. The user wants me to first identify all the morally framed words in the text, then create a concise summary using those terms.
+
+Looking at the article, the main points are about the NAACP passing a resolution against Tea Party groups for having racist elements. The NAACP's president, Benjamin Todd Jealous, clarifies that they don't label the entire Tea Party as racist but want them to distance from hate groups. The Tea Party responds negatively, with Sarah Palin and others accusing the NAACP of being partisan and even suggesting a tax review.
+
+Now, for STEP 1, I need to pick out the words that carry moral weight. Words like "racist elements," "distance," "hate groups," "responsible," "silence," "violence," "bigots," "partisan," "attack dog," "tax-exempt," "racism," and "protesters." These words convey judgment or moral implications.
+
+For the summary, I should include these terms to maintain the moral framing. I'll start by stating the NAACP's action, then Jealous's clarification. Next, mention the Tea Party's negative response, Palin's involvement, and the accusations from both sides. I'll keep it under 200 words, ensuring all key points are covered with the moral language intact.
+
+I need to make sure the summary flows logically, starting with the resolution, the NAACP's stance, the Tea Party's reaction, and the ongoing debate. This way, the moral framing is preserved, and the user gets a clear, concise summary that reflects the original article's tone and content.
+</think>
+
+**STEP 1:**
+
+* racist elements  
+* distance  
+* hate groups  
+* responsible  
+* silence  
+* violence  
+* bigots  
+* partisan  
+* attack dog  
+* tax-exempt  
+* racism  
+* protesters  
+
+**SUMMARY:**  
+The NAACP passed a resolution urging Tea Party groups to remove "racist elements" and distance themselves from hate groups. NAACP President Benjamin Todd Jealous clarified the resolution was not to label the entire Tea Party as racist but to hold them accountable for their association with bigotry. He emphasized the need for responsibility, stating that silence could lead to violence. Tea Party groups and supporters strongly opposed the resolution, with Sarah Palin calling on the Obamas to rebuke the NAACP. The St. Louis Tea Party Coalition accused the NAACP of acting as a "partisan political attack dog" and demanded an IRS review of its tax-exempt status. The Tea Party has faced allegations of racism, including incidents of racial epithets and spitting during protests. Tea Party groups deny any racism within their movement.  
+END OF SUMMARY.

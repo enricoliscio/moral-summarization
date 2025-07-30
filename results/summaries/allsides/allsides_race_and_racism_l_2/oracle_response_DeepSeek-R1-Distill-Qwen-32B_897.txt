@@ -1,0 +1,14 @@
+Okay, so the user wants me to summarize this news article while preserving the moral framing. They provided a list of morally framed words that the author used, so I need to make sure those are included in the summary. 
+
+First, I'll read through the article to understand the main points. It's about the author's experiences in the civil rights movement, comparing it to the current protests against racial injustice. The author highlights the progress made but also points out that racism still exists in various forms. 
+
+I need to capture the key events: the library protest in 1960, the sit-ins, the laws passed in 64 and 65, and the ongoing issues today. The moral words like "protesting," "injustice," "change," and "transformation" are crucial. 
+
+I should structure the summary to show the historical context, the current movement's scale, and the challenges ahead. It's important to mention the participation of a new generation and the impact they're making, as well as the resistance they face. 
+
+I'll make sure to include words like "rise," "arrested," "segregation," "vowed," "movement," "resistance," "reform," and "transformation." I'll keep the summary concise, under 200 words, and end with the required tokens. 
+
+Let me draft this, ensuring all key points are covered and the moral framing is preserved.
+</think>
+
+SUMMARY: The article highlights the moral imperative of the new generation protesting against racial injustice, drawing parallels to the civil rights movement of the 1960s. The author recounts their own experience of being arrested for violating segregation laws in 1960, emphasizing the persistence of systemic racism despite legal progress. The movement, driven by a new generation, has sparked widespread protests, with millions participating across the country, far exceeding the scale of previous movements. This activism has already led to reforms, such as changes in police practices and the removal of Confederate symbols. However, the fight against racial injustice remains unfinished, as biased institutions continue to enforce inequality in areas like housing, education, and criminal justice. The author underscores the moral force of collective action, noting that while resistance will persist, history shows that change is possible when people refuse to accept injustice. This new era of protest offers hope for a more equitable America, urging all with conscience to join the movement. END OF SUMMARY.

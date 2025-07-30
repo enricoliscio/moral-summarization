@@ -1,0 +1,40 @@
+<think>
+Alright, I need to tackle this query. The user wants me to act as a news summarizer and moral expert. They provided a news article about the House Intelligence Committee hearing and instructed me to first identify all the morally framed single words. Then, I have to summarize the article while preserving those moral framings.
+
+First, I'll read through the article to understand the context. It's about Chairman Schiff defending his position against calls for his resignation, especially from Republicans, regarding the Russia investigation. There are strong accusations from both sides, so I should look for words that carry moral connotations.
+
+I'll go through each paragraph and pick out words that imply blame, approval, or judgment. Words like "pushed back," "defending," "aggressively," "lighting into," "contacts," "not OK," "dirt," "help," "expose," "seize," "revelation," "exonerates," "attacking," "false," "integrity," "abused," "misrepresenting," "ambush," "cheap-shot." These words carry moral weight because they imply actions that are right or wrong, justified or unjustified.
+
+Next, I need to summarize the article. I should include the key points: Schiff's defense, the accusations from both sides, the Mueller report findings, and the partisan divide. I must use the identified moral words to maintain the original framing. I'll make sure the summary is concise, under 200 words, and flows naturally.
+
+I also need to structure the response correctly. First, list the moral words under STEP 1, each on a new line with an asterisk. Then, provide the summary after the SUMMARY token, ending with END OF SUMMARY.
+
+I should double-check that I didn't miss any morally framed words and that the summary accurately reflects the article's content while preserving the moral framing. Making sure the summary is clear and captures the essence without being too detailed is important.
+
+Alright, I think I've got it. Time to put it all together as per the instructions.
+</think>
+
+**STEP 1:**  
+* Pushed back  
+* Defending  
+* Aggressively  
+* Lighting into  
+* Contacts  
+* Not OK  
+* Dirt  
+* Help  
+* Expose  
+* Seize  
+* Revelation  
+* Exonerates  
+* Attacking  
+* False  
+* Integrity  
+* Abused  
+* Misrepresenting  
+* Ambush  
+* Cheap-shot  
+
+**SUMMARY:**  
+House Intelligence Committee Chairman Adam Schiff faced calls for his resignation during a hearing on Russia, as Republicans criticized his handling of the investigation into the Trump campaign's ties with Russia. Schiff defended his actions, labeling the contacts between the Trump campaign and Russia as "not OK" and rejecting claims that the president's son being offered "dirt" was acceptable. Republicans, including Rep. Mike Conaway, accused Schiff of promoting a "demonstrably false" narrative that damaged the committee's integrity. Attorney General William Barr's notification that Mueller's investigation found no evidence of collusion between the Trump campaign and Russia was seized upon by Trump and his allies to attack Schiff and Democrats. Schiff, however, plans to continue the investigation, drawing comparisons to Joseph McCarthy from Rep. Michael Turner. Democrats defended Schiff, calling the GOP's actions an "ambush" and a "cheap-shot." The hearing highlighted the deep partisan divide within the committee.  
+**END OF SUMMARY.**

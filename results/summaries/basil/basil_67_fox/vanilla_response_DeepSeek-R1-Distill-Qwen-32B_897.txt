@@ -1,0 +1,14 @@
+Okay, so the user wants me to summarize a news article. Let me read through the query again. They provided an article about Donald Trump and Vicente Fox's Twitter war before Trump's visit to Mexico. The user is a news summarizer assistant, so I need to condense the article into a concise summary.
+
+First, I'll identify the main points. Fox criticized Trump, saying he's not welcome in Mexico and called the invitation a mistake. Trump responded on Twitter, referencing Fox's past comments about the wall. Fox then demanded an apology and accused Trump of lying.
+
+I need to make sure the summary is under 200 words. I'll structure it by stating the conflict, Fox's initial criticism, Trump's response, and Fox's reaction. Keeping it clear and concise without unnecessary details.
+
+I should also remember to include the key elements: who, what, when, where, why. The summary should start with the main event, then the details. I'll avoid any markdown and keep the language straightforward.
+
+Let me put it all together, ensuring it's within the word limit and properly formatted with the "SUMMARY:" and "END OF SUMMARY." tokens.
+</think>
+
+SUMMARY:  
+Former Mexican President Vicente Fox sparked a Twitter feud with Donald Trump ahead of Trump's visit to Mexico. Fox criticized Trump, calling him "not welcome" in Mexico and accusing President Enrique Peña Nieto of making a political mistake by inviting Trump. Fox also criticized Trump's proposed border wall, calling it offensive. Trump responded on Twitter, referencing Fox's past criticism of the wall and accusing him of hypocrisy. Fox then demanded an apology and accused Trump of lying. The exchange highlights growing tensions between Trump and Mexican leaders as he prepares to meet with Peña Nieto.  
+END OF SUMMARY.

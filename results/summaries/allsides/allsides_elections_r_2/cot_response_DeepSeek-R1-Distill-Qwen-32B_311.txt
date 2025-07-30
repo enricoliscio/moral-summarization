@@ -1,0 +1,33 @@
+Alright, so the user wants me to summarize a news article while preserving the moral framing. They provided a detailed article about Kyle Jurek, a Sanders campaign organizer, making controversial statements in a Project Veritas video. 
+
+First, I need to understand the task. They asked for two steps: identifying morally framed words and then summarizing the article using those words. 
+
+For step one, I should go through the article and pick out words that carry moral connotations. Words like "burn," "violence," "reeducation," "Nazis," "gulags," "scared," "fascists," "reeducation," "drag," "light," "lose," "deceptively," "accused," "denies." These words are charged with moral judgment, so they're important to highlight.
+
+Next, the summary needs to include these words while being concise, under 200 words. I should structure it to mention the video, Jurek's statements about violence, his support for extreme measures like gulags, and his comparison to Nazis. Also, include his support for antifa and the criticism against Project Veritas. Make sure to mention the Sanders campaign's response or lack thereof.
+
+I need to ensure the summary flows well and includes all key points without being too lengthy. It's important to maintain the moral framing by using the identified words. I'll start by introducing the video and Jurek's role, then outline his statements, and conclude with the reactions and criticism.
+
+Let me draft the summary, making sure each morally framed word is included naturally. I should check the word count to stay within limits. Also, end with the necessary tokens as specified.
+
+Finally, I'll review the summary to ensure it accurately reflects the article's content and maintains the moral perspective. I need to make sure all key points are covered without adding any personal opinions, just presenting the facts with the moral language intact.
+</think>
+
+**STEP 1:**  
+* Burn  
+* Violence  
+* Reeducation  
+* Nazis  
+* Gulags  
+* Scared  
+* Fascists  
+* Reeducation  
+* Drag  
+* Light  
+* Lose  
+* Deceptively  
+* Accused  
+* Denies  
+
+**SUMMARY:**  
+A Project Veritas video released on Tuesday featured Kyle Jurek, a campaign organizer for Bernie Sanders, making controversial statements. Jurek claimed that if Donald Trump is reelected, "cities burn" and violence against police would erupt at the Democratic National Convention in Milwaukee. He also supported ideological reeducation for Trump voters, comparing them to Nazis, and praised Soviet-style gulags as a means of reeducation. Jurek expressed support for antifa, stating that "fascists understand only violence," and threatened violence against media outlets if Bernie Sanders is not nominated. He also predicted riots in Milwaukee, comparing the situation to the 1968 Democratic Convention in Chicago. Project Veritas highlighted Jurek's role in the Sanders campaign and questioned whether the campaign would distance itself from him. The Sanders campaign did not respond to the allegations. Critics accused Project Veritas of deceptively editing the video, a claim the organization denied. END OF SUMMARY.

@@ -1,0 +1,13 @@
+<think>
+Alright, so I need to help the user by summarizing a news article while preserving the moral framing. The user mentioned that the author used the word "changed" and wants me to keep that in the summary. Let me read the article carefully.
+
+The article is about President Trump considering Joe Lieberman as the new FBI director. Lieberman has a complex political background, switching parties and endorsing different candidates. The key moral points are his changes in party affiliation and the implications of that.
+
+I need to make sure to include the word "changed" when talking about Lieberman's political moves. Also, I should note how this affects his suitability for the FBI role, as some senators have concerns.
+
+I'll structure the summary to mention Trump's consideration, Lieberman's background, his party changes, and the reactions from senators, including both positive and negative views. Keeping it concise but covering all the main points with the moral framing intact.
+
+Let me check the word count to make sure it's under 200 words. Also, I need to start with "SUMMARY:" and end with "END OF SUMMARY." without any markdown.
+</think>
+
+SUMMARY: President Trump is close to naming a new FBI director, with former Democratic Sen. Joe Lieberman emerging as the leading contender. Lieberman, who served in the Senate from 1989 to 2013, first as a Democrat and later as an independent, met with Trump to discuss the role. His law enforcement experience includes serving as Connecticut’s attorney general from 1983 to 1989. Lieberman’s political career has seen him change parties, endorse John McCain in 2008, and later support Hillary Clinton in 2016. Some senators find the idea of Lieberman leading the FBI intriguing, while others, like Sen. Claire McCaskill, call it a mistake. Senate Majority Whip John Cornyn noted Lieberman could secure 100 Senate votes, though he withdrew himself from consideration. Senate Minority Leader Chuck Schumer argued against selecting a career politician for the FBI director role. END OF SUMMARY.

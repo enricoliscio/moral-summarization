@@ -1,0 +1,10 @@
+Alright, so I've got this query where the user wants me to summarize a news article. Let me read through the article first to understand the main points. The article is about Mary Cheney criticizing her sister Elizabeth over same-sex marriage. Mary is openly lesbian and married, while Elizabeth is a Senate candidate. 
+
+I need to make sure the summary captures the key details: who the sisters are, their positions on the issue, and their family background. Also, it's important to note the broader context, like their father's stance and the upcoming election. 
+
+I should keep the summary concise, under 200 words, and structure it clearly. I'll start by introducing the sisters and their conflict, then outline each sister's position, mention Dick Cheney's support, and end with the election context. I'll avoid any markdown and keep the language straightforward. 
+
+Let me check if I've included all necessary points without going over the word limit. It looks good. Now, I'll format the summary as per the user's instructions, starting with "SUMMARY:" and ending with "END OF SUMMARY."
+</think>
+
+SUMMARY: Mary Cheney, the openly lesbian daughter of former Vice President Dick Cheney, has criticized her older sister, Elizabeth Cheney, a Republican Senate candidate in Wyoming, for her stance on same-sex marriage. Mary, who is married to Heather Poe, posted on Facebook that all families deserve equal rights, regardless of how they are formed. Elizabeth, who opposes same-sex marriage, believes the issue should be decided by voters on a state-by-state basis, not by judges or legislators. Mary countered, arguing that the matter should not be subject to a popular vote. Elizabeth is running in the 2014 Republican primary against incumbent Senator Mike Enzi. Dick Cheney has also publicly supported same-sex marriage, aligning with his daughters' differing views on the issue. END OF SUMMARY.

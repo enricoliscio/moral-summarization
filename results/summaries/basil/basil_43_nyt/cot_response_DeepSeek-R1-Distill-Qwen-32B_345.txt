@@ -1,0 +1,26 @@
+Okay, so I need to help this user by summarizing a news article while preserving the moral framing. The user provided specific instructions, so I should follow them carefully.
+
+First, I have to identify all the single words that are morally framed. The user mentioned "STEP 1:" and wants each word listed with a *. I'll go through the article and pick out words that carry moral connotations. Words like "apologized," "offended," "never," "could," "chairmanship," "attacked," "force," "history," "appeal," and "qualified" seem to carry some moral weight. I should list these.
+
+Next, I need to write a concise summary of the article, making sure to include as many of these morally framed words as possible. The summary should be under 200 words and end with the specified tokens. I'll focus on the main points: Representative Braley's mistake with the microphone, his apology, the context of the Iowa Senate race, the role of farmers, and the opposing candidate's background.
+
+I should make sure the summary flows well and includes all the key elements without being too verbose. I'll structure it to highlight the political implications and the use of moral framing words to convey the stakes involved in the election.
+
+Finally, I'll review the summary to ensure it meets the word limit and that all the moral words are appropriately included. This should provide a clear and concise summary that aligns with the user's request.
+</think>
+
+**STEP 1:**  
+* apologized  
+* offended  
+* never  
+* could  
+* chairmanship  
+* attacked  
+* force  
+* history  
+* appeal  
+* qualified  
+
+**SUMMARY:**  
+Representative Bruce Braley, an Iowa Democrat running for Senate, apologized after a video emerged where he criticized a potential Republican chairman of the Judiciary Committee, Senator Charles E. Grassley, by implying Grassley was unqualified due to his farming background. Braley, speaking at a fundraiser, warned that a "farmer from Iowa who never went to law school, never practiced law" could become chairman if Republicans took control of the Senate. The video, released by a conservative PAC, sparked criticism from Republicans. Farmers remain a powerful group in Iowa, and Braley acknowledged his family's agricultural ties, including his own farm work. Meanwhile, Republican candidate Joni Ernst emphasized her farm experience, claiming it qualified her to "cut pork" in Washington. The incident highlights the political stakes in Iowa's Senate race.  
+**END OF SUMMARY.**

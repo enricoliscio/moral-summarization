@@ -1,0 +1,21 @@
+Alright, let's tackle this query. The user wants me to act as a news summarizer and moral expert. They provided a news article and specific instructions on how to process it. First, I need to identify the morally framed words. I'll go through the article and pick out words that carry moral connotations. Words like "bombshell allegations," "sexual molestation," "destroy a person’s life," "disturbing," "disqualify," "fake news," "controversial," "locker room talk," and "disavowed" stand out as they relate to moral judgment.
+
+Next, I need to summarize the article while preserving these moral terms. The summary should be concise, under 200 words. I'll focus on the key points: Trump's response, Pence's reaction, Moore's denial, the investigation, Republican calls for Moore to drop out, Trump's past behavior, and the political implications of Moore's victory despite Trump's initial support. I'll make sure to include the morally framed words to maintain the article's tone.
+
+I should structure the summary to cover Trump's stance, the allegations, the denial, the investigation, the political fallout, and the historical context of Trump's similar situation. This will provide a clear and concise summary that reflects the moral framing of the original article.
+</think>
+
+**STEP 1:**  
+* Bombshell  
+* Allegations  
+* Destroy  
+* Disturbing  
+* Disqualify  
+* Fake news  
+* Controversial  
+* Locker room talk  
+* Disavowed  
+
+**SUMMARY:**  
+The White House responded to allegations that Alabama Senate nominee Roy Moore sexually molested a 14-year-old girl in 1979. Press Secretary Sarah Huckabee Sanders stated that President Trump believes "mere allegations" should not "destroy a person’s life," but if true, Moore should step aside. Vice President Pence's spokesperson called the allegations "disturbing" and said they would "disqualify anyone from serving in office." Moore’s campaign dismissed the claims as "fake news," while The Washington Post, which reported the story, interviewed over 30 sources. Republican lawmakers urged Moore to drop out if the allegations are true. Trump, who previously dismissed sexual misconduct allegations against himself, claimed a 2005 tape of him bragging about sexual assault was "locker room talk." Moore won the Alabama primary despite Trump initially backing his opponent, Sen. Luther Strange. After Moore’s victory, Trump disavowed his endorsement of Strange and supported Moore, calling him "a really great guy."  
+END OF SUMMARY.

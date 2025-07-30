@@ -1,0 +1,37 @@
+Okay, so the user has given me a query where they want me to act as a news summarizer and moral expert. They provided a news article and specific instructions on how to process it. Let me break down what they need.
+
+First, they want me to identify all the single words that are morally framed in the article. That means I need to go through the text and pick out words that carry a moral judgment, like "spoiled," "greedy," or "contempt." I should list each of these under STEP 1, each on a new line starting with a star.
+
+Next, I need to write a summary of the article, making sure to include as many of those morally framed words as possible. The summary should be concise, no longer than 200 words, and should start with "SUMMARY:" and end with "END OF SUMMARY."
+
+Looking at the article, it's critical of the Obama administration, particularly the Clintons and Obama himself, for their handling of the Benghazi incident. The author uses strong language to convey moral judgment, so I need to capture that tone in the summary.
+
+I'll start by identifying the key moral terms. Words like "terminal," "spoiled," "greedy," "self-centered," "rot," "contempt," "despise," "betrayed," "lies," "deception," "dishonesty," "dishonor," "cowardice," "indifference," "nonchalance," and "sin" all carry strong moral connotations.
+
+Now, for the summary, I need to weave these words into a coherent narrative that reflects the author's viewpoint. I'll mention the '60s disease, the Boomers' characteristics, the Clintons' contempt for the military, Obama's lack of understanding of America, and the Benghazi incident with the lies and lack of action. I'll also highlight the administration's failure to acknowledge heroism and Hillary's dismissive attitude.
+
+I need to ensure the summary flows well and stays within the word limit. I'll check each sentence to make sure it's concise and includes the necessary moral framing without being too verbose.
+
+Finally, I'll format the response as per the instructions, starting with STEP 1, listing the words, then the summary with the specified tokens. I should avoid any markdown and keep the language clear and direct.
+</think>
+
+**STEP 1:**  
+* terminal  
+* spoiled  
+* greedy  
+* self-centered  
+* rot  
+* contempt  
+* despise  
+* betrayed  
+* lies  
+* deception  
+* dishonesty  
+* dishonor  
+* cowardice  
+* indifference  
+* nonchalance  
+* sin  
+
+**SUMMARY:**  
+The article criticizes the Obama administration, particularly the Clintons and Obama himself, for their handling of the Benghazi incident. It accuses them of "the '60s disease," a moral failing rooted in the generation's self-centeredness and contempt for institutions, especially the military. The author claims that the administration lied, evaded, and deceived the public about the attack, hiding their lack of action to rescue the victims. Hillary Clinton's dismissive attitude toward the plight of those in Benghazi is highlighted as emblematic of her cold indifference. The article also accuses Obama of lacking a deep understanding of America and being influenced by anti-American ideologies. The administration's refusal to acknowledge the heroism of those who fought in Benghazi and their attempts to cover up their failures are seen as a betrayal of trust. The moral framing underscores the administration's dishonesty, cowardice, and disregard for the sacrifices made by service members and citizens. END OF SUMMARY.

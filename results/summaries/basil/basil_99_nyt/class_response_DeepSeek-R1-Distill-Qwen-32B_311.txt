@@ -1,0 +1,17 @@
+<think>
+Alright, so the user has given me a query where they want me to summarize a news article while preserving the moral framing. They provided the article and a list of morally framed words. My task is to create a summary that includes as many of those words as possible without exceeding 200 words.
+
+First, I need to read the article carefully to understand the main points. It's about the House Intelligence Committee's hearing after Mueller's report. There's a lot of conflict between Democrats and Republicans, with Republicans demanding Schiff's resignation and Schiff defending his stance.
+
+Next, I should identify the key morally charged words from the list provided. Words like "investigation," "chasing," "immoral," "unethical," "corrupt," etc., are central to the article's moral framing.
+
+I need to ensure the summary captures the conflict, the accusations from both sides, and the moral implications. I'll start by outlining the main events: the hearing, the Republican demand for Schiff's resignation, Schiff's response, and the broader implications.
+
+I should structure the summary to include the key points: the hearing's start, the accusations, the moral terms used by both sides, and the ongoing investigation. I'll make sure to use as many of the provided words as possible without making it sound forced.
+
+I also need to keep it concise, under 200 words. I'll draft the summary, then check the word count and ensure all important points are covered with the moral framing intact.
+
+Finally, I'll review the summary to make sure it flows well and accurately represents the article's content and moral perspective.
+</think>
+
+SUMMARY: The House Intelligence Committee's hearing after Robert Mueller's report revealed deep partisan divisions. Republicans demanded Chairman Adam Schiff's resignation, accusing him of "McCarthyism" and "chasing" Russian collusion. Schiff defended his stance, calling certain conduct "immoral," "unethical," and "corrupt," and refused to absolve President Trump or his campaign without seeing the full Mueller report. Republicans accused Schiff of "abusing" his position and spreading "false information," while Democrats backed him, praising his "patriotic" work. The hearing highlighted the ongoing conflict over Mueller's findings, with Democrats focusing on potential "wrongdoing" by Trump and his associates, and Republicans embracing Mueller's exoneration of Trump. The confrontation underscored the partisan divide over Russia's interference in the 2016 election and the morality of Trump's administration's conduct. END OF SUMMARY.

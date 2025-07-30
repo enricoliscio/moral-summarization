@@ -1,0 +1,49 @@
+Okay, so I'm trying to help this user who wants a news summary with moral framing preserved. They provided an article and specific instructions. First, I need to identify all the single words that are morally framed. Let me read through the article again.
+
+The article talks about cities associated with memorials from mass shootings, mayors dealing with gun violence, and the impact on communities. Words like "unthinkable tragedy," "racist ideology," "hate speech," "deranged individuals," "easy access to military-grade firepower" stand out as morally charged. The author mentions the NRA's influence and how mayors are taking action, so "empowering," "righteous demands," "courageous," "meaningful," "lasting steps" are important. Also, the personal stories about ancestors fleeing violence add emotional weight, so words like "fleeing," "killed," "sorrowful fellowship," "freedom," "belonging," "exceptional," "chance," "unburdened," "fear," "adversity," "discouraged," "heartbroken," "paralyzed," "reaching," "inheritance," "daughter," "owed," "risking," "greatest nation" are morally framed.
+
+Next, I need to summarize the article, keeping these words. The summary should be concise, under 200 words, and include as many of these terms as possible. I'll start by highlighting the main points: cities dealing with gun violence, mayors' responsibilities, the role of young people, and the author's personal connection to these issues. I'll make sure to include the moral words to preserve the original framing.
+
+I should structure the summary to flow logically, starting with the problem, the mayors' actions, the involvement of youth, and the emotional and historical context. I'll ensure each key moral word is included where appropriate without making it seem forced. Finally, I'll conclude with the author's vision for the future, tying it back to their personal and historical perspective.
+
+Let me check the word count to make sure it's under 200. I'll adjust any parts that are too lengthy, perhaps combining sentences or removing less impactful details. The goal is to capture the essence while preserving the moral tone and key terms.
+</think>
+
+**STEP 1:**
+
+\*unthinkable tragedy  
+\*racist ideology  
+\*malice  
+\*hate speech  
+\*deranged individuals  
+\*military-grade firepower  
+\*empowering  
+\*righteous demands  
+\*courageous  
+\*meaningful  
+\*last steps  
+\*fleeing  
+\*killed  
+\*sorrowful fellowship  
+\*freedom  
+\*belonging  
+\*exceptional  
+\*chance  
+\*unburdened  
+\*fear  
+\*adversity  
+\*discouraged  
+\*heartbroken  
+\*paralyzed  
+\*reaching  
+\*inheritance  
+\*daughter  
+\*owed  
+\*risking  
+\*greatest nation  
+
+**SUMMARY:**  
+
+The article reflects on the moral and emotional toll of gun violence in American cities, emphasizing the responsibility of mayors to address the intersection of hate and firearms. The author highlights the impact of racist ideology, hate speech, and easy access to military-grade weapons, which have led to tragic events in cities like Gilroy, Dayton, and El Paso. Mayors are taking action, empowered by young people demanding courage and meaningful steps to combat gun violence. The author shares personal stories of ancestors fleeing violence, underscoring the importance of building a nation where everyone feels safe and belongs. The focus is on involving youth in efforts to end gun violence, as they embody the hope for a future free from fear and adversity. The author’s vision is to leave an inheritance of safety and belonging for future generations, honoring the sacrifices of those who built the nation.  
+
+**END OF SUMMARY.**

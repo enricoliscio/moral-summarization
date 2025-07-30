@@ -1,0 +1,50 @@
+Okay, I need to tackle this query where the user wants me to act as a news summarizer assistant and a moral expert. The task is to summarize a given news article while preserving the moral framing. Let me break it down step by step.
+
+First, the user provided a detailed news article about President Obama's handling of the Benghazi attack. They want me to identify all the single words that carry moral framing. So, I'll go through the article and pick out words that have strong moral connotations. Words like "deception," "eroding," "terrorist," "atrocity," "cover-up," etc., stand out because they carry negative moral weight.
+
+Next, I need to write a summary of the article, making sure to include as many of these morally framed words as possible. The summary should be concise, under 200 words, and should capture the essence of the article while highlighting the moral issues presented. I should structure it to show how Obama's administration misled the public, the consequences of their actions, and the implications for his presidency.
+
+I should ensure that the summary flows logically, starting with the deception, moving through the details of the attack and the cover-up, and ending with the critique of Obama's policies and their impact. I'll make sure to use the identified moral words to maintain the original framing.
+
+Finally, I'll present the summary after the specified tokens, keeping it within the word limit. I need to be careful to not add any personal opinions but stick to the facts as presented in the article, while emphasizing the moral aspects as per the user's request.
+
+Alright, I think I have a clear plan. I'll start by listing all the morally charged words, then craft a summary that weaves them in naturally, ensuring it's within the word limit and captures the article's critical stance on Obama's handling of the Benghazi incident.
+</think>
+
+**STEP 1:**  
+* Deception  
+* Eroding  
+* Credibility  
+* Trustworthiness  
+* Stake  
+* Haunts  
+* False  
+* Blame  
+* Phantom  
+* Obscure  
+* Misled  
+* Cover-up  
+* Cynical  
+* Disaster  
+* Failed  
+* Safe havens  
+* Expanding  
+* Jihadist  
+* Atrocities  
+* Murdered  
+* Blood on his hands  
+* Atrocity  
+* Willful blindness  
+* Sacrificed  
+* Tragedy  
+* Sovereignty  
+* Abandoned  
+* Butchered  
+* Holy war  
+* Systematically  
+* Manipulation  
+* Unfit  
+
+**SUMMARY:**  
+President Obama is accused of deception and misleading the public about the 2012 Benghazi attack, which he initially blamed on a "spontaneous protest" over an anti-Muslim video. However, evidence revealed it was a terrorist assault by Ansar al-Sharia, a group linked to al Qaeda. Obama knew the truth but covered it up to protect his administration's narrative of combating terrorism. The article criticizes his Libyan intervention as a disaster, enabling jihadist expansion and making Libya a haven for radical Islam. Security requests for the consulate were ignored, and despite having military assets nearby, Obama refused to intervene, prioritizing Libyan sovereignty. The attack, described as an act of war, resulted in the deaths of four Americans, including Ambassador J. Christopher Stevens. The article argues Obama's actions, including the cover-up, make him unfit for office.  
+**END OF SUMMARY.**

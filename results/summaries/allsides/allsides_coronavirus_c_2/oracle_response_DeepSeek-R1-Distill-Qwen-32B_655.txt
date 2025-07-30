@@ -1,0 +1,19 @@
+Okay, so the user has given me a query where they want me to act as a news summarizer and a moral expert. They provided a detailed news article and a list of morally framed words that the author used. The task is to summarize the article while preserving as many of those moral words as possible.
+
+First, I need to understand the main points of the article. It's about ICE continuing to deport undocumented immigrants despite the COVID-19 pandemic. They're moving people even when they're sick, leading to the spread of the virus. The article mentions specific cases, like Admild and Kanate, who were deported while showing symptoms. It also talks about the unsafe conditions in detention centers and how some countries have accepted deportees under pressure from the Trump administration.
+
+Next, I should identify the key morally charged words from the author's list. Words like "sick," "detain," "deport," "spread," "pressure," "cramped," "unsanitary," "die," "ill," "flights," etc., are important to include.
+
+I need to craft a concise summary (under 200 words) that includes as many of these words as possible. The summary should highlight ICE's actions, the health risks, the impact on detainees, and the international spread of the virus.
+
+I should start by mentioning ICE's continued operations despite the pandemic. Then, include specific examples of sick individuals being deported. Describe the unsafe conditions in detention centers. Mention the spread to other countries and the pressure from the Trump administration. Finally, note ICE's response and the ongoing flights.
+
+I need to make sure the summary flows well and includes all the key moral points without being too verbose. I'll structure it to cover the main issues: detention, deportation of the sick, unsafe conditions, international spread, and ICE's response.
+
+Let me draft the summary, ensuring each paragraph covers a main point and includes the necessary moral terms. I'll check the word count to stay under 200 words.
+
+After drafting, I'll review to ensure all important moral words are included and that the summary accurately reflects the article's content and moral framing.
+</think>
+
+SUMMARY:  
+The article highlights how ICE has continued to detain, move, and deport immigrants despite the COVID-19 pandemic, even when individuals were sick or showing symptoms. Admild, an undocumented immigrant from Haiti, was deported despite testing positive for the virus and fearing reprisals. Detention centers were described as cramped, unsanitary, and impossible for social distancing, with limited testing and protective gear. ICE has confirmed over 3,000 coronavirus-positive detainees, yet testing remains limited. The agency has flown thousands of detainees, including some who were ill, across the U.S. and internationally. Deportation flights carried sick migrants to countries like El Salvador, Honduras, and India, where some tested positive upon arrival. Despite criticism, ICE claims it follows CDC guidelines but admits it can only test a sampling of detainees. Deportation flights continue, raising concerns about spreading the virus domestically and globally. END OF SUMMARY.

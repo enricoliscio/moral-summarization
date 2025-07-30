@@ -1,0 +1,25 @@
+Alright, I need to help the user by summarizing the given news article while preserving the moral framing. Let me start by understanding the task. The user provided an article where China disapproves of the term "axis of evil" in international relations. 
+
+First, I should identify all the morally framed words. Scanning through the text, I notice words like "disapproves," "evil," "arbitrarily," "irrefutable," "peaceful co-existence," "equality," "long-term," "peace," "stability," "chaos," "adversarial," and "cooperation." These words carry moral connotations, so I'll list them in step one.
+
+Next, I need to write a concise summary that includes these words. The summary should be under 200 words and maintain the original moral perspective. I'll start by stating China's disapproval of the term, mention the context of the U.S. leader's statement, and then outline China's stance on evidence-based anti-terrorism and the importance of international cooperation. I'll ensure to include the key moral terms to reflect the article's framing accurately.
+
+I should also make sure the summary flows logically, starting with the main point, then the context, followed by China's principles and the potential consequences of using such language. This approach will keep the summary clear and within the word limit.
+</think>
+
+### STEP 1:
+* Disapproves
+* Evil
+* Arbitrarily
+* Irrefutable
+* Peaceful co-existence
+* Equality
+* Long-term
+* Peace
+* Stability
+* Chaos
+* Adversarial
+* Cooperation
+
+### SUMMARY:
+China has strongly disapproved of the use of the term "axis of evil" in international relations, as stated by Foreign Ministry spokesman Kong Quan. He criticized the U.S. leader's recent characterization of North Korea, Iran, and Iraq as part of an "axis of evil," emphasizing that such language risks causing serious consequences. Kong noted that U.S. public opinion also opposes this framing, warning that following such logic could lead to chaos. China advocates for anti-terrorism efforts based on irrefutable evidence and opposes arbitrary expansion of these campaigns. The country emphasizes the importance of adhering to the United Nations Charter, the Five Principles of Peaceful Co-existence, and treating all nations equally. Kong stressed that such an approach is essential for fostering long-term peace and stability globally and regionally, rather than fostering an adversarial international environment. END OF SUMMARY.

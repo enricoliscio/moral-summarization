@@ -1,0 +1,43 @@
+Okay, so I need to help the user with their query. They provided a news article and asked me to summarize it while preserving the moral framing. They also want me to first identify all the single words that are morally framed. 
+
+First, I'll read through the article carefully. The main points are about Paul Ryan's budget plan and the criticism from Catholic leaders. The article mentions terms like "excoriated," "moral teachings," "decimates," "weakens," "tax breaks," "values," "Gospel," "Compendium," "deepen understanding," "arm of the Republican Party," "vocal critics," "violations of religious freedom," "intolerant," "similar path," "Hitler," "Stalin," "preferential option for the poor," "primary tenants," "independence," "face problems," "economic crises," "high unemployment," "endemic poverty," "hunger," "prioritizes aid," "collective opinion."
+
+I should list each of these words as they carry moral connotations. Then, I need to write a concise summary using as many of these words as possible without exceeding 200 words. The summary should highlight the conflict between Ryan's budget and Catholic teachings, the criticism from Georgetown faculty, the broader context of Catholic leaders opposing the Republican Party, and the differing views on Catholic social teaching.
+
+I need to ensure that the summary flows well and captures the essence of the article while maintaining the moral framing. I'll structure it by introducing Ryan's plan, the criticism from Georgetown, the broader church stance, and the debate over Catholic teachings. I'll make sure to include key moral terms like "excoriated," "moral teachings," "decimates," "weakens," "tax breaks," "Gospel," "Compendium," "arm of the Republican Party," "vocal critics," "violations of religious freedom," "preferential option for the poor," "independence," "face problems," "economic crises," "high unemployment," "endemic poverty," "hunger," "prioritizes aid," "collective opinion."
+
+I should double-check that the summary doesn't add any new information beyond what's in the article and stays within the word limit. Also, I need to ensure that the moral framing is preserved by using the identified words appropriately.
+</think>
+
+**STEP 1:**  
+* excoriated  
+* moral  
+* teachings  
+* decimates  
+* weakens  
+* tax breaks  
+* values  
+* Gospel  
+* Compendium  
+* deepen  
+* arm  
+* vocal  
+* violations  
+* intolerant  
+* similar path  
+* Hitler  
+* Stalin  
+* preferential option  
+* poor  
+* tenants  
+* independence  
+* face problems  
+* economic crises  
+* high unemployment  
+* endemic poverty  
+* hunger  
+* prioritizes  
+* aid  
+
+**SUMMARY:**  
+Representative Paul D. Ryan's budget plan, inspired by Catholic teachings, has faced criticism from Catholic leaders for slashing antipoverty programs. Georgetown faculty and priests accused Ryan of misusing Catholic doctrine to justify policies that decimate food programs, weaken protections for the elderly, and give tax breaks to the wealthy. They argued his budget reflects Ayn Rand's values, not the Gospel. Catholic leaders are distancing the church from the Republican Party, as bishops have recently criticized the Obama administration over religious freedom. Ryan defended his plan, claiming it aligns with Catholic teachings by promoting independence for the poor. However, Georgetown faculty and the U.S. Conference of Catholic Bishops argue Catholic teaching calls for government intervention in crises, not reducing aid to the poor. Ryan disputes this, but the bishops insist their letters represent the collective opinion. END OF SUMMARY.

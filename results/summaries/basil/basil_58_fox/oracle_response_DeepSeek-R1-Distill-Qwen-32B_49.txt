@@ -1,0 +1,18 @@
+<think>
+Alright, so I need to help the user by summarizing a news article while preserving the moral framing. Let me start by understanding the task. The user provided a news article about Chris Christie announcing his candidacy for the 2016 election. They want a summary that includes the morally framed words the author used. 
+
+First, I'll read through the article to identify the key points and the moral language. The article mentions Christie's uphill climb, low poll numbers, fundraising deficit, scandals, plummeting popularity, establishment favorite, mega-donors drifting, and his personality traits like brash, challenging, combative, and maestro of town hall meetings. 
+
+I need to make sure these terms are included in the summary. The user also specified that the summary should be no longer than 200 words and should start with "SUMMARY:" and end with "END OF SUMMARY." 
+
+I'll structure the summary to highlight Christie's announcement, his challenges, and his strengths. I'll mention the uphill climb and his low poll numbers to show the difficulties he faces. Then, I'll note the shift in support from donors to his rivals, indicating the loss of establishment backing. 
+
+Next, I'll contrast that with his strengths: his personality and town hall skills. I'll use the terms brash, challenging, combative, and maestro to describe him, as these carry the moral framing. I'll also include how his approach leaves some enraged but others supportive, showing the mixed reactions.
+
+I need to keep the summary concise, so I'll combine these elements into a coherent paragraph. I'll ensure that the morally framed words are preserved and that the summary accurately reflects the original article's tone and content.
+
+Finally, I'll check the word count to make sure it's under 200 words and that all key points are covered. This should meet the user's requirements effectively.
+</think>
+
+SUMMARY:  
+New Jersey Governor Chris Christie is set to announce his bid for the 2016 presidency, though he faces significant challenges. With low poll numbers, a fundraising deficit, and scandals plaguing his reputation, his status as the GOP establishment favorite has diminished. Mega-donors who once supported him have shifted their allegiance to rivals like Jeb Bush. Despite this, Christie’s brash, challenging, and combative personality could be his key asset. Known for his town hall performances, he engages audiences with a commanding presence, leaving some enraged but many more emotionally moved, even hopeful. His ability to connect with voters through these events may help him overcome his uphill climb in the race. END OF SUMMARY.

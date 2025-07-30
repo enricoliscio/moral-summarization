@@ -1,0 +1,15 @@
+<think>
+Alright, so I need to help the user by summarizing the given news article. Let me read through the query first. The user wants a summary of the article about Arkansas and Indiana's Religious Freedom laws. They specified that the summary should be after a "SUMMARY:" token and end with "END OF SUMMARY." Also, it should be no longer than 200 words.
+
+Okay, the article talks about Arkansas Gov. Asa Hutchinson signing a revised version of the Religious Freedom Reformation Act. He initially refused to sign because he was concerned about discrimination against LGBT individuals. The legislature then amended the bill to align with the federal RFRA, removing provisions that allowed discrimination. 
+
+Meanwhile, Indiana made changes to their RFRA law, adding explicit protections against discrimination based on sexual orientation and gender identity. This was in response to national backlash, including opposition from politicians, business leaders, and celebrities. 
+
+Hutchinson mentioned his son's request to veto the bill, highlighting generational differences. He also faced pressure from Walmart's CEO, who opposed the bill as it threatened inclusion.
+
+I need to condense this into a concise summary. I should include the key points: Hutchinson signing the revised bill, the amendments made, the changes in Indiana, the backlash, and the pressure from his son and Walmart. 
+
+I'll make sure to keep it under 200 words and structure it clearly. Let me draft it step by step, ensuring all important details are covered without going over the word limit.
+</think>
+
+SUMMARY: Arkansas Gov. Asa Hutchinson signed a revised version of the Religious Freedom Reformation Act, amending provisions that could allow discrimination against LGBT individuals. The new law now mirrors the federal Religious Freedom Restoration Act (RFRA). In Indiana, legislators also amended their controversial RFRA law to explicitly prohibit discrimination based on sexual orientation or gender identity, following national backlash. Hutchinson cited pressure from his son, who urged him to veto the initial bill, and from Walmart CEO Doug McMillon, who opposed the legislation as it threatened inclusion. The changes reflect a response to widespread criticism and a generational shift in views on LGBT rights. END OF SUMMARY.

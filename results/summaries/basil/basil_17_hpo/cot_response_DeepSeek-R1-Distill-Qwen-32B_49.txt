@@ -1,0 +1,61 @@
+Okay, so the user has given me a query where I need to act as a news summarizer assistant and a moral expert. The task involves two main steps. First, I have to identify all the single words that are morally framed in the provided news article. Then, I need to write a summary preserving those moral framings. 
+
+Let me start by understanding what morally framed words are. These are words that carry a moral connotation, either positive or negative. They are used to evoke a particular ethical or value-based perspective. So, I need to go through the article and pick out words that have such connotations.
+
+Looking at the article, it's about Sheriff Joe Arpaio endorsing Rick Perry for the Republican nomination. Arpaio is known for his strict immigration policies. The article mentions terms like "endorse," "credibility boost," "hardliner," "enforcement," "works," "Tent City," "failed," "illegal trafficking," "champion," "fund," "tough-on-crime," "superior," "secure," "illegal," "struggle," "fail," "secure," "vital," "national security," "public safety," "jobs," "putting," "fencing," "surveillance," "safe," "shared goals," "fight," "strategic," "resources," "safe," "honor," "support," "shared goals," "fight," "border crime," "fence," "surveillance," "safe," "honor," "support," "shared goals," "fight," "border crime," "fence," "surveillance," "safe," "honor," "support," "shared goals," "fight," "border crime," "fence," "surveillance," "safe," "honor," "support," "shared goals," "fight," "border crime," "fence," "surveillance," "safe."
+
+Wait, that's a lot. I need to make sure each of these words is indeed carrying a moral connotation. For example, "endorse" is neutral, but in this context, it's about supporting a candidate with a tough stance, so it's framed morally. "Credibility boost" implies trustworthiness, which is a moral attribute. "Hardliner" suggests a strict stance, which is a value judgment. "Enforcement" is about upholding laws, which has moral implications. "Tent City" is a negative term due to its harsh conditions. "Failed" is a negative judgment. "Illegal trafficking" is clearly moral. "Champion" and "fund" are positive actions. "Tough-on-crime" is a value stance. "Superior" is a positive judgment. "Secure" is a positive goal. "Illegal" again is a moral term. "Struggle" implies difficulty, which can be framed as a moral issue. "Fail" is negative. "Vital" is positive. "National security," "public safety," "jobs" are all moral goods. "Putting" is neutral, but in context, it's about taking action for security. "Fencing" and "surveillance" are tools for security, which is a moral good. "Safe" is a positive outcome. "Honor" is positive. "Support" is positive. "Shared goals" imply common values. "Fight" is a positive action against crime. "Strategic" is a positive adjective. "Resources" are tools for good. 
+
+I think I've covered all the morally framed words. Now, for the summary, I need to condense the article, keeping as many of these words as possible. The summary should be concise, under 200 words, and include the key points: Arpaio's endorsement, his reasons, Perry's immigration stance, and the implications for the campaign.
+
+I'll start by mentioning the endorsement and its potential impact. Then, I'll note Arpaio's reputation and his criticism of Perry's immigration plan. Next, I'll include Arpaio's statement about Perry's border operations and his support for a tough president. Then, Perry's response about securing the border and his past actions. Finally, I'll add the historical context of Arpaio's past endorsements.
+
+I need to make sure the summary flows well and includes the morally framed words without making it too verbose. Let me draft it step by step, ensuring each key point is covered and the moral framing is preserved.
+</think>
+
+**STEP 1:**  
+* Controversial  
+* Endorse  
+* Credibility boost  
+* Hardliner  
+* Enforcement  
+* Works  
+* Tent City  
+* Failed  
+* Illegal trafficking  
+* Champion  
+* Fund  
+* Tough-on-crime  
+* Superior  
+* Secure  
+* Illegal  
+* Struggle  
+* Fail  
+* Secure  
+* Vital  
+* National security  
+* Public safety  
+* Jobs  
+* Putting  
+* Fencing  
+* Surveillance  
+* Safe  
+* Honor  
+* Support  
+* Shared goals  
+* Fight  
+* Strategic  
+* Resources  
+* Safe  
+* Honor  
+* Support  
+* Shared goals  
+* Fight  
+* Illegal  
+* Fencing  
+* Surveillance  
+* Safe  
+
+**SUMMARY:**  
+Controversial Arizona Sheriff Joe Arpaio endorsed Texas Governor Rick Perry for the Republican presidential nomination, potentially boosting Perry's credibility on immigration and border issues. Arpaio, a hardliner known for strict enforcement measures like "Tent City," criticized Perry's immigration plan, which opposes deporting all undocumented immigrants and a full border fence. However, Arpaio praised Perry's border surge operations, calling him a "tough-on-crime" leader with a superior border security record. Perry, in turn, emphasized his commitment to securing the border within a year, citing his track record of funding enforcement and requesting National Guard troops. Arpaio's endorsement highlights the importance of border security for national security, public safety, and jobs, while Perry stressed the need for more personnel, fencing, and surveillance. This marks Arpaio's second endorsement of a Republican presidential candidate, having previously backed Mitt Romney in 2008.  
+END OF SUMMARY.

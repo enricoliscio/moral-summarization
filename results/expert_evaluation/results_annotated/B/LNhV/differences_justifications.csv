@@ -1,0 +1,10 @@
+pair,justification,just-1,just-2
+4dpj-bZK1,"In introducing social determinants of health, 4dpj already underlines the inequality factor, while bZK1 does not",4dpj-moral framing alignment,bZK1-moral framing loss
+4dpj-pJAO,"In introducing social determinants of health, 4dpj already underlines the inequality factor, while pJAO does not. Moreover, in pJAO police violence 'affects' Black Americans, while in 4dpj it 'kills' them.",4dpj-moral framing alignment,pJAO-moral framing loss
+4dpj-qFYI,"qFYI introduces every statement from the article with sentences such as 'the article highlights,' thus distancing itself from the moral statements. Moreover, in qFYI police violence 'affects' Black Americans, while in 4dpj it 'kills' them.",4dpj-moral framing alignment,qFYI-moral framing loss
+4dpj-vELP,"In introducing social determinants of health, 4dpj already underlines the inequality factor, while vELP does not",4dpj-moral framing alignment,vELP-moral framing loss
+bZK1-pJAO,"In pJAO police violence 'affects' Black Americans, while in bZK1 it 'kills' them.",bZK1-moral framing alignment,pJAO-moral framing loss
+bZK1-qFYI,"qFYI introduces every statement from the article with sentences such as 'the article highlights,' thus distancing itself from the moral statements.",,qFYI-moral framing loss
+pJAO-vELP,"In pJAO police violence 'affects' Black Americans, while in vELP it 'kills' them.",pJAO-moral framing loss,vELP-moral framing alignment
+pJAO-qFYI,"qFYI introduces every statement from the article with sentences such as 'the article highlights,' thus distancing itself from the moral statements.",,qFYI-moral framing loss
+qFYI-vELP,"qFYI introduces every statement from the article with sentences such as 'the article highlights,' thus distancing itself from the moral statements.",qFYI-moral framing loss,

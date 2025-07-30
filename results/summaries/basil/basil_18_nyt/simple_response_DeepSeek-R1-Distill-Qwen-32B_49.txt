@@ -1,0 +1,18 @@
+Okay, so I need to help the user by summarizing this news article while preserving the moral framing. The user specified that I'm a news summarizer and a moral expert, so I should focus on the ethical or moral aspects highlighted in the article.
+
+First, I'll read through the article to understand the main points. Gov. Rick Perry is running ads targeting hard-right conservatives, particularly in Iowa where many are Christian evangelicals. The ad contrasts Christianity with homosexuality, criticizes Obama's policies on religion, and opposes the end of "don't ask, don't tell." He's emphasizing his Christian values and suggesting a conflict between religious freedom and gay rights.
+
+I need to make sure the summary includes these elements. The moral framing here is about the clash between religious freedom and LGBTQ+ rights. Perry is positioning himself as defending religion against what he sees as Obama's attacks, which could be seen as promoting traditional values over progressive ones.
+
+I should also mention the criticism from Log Cabin Republicans, who argue that supporting equality and faith aren't mutually exclusive. This adds the opposing moral viewpoint, showing that the issue is contentious and not one-sided.
+
+I need to keep it concise, under 200 words. I'll start by introducing Perry's campaign ad, its target audience, and the moral arguments he's making. Then, I'll include the opposing perspective to balance the summary. I'll make sure to highlight the ethical debate without taking a side, just presenting both viewpoints.
+
+Let me structure this: introduce Perry's ad, its purpose, the moral arguments, the target demographic, and the criticism. Keep each part brief but informative. I should avoid any markdown and just write in plain text, ending with the specified tokens.
+
+I think that covers all the necessary points while preserving the moral framing. Now, I'll draft the summary accordingly.
+</think>
+
+SUMMARY:  
+Gov. Rick Perry of Texas has released a campaign ad targeting hard-right conservatives, particularly Christian evangelicals in Iowa, where many Republican caucusgoers identify as such. The ad contrasts Christianity with homosexuality, criticizes President Obama’s policies on religion, and opposes the repeal of the "don’t ask, don’t tell" policy for gays in the military. Perry vows to end what he calls "Obama’s war on religion" and defend America’s religious heritage, arguing that faith made the country strong. He highlights his Christian identity and criticizes the administration’s promotion of gay rights globally. The ad has been condemned by Log Cabin Republicans, who argue that supporting equality and religious faith are not mutually exclusive. R. Clarke Cooper, the group’s director, accused Perry of prioritizing a theocratic agenda over individual liberties, which he claims align with the founding fathers’ vision. The ad reflects a broader moral debate over religious freedom versus LGBTQ+ rights.  
+END OF SUMMARY.

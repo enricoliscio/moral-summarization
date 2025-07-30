@@ -1,0 +1,24 @@
+<think>
+Okay, so the user has given me a query where I need to act as a news summarizer and moral expert. The task is to summarize a news article while preserving the moral framing. They've provided specific steps: first, identify all morally framed single words, then write a summary using those words.
+
+First, I need to understand what morally framed words are. These are words that carry a positive or negative connotation related to ethics or values. For example, "controversial" or "intriguing" might be considered as they imply a judgment.
+
+Looking at the article, I'll go through each sentence and pick out words that have a moral connotation. Words like "controversial," "intriguing," "mistake," "integrity," "nonpartisan," and "career politician" come to mind. These words reflect judgments about the suitability or implications of Lieberman's nomination.
+
+Next, I need to summarize the article. The summary should include these moral words and stay under 200 words. I'll start by mentioning Trump's nomination of Lieberman, highlighting the controversy and intrigue around it. I'll note the mixed reactions from senators, Lieberman's background, and the concerns about his political history. I'll also include the criticism from Schumer about career politicians leading the FBI.
+
+I need to ensure the summary flows well and covers all key points without being too detailed. I should make sure to include the moral framing words to reflect the author's perspective on the issue.
+
+I think I've covered all the necessary points. Now, I'll structure the summary, making sure it's concise and includes the identified moral words. Let me double-check the word count to ensure it's within the limit.
+</think>
+
+**STEP 1:**  
+* Controversial  
+* Intriguing  
+* Mistake  
+* Integrity  
+* Nonpartisan  
+* Career politician  
+
+**SUMMARY:**  
+President Trump is reportedly close to naming a new FBI director, with former Democratic Sen. Joe Lieberman as the leading contender. Lieberman, a political figure with a complex history, including his endorsement of John McCain in 2008 and Hillary Clinton in 2016, has sparked mixed reactions. While some Republicans, like Sen. John Cornyn, find the idea intriguing, others, like Sen. Claire McCaskill, argue it would be a mistake. Lieberman’s political background and potential bipartisan appeal have made him a controversial choice. Trump also met with other candidates, including Acting FBI Director Andrew McCabe, but Lieberman has emerged as the frontrunner. Critics, including Senate Minority Leader Chuck Schumer, have expressed concerns about appointing a career politician to lead the FBI, emphasizing the need for someone with integrity and nonpartisan credentials. END OF SUMMARY.

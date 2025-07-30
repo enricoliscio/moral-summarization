@@ -1,0 +1,33 @@
+Alright, I need to help the user by summarizing the news article while preserving the moral framing. First, I'll go through the article to understand the key points. Reddit is shutting down 2,000 communities due to hate speech, targeting subreddits like "The_Donald" and "Gender Critical." These communities have histories of promoting hate, and Reddit is taking action in response to brands boycotting Facebook over similar issues. The user wants me to identify morally framed words and then write a concise summary.
+
+For the first step, I'll extract all the single words that carry moral connotations. Words like "curtail," "hate speech," "equality," "protests," "ban," "boycott," "TERF," "anti-trans," "hateful," "weaponize," "mitigate," "inclusive," "support," "responsibility," "stronger action," "equality," "justice," and "inclusivity" stand out as they reflect moral judgments.
+
+Next, I'll craft a summary that includes these words. I need to make sure the summary is under 200 words and captures the essence of Reddit's action against hate speech, the communities affected, and the broader context of brands boycotting Facebook. I'll structure it to highlight the moral implications, such as the promotion of hate speech and the necessity for stronger enforcement to support equality and justice.
+
+I should ensure that the summary flows well and clearly presents the main points without losing the moral framing. I'll start by stating Reddit's action, mention the affected communities, their behaviors, and the reasons behind the shutdown. I'll also include the broader context of brands boycotting Facebook and Reddit's commitment to creating a safer environment.
+
+Finally, I'll review the summary to make sure it's concise and all morally framed words are appropriately included. This way, the user gets a clear, morally charged summary of the article as required.
+</think>
+
+**STEP 1:**  
+* Curtail  
+* Hate speech  
+* Equality  
+* Protests  
+* Ban  
+* Boycott  
+* TERF  
+* Anti-trans  
+* Hateful  
+* Weaponize  
+* Mitigate  
+* Inclusive  
+* Support  
+* Responsibility  
+* Stronger action  
+* Equality  
+* Justice  
+* Inclusivity  
+
+**SUMMARY:**  
+Reddit has shut down over 2,000 communities, including "The_Donald" and "Gender Critical," due to their history of hate speech and rule violations. These subreddits promoted anti-trans rhetoric, denied trans women's identities, and hosted content supporting ethnic cleansing. The move follows brands boycotting Facebook over hate speech, led by civil rights groups. Reddit emphasized its responsibility to combat hate and create a safer platform, stating that communities must adhere to content policies. The purge is part of a broader effort to enforce stronger rules against hate speech, ensuring equality and justice for all users. END OF SUMMARY.

@@ -1,0 +1,53 @@
+<think>
+Okay, so I need to help the user by summarizing a news article while preserving the moral framing. The user has given me specific steps: first, identify all the morally framed single words, then write a summary using as many of those words as possible.
+
+Let me start by reading the article carefully. It's about editorial opinions on two main topics: the treatment of al-Qaeda detainees in Guantanamo Bay and the political shuffle involving Brian Tobin and John Manley in Canada.
+
+First, I need to extract the morally framed words. These are words that carry a strong positive or negative connotation. Let's go through the article section by section.
+
+In the part about al-Qaeda detainees, words like "thugs," "harsh," "inhumane," "assurances," "humanely," "insist," "competent," "tribunal," "Geneva Convention," "imperil," "overreacting," "thumbs up" stand out. These words are used to express approval or disapproval of the US's actions.
+
+Next, regarding Brian Tobin, words like "betrayal," "content," "ridiculing," "unstable," "flighty," "opportunistic," "lacking commitment," "vitriol," "favourite," "sensible," "trust," "competent," "scrupulously honest," "bodes well" are used to critique Tobin and praise Manley.
+
+Now, I'll list these words as per the user's instruction.
+
+Moving on to the summary. I need to condense the article, focusing on the moral aspects. I'll start by mentioning the editorials' focus on both the detainees and Tobin's departure. I'll highlight the divide between those supporting the US's tough stance and those advocating for humane treatment and legal processes. Then, I'll note the criticism of Tobin and the praise for Manley, emphasizing the moral judgments expressed.
+
+I need to ensure the summary is concise, under 200 words, and includes as many of the identified morally framed words as possible without making it sound forced.
+
+I should structure it to first address the al-Qaeda issue, then move on to Tobin and Manley, highlighting the contrasting moral evaluations. This way, the summary captures both the criticism of the detainees' treatment and the political fallout involving Tobin, while praising Manley's qualities.
+
+I think that covers all the necessary points. Now, I'll put it all together, making sure to use the morally framed words naturally within the summary.
+</think>
+
+**STEP 1:**
+
+\*thugs  
+\*harsh  
+\*inhumane  
+\*assurances  
+\*humanely  
+\*insist  
+\*competent  
+\*tribunal  
+\*Geneva Convention  
+\*imperil  
+\*overreacting  
+\*thumbs up  
+\*betrayal  
+\*content  
+\*ridiculing  
+\*unstable  
+\*flighty  
+\*opportunistic  
+\*lacking commitment  
+\*vitriol  
+\*favourite  
+\*sensible  
+\*trust  
+\*competent  
+\*scrupulously honest  
+\*bodes well  
+
+**SUMMARY:**  
+Editorials in Ottawa focus on the treatment of al-Qaeda detainees in Guantanamo Bay and the political fallout from Brian Tobin's departure. Critics argue that while the U.S. claims humane treatment, conditions are harsh, and a competent tribunal should determine their legal status under the Geneva Convention. Others defend the U.S., claiming overreacting might imperil American lives. Meanwhile, Tobin's exit sparks vitriol, with accusations of betrayal and instability. Columnists ridicule his claimed family reasons, while praising John Manley as a sensible, trustworthy leader. The moral divide over detainee treatment and Tobin's legacy highlights conflicting values in Ottawa's political discourse. END OF SUMMARY.

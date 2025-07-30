@@ -1,0 +1,35 @@
+Okay, so I need to help the user by summarizing this news article while preserving the moral framing. Let me start by understanding what the article is about. It's talking about COVID-19 in children, the risks, and how schools can reopen safely. 
+
+First, the user wants me to identify all the single words that are morally framed. That means I need to look for words that carry a moral connotation, like "should," "must," "need," etc. I'll go through the article and pick out those words. 
+
+Next, I have to write a summary that includes as many of those morally framed words as possible. The summary needs to be concise, under 200 words, and should reflect the author's moral perspective. 
+
+I'll start by reading through the article again to make sure I catch all the morally charged words. Then, I'll structure the summary to highlight the key points: the low risk in children, the importance of community control, the three Ws, and the specific safety measures for schools. I'll make sure to include words like "should," "must," "need," and "ought" to maintain the moral framing.
+
+I should also ensure that the summary flows well and covers all the essential points without being too lengthy. It's important to balance between being concise and comprehensive. Let me make sure I'm not missing any critical measures mentioned, like shielding vulnerable individuals, reducing risks, and modifying activities. 
+
+Finally, I'll review the summary to ensure it aligns with the original article's tone and message, making sure the moral elements are preserved accurately.
+</think>
+
+**STEP 1:**  
+* should  
+* must  
+* need  
+* require  
+* enable  
+* continue  
+* stop  
+* modify  
+* possible  
+* necessary  
+* safe  
+* vulnerable  
+* risk  
+* control  
+* adhere  
+* provide  
+* protect  
+* ensure  
+
+**SUMMARY:**  
+Severe COVID-19 illness in children is rare, but serious cases, like the inflammatory syndrome, do occur, similar to influenza, which kills many children annually. Schools should remain open unless the virus is spreading explosively, as closing schools for influenza is uncommon. The primary focus should be on community control of the virus through the three W’s—wear masks, wash hands, watch distance—and strategic measures like testing, isolation, contact tracing, and quarantine support. Schools should follow CDC guidelines tailored to their context. To reopen safely, schools should shield vulnerable individuals, reduce risks by modifying activities like assemblies, cafeterias, and singing, and limit high-risk sports. Outdoor activities with masks and distancing are encouraged. Schools must balance safety with essential services like meals while ensuring the well-being of students and staff. END OF SUMMARY.

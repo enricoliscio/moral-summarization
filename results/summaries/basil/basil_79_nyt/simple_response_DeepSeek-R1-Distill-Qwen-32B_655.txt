@@ -1,0 +1,10 @@
+Alright, so the user has given me a query where they want me to act as a news summarizer and a moral expert. They provided a news article about President Trump's comments regarding Michael Flynn and Hillary Clinton. My task is to summarize the article while preserving the moral framing that the author used. 
+
+First, I need to understand the main points of the article. It talks about Trump's criticism of the FBI for ruining Flynn's life, comparing it to Clinton not facing consequences for lying. Flynn pleaded guilty to lying to the FBI, and Trump feels badly for him. Trump also mentions that Clinton lied many times without facing repercussions. The article notes that Trump's involvement in the investigation is unusual since presidents typically don't comment on such matters.
+
+Now, I need to make sure the summary captures the moral angle. Trump is framing the issue as the FBI treating Flynn harshly while letting Clinton off the hook. This comparison is a key part of the moral argument he's making. I should include that he didn't specify Clinton's lies but referenced her 2016 interview.
+
+I also need to keep the summary under 200 words and structure it correctly with the tokens. Let me draft the summary, ensuring it's concise and includes all the essential points while highlighting the moral comparison Trump is making.
+</think>
+
+SUMMARY: President Trump criticized the F.B.I. for ruining the life of his former national security adviser, Michael Flynn, while noting that Hillary Clinton, his Democratic opponent, faced no consequences despite allegedly lying "many times" to the F.B.I. Flynn pleaded guilty to lying about his conversations with the Russian ambassador, and Trump expressed sympathy for him, stating Flynn had led a "very strong life." Trump also highlighted the disparity in treatment between Flynn and Clinton, who gave a voluntary interview to the F.B.I. in 2016 during its investigation into her use of a private email server as secretary of state. Trump's comments come amid the special counsel investigation into Russian interference in the 2016 election and ties to Trump associates. END OF SUMMARY.

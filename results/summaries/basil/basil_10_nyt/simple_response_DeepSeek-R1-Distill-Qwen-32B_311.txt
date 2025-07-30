@@ -1,0 +1,14 @@
+Alright, I need to help the user by summarizing the given news article while preserving the moral framing. First, I'll read through the article to understand the key points. The article is about the 112th Congress starting the practice of reading the U.S. Constitution aloud. 
+
+I notice that the user wants the summary to be under 200 words and to include the moral framing. The original text discusses the political and symbolic significance of this action, especially in relation to the Tea Party and the repeal of the health care law. 
+
+I should highlight the procedural issues faced before the reading started, like the debate over which parts to read. It's important to mention the exclusion of parts related to slavery and prohibition, as that shows the intent behind the selection. 
+
+Also, the article mentions that this was a nod to the Tea Party, emphasizing constitutional limits on federal power. I need to include that the reading coincided with efforts to repeal the health care law, which ties into the broader debate about federal authority. 
+
+I should structure the summary to first introduce the event, then the challenges faced, followed by the purpose and its political implications. Keeping it concise while covering these aspects will ensure the moral framing is preserved. 
+
+Finally, I'll make sure to end with the required tokens and keep the summary within the word limit. I'll check for clarity and ensure all key points are covered without unnecessary details.
+</think>
+
+SUMMARY: The 112th Congress began its session by reading the U.S. Constitution aloud on the House floor, a symbolic act aimed at emphasizing constitutional authority and limiting federal overreach. The reading, proposed by Representative Robert W. Goodlatte, was intended to instruct lawmakers and inform voters about the document's principles. However, the process was marred by initial partisan disputes over which parts of the Constitution to include, particularly avoiding sections referencing slavery and prohibition. The event also served as a nod to the Tea Party movement, which emphasizes strict constitutional limits on federal power. The reading coincided with efforts to repeal the health care law, which Republicans argue lacks constitutional basis. This was the first time the full Constitution was read aloud on the House floor, with prior instances only appearing in the Congressional Record. The act underscored the ongoing debate over the role of government and the importance of the Constitution in shaping policy. END OF SUMMARY.

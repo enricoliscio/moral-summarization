@@ -1,0 +1,47 @@
+<think>
+Okay, I need to help the user by summarizing a news article while preserving the moral framing. The user has given specific instructions, so I should follow them carefully.
+
+First, the user wants me to identify all the morally framed single words in the article. I'll go through the text and pick out words that carry a moral connotation. Words like "concern," "honor," "discrimination," "torture," etc., seem to fit. I'll list each of these, each on a new line starting with an asterisk.
+
+Next, I need to write a concise summary of the article. I should make sure to include as many of those morally framed words as possible. The summary needs to be under 200 words and should capture the main points: the IHRC's concerns, the call for human rights, the mention of the Durban conference, the criticism of military actions, and the UN's call to Israel.
+
+I should structure the summary to flow logically, starting with the IHRC's statement, moving through their concerns and calls to action, and ending with the UN's involvement. I'll make sure each sentence is clear and sticks to the moral framing.
+
+I also need to remember to start the summary after the "SUMMARY:" token and end with "END OF SUMMARY." I'll check the word count to ensure it's within the limit.
+
+Let me put it all together, making sure each step is addressed properly and the summary is both accurate and concise.
+</think>
+
+**STEP 1:**  
+* Concern  
+* Honor  
+* Discrimination  
+* Torture  
+* Arbitrary detention  
+* Human rights  
+* Political rights  
+* Women's rights  
+* International declaration  
+* Divine religions  
+* Heavy human losses  
+* Devastating world wars  
+* Progress  
+* International community  
+* Provisions  
+* Materialized  
+* Turning point  
+* Injustice  
+* Palestinian nation  
+* Terrorism  
+* Military power  
+* Trampling upon human rights  
+* Solidarity  
+* Peace  
+* Security  
+* Religious teachings  
+* Stop bombing  
+* International monitors  
+* Targeted killing  
+
+**SUMMARY:**  
+The Islamic Human Rights Commission (IHRC) expressed concern about the resurgence of force and weapons in international relations, marking the International Day for Human Rights. Despite numerous documents and efforts to honor human rights, the IHRC regrets that the provisions of the international declaration remain unfulfilled. The organization condemned discrimination, torture, and arbitrary detention, emphasizing the importance of human rights, women's rights, and political freedoms. It highlighted the Durban conference against racism as a turning point in human rights advocacy. The IHRC deplored injustice against the Palestinian nation and violations of human rights globally, including against journalists, religious minorities, children, and women. While the international community condemned the September 11 attacks, some countries continue to resort to military force, trampling human rights. The IHRC urged statesmen to respect religious teachings on human rights, stating that peace cannot be achieved without honoring them. Meanwhile, the UN High Commissioner for Human Rights called on Israel to stop bombing Palestinian targets and allow international monitors. END OF SUMMARY.

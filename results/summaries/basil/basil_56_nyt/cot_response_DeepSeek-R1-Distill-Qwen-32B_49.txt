@@ -1,0 +1,27 @@
+Alright, so the user wants me to summarize a news article while preserving the moral framing. They provided a specific structure with two steps: first, identifying morally framed words, and then writing a concise summary using those words.
+
+First, I need to read the article carefully. It's about Senator Rubio's foreign policy speech. The article contrasts his approach with previous doctrines, like the Obama and Bush Doctrines. Rubio's pillars are strength, economy, and moral clarity. He emphasizes funding the military, opposing violations in various spaces, and promoting freedom and alliances.
+
+For the first step, I have to extract all the single words that carry moral connotations. Words like "strength," "protection," "morality," "freedom," "vulnerability," "persecution," "transparency," "commitment," "justice," and "solidarity" come to mind. These words are crucial as they frame Rubio's policies with moral values.
+
+Next, the summary needs to encapsulate the main points while retaining these moral terms. I'll mention Rubio's three pillars, his focus on military funding, opposition to violations, and his vision for spreading freedom and aiding vulnerable groups. I should keep it under 200 words, making sure each morally framed word is included where appropriate.
+
+I also need to structure the response with "STEP 1:" followed by each word on a new line, then the summary after "SUMMARY:". I should ensure clarity and conciseness, sticking to the user's instructions precisely.
+
+Lastly, I'll review to make sure I didn't miss any morally framed words and that the summary accurately reflects Rubio's stance while preserving the moral framing as required.
+</think>
+
+**STEP 1:**  
+* Strength  
+* Protection  
+* Morality  
+* Freedom  
+* Vulnerability  
+* Persecution  
+* Transparency  
+* Commitment  
+* Justice  
+* Solidarity  
+
+**SUMMARY:**  
+Senator Marco Rubio, a 2016 presidential candidate, has outlined his foreign policy approach, emphasizing strength, protection, and moral clarity. His three pillars include ensuring American military strength, safeguarding the economy in a globalized world, and preserving the moral integrity of U.S. values. Rubio plans to "adequately fund" the military, even in times of peace, and oppose violations in international waters, airspace, cyberspace, and outer space. He also vows to support economic and political freedom, reinforce alliances, resist powerful nations' subjugation of smaller neighbors, and advance the rights of vulnerable groups, including women and religious minorities. His vision aims to show the world that the American people hear the cries of the afflicted and desire their freedom. END OF SUMMARY.

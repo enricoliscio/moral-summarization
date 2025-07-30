@@ -1,0 +1,37 @@
+Alright, I need to help the user with their query. They provided a news article and specific instructions on how to process it. First, I should understand what they're asking for. They want me to act as a news summarizer assistant and a moral expert. My task is to summarize the article while preserving the moral framing the author used.
+
+The user has broken down the task into two steps. The first step is to identify all the single words that are morally framed. They want each word listed with a * and each on a new line under STEP 1. The second step is to write a concise summary, keeping as many of those moral words as possible, and it should be under 200 words. The summary needs to start with SUMMARY: and end with END OF SUMMARY.
+
+Looking at the article, it's about President Trump's immigration compromise and the reactions from both Democrats and Republicans. The Democrats are critical, calling his proposal one-sided, ineffective, and holding the government hostage. Republicans, on the other hand, praise it as a reasonable compromise and a step towards reform.
+
+For STEP 1, I need to extract all the morally charged words. Words like "hostage," "chaos," "uncertainty," "non-starter," "untenable," "pointless," "unacceptable," "crisis," "sensible," "reasonable," "good faith," "strength," "weakness," "obstruction," "crisis," and "reasonable" stand out as they carry moral judgment.
+
+Now, for the summary, I need to condense the article, highlighting the key points while including as many of these moral words as possible. I should mention Trump's offer, the Democratic criticism, Republican support, and the ongoing shutdown's impact. It's important to capture the opposing viewpoints clearly.
+
+I need to make sure the summary is concise, under 200 words, and flows naturally. I'll start by stating Trump's proposal, then outline the Democratic and Republican reactions, and conclude with the implications of the shutdown. I'll ensure that the moral framing words are included to reflect the author's perspective.
+
+Finally, I'll structure the response with STEP 1 listing the words and then the SUMMARY section, making sure to adhere to the formatting instructions provided. This way, the user gets a clear, morally framed summary of the article.
+</think>
+
+**STEP 1:**  
+* Hostage  
+* Chaos  
+* Uncertainty  
+* Non-starter  
+* Untenable  
+* One-sided  
+* Ineffective  
+* Pointless  
+* Unacceptable  
+* Crisis  
+* Sensible  
+* Reasonable  
+* Good faith  
+* Strength  
+* Weakness  
+* Obstruction  
+* Crisis  
+* Reasonable  
+
+**SUMMARY:**  
+President Trump proposed a compromise to end the government shutdown, offering a three-year DACA extension for 700,000 recipients in exchange for $5.7 billion for a border wall. Democrats criticized the plan, calling it "one-sided" and "ineffective," accusing Trump of "holding the government hostage." House Speaker Nancy Pelosi and Senate Minority Leader Chuck Schumer demanded the shutdown end before negotiations could proceed. Schumer criticized Trump for "taking away DACA protections" and offering "temporary solutions" in exchange for a "pointless" wall. Other Democrats, like Sen. Bob Menendez, condemned the shutdown as "pointless" and "unacceptable," while Sen. Chris Coons urged reopening the government to negotiate a "sensible" solution. Republicans, however, praised Trump's proposal as "reasonable" and a "good faith effort," with Senate Majority Leader Mitch McConnell calling it a "fair compromise." The shutdown continued to impact 800,000 federal workers and their families, with both parties at odds over border security and immigration reform. END OF SUMMARY.

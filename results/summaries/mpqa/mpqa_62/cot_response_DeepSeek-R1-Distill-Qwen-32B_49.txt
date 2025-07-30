@@ -1,0 +1,23 @@
+Alright, I need to help the user with their query. They provided a news article and specific instructions on how to process it. The task is to first identify morally framed words and then summarize the article while preserving those moral frames.
+
+First, I'll read the article carefully. It's about the Endeavour shuttle docking with the space station, delivering a new crew. The key points are the docking, the relief of the existing crew, the emotions of the commander, and the transition of the crew.
+
+Now, for step 1, I need to find single words that carry moral framing. Words like "relieve," "awaited," "isolated," "frustrated," and "tradition" stand out. These words convey emotions and the significance of the event, so they're morally framed.
+
+Moving on to the summary. I have to make sure it's concise, under 200 words, and includes the morally framed words. I'll start by stating the docking, mention the new crew, and the emotions of the commander. I'll include the tradition part to show the significance of the moment.
+
+I need to ensure the summary flows well and captures the essence of the article while highlighting the moral aspects. I'll check the word count to make sure it's within the limit. Also, I should end with the specified tokens as instructed.
+
+I think I've covered all the points. Let me put it all together now.
+</think>
+
+**STEP 1:**  
+* relieve  
+* awaited  
+* isolated  
+* frustrated  
+* tradition  
+
+**SUMMARY:**  
+The space shuttle Endeavour successfully docked with the International Space Station (ISS), delivering a new three-member crew to relieve the existing crew that had been stationed since August. Commander Frank Culbertson, a retired Navy fighter pilot, expressed relief and anticipation for Endeavour's arrival, especially after feeling isolated and frustrated following the September 11 terrorist attacks. Culbertson and his Russian crewmates, Vladimir Dezhurov and Mikhail Tyurin, prepared to return home as the new crew, led by Russian commander Yuri Onufrienko and Americans Carl Walz and Daniel Bursch, took over. In a symbolic gesture, Culbertson rang the ship's bell and announced, "Endeavour arriving," following the tradition of the high seas. The new crew will remain on the ISS until May.  
+**END OF SUMMARY.**

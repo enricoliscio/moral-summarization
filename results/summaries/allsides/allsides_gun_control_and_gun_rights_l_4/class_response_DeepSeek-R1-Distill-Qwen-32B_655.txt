@@ -1,0 +1,13 @@
+<think>
+Alright, so the user wants me to summarize a news article while preserving the moral framing. They provided the article and a list of morally framed words. I need to make sure the summary includes as many of those words as possible without exceeding 200 words.
+
+First, I'll read the article to understand the main points. It's about gun control in the US, comparing it to Australia's approach after mass shootings. The author suggests four steps: prohibiting certain purchasers, universal background checks, strengthening the system, and enforcing these measures. Also, they mention banning assault weapons.
+
+I need to identify the key morally charged words from the list. Words like "shooting," "dealings," "diminish," "mayhem," "profit," "prohibited," etc., are important. I should ensure these are included in the summary.
+
+I'll structure the summary by highlighting the comparison with Australia, the four steps, and the argument against assault weapons. I'll make sure to use the moral words to convey the urgency and necessity of the measures.
+
+Let me draft the summary, keeping it concise and within the word limit. I'll check each sentence to ensure it captures the moral tone and includes the necessary terms. Finally, I'll make sure the summary flows logically and covers all main points without being too verbose.
+</think>
+
+SUMMARY: The article addresses the moral imperative to address the problem of mass shootings in the U.S., highlighting the lack of politically feasible solutions despite the urgency. Drawing a contrast with Australia, which implemented strict gun laws after mass shootings in 1996 and has since seen no such incidents, the author argues for four critical steps to diminish the risk of mayhem. First, anyone on the "no-fly" list due to suspected terrorist activity should be prohibited from purchasing guns. Second, federal law must mandate universal background checks for all gun sales, as current loopholes allow prohibited purchasers to acquire weapons through private sales. Third, the background check system must be strengthened by ensuring all prohibited purchasers are included and giving the FBI adequate time to evaluate legitimacy. Fourth, authorities must actively add prohibited purchasers to the rolls, including individuals like the Orlando shooter, who is alleged to have been a violent abuser. The author also advocates for a return to the federal assault weapons ban, emphasizing that modern weapons like the AR-15 are too deadly for civilian use and should be banned. The moral framing underscores the need to prevent killers from obtaining weapons, protect public safety, and hold gun sellers accountable for profiting from lax laws. END OF SUMMARY.

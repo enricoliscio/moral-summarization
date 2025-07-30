@@ -1,0 +1,15 @@
+<think>
+Okay, so the user wants me to summarize a news article while preserving the moral framing. They provided the article and a list of morally framed words. I need to make sure the summary includes as many of those words as possible without going over 200 words.
+
+First, I'll read through the article to understand the main points. It's about gun control in the US, comparing it to Australia's approach after their mass shootings. The author suggests four steps: banning sales to no-fly list individuals, universal background checks, improving the check system, and adding prohibited purchasers. They also mention the need for an assault weapons ban.
+
+Next, I'll identify the key morally charged words from the list that are used in the article. Words like "shooting," "shootings," "ban," "tightening," "urging," "advantage," "mayhem," "leanings," "activity," "checks," "allowing," "strengthened," "included," "evaluate," "turned," "killing," "added," "abuser," "misconduct," "improved," "banned," "attack."
+
+I need to structure the summary to include these words while keeping it concise. I'll start by mentioning the Orlando shooting and Australia's response. Then, outline the four steps, making sure to use the moral terms. Finally, address the assault weapons ban and the opposition from gun sellers.
+
+I should ensure the summary flows logically, connecting each point and emphasizing the moral imperative for action. I'll avoid adding any new information beyond what's in the article and keep the language clear and direct.
+
+Let me draft the summary, checking word count and ensuring all key points and moral terms are included. I'll make sure it's under 200 words and ends with the specified tokens.
+</think>
+
+SUMMARY: The article discusses the moral imperative to address America's mass shooting problem, drawing parallels to Australia's successful response to similar tragedies through strict gun regulation. The author emphasizes the need for immediate action, highlighting four key steps: banning gun sales to individuals on the "no-fly" list, requiring universal background checks, strengthening the background check system, and ensuring all prohibited purchasers are added to the rolls. The article also advocates for a return to a federal assault weapons ban, arguing that such weapons are unnecessary for self-defense and disproportionately used in mass shootings. The moral framing underscores the urgency of preventing mayhem, ensuring public safety, and holding gun sellers accountable for their role in perpetuating lax laws. The author warns that inaction risks more violence, as seen in the Orlando shooting and other tragedies. END OF SUMMARY.

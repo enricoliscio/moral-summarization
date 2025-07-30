@@ -1,0 +1,16 @@
+Alright, so the user has given me a query where I need to act as a news summarizer assistant and a moral expert. My task is to summarize a provided news article while preserving the moral framing that the author used. The user has specified that I should use the morally framed words they listed and that the summary should be concise, no longer than 200 words.
+
+First, I need to understand the article thoroughly. It's about Governor Rick Perry of Texas running a campaign ad targeting hard-right conservatives. The ad contrasts Christianity with homosexuality, criticizes Obama's policies, and emphasizes ending a so-called "war on religion." It also touches on the military's "don't ask, don't tell" policy and the promotion of gay rights by the Obama administration.
+
+The user has highlighted specific morally charged words: contrast, war, admit, celebrate, pray, end, fight, attacks, strong, being, support, equality, liberty. My summary must include as many of these as possible without making it sound forced.
+
+I should structure the summary to include the main points: Perry's ad targeting conservatives, the contrast between Christianity and homosexuality, the criticism of Obama's policies, the mention of the military policy, and the reactions from Log Cabin Republicans. I need to ensure that each of these points uses the moral framing words appropriately.
+
+I also need to keep the summary under 200 words, so I'll have to be concise. I'll start by introducing Perry and his ad, then move on to the content of the ad, his criticisms, and the reactions. I'll make sure to include words like "contrast," "war," "admit," "celebrate," "pray," "end," "fight," "attacks," "strong," "support," "equality," and "liberty" where they fit naturally.
+
+I should also ensure that the summary flows well and maintains the moral tone present in the original article. It's important to capture the essence of both Perry's stance and the opposing viewpoints, like the Log Cabin Republicans' criticism, to provide a balanced summary within the moral framework.
+
+Finally, I'll review the summary to make sure it's within the word limit and that all the key points are covered using the specified moral words. This way, the summary will accurately reflect the article's content while preserving the intended moral framing.
+</think>
+
+SUMMARY: Gov. Rick Perry of Texas has released a campaign ad targeting hard-right conservatives, contrasting Christianity with homosexuality and vowing to end what he calls “Obama’s war on religion.” The ad criticizes the overturning of the “don’t ask, don’t tell” policy, stating that while gays can serve openly in the military, kids cannot celebrate Christmas or pray in school. Perry emphasizes his Christian identity, declaring, “I’m not ashamed to admit that I’m a Christian,” and pledges to fight against liberal attacks on religious heritage. The ad follows Perry’s criticism of the Obama administration’s promotion of gay rights globally. Log Cabin Republicans, a gay rights group, denounced the ad, arguing that Perry’s assumption that faith precludes support for equality is wrong. They criticized his focus on religion over individual liberty, stating that open service by gay and lesbian servicemembers aligns with the vision of the founding fathers. END OF SUMMARY.

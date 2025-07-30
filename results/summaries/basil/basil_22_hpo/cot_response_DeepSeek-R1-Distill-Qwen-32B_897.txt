@@ -1,0 +1,34 @@
+Okay, so I need to help the user by summarizing a news article while preserving the moral framing. The user provided a detailed article about Georgetown faculty criticizing Paul Ryan's budget using Catholic social teaching. 
+
+First, I should understand the structure of the query. They want two things: first, to identify all the single words that are morally framed, and second, to write a summary that includes as many of these words as possible.
+
+Looking at the article, I need to find words that carry moral weight. Words like "misuse," "hurts," "object," "nonsense," "devastating," "fail," "values," "compassion," "love," "gutting," "justice," "opportunity," "deprives," "moral," and "subsidium" stand out. These terms are used to convey the ethical concerns the faculty have about Ryan's budget.
+
+Next, I need to write a concise summary. The summary should include these moral words to maintain the author's framing. I should mention the faculty's objections, the impact on the poor, the misuse of Catholic teachings, and the critique of Ryan's use of "subsidiarity." I'll also note the suggested reading material and the departments involved to add context.
+
+I have to make sure the summary is under 200 words and flows naturally, highlighting the main points without getting too detailed. It's important to convey that the faculty are not opposing Ryan speaking but his misuse of teachings to justify harmful policies.
+
+I should structure the summary by introducing the faculty's action, their main objections, the specific criticisms of Ryan's budget, the moral principles involved, and the broader implications of his policies. Ending with the departments involved adds credibility to their stance.
+
+Finally, I'll ensure that all the identified moral words are included where appropriate, preserving the original article's ethical critique.
+</think>
+
+**STEP 1:**  
+* misuse  
+* hurts  
+* object  
+* nonsense  
+* devastating  
+* fail  
+* values  
+* compassion  
+* love  
+* gutting  
+* justice  
+* opportunity  
+* deprives  
+* moral  
+* subsidium  
+
+**SUMMARY:**  
+Nearly 90 Georgetown University faculty and administrators have criticized Representative Paul Ryan for his misuse of Catholic social teaching to defend his budget, which they argue hurts the poor. In a letter to Ryan, the scholars objected to his claim that his budget aligns with Catholic social teaching, calling it "nonsense." They emphasized the devastating impact of his budget on programs for the poor, such as food assistance and Pell Grants, which would make it difficult for low-income students to pursue higher education. The scholars also criticized Ryan's use of the Catholic concept of "subsidiarity," arguing that it demands higher levels of government to provide support when local communities cannot address issues like poverty and unemployment. They urged Ryan to read "The Compendium of the Social Doctrine of the Church" and emphasized that his budget reflects values more aligned with Ayn Rand than the gospel of compassion and love. The letter was signed by Georgetown Jesuit priests and scholars from various departments. END OF SUMMARY.

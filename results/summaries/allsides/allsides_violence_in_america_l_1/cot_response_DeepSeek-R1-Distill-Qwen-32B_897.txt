@@ -1,0 +1,30 @@
+Okay, so the user has given me a query where I need to act as a news summarizer and a moral expert. They provided a news article and specific instructions on how to process it. Let me break down what they're asking for.
+
+First, they want me to identify all the single words that are morally framed in the article. They mention this as STEP 1, and each word should be listed with a * before it. I need to go through the article and pick out words that carry moral connotations. Words like "killed," "violent," "protests," "justice," etc., might be candidates here.
+
+Next, they want a summary of the article that preserves the moral framing. The summary should be concise, under 200 words, and start with "SUMMARY:" and end with "END OF SUMMARY." I have to ensure that the morally framed words are included to maintain the original tone and context.
+
+I also notice that the user provided an example response. They listed the morally framed words and then wrote a summary that included those words. I should follow that structure closely to meet their expectations.
+
+I need to make sure that the summary captures the key events: the shooting, the involvement of police and National Guard, the context of protests over Breonna Taylor's death, and the resulting tensions. Including terms like "killed," "violent confrontation," "protests," "justice," "unarmed," and "tensions" will help maintain the moral framing.
+
+Additionally, I should be careful to not add any new information beyond what's in the article and keep the summary accurate and within the word limit. I'll need to read through the article again to ensure I haven't missed any important details or morally charged words.
+
+Finally, I'll structure my response by first listing the morally framed words and then crafting a concise summary that includes them, making sure it flows naturally and stays within the required length.
+</think>
+
+**STEP 1:**  
+* killed  
+* violent  
+* confrontation  
+* gathered  
+* dispersed  
+* destructive  
+* protests  
+* justice  
+* unarmed  
+* tensions  
+
+**SUMMARY:**  
+A man was killed when police and the National Guard opened fire in Louisville during a violent confrontation with a crowd. The incident occurred after nights of destructive protests over the fatal police shooting of Breonna Taylor and the death of George Floyd. Authorities dispatched the Kentucky National Guard and Louisville police to disperse a crowd at Dino’s Food Mart, but someone in the crowd fired at officers, leading to a return of fire that killed one man. Police Chief Steve Conrad emphasized the difficulty of maintaining safety and trust amid widespread distrust in law enforcement. The shooting is likely to further inflame tensions in Louisville, where protests for justice in Taylor’s death continue. Taylor, an unarmed African American EMT, was killed when officers returned fire after her boyfriend mistook them for intruders.  
+**END OF SUMMARY.**

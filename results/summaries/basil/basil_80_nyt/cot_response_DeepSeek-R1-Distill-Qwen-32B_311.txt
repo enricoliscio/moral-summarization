@@ -1,0 +1,34 @@
+Okay, so the user has provided a query where they want me to act as a news summarizer and moral expert. They've given a specific news article and instructions on how to process it. My task is to first identify all the morally framed single words in the article and then write a concise summary preserving those moral terms.
+
+First, I need to understand what morally framed words are. These are words that carry a moral judgment or connotation, such as "accuses," "disregarding," "deep state," etc. I'll go through the article and pick out each word that fits this category.
+
+Looking at the article, I see words like "accuses," "disregarding," "deep state," "criticized," "hacked," "shadow government," "secretly plot," "undercut," "sore spot," "hurting," "momentum," "helped," "jailed," and "pardon." Each of these carries a moral or evaluative tone.
+
+Next, I need to write a summary that includes as many of these words as possible without exceeding 200 words. The summary should capture the main points: Trump's accusations, the details about Huma Abedin, the mention of the deep state, the email release, and the sailor's case. I have to ensure the summary flows naturally while incorporating the moral terms identified.
+
+I also need to make sure the summary starts after the "SUMMARY:" token and ends with "END OF SUMMARY." It's important to maintain the moral framing as per the original article to accurately represent the author's perspective.
+
+I should structure the summary by first mentioning Trump's accusations, then the details about Abedin, the deep state reference, the email release, and finally the sailor's case. Each point should be concise but informative, ensuring all key moral terms are included.
+
+I'll start drafting the summary, making sure each sentence includes the necessary moral words and that the overall summary is coherent and within the word limit. After writing, I'll review it to ensure all identified moral terms are present and that the summary accurately reflects the article's content and tone.
+</think>
+
+**STEP 1:**  
+* Accuses  
+* Disregarding  
+* Deep state  
+* Criticized  
+* Hacked  
+* Shadow government  
+* Secretly plot  
+* Undercut  
+* Sore spot  
+* Hurting  
+* Momentum  
+* Helped  
+* Jailed  
+* Pardon  
+
+**SUMMARY:**  
+President Trump accused former Clinton aide Huma Abedin of "disregarding basic security protocols" after it was revealed she forwarded government passwords to her private Yahoo email in 2009. Trump also criticized his own Justice Department, calling it a "deep state," which he implied was working against him. The term "deep state" refers to a shadow government plotting to influence policy. Trump's accusations came after Yahoo was hacked in 2013, exposing all three billion accounts. The State Department recently released 3,000 of Abedin’s work-related emails, found on her estranged husband’s laptop, as part of a public records request. These emails remain a sore spot for Hillary Clinton, who claimed former FBI Director James Comey’s disclosure of similar emails hurt her campaign momentum in 2016. Trump also referenced a Navy sailor jailed for taking submarine photos, noting the sailor had hoped for a pardon but none was granted.  
+**END OF SUMMARY.**

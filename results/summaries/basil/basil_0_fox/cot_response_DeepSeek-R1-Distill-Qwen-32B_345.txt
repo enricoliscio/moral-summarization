@@ -1,0 +1,32 @@
+Alright, so I'm trying to figure out how to approach this query. The user has given me a news article about Glenn Beck speaking at CPAC and wants me to act as a news summarizer and moral expert. They specified two main steps: first, identifying all the morally framed single words in the article, and second, writing a summary that preserves the moral framing. 
+
+First, I need to understand what morally framed words are. These are words that carry a moral judgment or implication, often indicating approval or disapproval. Words like "progressivism," "problems," "critic," "circus," "free," "troubled," "unfair," "populist," "principles," "relate," "inspired," "happen." These words carry connotations beyond their literal meaning, reflecting Beck's perspective on the issues.
+
+Next, I need to summarize the article while keeping these moral terms. The summary should be concise, under 200 words, and capture the essence of Beck's speech and its impact. I should mention his criticism of progressivism, his rejection of the Republican Party expanding to include progressives, his personal anecdotes, and the context of his rising popularity with the Tea Party movement. Also, including the 9/12 Project and the attendee's perspective adds depth.
+
+I should ensure that the summary flows well and includes the key points without getting bogged down in details. It's important to highlight Beck's role as a conservative leader and the attendee's positive view of him as relatable. 
+
+I need to make sure that all the morally framed words are included where appropriate, but not force them if they don't fit naturally. The summary should reflect Beck's arguments and the event's significance in the conservative movement. 
+
+I also need to structure the response with STEP 1 listing the words and then the SUMMARY section, ending with the specified tokens. Keeping the summary within the word limit is crucial, so I'll have to be concise but thorough.
+
+Finally, I'll review the summary to ensure it accurately reflects the article's content and maintains the moral framing as per the user's instructions. Making sure that each part of the query is addressed properly, without missing any steps or requirements.
+</think>
+
+**STEP 1:**  
+* Progressivism  
+* Problems  
+* Critic  
+* Circus  
+* Free  
+* Troubled  
+* Fair  
+* Populist  
+* Principles  
+* Relate  
+* Inspired  
+* Happen  
+
+**SUMMARY:**  
+Glenn Beck, a Fox News host, delivered a fiery keynote speech at CPAC, blaming "progressivism" for America's problems. He criticized the idea of the Republican Party expanding to include progressives, calling it a "circus." Beck emphasized that America is an idea that sets people free and rejected simplistic explanations for the nation's challenges, even though some attendees pointed to President Obama. He shared personal struggles, stating, "People need to understand that life is not fair. The bad guy sometimes wins." Beck's speech, which concluded three days of conservative discussions, resonated with attendees, many of whom viewed him as a leader in the new conservative movement. His growing popularity coincided with the rise of the Tea Party Movement and populist anger toward Washington. Beck also highlighted the 9/12 Project, which promotes core American values, inspiring a major Washington march. Attendee Cynthia Burgiss praised Beck as a "relatable... everyday guy," crediting him for sparking the movement.  
+**END OF SUMMARY.**

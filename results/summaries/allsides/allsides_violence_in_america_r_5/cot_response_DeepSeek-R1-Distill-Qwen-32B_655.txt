@@ -1,0 +1,31 @@
+<think>
+Okay, so I need to help the user by summarizing a news article while preserving the moral framing. The user has provided a detailed news article about the murder of four Marines in Tennessee and the subsequent political reactions. 
+
+First, I need to identify the morally framed words. I'll go through the article and pick out words that carry strong moral connotations. Words like "heartbreaking," "evil," "terrorism," "radical," "war," "victims," "condemn," "tragedy," "vulnerable," "vigilant," and "extremist" stand out as they carry moral weight.
+
+Next, I need to write a concise summary that includes these words. The summary should be under 200 words and capture the main points: the attack, the political responses, the debate over terrorism, and the broader context of terrorism in the U.S. I should make sure to include the morally framed words to maintain the original tone and framing.
+
+I'll start by outlining the key events: the attack, Obama's response, Republican reactions, the debate over gun policies, and the statistics on terrorism charges. Then, I'll weave in the moral terms to reflect the author's framing, ensuring the summary remains balanced but captures the essence of the original article.
+</think>
+
+**STEP 1:**
+
+* heartbreaking  
+* terrorism  
+* evil  
+* radical  
+* war  
+* victims  
+* condemn  
+* tragedy  
+* vulnerable  
+* vigilant  
+* extremist  
+
+---
+
+**SUMMARY:**  
+
+President Obama described the murder of four Marines in Tennessee as "heartbreaking" and urged Americans to avoid jumping to conclusions. Republicans, including Louisiana Gov. Bobby Jindal, blamed Obama for what they called domestic terrorism, framing the attack as part of the 2016 presidential campaign. Jindal accused Obama of failing to confront the "evil" of radical Islamic terrorism, claiming it is at war with the U.S. The shooting reignited debates over gun policies at military facilities and the threat of terrorism, with the FBI identifying the gunman as Mohammad Youssuf Abdulazeez. Authorities labeled the attack as "domestic terrorism," though they cautioned against premature speculation on motives. The incident also highlighted the growing threat of radicalized individuals in the U.S., with 62 people charged in 2015 for planning attacks or supporting ISIS. Democrats argued that white supremacists and anti-government extremists pose a greater danger than radicalized Muslims, questioning the focus of federal efforts. The attack underscored the ongoing tension between acknowledging terrorism and addressing its root causes.  
+
+**END OF SUMMARY.**

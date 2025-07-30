@@ -1,0 +1,16 @@
+Alright, so the user has given me a query where they want a news summary that preserves the moral framing from the original article. The article is about protests in Minnesota turning violent, leading to arrests and injuries. 
+
+First, I need to understand what the user is asking for. They want a summary that's concise, up to 200 words, and importantly, it should maintain the moral perspective presented in the original text. That means I should highlight the key moral issues, like the violence against police and the context of police killings of black men.
+
+I'll start by identifying the main points: over 100 arrests, 21 officers injured, protests turning violent, the context of Philando Castile and Alton Sterling's deaths, the reaction from their families, and the police's response. I should also mention the specific violent acts, like throwing rocks and Molotov cocktails, and the police using smoke bombs.
+
+I need to ensure the summary reflects the moral framing, so I'll emphasize the violence towards police and the contrast between peaceful protests and the violent actions that escalated the situation. It's important to note the police's disgust and the unprecedented level of violence they faced, as well as the families' denouncement of the violence against police in Dallas.
+
+I should structure the summary to flow logically, starting with the arrests and injuries, then the context of the protests, the violent incidents, police response, and the aftermath. Keeping it under 200 words will require being concise but comprehensive.
+
+I also need to make sure that the summary doesn't lose the essence of the original article's moral stance, which seems to highlight the violence and its impact on public servants, while also acknowledging the underlying reasons for the protests.
+
+Finally, I'll make sure to end with the required tokens, "SUMMARY:" and "END OF SUMMARY." and keep the summary within the word limit.
+</think>
+
+SUMMARY: Over 100 people were arrested and 21 police officers injured in Minnesota during violent protests over recent police killings of black men. The protests, which began peacefully, escalated into rioting as demonstrators threw rocks, rebar, and Molotov cocktails at police. St. Paul Mayor Chris Coleman described the incident as "extreme," with police using smoke bombs to disperse the crowd. The violence followed the deaths of Philando Castile and Alton Sterling, two black men killed by police, and came days after five Dallas officers were murdered. Police expressed disgust at the violence, with one officer describing it as the worst he had seen in 28 years. While some protesters remained peaceful, others turned violent, leading to arrests and clashes with law enforcement. The interstate was closed but reopened early Sunday. Families of Castile and Sterling condemned the violence against police in Dallas. END OF SUMMARY.

@@ -1,0 +1,16 @@
+Alright, I need to help the user by summarizing the given news article while preserving the moral framing. The user has specified that I should focus on the morally charged words used by the author. Let me start by reading the article carefully.
+
+The article is about President Trump's response to allegations against Roy Moore. The key points are Trump's stance on not letting mere allegations destroy someone's life, but if true, Moore should step aside. Pence's spokesperson also found the allegations disturbing. Moore's campaign denied the claims, calling them fake news. The Washington Post's investigation involved many sources. Republican lawmakers called for Moore to drop out if true. Trump's past behavior regarding similar allegations is mentioned, including his dismissal of claims and defending locker room talk. Moore won the primary against Strange, who Trump initially supported but then endorsed Moore.
+
+Now, the user wants a summary that includes the morally framed words: molested, true, fake, misconduct, threatened, assault, talk. I need to make sure these words are included as much as possible without losing the essence.
+
+I should structure the summary to first mention Trump's response, then Pence's reaction, Moore's denial, the investigation, lawmakers' calls, Trump's past behavior, and the primary outcome. I'll make sure to use the specified words where appropriate.
+
+Let me draft the summary, keeping it under 200 words and ensuring it's concise. I'll check each sentence to include the moral terms without making it too wordy.
+
+After drafting, I'll review to ensure all key points are covered and the moral framing is preserved. I should avoid adding any new information beyond what's in the article. Once satisfied, I'll present the summary as per the user's instructions.
+</think>
+
+SUMMARY:  
+President Donald Trump responded to allegations that Alabama Senate nominee Roy Moore sexually molested a 14-year-old girl in 1979, stating that mere allegations should not destroy a person's life but if true, Moore should step aside. Vice President Mike Pence's spokesperson called the allegations disturbing and disqualifying if true. Moore’s campaign denied the claims, labeling them "fake news," while The Washington Post's investigation involved over 30 sources. Republican lawmakers urged Moore to drop out if the allegations are true. Trump has previously dismissed sexual misconduct allegations against himself, threatened to sue accusers, and defended a 2005 tape of him bragging about assault as "locker room talk." Moore won the Alabama primary against GOP establishment candidate Luther Strange, despite Trump initially backing Strange before endorsing Moore.  
+END OF SUMMARY.

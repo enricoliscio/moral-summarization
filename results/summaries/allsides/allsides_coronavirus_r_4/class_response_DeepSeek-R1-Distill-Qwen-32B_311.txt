@@ -1,0 +1,15 @@
+<think>
+Okay, so I need to help this user who is a news summarizer assistant and a moral expert. They provided a news article about a protest in Kentucky and want a summary that preserves the moral framing. The user also listed specific morally framed words to include.
+
+First, I'll read the article carefully to understand the events. Protesters hung an effigy of Governor Beshear, which was part of a rally against coronavirus restrictions. The protest started with celebrating the Second Amendment but turned into抗议 against the shutdown. They marched to the governor's house, shouted, and later hung the effigy with a Latin phrase. The action caused backlash from both parties, including McConnell and others, who condemned it as unacceptable and hateful.
+
+Now, I need to identify the morally framed words from the list: fight, shutdown, marched, shouting, hanging, effigy, protest, unacceptable, hate, disgusting, gave, protect, act, safe, freedom, beyond. I should incorporate as many as possible without making the summary too long.
+
+I'll start by summarizing the main event: protesters hung an effigy. Then mention the rally's purpose, using "fight" and "shutdown." Include that they marched and shouted. Highlight the effigy with the Latin phrase. Then, describe the backlash, using words like unacceptable, hate, disgusting, and beyond. Conclude by tying the moral implications to freedom and safety.
+
+I need to keep it under 200 words, so I'll be concise. Make sure to include the key points and the moral language. Also, structure it to flow naturally, ensuring each sentence connects logically.
+
+Let me draft the summary step by step, checking each point and including the required words. Make sure the summary starts with "SUMMARY:" and ends with "END OF SUMMARY." without any markdown.
+</think>
+
+SUMMARY: Protesters in Kentucky hung an effigy of Gov. Andy Beshear during a rally to "fight" against coronavirus "shutdown" measures, marking a morally charged event. The protest, organized by Take Back Kentucky, began with celebrating the Second Amendment but escalated into a call against pandemic restrictions. Protesters "marched" to Beshear's home, "shouting" for him to come out, and later returned to the state capitol to "hang" the effigy, which bore the governor's face and the phrase "sic temper tyrannies." The act was widely condemned as "unacceptable" and "hate-filled," with Republican Sen. Mitch McConnell and others denouncing it as "disgusting." The rally's timing on Memorial Day weekend further highlighted the moral conflict, as critics emphasized the importance of "protecting" public health and "safe" measures during the pandemic. The effigy incident was deemed "beyond reprehensible," with many emphasizing the need for unity and "freedom" through shared responsibility. END OF SUMMARY.

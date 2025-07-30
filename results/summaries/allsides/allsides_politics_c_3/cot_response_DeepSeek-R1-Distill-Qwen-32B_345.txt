@@ -1,0 +1,26 @@
+Okay, I need to help the user by summarizing the given news article while preserving the moral framing. The user has specified two main steps: first, identifying all the morally framed single words, and second, writing a concise summary that includes as many of those words as possible.
+
+Starting with the first step, I'll read through the article to spot words that carry moral connotations. Words like "condemning," "racism," "apologize," "hate," "xenophobic," "racist," "degrade," "unbecoming," "disgusting," and "wrong" stand out as they express moral judgment or criticism. I'll list each of these with an asterisk.
+
+Next, for the summary, I need to encapsulate the main points without exceeding 200 words. I'll focus on the key events: Trump's tweets, the reactions from Democrats, Pelosi's statement, the Squad's response, and Republican criticism. I'll make sure to include the morally framed words to maintain the original tone.
+
+I should ensure the summary is clear and concise, highlighting Trump's actions, the condemnations from both Democrats and some Republicans, and the broader implications of his comments on immigration and national identity. I'll structure it to flow logically, starting with Trump's tweets, moving to the reactions, and concluding with the political implications.
+
+I need to be careful not to add any personal opinions, just present the facts with the moral language as given. Also, I should keep each sentence tight to stay within the word limit. Let me draft this step by step, making sure each part is covered succinctly.
+</think>
+
+**STEP 1:**  
+* Condemning  
+* Racism  
+* Apologize  
+* Hate  
+* Xenophobic  
+* Racist  
+* Degrade  
+* Unbecoming  
+* Disgusting  
+* Wrong  
+
+**SUMMARY:**  
+President Trump faced widespread condemnation after tweeting that four Democratic congresswomen, known as "The Squad," should "go back" to their countries of origin. Trump denied his comments were racist, telling reporters, "if you hate our country, if you're not happy here, you can leave." House Speaker Nancy Pelosi called for a resolution condemning Trump's "xenophobic" remarks, stating his "Make America Great Again" plan "has always been about making America white again." The congresswomen, three of whom were born in the U.S., responded by accusing Trump of racism. British Prime Minister Theresa May also criticized Trump's "completely unacceptable" language. Some Republicans, including Rep. Will Hurd and Sen. Pat Toomey, condemned Trump's tweets as racist and xenophobic, while others remained silent. Trump's comments sparked international criticism and united Democrats in opposition, highlighting the ongoing debate over immigration, national identity, and racial unity.  
+**END OF SUMMARY.**

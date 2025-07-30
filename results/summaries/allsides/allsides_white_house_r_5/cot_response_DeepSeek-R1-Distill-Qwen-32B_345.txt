@@ -1,0 +1,57 @@
+Okay, so I'm trying to figure out how to approach this user's query. They want me to act as a news summarizer and moral expert. The task is to summarize a given news article while preserving the moral framing. 
+
+First, I need to understand the article. It's about the Obama administration, particularly focusing on the Benghazi incident. The author uses strong language to criticize the administration, especially the Clintons and Obama, for their handling of the situation. The moral framing is evident through words like "betrayal," "contempt," "dishonesty," etc.
+
+The user has broken the task into two steps. Step 1 is to identify all single words that are morally framed. I need to go through the article and pick out words that carry moral judgment. These are words that express approval or disapproval, like "spoiled," "greedy," "contempt," "betrayal," etc. I'll list each of these on a new line with an asterisk.
+
+Step 2 is to write a concise summary of the article, preserving as many of these morally framed words as possible. The summary should be under 200 words. I need to make sure that the summary captures the main points and the moral tone of the original text. I should include the key events, like the Benghazi attack, the administration's lies, and the lack of rescue efforts. Also, I need to mention the Clintons' contempt for the military and Obama's upbringing, which the author uses to critique their decisions.
+
+I should structure the summary to flow logically, starting with the main event (Benghazi), then the administration's response, their lies, and the moral implications. I'll make sure to include the morally charged words to maintain the author's framing.
+
+I also need to remember the formatting instructions: use "STEP 1:" and list each word with an asterisk. Then, after a "SUMMARY:" token, write the summary ending with "END OF SUMMARY."
+
+I should double-check that I'm not adding any new information beyond what's in the article and that I'm keeping the summary within the word limit. Also, ensure that the morally framed words are included without altering their context.
+
+Finally, I'll review the summary to make sure it's clear, concise, and maintains the critical tone of the original article. I should avoid any markdown and keep the language straightforward as per the user's request.
+</think>
+
+**STEP 1:**
+
+* Spoiled  
+* Greedy  
+* Self-centered  
+* Contempt  
+* Betrayal  
+* Trust  
+* Lies  
+* Evasions  
+* Prevarication  
+* Hoax  
+* Disinformation  
+* Fakery  
+* Flimflam  
+* Honeyfuggle  
+* Squalid  
+* Muck  
+* Salve  
+* Conscience  
+* Rescue  
+* Begging  
+* Ferocious  
+* Firefight  
+* Terror  
+* Misleading  
+* Indifference  
+* Nonchalance  
+* Hesitation  
+* Timidity  
+* Cold  
+* Sin  
+
+---
+
+**SUMMARY:**  
+
+The article criticizes the Obama administration, particularly the Clintons and Obama, for their handling of the Benghazi attack. It accuses them of lying, evading responsibility, and showing contempt for the military and national institutions. The author claims that the administration's dishonesty and indifference to the lives of those in Benghazi reflect a broader moral failure rooted in the 1960s counterculture. The article highlights the administration's refusal to admit fault, their manipulation of the truth, and their failure to act decisively during the attack. Hillary Clinton's dismissive attitude and Obama's upbringing abroad are portrayed as emblematic of a generation that disrespects authority and lacks accountability. The summary underscores the moral failings of the administration, emphasizing their betrayal of trust and their inability to understand the value of sacrifice.  
+
+**END OF SUMMARY.**

@@ -1,0 +1,15 @@
+Alright, so the user has given me a query where I need to act as a news summarizer assistant and a moral expert. The task is to summarize a provided news article while preserving the moral framing the author used. The user also provided a list of morally framed words that should be included in the summary.
+
+First, I need to understand the article. It's about Washington Governor Jay Inslee banning state-funded travel to Indiana due to a controversial law allowing businesses to deny service to LGBTQ individuals for religious reasons. The article mentions reactions from other states, businesses, and the Indiana governor's defense.
+
+Next, I should identify the key points: Inslee's decision, the law's content, the backlash, business reactions, and Pence's defense. I need to ensure the summary includes as many of the listed morally charged words as possible without making it too long—under 200 words.
+
+I should structure the summary to highlight the moral stance taken by Inslee and others against the law. Including words like "ban," "deny," "discrimination," and "equality" will convey the moral framing effectively.
+
+I also need to make sure the summary flows logically, starting with Inslee's action, then the context of the law, the opposition from other states and businesses, and Pence's defense. It's important to mention the impact on Indiana's reputation and the efforts to clarify the law.
+
+Finally, I'll ensure the summary is concise, hits all the main points, and preserves the moral perspective by using the specified words. I'll avoid any markdown and keep the language clear and direct.
+</think>
+
+SUMMARY:  
+Washington Gov. Jay Inslee announced a ban on state-funded travel to Indiana, opposing a new law allowing businesses to deny service to LGBTQ individuals for religious reasons. Inslee called the law "disturbing" and emphasized Washington's commitment to equality, citing a florist fined for discriminating against a gay couple. Connecticut, San Francisco, and Seattle have also imposed bans on travel to Indiana, joining business leaders like Tim Cook and Marc Benioff in condemning the law. Indiana Gov. Mike Pence defended the measure, claiming it was "grossly misconstrued" as a "license to discriminate," but acknowledged concerns and vowed to clarify the law to prevent discrimination. Pence stated he "abhor[s] discrimination" and supports the Golden Rule. However, critics argue the law provides justification for discrimination, harming Indiana's reputation and deterring businesses. Inslee invited companies seeking equality to relocate to Washington, highlighting the state's openness and commitment to opportunity. END OF SUMMARY.

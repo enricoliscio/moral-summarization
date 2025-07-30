@@ -1,0 +1,32 @@
+Okay, so I'm trying to figure out how to approach this query. The user wants me to act as a news summarizer assistant and a moral expert. They provided a news article and specific instructions on how to process it. 
+
+First, I need to understand the task. They want me to identify all the single words that are morally framed in the article. Then, I have to write a summary that preserves as many of these morally framed words as possible, keeping it under 200 words.
+
+Looking at the article, it's about Rev. Raphael Warnock accusing Georgia's Secretary of State Brian Kemp of voter suppression through a fraud probe against the New Georgia Project. There's a lot of charged language here. 
+
+For step one, I need to go through the article and pick out words that carry moral connotations. Words like "fraud," "suppression," "wrong," "felony," "witch hunt," "abuse," "racist," "smear campaign," and "chilling effect" stand out. These words are used to convey blame, wrongdoing, or moral judgment.
+
+Next, for the summary, I need to condense the article, making sure to include these morally framed words. The summary should capture the conflict between Warnock and Kemp, the accusations of fraud, the political implications, and the claims of voter suppression versus the investigation into illegal activities.
+
+I have to be careful to present both sides: Warnock's allegations and Kemp's defense. Also, mention the impact on the voter registration efforts and the political stakes involved. Keeping it concise but comprehensive is key, ensuring that the moral framing is preserved without bias.
+
+I should structure the summary to first introduce the main parties and their accusations, then detail the specific claims and responses, and finally touch on the broader implications for the election and voter rights. This way, the summary remains balanced while highlighting the moral issues at play.
+
+I need to make sure the summary doesn't exceed 200 words and flows naturally, including all the key points without getting bogged down in too much detail. It's important to maintain clarity and stick to the facts while emphasizing the moral language used by both sides.
+
+Alright, putting it all together, I'll start by identifying the morally framed words, then craft a concise summary that includes them, ensuring the moral framing is preserved as per the user's instructions.
+</think>
+
+**STEP 1:**  
+* Fraud  
+* Suppression  
+* Wrong  
+* Felony  
+* Witch hunt  
+* Abuse  
+* Racist  
+* Smear campaign  
+* Chilling effect  
+
+**SUMMARY:**  
+Rev. Raphael Warnock, pastor of Ebenezer Baptist Church, accused Georgia Secretary of State Brian Kemp of voter suppression, linking it to the state's history of racial discrimination. Kemp's office is investigating the New Georgia Project, a voter registration drive associated with Warnock, for alleged fraud. Kemp claims 28 cases of fraud, including forged signatures and false information, and has issued a subpoena for the group's records. The New Georgia Project denies the allegations, calling the investigation a "witch hunt" and "abuse of power." Warnock and the group argue that Kemp's actions chill voter registration efforts and are part of a broader pattern of voter suppression. Kemp defends his investigation as necessary to ensure election integrity, dismissing accusations of racism. The dispute is politically charged, as the 2014 Senate race in Georgia is closely contested. END OF SUMMARY.

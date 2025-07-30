@@ -1,0 +1,21 @@
+<think>
+Okay, so the user has given me a query where I need to act as a news summarizer and a moral expert. The task is to summarize a provided news article while preserving the moral framing the author used. The article is about Adam Schiff and the House Intelligence Committee's hearing regarding Russia contacts with the Trump campaign. 
+
+First, I need to understand the key points of the article. Schiff is defending his position against calls for his resignation from Republicans. They criticize his leadership and the committee's investigation. The article mentions specific morally charged words like "damaged," "violence," "investigation," "collusion," etc. I need to make sure these words are included in the summary.
+
+I should start by identifying the main events: Schiff's defense, the criticism from Conaway and Turner, the mention of Mueller's findings, and the partisanship in the committee. I need to condense these into a concise summary without losing the moral tone.
+
+I also need to structure the summary to include the key morally framed words. For example, when mentioning the contacts with Russia, I can use "not OK" and "damaged." When talking about the Republicans' accusations, I can include "demonstrably false," "abused," "misrepresenting," etc.
+
+I should ensure the summary is under 200 words. I'll need to be concise but comprehensive, covering Schiff's stance, the Republican criticisms, the context of Mueller's report, and the partisanship in the committee.
+
+Let me draft the summary step by step. Start with Schiff's defense, mention the contacts, the criticism from Conaway, the Mueller report, Trump's call for resignation, the resumption of the investigation, Republican interruptions, Turner's McCarthy comparison, and the Democratic support.
+
+I should make sure to include all the morally framed words provided, like "damaged," "investigation," "collusion," "lying," "leaking," "compromised," "divisions," "abused," "misrepresenting," etc.
+
+After drafting, I'll check the word count to ensure it's within the limit. Also, I'll verify that the moral framing is preserved by using the specified words appropriately.
+
+Finally, I'll present the summary after the "SUMMARY:" token and end with "END OF SUMMARY." as instructed.
+</think>
+
+SUMMARY: House Intelligence Committee Chairman Adam Schiff defended his leadership against calls for his resignation, emphasizing that contacts between the Trump campaign and Russia were "not OK." Republicans criticized Schiff for promoting a "demonstrably false" narrative, claiming it damaged the panel's integrity. Attorney General William Barr's notification that Mueller's investigation found no evidence of collusion between the Trump campaign and Russia was seized upon by Trump and GOP allies to attack Schiff and Democrats. Schiff, however, plans to continue the investigation into Trump's potential "compromise" by foreign powers. The hearing was marked by partisanship, with Republicans like Rep. Mike Conaway and Rep. Michael Turner accusing Schiff of abusing power and misrepresenting information, while Democrats defended him against what they called a "cheap-shot" ambush. END OF SUMMARY.

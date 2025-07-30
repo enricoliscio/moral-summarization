@@ -1,0 +1,26 @@
+<think>
+Okay, I need to help the user by summarizing the given news article while preserving the moral framing. The user has specified two main steps: first, identifying all the single words that are morally framed, and then writing a concise summary that includes as many of these words as possible.
+
+Starting with Step 1, I should go through the article and pick out words that carry a moral connotation. Words like "tolerating," "condemning," "racism," "bigotry," "saddened," "false," "appalling," "unfounded," "extremist," and "negative" come to mind. These words are used to convey judgment or moral evaluation in the context of the article.
+
+Now, for the summary, I need to condense the article into 200 words or less, making sure to include these morally framed words. The key points are the NAACP's resolution against the Tea Party's tolerance of bigotry, the Tea Party's denial of racism, the accusations and counter-accusations, and the broader context of the debate. I should structure the summary to highlight the moral conflict between the two groups, using the identified words to maintain the original framing.
+
+I'll start by stating the NAACP's action, then mention the Tea Party's response, include the accusations and the counterpoints, and conclude with the implications of the resolution. This should capture the essence of the article while preserving the moral language.
+</think>
+
+**STEP 1:**  
+* tolerating  
+* condemning  
+* racism  
+* bigotry  
+* saddened  
+* false  
+* appalling  
+* unfounded  
+* extremist  
+* negative  
+
+**SUMMARY:**  
+The NAACP accused Tea Party activists of tolerating bigotry and adopted a resolution condemning racism within the movement during its annual convention in Kansas City. Tea Party organizers denied the claims, calling them false and appalling, and demanded the NAACP withdraw the resolution. NAACP leaders argued the resolution aimed to hold the Tea Party accountable for welcoming white supremacists, emphasizing that the issue was not with the Tea Party's existence but with its acceptance of racist elements. Tea Party supporters, including Sarah Palin, rejected the accusations, asserting that the movement is diverse and patriotic. The debate over the resolution highlighted tensions between the NAACP and the Tea Party, with both sides framing the issue through moral and political lenses. The resolution, which has yet to be finalized, underscores the ongoing conflict over whether the Tea Party tolerates bigotry or promotes inclusivity.  
+
+**END OF SUMMARY.**

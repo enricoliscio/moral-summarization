@@ -1,0 +1,14 @@
+Okay, I need to help the user by summarizing the given news article while preserving the moral framing. The user specified that I should focus on the words "reducing" and "opposed" as they carry moral connotations. 
+
+First, I'll read through the article to understand the main points. Jordan is signing the Kyoto Protocol, which is a UN agreement to reduce greenhouse gas emissions. They mentioned that developed countries are the main polluters, and Jordan is showing commitment by signing. The article also talks about funding and other countries' reactions, like the US opposing it and Canada's reluctance.
+
+I should make sure to include the moral terms. "Reducing" is used in the context of emissions, so I'll keep that. "Opposed" refers to the US administration's stance, so I need to highlight that. 
+
+I'll structure the summary to first state Jordan's decision, then mention the commitment and funding aspect. Next, I'll include the EU's agreement and the US opposition, using "opposed" as specified. Finally, I'll note Canada's reluctance, tying it back to economic concerns.
+
+I need to keep it concise, under 200 words. I'll ensure the summary flows logically, starting with Jordan's action, then the reasons, followed by other countries' responses. I'll avoid adding any new information not in the article and stick strictly to summarizing while preserving the moral framing.
+</think>
+
+SUMMARY:  
+Jordan has decided to sign the Kyoto Protocol, a UN agreement aimed at reducing global greenhouse gas emissions, as part of its commitment to international environmental conventions. The signing, to be conducted by Prince Zeid Ben Raad, is expected soon, though the exact date remains undecided. The protocol, established in 1997, legally obliges developed countries to reduce emissions by 8% below 1990 levels by 2012. Jordan's move underscores its dedication to combating climate change and hopes to attract funding for global efforts to reduce emissions, which contribute to climate change. The General Corporation for Environment Protection (GCEP) oversees Jordan's environmental initiatives. Meanwhile, the 15 EU member states have agreed to formally ratify the protocol by June 1, 2002. In contrast, the US administration opposed the protocol in 2001, citing concerns over economic interests, and instead proposed its own strategy to encourage industries to reduce emissions. Other developed nations, like Canada, have also shown reluctance, citing potential economic losses.  
+END OF SUMMARY.

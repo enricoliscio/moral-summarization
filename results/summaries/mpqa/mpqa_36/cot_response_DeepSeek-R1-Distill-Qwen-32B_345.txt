@@ -1,0 +1,39 @@
+Alright, so the user has provided a detailed news article and wants me to act as a news summarizer and moral expert. They've outlined specific steps: first, identify morally framed words, and then summarize the article while preserving those moral terms. 
+
+Looking at the article, it's critical of U.S. foreign policy, especially after 9/11, and accuses the U.S. of various unethical actions. The user wants a summary that maintains the moral framing, so I need to highlight the negative terms used against the U.S.
+
+In STEP 1, I need to extract all single words that carry a moral judgment. Words like "criticism," "dominating," "oppression," etc., stand out. I'll list each with an asterisk.
+
+For the summary, I must condense the article into 200 words, keeping the moral language intact. I'll focus on the main points: China's criticism, the U.S. military actions, human rights violations, and the impact on countries like Pakistan. I'll ensure the summary reflects the author's negative perspective on U.S. policies.
+
+I need to make sure the summary is concise but covers all key moral points without adding my own bias, just reflecting the article's framing. Also, I should avoid any markdown and keep it natural as per the user's instructions.
+</think>
+
+### STEP 1:
+* Criticism  
+* Dominating  
+* Oppression  
+* Dreadful  
+* Loathsome  
+* Shameful  
+* Horrifying  
+* Artificial  
+* Aggression  
+* Terrorism  
+* Supremacy  
+* Subjugate  
+* Oppression  
+* Inhuman  
+* Double standards  
+* Selfishness  
+* Violence  
+* Crime  
+* Racial prejudice  
+* Disrespect  
+* Sanctity  
+
+---
+
+### SUMMARY:
+A recent Chinese document criticizes the United States for its expanding military presence and demand for the U.S. to stop its policy of global domination. The document condemns U.S. actions post-9/11, including the bombing of Afghanistan, which caused the deaths of innocent Muslims, and the subsequent "war on terrorism" targeting Iraq, Iran, and North Korea. China accuses the U.S. of violating human rights and undermining global solidarity. The U.S. has been accused of using double standards, such as detaining prisoners in inhuman conditions on Guantanamo Bay, while ignoring its own human rights record. The document highlights the U.S. history of aggression, including the toppling of foreign governments and the promotion of its supremacy. China urges the U.S. to stop interfering in other countries' affairs and to cease its oppressive policies. Pakistan is advised to rethink its alliance with the U.S., as it has gained little benefit and faced increased internal and external problems. The U.S. is portrayed as a society plagued by violence, crime, racial prejudice, and disregard for women's rights. China's report serves as a wake-up call for the world to view the U.S. in its true light.  
+END OF SUMMARY.

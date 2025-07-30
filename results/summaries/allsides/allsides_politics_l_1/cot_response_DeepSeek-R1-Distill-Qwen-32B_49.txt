@@ -1,0 +1,51 @@
+Alright, I need to tackle this query step by step. The user has provided a news article and specific instructions on how to process it. They want me to act as a news summarizer and a moral expert. 
+
+First, I need to understand the task. The user wants me to identify all the morally framed single words in the article. They mentioned STEP 1, where each word should be listed with an asterisk. Then, I have to write a summary that preserves the moral framing, using as many of those words as possible. The summary should be concise, under 200 words, and follow specific formatting.
+
+Looking at the article, it's about Mattis criticizing Trump's leadership. I should go through each sentence to spot words that carry moral connotations. Words like "unite," "divide," "strength," "unity," "conquer," "silence," "experiment," "oath," "Constitution," "rights," "photo op," "battlespace," "dominate," "militarizing," "erodes," "moral ground," "trusted bond," "public order," "answerable," "integrity," "accountability," "respect," "equality," "fairness," "compassion," "solidarity," "freedom," "democracy," "dignity," "justice," "peace," and "hope" stand out as morally charged.
+
+Next, I need to craft a summary that includes these words. The summary should highlight Mattis's main points: Trump's divisive leadership, the importance of unity, the military's role, and the threat to democratic principles. I must ensure the summary flows well and stays within the word limit.
+
+I should start by introducing Mattis's criticism, then move on to the contrast between Trump's actions and the American ethos. Mention the specific incidents like the George Floyd protests and the military's involvement. Conclude with the broader implications for democracy and Mattis's call for unity.
+
+I need to make sure the summary captures the moral framing without being too verbose. Each sentence should encapsulate a key point, using the identified words where appropriate. I'll also check that the summary ends correctly with the specified tokens.
+
+Finally, I'll review the summary to ensure it meets all the user's requirements and that the moral framing is preserved accurately.
+</think>
+
+**STEP 1:**  
+* Unite  
+* Divide  
+* Strength  
+* Unity  
+* Conquer  
+* Silence  
+* Experiment  
+* Oath  
+* Constitution  
+* Rights  
+* Photo op  
+* Battlespace  
+* Dominate  
+* Militarizing  
+* Erodes  
+* Moral ground  
+* Trusted bond  
+* Public order  
+* Answerable  
+* Integrity  
+* Accountability  
+* Respect  
+* Equality  
+* Fairness  
+* Compassion  
+* Solidarity  
+* Freedom  
+* Democracy  
+* Dignity  
+* Justice  
+* Peace  
+* Hope  
+
+**SUMMARY:**  
+James Mattis, a former Secretary of Defense, criticizes Donald Trump for failing to unite the American people, instead dividing the nation. Mattis contrasts Trump's leadership with the American ethos of unity, referencing the military's role in upholding democratic principles. He condemns the use of troops in domestic protests, arguing it undermines the moral bond between the military and civilians. Mattis criticizes Trump's response to the George Floyd protests, calling it a "photo op" that violates constitutional rights. He also criticizes the militarization of domestic law enforcement, arguing it erodes trust and sets up a false conflict between the military and society. Mattis emphasizes the importance of civilian leadership in maintaining public order and protecting democratic values. His statement reflects a deep concern for the integrity of American institutions and a call for unity in the face of political division. END OF SUMMARY.

@@ -1,0 +1,35 @@
+<think>
+Okay, so I need to help the user by summarizing a news article while preserving the moral framing. The user has given specific instructions: first, identify all the single words that are morally framed, then write a summary using as many of those words as possible. 
+
+Looking at the article, it's about the internal disputes within the U.S. government regarding the talking points used after the Benghazi attack. The key here is to find words that carry moral implications. Words like "complicit," "sensitive," "scrubbed," "airbrushed," "motivations," "abused," "concerned," "respect," "equities," "protect," and "final" stand out because they relate to intentions, responsibilities, and ethical considerations.
+
+Now, for the summary, I need to condense the article, making sure to include these moral terms. I'll start by outlining the main events: the emails showing disagreements between Petraeus and Morell, the deletion of references, the State Department's objections, the White House's response, and the political implications. I'll ensure each of the identified words is included where appropriate to maintain the moral framing.
+
+I should also keep the summary concise, under 200 words, and make sure it flows logically. I'll mention the internal jostling, the deletions, the State Department's concerns, the White House's mediation, the stripped talking points, Republican accusations, and the focus on providing factual information. Each of these points will incorporate the moral terms to reflect the original article's framing.
+
+Finally, I'll structure the summary clearly, starting with the key players and their actions, moving through the process, and ending with the political fallout. This approach ensures that the moral aspects are highlighted, as per the user's request.
+</think>
+
+**STEP 1:**
+
+Here are the morally framed words identified in the text:
+
+* Complicit  
+* Sensitive  
+* Scrubbed  
+* Airbrushed  
+* Motivations  
+* Abused  
+* Concerned  
+* Respect  
+* Equities  
+* Protect  
+* Final  
+
+---
+
+**SUMMARY:**  
+
+The release of White House e-mails revealed internal disputes over the government’s talking points following the Benghazi attack. CIA Director David Petraeus and Deputy Michael Morell disagreed on信息披露, with Morell deleting references to CIA warnings about extremist threats in Libya, sparking State Department objections. The final talking points were heavily scrubbed, raising concerns about the State Department’s security posture. Critics accused the administration of airbrushing the account for political reasons, particularly during the election campaign. The e-mails showed a bureaucratic tug of war between the State Department and CIA, with the White House mediating under time pressure. The final version stripped out material, including Libya’s dangerous environment, while the administration claimed it focused on providing facts and protecting the investigation. Republicans accused the White House of complicity in altering the narrative, while the administration defended the process as driven by intelligence, not politics. The e-mails offered a rare glimpse into the struggle to formulate a public account, highlighting concerns over balancing equities, protecting investigations, and respecting State Department interests.  
+
+**END OF SUMMARY.**

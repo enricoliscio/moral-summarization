@@ -1,0 +1,31 @@
+Okay, so I need to help the user with their query. They provided a news article about Roy Moore and asked for a summary while preserving the moral framing. They also want me to first identify all the single words that are morally framed. Let me break this down.
+
+First, I'll read through the article to understand the context. It's about Roy Moore suing the Washington Post over allegations of sexual misconduct with minors. The article mentions several moral terms, so I need to pick those out.
+
+I'll go through each paragraph and look for words that carry moral weight. Words like "attack," "false," "sued," "desperate," "harass," "assault," "fake news," "hurtful," "protection," "endorsements," and "investigations" stand out. These words are used to frame the situation morally, either accusing or defending.
+
+Next, I need to summarize the article, making sure to include as many of these morally framed words as possible. The summary should be concise, under 200 words. I'll start by stating Moore's decision to sue, then mention the allegations and his denials. I'll include the Washington Post's response and the context of other public figures who threatened lawsuits but didn't follow through. I'll also note the details of the allegations, Moore's claims, and the political fallout, like endorsements being withdrawn.
+
+I need to ensure that the summary flows well and includes all the key points while preserving the moral framing. I'll structure it to highlight the accusations, Moore's defenses, the legal aspects, and the political implications.
+
+Let me make sure I include all the identified moral words without making the summary too cluttered. I'll also keep the language clear and straightforward, sticking to the facts while emphasizing the moral elements as presented in the article.
+
+Finally, I'll review the summary to ensure it meets the word limit and effectively conveys the moral framing intended by the author. I'll check that all important points are covered and that the summary is coherent and concise.
+</think>
+
+**STEP 1:**  
+* attack  
+* false  
+* sued  
+* desperate  
+* harassment  
+* assault  
+* fake news  
+* hurtful  
+* protection  
+* endorsements  
+* investigations  
+
+**SUMMARY:**  
+Alabama Senate candidate Roy Moore has vowed to sue *The Washington Post* over its report alleging he pursued sexual relationships with teenagers, including a 14-year-old, when he was in his 30s. Moore called the claims "false" and accused the outlet of launching a "desperate" attack to derail his campaign. The Post's report, based on interviews with over 30 people, included allegations of sexual contact with minors, though no charges were filed due to statutes of limitations. Moore denied the claims, calling them "fake news" and emphasizing his commitment to "protecting young children." He also claimed ongoing "investigations" into the article's motives. Several Republicans, including the National Republican Senatorial Committee, withdrew their endorsements of Moore following the report. Moore's campaign remains under scrutiny as he continues to defend himself against the allegations.  
+**END OF SUMMARY.**

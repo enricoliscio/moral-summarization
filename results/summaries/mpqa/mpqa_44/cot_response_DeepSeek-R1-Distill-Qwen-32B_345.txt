@@ -1,0 +1,28 @@
+Okay, so I need to help the user by summarizing a news article while preserving the moral framing. Let me break down the steps.
+
+First, I'll read the article carefully. It's about Lebanese officials reacting to a US human rights report. The officials are dissatisfied but not surprised. They mention it's an annual event, which shows a pattern. The report criticizes Lebanon's central government, judiciary, and mentions intelligence monitoring. They also note that the report discredits Lebanon as undemocratic and uncivilized, which is a strong moral statement.
+
+Now, for step 1, I need to identify all the single words that are morally framed. I'll go through the article again and pick out words that carry a moral connotation. Words like "criticism," "discredit," "undemocratic," "uncivilized," "abusing," "independent," "harms," "praise," and "criticism" stand out. These words convey judgment or evaluation, so they fit the moral framing.
+
+Next, for the summary, I need to condense the article while keeping as many of these moral words as possible. The summary should be concise, under 200 words. I'll start by stating that Lebanese officials are dissatisfied with the US report. I'll mention the annual nature of the criticism, the specific points about the government and judiciary, the discrediting of Lebanon, and the positive note about the press. I'll ensure the moral terms are included to reflect the original framing.
+
+I should make sure the summary flows logically, covering the main points without getting too detailed. I'll avoid introducing new information not present in the article. Also, I need to end with "END OF SUMMARY." as specified.
+
+Let me put it all together. Start with the officials' reaction, mention the annual criticism, the specific criticisms in the report, the discrediting aspect, the response from the Lebanese authorities, and the positive mention of the press. Keep each sentence tight and focused on the moral elements.
+
+I think that covers everything. Time to write the summary, making sure it's within the word limit and includes all the key moral terms.
+</think>
+
+**STEP 1:**  
+* Criticism  
+* Discredit  
+* Undemocratic  
+* Uncivilized  
+* Abusing  
+* Independent  
+* Harms  
+* Praise  
+* Criticism  
+
+**SUMMARY:**  
+Lebanese officials expressed dissatisfaction with the US State Department's human rights report, calling its annual criticism of Lebanon's human rights situation predictable. The report criticized Lebanon for weakening central government authority, judicial independence under political pressure, and intelligence monitoring of opposition politicians, which officials argued discredits Lebanon as undemocratic or uncivilized. While the report praised Lebanon's press for criticizing the government, officials conveyed their concerns to US Ambassador Vincent Battle, emphasizing that the judiciary is "independent in principle." The report's portrayal of Lebanon as undemocratic and its mention of phone-tapping were seen as harmful to the country's image. The Foreign Ministry plans to respond to the report while highlighting factors beyond the government's control. END OF SUMMARY.

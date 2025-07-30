@@ -1,0 +1,13 @@
+<think>
+Alright, I need to help the user by summarizing the given news article while preserving the moral framing words the author used. First, I'll read through the article to understand the main points. The article is about President Trump nearing his deadline to pick a new FBI director, with Joseph Lieberman as a finalist. There are concerns from Trump's staff about Lieberman's qualifications and age, and there's mention of other candidates like McCabe and Rogers.
+
+The user specified that the summary must include as many of the morally framed words as possible: embrace, leaks, cherish, damage, firing, crime, ouster, watergate, lend. I need to ensure these words are included where appropriate.
+
+I should start by identifying the key events and the moral implications. Trump is close to choosing Lieberman, but his staff is concerned. The article mentions leaks, which is a moral issue about transparency. Trump cherishes the FBI, implying its importance. The firing of Comey damaged morale, and the ouster is compared to Watergate, a serious moral and political scandal. Lieberman's background might help lend credibility.
+
+I'll structure the summary to include these elements, making sure to use the specified words. I'll keep it concise, under 200 words, and ensure it flows logically, covering Trump's consideration of Lieberman, the concerns, other candidates, and the implications of the decision.
+
+Now, I'll draft the summary, ensuring all the moral words are included where they fit naturally. I'll check the word count to make sure it's within the limit. Finally, I'll present it after the "SUMMARY:" token and end with "END OF SUMMARY." as instructed.
+</think>
+
+SUMMARY: President Trump is nearing his deadline to choose a new FBI director, with Joseph I. Lieberman, a former Democratic senator, emerging as a finalist. However, his staff has urged him to take more time, concerned about Lieberman's lack of law enforcement experience and his age, 75, given the 10-year term. Trump has "embrace[d]" Lieberman but faces "leaks" and speculation about his decision. He "cherishes" the FBI, emphasizing its global reputation, but its credibility has been "damaged" by the "firing" of James Comey and the political "ouster" linked to the Clinton and Trump campaigns. Some compare the situation to the "Watergate" scandal. Lieberman, a political operator, could "lend" bipartisan credibility to Trump but faces criticism from Democrats. Other candidates include Acting Director Andrew McCabe and former agent Mike Rogers, who has the agents’ support. The search remains "fluid," with concerns about potential conflicts of interest and the need to restore the FBI’s independence. END OF SUMMARY.

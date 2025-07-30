@@ -1,0 +1,19 @@
+Okay, so the user has given me a query where they want me to act as a news summarizer assistant. They provided a detailed news article about Paul Ryan and the criticism he's facing from Catholic leaders. My task is to summarize this article concisely, within 200 words, and format it with "SUMMARY:" and "END OF SUMMARY." tokens.
+
+First, I need to understand the key points of the article. It's about Rep. Paul Ryan's budget plan being criticized by Catholic leaders, especially from Georgetown University. The letter from the faculty accuses him of misusing Catholic teachings to justify his budget, which cuts poverty programs. They also mention his visit to Georgetown and the context of the Whittington Lecture. Additionally, the article touches on broader issues like the church distancing itself from the Republican Party and the bishops' criticism of the Obama administration over religious freedom.
+
+I should identify the main elements: who is involved (Ryan, Georgetown faculty, bishops), what happened (criticism of the budget), why (misuse of Catholic teachings), and the implications (church's stance on politics). I need to make sure the summary captures all these points without going into too much detail.
+
+I'll start by stating that Ryan's budget is criticized by Catholic leaders for misusing teachings. Then mention the Georgetown letter, the specific criticisms about cutting programs, and the comparison to Ayn Rand. Next, explain the broader context of the church's independence from the Republican Party, referencing the bishops' issues with Obama. Finally, note Ryan's defense and the bishops' counterarguments.
+
+I need to keep it under 200 words, so I'll be concise and avoid unnecessary details. Also, ensure the summary flows logically, connecting each point smoothly.
+
+Let me draft it: Start with Ryan's criticism, then the Georgetown letter's specifics, the comparison to Ayn Rand, the church's stance, bishops' issues with Obama, Ryan's defense, and the bishops' counter. That should cover all key points succinctly.
+
+I should check the word count to make sure it's within the limit. Also, ensure that proper nouns and titles are correctly mentioned, like the Whittington Lecture and the Compendium of the Social Doctrine of the Church.
+
+Finally, format it with the required tokens. Make sure there are no markdown elements, just plain text. Alright, I think that's a solid plan for the summary.
+</think>
+
+SUMMARY:  
+Rep. Paul D. Ryan, the Republican chairman of the House Budget Committee, has faced criticism from Catholic leaders for claiming his budget plan, which cuts antipoverty programs, aligns with Catholic teachings. A letter signed by nearly 90 Georgetown faculty and priests accused Ryan of misusing Catholic doctrine to justify a budget that harms the poor, elderly, and sick, while favoring the wealthy. The letter compared his plan to Ayn Rand's philosophy rather than Christian values and included a Vatican text to clarify Catholic social teaching. The criticism reflects efforts by some Catholic leaders to distance the church from the Republican Party. Ryan defends his plan, arguing it promotes independence for the poor, but Georgetown faculty countered that Catholic teaching calls for government intervention in crises. Catholic bishops have also criticized the Obama administration over religious freedom, leading to tensions. Ryan's budget has become a focal point for asserting the church's independence from political parties. END OF SUMMARY.

@@ -1,0 +1,34 @@
+Alright, I need to help the user by summarizing the news article while preserving the moral framing. First, I should understand what the user is asking for. They want a two-step process: identifying morally framed words and then a summary using those words.
+
+Looking at the article, I'll start by scanning for words that carry moral connotations. Words like "unpredictable," "protest," "mercurial," "concessions," "rebuffed," "hurtling," "slump," "chaos," "sad," "adversaries," "authoritarian," "treason," "deterrent," "slow-walked," "acquiescing," "bureaucratic," "betrayal," and "dishonesty." These words convey judgment or evaluation, which is key for moral framing.
+
+Next, I need to write a concise summary using these words. The summary should capture Mattis's resignation, his reasons, the impact on the administration, and the broader implications. I'll ensure to include the morally framed words to maintain the author's perspective.
+
+I should also keep the summary under 200 words, so I'll need to be concise but comprehensive. I'll structure it to highlight Mattis's role as a stabilizing force, his objections to Trump's decisions, the consequences of his resignation, and the administration's shift in policy.
+
+Finally, I'll make sure the summary flows logically, starting with Mattis's resignation, his reasons, the reactions, and the broader implications. This way, the moral framing is preserved, and the summary remains informative and within the word limit.
+</think>
+
+**STEP 1:**  
+* unpredictable  
+* protest  
+* mercurial  
+* concessions  
+* rebuffed  
+* hurtling  
+* slump  
+* chaos  
+* sad  
+* adversaries  
+* authoritarian  
+* treason  
+* deterrent  
+* slow-walked  
+* acquiescing  
+* bureaucratic  
+* betrayal  
+* dishonesty  
+
+**SUMMARY:**  
+Defense Secretary Jim Mattis resigned in protest of President Trump’s decision to withdraw troops from Syria and his rejection of international alliances. Mattis, a respected figure seen as a stabilizing force in the Trump administration, viewed his role as protecting U.S. troops and upholding alliances. His resignation came after Trump’s decision to pull out of Syria, which Mattis believed abandoned allies and ceded territory to Russia and Iran. Mattis criticized Trump’s approach as destructive to American influence and power, emphasizing the importance of NATO and the fight against ISIS. His departure marks a significant shift in the administration’s national security policy, with critics calling it a loss of stability and wisdom. Mattis’s refusal to publicly endorse Trump’s Syria decision and his quiet resistance to some of Trump’s proposals, such as banning transgender troops, highlighted growing tensions. His resignation underscores the broader moral and strategic分歧 within the administration.  
+**END OF SUMMARY.**

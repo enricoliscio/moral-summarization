@@ -1,0 +1,12 @@
+Alright, so the user has provided a news article and wants me to summarize it. They specified that the summary should be after a "SUMMARY:" token and end with "END OF SUMMARY." It should be no longer than 200 words.
+
+First, I'll read through the article to understand the main points. It's about Maryland Democrats rejecting a bill aimed at combating gun violence, while the Baltimore mayor is urging residents to stop shooting each other to free up hospital beds for coronavirus patients. The bill, proposed by Republican Governor Larry Hogan, would increase penalties for violent criminals, but Democrats removed mandatory minimum sentences, leading to the bill's failure.
+
+I need to condense this into a concise summary. I should include the key elements: who rejected the bill, what the bill aimed to do, the reasons for its rejection, the mayor's plea, the public support for the bill, and the implications of its failure.
+
+I'll start by stating that Maryland Democrats rejected the bill. Then mention the bill's goals, the amendments made, and the consequences. I'll also include the mayor's plea and the statistics about public support. Finally, I'll note the legislative session's end and the disappointment expressed by Republicans and some Democrats.
+
+I need to make sure the summary is under 200 words and flows well, covering all critical points without unnecessary details. I'll structure it in a few sentences, each covering a main point. Let me check the word count as I draft to ensure compliance.
+</think>
+
+SUMMARY: Maryland Democrats rejected a bill proposed by Republican Governor Larry Hogan aimed at combating gun violence, despite public support for the measure. The Violent Firearms Offenders Act sought to increase penalties for violent criminals, including those who steal firearms or use them in drug deals. However, Democrats amended the bill to remove mandatory minimum sentences, leading to its failure in the state legislature. Meanwhile, Baltimore Mayor Jack Young pleaded with residents to reduce violence to free up hospital resources for COVID-19 patients. The bill, which enjoyed broad public support, including 85% backing in Baltimore, was criticized by Republicans for being weakened by Democrats. The legislative session ended without addressing the state's crime issues, leaving many, including some Democrats, disappointed. END OF SUMMARY.

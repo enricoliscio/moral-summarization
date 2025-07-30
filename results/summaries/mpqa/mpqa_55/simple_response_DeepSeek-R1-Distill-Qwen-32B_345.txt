@@ -1,0 +1,13 @@
+Okay, so I'm trying to help the user summarize a news article while preserving the moral framing. The user wants a concise summary, no longer than 200 words, and it should end with the specified tokens. 
+
+First, I need to understand the content of the article. It's about the South Korean government's response to the US's new climate policy. The US, under Bush, rejected the Kyoto Protocol and proposed a new approach. The article mentions that the Korean government appreciates the US's interest but suggests more elaboration is needed for international discussions.
+
+I should focus on the key points: the US's new policy, Korea's appreciation, the need for more details, and the context of the Kyoto Protocol and international reactions. I need to make sure the summary reflects the moral stance, like the importance of international cooperation and addressing climate change.
+
+I'll start by stating the government's stance on the US policy. Then mention their appreciation and the flexible approach. Highlight the need for elaboration and international consultation. Finally, note the US's previous rejection of Kyoto and other countries' differing responses.
+
+I need to keep it under 200 words, so I'll be concise but include all essential elements. Let me structure it step by step to ensure clarity and that all main points are covered without being too verbose.
+</think>
+
+SUMMARY:  
+The South Korean government has expressed appreciation for the U.S. initiative on climate change, acknowledging its flexible and gradual approach to reducing greenhouse gas emissions. While Seoul recognizes the effort, it emphasizes the need for greater elaboration, particularly on establishing concrete methods for greenhouse gas intensity levels. The statement, issued by Foreign Minister Choi Sung-hong, also highlights the importance of international consultations to build understanding of the U.S. policy. This comes as the global community prepares for the ratification of the Kyoto Protocol, which the U.S. rejected under President George W. Bush. The U.S. has since proposed a new policy focusing on reducing emissions relative to economic activities. The Korean government underscores the need for international cooperation to address climate change, a critical challenge in the 21st century. END OF SUMMARY.

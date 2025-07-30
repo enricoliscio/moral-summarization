@@ -1,0 +1,19 @@
+<think>
+Okay, I need to help the user summarize the given news article while preserving the moral framing. The user has specified that I should keep as many of the morally framed words as possible. Let me first read through the article to understand the main points.
+
+The article discusses two main topics: the treatment of al-Qaeda prisoners at Guantanamo Bay and the reactions to Brian Tobin's departure from politics. The moral framing is evident in the discussion of humane treatment, betrayal, and the conflict between legal obligations and national security.
+
+I should start by identifying the key moral terms: humane, treatment, conflict, overreacting, treat, imperil, betrayal, ridiculing, proven, honest. These words need to be included in the summary.
+
+For the al-Qaeda prisoners, the Ottawa Citizen and Sudbury Star argue for a tribunal under the Geneva Convention, emphasizing humane treatment. The Daily Press in Timmins supports the U.S. approach, suggesting critics might be overreacting. This shows a conflict between legal obligations and security concerns.
+
+Regarding Brian Tobin, the article mentions his betrayal of voters and the ridicule from pundits. John Manley, on the other hand, is praised for his honesty and proven reliability.
+
+I need to condense this into a concise summary, ensuring all the moral terms are included without exceeding 200 words. I'll structure it by addressing each topic separately, using the specified words to maintain the moral framing.
+
+Let me draft the summary, making sure each point is clear and the moral language is preserved. I'll check the word count to ensure it's within the limit. 
+
+Finally, I'll format it with the "SUMMARY:" and "END OF SUMMARY." tokens as instructed.
+</think>
+
+SUMMARY: The article highlights the moral and political debates surrounding the treatment of al-Qaeda prisoners at Guantanamo Bay and the departure of Brian Tobin from Canadian politics. Editorial writers emphasize the need for "humane treatment" of prisoners, arguing that while conditions at Guantanamo may not be inherently "inhuman," they question U.S. assurances of compliance with the Geneva Convention. The Ottawa Citizen and Sudbury Star advocate for a "competent tribunal" to address the legal status of detainees, while The Daily Press in Timmins argues against "overreacting," suggesting that altering treatment could "imperil" American lives. Meanwhile, Tobin's exit has sparked criticism, with pundits accusing him of "betrayal" and "ridiculing" his claims of leaving for family reasons. Columnists describe his political career as "unstable" and lacking commitment. In contrast, John Manley, the new Deputy Prime Minister, is praised for being "competent" and "honest," with his leadership seen as a positive development. END OF SUMMARY.

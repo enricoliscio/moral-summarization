@@ -1,0 +1,30 @@
+Okay, I need to help the user with their query. They want me to act as a news summarizer and moral expert. The task involves two steps: first, identifying morally framed words, and then summarizing the article while preserving those words.
+
+Looking at the provided news article, I need to read through it carefully. The article is about Kathy Griffin and her controversial photo shoot with Tyler Shields. She's holding a bloodied Trump mask, which caused a stir. She apologized, saying it was too disturbing and not funny. People, including Chelsea Clinton, criticized it as vile. Shields defended the art, saying it's meant to provoke and that it's not real. He's had issues before with similar photos.
+
+For step one, I need to pick out all the morally charged words. Words like "controversial," "offends," "disturbing," "vile," "wrong," "touchy," "freedom of speech," "kill," "imprisonment," "stir the pot," "glitches," "removed," "re-upload." These terms carry moral implications or judgments.
+
+Next, the summary needs to include as many of these words as possible without exceeding 200 words. I'll start by stating Griffin admitted going too far with the photo. Mention the bloodied mask and the initial reaction. Include her apology and the public's disdain, Chelsea Clinton's comment. Then, Shields' explanation about the art's purpose, the comparison to movies, and his past controversies. Conclude with his stance on freedom of speech and the video issues.
+
+I should ensure the summary flows naturally while embedding those moral terms. Make sure it's concise and captures the essence of the article's moral framing.
+</think>
+
+**STEP 1:**  
+* Controversial  
+* Offends  
+* Disturbing  
+* Vile  
+* Wrong  
+* Touchy  
+* Freedom of speech  
+* Kill  
+* Imprisonment  
+* Stir the pot  
+* Glitches  
+* Removed  
+* Re-upload  
+
+**SUMMARY:**  
+Kathy Griffin admitted she "went too far" with a controversial photo shoot featuring a bloodied mask of President Trump, calling the image "too disturbing" and "not funny." She acknowledged it could "offend people" and apologized, stating she would "take down the image." Critics, including Chelsea Clinton, called the photo "vile and wrong." Photographer Tyler Shields defended the work as art, claiming it was meant to "stir the pot" and provoke discussion, though he acknowledged it could make some uncomfortable. Shields emphasized the image was "not real" and compared it to a movie still. The photo shoot sparked widespread disdain, with some fearing "imprisonment" if the images were released. Shields, known for controversial work, defended his artistry, stating, "nobody's killed me for this image," and re-uploaded a behind-the-scenes video after initial glitches caused its removal.  
+
+**END OF SUMMARY.**

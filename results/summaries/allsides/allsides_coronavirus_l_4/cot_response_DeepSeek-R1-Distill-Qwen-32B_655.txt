@@ -1,0 +1,23 @@
+Okay, I need to help the user by summarizing a news article while preserving the moral framing. The user provided specific instructions, so I should follow them carefully.
+
+First, the user wants me to identify all the single words that are morally framed. I'll go through the article and pick out words that have a clear moral connotation. Words like "failures," "devastating," "barred," "catastrophe," "hypocritical," "paranoia," "resentment," "hate," "lost," and "failure" stand out as they carry moral judgment.
+
+Next, I need to write a concise summary of the article, making sure to include as many of these morally framed words as possible. The summary should be under 200 words and structured after the "SUMMARY:" token. I'll focus on the key points: Cuomo's actions leading to nursing home deaths, the contrast with Florida, the political response in Arizona, Texas, and Florida, the impact of protests, and Trump's handling of the pandemic.
+
+I should ensure that the summary flows well and captures the main moral arguments presented in the article. I'll make sure to highlight the failures and the consequences, as well as the political divide affecting the pandemic response. This way, the summary preserves the moral framing while being clear and concise.
+</think>
+
+**STEP 1:**  
+* failures  
+* devastating  
+* barred  
+* catastrophe  
+* hypocritical  
+* paranoia  
+* resentment  
+* hate  
+* lost  
+* failure  
+
+**SUMMARY:**  
+The article highlights the moral failures of Democratic leaders during the COVID-19 pandemic, particularly Governor Andrew Cuomo of New York, whose orders led to a devastating surge of infections in nursing homes, resulting in over 6,000 deaths. In contrast, Florida, which prohibited such transfers, saw a much lower death rate. Cuomo's initial missteps cast doubt on his later efforts to address the crisis. Meanwhile, states like Arizona, Florida, and Texas have failed to implement basic measures like mask mandates, with some governors even blocking local restrictions. The article also notes the politicization of the pandemic, as liberal support for protests against police violence has fueled conservative suspicions of social distancing as a hypocritical tool of control. This has led to hostility toward public health workers, with some facing death threats and harassment. The U.S. lags behind countries with competent leadership in controlling the virus, and as the death toll surpasses 120,000, the political will to contain the pandemic remains absent. Trump's handling of the crisis has been widely criticized, with even his supporters acknowledging the failure to limit casualties. END OF SUMMARY.

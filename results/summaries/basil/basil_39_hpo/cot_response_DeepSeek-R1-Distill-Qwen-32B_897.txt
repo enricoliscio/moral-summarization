@@ -1,0 +1,27 @@
+Okay, I need to help the user by summarizing the news article while preserving the moral framing. The user has given specific instructions, so I should follow them step by step.
+
+First, the user wants me to identify all the single words that are morally framed. I'll go through the article and pick out words that carry moral connotations. Words like "criticized," "opposition," "freedom," "rights," "pro-life," "pro-gay," "support," "clarify," "ought," and "free" seem to fit. These words are used in a way that conveys moral judgment or principle.
+
+Next, I need to write a summary that includes as many of these morally framed words as possible. The summary should be concise, under 200 words. I'll start by stating the main event: Mary Cheney criticizing her sister's stance on same-sex marriage. Then, I'll include her arguments about freedom and equality. I'll mention Liz's opposing views and her stance on states' rights. Also, I'll note the family dynamics, including Dick Cheney's support for gay marriage, which adds a moral contrast within the family.
+
+I should ensure the summary flows logically, covering all key points without getting too detailed. It's important to highlight the moral conflict between the sisters and their differing views on marriage rights. I'll also mention the political implications, like Liz's primary challenge, to give context.
+
+I need to make sure the summary is clear and sticks to the moral framing without introducing new information. Keeping it within the word limit is crucial, so I'll be concise with each point. Finally, I'll end the summary properly with the specified tokens.
+
+Double-checking to ensure all steps are followed: identified the moral words, wrote a concise summary preserving those words, and adhered to the structure and word limit. That should meet the user's requirements effectively.
+</think>
+
+**STEP 1:**  
+* Criticized  
+* Opposed  
+* Freedom  
+* Rights  
+* Pro-life  
+* Pro-gay  
+* Support  
+* Clarify  
+* Ought  
+* Free  
+
+**SUMMARY:**  
+Mary Cheney, the openly gay sister of Wyoming Senate candidate Liz Cheney, criticized her sister's opposition to same-sex marriage on Facebook, arguing that "freedom means freedom for everyone" and that all families deserve equal rights. Liz Cheney, who opposes same-sex marriage, believes the issue should be decided by states and their people, not judges or legislators. This stance puts her at odds with her openly gay sister and her father, former Vice President Dick Cheney, who has supported gay marriage. Liz's position also contradicts her earlier opposition to the "don't ask, don't tell" policy and has drawn attention amid her Republican primary challenge against Sen. Mike Enzi. END OF SUMMARY.

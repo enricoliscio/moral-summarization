@@ -1,0 +1,22 @@
+Okay, so I need to help the user by summarizing the given news article while preserving the moral framing. Let me start by understanding what the user is asking for. They want me to first identify all the single words in the article that carry a moral connotation. Then, I have to write a summary that includes as many of these morally framed words as possible, keeping it under 200 words.
+
+First, I'll read through the article carefully to spot any words that have a moral or ethical implication. Words like "coercion," "pressure," "favor," "defame," "exonerate," "illicit," "ugliest," "shakedown," and "corruption" stand out. These terms suggest actions that are questionable or unethical, which fits the moral framing the user is referring to.
+
+Next, I need to summarize the article. The main points are about Sondland's testimony, the pressure on Ukraine for investigations, the link to Biden and Russia, and the Republicans' defense. I should include the morally charged words to maintain the author's perspective. I'll make sure the summary is concise and doesn't exceed 200 words, focusing on the key ethical issues presented in the article.
+
+I also need to structure my response with STEP 1 listing each moral word and then the SUMMARY. I'll ensure that the summary flows well and accurately reflects the moral implications without adding my own opinions, just sticking to the facts and the framing from the article.
+</think>
+
+**STEP 1:**  
+* Coercion  
+* Pressure  
+* Favor  
+* Defame  
+* Exonerate  
+* Illicit  
+* Ugly  
+* Shakedown  
+* Corruption  
+
+**SUMMARY:**  
+Sondland testified that he told a Ukrainian official U.S. aid would resume only if Ukraine pursued investigations, which Trump wanted publicly announced to defame Biden and exonorate Russia. Sondland claimed Trump didn’t care about the investigations themselves, only their public announcement. Holmes testified that Sondland admitted Trump didn’t care about Ukraine, only “big stuff” benefiting the president. Sondland also stated Trump wanted Ukraine to investigate the DNC server, a conspiracy theory linking Ukraine, not Russia, to the 2016 hack. Republicans argued Trump’s focus was on public statements, not illicit actions, but Sondland’s testimony revealed Trump’s true intent. Sondland’s credibility was questioned, as he claimed ignorance about Burisma’s ties to the Bidens. Republicans emphasized Sondland never heard Trump directly link aid to investigations, but Sondland inferred the connection, saying “two plus two equals four.” END OF SUMMARY.

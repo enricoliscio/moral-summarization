@@ -1,0 +1,39 @@
+Alright, I need to help the user by summarizing the news article while preserving the moral framing. Let me break down the steps.
+
+First, I should identify all the morally framed words in the article. These are words that carry a positive or negative connotation, indicating approval or disapproval. I'll go through the text and pick out words like "treasured," "raid," "dishonest," "hypocritical," "failure," "blame," "attack," "wrong," "failure," "dragging," "ending," "voucher," "piggy bank," "raid," "failure," "attack," "wrong," "failure," "dragging," "ending," "voucher," "piggy bank," "raid," "failure," "attack," "wrong," "failure," "dragging," "ending," "voucher," "piggy bank," "raid."
+
+Next, I need to write a concise summary using these words. The summary should be under 200 words and include as many of these moral terms as possible. I'll focus on the key points: Ryan's defense of his Medicare plan, the contrast with Obama's plan, the accusations of raiding Medicare, the claims of dishonesty, and the broader campaign dynamics.
+
+I should ensure the summary flows well and captures the essence of the article, highlighting the moral framing from both sides. I'll structure it to show Ryan's arguments against Obama's policies and the counterarguments from the Obama campaign, emphasizing the use of terms like "raid," "dishonest," and "ending Medicare."
+
+Finally, I'll make sure the summary is clear and within the word limit, ending with the required tokens.
+</think>
+
+**STEP 1:**  
+* treasured  
+* raid  
+* dishonest  
+* hypocritical  
+* failure  
+* blame  
+* attack  
+* wrong  
+* failure  
+* dragging  
+* ending  
+* voucher  
+* piggy bank  
+* raid  
+* failure  
+* attack  
+* wrong  
+* failure  
+* dragging  
+* ending  
+* voucher  
+* piggy bank  
+* raid  
+
+**SUMMARY:**  
+Paul Ryan defended his Medicare plan, accusing President Obama of treating Medicare as a "piggy bank" to fund ObamaCare, while his plan aims to "save" and "preserve" Medicare. Ryan emphasized that his proposal leaves benefits for current retirees untouched, contrasting it with Obama's alleged "raid" on Medicare. The Obama campaign countered, calling Ryan's claims "dishonest" and "hypocritical," arguing that his budget would "end Medicare as we know it" by replacing guaranteed benefits with vouchers. Both sides selectively framed each other's plans, with Ryan's proposal shifting Medicare to private plans in the future and Obama's plan reducing payments to providers. Ryan also criticized Obama's economic policies, calling them a "failure" and "blame and attack" campaign. The article highlights the moral framing of Medicare as a treasured entitlement and the clash over its future, with accusations of raiding, dishonesty, and failure.  
+**END OF SUMMARY.**

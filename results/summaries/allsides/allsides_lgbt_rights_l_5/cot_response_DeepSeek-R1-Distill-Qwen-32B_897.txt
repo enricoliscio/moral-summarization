@@ -1,0 +1,28 @@
+Alright, I need to help the user by summarizing the given news article while preserving the moral framing. The user has provided a detailed article about the Obama administration expanding benefits to same-sex spouses after the Supreme Court decision on DOMA. 
+
+First, I should identify the morally framed words. The user specified two steps: first, list the single words that carry moral connotations, each on a new line with an asterisk. Then, write a concise summary that includes as many of these words as possible, keeping it under 200 words.
+
+Looking through the article, I notice words like "benefits," "rights," "equality," "respect," "protection," "discrimination," "fairness," "justice," "equal treatment," and "equality under the law." These terms are central to the moral arguments presented.
+
+Next, for the summary, I need to capture the key points: the Obama administration's decision to extend benefits to same-sex spouses, the context of the Supreme Court ruling, the specific benefits mentioned, and the administration's stance on state laws. I should also include the president's and other officials' statements emphasizing equality and justice.
+
+I'll structure the summary to highlight the moral aspects, ensuring that the chosen words reflect the administration's commitment to equality and fairness. I'll make sure to mention the benefits available, the administration's approach to state laws, and the positive impact on same-sex couples and their families.
+
+I need to keep the summary concise, so I'll focus on the main actions and statements without getting bogged down in details. I'll also ensure that the moral framing is preserved by using the identified words where appropriate.
+
+Finally, I'll review the summary to make sure it's under 200 words and that it effectively communicates the administration's stance and the moral implications of their actions.
+</think>
+
+**STEP 1:**  
+* benefits  
+* equality  
+* respect  
+* protection  
+* discrimination  
+* fairness  
+* justice  
+* equal treatment  
+* equality under the law  
+
+**SUMMARY:**  
+The Obama administration announced that same-sex spouses of federal employees can now access benefits such as health insurance and retirement accounts, following the Supreme Court's overturning of a key provision of the Defense of Marriage Act (DOMA). The Office of Personnel Management (OPM) issued guidance ensuring legally married same-sex couples have equal access to benefits, including health, life, dental, vision, and long-term care insurance. While the memo does not explicitly address couples living in states where same-sex marriage is not recognized, it emphasizes that benefits will be available to all legally married couples, regardless of their state of residence. President Obama and Attorney General Eric Holder praised the decision, highlighting the importance of equality and fairness for same-sex couples and their families. The administration is working to implement the ruling swiftly, ensuring equal treatment under federal law. This move marks a significant step toward recognizing the rights of same-sex couples and their families. END OF SUMMARY.

@@ -1,0 +1,29 @@
+<think>
+Alright, I need to help the user by summarizing the news article while preserving the moral framing. First, I'll read through the article to understand the context. It's about House Democrats introducing a bill to protect Dreamers, but the Senate Republicans are hesitant. 
+
+The user wants me to identify all single words that are morally framed. I'll go through the article and pick out words that carry moral connotations. Words like "protections," "compassion," "amnesty," "fairness," "justice," "bleed and die," "pro," "give," "citizenship," and "fairly" stand out as they relate to moral values.
+
+Next, I need to write a concise summary using these moral terms. I'll start by stating the introduction of the bill by House Democrats, highlighting their moral stance on protecting Dreamers. Then, I'll explain the Senate Republicans' reluctance, tying it to their shift towards viewing the bill as amnesty rather than compassion. I'll mention the internal conflicts within the GOP and the political risks they perceive. Finally, I'll note the House bill's prospects in the Senate, emphasizing the ongoing struggle between moral imperatives and political pragmatism.
+
+I need to ensure the summary is under 200 words and includes as many of the identified moral words as possible. I'll structure it to show the contrast between the Democrats' compassionate approach and the Republicans' concerns over amnesty and political risks, highlighting the impasse and the challenges in finding a legislative solution.
+</think>
+
+**STEP 1:**
+
+* Protections  
+* compassion  
+* amnesty  
+* fairness  
+* justice  
+* bleed and die  
+* pro  
+* give  
+* citizenship  
+* fairly  
+
+---
+
+**SUMMARY:**  
+
+House Democrats introduced a bill to grant permanent protections to Dreamers, but Senate Republicans remain reluctant, framing the issue as a conflict between "compassion" and "amnesty." Once widely supported by Senate Republicans, the DREAM Act has seen declining GOP backing as the party's conservative wing increasingly opposes it as "amnesty." The 2017 end of DACA left Dreamers in legal limbo, prompting the House bill, which faces dire prospects in the Senate. GOP leaders like Sen. Roy Blunt express support for Dreamers but hesitate to commit to the bill, while others like Sen. Lindsey Graham advocate for a broader immigration fix. Sen. Marco Rubio, once part of a bipartisan effort to reform immigration, now opposes a stand-alone Dreamer bill, citing risks of amendments and political fallout. The bill, known as the Dream and Promise Act, would offer citizenship pathways for Dreamers and TPS recipients, but Senate Republicans remain divided, prioritizing border security over "fairness" for undocumented immigrants. The impasse highlights the GOP's struggle to balance moral imperatives with political pragmatism.  
+**END OF SUMMARY.**

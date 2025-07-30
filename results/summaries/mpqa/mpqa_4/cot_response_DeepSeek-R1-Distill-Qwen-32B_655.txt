@@ -1,0 +1,44 @@
+Alright, I need to tackle this query. The user wants me to summarize a news article while preserving the moral framing. They also want me to first identify all the single words that are morally framed. 
+
+First, I'll read through the article to understand the context. It's about Rumsfeld defending U.S. treatment of detainees in Guantanamo. There's a lot of criticism from international bodies and some support from allies. The moral framing here is about human rights, inhumane treatment, Geneva Convention violations, etc.
+
+For step 1, I need to pick out words that carry moral weight. Words like "outcry," "humanely," "hyperbole," "sensory deprivation," "psychological control," "humiliation," " Geneva Convention," "prisoner of war," "values," "terrorism's first victory," "isolation," "domination," "futility," "restraint," "inhumane," "legal limbo," "intelligence," "terrorists," "jurisdiction." These words are key because they reflect the moral debate around the treatment.
+
+Next, for the summary, I need to condense the article, keeping these moral terms. I'll start by stating Rumsfeld's defense, mention the criticism from organizations, the release of photos, the techniques used, and the stance from different countries. I'll also include the legal aspects and the lack of prisoner of war status. I have to keep it under 200 words, so I'll be concise but include all the main points with the moral framing intact.
+
+I should ensure that the summary flows well and covers all critical aspects without losing the moral perspective. It's important to highlight the debate over values, the techniques used, and the legal implications. I'll make sure to include the support from some countries and the criticism from others to show the divided opinion.
+
+Finally, I'll structure the summary to start with Rumsfeld's defense, move through the criticisms, mention the support, touch on the legal issues, and end with the ongoing debate. This way, the moral framing is preserved throughout the summary.
+</think>
+
+**STEP 1:**  
+* Outcry  
+* Humanely  
+* Hyperbole  
+* Sensory deprivation  
+* Psychological control  
+* Weaken  
+* Interrogations  
+* Geneva Convention  
+* Humiliation  
+* Manacles  
+* Surgical masks  
+* Goggles  
+* Black tape  
+* Spectacle  
+* Prisoners of war  
+* Values  
+* Uphold  
+* Terrorism's first victory  
+* Isolation  
+* Domination  
+* Futility  
+* Restraint  
+* Inhumane  
+* Legal limbo  
+* Intelligence  
+* Terrorists  
+* Jurisdiction  
+
+**SUMMARY:**  
+Secretary of Defense Donald Rumsfeld defended U.S. treatment of detainees in Guantanamo Bay, dismissing international criticism as "hyperbole." He claimed prisoners were treated "humanely" and denied allegations of sensory deprivation or psychological control. Critics accused the U.S. of violating the Geneva Convention by releasing photos showing prisoners in restraints, with their eyes covered and mouths masked. Organizations like Amnesty International and the International Committee of the Red Cross condemned the treatment, calling for prisoner of war status and legal access. Rumsfeld argued that restraining dangerous prisoners was necessary for safety, not inhumane. Allies like Britain and Spain supported the U.S., while others, including the EU and Netherlands, urged adherence to Geneva Convention protections. The detainees remain in "legal limbo," with no formal designation as prisoners of war. Rumsfeld emphasized extracting intelligence to prevent attacks, though no interrogations had occurred. The moral debate over values, human rights, and the treatment of prisoners continued as legal challenges arose. END OF SUMMARY.

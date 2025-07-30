@@ -1,0 +1,28 @@
+Alright, so I'm trying to help the user with their query. They want me to act as a news summarizer and a moral expert. The task involves two steps: first, identifying morally framed words in the given article, and then summarizing the article while preserving those moral frames.
+
+First, I need to understand what morally framed words are. These are words that carry a moral judgment or implication, such as "enlisted," "henchmen," "garbage," "surreal," "accused," "lying," "scandals," "integrity," and "aggressive." These words aren't just neutral; they convey a judgment or evaluation.
+
+Looking at the article, Sen. Ted Cruz is accusing Donald Trump of using the National Enquirer and his political henchmen. So "enlisted" and "henchmen" are definitely moral terms here. Cruz calls the attacks "garbage," which is a strong moral statement. The exchange on CNN is described as "almost surreal," which implies something out of the ordinary and perhaps morally questionable. The columnist accuses Amanda Carpenter of an affair, so "accused" is another moral term. Trump refers to Cruz as "Lyin' Ted," which is a clear moral judgment. The Enquirer's reputation is tied to breaking sex scandals, so "scandals" is a moral frame. The spokesperson talks about the "integrity" of their reporting and "aggressive" reporting, which are also moral terms.
+
+Now, for the summary. I need to condense the article into 200 words, keeping those moral words. The key points are Cruz's accusations against Trump, the Enquirer's story, Cruz's denial, the CNN exchange, Trump's response denying involvement, the Enquirer's reputation, and their spokesperson's statement.
+
+I'll start by stating Cruz's accusation, using "enlisted" and "henchmen." Then mention the Enquirer's story and Cruz's denial, using "garbage." Include the surreal exchange on CNN where Cohen accused Carpenter. Then Trump's response, using "lying" and his denial of involvement. Finally, note the Enquirer's history and their spokesperson's defense of their integrity and aggressive reporting.
+
+I need to make sure the summary flows well and stays within the word limit. I'll check each sentence to ensure it's concise and includes the necessary moral terms without making it too verbose.
+
+Putting it all together, the summary should cover all these points succinctly while preserving the moral framing. I'll make sure each moral word is included where appropriate without overcomplicating the sentences.
+</think>
+
+**STEP 1:**  
+* enlisted  
+* henchmen  
+* garbage  
+* surreal  
+* accused  
+* lying  
+* scandals  
+* integrity  
+* aggressive  
+
+**SUMMARY:**  
+Sen. Ted Cruz accused Donald Trump of enlisting "his friends at the National Enquirer and his political henchmen" to spread false allegations about extramarital affairs. The tabloid published a story claiming Cruz had affairs with five women, which he denied, calling the attacks "garbage." A surreal CNN exchange saw Cruz's former director accused of an affair with him. Trump denied involvement, calling Cruz "Lyin' Ted" and distancing himself from the National Enquirer. The Enquirer, known for breaking scandals, denied Trump's influence, stating their reporting is guided by their own integrity and aggressive journalism. END OF SUMMARY.

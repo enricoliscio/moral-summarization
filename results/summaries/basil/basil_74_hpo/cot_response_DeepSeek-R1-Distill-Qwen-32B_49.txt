@@ -1,0 +1,33 @@
+Okay, so the user has provided a query where they want me to act as a news summarizer assistant and a moral expert. They've given a news article about Kathy Griffin and her controversial photo shoot. The task is to first identify all the single words that are morally framed, then write a summary preserving those moral framings.
+
+First, I need to understand what morally framed words mean. These are words that carry a moral judgment or implication, such as "controversial," "shocking," "exaggerated," etc. I should go through the article and pick out each of these words.
+
+Looking at the article, the first morally framed word I see is "controversial." It's used twice, once about the images and once about the photo shoot. Then, "shocking" describes her career. "Horribly wrong" is another one. "Exaggerated" comes from the Shields' representative. "Hope she stays out of jail" implies a moral judgment about potential legal issues. "Revealing" might not be strictly moral, but in context, it's about appropriateness. "Violence" is clearly a moral issue. "Condone" and "condone" again relate to approval or disapproval. "Mocking" has a negative connotation here. "Threats" and "highest priority" from the Secret Service response are also moral in the context of security and duty.
+
+Now, I need to list these words. I'll make sure each is on a new line with a star.
+
+Next, for the summary, I have to condense the article while keeping as many of these moral words as possible. The summary needs to be under 200 words and include the key points: Griffin's photo with the fake Trump head, her apology, the Secret Service's response, and the context of her career and motivations.
+
+I should start by mentioning the controversy, her holding the fake head, the photographers involved, her explanation as art, the Twitter reaction, her apology, and the Secret Service's statement. I'll ensure that words like "controversial," "shocking," "exaggerated," "condone," "mocking," "threats," and "priority" are included.
+
+I need to make sure the summary flows well and accurately reflects the article's content while preserving the moral framing. I'll check the word count to ensure it's within the limit and that all key points are covered without being too verbose.
+
+Finally, I'll structure the response with STEP 1 listing the words and then the SUMMARY section, ending with the required tokens. I should double-check that all morally framed words are included and that the summary is concise and accurate.
+</think>
+
+**STEP 1:**  
+* Controversial  
+* Shocking  
+* Wrong  
+* Exaggerated  
+* Hope  
+* Jailed  
+* Revealing  
+* Violence  
+* Condone  
+* Mocking  
+* Threats  
+* Priority  
+
+**SUMMARY:**  
+Kathy Griffin sparked controversy with a photo shoot featuring a fake bloodied Donald Trump head, described as an "expression of art" inspired by Trump’s comments about Megyn Kelly. Griffin, known for her provocative humor, faced backlash for the images, which some deemed "horribly wrong" and "exaggerated." Her representative acknowledged she "went above and beyond," hoping she avoids legal trouble. Griffin later apologized, stating she "went way too far," though she defended her right to mock Trump. The U.S. Secret Service responded, emphasizing their commitment to protecting the president, with a tweet highlighting their "robust protective intelligence division." Griffin’s actions reignited debates about free speech, art, and the boundaries of political satire. END OF SUMMARY.

@@ -1,0 +1,39 @@
+Okay, so I'm trying to help the user with their query. They want me to act as a news summarizer assistant and a moral expert. The task is to summarize a given news article while preserving the moral framing. 
+
+First, I need to understand what the user is asking for. They provided a news article about Ken Cuccinelli being harassed by Martin O'Malley at a bar. The user wants me to do two things: first, identify all the morally framed words in the article, and second, write a summary that includes as many of those words as possible.
+
+Alright, let me break it down. The first step is to go through the article and pick out words that carry a moral judgment. Words like "harassed," "shame-invoking," "screaming," "cussing," "bulging," "assault," "deescalate," "sad," "shocking," "odd," "cages," "fascist," "disgusting," "harassment," "promoting." These words have strong moral connotations, indicating disapproval or criticism.
+
+Next, I need to write a concise summary, keeping it under 200 words. I should include these morally framed words to maintain the original tone. The summary should cover the main points: who was involved, what happened, the reactions, and the implications.
+
+I should make sure the summary flows well and accurately reflects the article's content while emphasizing the moral aspects. I'll start by stating the incident, then describe the confrontation, the reactions from both parties, and the broader implications, especially the celebration of the harassment by some on the left.
+
+I need to be careful not to add any personal opinions, just present the facts with the moral framing intact. Also, I should avoid any markdown and keep the language clear and straightforward.
+
+Let me draft the summary, making sure to include all the key points and the morally charged words. I'll check the word count to ensure it's within the limit. Once done, I'll present the summary after the specified tokens.
+
+I think that's a solid approach. Now, I'll proceed to list the morally framed words and then write the summary accordingly.
+</think>
+
+**STEP 1:**  
+* harassed  
+* passion-laced  
+* shame-invoking  
+* tirade  
+* screaming  
+* cussing  
+* bulging  
+* assault  
+* deescalate  
+* sad  
+* shocking  
+* odd  
+* cages  
+* fascist  
+* disgusting  
+* harassment  
+* promoting  
+
+**SUMMARY:**  
+Acting Homeland Security Deputy Secretary Ken Cuccinelli was publicly harassed by Maryland Gov. Martin O’Malley at an Irish pub in Washington, D.C., during an event for Gonzaga College High School graduates. O’Malley unleashed a passion-laced, shame-invoking tirade against Cuccinelli over the Trump administration’s immigration policies, including the caging of refugee children. O’Malley’s behavior was so intense that his neck veins were bulging, and he inspired others to join in the cussing assault. Cuccinelli attempted to deescalate the situation but was followed by O’Malley, who confronted him face to face. The situation was described as sad and shocking, with O’Malley’s behavior not new to those who knew him. O’Malley later defended his actions, calling Cuccinelli the son of immigrant grandparents who cages children for a fascist president. This incident is notable as it marks the first time a prominent Democrat has publicly harassed a Trump administration official, with some on the left celebrating the harassment. Cuccinelli criticized the behavior, stating it was disgusting and unbecoming of a public figure.  
+**END OF SUMMARY.**

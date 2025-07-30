@@ -1,0 +1,12 @@
+Okay, so I need to help this user by summarizing a news article while preserving the moral framing. The user provided the article and a list of morally charged words. They want the summary to include as many of those words as possible, and it should be under 200 words. 
+
+First, I'll read the article to understand the main points. Roy Moore is suing The Washington Post for their report about him pursuing sexual relationships with teenagers when he was in his 30s. The article mentions several women who came forward, and Moore denies the allegations, calling them false and part of an attack on his campaign. He also mentions ongoing investigations.
+
+Now, I need to identify the key morally framed words: pursued, attack, attacks, false, untrue, touched, misconduct, contact, took, undressed, moved, touch, offenses, harassed, assaulted, forced, protection.
+
+I should structure the summary to include these words. Start by stating Moore's decision to sue, then mention the allegations, his denial, the impact on his campaign, and his claims of an attack. Make sure to include the specific accusations like pursuing, sexual contact, and the age of the minor. Also, note that Moore claims the reports are false and part of an attack on his reputation.
+
+I should keep the summary concise, ensuring it's under 200 words. Let me draft it, making sure to include all the necessary moral terms without making it too lengthy. I'll check the word count to stay within the limit. Finally, I'll end with the specified tokens.
+</think>
+
+SUMMARY: Alabama Senate candidate Roy Moore has vowed to sue The Washington Post over its report alleging he pursued sexual relationships with teenagers, including a 14-year-old, when he was in his 30s. Moore called the claims "false and untrue," accusing the Post of launching an "attack" on his character to derail his campaign. The report, based on interviews with over 30 people, includes allegations of sexual contact with minors and misconduct. Moore denies the allegations, labeling them "fake news" and emphasizing his "highest regard for the protection of young children." He also claims there are ongoing investigations into the Post's motivations. Several Republicans have withdrawn their endorsements of Moore following the report. END OF SUMMARY.

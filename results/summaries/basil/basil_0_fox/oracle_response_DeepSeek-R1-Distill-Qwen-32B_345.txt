@@ -1,0 +1,16 @@
+Alright, so I need to help the user summarize this news article while preserving the moral framing. The user is a news summarizer assistant and a moral expert, so they want the summary to include the specific morally framed words: free, fair, wins, together.
+
+First, I'll read through the article to understand the key points. Glenn Beck is speaking at CPAC, criticizing progressivism. He uses a chalkboard, which is a key prop, and his speech is well-received. He mentions that life isn't fair and that sometimes the bad guy wins. He rejects the idea of the Republican Party expanding to include progressives. The event is part of a broader conservative movement, and Beck's influence is tied to the Tea Party and his 9/12 Project.
+
+Now, I need to make sure the summary includes the moral words. "Free" can be tied to Beck's statement about America being an idea that sets people free. "Fair" is when he says life isn't fair. "Wins" comes from his point that sometimes the bad guy wins. "Together" can be used in the context of people coming together for the 9/12 march.
+
+I'll structure the summary to highlight Beck's main arguments, his use of the chalkboard, his rejection of progressive inclusion, his personal statements, and the event's significance. I'll ensure each of the moral words is included naturally.
+
+I also need to keep the summary under 200 words. Let me draft it, making sure each point flows and includes the required terms without being forced. After drafting, I'll check the word count and adjust as needed to stay within the limit.
+
+Finally, I'll present the summary clearly, starting with "SUMMARY:" and ending with "END OF SUMMARY." to meet the user's formatting requirements.
+</think>
+
+SUMMARY:  
+Glenn Beck, a prominent Fox News host, delivered a fiery keynote speech at the Conservative Political Action Conference (CPAC), criticizing "progressivism" as the root of America's problems. Using his signature chalkboard, Beck emphasized his belief that progressivism is harming the nation. He rejected the idea of the Republican Party expanding to include progressives, calling it "not that simple" and dismissing the notion with a humorous "What is this? A circus?" Beck argued that America is "an idea that sets people free," not a "clown show." He also shared insights from his troubled past, stating, "People need to understand that life is not fair. The bad guy sometimes wins." Beck's speech resonated with attendees, many of whom saw him as a leader in the conservative movement. His growing influence coincided with the rise of the Tea Party and populist anger toward Washington. Beck's 9/12 Project, which promotes core American values, inspired a national march, showcasing unity across races, religions, and political affiliations. Cynthia Burgiss, a student who attended the march, praised Beck as a "relatable... everyday guy," crediting him for inspiring the movement. Beck's message emphasized freedom, fairness, and unity, leaving a lasting impact on the conservative audience.  
+END OF SUMMARY.

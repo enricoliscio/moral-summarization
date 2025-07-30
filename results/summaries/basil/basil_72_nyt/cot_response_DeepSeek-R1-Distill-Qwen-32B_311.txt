@@ -1,0 +1,33 @@
+<think>
+Okay, so I need to help the user by summarizing the given news article while preserving the moral framing. First, I should understand the user's request clearly. They want a news summary where the moral elements from the original text are kept intact. The user also provided a specific structure: first, identify morally framed words, then write the summary using those words.
+
+Looking at the article, it's about President Trump selecting a new FBI director, with Joseph Lieberman as a finalist. There are several moral implications here, like the integrity of the FBI, conflicts of interest, and the political appointee's suitability.
+
+In STEP 1, I need to extract all single words that carry moral connotations. Words like "alarm," "fluid," "leaks," "emblem," "integrity," "special," "reputation," "damage," "morale," "chemistry," "advantage," "conflict-of-interest," and "credibility" stand out. These words reflect the ethical concerns and the political dynamics involved.
+
+For the summary, I need to condense the article into 200 words, making sure to include these morally framed words. I should mention Trump's consideration of Lieberman despite staff concerns, the lack of law enforcement experience, and the potential issues like age and conflicts of interest. Also, highlight the preference for internal candidates and the political implications of the choice.
+
+I need to ensure the summary flows well, covers the key points, and maintains the moral perspective from the original article. I'll start by stating Trump is close to choosing a successor, mention Lieberman as a finalist, note the staff's concerns, and discuss the possible issues and alternatives. I'll conclude with the political implications and the White House's divided stance.
+
+Let me check the word count to make sure it's under 200. Also, I should use the morally framed words identified earlier to maintain the ethical context. I think that covers all the necessary points without going over the limit.
+</think>
+
+**STEP 1:**
+
+\*alarm  
+\*fluid  
+\*leaks  
+\*emblem  
+\*integrity  
+\*special  
+\*reputation  
+\*damage  
+\*morale  
+\*chemistry  
+\*advantage  
+\*conflict-of-interest  
+\*credibility  
+
+**SUMMARY:**  
+
+President Trump is nearing his self-imposed deadline to select a new F.B.I. director, with Joseph I. Lieberman, a former Democratic senator, emerging as a finalist. However, his staff has expressed concerns about Lieberman’s lack of law enforcement experience and his advanced age, which could complicate a 10-year term. Lieberman’s ties to a firm where Trump’s lawyer works also raise potential conflicts of interest. Trump has emphasized the importance of the F.B.I.’s integrity and reputation, which have been damaged by recent controversies. Some aides and law enforcement officials advocate for an internal candidate to restore morale, with Acting Director Andrew McCabe and others under consideration. Lieberman’s political background and support for Trump’s previous picks, like Michael Flynn, have drawn criticism from Democrats, while Republicans like John McCain view him favorably. Trump’s decision remains fluid, with some advisers suggesting Lieberman might serve a short term to bolster Trump’s credibility. END OF SUMMARY.

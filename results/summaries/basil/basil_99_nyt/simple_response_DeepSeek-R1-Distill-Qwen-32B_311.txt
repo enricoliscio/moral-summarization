@@ -1,0 +1,15 @@
+<think>
+Alright, I need to help the user by summarizing the given news article while preserving the moral framing. The user specified that I should act as a news summarizer and a moral expert, so I need to ensure the summary reflects the ethical and political implications as presented in the article.
+
+First, I'll read through the article to understand the key points. The main event is the House Intelligence Committee hearing where Republicans demanded the resignation of Chairman Adam Schiff. The context is the aftermath of Robert Mueller's report on Russian interference in the 2016 election. Republicans accused Schiff of McCarthyism, while Schiff defended his stance, calling certain actions by Trump's associates immoral and unethical.
+
+I should note the moral arguments from both sides. Republicans see Schiff as overstepping, while Democrats, including Schiff, argue that the committee's work is necessary for accountability. The article also mentions the contrast with the Senate committee's more methodical approach.
+
+Now, I need to condense this into a concise summary under 200 words. I'll focus on the conflict between Republicans and Schiff, the moral accusations, and the implications for the committee's work. I'll ensure the summary reflects the ethical dimensions without getting bogged down in details.
+
+I should start with the hearing, the demand for Schiff's resignation, and the underlying conflict over Mueller's findings. Then, highlight Schiff's defense and the moral stance he took. Mention the Republican accusations and the broader implications for accountability and integrity in Congress.
+
+Finally, I'll end with the contrast to the Senate committee to show the difference in approaches. Keeping it under 200 words while capturing all these elements is crucial. I'll make sure each sentence adds value and maintains the moral framing the author intended.
+</think>
+
+SUMMARY: The House Intelligence Committee hearing, following the release of Robert Mueller's report, devolved into a partisan clash over the chairman, Adam Schiff, with Republicans demanding his resignation. They accused him of McCarthyism, likening him to Senator Joseph McCarthy, while Schiff defended his stance, calling certain Trump administration actions "immoral, unethical, and unpatriotic." Republicans argued that Mueller's findings exonerated Trump, while Democrats, including Schiff, maintained that the committee's work was essential to hold Trump accountable. Schiff emphasized the seriousness of potential collusion with Russia, while Republicans accused him of spreading false information. The hearing highlighted the deep political divide in Congress, with Democrats supporting Schiff and Republicans attacking him. Meanwhile, the Senate Intelligence Committee continued its investigation more methodically. The conflict underscored the ongoing tension over accountability and integrity in the wake of Mueller's probe. END OF SUMMARY.

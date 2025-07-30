@@ -1,0 +1,17 @@
+<think>
+Alright, so the user has given me a query where I need to act as a news summarizer and a moral expert. The task is to summarize a news article while preserving the moral framing the author used. The article is about Rev. Franklin Graham's event being canceled in Liverpool due to his views on marriage and homosexuality. 
+
+First, I need to understand the key points of the article. The main points are: Graham was scheduled to speak in Liverpool, but the venue canceled the event because his views on marriage being between one man and one woman are incompatible with their values. There were protests, including from the Liverpool Labour LGBT Network, which called him a homophobic hate preacher. Graham responded by saying he's not there to condemn but to present the Gospel, acknowledging homosexuality as a sin but emphasizing that everyone is a sinner. He also defended free speech and religious liberty, stating his message is inclusive and from love.
+
+Next, I need to identify the morally framed words the author used: homophobic, hate, sin, guilty, need, penalty, death, separation, inclusive, speak, love, welcome. I have to make sure these words are preserved in the summary.
+
+Now, I should structure the summary to include these words while keeping it concise, around 200 words. I'll start by mentioning the cancellation of the event because of his views. Then, note the protests and the group's criticism. Include Graham's response, his stance on homosexuality as a sin, and his emphasis on love and inclusion. Also, mention his defense of free speech and religious liberty.
+
+I need to ensure the summary flows logically, covering the event, the reasons for cancellation, the protests, Graham's response, and his message. I should use the moral terms to frame the summary accurately as per the author's perspective.
+
+Let me draft the summary, making sure to include all the key points and the specified moral words. I'll check the word count to stay under 200 words. Also, I'll end with the required tokens.
+
+Finally, I'll review the summary to ensure it captures the moral framing and all necessary details without being too verbose.
+</think>
+
+SUMMARY: Rev. Franklin Graham, an evangelist and son of Billy Graham, was scheduled to speak in Liverpool but had his event canceled due to his biblical view of marriage as a union between one man and one woman, which organizers deemed "incompatible with our values." Protests, including from the Liverpool Labour LGBT Network, criticized Graham as a "homophobic hate preacher." Graham responded with an open letter to the LGBTQ community, stating he came to share the Gospel, not to condemn. He acknowledged homosexuality as a sin but emphasized that all are sinners in need of forgiveness, with the penalty being spiritual death and separation from God. Graham defended free speech and religious liberty, insisting his message was inclusive and born of love, welcoming LGBTQ individuals to attend his events. END OF SUMMARY.

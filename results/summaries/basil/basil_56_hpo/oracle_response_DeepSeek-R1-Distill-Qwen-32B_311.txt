@@ -1,0 +1,20 @@
+Okay, so I need to help the user summarize a news article while preserving the moral framing. Let me start by reading the article carefully. It's about Senator Marco Rubio outlining his foreign policy vision, comparing it to President Kennedy and criticizing President Obama and Hillary Clinton. 
+
+The user mentioned that the summary should include as many morally framed words as possible. The list provided includes words like threats, understood, preventing, promoting, weakness, friend, danger, enemy, disagrees, believing, building, ceding, protection, clarity, help, negligent, trapped, destruction, favor. 
+
+I need to make sure these words are included in the summary. The summary should be concise, under 200 words, and start with "SUMMARY:" and end with "END OF SUMMARY.".
+
+First, I'll identify the key points from the article. Rubio is advocating for a stronger military budget and more assertive US presence globally. He contrasts this with Obama's approach, which he believes led to a loss of influence. He mentions the Rubio Doctrine based on three principles: American strength, economic protection, and moral clarity. He opposes Obama's policies on Cuba, Iran, Syria, and Ukraine. He also criticized Hillary Clinton's tenure and commented on the Iraq invasion.
+
+I need to incorporate the moral terms. For example, using "threats" when talking about the changing global landscape. "Understood" when referencing Kennedy's perspective. "Preventing" and "promoting" war. "Weakness" as a friend of danger and enemy of peace. "Disagrees" with Obama's approach. "Believing" in stepping back. "Building" at home and "ceding" leadership. "Protection" of the economy and "clarity" on values. "Help" the Castro regime. "Negligent" in Hillary's role. "Trapped" in the past. "Favor" in the Iraq decision.
+
+I should structure the summary to include these terms naturally. Start with Rubio's vision, mention Kennedy, contrast with Obama, outline the three principles, mention his oppositions, criticize Clinton, and touch on the Iraq point. 
+
+Let me draft this, ensuring each moral term is included without making it forced. I'll check the word count to stay under 200 words. 
+
+Wait, I need to make sure the summary flows well and isn't just a list of terms. Each sentence should convey a point while incorporating the moral language. For example, when talking about Obama's approach, use "disagrees" and "believed." When discussing the Doctrine, include "protection" and "clarity." 
+
+I think I have a good structure. Now, I'll write the summary, ensuring all key points and moral terms are included concisely.
+</think>
+
+SUMMARY: U.S. Sen. Marco Rubio (R-Fla.) presented a foreign policy vision, invoking President John F. Kennedy, advocating for a stronger U.S. military and more assertive global presence to prevent war and promote peace. He criticized President Obama for believing American strength was over-engaged and for ceding leadership to other nations, arguing weakness is a friend of danger and enemy of peace. Rubio’s "Rubio Doctrine" emphasizes American strength, economic protection, and moral clarity. He opposes Obama’s policies on Cuba, Iran, Syria, and Ukraine, and criticized Hillary Clinton’s tenure as secretary of state as ineffective and negligent. Rubio also stated he would not have favored the 2003 Iraq invasion if Saddam Hussein lacked weapons of mass destruction, contrasting with Jeb Bush’s support. Rubio’s speech highlights timeless truths, rejecting the idea of being trapped in the past, while advocating for a proactive, morally grounded foreign policy to counter global threats. END OF SUMMARY.

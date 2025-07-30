@@ -1,0 +1,38 @@
+Alright, so I need to help the user with their query. They provided a news article about Japan and the U.S. differing on global warming issues, specifically regarding the Kyoto Protocol. The user wants me to act as a news summarizer and a moral expert. My task is to first identify all the single words that are morally framed in the article and then write a summary preserving those moral framings.
+
+First, I should understand what morally framed words are. These are words that carry a moral judgment or implication, such as "reject," "harm," "criticized," etc. They convey a sense of right or wrong, good or bad.
+
+Looking at the article, I need to go through each sentence and pick out words that have a moral connotation. Let me start reading through the article again.
+
+The article mentions that Bush "rejected" the Kyoto Protocol, so "rejected" is a moral word because it implies disapproval. It also says that Bush's plan was "criticized" by environmentalists, so "criticized" is another moral word. The plan is seen as "ineffective," which is a negative judgment. The U.S. greenhouse gas emissions will "continue to rise," which is a negative outcome. The Japanese leader hopes for "further efforts," implying that the U.S. isn't doing enough. The U.S. rejected the protocol because it would "hurt" economic growth, so "hurt" is a moral word. They "agreed" to cooperate, which is a positive action. The plan is "voluntary" versus "mandatory," which have different moral implications. The technologies will "help" both environment and economy, so "help" is positive.
+
+Now, compiling all these words: rejected, criticized, ineffective, continue, hurt, agreed, voluntary, mandatory, help.
+
+Next, I need to write a summary that includes as many of these moral words as possible. The summary should be concise, under 200 words, and capture the essence of the article while preserving the moral framing.
+
+I'll start by stating that Japan and the U.S. differ on the Kyoto Protocol. Mention Bush's rejection and his alternative plan. Note the criticism of the plan as ineffective. Include Koizumi's support for the protocol and his call for more U.S. efforts. Highlight Bush's concern about economic growth. Then, note their agreement to cooperate on new technologies that help both environment and economy.
+
+I need to make sure the summary flows well and includes all the key points with the moral words highlighted. Let me structure it step by step, ensuring each moral word is appropriately placed.
+
+I think that's a solid approach. Now, I'll draft the summary accordingly, making sure it's within the word limit and includes all the identified moral words.
+</think>
+
+**STEP 1:**
+
+* Rejected  
+* Criticized  
+* Ineffective  
+* Continue  
+* Hurt  
+* Agreed  
+* Voluntary  
+* Mandatory  
+* Help  
+
+---
+
+**SUMMARY:**  
+
+Japan and the U.S. differ over global warming strategies, with Bush rejecting the Kyoto Protocol and proposing an alternative plan. Environmentalists criticize the U.S. plan as ineffective, warning that emissions will continue to rise. Koizumi supports the Kyoto Protocol and calls the U.S. proposal "constructive," while urging further efforts. Bush argues the Kyoto Pact would hurt U.S. economic growth. Both leaders agreed to cooperate on new technologies to address global warming, emphasizing mutual benefits for the environment and economy.  
+
+**END OF SUMMARY.**

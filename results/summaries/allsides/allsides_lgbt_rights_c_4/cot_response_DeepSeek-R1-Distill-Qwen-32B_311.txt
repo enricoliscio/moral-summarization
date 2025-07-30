@@ -1,0 +1,30 @@
+Okay, so the user has given me a query where they want me to act as a news summarizer and a moral expert. The task is to summarize a news article while preserving the moral framing. They've provided specific steps: first, identify all single words that are morally framed, and then write a concise summary using those words.
+
+First, I need to understand what "morally framed" means. It refers to words that carry a moral judgment or implication, such as "criticized," "violence," "rights," etc. I should go through the article and pick out these words.
+
+Looking at the article, the key morally charged words include "criticized," "violence," "rights," "boycott," "offended," "abuses," "solidarity," "equality," "awards," and "decorations." These words carry the moral weight of the article, so they need to be highlighted in the first step.
+
+Next, for the summary, I need to condense the article into a 200-word piece, making sure to include as many of these moral words as possible. The summary should cover the main points: Obama meeting with activists, the Russian laws, the criticism from human rights groups, Obama's stance against the laws, the canceled meeting with Putin, and the response from Human Rights First.
+
+I should structure the summary to flow logically, starting with Obama's meeting, then the context of the Russian laws, the criticism, the canceled meeting, and the call for solidarity. I need to ensure that each morally framed word is appropriately placed to maintain the article's moral tone.
+
+I also need to remember to separate the steps clearly, starting with "STEP 1:" and then moving on to "SUMMARY:" after listing all the moral words. Keeping the summary concise is crucial, so I'll focus on the essential details without getting bogged down in minor points.
+
+Finally, I'll end the summary with "END OF SUMMARY." to comply with the user's instructions. I should double-check that all the morally framed words are included and that the summary accurately reflects the article's moral framing.
+</think>
+
+**STEP 1:**  
+* Criticized  
+* Violence  
+* Rights  
+* Boycott  
+* Offended  
+* Abuses  
+* Solidarity  
+* Equality  
+* Awards  
+* Decorations  
+
+**SUMMARY:**  
+President Obama will meet with lesbian, gay, bisexual, and transgender (LGBT) rights activists in Russia during the G-20 summit, following international criticism of Russia's laws banning the promotion of gay relationships to minors and adoption by countries allowing same-sex marriages. Human rights groups report increased violence against Russia's LGBT community since the laws were enacted. While Obama opposes the laws, he has not supported boycotting the 2014 Winter Olympics in Sochi. The meeting with activists aims to show solidarity with those targeted by Russia's crackdown on civil society and LGBT rights. The meeting comes after Obama canceled a planned meeting with Russian President Vladimir Putin due to disputes, including Russia's asylum for Edward Snowden and its blocking of UN action on Syria. Putin defended his government's treatment of LGBT individuals, stating that they have "normal relations" and are sometimes awarded state prizes. The White House's decision to meet with activists has been praised by Human Rights First, which urged Obama to also speak out against Russia's human rights abuses.  
+**END OF SUMMARY.**

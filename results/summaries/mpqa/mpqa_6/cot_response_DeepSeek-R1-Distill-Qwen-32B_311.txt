@@ -1,0 +1,24 @@
+Alright, so the user has given me a task to summarize a news article while preserving the moral framing. They also want me to identify the morally framed words first. Let me break this down.
+
+First, I need to understand what morally framed words are. These are words that carry a moral connotation, such as 'commitment,' 'call,' 'expect,''stress,' etc. They convey a sense of duty, responsibility, or moral obligation.
+
+Looking at the news article, I'll go through each sentence to pick out these words. The article mentions Brazil and Germany expressing interest in implementing the Kyoto Protocol. Words like 'interest' might not be morally charged, but 'implement' could be, as it's about taking action. 
+
+Next, they 'call on' other countries, which is definitely a moral framing. 'Ratify' and 'enforce' are also strong moral terms. The document'states' their intentions, which is more factual, but 'expect' to present common positions adds a moral expectation. 'Stresses' the importance of the program, which again is a moral emphasis.
+
+Now, for the summary. I need to condense the article into under 200 words, keeping the morally framed words. I should start by stating the countries' commitment, then their call to action, the areas of cooperation, and the emphasis on the forest program.
+
+I need to make sure the summary flows well and includes all key points without losing the moral tone. Let me structure it step by step, ensuring each morally framed word is included where appropriate.
+</think>
+
+**STEP 1:**  
+* Implementation  
+* Call  
+* Ratify  
+* Enforce  
+* Expect  
+* Stress  
+
+**SUMMARY:**  
+Brazil and Germany have reaffirmed their commitment to implementing the Kyoto Protocol by September, ahead of the Sustainable Development Summit (Rio+10) in South Africa. In a joint document, they call on other countries to ratify and enforce the protocol, emphasizing global cooperation on environmental and sustainable development issues. Both nations also express their intent to expand collaboration in these areas and present unified positions at the Rio+10 meeting. Additionally, they stress the importance of the Pilot Program for Protection of Tropical Forests (PPG-7), with Germany set to participate actively. This partnership underscores their shared dedication to addressing climate change and promoting sustainable practices.  
+**END OF SUMMARY.**

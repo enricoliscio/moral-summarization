@@ -1,0 +1,12 @@
+Okay, so I need to help the user summarize a news article while preserving the moral framing. The user provided the article and the list of morally framed words. First, I'll read through the article to understand the main points. Trump is talking about ending birthright citizenship, citing the 14th Amendment and some criticism. He's using morally charged words like "unfair" and "crime." 
+
+I should make sure to include those words in the summary. The user wants the summary to be concise, under 200 words, and after a "SUMMARY:" token. I need to capture Trump's stance, the reactions from both parties, and the legal implications. 
+
+I'll start by mentioning Trump's vow to end birthright citizenship, using "unfair" and "ended." Then, note his argument about the 14th Amendment and the reference to Harry Reid. I should include the criticism from Democrats and the mixed reactions from Republicans. Also, mention the legal challenges, like the need for a constitutional amendment. 
+
+I need to keep the summary tight, ensuring all key points are included without going over the word limit. I'll structure it to flow logically, from Trump's announcement, the reactions, and the legal debate. Make sure to highlight the moral framing words throughout. 
+
+Let me draft the summary, checking each sentence to include the necessary terms and keep it within 200 words. I'll avoid adding any extra information not present in the article. Finally, I'll end with "END OF SUMMARY." as instructed.
+</think>
+
+SUMMARY: President Trump vowed to end birthright citizenship, calling it "unfair" and costing the country billions, while citing the 14th Amendment and claiming it does not apply to children of non-citizens. He criticized former Senate Leader Harry Reid for reversing his stance on the issue, referencing Reid's 1993 comments that birthright citizenship was "insane." Trump suggested using an executive order to end the policy, arguing it encourages illegal immigration and rewards those who "come" to the U.S. to give birth. However, legal experts argue changing the policy would require a constitutional amendment. Republicans were divided, with some like Lindsey Graham introducing legislation to "restrict" birthright citizenship, while others, like Paul Ryan, opposed using an executive order. Democrats condemned Trump's move, with Nancy Pelosi calling it an abuse of power. The issue remains contentious, with Trump acknowledging it may ultimately be "settled" by the Supreme Court. END OF SUMMARY.

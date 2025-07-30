@@ -1,0 +1,28 @@
+Alright, so the user has given me a query where I need to act as a news summarizer and a moral expert. The task is to summarize a news article while preserving the moral framing. Let me break this down.
+
+First, I need to understand the structure of the query. They provided a news article about President Cardoso's response to the US's decision on greenhouse gases. The user has two main steps: identifying morally framed words and then writing a summary that includes as many of those words as possible.
+
+Looking at the article, I should go through each sentence to find words that carry moral connotations. Words like "positive," "important," "control," "ratify," "adhering," and "positive" again stand out. These words imply approval, significance, and the importance of actions taken, which are key elements in moral framing.
+
+Next, I need to summarize the article. The summary should be concise, no more than 200 words, and include the identified morally framed words. I should ensure that the summary reflects the positive stance Cardoso takes on the US's decision, even though they didn't ratify the Kyoto Protocol. It's important to highlight that the US's domestic measures are seen as effective, maintaining the moral approval from the original text.
+
+I also need to make sure the summary starts with "SUMMARY:" and ends with "END OF SUMMARY." I'll structure it to mention Cardoso's positive view, the US's importance in the convention, and his hope that their measures have the same impact as the Kyoto Protocol.
+
+I should double-check that I've included all the key points: who (Cardoso), what (US decision), the moral assessment (positive, important), and the hope for effectiveness. Keeping it clear and within the word limit is crucial.
+
+Finally, I'll review the summary to ensure it flows naturally and accurately represents the original article's moral framing. Making sure that the summary is both informative and maintains the ethical perspective is essential for meeting the user's requirements.
+</think>
+
+**STEP 1:**
+
+* Positive  
+* Important  
+* Control  
+* Ratify  
+* Adhering  
+* Positive  
+
+**SUMMARY:**  
+President Fernando Henrique Cardoso has expressed a positive view of the U.S. decision to implement measures to control greenhouse gases, despite not formally ratifying the Kyoto Protocol. He emphasized that the United States is an important party to the convention and hopes that the domestic measures adopted will have the same positive impact as adhering to the Kyoto Protocol.  
+
+END OF SUMMARY.

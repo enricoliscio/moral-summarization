@@ -1,0 +1,13 @@
+<think>
+Okay, so the user has given me a query where they want me to summarize a news article, preserving the moral framing. They also mentioned that I should act as a news summarizer assistant and a moral expert. The article is about Adam Schiff's defense against calls to step down as chairman of the House Intelligence Committee. 
+
+First, I need to understand the key points of the article. It talks about Schiff's aggressive defense, his comments on Trump's contacts with Russia, the reactions from Republicans like Mike Conaway and Michael Turner, and the support from Democrats. The moral framing here is about integrity, truthfulness, and partisanship.
+
+I should make sure the summary captures Schiff's stance, the accusations from Republicans, and the support from Democrats. It's important to highlight the moral implications, such as whether Schiff is upholding integrity or if he's being partisan. 
+
+I also need to keep the summary under 200 words and structure it clearly. I'll start by introducing Schiff's defense, then mention the accusations against him, followed by the Democrats' support, and end with the ongoing tension. 
+
+I should avoid any markdown and keep the language clear and concise. Let me draft the summary, ensuring all these points are included without exceeding the word limit.
+</think>
+
+SUMMARY: House Intelligence Committee Chairman Adam Schiff defended his leadership against calls for his resignation, accusing Republicans of justifying contacts between the Trump campaign and Russia as "not OK." Schiff emphasized his opposition to the president's son being offered "dirt" from Russia, signaling his intent to continue investigating Trump's ties to the country. Republican Rep. Mike Conaway criticized Schiff for promoting a "demonstrably false" narrative, while Rep. Michael Turner likened Schiff to Joseph McCarthy, accusing him of advancing Russian interests. Democrats, including Rep. Mike Quigley, defended Schiff, calling the GOP's actions an "ambush." The hearing highlighted deep partisan divisions, with Republicans arguing Schiff's investigation has damaged the committee's integrity, while Democrats accused them of undermining the truth. The tension reflects broader debates over integrity, partisanship, and the pursuit of justice in the impeachment context. END OF SUMMARY.

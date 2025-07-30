@@ -1,0 +1,30 @@
+Okay, so the user has given me a query where they want me to act as a news summarizer and moral expert. They provided a news article and specific instructions on how to summarize it, preserving the moral framing. I need to make sure I understand all the requirements before diving in.
+
+First, I should read the news article carefully. It's about Cubans celebrating the return of Venezuelan President Hugo Chavez after a failed coup, comparing it to the Bay of Pigs invasion. The author uses certain morally charged words, and I need to include as many of those as possible in the summary.
+
+The user wants the summary to be after a "SUMMARY:" token and end with "END OF SUMMARY." It should be no longer than 200 words. I should check the word count to ensure it's within the limit.
+
+Looking at the article, the key points are:
+- Thousands of Cubans celebrated Chavez's return.
+- They compared the coup attempt to the Bay of Pigs.
+- Castro supporters gathered at the site of the Bay of Pigs speech.
+- The Communist Party official called it a historic coincidence.
+- Chavez is a close ally of Cuba, which annoys the US.
+- Cuba quickly condemned the coup and supported Chavez's reinstatement.
+- The US denied encouraging the coup.
+- The Bay of Pigs involved a CIA-trained force that failed, leading to many deaths.
+
+I need to include the morally framed words: coup, disastrous, effort, overthrow, invasion, written, going, attempt, reversed, reinstated, encouraged, removal, CIA-trained, invaded, killed.
+
+I should structure the summary to cover the celebration, the comparison, the historical context, the political ties, and the US response. I need to make sure the summary flows well and includes all necessary moral terms without making it too lengthy.
+
+I'll start by mentioning the celebration and the comparison to the Bay of Pigs. Then, I'll talk about the gathering site and the official's comment. Next, I'll explain the political alliance and Cuba's support for Chavez. Then, address the US denial. Finally, provide context on the Bay of Pigs and its outcome.
+
+I should ensure that each sentence includes the moral framing where possible. For example, using "coup attempt," "disastrous," "effort to overthrow," etc.
+
+After drafting, I'll review to make sure all key points are covered and that the summary doesn't exceed 200 words. I'll also check that the moral words are preserved as per the user's request.
+
+Once done, I'll present the summary clearly, making sure it starts and ends with the specified tokens.
+</think>
+
+SUMMARY: Thousands of Cubans celebrated Venezuelan President Hugo Chavez's return to power, drawing parallels between the failed coup against him and the disastrous U.S.-backed Bay of Pigs invasion. Castro supporters, including workers, students, and retirees, gathered at the site where Fidel Castro declared Cuba socialist, marking the anniversary of the 1961 Bay of Pigs invasion. A Communist Party official called the timing a "beautiful historic coincidence," emphasizing Venezuelans' "written page of dignity" in overthrowing the coup attempt. Both Castro and Chavez, leftist revolutionary leaders, see their alliance as a challenge to U.S. influence. Cuba swiftly condemned the coup and supported Chavez's reinstatement by loyalist forces. The Bush administration denied encouraging the coup, while the Bay of Pigs invasion, involving a CIA-trained force, ended in failure, with many killed and captured. END OF SUMMARY.

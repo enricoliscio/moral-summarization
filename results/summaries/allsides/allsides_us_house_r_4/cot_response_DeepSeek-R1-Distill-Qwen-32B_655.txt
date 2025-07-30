@@ -1,0 +1,34 @@
+<think>
+Alright, so I need to help this user by summarizing a news article while preserving the moral framing. Let me start by understanding the query. The user is a news summarizer assistant and a moral expert, so they want a summary that keeps the ethical perspective intact. 
+
+First, the user has provided a detailed news article about a bipartisan resolution against blasphemy laws. They want two things: a list of morally framed words and a summary using those words.
+
+Looking at the article, I need to identify all the single words that carry moral connotations. Words like "condemning," "punishing," "oppress," "persecution," "discrimination," etc., stand out because they relate to ethical issues. I'll list each of these under STEP 1, each on a new line with an asterisk.
+
+Next, the summary needs to encapsulate the article's main points while including as many of these moral terms as possible. I should mention the bipartisan resolution, the lawmakers involved, the countries targeted, and the international response. It's important to highlight the moral stance against using laws to oppress religious minorities and the support from organizations like USCIRF and the UN.
+
+I also need to keep the summary concise, under 200 words. I'll structure it to include the introduction of the resolution, its purpose, examples of countries with problematic laws, and the positive steps taken by some nations to repeal such laws. This way, the moral framing is preserved, and the summary remains informative and ethical in tone.
+
+I should make sure to use the identified moral words naturally within the summary, avoiding any markdown or special formatting as per the user's request. The summary should start with "SUMMARY:" and end with "END OF SUMMARY." to meet the user's formatting requirements.
+
+Finally, I'll review the summary to ensure it flows well and accurately reflects the original article's moral perspective, making sure it's clear and within the word limit.
+</think>
+
+**STEP 1:**  
+* Condemning  
+* Punishing  
+* Oppress  
+* Persecution  
+* Discrimination  
+* Marginalized  
+* Weaponized  
+* Egregious  
+* Violence  
+* Arbiters  
+* Dogma  
+* Sanctioned  
+* Criminalized  
+* Repeal  
+
+**SUMMARY:**  
+Two U.S. congressmen, Rep. Jamie Raskin (D-MD) and Rep. Mark Meadows (R-NC), have introduced a bipartisan resolution (House Resolution 512) condemning "blasphemy" laws, which they argue oppress religious dissent and empower governments to impose religious dogma. The resolution targets laws punishing blasphemy, heresy, and apostasy in over 70 countries, citing examples like Russia’s ban on Jehovah’s Witnesses, China’s detention of Uighur Muslims, and Pakistan’s blasphemy laws. The U.S. Commission on International Religious Freedom (USCIRF) supports the resolution, stating such laws often marginalize religious minorities. The resolution aligns with the UN’s International Covenant on Civil and Political Rights, which upholds religious freedom. It also calls for nations to be designated as "countries of particular concern" if they enforce these laws. Some countries, like Ireland, Greece, and Canada, have already repealed blasphemy laws. The resolution aims to raise awareness of the egregious persecution these laws enable and calls for the release of prisoners held under such charges. END OF SUMMARY.

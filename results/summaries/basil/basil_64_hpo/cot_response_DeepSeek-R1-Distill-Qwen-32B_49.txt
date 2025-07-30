@@ -1,0 +1,43 @@
+<think>
+Okay, so I need to help the user by summarizing this news article about Justice Ginsburg's comments on Trump. They want me to first identify all the morally framed words, then write a summary preserving those frames. 
+
+First, I'll read through the article to understand the context. It's about Ginsburg expressing her concerns about Trump becoming president, which leads to discussions about her impartiality and whether she should recuse herself from cases involving Trump. There's also a broader discussion about the Supreme Court's impartiality and political influence.
+
+For STEP 1, I need to find all the single words that carry moral implications. Words like "shy," "joking," "imagine," "contemplate," "candor," "integrity," " propriety," "quiet," "step down," "beyond the pale," "impartiality," "legitimate," "appearance of bias," "recuse," "ethics," "indiscretions," "veneer," "nonpartisan," "apolitical," "pretense," "harm," "good." These words are used to convey judgments or moral evaluations in the context of the article.
+
+Next, for the summary, I need to condense the article while keeping these moral terms. The summary should highlight Ginsburg's comments, the reactions from legal experts, the debate over judicial ethics, and the broader implications about the court's impartiality. I should make sure to include the key points: her statements, the call for recusal, the rarity of such recusals, and the debate on whether judges should be seen as nonpartisan.
+
+I need to keep it under 200 words, so I'll focus on the main points without getting too detailed. I'll start by mentioning Ginsburg's comments, then the reactions, the ethical concerns, and the broader discussion about the court's political nature. I'll ensure that the morally framed words are included to preserve the original tone.
+
+Let me structure it: Ginsburg's comments, experts' reactions, ethical implications, and the debate on judicial impartiality. I'll make sure each part is concise and flows logically.
+
+I should also check the word count to stay within the limit. Maybe start with her comments, then the calls for recusal, mention the rarity of such cases, and end with the debate on the court's impartiality. That should cover all the necessary points succinctly.
+</think>
+
+**STEP 1:**
+* shy
+* joking
+* imagine
+* contemplate
+* candor
+* integrity
+* propriety
+* quiet
+* step down
+* beyond the pale
+* impartiality
+* legitimate
+* appearance of bias
+* recuse
+* ethics
+* indiscretions
+* veneer
+* nonpartisan
+* apolitical
+* pretense
+* harm
+* good
+
+**SUMMARY:**
+Supreme Court Justice Ruth Bader Ginsburg has expressed concerns about a Donald Trump presidency, joking she might move to New Zealand if he wins. Her comments, which criticized Trump’s potential impact on the country and the court, have sparked debates about judicial ethics and impartiality. Legal experts argue that her candor could create the appearance of bias, suggesting she might need to recuse herself from Trump-related cases. Federal law requires justices to step aside if their impartiality is reasonably questioned, though recusals based on political views are rare. Ginsburg’s remarks have been criticized as improper, with some calling for her to be quieter or step down. Meanwhile, others argue that the court’s supposed nonpartisanship is a veneer, given its political nature, as seen in cases like Bush v. Gore. The debate highlights tensions between judicial ethics and the reality of political influence in the court.  
+**END OF SUMMARY.**

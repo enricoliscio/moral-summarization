@@ -1,0 +1,41 @@
+Okay, so the user has given me a query where they want me to act as a news summarizer assistant and a moral expert. They provided a news article and specific instructions on how to process it. The task is in two parts: first, identify all the single words that are morally framed, and then write a summary preserving those moral frames.
+
+I need to start by understanding what morally framed words are. These are words that carry a moral judgment or implication, such as "corrupt," "unpatriotic," "abuse," etc. They often convey a positive or negative value judgment.
+
+Looking at the article, I should go through each sentence and pick out words that have a moral connotation. For example, "conspiracy charges" implies wrongdoing, "unpatriotic" is a moral judgment, "abuse" of position suggests misuse of power, and so on.
+
+Once I have all these words, I'll list them in step 1. Then, for the summary, I need to condense the article into 200 words, making sure to include as many of these moral terms as possible to preserve the original framing.
+
+I should be careful to maintain the balance of the article, presenting both sides: Republicans accusing Schiff of overreach and Democrats defending him. Including words like "abuse," "immoral," "corrupt," "false," and "McCarthyism" will help convey the moral stances of each side.
+
+I also need to ensure that the summary is concise and captures the essence of the conflict between the parties. It should mention the key points: Schiff's investigation, the Republican accusations, Mueller's findings, and the comparisons to McCarthyism.
+
+I should avoid adding my own opinions and stick strictly to summarizing the given text, using the identified moral terms to frame the summary accurately.
+
+Finally, I'll structure the response with STEP 1 listing the words and then the SUMMARY, making sure it's within the word limit and properly tokenized as per the instructions.
+</think>
+
+**STEP 1:**
+
+* conspiracy
+* inappropriate
+* corrupt
+* unethical
+* immoral
+* unpatriotic
+* abuse
+* false
+* refuted
+* damaged
+* compromised
+* hoax
+* McCarthyism
+* misrepresented
+* overreach
+* false narrative
+* alarming
+* scaredy-cats
+
+**SUMMARY:**
+
+Republicans demanded House Intelligence Committee Chairman Adam Schiff resign, accusing him of abusing his position by promoting false claims of Russian collusion with the Trump campaign. Schiff defended himself by highlighting alleged inappropriate contacts between Trump associates and foreign actors, though he failed to provide evidence of direct coordination with Russia. Republicans cited Mueller’s findings, which cleared Trump associates of conspiracy, and criticized Schiff for continuing to push a "demonstrably false narrative." Schiff, however, accused Trump associates of unethical and corrupt behavior, calling their actions "immoral" and "unpatriotic." Republicans likened Schiff to McCarthy, accusing him of McCarthyism by chasing false allegations. The conflict highlights deep partisan divisions over the Russia probe, with Democrats defending Schiff and Republicans accusing him of overreach. END OF SUMMARY.

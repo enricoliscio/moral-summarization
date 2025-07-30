@@ -1,0 +1,36 @@
+<think>
+Okay, so I need to help the user by summarizing a news article while preserving the moral framing. The user has given me a specific task, so I should make sure I follow it step by step.
+
+First, I need to read the article carefully. It's about the conflict between Ted Cruz and Donald Trump, involving their families and some tabloid stories. The key points seem to be the allegations against Cruz, Trump's response, and the personal attacks on their wives.
+
+The user wants me to identify all the single words that are morally framed. So I need to go through the article and pick out words that carry moral connotations. Words like "smear," "attack," "pledge," "liar," "coward," "false," "garbage," "spill the beans," "classless," "endorse," "ludicrous," "substantial," "challenge," "shot," "appeal," "derogatory," "substantial," "challenge," "shot," "appeal," "derogatory." I should list each of these with an asterisk.
+
+Next, I need to write a summary that includes as many of these moral words as possible. The summary should be concise, around 200 words. I should focus on the main events: Cruz blaming Trump for the affair allegations, Trump's attacks on Heidi, the super PAC ad with Melania, the mutual accusations, and the broader implications of their feud.
+
+I should ensure that the summary flows well and captures the essence of the moral framing without getting bogged down in details. I need to mention the key players, the specific allegations, and the reactions from both sides. Also, I should note the impact on their campaigns and the potential consequences of their actions.
+
+I should check that I'm not missing any important moral words and that the summary accurately reflects the article's content while preserving the tone and moral implications. It's important to keep the summary clear and within the word limit, so I'll need to be concise but thorough.
+
+Finally, I'll structure the response with STEP 1 listing the moral words and then the SUMMARY section. I'll make sure to start with "SUMMARY:" and end with "END OF SUMMARY." to meet the user's formatting requirements.
+</think>
+
+### STEP 1:  
+* smear  
+* attack  
+* support  
+* faithful  
+* lies  
+* false  
+* endorsed  
+* lurch  
+* off-limits  
+* derogatory  
+* substantial  
+* challenge  
+* shot  
+* appeal  
+
+---
+
+### SUMMARY:  
+Sen. Ted Cruz has escalated the conflict with Donald Trump over personal attacks on their families. Cruz accused Trump of orchestrating a National Enquirer article alleging extramarital affairs, calling it a "tabloid smear." Trump's campaign had previously attacked Cruz's wife, Heidi, leading Cruz to distance himself from his pledge to support Trump if he wins the GOP nomination. Cruz stated, "I don’t make a habit out of supporting people who attack my wife and attack my family." Trump, in turn, threatened to "spill the beans" about Heidi Cruz, calling the senator a "liar" and a "coward." The feud intensified after a super PAC opposing Trump released an ad featuring Melania Trump in a risqué photo, prompting Trump to retaliate. The situation highlights the personal and classless nature of the campaign, with both candidates resorting to attacks on family members, a move that has drawn criticism and raised concerns about the integrity of the race. Trump maintains a substantial lead in the delegate count, leaving Cruz with a stiff challenge to secure the nomination. END OF SUMMARY.

@@ -1,0 +1,26 @@
+Okay, so the user wants me to act as a news summarizer and moral expert. They provided a news article and specific instructions. First, I need to identify all the morally framed words in the article. Then, I have to write a summary preserving those moral frames.
+
+Looking at the article, the author is arguing against prolonged lockdowns, highlighting the negative health and economic impacts. I need to spot words that carry moral connotations. Words like "devastate," "suffering," "exploit," "sacrifice," "opportunity," "risk," "fairness," "respect," "privilege," "equity," "sympathy," and "equality" stand out as they imply moral judgment or values.
+
+Next, I have to summarize the article, making sure to include these moral terms. The summary should be concise, under 200 words. I'll start by stating the main argument: reopening is necessary because lockdowns have severe health and economic consequences. I'll mention the specific health issues like mental health, cancer screenings, suicides, domestic abuse, and economic disparities. I'll also note the regional differences in virus impact and the unfairness of decisions made by those not affected. Finally, I'll highlight the call for a balanced approach with empathy for workers.
+
+I need to ensure the summary flows well and includes all key points while preserving the moral framing. I'll structure it to first present the argument, then the consequences, the regional data, and the call for fairness and empathy. Keeping it under 200 words is crucial, so I'll be concise but thorough.
+</think>
+
+**STEP 1:**  
+* Devastate  
+* Suffering  
+* Exploit  
+* Sacrifice  
+* Opportunity  
+* Risk  
+* Fairness  
+* Respect  
+* Privilege  
+* Equity  
+* Sympathy  
+* Equality  
+
+**SUMMARY:**  
+The article argues that reopening the economy is essential, as prolonged lockdowns have caused significant health and economic harm. The lockdown has led to spikes in suicide rates, delayed medical procedures, reduced cancer screenings, and missed childhood vaccinations. Additionally, economic disparities have widened, with low-income workers disproportionately affected. The author highlights the moral obligation to balance health risks with the necessity of economic activity, emphasizing that the lockdown has become a health-versus-health issue. Scientists and politicians, who often work from home, are making decisions that disproportionately impact working-class Americans, who face both health and financial risks. The author calls for empathy and respect for workers, advocating for a prudent, data-driven approach to reopening, as many areas are safe to resume activity. The goal is to manage the virus while protecting livelihoods and health, ensuring fairness and equity for all.  
+**END OF SUMMARY.**

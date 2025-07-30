@@ -1,0 +1,32 @@
+Alright, I need to help the user by summarizing the given news article while preserving the moral framing. The user has specified two steps: first, identifying all single words that are morally framed, and then writing a concise summary using those words.
+
+Starting with STEP 1, I'll read through the article to find words that carry moral connotations. Words like "cover-up," "criticized," "abused," "concerned," "premature," "illogical," "selectively," "inaccurately," "extraordinary," "focused," "protecting," "best," "available," "hope," "spend," "ensure," and "better" stand out as they imply judgment or evaluation.
+
+Now, for the summary, I need to condense the article into under 200 words. I'll focus on the key points: the release of emails, the claims of a cover-up, the involvement of multiple agencies, the removal of certain references, and the implications of these actions. I'll make sure to include the morally framed words to maintain the original tone.
+
+I should structure the summary to first mention the release of emails and the context of the Benghazi attack. Then, address the Republican claims of a cover-up and the administration's response. Highlight the removal of al Qaeda references and the reasons behind it, including the CIA's role. Also, touch on the timing of the document release and the ongoing debate. Finally, mention the administration's hope to move past the issue.
+
+I need to ensure the summary flows logically, connects the points cohesively, and stays within the word limit. I'll also make sure to preserve the moral framing by using the identified words appropriately.
+</think>
+
+**STEP 1:**  
+* cover-up  
+* criticized  
+* abused  
+* concerned  
+* premature  
+* illogical  
+* selectively  
+* inaccurately  
+* extraordinary  
+* focused  
+* protecting  
+* best  
+* available  
+* hope  
+* spend  
+* ensure  
+* better  
+
+**SUMMARY:**  
+The White House released emails regarding the Obama administration's development of talking points on the 2012 Benghazi attack, amid Republican claims of a political "cover-up." The emails show that changes to the talking points were driven by multiple agencies, including the CIA, not just the State Department. Critics argue that the State Department and White House altered the talking points to protect their reputation, particularly over the removal of references to al Qaeda and security warnings. However, senior officials stated that such changes were made at the CIA's request, emphasizing concerns about accuracy and the FBI investigation. The release of the emails aimed to address criticism and clarify that the process was focused on providing facts and protecting the investigation. The timing of the release raised questions, as critics argued it emboldened those questioning the administration's motivations. The White House hoped the disclosure would resolve the Benghazi issue and shift focus to improving protections for U.S. personnel abroad. END OF SUMMARY.

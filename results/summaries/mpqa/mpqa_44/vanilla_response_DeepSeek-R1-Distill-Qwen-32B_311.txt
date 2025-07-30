@@ -1,0 +1,10 @@
+Okay, I need to help the user by summarizing the provided news article. The user is a news summarizer assistant, so I should focus on extracting the main points and condensing them into a concise summary.
+
+First, I'll read through the article to understand the key points. The article talks about Lebanese officials reacting to the US State Department's human rights report. They're dissatisfied but not surprised. The report criticizes Lebanon's government weakness and mentions issues like political pressure on the judiciary and intelligence monitoring. It also notes the Lebanese press's critical role.
+
+I need to make sure the summary includes who is reacting, the content of the report, the main criticisms, and the positive note about the press. Also, it's important to mention how the Lebanese government plans to respond, like sending explanations and conveying their dissatisfaction to the US ambassador.
+
+I should keep the summary under 200 words and structure it clearly. I'll start with the main reaction, then list the criticisms, mention the positive aspect, and conclude with the government's response steps. That should cover all essential points concisely.
+</think>
+
+SUMMARY: Lebanese officials have expressed dissatisfaction with the US State Department's annual human rights report, which criticizes Lebanon for weakening central government authority, political pressure on the judiciary, and intelligence monitoring of opposition politicians. The officials, however, dismissed the report as an annual event and noted it also criticized other countries. The report was handed to the Foreign Ministry, which plans to share it with relevant ministries before responding to the US. The officials conveyed their concerns to US Ambassador Vincent Battle, emphasizing that factors outside government control contribute to the issues highlighted. The report also praised Lebanon's press for its critical coverage of the government. END OF SUMMARY.

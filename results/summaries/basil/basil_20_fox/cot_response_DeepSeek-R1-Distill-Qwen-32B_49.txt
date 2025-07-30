@@ -1,0 +1,25 @@
+Okay, I need to help the user by summarizing the given news article while preserving the moral framing. The user has specified a two-step process: first, identify all the morally framed single words, and then write a concise summary using those words.
+
+Starting with STEP 1, I'll go through the article to find words that carry moral connotations. Words like "questioning," "challenging," "radical," "phony," "destruction," "affront," "distortions," "ugliness," "pessimism," "negativity," and "centralize" stand out. These words are used to convey judgment or evaluation, which fits the moral framing.
+
+Next, for the summary, I need to condense the article into 200 words, keeping the moral language intact. I'll mention Santorum's comments on Obama's policies, the moral terms he used, and the Obama campaign's response. I'll highlight the debate over environmental stewardship and the criticism of Santorum's remarks as crossing a line. I should ensure the summary flows logically and includes all key points without being too verbose.
+
+I also need to make sure the summary starts after "SUMMARY:" and ends with "END OF SUMMARY." I'll structure it to include Santorum's stance, his use of moral terms, the campaign's reaction, and the broader implications of the debate. Keeping it concise yet comprehensive is key here.
+</think>
+
+**STEP 1:**
+* questioning  
+* challenging  
+* radical  
+* phony  
+* destruction  
+* affront  
+* distortions  
+* ugliness  
+* pessimism  
+* negativity  
+* centralize  
+
+**SUMMARY:**  
+Rick Santorum recently criticized President Obama's environmental policies, describing them as a "phony theology" that prioritizes the Earth over human welfare. He argued that this worldview, which he associates with radical environmentalism, is flawed and places the Earth above humanity. Santorum emphasized that humans should use resources wisely but not serve the Earth. However, the Obama campaign strongly condemned his remarks, calling them a personal affront and a distraction from policy debates. Santorum denied questioning Obama's faith, stating he was targeting Obama's worldview, which he claims is disconnected from biblical theology. The Obama campaign accused the Republican primary race of descending into negativity and divisiveness, contrasting it with Obama's focus on job creation and economic security. Santorum defended his comments, linking them to the politicization of global warming and government overreach. The debate highlights a clash over environmental stewardship and the role of government, with critics accusing Santorum of crossing a moral line.  
+**END OF SUMMARY.**

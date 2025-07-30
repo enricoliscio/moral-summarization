@@ -1,0 +1,79 @@
+Okay, I need to help the user by summarizing a news article while preserving the moral framing. The user has given me a specific structure to follow, so I should start by understanding the task step by step.
+
+First, I have to identify all the single words that are morally framed in the article. These are words that carry a positive or negative moral connotation. I'll go through the text and pick out words like "violent," "dramatic," "dead," "injured," "striking," "cripple," "oppression," "freedom," "protest," "resignation," "snipers," "bloodshed," "atrocity," "defenceless," "outrage," "despair," "uncertainty," and "vacuum." These words highlight the moral aspects of the events described.
+
+Next, I need to write a concise summary of the article, making sure to include as many of these morally charged words as possible. The summary should be under 200 words and structured clearly. I'll start by outlining the main events: the violent protests, the change in government, the name change, the strike, the shootings, Chavez's actions, the military's role, and the aftermath.
+
+I should ensure that the summary captures the moral implications, such as the violence, the impact on the country, and the uncertainty about the future. I'll also need to mention the key players, like Pedro Carmona and Hugo Chavez, and their roles in the events.
+
+I'll make sure the summary flows logically, starting from the events leading up to the change in government, the violent incidents, the military's intervention, Chavez's detention, and the resulting power vacuum. Including the morally framed words will help maintain the original article's tone and emphasis.
+
+Finally, I'll review the summary to ensure it's within the word limit and that all key points are covered. I'll check that the moral framing is preserved and that the summary accurately reflects the article's content and tone.
+</think>
+
+### STEP 1:
+* violent
+* transformed
+* dead
+* injured
+* strike
+* cripple
+* oil
+* stoppage
+* new president
+* new name
+* Bolivarian Republic
+* Simon Bolivar
+* Chavez
+* supporters
+* strike
+* managers
+* board of directors
+* opposition
+* protest
+* resignation
+* marchers
+* snipers
+* bloodshed
+* armed
+* Bolivarian
+* firing
+* indiscriminately
+* defenceless
+* groups
+* horrible
+* Chavez
+* address
+* government
+* respect
+* right
+* demonstrate
+* freedom
+* press
+* television
+* air
+* lies
+* military
+* support
+* people
+* killings
+* tanks
+* holed up
+* save
+* presidency
+* detained
+* charges
+* role
+* killings
+* exit
+* power vacuum
+* uncertainty
+* social divisions
+* problems
+* solved
+
+---
+
+### SUMMARY:
+Venezuela experienced a violent and transformative 24 hours, with at least 11 dead and 80 injured. A general strike and oil stoppage threatened the economy, but the country now has a new president, Pedro Carmona, and a new name, the Republic of Venezuela, replacing the Bolivarian Republic. Carmona ended the strike and reversed Chavez's policies, including the board appointments. The violence began when Chavez supporters fired on peaceful protesters, leading to widespread bloodshed. The military intervened, demanding Chavez's resignation, which he accepted. Chavez is now detained, and the country faces a power vacuum and deep social divisions. While some celebrate Chavez's fall, others fear uncertainty about the future.  
+END OF SUMMARY.

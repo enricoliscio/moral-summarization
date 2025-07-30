@@ -1,0 +1,46 @@
+Okay, so I need to help this user by summarizing a news article while preserving the moral framing. The user has provided specific instructions, so I should follow them carefully. 
+
+First, I need to read the article thoroughly to understand the content. The article is about the Benghazi attack and the controversy surrounding the Obama administration's handling of the situation. It talks about warnings that were ignored, State Department's negligence, and the political implications.
+
+The user wants me to identify all single words that are morally framed. I should go through the article and pick out words that carry moral connotations. Words like "failure," "negligence," "ignored," "inadequately protected," etc., seem to fit. I'll list each of these words, each on a new line starting with an asterisk.
+
+Next, I have to write a concise summary of the article, making sure to include as many of these morally framed words as possible. The summary should be under 200 words and start with "SUMMARY:" and end with "END OF SUMMARY." I'll need to capture the main points: the warnings, the State Department's failure to act, the negligence, and the political fallout.
+
+I should ensure that the summary flows well and accurately reflects the moral framing without adding my own opinions. I'll structure it to highlight the key events, the ignored warnings, the negligence, and the consequences. I'll also mention the internal review's findings to show the administration's responsibility.
+
+Finally, I'll double-check the word count to make sure it's within the limit and that all the morally framed words are included where appropriate. This way, the summary will effectively convey the moral issues as presented in the original article.
+</think>
+
+### STEP 1:
+* Failure  
+* Negligence  
+* Ignored  
+* Ammunition  
+* Beat up  
+* Adequately protected  
+* Severe  
+* Growing  
+* Compromised  
+* Unanswered  
+* Lack  
+* Host nation  
+* Al-Qaeda  
+* Ansar al-Sharia  
+* Coordinated attack  
+* Limited manpower  
+* Security measures  
+* Weapons capabilities  
+* Cry for help  
+* Knowledge  
+* Surprise  
+* Spike in violence  
+* Targeted  
+* Proactive leadership  
+* Management ability  
+* Misconduct  
+
+---
+
+### SUMMARY:
+The Benghazi attack controversy highlights the Obama administration's failure to act on documented warnings and security incidents. State Department spokeswoman Victoria Nuland attempted to strip references to prior attacks to avoid giving Congress "ammunition" to criticize her department. President Obama acknowledged that staff in Benghazi were "inadequately protected." Classified cables revealed severe warnings about the Islamist threat, including the presence of Al-Qaeda and Ansar al-Sharia, and the compromised security of the consulate. Despite these warnings, Secretary of State Hillary Clinton claimed she had no knowledge of the critical cable, sparking accusations of negligence. A former diplomatic security agent described the warnings as a "cry for help," suggesting State Department leadership was negligent. An internal review found senior officials lacked "proactive leadership" but did not find misconduct. The controversy underscores the administration's failure to prioritize security and protect personnel, despite clear risks.  
+END OF SUMMARY.

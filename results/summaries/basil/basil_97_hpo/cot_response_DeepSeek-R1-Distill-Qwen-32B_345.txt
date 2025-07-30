@@ -1,0 +1,40 @@
+Okay, so I need to help the user with summarizing a news article while preserving the moral framing. Let me break down the query to understand exactly what they need. The user provided a detailed news article about the For The People Act passing in the House, along with specific instructions on how to process it.
+
+First, the user wants me to identify all the single words that are morally framed. They mentioned this as STEP 1, where each word should be listed with a * and on a new line. I need to go through the article and pick out words that carry moral connotations. Words like "landmark," "priority," "expand," "transparency," "elites," "corruption," "opportunity," "history," "power grab," "assault," "unnecessary," "restrict," "opponent," "popular," "change," "fight," "win," "front," "center," "reauthorization," "lazy," "change," "win," "front," "center," "reauthorization," "lazy," "opportunity," "history," "power grab," "assault," "unnecessary," "restrict," "opponent," "popular," "change," "fight," "win," "front," "center," "reauthorization," "lazy," "opportunity," "history," "power grab," "assault," "unnecessary," "restrict," "opponent," "popular," "change," "fight," "win," "front," "center," "reauthorization," "lazy."
+
+Next, the user wants a summary of the article, preserving as many of these morally framed words as possible. The summary should be concise, no longer than 200 words, and start with "SUMMARY:" and end with "END OF SUMMARY." I need to ensure that the summary captures the essence of the article, highlighting the moral aspects without losing the key points.
+
+I should structure the summary to include the passage of the bill, its goals, the reactions from both parties, and the implications. I'll need to use the identified moral words to frame the summary correctly. It's important to maintain the balance between the Democrats' positive framing and the Republicans' opposition, ensuring that both perspectives are represented.
+
+I also need to make sure that the summary flows well and is within the word limit. I'll start by stating the bill's passage, then outline its main provisions, followed by the reactions from both parties. Finally, I'll mention the future steps and the ongoing fight for reform.
+
+I should double-check that I've included all the necessary moral words without making the summary too verbose. It's a balance between being comprehensive and concise. I'll review the identified words to ensure they're all included where appropriate.
+
+Alright, time to put it all together. I'll draft the summary, making sure each sentence incorporates the moral framing words and that the overall message is clear and aligned with the original article's tone.
+</think>
+
+**STEP 1:**  
+* Landmark  
+* Priority  
+* Expand  
+* Transparency  
+* Elites  
+* Corruption  
+* Opportunity  
+* History  
+* Power grab  
+* Assault  
+* Unnecessary  
+* Restrict  
+* Opponent  
+* Popular  
+* Change  
+* Fight  
+* Win  
+* Front  
+* Center  
+* Reauthorization  
+* Lazy  
+
+**SUMMARY:**  
+The For The People Act, a landmark bill prioritizing voting rights, campaign finance reform, and ethics, passed the House with strong Democratic support. The bill aims to expand voting access, reduce corruption by empowering small donors, and curb partisan gerrymandering. Democrats framed it as a historic opportunity to shift power from elites to the people, emphasizing the fight against inequality and corruption. Republicans opposed it, labeling it a federal power grab that assaults free speech and benefits lazy workers. Despite Senate opposition led by Mitch McConnell, Democrats remain committed to advancing the bill, with plans to vote on individual provisions and pursue further reforms. The legislation represents a pivotal step in their mission to change politics and ensure fair representation for all. END OF SUMMARY.

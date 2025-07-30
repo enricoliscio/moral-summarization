@@ -1,0 +1,15 @@
+<think>
+Okay, so the user wants me to summarize this news article while preserving the moral framing. They provided a list of morally framed words, so I need to make sure those are included in the summary. The summary should be under 200 words and start with "SUMMARY:" and end with "END OF SUMMARY."
+
+First, I'll read through the article to understand the main points. The Trump administration released a rule barring clinics that provide or refer for abortions from receiving federal family planning funds. This is called the "domestic gag rule." It's been legally challenged and there's been a court battle, with a recent injunction blocking it. Anti-abortion groups support it, while Planned Parenthood and others argue it limits access to care for low-income patients.
+
+I need to include words like "challenged," "injunction," "blocking," "bars," "leave," "ruling," "victory," etc. I should structure the summary to highlight the conflict, the legal actions, and the opposing viewpoints.
+
+I'll start by stating the administration's action, mention the legal challenges, the injunction, and the impact on access to care. Then, I'll note the support from anti-abortion groups and the opposition from Planned Parenthood, emphasizing the moral implications like "unconscionable" and "unethical."
+
+I should keep each sentence concise and make sure to include as many of the moral words as possible without making it sound forced. Also, I need to ensure the summary flows well and stays within the word limit.
+
+Let me draft the summary, making sure to include all key points and the moral framing words. I'll check the word count to stay under 200. Once done, I'll end with the specified tokens.
+</think>
+
+SUMMARY: The Trump administration finalized a rule barring clinics that provide or refer for abortions from receiving federal family planning funds, known as the "domestic gag rule." This rule faced legal challenges, with a recent injunction blocking its implementation. Anti-abortion groups support the rule, arguing it disentangles taxpayers from funding abortion services, while Planned Parenthood and others argue it limits low-income patients' access to vital health care. The rule requires Title X recipients to be physically and financially separate from abortion providers, effectively barring Planned Parenthood from funding. Critics claim the rule violates laws requiring unbiased counseling for pregnant patients. The injunction is seen as a victory for reproductive rights advocates, who aim to ensure continued access to family planning services. The rule is part of broader Trump administration actions limiting access to contraception and abortion, with critics warning of major repercussions for low-income women. Anti-abortion groups applaud the rule, while Planned Parenthood condemns it as unconscionable and unethical, arguing it compromises patient care. END OF SUMMARY.

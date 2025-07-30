@@ -1,0 +1,61 @@
+<think>
+Okay, so I need to help this user who is asking me to summarize a news article while preserving the moral framing. They've given me a detailed article about President Trump's process of selecting a new FBI director, and they want me to first identify all the morally framed single words and then write a concise summary.
+
+First, I should understand what morally framed words are. These are words that carry a moral judgment or imply a value judgment. They could be positive or negative, but they're used to convey approval or disapproval.
+
+Looking at the article, I need to go through each sentence and pick out words that have a moral connotation. Let's start from the beginning.
+
+The article mentions Trump is "very close" to choosing a successor. "Close" is just a descriptor, not moral. Next, Lieberman is described as a "charming" 75-year-old. "Charming" can be positive, so that's a moral frame. Then, Lieberman has "no federal law enforcement experience." "No" isn't a moral word, but "experience" is neutral.
+
+Moving on, Trump's staff is "alarmed" by his embrace. "Alarmed" shows concern, which is a moral sentiment. The article says Lieberman would be an "atypical" choice. "Atypical" is descriptive, not moral. The FBI is described as one of Washington's "few apolitical institutions." "Apolitical" is neutral, but "institutions" is just a noun.
+
+Judges and former prosecutors are "frequently" chosen. "Frequently" is neutral. The search is "fluid," which is descriptive. The process is "closely held" to avoid "leaks." "Leaks" are negative, implying a problem, so that's a moral frame.
+
+Trump "cherishes" the FBI. "Cherishes" is positive. He mentions the FBI's "special" reputation. "Special" is positive. He refers to what "happened" in the campaign, which is neutral. "Clinton campaign" is neutral, but "Trump campaign" is described as "much more successful," which is positive.
+
+The article talks about "speculation" favored by Trump, which is neutral. Aides suggest hiring from "within" the agency to "repair" morale. "Repair" is positive. Comey's firing "wrought" damage. "Wrought" is negative.
+
+Lee, McFeely, and McCabe are "interviewed." Neutral. McCabe is a "veteran" agent, which is positive. The White House is "divided," which is negative. Aides express "doubts" about Lieberman, which is negative. His age is "problematic," negative. He's employed by a firm where Trump's lawyer works, raising "conflict-of-interest" accusations, which is negative.
+
+If Trump picks Lieberman, he might serve a "short stint" to "lend" his reputation. "Lend" is positive. Lieberman has "law enforcement experience" as Connecticut's attorney general, which is neutral. Others on the list include Keating and Rogers, both "Republicans." Neutral. Rogers was "endorsed" by the agents' association, positive. Judges Garcia and Hudson were "interviewed," neutral.
+
+So compiling the morally framed words:
+
+* charming
+* alarmed
+* leaks
+* cherishes
+* special
+* repair
+* damage
+* doubts
+* problematic
+* conflict-of-interest
+* lend
+
+Now, for the summary, I need to include as many of these words as possible while keeping it under 200 words. I'll focus on the key points: Trump nearing his deadline, Lieberman as a finalist, staff's concerns, the fluid process, Lieberman's background, the potential conflict, and the implications.
+
+I should structure it to include the moral framing words naturally. Start with Trump being close to a decision, mention Lieberman's charm but lack of experience. Note the staff's alarm and the fluid process. Highlight the concerns about Lieberman's age and potential conflict. Conclude with the implications for the FBI's reputation.
+
+Make sure the summary flows well and includes the key moral elements without being too wordy.
+</think>
+
+**STEP 1:**
+
+* charming  
+* alarmed  
+* leaks  
+* cherishes  
+* special  
+* repair  
+* damage  
+* doubts  
+* problematic  
+* conflict-of-interest  
+* lend  
+
+**SUMMARY:**  
+
+President Trump is nearing his self-imposed deadline to select a new FBI director, with Joseph I. Lieberman, a charming former Democratic senator, emerging as a finalist. However, Trump’s staff expressed alarm over Lieberman’s lack of law enforcement experience and urged caution. The search process has been fluid, with Lieberman’s age and potential conflict-of-interest concerns raising doubts. Trump has also interviewed other candidates, including Acting Director Andrew McCabe and former FBI officials, to repair morale damaged by James Comey’s firing. Lieberman’s bipartisan reputation could lend credibility to Trump, but his ties to a firm linked to Trump’s lawyer and his age raise questions about his suitability for a 10-year term. The decision remains undecided as Trump prepares for a foreign trip, with the White House divided over the best choice to maintain the FBI’s apolitical reputation.  
+
+**END OF SUMMARY.**

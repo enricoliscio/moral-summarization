@@ -1,0 +1,33 @@
+Alright, I need to help the user with their query. They want me to act as a news summarizer assistant and a moral expert. The task is to summarize a given news article while preserving the moral framing the author provided. 
+
+First, I should understand the structure of the query. They have two main steps: identifying morally framed words and then writing a summary that includes as many of these words as possible.
+
+Looking at the news article, it's about the impact of COVID-19 on nursing homes in the U.S. The user provided a sample response, so I can use that as a guide. The first step is to identify single words that carry moral implications. These words often express judgments or evaluations, like "vulnerable," "flaws," or "catalyst."
+
+I'll go through the article and pick out each morally framed word. I'll list them with asterisks. Next, I need to write a concise summary (under 200 words) that includes these words. The summary should capture the main points: high death rates in nursing homes, the debate over the system's flaws, and proposed solutions like at-home care and increased funding.
+
+I must ensure the summary reflects the moral perspective, highlighting issues like inadequate resources and the need for systemic changes. Also, I should mention the potential downsides of shifting care to homes, such as leaving behind vulnerable groups.
+
+I'll start by outlining the key points: high death toll, nursing home vulnerabilities, expert critiques, proposed solutions, and the debate's nuances. Then, I'll weave in the morally framed words naturally into the summary.
+
+Finally, I'll check the word count to make sure it's within the limit and that all key points are covered. The summary should be clear, concise, and retain the moral framing from the original article.
+</think>
+
+**STEP 1:**  
+* Vulnerable  
+* Flaws  
+* Radical  
+* Highlighted  
+* Dangerous  
+* Devastating  
+* Fatality  
+* Underpaid  
+* Substandard  
+* Strain  
+* Catalyst  
+* Ignored  
+* Equitable  
+* Adapt  
+
+**SUMMARY:**  
+The COVID-19 pandemic has revealed the vulnerabilities in the U.S. nursing home system, with over 54,000 residents and workers dying from the virus. Nursing homes, housing 1.4 million people, account for over 40% of COVID-19 deaths despite representing less than 1% of the population. The fatality rate for residents is three times the national average, highlighting systemic flaws like limited resources, underpaid staff, and substandard care. Experts argue that the current system is ill-equipped to handle the aging population, which is expected to nearly double by 2050. Some propose shifting elder care to at-home services, supported by technology and government funding, to reduce strain on nursing homes. However, critics warn this could leave behind marginalized communities. Others advocate for increased funding, equitable healthcare, and better oversight to address the system's flaws. The pandemic has forced a reevaluation of how the U.S. cares for its elderly, emphasizing the need for radical changes to ensure safer, more equitable care. END OF SUMMARY.

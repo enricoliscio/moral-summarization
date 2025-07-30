@@ -1,0 +1,25 @@
+<think>
+Alright, I need to help the user by summarizing the given news article while preserving the moral framing. The user has specified two steps: first, identifying all single words that are morally framed, and second, writing a concise summary using those words.
+
+Starting with STEP 1, I'll go through the article to find words that carry moral connotations. Words like "phony," "scam," "embarrassingly," "shady," "trolling," "fraudulent," "deceit," "conspiracy," "fraud," "hoax," "deception," "manipulation," and "fraudulent" stand out as they imply wrongdoing or unethical behavior.
+
+Next, for the summary, I need to condense the article into 200 words, making sure to include these moral terms. The key points are the attempt to create false allegations against Mueller, the involvement of Wohl and Burkman, the FBI's involvement, and the impact on media and public perception. I'll structure the summary to highlight the unethical actions, the individuals involved, and the consequences, ensuring the moral framing is clear.
+</think>
+
+**STEP 1:**  
+* phony  
+* scam  
+* thin  
+* shady  
+* trolling  
+* fraudulent  
+* deceit  
+* conspiracy  
+* fraud  
+* hoax  
+* deception  
+* manipulation  
+* fraudulent  
+
+**SUMMARY:**  
+An attempt to create phony sexual misconduct allegations against Robert Mueller, the special counsel, unraveled, potentially implicating conservative activists in FBI scrutiny. Mueller’s spokesperson confirmed the matter was referred to the FBI after reports emerged of women being offered money to make false claims. The scheme, involving Jacob Wohl and Jack Burkman, appeared to be a smear campaign or trolling effort. Wohl, a conservative Twitter personality, and Burkman, a Republican lobbyist, were linked to the operation, with Wohl’s company, Surefire Intelligence, seemingly fabricated. The plan backfired, drawing media attention and prompting Gateway Pundit to retract a redacted document alleging rape against Mueller. The FBI is now investigating, and the scheme may have diverted media focus from critical midterm election issues. Burkman continues to promise a press conference, but past claims have been discredited. The operation, if proven, reflects a fraudulent attempt to manipulate public perception and media resources. END OF SUMMARY.

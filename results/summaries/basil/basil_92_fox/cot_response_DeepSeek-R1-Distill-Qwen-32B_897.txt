@@ -1,0 +1,32 @@
+Alright, I need to help the user by summarizing the given news article while preserving the moral framing. The user has specified two main tasks: first, identifying all the morally framed single words, and second, writing a concise summary that includes as many of those words as possible.
+
+Starting with STEP 1, I should go through the article and pick out words that carry moral connotations. Words like "appreciates," "disgrace," "phony," "dealing," "interference," "impeachment," "false," "destroy," "exaggerated," "credibility," "extraordinary," "dispute," "confident," and "inaccurate" stand out because they reflect judgments or moral evaluations.
+
+Next, for the summary, I need to condense the article into under 200 words. I'll focus on the key points: Trump's appreciation for Mueller's statement, theBuzzFeed story's claims, Mueller's response, Trump's criticism of the media, and the ongoing debate over the story's accuracy. I'll make sure to include the morally framed words identified earlier to maintain the original tone and framing.
+
+I should structure the summary to highlight the main actors and their positions. Trump's dismissal of the story as phony and a disgrace, Mueller's rare public statement, and the media's role in the credibility issue are all important points. I'll also mention the implications for the investigation and the political dynamics involved.
+
+I need to ensure that the summary flows logically, starting with Trump's reaction, moving to the details of the Buzzfeed article, Mueller's response, and the ongoing debate. Including the moral terms will help convey the charged atmosphere surrounding the story.
+
+Finally, I'll make sure the summary is concise, sticking to the word limit, and accurately reflects the article's content and moral framing without introducing any new information or bias beyond what's presented.
+</think>
+
+**STEP 1:**  
+* Appreciates  
+* Disgrace  
+* Phony  
+* Dealing  
+* Interference  
+* Impeachment  
+* False  
+* Destroy  
+* Exaggerated  
+* Credibility  
+* Extraordinary  
+* Dispute  
+* Confident  
+* Inaccurate  
+
+**SUMMARY:**  
+President Trump expressed appreciation for FBI special counsel Robert Mueller’s statement disputing a Buzzfeed article claiming Trump directed Michael Cohen to lie to Congress about the Moscow Trump Tower project. Trump called the Buzzfeed piece and media coverage "a disgrace to our country and journalism," arguing it damaged the mainstream media’s credibility. Buzzfeed reported that Cohen admitted to Mueller’s office that Trump told him to lie about the project’s timeline to conceal Trump’s involvement. The article described this as the first known instance of Trump explicitly instructing a subordinate to lie about dealings with Russia. Mueller’s office rarely comments on investigations but issued a statement disputing Buzzfeed’s claims. Trump’s team denied the allegations, with Trump calling the controversy a "sad day for journalism" but a "great day for our country." Trump lawyer Rudy Giuliani praised Mueller’s office for "correcting the Buzzfeed false story," while Buzzfeed defended its reporting, stating it stood by its sources and findings. The ongoing dispute highlights tensions over media credibility and political interference in the investigation.  
+**END OF SUMMARY.**

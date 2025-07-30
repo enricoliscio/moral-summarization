@@ -1,0 +1,28 @@
+Okay, so I need to help the user with their query. They provided a news article about Trump and Vicente Fox's Twitter war. The user wants me to act as a news summarizer assistant and a moral expert. My task is to first identify all the morally framed words in the article, then write a concise summary preserving those moral terms.
+
+First, I'll read through the article carefully. The key points are Trump's visit to Mexico, Fox's criticism, Trump's response on Twitter, and Fox's call for an apology. I need to pick out words that carry moral weight.
+
+Looking at the article, words like "Twitter war," "critic," "not welcome," "reject," "political risk," "traitor," "offended," "mistake," "apologize," and "lying" stand out. These words imply judgment or evaluation, so they're morally framed.
+
+Next, I'll structure the summary. It should include the main events and the moral language. I'll start by mentioning Trump's arrival and the conflict. Then, I'll note Fox's criticisms and Trump's counterpoints. Finally, I'll highlight Fox's demand for an apology and Trump's refusal, emphasizing the moral stakes involved.
+
+I need to keep the summary under 200 words, so I'll be concise but include all the key moral terms. Making sure the summary flows naturally while preserving the moral framing is essential. I'll avoid adding any extra information beyond what's needed to convey the conflict and the moral judgments involved.
+
+Alright, putting it all together, I'll list the morally framed words first, then craft the summary accordingly. That should meet the user's requirements effectively.
+</think>
+
+**STEP 1:**  
+* Twitter war  
+* critic  
+* not welcome  
+* reject  
+* political risk  
+* traitor  
+* offended  
+* mistake  
+* apologize  
+* lying  
+
+**SUMMARY:**  
+As Donald Trump prepared to visit Mexico, former President Vicente Fox ignited a Twitter war by declaring Trump "not welcome" in the country. Fox criticized current President Enrique Peña Nieto for inviting Trump, calling it a "big mistake" and accusing Peña of taking a "political risk." Fox argued that Trump's visit would make Peña seem like a "traitor" for tolerating the "offense" Trump represents. Trump fired back, referencing Fox's past criticism of the U.S.-Mexico border wall, accusing Fox of hypocrisy. Fox demanded Trump "apologize and stop lying," escalating the conflict over Trump's controversial stance on immigration and Mexico. The exchange highlighted the deep divisions and moral judgments surrounding Trump's visit.  
+**END OF SUMMARY.**

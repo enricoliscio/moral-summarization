@@ -1,0 +1,27 @@
+<think>
+Okay, so I need to help the user with their query. They provided a news article about a protest in Kentucky and want me to summarize it while preserving the moral framing. They also asked for two steps: first, identifying all the morally framed single words, and then writing a summary that includes as many of those words as possible.
+
+First, I'll read through the article to understand the context. The protest involved hanging an effigy of Governor Beshear, which is a strong symbolic action. The protesters were against coronavirus restrictions, so their actions were against what they saw as an overreach by the government. The article mentions the effigy had a Latin phrase, "sic temper tyrannies," which translates to "thus always to tyrants," indicating they viewed the governor as a tyrant. That's a clear moral judgment against the governor.
+
+Next, I need to identify the morally framed words. I'll go through the article sentence by sentence. Words like "unconstitutional," "shutdown," "coronavirus," "Second Amendment," "effigy," "tyrannies," "condemned," "unacceptable," "hate," "disgusting," "vile," "reprehensible." These words carry moral weight because they express strong approval or disapproval.
+
+Now, for the summary, I need to include as many of these words as possible while keeping it concise. I'll start by mentioning the protest, the hanging of the effigy, and the moral judgment against the governor. Then, I'll note the backlash from both parties, using words like "condemned," "unacceptable," "hate," "disgusting," "vile," and "reprehensible." I'll also include the context of Memorial Day weekend and the call for unity and science-based actions.
+
+I should ensure the summary flows well and stays under 200 words. I'll structure it to first describe the protest and its intent, then the backlash, and finally the broader implications. This way, I preserve the moral framing while providing a clear and concise summary.
+</think>
+
+**STEP 1:**  
+* unconstitutional  
+* shutdown  
+* coronavirus  
+* Second Amendment  
+* effigy  
+* tyrannies  
+* unacceptable  
+* hate  
+* disgusting  
+* vile  
+* reprehensible  
+
+**SUMMARY:**  
+Protestors in Kentucky hung an effigy of Gov. Andy Beshear, criticizing his coronavirus restrictions as unconstitutional. The protest, organized by Take Back Kentucky, began with celebrating the Second Amendment but escalated to targeting Beshear, with the effigy displaying the phrase "sic temper tyrannies." The act sparked widespread condemnation, with Republican Sen. Mitch McConnell calling it "unacceptable" and "hate" having no place in Kentucky. Others, including Democratic Mayor Greg Fischer, condemned the "disgusting" and "vile" act, emphasizing the importance of unity and science during the pandemic. Kentucky House Democrats also strongly condemned the protest, calling it "beyond reprehensible." The incident drew sharp moral criticism from both parties, highlighting the tension over governance and public safety during the crisis. END OF SUMMARY.

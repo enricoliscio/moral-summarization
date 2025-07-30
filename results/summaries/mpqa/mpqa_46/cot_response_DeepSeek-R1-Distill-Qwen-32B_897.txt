@@ -1,0 +1,31 @@
+Alright, I need to help the user with their query. They want me to summarize a news article while preserving the moral framing. Let me break down what they're asking for.
+
+First, the user provided a news article about Seyed Qamar Abbas rejecting the US State Department's human rights report on Iran. They want me to identify the morally framed words and then write a summary using those words.
+
+In STEP 1, I should go through the article and pick out all the words that carry moral connotations. Words like "rejected," "violator," "killed," "innocent," "maltreated," "double standard," "denounces," "perishing," "injustices," "discriminatory," and "deception" stand out as they express judgment or evaluation.
+
+For the summary, I need to make sure it's concise, under 200 words, and includes as many of these moral terms as possible. I should structure it to highlight Abbas's main points: rejecting the US report, criticizing American hypocrisy, and the strategic interests behind their actions.
+
+I also need to ensure the summary flows well and accurately represents Abbas's arguments. I'll start by stating his rejection, then move on to his criticisms of US policies, mention the double standard, and conclude with his hope about global awareness.
+
+Let me make sure the summary is clear and captures the moral stance without adding any personal opinions. I should stick strictly to the information provided in the article.
+
+Finally, I'll format the response as per the user's instructions, separating the steps and ending with the required tokens. I think that's all. Time to put it together.
+</think>
+
+**STEP 1:**  
+* Rejected  
+* Violator  
+* Killed  
+* Innocent  
+* Maltreated  
+* Double standard  
+* Denounces  
+* Perishing  
+* Injustices  
+* Discriminatory  
+* Deception  
+
+**SUMMARY:**  
+Seyed Qamar Abbas, the Central Leader of Pakistan People's Party (PPP), has rejected the US State Department's human rights report, accusing America of hypocrisy. He criticized the US for its double standard policy, pointing out that while it denounces human rights violations, it supports Israel's actions against Muslims in Palestine and Lebanon. Abbas argued that independent nations not submissive to US dictates are labeled as human rights violators, while those compliant receive favors. He accused the US of prioritizing its strategic and economic interests over human rights, citing its role in killing innocent people globally under the guise of the "war on terror." Abbas emphasized that the world can no longer be deceived by America's injustices and discriminatory policies, as people are increasingly aware of its true motives.  
+**END OF SUMMARY.**

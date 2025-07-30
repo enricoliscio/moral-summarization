@@ -1,0 +1,28 @@
+<think>
+Okay, so I need to help the user by summarizing the news article while preserving the moral framing. Let me first read through the query to understand what's needed.
+
+The user provided a news article where the NAACP condemns the Tea Party for racism. They want me to first identify all the morally framed single words and then write a concise summary using those words.
+
+First, I'll go through the article and pick out words that carry moral connotations. Words like "condemning," "bigotry," "racism," "false," "appalling," "unfounded," "extremist," "negative," "empower," and "responsible" stand out as they relate to moral judgment or evaluation.
+
+Next, I need to write a summary. It should be under 200 words and include as many of those moral words as possible. I'll start by stating the NAACP's action, then mention the Tea Party's response. I'll include the resolution's content, the accusations, and the opposing views. I'll make sure to highlight the moral framing by using words like "condemning," "racism," "bigotry," etc.
+
+I should structure the summary to include both sides: the NAACP's stance and the Tea Party's rebuttal. Also, I need to mention the resolution's content and the ongoing debate. Keeping it concise while covering all key points is important.
+
+Let me check the word count as I draft. I'll make sure each sentence is clear and directly relates to the moral aspects without unnecessary details. Once done, I'll review to ensure all the identified moral words are included and the summary flows logically.
+</think>
+
+**STEP 1:**  
+* Condemning  
+* Bigotry  
+* Racism  
+* False  
+* Appalling  
+* Unfounded  
+* Extremist  
+* Negative  
+* Empower  
+* Responsible  
+
+**SUMMARY:**  
+The NAACP has condemned the Tea Party for tolerating bigotry and racism, adopting a resolution during its annual convention in Kansas City. The resolution calls on the Tea Party to reject racist elements within its movement. Tea Party activists, including Sarah Palin, disputed these claims, labeling them false and appalling. NAACP leaders argue that the Tea Party must take responsibility and distance itself from white supremacists. Tea Party supporters, such as Alex Poulter, insist the movement is diverse and free of racism, calling the accusations unfounded. The debate highlights the ongoing tension between the NAACP's moral stance and the Tea Party's claims of being a patriotic, non-racist movement focused on limited government and individual rights. The resolution, which emphasizes educating the public about the potential dangers of the Tea Party's ideology, remains under review by the NAACP's national board. END OF SUMMARY.

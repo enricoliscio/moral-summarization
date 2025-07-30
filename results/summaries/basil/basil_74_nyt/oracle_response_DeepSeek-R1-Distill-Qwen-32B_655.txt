@@ -1,0 +1,14 @@
+Alright, so the user has given me a query where I need to summarize a news article while preserving the moral framing. The user has specified that I should use the morally framed words provided by the author. Let me break this down.
+
+First, I need to understand the article. It's about Trump criticizing Kathy Griffin and the Democrats. Griffin made a controversial video, and Trump and his wife criticized it as disturbing and wrong. She apologized, and CNN fired her. Trump also accused Democrats of trying to squelch testimony in the Russia investigation, calling it a witch hunt.
+
+The user wants a summary that includes specific moral terms like disturbing, wrong, crossed, etc. I should make sure these words are included where appropriate. I need to keep the summary under 200 words and start with "SUMMARY:" and end with "END OF SUMMARY."
+
+I'll start by outlining the main points: Trump's criticism of Griffin, her apology, CNN's decision, Melania's comment, and Trump's accusations against Democrats. Then, I'll incorporate the moral terms into the summary without making it sound forced.
+
+I should check each sentence to ensure it captures the moral judgment. For example, describing the video as "disturbing" and "wrong" aligns with the author's framing. Also, using "crossed the line" and "went too far" when talking about Griffin's actions.
+
+I'll make sure the summary flows naturally while including all the key points and the specified moral language. Let me draft it and then count the words to ensure it's within the limit.
+</think>
+
+SUMMARY: President Trump criticized Kathy Griffin and Democrats, calling her video of a bloodied Trump head "disturbing" and "wrong." Griffin apologized, admitting she "crossed the line" and "went too far," but did not address Trump directly. CNN fired her from its New Year’s Eve show. Melania Trump questioned Griffin’s sanity, calling the image "disturbing." Trump also accused Democrats of trying to "squelch testimony" in the Russia investigation, calling it a "witch hunt." He criticized Democrats for not wanting Carter Page to testify, claiming they were hiding "false or misleading testimony" by Comey and Brennan. Page urged the committee to "investigate collusion" between Clinton associates and Obama officials. Trump’s tweets reflect his ongoing moral framing of the situation. END OF SUMMARY.

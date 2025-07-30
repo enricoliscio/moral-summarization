@@ -1,0 +1,12 @@
+Alright, let me try to figure out how to approach this query. The user wants me to act as a news summarizer and a moral expert. They provided a news article about a Michele Bachmann cover in Newsweek and specified that I need to preserve the moral framing words they've listed: advertising, reads, biased, portrayed.
+
+First, I should read the article carefully to understand the context. The cover is titled "THE QUEEN OF RAGE," which is controversial. The article mentions that while the word "rage" isn't in the actual profile, the author criticizes Bachmann's support for the Tea Party. Conservatives are upset, saying it's biased and makes Bachmann look crazy. They also reference past controversial covers, like Mitt Romney and Sarah Palin.
+
+Now, I need to summarize this, keeping the moral words intact. The summary should be concise, under 200 words. I'll start by mentioning the cover and the headline, then note that "rage" isn't in the article but the author criticizes the Tea Party. Then, I'll include the conservative backlash, using "biased" and "portrayed." I should also mention the previous controversial covers to show a pattern. Finally, I'll end by asking if it crosses a line.
+
+I need to make sure I include all four moral words: advertising, reads, biased, portrayed. I should structure the summary to flow logically, starting with the cover, the criticism, the backlash, and the context of past issues. I'll avoid adding any personal opinions, just stick to the facts and the moral framing.
+
+Let me check the word count as I draft. I'll make sure each sentence is clear and concise, not exceeding the limit. Also, I should use the specified tokens at the beginning and end. Once done, I'll review to ensure all moral words are included and the summary accurately reflects the article's content and tone.
+</think>
+
+SUMMARY: Newsweek's latest cover features Michele Bachmann under the headline "THE QUEEN OF RAGE," despite the word "rage" not appearing in the accompanying article. Author Lois Romano criticizes Bachmann's support for the "radical" Tea Party, while conservative websites accuse the magazine of being "biased" against conservatives. The cover has sparked controversy, with some claiming it portrays Bachmann as "crazy." This is not the first time Newsweek has faced backlash for its covers, including portrayals of Mitt Romney and Sarah Palin. Critics argue the magazine crosses a line with its provocative imagery and advertising tactics. END OF SUMMARY.

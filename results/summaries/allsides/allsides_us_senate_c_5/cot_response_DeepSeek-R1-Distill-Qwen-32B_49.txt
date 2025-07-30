@@ -1,0 +1,35 @@
+Okay, so I'm trying to help the user with this query. They want me to summarize a news article while preserving the moral framing. The user has given specific instructions: first, identify all the single words that are morally framed, and then write a summary using those words.
+
+First, I need to understand what "morally framed" means. It probably refers to words that carry a positive or negative moral connotation. For example, words like "disturbing," "expose," "capable," "ideal," "adversary," "friends," "invasion," "nervous," "condemns," "irresponsible," "illegal," "partisan," "delegitimize," "conspiracy theory," "ridiculous," "bitter," and "nonsense." These words have strong moral implications.
+
+Next, I'll go through the article to pick out these words. I'll list them each with a * as per the instructions. Once I have that list, I need to write a concise summary. The summary should be under 200 words and include as many of these morally charged words as possible.
+
+I should make sure the summary captures the main points: McConnell's stance on the investigation, the call for a special committee, the criticism of leaks, the mention of Trump's dismissal of the report, and the broader implications of the situation. I'll need to weave in the morally framed words naturally without forcing them, ensuring the summary remains coherent and accurate.
+
+I also need to remember the structure: start with STEP 1, list each word, then write the summary after the SUMMARY token, ending with END OF SUMMARY. I should double-check the word count to ensure it's within the limit.
+
+Finally, I'll review the summary to make sure it reflects the moral framing accurately, highlighting the key points without adding personal opinions. This way, the user gets a clear, concise summary that preserves the original article's moral perspective.
+</think>
+
+**STEP 1:**  
+* Disturbing  
+* Expose  
+* Capable  
+* Ideal  
+* Adversary  
+* Friends  
+* Invaded  
+* Nervous  
+* Condemns  
+* Irresponsible  
+* Illegal  
+* Partisan  
+* Delegitimize  
+* Conspiracy theory  
+* Ridiculous  
+* Bitter  
+* Nonsense  
+
+**SUMMARY:**  
+Senate Majority Leader Mitch McConnell called the allegations of Russian meddling in the U.S. election "disturbing" and emphasized the Senate Intelligence Committee's ability to conduct a complete review. He dismissed calls for a special committee, stating the current panel is "more than capable" and should handle the matter on a bipartisan basis. McConnell criticized leaks of U.S. intelligence findings, labeling them "irresponsible" and potentially "illegal" for partisan gain. He also condemned Russia's actions, calling them adversaries and noting their invasion of Crimea. Meanwhile, Sen. John McCain and others pushed for a special committee to investigate, while President-elect Donald Trump's team dismissed the investigation as an attempt to "delegitimize" his win, calling it a "conspiracy theory." McConnell declined to comment on Rex Tillerson's potential nomination as Secretary of State but expressed support for the intelligence community's findings. The article highlights the partisan divide over the Russia investigation and the moral implications of the situation.  
+**END OF SUMMARY.**

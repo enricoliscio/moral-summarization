@@ -1,0 +1,13 @@
+Alright, I need to help the user by summarizing the given news article while preserving the moral framing. The user has specified that the summary should include the morally framed words provided. 
+
+First, I'll read through the article to understand the key points. Chris Christie is announcing his run for president in 2016. He criticized Congress and the parties for failing, mentioned the need for compromise, and talked about his leadership during Hurricane Sandy. There's also the Bridgegate scandal and his flip-flop on Common Core.
+
+I need to identify the morally framed words: fight, failed, led, responsiveness, leadership, lead, plot, bridgegate. I should make sure these words are included in the summary.
+
+I'll structure the summary by highlighting his announcement, criticism of Congress, leadership qualities, the Bridgegate scandal, and his stance on Common Core. I'll use the moral words to convey the tone and message.
+
+I should keep the summary concise, under 200 words, and make sure it flows naturally while including all the necessary points and moral framing.
+</think>
+
+SUMMARY:  
+Chris Christie, New Jersey's Republican governor, has announced his candidacy for the 2016 presidency, vowing to "fight for the people of the United States." He criticized both parties for failing the country, emphasizing the need for compromise and leadership. Christie, known for his blunt style and reputation as a tough leader, gained prominence during Hurricane Sandy, where his responsiveness and leadership earned him high favorability. However, his image suffered due to the "Bridgegate" scandal, involving a plot to cause traffic jams as political retaliation. Despite this, Christie has positioned himself as a leader capable of standing up to Washington's dysfunction. His recent reversal on Common Core education standards has also drawn criticism. Christie, who served as chairman of the Republican Governors Association, is now among the middle tier of GOP presidential candidates. END OF SUMMARY.

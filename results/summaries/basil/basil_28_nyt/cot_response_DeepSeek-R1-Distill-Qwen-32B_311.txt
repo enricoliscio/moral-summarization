@@ -1,0 +1,44 @@
+Alright, so the user has given me a query where I need to act as a news summarizer assistant and a moral expert. The task involves two main steps: first, identifying all the single words that are morally framed in a given news article, and second, writing a summary that preserves as many of those morally framed words as possible. 
+
+Let me start by understanding what "morally framed" words mean. These are words that carry a moral judgment or imply a value judgment. For example, words like "scoffing," "pityingly," "dismissive," "ridiculous," etc., which convey approval or disapproval.
+
+First, I need to read through the provided news article carefully. The article is about the 2012 vice presidential debate between Joe Biden and Paul Ryan. It describes Biden's aggressive debating style, his interruptions, and the tactics he used against Ryan. 
+
+I'll go through each sentence and pick out words that have a moral connotation. For instance, "scoffing pityingly" – "scoffing" implies derision, which is a moral judgment. "Dismissed" shows a negative evaluation. "Malarkey" is slang for nonsense, which is a negative assessment. 
+
+As I go through each paragraph, I'll list these words. I need to ensure I capture all of them without missing any. Once I have the list, I'll move on to writing the summary.
+
+For the summary, I need to condense the article into 200 words, making sure to include the morally framed words identified. The summary should reflect the main points: Biden's aggressive debating tactics, the comparison to past debates, the key moments where moral judgments were made, and the outcome of the debate.
+
+I should structure the summary to highlight Biden's approach, his use of mockery, the contrast with Ryan's demeanor, and the overall impact of the debate on the campaign. I need to ensure that the summary flows well and accurately represents the article while preserving the moral framing.
+
+I'll start by outlining the key events: Biden's use of Bentsen's tactics, the mention of JFK, the interruption on Medicare, the stimulus argument, the Romney's 47% remark, and the moderator's role. Each of these points should be addressed succinctly, incorporating the identified moral words.
+
+I need to be careful not to add any new information beyond what's in the article and ensure the summary stays within the word limit. Also, the summary should end with the specified tokens.
+
+After drafting the summary, I'll review it to make sure all the morally framed words are included and that the summary accurately reflects the article's content and tone.
+</think>
+
+**STEP 1:**  
+* Scoffing  
+* Pityingly  
+* Dismissive  
+* Malarkey  
+* Lacerating  
+* Disconcerted  
+* Irritation  
+* Under duress  
+* Barroom brawler  
+* Patronizing  
+* Withering  
+* Interruptive  
+* Stiffly  
+* Amused  
+* Gaffes  
+* Gotcha  
+* Passive  
+* Sleepy  
+* Tragedy  
+
+**SUMMARY:**  
+The 2012 vice presidential debate between Joe Biden and Paul Ryan was marked by Biden’s aggressive and mocking style, drawing comparisons to his past debates. Biden, seeking to redeem the Obama campaign after President Obama’s poor performance, mocked Ryan, calling his arguments “malarkey” and dismissing his claims with withering retorts. Biden frequently interrupted Ryan, particularly on Medicare and the stimulus, while Ryan struggled to maintain composure. Biden’s patronizing demeanor and relentless interruptions contrasted with Ryan’s respectful but sometimes stiff responses. The debate also saw Biden mock Ryan for opposing the stimulus while seeking funds for his district, and Ryan reminded Biden of his own gaffes, prompting a “gotcha” smile. Moderator Martha Raddatz actively pushed candidates for specifics, avoiding the passive tone of the previous debate. Biden’s fiery performance dominated the night, with both candidates exchanging lacerating blows, but Biden’s barroom brawler style left Ryan disconcerted. The debate ended with Biden’s emotional recounting of his family’s tragedy, overshadowing Ryan’s attempt to soften Romney’s image. END OF SUMMARY.

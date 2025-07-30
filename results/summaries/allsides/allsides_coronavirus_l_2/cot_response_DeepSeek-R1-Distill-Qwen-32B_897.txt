@@ -1,0 +1,47 @@
+Alright, I need to help the user by summarizing the given news article while preserving the moral framing. The user has specified a two-step process: first, identify all the single words that are morally framed, and then write a concise summary using those words.
+
+Starting with Step 1, I'll read through the article to spot words that carry moral connotations. Words like "rare," "risk," "close," "control," "adhering," "strategic," "effective," "complete," "supportive," "solutions," "unique," "explosively," "difficult," "impossible," "reopening," "vulnerable," "shield," "return," "participate," "remotely," "essential," "modified," "cluster," "risky," "possible," "outdoors," "small," "wearing," "observing." These words seem to carry moral weight as they relate to responsibilities, risks, and necessary actions.
+
+Now, for the summary, I need to condense the article into under 200 words, using as many of these moral words as possible. The article discusses the low risk of severe COVID-19 in children, the importance of community control over the virus, and specific safety measures for schools. I'll structure the summary to highlight the main points: the rarity of severe cases, the community's role in controlling the virus, the guidelines for reopening schools, and the specific measures to protect vulnerable groups and reduce risks.
+
+I should ensure the summary flows logically, starting with the low risk, then moving to community control, followed by school guidelines, and finally the specific measures. I'll make sure to include the moral words identified to maintain the original framing.
+
+Let me check the word count to stay within the limit. I'll draft the summary, then revise to ensure it's concise and includes all necessary points without being too lengthy. Making sure each sentence adds value and sticks to the key messages.
+
+Finally, I'll review the summary to ensure it accurately reflects the article's content and maintains the moral framing through the selected words. That should meet the user's requirements effectively.
+</think>
+
+**STEP 1:**  
+* rare  
+* risk  
+* close  
+* control  
+* adhere  
+* strategic  
+* effective  
+* complete  
+* supportive  
+* solutions  
+* unique  
+* explosively  
+* difficult  
+* impossible  
+* reopen  
+* vulnerable  
+* shield  
+* return  
+* participate  
+* remotely  
+* essential  
+* modified  
+* cluster  
+* risky  
+* possible  
+* outdoors  
+* small  
+* wearing  
+* observing  
+
+**SUMMARY:**  
+The article emphasizes that severe COVID-19 illness in children is rare, with death risk hundreds of times lower than for older adults. While rare inflammatory syndromes can occur, similar to influenza, which kills many children annually, schools remain open. The focus should be on community control of the virus through the three W’s: wear masks, wash hands, watch distance, along with strategic testing, isolation, contact tracing, and supportive quarantine. The CDC provides guidelines for reopening schools, which must be tailored to local contexts. In areas with explosive virus spread, in-person schooling may be impossible. Schools should shield vulnerable individuals, reduce risks by limiting large gatherings, modifying services like cafeterias, and minimizing touched surfaces. Essential services like meals should continue, while activities like choir rehearsals and team sports may need to stop. Recess and PE can continue outdoors with masks and distancing.  
+**END OF SUMMARY.**

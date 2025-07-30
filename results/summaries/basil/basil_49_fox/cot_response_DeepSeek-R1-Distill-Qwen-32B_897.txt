@@ -1,0 +1,34 @@
+Okay, I need to tackle this user's query. They want me to act as a news summarizer and moral expert. The task is to first identify morally framed words in the provided article and then write a summary preserving those moral framings. 
+
+First, I'll read through the article carefully. It's about Colorado's marijuana legalization and neighboring states challenging it. The user provided specific steps: step 1 is to find all single words with moral framing, each on a new line starting with *. Then, step 2 is to write a concise summary using those words.
+
+I'll start by identifying morally charged words. Words like "defends," "challenges," "unconstitutional," "grievance," "undermining," "contraband," "reaps," "bear," "fails," "frustrated," "oath," "justice," "surprise," "grandstanding," "wrong," "history." These words carry moral implications, showing support, opposition, or judgment.
+
+Next, I'll summarize the article, making sure to include these words where appropriate. The summary should be under 200 words, so I need to be concise. I'll highlight Colorado's stance, the lawsuit from Nebraska and Oklahoma, the arguments on both sides, and the legal and moral implications.
+
+I should ensure the summary flows logically, presenting both Colorado's defense and the plaintiffs' arguments, while embedding the morally framed words naturally. I'll avoid technical jargon to keep it accessible but maintain the moral perspective the original article had.
+
+Finally, I'll review the summary to ensure it meets the word limit and that all key points are covered, including the financial impacts, legal precedents, and the broader implications of the case.
+</think>
+
+**STEP 1:**  
+* defends  
+* challenges  
+* unconstitutional  
+* grievance  
+* undermining  
+* contraband  
+* reaps  
+* bear  
+* fails  
+* frustrated  
+* oath  
+* justice  
+* surprise  
+* grandstanding  
+* wrong  
+* history  
+
+**SUMMARY:**  
+Colorado's Attorney General, John Suthers, has vowed to defend the state's marijuana legalization law, Amendment 64, against a lawsuit filed by Nebraska and Oklahoma. The neighboring states argue that Colorado's law violates federal marijuana bans and the Constitution's supremacy clause, claiming it undermines their efforts to enforce anti-marijuana laws. They allege that Colorado's legal marijuana is flowing into their states, causing financial and legal strains. Suthers dismissed the lawsuit as meritless, stating it stems from federal enforcement failures rather than Colorado's voter-approved policy. Nebraska Attorney General Jon Bruning criticized the federal government for not enforcing marijuana laws in Colorado, while Colorado Governor John Hickenlooper expressed skepticism about the lawsuit's constructive nature. Legal experts note the case is unprecedented, with Colorado generating over $60 million in marijuana-related revenue. Critics argue the lawsuit is political grandstanding, as no state medical marijuana laws have been overturned due to federal law. The case highlights tensions between state sovereignty and federal authority, with Colorado asserting it is on the right side of history.  
+**END OF SUMMARY.**

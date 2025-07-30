@@ -1,0 +1,28 @@
+Alright, I need to help the user by summarizing the news article while preserving the moral framing. Let me break down the task.
+
+First, I should identify the morally framed words. I'll go through the article and pick out words that carry a moral connotation. Words like "controversial," "deny," "discrimination," "uproar," "opposition," "veto," "discriminate," "toxic," "boycott," "intimidate," and "liberty" stand out as they relate to moral issues.
+
+Next, I need to write a concise summary using these words. The summary should capture the essence of the article, focusing on the political debate around SB1062. I'll mention the bill's supporters, opponents, and the governor's stance. I'll ensure that the moral terms are included to reflect the author's framing.
+
+I should keep the summary under 200 words, making it clear and to the point. I'll structure it to highlight the controversy, the calls for veto, the arguments from both sides, and the potential impact on Arizona's image. This way, the moral dimensions are preserved as per the user's request.
+</think>
+
+**STEP 1:**
+
+* Controversial  
+* Deny  
+* Discrimination  
+* Uproar  
+* Opposition  
+* Veto  
+* Discriminate  
+* Toxic  
+* Boycott  
+* Intimidate  
+* Liberty  
+
+**SUMMARY:**  
+
+Prominent Republicans and others are urging Arizona Gov. Jan Brewer to veto Senate Bill 1062, which allows businesses to deny service based on religious beliefs. The bill has sparked national controversy, with critics arguing it enables discrimination against gays. Supporters claim it protects religious freedom, but opponents, including Arizona's business community and Republican senators, warn it is "toxic" and could harm the state's image. Brewer, known for deliberate decision-making, is weighing the bill's implications. Some lawmakers who supported the bill now call for a veto, citing media exaggeration. The bill's backers, like the Center for Arizona Policy, argue it clarifies existing law and protects against federal overreach. However, Democrats and civil rights groups warn it will divide the state and enable discrimination. The debate highlights tensions over religious liberty versus anti-discrimination protections.  
+
+**END OF SUMMARY.**

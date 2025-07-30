@@ -1,0 +1,14 @@
+Okay, so I need to help the user summarize a news article while preserving the moral framing. The user provided the article and the specific morally framed words: "prevent" and "promote." 
+
+First, I'll read the article carefully to understand the key points. The main topics are the US-Japan climate talks, their discussions on cooperation in science and tech to prevent global warming, the US's new plan with voluntary limits, Japan's intention to ratify Kyoto, and Bush's rejection of Kyoto which caused international outcry.
+
+I need to make sure the summary includes the words "prevent" and "promote." I'll start by outlining the main events: the talks ending, the topics discussed, the US's new plan, and Japan's stance on Kyoto.
+
+I should structure the summary to flow logically, starting with the talks, then the US's plan, their commitment to R&D, Japan's position, and the international reaction to Bush's decision.
+
+I'll check the word count to ensure it's under 200 words. Also, I'll make sure to use the morally framed words where appropriate, like "prevent global warming" and "promote research and development."
+
+Finally, I'll make sure the summary starts with "SUMMARY:" and ends with "END OF SUMMARY." without any markdown, just plain text.
+</think>
+
+SUMMARY: US and Japan concluded two days of climate talks in Tokyo, focusing on cooperation in science and technology to prevent global warming. The discussions followed President George Bush's announcement of a new US plan, which emphasizes voluntary limits on greenhouse gas emissions tied to economic growth, rather than mandatory targets. The US stated its commitment to promoting research and development in climate change. Meanwhile, Japan reaffirmed its intention to ratify the Kyoto Protocol, despite President Bush's controversial rejection of the 1997 agreement, which sparked international outcry over its potential hindrance to US economic growth. END OF SUMMARY.

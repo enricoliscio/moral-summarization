@@ -1,0 +1,15 @@
+<think>
+Alright, so I need to help this user by summarizing the news article they provided. The user specified that I should act as a news summarizer assistant and a moral expert, ensuring that the summary preserves the moral framing the author gave. 
+
+First, I'll read through the article to understand the main points. It's about Arkansas and Indiana revising their Religious Freedom laws. Arkansas' Governor Hutchinson initially refused to sign a bill due to discrimination concerns, especially against LGBT individuals. The legislature amended the bill to align with the federal RFRA, removing provisions that allowed discrimination. In Indiana, they also revised their law to explicitly prohibit discrimination based on sexual orientation or gender identity after facing backlash.
+
+I notice the moral framing here is about balancing religious freedom with anti-discrimination protections. The author highlights the pressure from public opinion, family members, and businesses like Walmart, which adds a moral dimension by showing the impact on personal and corporate values.
+
+I need to ensure the summary is concise, under 200 words, and captures these elements. I should mention the key actions of the governors, the legislative changes, the reasons behind them, and the moral implications, like generational differences and business pressures.
+
+I'll structure the summary to first mention Arkansas' actions, then Indiana's, and touch on the moral aspects like family influence and business opposition. I'll keep each sentence focused and avoid unnecessary details to stay within the word limit.
+
+Finally, I'll make sure the summary starts with "SUMMARY:" and ends with "END OF SUMMARY." as per the instructions. I'll double-check the word count to ensure compliance.
+</think>
+
+SUMMARY: Arkansas Gov. Asa Hutchinson signed a revised Religious Freedom Reformation Act after initially refusing to sign the original bill, which he feared could enable discrimination against LGBT individuals. The new version aligns with the federal Religious Freedom Restoration Act (RFRA) and removes provisions allowing businesses to discriminate. Meanwhile, Indiana legislators amended their controversial RFRA law to explicitly prohibit discrimination based on sexual orientation or gender identity, following national backlash. Hutchinson cited pressure from his son, Seth, who urged him to veto the original bill, highlighting a generational divide on the issue. Additionally, Walmart CEO Doug McMillon pressured Hutchinson to veto the bill, arguing it threatened inclusion. The revised laws reflect a balance between religious freedom and anti-discrimination protections, addressing moral concerns about equality and fairness. END OF SUMMARY.

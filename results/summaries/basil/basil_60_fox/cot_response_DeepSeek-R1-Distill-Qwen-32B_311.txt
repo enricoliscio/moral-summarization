@@ -1,0 +1,35 @@
+Alright, I need to tackle this query. The user wants me to act as a news summarizer and a moral expert. They provided a news article about Vincente Fox's comments on Trump's wall and other related events. My task is two-fold: first, identify all the morally framed words, and second, summarize the article while preserving those moral framings.
+
+Starting with the first step, I need to go through the article and pick out words that carry moral connotations. Words like "chipping in," "f***ing wall," "false prophet," "desert," "benefit," "open their eyes," "defend," "crazy man," "egocentric," "stupid wall," "hosting," "right," "silence," "citizen," "immigrant," "dangerous," "damaging," and "ill-advised" stand out as they carry strong moral or evaluative meanings.
+
+Next, for the summary, I have to condense the article into 200 words or less, making sure to include as many of these moral words as possible. I should structure it to highlight Fox's refusal to pay for the wall, his criticism of Trump, the Hispanic vote in Nevada, and the broader implications of Trump's policies. Also, I need to mention Ramos's experience and Biden's criticism to provide context.
+
+I should ensure the summary flows logically, starting with Fox's stance, moving to his concerns about the Hispanic vote, then his critique of Trump's character, followed by the reactions from Calderón and Trump, Ramos's encounter, and finally Biden's comments. This structure maintains the moral framing and provides a coherent overview of the article.
+
+I also need to keep the language clear and concise, avoiding any markdown as per the user's request. Making sure each sentence is impactful yet brief will help stay within the word limit. I'll double-check to include all the key points without unnecessary details, ensuring the summary is both informative and maintains the moral perspective of the original text.
+</think>
+
+### STEP 1:  
+* chipping in  
+* f***ing wall  
+* false prophet  
+* desert  
+* benefit  
+* open your eyes  
+* defend  
+* crazy man  
+* egocentric  
+* stupid wall  
+* hosting  
+* right  
+* silence  
+* citizen  
+* immigrant  
+* dangerous  
+* damaging  
+* ill-advised  
+
+---
+
+### SUMMARY:  
+Former Mexican President Vicente Fox firmly opposes Donald Trump's plan to build a border wall, stating, "I’m not going to pay for that f***ing wall!" He criticized Trump for lacking Republican principles and called him "egocentric." Fox expressed concern over Trump winning 44% of the Hispanic vote in Nevada, urging Hispanics to "open their eyes" and not support a "false prophet" who would lead them astray. He warned that Trump’s administration would harm the nation. Fox’s comments align with his successor, Felipe Calderón, who also rejected funding the wall, calling it "stupid" and "useless." Trump, however, remained defiant, saying the wall would "just got taller" after Calderón’s refusal. Meanwhile, journalist Jorge Ramos recounted his confrontation with Trump, emphasizing the importance of free speech. U.S. Vice President Joe Biden echoed criticism of Trump’s "dangerous" rhetoric, asserting it does not reflect the majority of Americans. END OF SUMMARY.

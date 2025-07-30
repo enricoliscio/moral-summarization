@@ -1,0 +1,37 @@
+Alright, let me try to figure out how to approach this user's query. So, the user has provided a news article about an advertisement in Florida targeting Jewish populations regarding Israel and US policy. They want me to first identify all the morally framed words in the text and then write a summary preserving those moral framings.
+
+First, I need to understand what "morally framed" words mean. These are words that carry a moral judgment or imply a value judgment. Words like "combustible," "stoke anxiety," "risks," "nuclear arms," "apologetic," etc., might be examples. I should go through the article and pick out each word that has a moral connotation.
+
+Next, I need to summarize the article, making sure to include as many of these morally framed words as possible. The summary should be concise, under 200 words, and should capture the essence of the article while highlighting the moral aspects.
+
+I should also structure my response by first listing the morally framed words in STEP 1, each on a new line with a *, and then write the SUMMARY after that, ending with the specified tokens.
+
+I need to make sure I don't miss any words that carry moral weight. For example, "combustible" implies something explosive or dangerous, "stoke anxiety" suggests creating fear, "risks" implies danger, "nuclear arms" is a threat, "apologetic" suggests weakness or guilt, etc.
+
+After identifying all such words, I'll craft a summary that includes these terms, ensuring the summary flows naturally and accurately represents the article's content while emphasizing the moral framing.
+
+I should also check that the summary is within the word limit and properly formatted. Making sure that the response is clear and meets all the user's requirements is crucial.
+</think>
+
+**STEP 1:**  
+* combustible  
+* stoke anxiety  
+* risks  
+* nuclear arms  
+* wait  
+* American strength  
+* apologies  
+* apologetic  
+* swipe  
+* volatile  
+* strategists  
+* aide  
+* contributor  
+* reserved  
+* airtime  
+* consulted  
+* approved  
+
+**SUMMARY:**  
+Israel and Middle East policy often spark intense political debates, and a new ad targeting Jewish communities in Florida aims to heighten concerns about American policies in the region. The ad uses a clip of Israeli Prime Minister Benjamin Netanyahu warning about the dangers of a nuclear Iran, emphasizing the urgency of the situation. A dramatic soundtrack accompanies Netanyahu's statement, urging the U.S. to act decisively. The ad concludes with a direct criticism of President Obama's foreign policy, calling for "American strength, not apologies," a clear "swipe" at his approach. Produced by the group Secure America Now, led by Republican strategists, the ad has reserved significant airtime in key Florida markets. However, the Israeli government was neither consulted nor approved the ad, highlighting tensions over its messaging.  
+**END OF SUMMARY.**

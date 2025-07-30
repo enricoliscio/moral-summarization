@@ -1,0 +1,18 @@
+Alright, let me try to figure out how to approach this query. The user is asking me to act as a news summarizer assistant and a moral expert. They want me to summarize a given news article while preserving the moral framing that the author used. 
+
+First, I need to understand what the user means by "morally framed words." From the example they provided, it seems they're referring to words that carry a positive or commendable connotation, such as "heroic," "courageous," or "dedicated." These words highlight the astronauts' efforts in a positive light, emphasizing their bravery and the importance of their mission.
+
+Looking at the provided article, the author uses words like "heroic," "courageous," "dedicated," and "vital" to describe the astronauts' actions. My task is to ensure that these words are included in the summary to maintain the moral tone.
+
+Next, I need to condense the article into a summary of no more than 200 words. I'll start by identifying the key points: the astronauts performed a spacewalk to repair the space station, they installed thermal covers on motors, the purpose of these covers, and the astronauts involved. 
+
+I should structure the summary to highlight the astronauts' heroic and courageous efforts, emphasizing their role in ensuring the space station's functionality. I'll also mention the potential risks they faced, which adds to the moral framing by showcasing their dedication and the importance of their mission.
+
+I need to make sure the summary flows well and includes all the essential details without exceeding the word limit. I'll start by stating the main action, then explain the repair work, the purpose of the covers, and conclude with the astronauts' roles and the significance of their mission.
+
+Finally, I'll review the summary to ensure it preserves the moral tone by using the specified words and accurately reflects the article's content. I should avoid adding any new information or deviating from the original context.
+</think>
+
+SUMMARY:  
+Florida astronauts Linda Godwin and Daniel Tani performed a heroic spacewalk on Monday to repair the International Space Station. They installed thermal covers on motors that control the station's solar wings, shielding them from extreme space temperatures and preventing power issues. This vital repair ensures the solar panels continue to generate electricity for the station. The astronauts demonstrated courage and dedication as they rode the robot arm 50 feet up the station's side, showcasing their commitment to maintaining the space station's functionality. Their efforts highlight the importance of teamwork and innovation in overcoming challenges in space exploration.  
+END OF SUMMARY.

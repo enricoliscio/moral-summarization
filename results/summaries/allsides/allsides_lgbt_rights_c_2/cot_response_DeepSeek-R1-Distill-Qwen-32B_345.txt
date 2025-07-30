@@ -1,0 +1,28 @@
+Okay, so the user has given me a task to summarize a news article while preserving the moral framing. They also want me to identify all the morally framed words first. Let me break this down step by step.
+
+First, I need to understand the article. It's about the Republican Party's stance on LGBT issues, with some pro-LGBT Republicans supporting Trump. There's a speech by Peter Thiel, who's gay and a Republican, and he talks about being proud but also criticizes the party's platform. The platform is quite anti-LGBT, opposing same-sex marriage, supporting conversion therapy, etc. Trump's support is mixed—he says he's a friend but his party's platform is against many LGBT rights. Pence's views are also extreme against LGBT.
+
+Now, the user wants me to first identify all the morally framed words. I'll go through the article and pick out words that carry a moral judgment. Words like "anti-LGBT," "opposes," "conversion therapy," "refuse," "oppress," "hateful," "extreme," "opposing," "societal collapse." These words have strong moral connotations.
+
+Next, I need to summarize the article, keeping those moral words. The summary should be concise, under 200 words. I'll start by stating the main points: the GOP's anti-LGBT platform, Thiel's mixed support, Trump's unclear stance, and Pence's extreme views. I'll make sure to include the morally framed words to preserve the author's framing.
+
+I should ensure that the summary flows well and covers all key points without getting too detailed. I'll mention Thiel's speech, the platform's specifics, Trump's support but unclear position, and Pence's role. That should cover the main moral aspects highlighted in the article.
+
+I think I've covered all the steps. I'll list the morally framed words first, then write the summary, making sure to include those words where appropriate. Keeping it under 200 words is important, so I'll be concise but thorough.
+</think>
+
+**STEP 1:**  
+* anti-LGBT  
+* oppose  
+* conversion therapy  
+* refuse  
+* oppress  
+* hateful  
+* extreme  
+* opposing  
+* societal collapse  
+
+**SUMMARY:**  
+The Republican Party's 2016 platform has been criticized as the most anti-LGBT in history, opposing same-sex marriage, supporting conversion therapy, and allowing businesses to refuse service to LGBT couples. Despite this, pro-LGBT Republicans, including PayPal co-founder Peter Thiel, have expressed support for Donald Trump, calling him the most supportive GOP candidate in history. Thiel, who is gay, praised the party during the GOP convention but criticized its focus on transgender bathroom debates, calling it a distraction. Trump, who claims to be a "friend of the gay community," has been vague on his stance, supporting state-level decisions on same-sex marriage and backing the First Amendment Defense Act, which opposes federal recognition of same-sex marriage. Trump’s vice presidential pick, Mike Pence, has been labeled as having "more extreme" views on LGBT rights than any modern VP nominee, opposing equal rights for LGBT individuals and describing gay marriage as a sign of "societal collapse."  
+
+**END OF SUMMARY.**

@@ -1,0 +1,32 @@
+Okay, so the user wants me to act as a news summarizer assistant and a moral expert. They provided a specific news article and instructions on how to process it. Let me break this down.
+
+First, the user has given two main tasks. The first is to identify all the single words that are morally framed in the article. They call this STEP 1, and they want each word listed with an asterisk. The second task is to write a summary that preserves the moral framing, ending with specific tokens.
+
+Looking at the article, I need to find words that carry moral connotations. Words like "apologized," "offended," "warned," "never," "could," "chairmanship," "attack," "criticized," "force," "history," "appeal," "qualified," "cut pork." These words seem to carry moral weight because they relate to actions, responsibilities, and judgments.
+
+Next, for the summary, I need to condense the article while keeping these moral terms. The key points are Braley's mistake, the context of the election, the role of farmers, the attack by the PAC, the Republican response, and the moral implications of his words. I should make sure the summary flows naturally and stays within 200 words.
+
+I also need to ensure that the summary starts with "SUMMARY:" and ends with "END OF SUMMARY." I should avoid markdown and keep it plain text. Let me make sure I include all the morally framed words without making it sound forced.
+
+Wait, did I miss any morally framed words? Let me go through the article again. "Apologized," "offended," "warned," "never," "could," "chairmanship," "attack," "criticized," "force," "history," "appeal," "qualified," "cut pork." That seems comprehensive.
+
+Now, putting it all together, the summary should highlight Braley's mistake, the political implications, the role of farmers, and the criticism he faced. I need to make sure it's concise and captures the moral framing effectively.
+</think>
+
+**STEP 1:**  
+* apologized  
+* offended  
+* warned  
+* never  
+* could  
+* chairmanship  
+* attack  
+* criticized  
+* force  
+* history  
+* appeal  
+* qualified  
+* cut pork  
+
+**SUMMARY:**  
+Representative Bruce Braley, an Iowa Democrat running for Senate, faced backlash after a video surfaced of him warning that a farmer from Iowa without a law background could become Judiciary Committee chairman. Braley apologized to Senator Chuck Grassley and others, acknowledging his family's ties to Iowa agriculture. Grassley, a Republican, could become chairman if his party wins the Senate. Braley's remarks were criticized by Republicans, including Joni Ernst, who emphasized her farming background as part of her campaign. The incident highlights the political risks of offhand remarks and the influence of farmers in Iowa politics. END OF SUMMARY.

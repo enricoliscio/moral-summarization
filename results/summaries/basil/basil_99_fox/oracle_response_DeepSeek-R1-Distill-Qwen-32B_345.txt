@@ -1,0 +1,16 @@
+Alright, so the user has given me a news article and wants me to summarize it while preserving the moral framing. The article is about Republicans demanding Schiff's resignation over his claims of Trump-Russia collusion, which Mueller found no evidence for. 
+
+First, I need to identify the morally charged words the author used. They include collusion, incompatible, consistent, probe, lying, leaking, outrageous, conspiracy, colluded, investigation, false, undermining, hacking, dirt, meetings, lied, meeting, job, oversight. I must make sure these words are included in the summary.
+
+I'll start by outlining the main points: Republicans on the House Intelligence Committee want Schiff to resign because of his repeated claims about collusion, despite Mueller's findings. They sent a letter and confronted him during a hearing. Schiff defended his stance, citing Russian activities. Pelosi supports him, saying the calls for his resignation are ridiculous.
+
+I need to keep the summary under 200 words, so I'll be concise. I'll mention the letter, the hearing, their accusations, Schiff's defense, and Pelosi's support. I'll make sure to include all the key moral terms without making it too lengthy.
+
+Let me structure this: Start with the Republicans' demand, their reasons, mention the letter and hearing. Then, note Schiff's defense, Mueller's probe, and Pelosi's backing. Ensure all the moral words are included naturally in the summary.
+
+I should avoid any markdown and keep it in plain text. Also, the summary should be after "SUMMARY:" and end with "END OF SUMMARY." I need to double-check the word count to stay within 200 words.
+
+Putting it all together, making sure the flow is logical and all key points are covered with the moral framing intact. That should meet the user's requirements.
+</think>
+
+SUMMARY: Every Republican on the House Intelligence Committee demanded Rep. Adam Schiff step down as chairman, citing his repeated claims of Trump-Russia collusion, which Mueller's probe found no evidence for. In a letter, they accused Schiff of acting inconsistently with his constitutional duties and urged his resignation. They also criticized him during a hearing, calling his actions "incompatible" with his role and "undermining" public faith. Schiff defended his stance, pointing to Russian hacking, offers of dirt on Hillary Clinton, and meetings with Russians, insisting collusion occurred. President Trump and Sen. Lindsey Graham further attacked Schiff, with Trump calling him a liar and Graham comparing him to Oliver Stone. Schiff, supported by House Speaker Nancy Pelosi, remains committed to securing the full Mueller report, with Democrats vowing to continue oversight despite Republican calls for his removal. END OF SUMMARY.

@@ -1,0 +1,15 @@
+Alright, so the user has given me a task to summarize a news article about Mugabe's election in Zimbabwe. They want the summary to be concise, no more than 200 words, and to follow a specific format with "SUMMARY:" and "END OF SUMMARY." tokens. 
+
+First, I need to read through the article carefully to understand the main points. The article talks about Robert Mugabe winning the election, which is disputed by the opposition and Western countries but supported by African nations. There are mentions of rigged elections, violence, and international reactions. 
+
+I should identify the key elements: Mugabe's victory, the fraud allegations, the split between African and Western responses, Mugabe's supporters' claims, and the consequences like sanctions and regional concerns. Also, the economic situation in Zimbabwe and South Africa's perspective are important.
+
+I need to condense this information into a coherent summary without exceeding the word limit. I should make sure to include Mugabe's percentage, the opposition's reaction, Western criticism, African support, and the implications for Zimbabwe and the region. 
+
+I'll structure the summary by starting with Mugabe's win, then the fraud claims, followed by the split between African and Western responses, and end with the regional stability concerns. I'll keep each sentence concise to stay within the word limit.
+
+Now, I'll draft the summary, ensuring it's clear and covers all critical points. I'll check the word count to make sure it's under 200 words. Once done, I'll format it with the required tokens at the beginning and end.
+</think>
+
+SUMMARY:  
+Robert Mugabe won Zimbabwe's disputed election with 56% of the vote, defeating Morgan Tsvangirai, who accused the poll of being the "biggest electoral fraud" he had witnessed. Western countries, including the U.S. and Britain, condemned the election as flawed and rigged, with President George Bush stating the U.S. would not recognize Mugabe's government. Canada and other nations awaited a Commonwealth report before taking action. In contrast, African nations, including South Africa, largely accepted the result as legitimate, with regional observers calling the elections "transparent, credible, free, and fair." Mugabe's rural strongholds saw high voter turnout, while urban areas, where Tsvangirai had strong support, faced disorganization and low participation. Zimbabwe's economy is in crisis, with high unemployment and inflation, raising concerns about regional stability as South Africa seeks to prevent an influx of refugees. Tsvangirai ruled out open rebellion but called for peaceful protests, while Mugabe's supporters celebrated the result. END OF SUMMARY.

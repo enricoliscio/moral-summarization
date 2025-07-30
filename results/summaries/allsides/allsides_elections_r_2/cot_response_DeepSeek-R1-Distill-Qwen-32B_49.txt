@@ -1,0 +1,23 @@
+Okay, so the user wants me to summarize a news article while preserving the moral framing. First, I need to understand what the article is about. It's about a Project Veritas video showing a Sanders campaign organizer making controversial statements. The user has specified two main steps: identifying morally framed words and then writing a summary that includes those words.
+
+For the first step, I need to go through the article and pick out words that carry moral connotations. Words like "burn," "violence," "reeducation," "Nazis," "gulags," "riots," "fascists," and "scared" come to mind because they imply negative actions or judgments. I should list each of these words with an asterisk.
+
+Next, the summary needs to include as many of these words as possible. I'll have to condense the article, focusing on the key points: the video's release, the organizer's statements about violence, support for extreme measures, and the reactions. I should mention that the Sanders campaign didn't respond, and note Project Veritas' credibility issues.
+
+I need to make sure the summary is concise, under 200 words, and captures the moral framing without adding personal opinions. I'll structure it to first introduce the video, then outline the organizer's comments, and conclude with the implications and the campaign's lack of response.
+
+I should also ensure that the summary flows well and accurately represents the article's content. I'll avoid any markdown and keep it in plain text as per the instructions. Double-checking for any missed morally framed words and ensuring the summary includes them is important to meet the user's requirements.
+</think>
+
+**STEP 1:**  
+* Burn  
+* Violence  
+* Reeducation  
+* Nazis  
+* Gulags  
+* Riots  
+* Fascists  
+* Scared  
+
+**SUMMARY:**  
+A Project Veritas video revealed controversial remarks by Kyle Jurek, a Bernie Sanders campaign organizer, suggesting that "cities burn" if Trump is reelected and predicting violence at the 2020 Democratic National Convention. Jurek compared Trump supporters to Nazis, advocated for Soviet-style gulags as a form of reeducation, and expressed support for antifa tactics. He also threatened violence against police and media outlets, stating that "cops are going to be beaten" and calling for extreme measures to "break billionaires of their privilege." Jurek claimed that reeducation, akin to post-WWII Germany, is necessary to combat fascism, aligning with Sanders' free tuition proposal. The Sanders campaign did not respond to the allegations. Project Veritas highlighted Jurek's ties to the campaign, raising questions about whether he represents the party's true face. Critics have accused Project Veritas of deceptive editing, though the organization denies these claims. END OF SUMMARY.

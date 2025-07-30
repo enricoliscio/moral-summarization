@@ -1,0 +1,29 @@
+Okay, so I'm trying to help the user with their query. They want me to summarize a news article while preserving the moral framing. The user provided specific steps: first, identify all the morally framed words, then write a summary using those words.
+
+Looking at the article, it's about NYC's Commission on Human Rights declaring that using "illegal alien" is illegal under anti-discrimination laws. The article argues that this might be unconstitutional under the First Amendment. The key morally charged words are "illegal alien," "discrimination," "harassment," "constitutional," "unconstitutional," "First Amendment," "free speech," "protected," "anti-discrimination," "anti-harassment," "prohibit," "limit," and "speech."
+
+Now, I need to write a concise summary that includes these words. I'll start by stating the commission's ruling, then mention the potential constitutional issues. I'll explain the law's scope, the concerns about limiting free speech, and the expert's opinion on the matter. I'll make sure to keep it under 200 words and include all the identified moral terms.
+
+Wait, did I miss any words? Let me check the article again. The words listed seem to cover the main moral points. I think I have all of them. Now, structuring the summary to flow logically, ensuring each moral term is included naturally. I'll make sure the summary is clear and sticks to the main points without getting too detailed.
+</think>
+
+**STEP 1:**  
+* illegal alien  
+* violate  
+* discriminate  
+* unconstitutional  
+* First Amendment  
+* protected  
+* demean  
+* humiliate  
+* harassment  
+* illegal  
+* anti-discrimination  
+* anti-harassment  
+* prohibit  
+* free speech  
+* limit  
+
+**SUMMARY:**  
+New York City's Commission on Human Rights ruled that using the term "illegal alien" to demean or humiliate undocumented individuals violates anti-discrimination laws, potentially leading to fines. However, critics argue this broad interpretation may be unconstitutional under the First Amendment, as it limits free speech. The law protects against workplace harassment, tenant discrimination, and public accommodation issues, but the commission's guidance eliminates the "severe or pervasive" standard, making even single comments illegal. Legal experts, like Hans Bader, warn this could infringe on free speech rights, as the government cannot simply prohibit politically incorrect statements without proper limits. The debate centers on balancing anti-discrimination protections with constitutional guarantees of free speech.  
+**END OF SUMMARY.**

@@ -1,0 +1,39 @@
+<think>
+Alright, I need to help the user by summarizing the news article they provided. They also want me to identify the morally framed words and then write a summary preserving those moral framings. 
+
+First, I'll read through the article to understand the context. It's about Donald Trump's campaign where he talks about building a wall on the Mexico border and how two former Mexican presidents, Vicente Fox and Felipe Calderón, are reacting to his plan. 
+
+Now, for step one, I need to find all the single words that carry moral framing. These are words that express judgment or evaluation. Let me go through the article again.
+
+- "egocentric" describes Trump negatively, so that's a moral word.
+- "false prophet" is a strong negative term used about Trump.
+- "stupid" is used to describe the wall, which is a moral judgment.
+- "misinformed" is a negative assessment of Trump's knowledge.
+- "harm" indicates a negative consequence, so that's moral.
+- "profanity" refers to Trump's use of bad language, which is a moral issue.
+- "apologize" is a moral action, implying he should correct his mistake.
+
+So I'll list these as the morally framed words.
+
+Next, I need to write a concise summary. I should include the key points: Trump's wall plan, the former presidents' opposition, their criticisms, Trump's response, and the cost. I need to keep it under 200 words and include as many of the moral words as possible without making it too long.
+
+I'll start by stating Trump's plan and the cost. Then mention the former presidents' refusal to pay, their criticism of Trump as egocentric and using the term "false prophet." Include their points about the wall being stupid and the economic harm. Then, mention Trump's response about leverage and his criticism of their language.
+
+I think that covers the main points and includes the moral words. Let me check the word count to ensure it's under 200. It looks good.
+
+Finally, I'll present the summary clearly, making sure it's concise and captures the moral framing as per the user's request.
+</think>
+
+**STEP 1:**  
+* egocentric  
+* false prophet  
+* stupid  
+* misinformed  
+* harm  
+* profanity  
+* apologize  
+
+**SUMMARY:**  
+Donald Trump has repeatedly vowed to build a wall along the U.S.-Mexico border, insisting Mexico should pay for it. Two former Mexican presidents, Vicente Fox and Felipe Calderón, have strongly opposed this plan, calling it "stupid" and refusing to contribute any funds. Fox criticized Trump as "egocentric" and urged Hispanic voters to reject Trump, calling him a "false prophet." Calderón argued that the wall would be ineffective and harm the U.S. economy. Trump, however, remains confident he can force Mexico to pay, though he was angered by Fox's use of profanity in his criticism, demanding an apology.  
+
+**END OF SUMMARY.**

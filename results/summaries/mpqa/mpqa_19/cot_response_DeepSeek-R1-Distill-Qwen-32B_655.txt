@@ -1,0 +1,23 @@
+Alright, I need to help the user by summarizing the given news article while preserving the moral framing. First, I should understand the task. The user wants me to identify morally framed words and then write a concise summary that includes those words.
+
+Looking at the article, I see several terms that carry moral connotations. Words like "disagree," "deny," "dumping," "cosying up," "hurt," "committed," "should," and "concerned" stand out. These words imply judgment or evaluation, which is essential for maintaining the moral framing.
+
+Next, I need to summarize the article. The main points are Tony Blair's disagreement with Australia's climate deal with the US, Australia's denial of abandoning Kyoto, the partnership details, critics' concerns, and Blair's stance on the issue. I should ensure the summary is under 200 words and includes the identified moral terms.
+
+I'll start by mentioning Blair's disagreement and Australia's denial. Then, I'll explain the partnership and the critics' viewpoint. Including Blair's comments about the US and his concerns about Kyoto's adequacy will wrap up the summary effectively. I must keep the language clear and concise, making sure each morally framed word is included where appropriate.
+
+Finally, I'll structure the response by first listing the morally framed words and then providing the summary, ensuring it's within the word limit and maintains the moral perspective.
+</think>
+
+**STEP 1:**  
+* Disagree  
+* Deny  
+* Dumping  
+* Cosying up  
+* Hurt  
+* Committed  
+* Should  
+* Concerned  
+
+**SUMMARY:**  
+Tony Blair expressed disagreement with Australia's decision to sign a climate change deal with the US, while Australia denied that this signaled a move away from the Kyoto Protocol. Critics argue that Australia is "cosying up" to the US, which opposes the Kyoto Protocol, despite claiming to remain committed to it. Blair noted that greenhouse gases are an area of obvious disagreement with the US and questioned whether the Kyoto Protocol goes far enough. Australia's Environment Minister, David Kemp, reaffirmed the country's commitment to Kyoto, while the Opposition's environment spokesman, Kelvin Thomson, urged Australia not to follow the US position on climate change. Blair emphasized his growing concern about climate change, stating, "The more I read about it, the more concerned I become." END OF SUMMARY.

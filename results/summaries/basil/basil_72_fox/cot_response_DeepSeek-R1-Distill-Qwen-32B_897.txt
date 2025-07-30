@@ -1,0 +1,28 @@
+<think>
+Okay, so I'm trying to help the user with their query. They want me to act as a news summarizer assistant and a moral expert. The task is to summarize a given news article while preserving the moral framing that the author used. 
+
+First, I need to understand what's being asked. The user provided a news article about President Trump considering Joe Lieberman as the new FBI director. They want me to do two things: identify all the morally framed single words and then write a summary that includes those words.
+
+For the first part, I need to go through the article and pick out words that carry moral connotations. Words like "controversial," "intriguing," "mistake," "integrity," "trust," "independence," and "nonpartisanship" stand out. These words are used to evaluate the situation from a moral perspective, so I'll list them each with a star.
+
+Next, the summary needs to be concise, under 200 words, and include as many of these moral words as possible. I'll start by outlining the main points: Trump is close to naming a new FBI director, Lieberman is the leading contender, his background, the reactions from senators, and the debate over whether a career politician should lead the FBI.
+
+I need to make sure the summary flows well and includes the moral framing. For example, mentioning that Lieberman's nomination is "controversial" and that some senators find it "intriguing" while others think it's a "mistake." Also, highlighting the debate about whether a career politician should lead the FBI, which ties into the moral aspects of integrity and trust.
+
+I should also keep the summary factual but incorporate the moral evaluations. I'll make sure to include the key points without getting too detailed, keeping it within the word limit. Finally, I'll end with the required tokens to indicate the summary's completion.
+
+I think I've covered all the steps. Now, I'll structure the response with the identified words first and then the summary, making sure to include the moral framing as specified.
+</think>
+
+**STEP 1:**  
+* Controversial  
+* Intriguing  
+* Mistake  
+* Integrity  
+* Trust  
+* Independence  
+* Nonpartisanship  
+
+**SUMMARY:**  
+President Trump is nearing a decision on a new FBI director, with former Democratic Sen. Joe Lieberman as the leading contender. Lieberman, a career politician with a history of crossing party lines, met with Trump and is seen as a potential unifying choice. His nomination is controversial, with some senators calling it "intriguing" while others, like Sen. Claire McCaskill, deem it a "mistake." Lieberman's law enforcement experience and political independence make him a unique candidate, but his history of endorsing both Democratic and Republican candidates raises questions about his ability to maintain the FBI's integrity and trust. Senate Majority Whip John Cornyn praised Lieberman's potential to secure bipartisan support, while Senate Minority Leader Chuck Schumer argued against selecting a career politician for the role. The debate highlights concerns over partisanship and the need for a leader who can uphold nonpartisanship in the FBI.  
+**END OF SUMMARY.**

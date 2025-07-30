@@ -1,0 +1,18 @@
+Okay, so the user has given me a query where they want me to summarize a news article. The article is about the surge in COVID-19 cases in the US, with specific mentions of California, Texas, Arizona, and Florida. They also mention Dr. Anthony Fauci's warnings and the political implications, especially with the upcoming election.
+
+First, I need to understand the key points of the article. The main points are the increase in cases, the new epicenters, Fauci's concerns, the potential doubling of cases, the impact on the economy, the EU's travel restrictions, criticism of Trump, and the measures taken by states like closing bars.
+
+I should start by identifying the most important information. The article mentions that new cases rose by over 47,000, which is the highest since the pandemic started. California, Texas, and Arizona are the new hotspots. Fauci is warning that this number could double, and he's concerned about the nationwide risk.
+
+Next, the article talks about the economic impact and the EU excluding the US from their safe list. There's also political criticism, with Biden blaming Trump for poor pandemic management. States are taking measures like closing bars again, and there's concern about upcoming celebrations like Independence Day leading to more cases.
+
+I need to condense all this into a summary of no more than 200 words. I'll structure it by mentioning the spike, the states affected, Fauci's warning, the potential for cases to rise further, the impact on the economy and travel, political criticism, and the measures being taken.
+
+I should ensure that the summary is concise and covers all the main points without getting too detailed. I'll make sure to include the key statistics and the implications mentioned, like the possible doubling of cases and the economic contraction.
+
+Also, I need to keep the language clear and straightforward, avoiding any markdown or special formatting. The summary should start with "SUMMARY:" and end with "END OF SUMMARY." as per the user's instructions.
+
+Let me put this together, making sure each sentence covers a key point without overlapping information. I'll check the word count to ensure it's under 200 words. Once done, I'll review it to make sure it accurately reflects the article's content and flows logically.
+</think>
+
+SUMMARY: U.S. COVID-19 cases surged by over 47,000 on Tuesday, the highest daily increase since the pandemic began, with California, Texas, and Arizona emerging as new hotspots. Dr. Anthony Fauci warned that daily cases could reach 100,000 unless measures are taken to control the virus. States like Texas and Florida have closed recently reopened bars, and some regions are facing ICU bed shortages. The pandemic has claimed over 126,000 lives in the U.S. and caused severe economic damage. The European Union has excluded the U.S. from its "safe list" for non-essential travel, and criticism of President Trump's pandemic response has intensified, with Joe Biden calling it a failure. Fauci expressed concern over potential spikes during Independence Day celebrations. END OF SUMMARY.

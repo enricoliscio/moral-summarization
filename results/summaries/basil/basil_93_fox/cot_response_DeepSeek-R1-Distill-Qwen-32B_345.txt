@@ -1,0 +1,37 @@
+Alright, I need to help the user with their query. They want me to act as a news summarizer assistant and a moral expert. The task is to summarize the given news article while preserving the moral framing. 
+
+First, I should understand the structure of the query. The user provided a news article about President Trump's immigration compromise and the reactions from Democrats and Republicans. They have two main tasks: identify morally framed words and write a summary preserving those words.
+
+For STEP 1, I need to extract all single words that carry moral connotations. I'll go through the article and pick out words that express approval, disapproval, or moral judgment. Words like "hostage," "chaos," "untenable," "pointless," "bad," "unacceptable," "senseless," "weakness," "strength," "reasonable," "good faith," and "serious" come to mind. These words are used to convey the moral stance of the speakers.
+
+Next, for the summary, I have to condense the article into 200 words or less, making sure to include as many of these morally framed words as possible. I'll start by outlining the main points: Trump's proposal, Democratic reactions, Republican support, and the ongoing shutdown's impact.
+
+I need to ensure the summary reflects the moral framing without getting bogged down in details. I'll mention how Democrats criticized Trump for holding workers hostage and the shutdown's impact, while Republicans praised the proposal as a good faith effort. I'll also note the ongoing stalemate and the need for compromise.
+
+I should keep the summary concise, focusing on the key reactions and the moral language used. I'll make sure to include the main points from both parties and the implications of the shutdown.
+
+Finally, I'll structure the summary to flow logically, starting with Trump's offer, moving to Democratic criticism, Republican support, and the ongoing government shutdown's effects. I'll end with the need for compromise to resolve the impasse.
+</think>
+
+**STEP 1:**
+
+* Hostage  
+* Chaos  
+* Untenable  
+* Pointless  
+* Bad  
+* Unacceptable  
+* Senseless  
+* Weakness  
+* Strength  
+* Reasonable  
+* Good faith  
+* Serious  
+
+---
+
+**SUMMARY:**  
+
+President Trump proposed a compromise to end the government shutdown, offering a three-year DACA extension for 700,000 recipients in exchange for $5.7 billion for a border wall. Democrats criticized the proposal, calling it "hostage-taking" and "untenable," accusing Trump of exploiting federal workers' suffering. House Speaker Nancy Pelosi and Senate Minority Leader Chuck Schumer demanded the government reopen before negotiations. Democrats also criticized the lack of permanent solutions for Dreamers and TPS recipients, calling the deal "pointless" and "unacceptable." Meanwhile, Republicans praised Trump's willingness to negotiate, labeling his proposal "reasonable" and a "good faith" effort. Senate Majority Leader Mitch McConnell emphasized compromise as a sign of strength, while House Republican Leader Kevin McCarthy urged Democrats to accept the deal. The shutdown continued, with 800,000 federal workers facing financial hardship, as both sides remained deadlocked.  
+
+**END OF SUMMARY.**

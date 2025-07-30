@@ -1,0 +1,12 @@
+Okay, I need to help the user by summarizing the given news article while preserving the moral framing. The user specified that I should focus on the morally framed words: enact, institute, controversial, contentious, spending, cut, trim. 
+
+First, I'll read through the article to understand the main points. It's about the Republican-controlled House reading the Constitution on the second day, making it a requirement for new bills to include a constitutional authority statement. They also plan to trim the budget by 5%, saving $35 million. The author uses words like "enact," "institute," "controversial," "contentious," "spending," "cut," and "trim."
+
+I should start by identifying the key events: the reading of the Constitution, the new rule for bills, and the spending cuts. I need to include the morally framed words where appropriate. 
+
+I'll structure the summary to highlight the Republicans' commitment to the Constitution, the new rule's symbolic nature, and the spending cuts. I'll make sure to use the words "enact," "institute," "controversial," "contentious," "spending," "cut," and "trim" as they appear in the article.
+
+I also need to keep the summary under 200 words and end with the specified tokens. Let me draft this step by step, ensuring all points are covered concisely while preserving the moral framing.
+</think>
+
+SUMMARY: On the second day of Republican rule, the U.S. House read the Constitution in full, a symbolic move reflecting their commitment to strict adherence to the founding document. Republicans plan to institute a new rule requiring all new bills to include a "Constitutional Authority Statement," citing the legal basis for enacting legislation. This move, seen as a key tenet of their effort to reduce federal government size, has drawn criticism for its potential to create controversial and contentious debates, as constitutional interpretations often vary. The House also announced a 5 percent spending cut, trimming budgets for leadership, members, and committees, expected to save $35 million over nine months. Critics argue the rule change may lack practical impact, as most legislation already undergoes constitutional vetting. The GOP's actions, including the costly reading of the Constitution, highlight their focus on renewing commitment to the Constitution and curbing spending. END OF SUMMARY.

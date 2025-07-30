@@ -1,0 +1,24 @@
+Okay, I need to help the user by summarizing the news article while preserving the moral framing. First, I'll read through the article carefully to understand the main points and the language used. The article is about the San Francisco Board of Supervisors passing a resolution labeling the NRA as a "domestic terrorist organization." They're linking the NRA to gun violence and urging local businesses to cut ties with them. 
+
+Now, the user has specific instructions. Step 1 is to identify all the single words that are morally framed. I'll go through the article and pick out words that carry a strong moral connotation. Words like "terrorist," "epidemic," "deceive," "disgraceful," "reckless," "worthless," "assault," and "hurt" stand out as they carry negative or moral judgments.
+
+Next, for the summary, I need to condense the article into about 200 words, making sure to include as many of these morally framed words as possible. I'll start by stating that the Board passed the resolution, highlighting the designation of the NRA as a domestic terrorist organization. I'll mention the epidemic of gun violence and the resolution's call to examine ties with the NRA. I should include the quotes from Supervisor Stefani and the NRA's response to show both sides' moral stances.
+
+I also need to note the statistics about gun violence and the NRA's opposition to gun control. Additionally, mentioning the recent shootings and the political context with Mitch McConnell and Trump adds context. I'll make sure to keep the summary concise but comprehensive, ensuring all key points are covered while preserving the moral framing.
+
+Finally, I'll structure the summary to flow logically, starting with the resolution, its implications, the arguments from both sides, and the broader context of gun control debates. This should meet the user's requirements and provide a clear, morally framed summary of the news article.
+</think>
+
+**STEP 1:**  
+* Terrorist  
+* Epidemic  
+* Deceive  
+* Disgraceful  
+* Reckless  
+* Worthless  
+* Assault  
+* Hurt  
+
+**SUMMARY:**  
+The San Francisco Board of Supervisors unanimously passed a resolution declaring the National Rifle Association (NRA) a "domestic terrorist organization," linking it to the "epidemic of gun violence" in the U.S. The resolution calls for examining local vendors' and contractors' ties to the NRA and urges the city to avoid doing business with it. Supervisor Catherine Stefani, who sponsored the resolution, stated that the NRA's opposition to gun control is "standing in the way of saving lives" and described the organization as "absolutely disgraceful." The resolution highlights that 100 Americans are killed daily by gun violence, making the U.S. gun homicide rate 25 times higher than other high-income countries. The NRA condemned the resolution, calling it a "worthless and disgusting'soundbite remedy'" and accused it of being a "reckless assault" on their freedoms. This move comes amid national attention on gun violence following recent mass shootings. The NRA also criticized Walmart's decision to stop selling certain ammunition, claiming it would "not make us any safer." The resolution aims to set a precedent for similar legislation at higher levels of government.  
+**END OF SUMMARY.**

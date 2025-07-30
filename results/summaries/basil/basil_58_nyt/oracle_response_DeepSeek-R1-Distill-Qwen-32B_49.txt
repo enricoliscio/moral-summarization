@@ -1,0 +1,18 @@
+<think>
+Alright, so the user has given me a query where I need to act as a news summarizer and a moral expert. The task is to summarize a news article while preserving the moral framing provided by the author. The user has specified that I should include as many of the morally framed words as possible in the summary. 
+
+First, I need to understand the article. It's about Gov. Chris Christie declaring his candidacy for president. The article discusses his personality, his strengths, and the challenges he's facing. The author uses specific words that carry moral connotations, which I need to include in the summary.
+
+I should start by identifying the main points of the article. Christie is running for president, emphasizing his forthrightness and experience. He's criticizing other candidates and the political system. His record has some issues, like economic problems and scandals, which affect his campaign.
+
+Next, I need to make sure I include the morally framed words provided: run, decision-making, calamity, turn, dysfunction, gridlock, under, turned, downgrades, growth, descended, payments, lawsuits, conspired, mire, scandal, stretched, lying, stealing, horse, get, force.
+
+I'll structure the summary by highlighting Christie's declaration, his strengths, his criticisms, the challenges he's facing, and the moral issues mentioned. I should keep it concise, within 200 words, and ensure that the moral framing is preserved.
+
+I need to avoid adding any personal opinions or interpretations beyond what's in the article. The summary should reflect the author's moral perspective accurately. 
+
+Let me draft the summary, making sure to incorporate the key points and the specified words. I'll check the word count to ensure it's within the limit and that all important aspects are covered without being too verbose.
+</think>
+
+SUMMARY:  
+Gov. Chris Christie declared his uphill run for president, emphasizing his forthrightness and experience as governor, while criticizing Washington's dysfunction and gridlock. He positioned himself as the only candidate capable of bringing strength and decision-making to the Oval Office, contrasting himself with rivals like Marco Rubio and Ted Cruz, who lack state governance experience. Christie highlighted his management of New Jersey's economic calamity and Hurricane Sandy, but acknowledged his record's flaws, including credit downgrades, anemic job growth, and a pension system in disarray. His campaign now relies on his personality, a mix of charm, vulnerability, and effrontery, as his record and judgment face scrutiny. Despite his magnetic appeal, Christie's path to the nomination is fraught with challenges, including better-funded and more popular rivals. His announcement sought political rebirth, but his oratory and stagecraft showed room for improvement. Republican voters remain skeptical, with many unable to envision supporting him. Christie's ability to turn his campaign around hinges on his ability to convince voters of his strength and integrity, despite the horse already being out of the barn. END OF SUMMARY.

@@ -1,0 +1,35 @@
+<think>
+Okay, so I'm trying to help this user who wants a summary of a news article with a focus on the moral framing. The user provided the article and specific instructions. Let me break this down step by step.
+
+First, I need to understand the task. The user wants me to act as a news summarizer and moral expert. I have to summarize the given article, making sure to preserve the moral framing that the author used. There are two main steps: identifying morally framed words and then writing the summary.
+
+Starting with STEP 1: Identifying morally framed words. I'll go through the article and pick out words that carry a moral connotation. Words like "attacks," "deep state," "jailing," "lashing out," "emails," "private," "collude," "undermine," "absolute right," and "direct." These words seem to carry judgment or imply wrongdoing, so they're morally framed.
+
+Next, for the summary, I need to condense the article into about 200 words. I should include the key points: Trump attacking the Justice Department, calling it "deep state," his criticism of Huma Abedin, the emails from the FOIA request, the FBI probe, and his references to Comey and Sessions. I also need to highlight Trump's claims about his right to control the Justice Department.
+
+I should make sure to keep the morally charged words in the summary to maintain the author's framing. The summary should flow logically, starting with Trump's attacks, moving to the specifics about Abedin and the emails, then to Comey and Sessions, and ending with Trump's claims about his authority.
+
+I need to be concise and ensure that each sentence captures the essence without unnecessary details. Also, I must stay within the word limit, so I'll have to be precise with each point.
+
+Let me check if I missed any key points. The article mentions Trump's return from Florida, the release of emails by the State Department, the role of Judicial Watch, and the context of the FBI's probe into Clinton's email use. I should include these elements to give a complete picture.
+
+I also need to make sure the summary doesn't take sides but accurately reflects the moral framing present in the original article. So, using words like "attacks," "deep state," and "undermine" will help convey that framing.
+
+Finally, I'll structure the summary to start with Trump's actions, then move to the specifics of the emails and the people involved, and conclude with his claims about his authority over the Justice Department. This should cover all the necessary points while preserving the moral tone.
+</think>
+
+**STEP 1:**  
+* Attacks  
+* Deep state  
+* Jailing  
+* Lashing out  
+* Emails  
+* Personal  
+* Collude  
+* Undermine  
+* Absolute right  
+* Direct  
+
+**SUMMARY:**  
+President Donald Trump renewed his criticism of the Justice Department, labeling it the "deep state," and called for the jailing of Hillary Clinton's former aide, Huma Abedin. Trump's tweet followed the release of Abedin's emails, which were uncovered during the FBI's probe into Clinton's use of a private email server. The emails, obtained through a Freedom of Information Act request, reportedly included State Department passwords sent to a personal account. Trump also criticized former FBI Director James Comey and Attorney General Jeff Sessions, claiming he has the "absolute right" to direct government investigations. Trump has consistently sought to undermine the Justice Department and FBI as the Russia probe intensifies.  
+END OF SUMMARY.

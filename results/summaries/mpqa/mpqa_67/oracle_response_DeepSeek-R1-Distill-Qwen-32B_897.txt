@@ -1,0 +1,17 @@
+Okay, so I need to help the user by summarizing this news article while preserving the moral framing. The user is a news summarizer assistant and a moral expert, so the summary needs to highlight the ethical issues involved. 
+
+First, I'll read through the article to understand the main points. The government dismissed a US human rights report, criticizing it by pointing out US violations like Guantanamo Bay. The report accuses Namibia's security forces of various abuses, including extra-judicial killings, torture, arbitrary arrests, and more. The government responds by questioning the US's credibility and the report's accuracy.
+
+Now, I need to identify the morally framed words the author used. They include "trashed," "violations," "killings," "tortured," etc. I should make sure to include as many of these as possible in the summary without making it too long.
+
+I should structure the summary to first mention the government dismissing the report, then list the violations highlighted by the report. Then, include Shivute's response about US hypocrisy, citing Guantanamo. Finally, mention the government's dismissal of the report's credibility and inaccuracies.
+
+I need to keep it concise, under 200 words. I'll start by stating the government dismissed the report, then outline the violations. Then, mention Shivute's counterpoints and the government's stance on the report's credibility. I'll make sure to use the moral terms to frame the issues as presented.
+
+Let me draft this step by step, ensuring each key point is covered with the appropriate moral language. I'll check the word count to stay within the limit. Once done, I'll present it clearly, starting with "SUMMARY:" and ending with "END OF SUMMARY."
+</think>
+
+SUMMARY:  
+The Namibian government dismissed a US human rights report detailing violations by its security forces, including extra-judicial killings, deaths in custody, torture, and arbitrary arrests. The report accused security forces, particularly the Special Field Force (SFF), of committing abuses against suspected associates of UNITA and the Caprivi Liberation Army (CLA). It highlighted failures to inform detainees of their rights, bring them before magistrates within 48 hours, and account for disappeared individuals. Information Permanent Secretary Mocks Shivute criticized the US for hypocrisy, citing its detention of prisoners at Guantanamo Bay without trial. Shivute dismissed the report as factually inaccurate and misleading, questioning its credibility. Namibia's government attached "little value" to the report, calling it a reproduction of unsubstantiated claims and historical inaccuracies.  
+
+END OF SUMMARY.

@@ -1,0 +1,18 @@
+Okay, so the user has given me a query where they want me to act as a news summarizer and a moral expert. The task is to summarize a news article while preserving the moral framing the author provided. The article is about leaks in the Trump administration and the comparison to Nixon's Watergate scandal.
+
+First, I need to understand the article's main points. It talks about how leaks led to Flynn's resignation and compares Trump's approach to Nixon's, suggesting a similar path. The author is critical of Trump's handling of leaks, pointing out that Nixon's attempts to stop leaks led to more problems, and Trump might be heading down the same path.
+
+I should identify the moral framing here. The article seems to argue that trying to stop leaks by creating a 'plumbers' team is counterproductive and leads to more issues. It's a cautionary tale about the dangers of such an approach.
+
+Now, I need to summarize this in under 200 words. I should include the key points: the Flynn leak leading to his resignation, the comparison to Watergate, the criticism of Trump's approach, the inefficacy of pursuing leakers, and the moral implication that this path could lead to more problems.
+
+I should make sure the summary captures the author's concern about the administration's handling of leaks and the potential negative outcomes, keeping the moral perspective intact.
+
+Let me structure the summary: start with the Flynn leak and its impact, mention the comparison to Nixon, discuss Trump's response and its parallels, note the inefficacy of pursuing leakers, and conclude with the moral implication of the administration's approach.
+
+I need to keep it concise, so I'll focus on the main ideas without getting into too much detail. Make sure it's clear that the article is warning against the administration's actions, similar to Nixon's, and the moral failing in that approach.
+
+Finally, I'll ensure the summary ends with the "END OF SUMMARY." token and stays within the word limit.
+</think>
+
+SUMMARY: The article examines the impact of leaks in the Trump administration, drawing parallels to the Nixon administration's handling of leaks during Watergate. The resignation of Michael Flynn over alleged communications with the Russian ambassador highlighted the persistence of leak culture in Washington. President Trump vowed to pursue leakers, echoing Nixon's creation of the "Plumbers" to stop leaks, which ultimately backfired. The article warns that Trump's approach risks repeating Nixon's mistakes, as leak investigations often fail to stop leaks and instead undermine morale and political stability. The Obama administration's record of leak investigations, including cases like Edward Snowden, shows that prosecuting leakers is rare and ineffective. Trump's recent directives to the FBI and Justice Department to find leakers, along with the leak of a memo by Rex Tillerson, underscore the futility of such efforts. The article concludes that the Trump administration's aggressive pursuit of leakers may exacerbate the problem, aligning with the Nixonian precedent of leak-related chaos. END OF SUMMARY.

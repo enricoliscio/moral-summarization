@@ -1,0 +1,13 @@
+Okay, I need to help the user by summarizing the given news article while preserving the moral framing. The user provided specific morally framed words that should be included: escalated, war, comparison, threats, defended, offensive. 
+
+First, I'll read the article carefully. It's about Trump and Cruz in the Republican primary, with Trump attacking Cruz over an ad involving Melania. The article mentions the super PAC, the ad with Melania's photo, and Trump's tweets comparing Heidi Cruz and Melania. There's also a reference to Todd Akin's offensive remarks in 2012.
+
+I need to make sure the summary includes all those moral words. Let me outline the key points: Trump escalated the conflict, using a war of words on Twitter. He made a photo comparison, which is a threat. Cruz defended his wife, calling Trump a coward. The media's reaction was subdued compared to the Akin situation.
+
+I should structure the summary to flow logically, starting with Trump's actions, then Cruz's response, and the comparison to Akin. I'll ensure each morally framed word is included naturally. Also, keep the summary under 200 words and within the specified tokens.
+
+Let me draft the summary, making sure to include each of the required words and maintain the moral tone. I'll check the word count to stay within limits. Finally, I'll review to ensure clarity and that all key points are covered without losing the moral framing.
+</think>
+
+SUMMARY:  
+Donald Trump has escalated a war of words against Ted Cruz during the Republican primary, sparking controversy and concern among party leaders. Trump has repeatedly attacked Cruz over an ad by a "super PAC" critical of him, which featured a nude photo of Melania Trump. Despite Cruz's denial of involvement, Trump has continued to make offensive comparisons, including a photo对比 of Cruz's wife, Heidi, and Melania. Trump even threatened to reveal personal details about Heidi Cruz, who has struggled with depression. Cruz defended his wife, calling Trump a "sniveling coward" and demanding he "leave Heidi the hell alone." The media's muted response to Trump's threats contrasts with the outrage in 2012 when Todd Akin made offensive remarks about "legitimate rape," leading the Republican Party to isolate him. Trump's tactics have raised alarms that his behavior could alienate women and harm the party in the fall. END OF SUMMARY.

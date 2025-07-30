@@ -1,0 +1,44 @@
+Alright, so the user has given me a task to summarize a news article while preserving the moral framing. They also want me to first identify all the single words that are morally framed in the text. Let me break this down.
+
+First, I need to understand what morally framed words mean. These are words that carry a moral judgment, either positive or negative. For example, words like "imperative," "dangerous," "hypocrisy," etc., which convey a value judgment.
+
+Looking at the article, I'll go through each sentence and pick out words that have a moral connotation. 
+
+Michael Bloomberg endorses Hillary Clinton, calling it "imperative." So "imperative" is one. He mentions it's "too important to sit out," so "important" might not be strongly moral, but "sit out" isn't either. He says he disagrees with Hillary but must put it aside for the "good" of the country. "Good" is definitely a moral word. 
+
+He calls Trump a "dangerous demagogue" and a "bomb-thrower." Both "dangerous" and "demagogue" carry negative moral connotations. "Bomb-thrower" is a metaphor that implies destructiveness, so that's another one. 
+
+He contrasts his business history, saying he built a business without a "million-dollar check" from his father. "Check" isn't moral, but "built" might not be either. He accuses Trump of having a "well-documented record of bankruptcies" and "thousands of lawsuits," "angry shareholders," "contractors who feel cheated," and "disillusioned customers who feel ripped off." Words like "bankruptcies," "lawsuits," "cheated," "disillusioned," and "ripped off" are all negative and carry moral implications. 
+
+He says Trump wants to run the nation like his business, and that's a "disaster." "Disaster" is a strong negative moral word. He also calls Trump's economic plan "a con" and "a disaster in the making." "Con" and "disaster" again. 
+
+He mentions that the "richest thing about Trump is his hypocrisy." "Hypocrisy" is a clear moral term. 
+
+So, compiling all these, the morally framed words are: imperative, dangerous, demagogue, bomb-thrower, good, cheated, ripped off, con, disaster, hypocrisy, alienated, con, disaster, making.
+
+Now, for the summary, I need to include as many of these words as possible while keeping it under 200 words. I'll structure it to highlight Bloomberg's endorsement, his criticisms of Trump, and his reasoning.
+
+I should start with Bloomberg endorsing Clinton, emphasizing the imperative. Then mention his criticisms of Trump, using the moral words like dangerous, demagogue, bomb-thrower. Contrast their business backgrounds, using the terms about Trump's bankruptcies and lawsuits. Highlight the hypocrisy and the con in Trump's plan. Conclude with the impact on the election and their relationship.
+
+I need to make sure the summary flows well and includes all key points without being too verbose. Let me draft it step by step, ensuring each moral word is included where appropriate.
+</think>
+
+**STEP 1:**  
+* imperative  
+* dangerous  
+* demagogue  
+* bomb-thrower  
+* good  
+* cheated  
+* ripped off  
+* con  
+* disaster  
+* hypocrisy  
+* alienated  
+* con  
+* disaster  
+* making  
+
+**SUMMARY:**  
+Former New York City Mayor Michael Bloomberg endorsed Hillary Clinton at the Democratic National Convention, calling it "imperative" to support her over Donald Trump. Bloomberg, a self-made billionaire, criticized Trump as a "dangerous demagogue" and "bomb-thrower," contrasting his own business success with Trump's history of bankruptcies, lawsuits, and angry stakeholders. He accused Trump of hypocrisy, claiming his economic plan was "a con" and "a disaster in the making." Bloomberg, who considered a third-party run but ultimately supported Clinton to prevent Trump's election, also criticized Trump's hardline immigration policies, which he believed alienated the country. Bloomberg's endorsement emphasized the moral imperative to unite against Trump's divisive leadership.  
+**END OF SUMMARY.**

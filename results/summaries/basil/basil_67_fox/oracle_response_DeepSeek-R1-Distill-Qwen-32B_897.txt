@@ -1,0 +1,14 @@
+Alright, I need to help the user by summarizing the given news article while preserving the moral framing. The user has specified that I should focus on the morally charged words provided: hosting, offended, mistake, railing, lying. 
+
+First, I'll read through the article to understand the context. It's about a Twitter feud between Donald Trump and former Mexican President Vicente Fox. Fox criticizes Trump's invitation by the current president, calling it a mistake and saying Trump isn't welcome. Trump responds by bringing up a past incident where Fox used offensive language about a wall.
+
+I need to make sure the summary includes the moral terms. I'll start by noting Fox's criticism of hosting Trump, which he sees as a mistake. Then, I'll mention Fox's statement that they were offended by Trump's comments. Next, I'll include Trump's counterattack, where he accuses Fox of lying about the wall. 
+
+I should structure the summary to flow logically, starting with Fox's criticism, then Trump's response, and the resulting conflict. I need to keep it concise, under 200 words, and end with the specified tokens.
+
+Let me draft it: Fox criticizes hosting Trump, calls it a mistake, says they're offended. Trump responds by accusing Fox of lying about the wall. The feud escalates on Twitter. That should cover the key points with the moral terms intact.
+
+I think that's a solid summary. I'll make sure to use all the required words and keep it within the word limit. Double-checking the word count to ensure compliance.
+</think>
+
+SUMMARY: Former Mexican President Vicente Fox criticized the decision to host Donald Trump in Mexico, calling it a "big mistake" and stating that Trump was "not welcome" in the country. Fox expressed that Trump's visit would be offensive and likened the current president's decision to hosting Trump as a "traitorous" move. Trump responded by accusing Fox of lying about a past statement where Fox used offensive language regarding a border wall. The exchange escalated into a heated Twitter battle, with Fox demanding an apology and Trump defending his position. The conflict highlights tensions between the two figures over Trump's controversial rhetoric and Fox's opposition to his visit. END OF SUMMARY.

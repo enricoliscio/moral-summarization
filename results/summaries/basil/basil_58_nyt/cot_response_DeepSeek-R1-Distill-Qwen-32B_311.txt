@@ -1,0 +1,44 @@
+<think>
+Okay, I need to help the user summarize this news article while preserving the moral framing. First, I'll read through the article to understand the context. It's about Chris Christie announcing his presidential candidacy, highlighting his personality and criticizing others. 
+
+The user wants me to identify all single words that are morally framed. So, I'll go through the text and pick out words that carry moral connotations. Words like "swagger," "disgust," "candor," "forthright," "forceful," "strength," "decision-making," "authority," "truth," "cringe," "prom king," "popular," "popular," "weak," "feckless," "dysfunction," "gridlock," "weak," "morass," "scandal," "lying," "stealing," "force," "centrist," "difficult," "famed," "stagecraft," "oratory," "clichés," "amazing," "difference," "fighting chance."
+
+Next, I need to write a concise summary that includes as many of these words as possible. I'll focus on Christie's personality, his criticisms of others, his record, and the challenges he faces. I'll make sure the summary is under 200 words and captures the moral elements from the article.
+</think>
+
+**STEP 1:**  
+* Swagger  
+* Disgust  
+* Candor  
+* Forthright  
+* Forceful  
+* Strength  
+* Decision-making  
+* Authority  
+* Truth  
+* Cringe  
+* Prom king  
+* Popular  
+* Weak  
+* Feckless  
+* Dysfunction  
+* Gridlock  
+* Weak  
+* Morass  
+* Scandal  
+* Lying  
+* Stealing  
+* Force  
+* Centrist  
+* Difficult  
+* Famed  
+* Stagecraft  
+* Oratory  
+* Clichés  
+* Amazing  
+* Difference  
+* Fighting chance  
+
+**SUMMARY:**  
+Gov. Chris Christie announced his uphill presidential candidacy with New Jersey-style swagger, criticizing Washington's dysfunction and emphasizing his candor and strength. He positioned himself as the only Republican candidate with the authority to lead, contrasting himself with rivals like Marco Rubio and Ted Cruz, who lack state governance experience. Christie mocked Hillary Clinton for her role in Obama's weak foreign policy and criticized both parties for gridlock. However, his record, including economic struggles and scandals, is shaky. With 55% of Republicans unable to envision voting for him, Christie is banking on his personality—quick-witted charm, empathy, and effrontery—to stand out. He plans to focus on town hall meetings in New Hampshire, but faces stiff competition from better-funded and more popular candidates. His campaign relies on his ability to connect emotionally, though his oratory and stagecraft need improvement. The question remains whether Republican voters will give him a fighting chance.  
+**END OF SUMMARY.**

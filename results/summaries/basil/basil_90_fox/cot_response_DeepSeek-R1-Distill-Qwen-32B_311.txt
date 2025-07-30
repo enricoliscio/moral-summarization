@@ -1,0 +1,37 @@
+Alright, so the user has given me a query where I need to summarize a news article while preserving the moral framing. They've also provided an example of how to approach it. Let me break down what they're asking for.
+
+First, the user wants me to act as a news summarizer and a moral expert. That means I need to identify the moral terms in the article and then craft a summary that includes those terms. The process has two steps: identifying the morally framed words and then writing the summary.
+
+Looking at the example, in STEP 1, they listed words like "hypocrisy," "scandalizing," "faux-outrage," "entitlement," "policing," "apologize," "disgraceful," "dishonored," "unapologetically," "constitutional crisis," "truth to power," and "rise." These are all words that carry moral connotations, indicating approval or disapproval.
+
+For the summary, the example included several of these words, weaving them into a concise summary that captures the essence of the article while maintaining the moral tone. The summary is under 200 words and uses the identified moral terms to frame the narrative.
+
+Now, I need to apply this approach to the given article. I'll start by reading through the article to understand the context and identify the moral words. The article discusses Rep. Ocasio-Cortez supporting Rep. Tlaib after Tlaib used strong language in favor of impeaching Trump. The moral framing here is around hypocrisy, double standards, support, disgrace, etc.
+
+I should list all the single words that carry moral weight. Words like "hypocrisy," "scandalizing," "faux-outrage," "entitlement," "policing," "apologize," "disgraceful," "dishonored," "unapologetically," "constitutional crisis," "truth to power," and "rise" stand out.
+
+Next, I'll write a summary that includes as many of these words as possible, ensuring the moral framing is preserved. The summary should be concise, under 200 words, and capture the key points: Ocasio-Cortez's support for Tlaib, the criticism from Republicans, Pelosi's response, Trump's reaction, and Tlaib's defiant stance.
+
+I need to make sure the summary flows naturally and includes the moral terms without forcing them in. It should reflect the author's original moral perspective, highlighting the double standard and the support for Tlaib's stance against Trump.
+
+I also need to ensure that the summary doesn't add any new information not present in the article and stays true to the events described. The focus should be on the moral implications and the reactions from different parties involved.
+
+Finally, I'll structure the summary to start with Ocasio-Cortez's support, move to the criticism, include Pelosi's and Trump's reactions, and end with Tlaib's defiant statement, all while using the identified moral terms to frame the narrative.
+</think>
+
+**STEP 1:**  
+* Hypocrisy  
+* Scandalizing  
+* Faux-outrage  
+* Entitlement  
+* Policing  
+* Apologize  
+* Disgraceful  
+* Dishonored  
+* Unapologetically  
+* Constitutional crisis  
+* Truth to power  
+* Rise  
+
+**SUMMARY:**  
+Rep. Alexandria Ocasio-Cortez defended Rep. Rashida Tlaib after Tlaib used strong language in favor of impeaching President Trump. Ocasio-Cortez criticized Republicans for hypocrisy, pointing out their double standard in condemning Tlaib’s words while ignoring Trump’s own inappropriate remarks. She emphasized that the GOP has lost the right to police women’s behavior. Tlaib, a new Congress member, vowed to impeach Trump, sparking outrage among House Republicans. However, House Speaker Nancy Pelosi downplayed the incident, noting that Trump’s own language had set the tone for the heated rhetoric. Trump called Tlaib’s comments “disgraceful,” while Tlaib stood by her stance, vowing to speak truth to power and rise against the constitutional crisis. END OF SUMMARY.

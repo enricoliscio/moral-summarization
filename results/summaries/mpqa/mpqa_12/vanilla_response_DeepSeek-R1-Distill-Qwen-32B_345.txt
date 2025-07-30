@@ -1,0 +1,8 @@
+Alright, so I need to summarize this news article. Let me read through it first. The article is about Florida astronauts repairing the space station's wings. Okay, so the main points are that two astronauts went on a spacewalk, they wrapped thermal covers around motors, and these motors are important for the solar wings. 
+
+Hmm, the purpose of the covers is to protect against temperature extremes and fix power issues. The astronauts used the robot arm to move around. I should include the names of the astronauts, Linda Godwin and Daniel Tani, and mention the shuttle they were on, Endeavour.
+
+I need to make sure the summary is concise, under 200 words. Let me structure it: start with the astronauts' action, the repair, the reason for the covers, and the method they used. Keep it clear and to the point. Also, remember to end with the specified tokens.
+</think>
+
+SUMMARY: Two astronauts from Florida conducted a spacewalk to repair the International Space Station's solar wings. Linda Godwin and Daniel Tani wrapped thermal covers around motors that adjust the solar panels to face the sun, aiming to protect them from extreme temperatures and resolve power issues. The astronauts used the shuttle Endeavour's robot arm to reach their work site. END OF SUMMARY.

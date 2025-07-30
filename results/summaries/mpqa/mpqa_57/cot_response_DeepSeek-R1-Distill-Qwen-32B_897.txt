@@ -1,0 +1,27 @@
+Alright, so I need to help the user by summarizing a news article while preserving the moral framing. Let me start by understanding the task. The user provided an article about climate change policies in Europe and the US, and they want a summary that includes the morally charged words identified in STEP 1.
+
+First, I should go through the article to identify all the single words that carry moral connotations. Words like "fundamentally flawed," "binding," "failure," "weakness," "ambitious," "dramatic," "failure," "opportunity," and "responsibilities" stand out. These words convey judgment or evaluation, which is crucial for the moral framing.
+
+Next, I need to summarize the article. I should focus on the key points: Europe ratifying the Kyoto Protocol, the US's withdrawal and their new program, the comparison between the two, and the economic implications. I must ensure that the summary includes the morally framed words to maintain the original tone.
+
+I also need to keep the summary under 200 words. I'll start by mentioning Europe's move and the US's program, then compare their commitments. Highlighting the scientists' warnings and the economic benefits for Europe will show the moral implications. Finally, I'll conclude with the call for the US to return to the Kyoto Protocol.
+
+Let me structure this step by step, making sure each point flows logically and the moral words are appropriately placed. I should avoid technical jargon and keep the language clear and concise. 
+
+I think that's a solid plan. Now, I'll draft the summary, ensuring it's within the word limit and includes all the necessary moral terms.
+</think>
+
+**STEP 1:**  
+* Fundamentally flawed  
+* Binding  
+* Failure  
+* Weakness  
+* Ambitious  
+* Dramatic  
+* Failure  
+* Opportunity  
+* Responsibilities  
+
+**SUMMARY:**  
+Recent weeks have seen significant developments in climate change policies on both sides of the Atlantic. The European Union has reached a political agreement to ratify the Kyoto Protocol, aiming to implement it before the Johannesburg summit. Meanwhile, the United States, under President Bush, unveiled a national climate protection program, which fell far short of the ambitions set by the Kyoto Protocol. The US program, which aims to reduce emissions as a proportion of GDP by 18% by 2012, is considered weak, as it fails to match the EU's commitment to reduce emissions by 8% from 1990 levels. Scientists warn that without decisive action, the consequences of climate change will be catastrophic, including rising temperatures, sea levels, and more severe weather events. The EU has called on the US to "assume its responsibilities" under the climate change framework and align its efforts with the Kyoto Protocol. Europe's proactive approach not only addresses environmental concerns but also presents an economic opportunity, creating jobs and fostering innovation in clean technologies. The return of the US to the Kyoto process remains a critical goal for global climate protection.  
+**END OF SUMMARY.**

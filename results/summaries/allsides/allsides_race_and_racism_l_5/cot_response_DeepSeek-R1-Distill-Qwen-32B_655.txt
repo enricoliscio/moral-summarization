@@ -1,0 +1,30 @@
+Okay, so the user has given me a task where I need to act as a news summarizer and moral expert. They provided a news article about the Black Lives Matter movement and its impact a year after Michael Brown's shooting. The user wants me to first identify all the morally framed single words in the article and then summarize the article while preserving those moral terms.
+
+First, I need to understand what constitutes a morally framed word. These are words that carry a strong ethical or moral connotation. Examples might include words like "protests," "racism," "charged," "indicted," etc. I'll go through the article and pick out each word that fits this criterion, listing them each on a new line with an asterisk.
+
+Next, I have to summarize the article. The summary needs to be concise, around 200 words, and should include as many of those morally framed words as possible. I should ensure that the summary reflects the author's moral perspective, highlighting the progress made by the Black Lives Matter movement but also acknowledging the ongoing challenges.
+
+I'll start by reading the article carefully to identify key points: the rise of Black Lives Matter, increased awareness of systemic racism, changes in public opinion, media coverage, prosecutorial actions, and political responses. I'll make sure to include terms like "protests," "unfairly treated," "big problem," "unwarranted," "senseless," "accountable," "body cameras," and "systemic pattern of anti-black law enforcement violence."
+
+I need to structure the summary logically, perhaps starting with the movement's impact, then moving to public opinion, media and prosecutorial changes, and finally political actions. I should end by noting that while progress is being made, the battle isn't over, maintaining the moral framing throughout.
+
+I also need to ensure that the summary doesn't exceed 200 words and flows naturally, preserving the author's tone and emphasis on the moral aspects of the issue. I'll avoid jargon and keep the language clear and impactful, reflecting the moral stance of the original article.
+
+Finally, I'll review the identified words and the summary to make sure they align with the user's requirements, ensuring that all morally framed terms are included and the summary accurately reflects the article's content and tone.
+</think>
+
+**STEP 1:**  
+* Protests  
+* Racism  
+* Indicted  
+* Charged  
+* Unfairly treated  
+* Big problem  
+* Unwarranted  
+* Senseless  
+* Accountable  
+* Body cameras  
+* Systemic pattern of anti-black law enforcement violence  
+
+**SUMMARY:**  
+A year after Michael Brown's police shooting sparked protests in Ferguson, the Black Lives Matter movement has made significant strides. Americans are increasingly aware of systemic racism in the criminal justice system, with public opinion shifting toward recognizing unfair treatment of black people. Media attention has grown, with outlets like the Washington Post and Guardian tracking police shootings. Prosecutors are taking more serious action, charging officers in high-profile cases like Samuel DuBose and Walter Scott. Politicians, including Obama and Clinton, have advocated for police accountability, such as body cameras. While progress is evident, challenges remain: racism skepticism persists among Republicans and white Americans, and criminal justice reform remains a contentious issue. Despite this, Black Lives Matter is winning, as societal awareness and legal accountability for police violence grow. END OF SUMMARY.

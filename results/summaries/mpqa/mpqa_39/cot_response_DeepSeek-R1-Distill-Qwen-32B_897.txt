@@ -1,0 +1,40 @@
+<think>
+Okay, so the user has given me a query where they want me to act as a news summarizer and a moral expert. They provided a news article from Tehran about the Islamic Human Rights Commission expressing concerns on Human Rights Day. The task is to first identify all the morally framed single words and then write a concise summary preserving those moral terms.
+
+First, I need to understand the structure of the query. They want two steps: Step 1 is to list all the morally framed words, each on a new line with a *. Step 2 is to write a summary, starting with SUMMARY: and ending with END OF SUMMARY. The summary should be under 200 words and include as many moral terms as possible.
+
+Looking at the article, I need to scan for words that carry moral weight. Words like concern, force, weapon, human rights, discrimination, torture, arbitrary detention, honor, divine, injustice, violation, terrorism, peace, security, respect, solidarity, targeted killing, bombing, monitors, denounce.
+
+Now, for the summary, I need to condense the article while keeping these terms. The IHRC is concerned about the return of force in international relations. They mention the anniversary of Human Rights Day, noting the progress but the failure to implement rights. They highlight the Durban conference as a turning point, condemn Israel's actions, and stress the need for respecting human rights through religious teachings.
+
+I should ensure the summary flows logically, mentioning the key points: the IHRC's concern, the history of human rights efforts, the Durban conference, the call for stopping violence, and the UN's involvement. I need to make sure to include all the moral terms without making the summary too lengthy.
+
+I also need to check that the summary is within 200 words. Let me draft it and count the words to ensure compliance. The summary should clearly convey the IHRC's message, the issues they highlight, and the call to action based on moral and religious principles.
+
+Finally, I'll present the summary after the specified tokens, making sure it's concise and includes all the necessary moral framing words.
+</think>
+
+**STEP 1:**  
+* Concern  
+* Force  
+* Weapon  
+* Human rights  
+* Discrimination  
+* Torture  
+* Arbitrary detention  
+* Honor  
+* Divine  
+* Injustice  
+* Violation  
+* Terrorism  
+* Peace  
+* Security  
+* Respect  
+* Solidarity  
+* Targeted killing  
+* Bombing  
+* Monitors  
+* Denounce  
+
+**SUMMARY:**  
+The Tehran-based Islamic Human Rights Commission (IHRC) expressed concern over the resurgence of force and weapons in international relations, marking the International Day for Human Rights. Despite decades of efforts to honor human rights through numerous documents and cultural perspectives, the IHRC regrets that the principles of the Universal Declaration of Human Rights remain unfulfilled. The Commission condemned discrimination, torture, and arbitrary detention, emphasizing the need to uphold human rights, including political, women’s, and children’s rights. It highlighted the Durban conference against racism as a turning point for human rights but deplored ongoing injustices against Palestinians, political activists, journalists, and religious minorities. The IHRC called for statesmen to follow religious teachings to respect human rights, warning that peace cannot be achieved without honoring them. Meanwhile, UN High Commissioner Mary Robinson urged Israel to stop bombing Palestinian targets and allow international monitors, denouncing targeted killings of Palestinians. END OF SUMMARY.

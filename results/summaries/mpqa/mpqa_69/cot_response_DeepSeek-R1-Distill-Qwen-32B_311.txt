@@ -1,0 +1,40 @@
+<think>
+Okay, so I'm trying to help the user with their query. They want me to act as a news summarizer and moral expert. The task is to summarize a news article while preserving the moral framing the author used. 
+
+First, I need to understand the structure of the query. They've provided a news article about environmentalist protests against the U.S. alternative to the Kyoto Protocol. The user has given specific instructions: two steps. The first is to identify all single words that are morally framed, each on a new line starting with a *. The second step is to write a concise summary preserving those moral words.
+
+I should start by reading the article carefully. The main points are about protests, the U.S. alternative plan, Bush's stance, and the NGOs' reactions. The moral framing words are likely to be words that carry judgment or evaluation, like "protest," "opposed," "regrettable," "voluntary," "mandatory," "sacrificing," "dismayed," "alternative," "increase," "only," "immediately," "re-enter," "fair," "cooperate," "push," "war," "terrorism," "cease," "reduce." These words carry moral connotations, indicating approval or disapproval.
+
+Next, for the summary, I need to condense the article into 200 words or less, using as many of these moral words as possible. The key events are the protest, the NGOs' letter, Bush's plan, the international reaction, and the issues to be discussed between Koizumi and Bush. I should highlight the moral aspects, like the regrettable stance of the U.S., the voluntary vs. mandatory targets, and the NGOs' demands.
+
+I need to make sure the summary flows well and includes all the main points without being too verbose. I should also ensure that the moral framing is preserved, so the summary reflects the NGOs' disapproval and the criticism of the U.S. plan.
+
+I think I've covered all the necessary points. Now, I'll structure the summary to include the protest, the NGOs' actions, the U.S. plan, the criticism, and the upcoming discussions between the leaders. I'll make sure to include the morally charged words to maintain the author's framing.
+</think>
+
+**STEP 1:**
+
+* Protest
+* Opposed
+* Regrettable
+* Voluntary
+* Mandatory
+* Sacrificing
+* Dismayed
+* Alternative
+* Increase
+* Only
+* Immediately
+* Re-enter
+* Fair
+* Cooperate
+* Push
+* War
+* Terrorism
+* Cease
+* Reduce
+
+---
+
+**SUMMARY:** Environmentalist groups protested against the U.S. alternative to the Kyoto Protocol near the U.S. Embassy in Tokyo as President George W. Bush arrived. About 50 members from Japanese and U.S. NGOs opposed the U.S. plan, which replaces mandatory emissions targets with voluntary limits tied to economic growth. Protesters carried banners demanding adherence to the Kyoto Protocol and handed a letter to the embassy, criticizing the U.S. plan as insufficient and harmful. The NGOs argued it would allow U.S. greenhouse gas emissions to rise by 30% by 2010. They demanded Bush reconsider his policy and rejoin the Kyoto Protocol, calling it the only framework to prevent dangerous climate change. Meanwhile, Prime Minister Junichiro Koizumi and Bush were set to discuss climate measures. Additional letters called for U.S. leadership in supporting developing nations and criticized U.S. actions in the "war against terrorism." The protests highlighted deep concerns over the U.S. stance on global warming and its implications for international cooperation.  
+**END OF SUMMARY.**

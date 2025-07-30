@@ -1,0 +1,27 @@
+Okay, I need to help the user by summarizing the given news article while preserving the moral framing. The user has specified two steps: first, identifying all the morally framed single words, and then writing a summary that includes as many of those words as possible.
+
+Starting with STEP 1, I'll go through the article to find words that carry moral connotations. Words like "fury," "embarrass," "control," "intimidate," "felony," "leaks," "secrecy," "concealing," "interference," "sinister," "unconstitutional," "unconstitutional," "accountability," and "transparency" stand out. These words carry moral weight, indicating issues like wrongdoing, manipulation, and ethical concerns.
+
+Now, for the summary, I need to condense the article into 200 words. I'll focus on the key points: Trump's reaction to leaks, the legal implications of leaking classified info, the NSA's role, the specific leaks that angered Trump, the issue of concealing information, the seizure of cellphones, the constitutional aspects, and the media's role. I'll make sure to include the morally framed words identified earlier to maintain the article's ethical perspective.
+
+I should ensure the summary flows logically, starting with Trump's actions, moving through the legal and moral issues, and ending with the implications for press freedom and government accountability. Keeping it concise while covering all critical points is essential. I'll also check that the summary doesn't exceed the word limit and that it accurately reflects the article's content and moral framing.
+</think>
+
+**STEP 1:**  
+* fury  
+* embarrassment  
+* control  
+* intimidation  
+* felony  
+* leaks  
+* secrecy  
+* concealing  
+* interference  
+* sinister  
+* unconstitutional  
+* accountability  
+* transparency  
+
+**SUMMARY:**  
+President Trump faced outrage over leaks revealing private and classified information, leading him to order investigations. Leaking classified information is a felony, and the NSA’s compartmentalized structure limits access to sensitive data. Leaks about Trump’s alleged behavior in Moscow, Flynn’s conversations, and intelligence contradicting his travel ban stance fueled his anger. Selectively concealing information to manipulate presidential judgment is also a felony. Additionally, White House staff leaked Oval Office gossip, prompting the seizure of government-issued cellphones, which itself was leaked. The article questions whether these events reflect growing pains or sinister interference by unelected forces. While leaking confidential communications isn’t criminal, media publication of leaks is protected by the First Amendment. Trump’s frustration with the press is understandable, but he swore to uphold constitutional principles safeguarding a free press, as emphasized by Jefferson’s belief in government accountability and transparency.  
+**END OF SUMMARY.**

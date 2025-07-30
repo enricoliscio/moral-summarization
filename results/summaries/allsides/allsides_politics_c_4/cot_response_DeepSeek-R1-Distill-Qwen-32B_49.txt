@@ -1,0 +1,37 @@
+Okay, so the user has given me a query where they want me to act as a news summarizer assistant and a moral expert. They provided a news article and specific instructions on how to process it. Let me break this down.
+
+First, the user wants me to identify all the single words that are morally framed in the article. They call this STEP 1 and want each word listed with a *. I need to go through the article and pick out words that carry moral connotations. Words like "collusion," "deny," "corrupt," "dishonest," etc., come to mind because they imply wrongdoing or unethical behavior.
+
+Next, I have to summarize the article, preserving the moral framing. The summary needs to be concise, under 200 words, and include as many of those morally framed words as possible. I should start with "SUMMARY:" and end with "END OF SUMMARY."
+
+Looking at the article, it's about Trump's denial of collusion with Russia despite evidence from Cohen and Manafort. It also talks about his lies, obstruction, and unethical behavior. I need to capture these points, using the moral words identified earlier.
+
+I should structure the summary to highlight Trump's repeated denials, the legal issues with Cohen and Manafort, his lies about various matters, and his overall unethical conduct. Emphasizing that the real scandal is Trump himself ties it all together.
+
+I need to make sure the summary flows well and stays within the word limit. Also, preserving the moral framing means using strong terms like "corrupt," "dishonest," "obstruction," etc., to convey the ethical issues discussed.
+
+Let me draft the summary, ensuring it includes all key points and the moral language. I'll check the word count to make sure it's under 200 words. Once done, I'll format it correctly with the tokens as specified.
+</think>
+
+### STEP 1:  
+* Collusion  
+* Deny  
+* Corrupt  
+* Dishonest  
+* Obstruction  
+* Unethical  
+* Betrayal  
+* Fraud  
+* Lies  
+* Deceit  
+* Witch hunt  
+* Grovel  
+* Mendacity  
+* Unfit  
+* Scandal  
+
+---
+
+### SUMMARY:  
+The article highlights the moral and ethical failings of Donald Trump, focusing on his repeated denials of collusion with Russia despite overwhelming evidence of misconduct. Trump’s former attorney, Michael Cohen, pleaded guilty to crimes including illegal campaign contributions and tax evasion, admitting Trump ordered him to break the law. Meanwhile, Trump’s campaign manager, Paul Manafort, was convicted of tax and bank fraud. Trump’s behavior, including lying about his knowledge of Cohen’s payments to Stormy Daniels, bullying law enforcement, and prioritizing Vladimir Putin’s word over U.S. intelligence, underscores his dishonesty and corruption. The article argues that while Trump may not have colluded with Russia, his actions since the Mueller investigation began—such as his relentless lies and obstruction of justice—have made him unfit for office. The real scandal, the article concludes, is Trump himself, whose unethical behavior and mendacity have set a dangerous precedent.  
+END OF SUMMARY.

@@ -1,0 +1,16 @@
+Okay, so I need to help the user by summarizing a news article while preserving the moral framing. The user provided the article and specified that the summary should include the morally framed words: "contrary," "undermines," and "interfered." 
+
+First, I'll read through the article to understand the main points. It's about President Trump choosing an interim FBI director, with Joe Lieberman as his top pick. The article discusses the reactions from Democrats and Republicans, highlighting concerns about Lieberman's political background and potential implications for the FBI's independence.
+
+I need to identify where the moral framing words are used. "Contrary" is used by Sen. Brian Schatz, saying it's contrary to what the FBI stands for. "Undermines" is part of the argument that appointing a politician would undermine public confidence. "Interfered" is mentioned in the context of Trump's actions regarding the investigation into the Trump campaign's ties with Russia.
+
+In the summary, I should make sure these words are included. I'll start by stating Trump is close to selecting Lieberman, noting his political background. Then, I'll mention Democratic concerns, using "contrary" and "undermines." I'll also include the part about Trump interfering with the investigation, using that word.
+
+I should keep the summary concise, under 200 words, and ensure it flows logically. I'll structure it by first introducing Trump's choice, then the opposition from Democrats, followed by Republican support, and finally the context of Trump's actions leading to Comey's firing.
+
+I need to make sure the summary is clear and captures the moral implications as presented in the article. I'll avoid adding any personal opinions and stick strictly to the information given, preserving the moral framing words as specified.
+
+Let me draft the summary, making sure each key point is covered and the moral terms are included where appropriate. I'll check the word count to ensure it's within the limit. Once done, I'll present it after the "SUMMARY:" token and end with "END OF SUMMARY." as instructed.
+</think>
+
+SUMMARY: President Donald Trump is nearing the selection of an interim FBI director, with former Sen. Joe Lieberman as his top choice. Lieberman, a centrist Democrat with no federal law enforcement experience, has drawn severe criticism from Democrats, who argue that appointing a politician to lead the FBI is "contrary" to the agency's mission and would "undermine" public confidence in its independence. Sen. Brian Schatz called the potential nomination "shocking," emphasizing that the FBI director should come from law enforcement ranks. Meanwhile, Republicans have praised Lieberman, with Sen. John McCain asserting his confidence in his qualifications. The need for a new director arose after Trump fired James Comey last week, amid the FBI's investigation into ties between Trump's campaign and Russia. Reports have suggested Trump may have "interfered" with the probe, including a New York Times account of Trump asking Comey to drop an investigation into former national security adviser Michael Flynn. END OF SUMMARY.

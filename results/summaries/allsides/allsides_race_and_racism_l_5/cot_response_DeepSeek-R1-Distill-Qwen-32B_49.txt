@@ -1,0 +1,65 @@
+Okay, so I need to help the user by summarizing a news article while preserving the moral framing. Let me start by understanding the task. The user wants me to first identify all the single words that are morally framed in the text. Then, I have to write a summary that includes as many of these words as possible, keeping it under 200 words.
+
+First, I'll read through the article to get the gist. It's about the Black Lives Matter movement and its impact a year after Michael Brown's shooting. The movement is gaining traction, with more awareness about systemic racism, changes in public opinion, and actions from law enforcement and politicians.
+
+Now, for the first step, I need to identify morally framed words. These are words that carry a moral judgment or implication. Let me go through the article sentence by sentence.
+
+The first paragraph mentions "protests," "Black Lives Matter movement," "prominence," "systemic racism," "criminal justice system," "winning," "charged," "indicted," "high-profile killings." These all have moral connotations. "Protests" imply a moral stance against something. "Prominence" shows the movement's moral significance. "Systemic racism" is a clear moral issue. "Winning" suggests success in a moral cause. "Charged" and "indicted" relate to accountability, which is a moral action.
+
+Moving on, the article talks about "Black people dying at alarming rates," which is a moral issue. "Horrible" and "unnecessary" describe the killings morally. Surveys show more people recognize unfair treatment and racism as a "big problem." "Unfairly treated" and "big problem" are moral terms.
+
+The media's role is discussed with "credible" data, which is a moral standard. "Public interest" is about societal values. The mention of "Twitter" and "Google searches" shows how the public morally engages with the issue.
+
+Prosecutors taking the issue seriously is a moral action. "Unwarranted," "senseless," and "asinine" describe the killings morally. Lawmakers pushing for accountability and body cameras is a moral response. "Tracking police killings" is a moral duty.
+
+The summary mentions the battle isn't over, with "Republicans" and "white Americans" being skeptical. "Avoiding criminal justice issues" is a moral failure. The trend shows the movement is winning, indicating a moral shift.
+
+Now, compiling all these words: protests, prominence, systemic racism, criminal justice system, winning, charged, indicted, high-profile, killings, dying, horrifying, unnecessary, unfairly treated, big problem, credible, public interest, Twitter, Google searches, unwarranted, senseless, asinine, accountability, body cameras, tracking, skeptical, avoiding, winning.
+
+Next, I need to write a concise summary that includes as many of these words as possible without exceeding 200 words. I'll focus on the key points: the movement's impact, public opinion shifts, media attention, prosecutorial actions, political responses, and the ongoing challenges.
+
+I should structure the summary to highlight the progress made, the increased awareness, the legal actions against officers, and the political initiatives. I'll also note that while progress is made, the fight isn't over, especially with some skepticism remaining.
+
+I need to make sure the summary flows well and includes the morally framed words naturally. I'll start by stating the movement's progress, mention the public opinion surveys, the media's role, prosecutorial actions, political steps, and conclude with the ongoing battle.
+
+Let me draft it:
+
+"The Black Lives Matter movement has made significant strides since Michael Brown's death, sparking widespread awareness about systemic racism in the criminal justice system. Public opinion has shifted, with more Americans acknowledging unfair treatment of black people and identifying racism as a big problem. Media attention, including databases tracking police shootings, reflects heightened public interest. Prosecutors are taking police misconduct more seriously, charging officers in high-profile cases. Politicians, including Obama and Clinton, are pushing for accountability through body cameras and better tracking of police actions. While progress is evident, challenges remain, with some skepticism persisting, especially among Republicans. However, the movement's impact is undeniable, signaling a moral shift in addressing systemic inequality."
+
+I think this covers the key points and includes many of the morally framed words. Let me check the word count. It's around 150 words, so it's within the limit. I'll make sure to include all the necessary moral terms without making it too verbose.
+</think>
+
+**Step 1:**
+
+* Protests
+* Prominence
+* Systemic racism
+* Criminal justice system
+* Winning
+* Charged
+* Indicted
+* High-profile
+* Killings
+* Dying
+* Horrifying
+* Unnecessary
+* Unfairly treated
+* Big problem
+* Credible
+* Public interest
+* Twitter
+* Google searches
+* Unwarranted
+* Senseless
+* Asinine
+* Accountability
+* Body cameras
+* Tracking
+* Skeptical
+* Avoiding
+* Winning
+
+**Summary:**
+
+The Black Lives Matter movement has made significant strides since Michael Brown's death, sparking widespread awareness about systemic racism in the criminal justice system. Public opinion has shifted, with more Americans acknowledging unfair treatment of black people and identifying racism as a big problem. Media attention, including databases tracking police shootings, reflects heightened public interest. Prosecutors are taking police misconduct more seriously, charging officers in high-profile cases. Politicians, including Obama and Clinton, are pushing for accountability through body cameras and better tracking of police actions. While progress is evident, challenges remain, with some skepticism persisting, especially among Republicans. However, the movement's impact is undeniable, signaling a moral shift in addressing systemic inequality.  
+**END OF SUMMARY.**

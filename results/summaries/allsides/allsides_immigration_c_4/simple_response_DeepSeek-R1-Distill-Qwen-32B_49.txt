@@ -1,0 +1,17 @@
+<think>
+Alright, so the user has given me a query where they want me to summarize a news article while preserving the moral framing. Let me break this down.
+
+First, I need to understand the content of the article. It's about the Trump administration considering an order to block migrants at the southern border, similar to their earlier travel ban. They're targeting Central Americans, especially those seeking asylum. The article mentions legal challenges, moral criticisms, and the administration's justifications.
+
+Next, the user wants the summary to preserve the moral framing. That means I should highlight the ethical concerns and criticisms without losing the context. I need to include the negative viewpoints, like the accusations of racism and cruelty, as well as the counterarguments supporting the administration's actions.
+
+I also need to keep the summary concise, under 200 words. So, I'll have to identify the key points: the proposed executive order, the impact on asylum seekers, the legal and moral criticisms, and the administration's stance.
+
+I should structure the summary to start with the administration's plan, then mention the potential legal and moral issues, followed by the opposing viewpoints. It's important to balance the summary by including both the critics' perspectives and the administration's reasoning.
+
+I need to ensure that the moral framing is clear, so I'll include phrases like "racism-driven cruelty" and "huge moral failure." Also, I'll mention the legal challenges and the court's possible support for the order.
+
+Finally, I'll make sure to end the summary with the required tokens and keep it within the word limit. Let me piece this together, making sure each sentence adds value and maintains the moral perspective.
+</think>
+
+SUMMARY: The Trump administration is considering an executive order to block migrants at the southern border, potentially barring asylum seekers from entering the U.S., drawing comparisons to its 2017 travel ban targeting predominantly Muslim countries. Critics argue this move reflects "racism-driven cruelty" and a "huge moral failure," as it would deny protection to those fleeing persecution. The administration, however, frames the action as necessary to prevent undocumented immigration and protect national security. Legal challenges are expected, as such an order could face scrutiny under constitutional and international law. Meanwhile, Trump has threatened to cut aid to Central American countries and deploy additional troops to the border, sparking concerns about escalating presidential power over immigration policy. Critics argue the plan lacks policy logic and risks further marginalizing vulnerable groups. END OF SUMMARY.

@@ -1,0 +1,42 @@
+Okay, I need to help the user by summarizing the given news article while preserving the moral framing. The user has specified two steps: first, identifying morally framed single words, and then writing a summary that includes as many of those words as possible.
+
+Starting with the first step, I'll go through the article to find words that carry moral connotations. Words like "pleased," "talented," "great," "accomplishments," "protest," "pull out," "sacrifice," "grandstander," "nothing," "hit hard," "fake," "crazy," "decimate," "happy," "healthy," "hero," "popular," "promised," "rely," "die," "mind," "announce," "pullouts." I'll list each of these with a star.
+
+For the summary, I need to condense the article into under 200 words, making sure to include these morally charged words. The key points are Mattis's early resignation, Shanahan taking over, Mattis's protest against Trump's policies, the planned troop withdrawals from Syria and Afghanistan, the criticism from military leaders, McGurk's resignation, Trump's dismissal of the resignations, and the moral implications of the troop withdrawals.
+
+I should structure the summary to highlight the conflicts and the moral perspectives. Mention Mattis's departure, the reasons, the impact on the administration, Trump's reactions, and the consequences of the decisions. I'll ensure that the summary flows logically and includes the identified morally framed words where appropriate.
+
+I need to make sure the summary is concise and captures all the essential points without exceeding the word limit. Also, I should maintain the moral framing as presented in the original text, reflecting both Trump's perspective and the criticism from others.
+
+Now, putting it all together, I'll start by outlining the main events and then incorporate the morally charged words into the narrative. I'll check the word count to ensure it's within the limit and adjust as necessary.
+</think>
+
+**STEP 1:**  
+* pleased  
+* talented  
+* great  
+* accomplishments  
+* protest  
+* pull out  
+* sacrifice  
+* grandstander  
+* nothing  
+* hit hard  
+* fake  
+* crazy  
+* decimate  
+* happy  
+* healthy  
+* hero  
+* popular  
+* promised  
+* rely  
+* die  
+* mind  
+* announce  
+* pullouts  
+
+**SUMMARY:**  
+President Trump announced that Defense Secretary James Mattis will leave the administration on January 1, weeks earlier than planned. Mattis had initially planned to stay until February, but his resignation letter revealed policy disagreements with the White House. Trump praised Deputy Secretary Patrick Shanahan, a former Boeing executive, to take over. Tensions in the Defense Department have risen since Mattis’s bombshell resignation, with sources claiming he quit "in protest" over Trump’s national security policies. Trump’s decision to withdraw troops from Syria and Afghanistan has faced criticism, with military leaders warning of ISIS resurgence and abandoning Kurdish allies. Brett McGurk, the U.S. envoy for defeating ISIS, also resigned, citing the mission as unfinished. Trump dismissed the resignations, calling them a "nothing event" and accusing the media of exaggeration. The administration’s troop withdrawals have sparked debate over America’s role in global conflicts and the sacrifices made by troops.  
+
+**END OF SUMMARY.**

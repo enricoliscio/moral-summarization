@@ -1,0 +1,14 @@
+Okay, I need to help the user by summarizing the given news article while preserving the moral framing. The user specified that I should act as a news summarizer assistant and a moral expert. The summary needs to be concise, no longer than 200 words, and should include the "SUMMARY:" and "END OF SUMMARY." tokens.
+
+First, I'll read through the article to understand the main points. The article is about the U.S. House impeachment hearing against Donald Trump. Key points include the hearing's purpose, the accusation that Trump pressured Ukraine for personal gain, the involvement of diplomats as witnesses, the constitutional basis for impeachment, Trump's response, and comparisons to past impeachments.
+
+I need to ensure that the moral framing is preserved. The article presents the impeachment as a significant test of the constitutional system, highlighting the potential misuse of power for personal gain and the implications for the presidency. It also touches on the divisiveness of the issue among Americans.
+
+I'll start by outlining the essential elements: the hearing's initiation, the accusation, the witnesses, the constitutional aspect, Trump's defense, and the implications. I'll keep the language clear and concise, making sure not to exceed 200 words.
+
+I should avoid any markdown and keep the summary straightforward. I'll ensure that the moral implications, such as the integrity of the presidency and the constitutional checks and balances, are clearly presented.
+
+Now, I'll draft the summary, making sure to include all the key points while maintaining the moral perspective. I'll check the word count to stay within the limit and ensure clarity and coherence.
+</think>
+
+SUMMARY: The U.S. House held its first public hearing for Donald Trump's impeachment inquiry, focusing on whether the president used his office to pressure Ukraine for personal political gain. Rep. Adam Schiff emphasized the gravity of the issue, stating it impacts the future of the presidency and public expectations of a commander-in-chief. The hearing, broadcast live, marks a rare moment in American history, with two diplomats, William Taylor and George Kent, testifying about Trump's alleged misuse of foreign policy for personal gain ahead of the 2020 election. The inquiry stems from Trump's July 25 phone call with Ukraine's president, where he sought an investigation into Democrats, including Joe Biden, while withholding military aid. An anonymous whistleblower alerted officials, prompting the probe. Trump dismisses the inquiry as a "witch hunt," echoing Nixon's defense. The proceedings highlight the constitutional threshold for impeachment, with no consensus yet on whether Trump's actions meet the "high crimes and misdemeanors" standard. The hearing reflects a deeply divided nation, with implications for the presidency and the balance of power. END OF SUMMARY.

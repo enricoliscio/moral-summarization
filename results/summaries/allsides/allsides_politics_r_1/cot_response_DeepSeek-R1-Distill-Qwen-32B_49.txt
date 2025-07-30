@@ -1,0 +1,25 @@
+Alright, so the user has given me a query where I need to act as a news summarizer and a moral expert. The task involves two main steps: first, identifying morally framed words from a news article, and second, summarizing the article while preserving those moral frames. 
+
+I start by reading the news article carefully. The article talks about President Trump threatening to shut down social media companies for stifling conservative voices, specifically after Twitter added a fact-check label to his tweets about mail-in voting fraud. There's also mention of a court upholding the dismissal of a lawsuit against tech companies for suppressing conservative views, and Zuckerberg's response about government censorship. Additionally, there's a discussion about potential changes to Section 230 and antitrust probes against big tech companies.
+
+For the first step, I need to identify single words that carry moral framing. I go through the article and pick out words that have strong moral connotations. Words like "stifling," "censor," "silence," "freedom," "bias," "immunity," "anti-competitive," and "privacy" stand out as they relate to moral issues such as suppression, fairness, rights, and responsibility.
+
+Next, I need to summarize the article, making sure to include these moral words. I have to keep the summary concise, under 200 words, and ensure it captures the essence of the article while highlighting the moral aspects. I'll structure the summary to include Trump's threats, the reasons behind them, the court's decision, Zuckerberg's comment, the ACLU's stance, the impact on tech stocks, and the broader implications for regulation and immunity.
+
+I also need to ensure that the summary flows well and maintains the moral framing without being too technical. I'll mention the specific actions taken by Twitter, the reactions from Trump and Zuckerberg, and the ongoing debates about regulation and immunity, all while using the identified moral words.
+
+Finally, I'll make sure the summary starts with "SUMMARY:" and ends with "END OF SUMMARY." to meet the user's formatting requirements. I'll double-check the word count to ensure it's within the limit and that all key points are covered succinctly.
+</think>
+
+**STEP 1:**  
+* Stifling  
+* Censor  
+* Silenced  
+* Freedom  
+* Bias  
+* Immunity  
+* Anti-competitive  
+* Privacy  
+
+**SUMMARY:**  
+President Trump threatened to shut down social media companies, accusing them of stifling conservative voices, after Twitter added a fact-check label to his tweets about mail-in voting fraud. A court upheld the dismissal of a lawsuit against tech companies for allegedly suppressing conservative views. Zuckerberg argued against government censorship, while the ACLU emphasized First Amendment protections. Shares of Twitter and Facebook fell amid fears of regulation. Tech companies face antitrust probes and debates over Section 230 immunity. Trump warned of losing freedom if Big Tech continues to censor, signaling a broader conservative backlash against perceived bias and anti-competitive practices. END OF SUMMARY.

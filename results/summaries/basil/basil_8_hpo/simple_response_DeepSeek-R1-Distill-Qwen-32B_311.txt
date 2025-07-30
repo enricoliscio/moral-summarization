@@ -1,0 +1,35 @@
+<think>
+Okay, so I need to summarize this news article while preserving the moral framing that the author gave it. The article is about the Bush tax cuts and the efforts by the White House to get them passed. 
+
+First, I'll read through the article to understand the main points. Senior officials are warning that not passing the tax cuts could lead to a double dip recession. Larry Summers is mentioned as saying that not passing the bill would increase the risk of the economy stalling. There's some debate about whether a delay would cause a double dip, with Rob Shapiro saying it wouldn't but the deal isn't enough to boost the economy much. The White House is trying to convince Democrats to pass the deal, emphasizing the consequences of inaction. They mention that without the deal, taxes will go up and unemployment benefits will end. They're trying to make a deal that includes tax cuts for the wealthy and estate tax changes, but some Democrats are skeptical. The administration is pushing hard, saying that delaying would lead to blame for the economic downturn.
+
+Now, I need to preserve the moral framing. The author seems to present both sides: the urgency from the White House and the skepticism from Shapiro about the effectiveness of the deal. So the summary should reflect that tension.
+
+I should structure the summary to include the key points: the warning about the recession, the debate over the effectiveness, the consequences of inaction, and the push to pass the deal despite skepticism.
+
+I need to keep it under 200 words, so I'll be concise but include all necessary elements. I'll start with the main warning, mention Summers, then Shapiro's counterpoint, the consequences, and the administration's push.
+
+Let me draft that:
+
+Senior White House officials warned that failing to pass the Bush tax cuts would increase the risk of a double dip recession, emphasizing the urgency to congressional Democrats. Larry Summers highlighted the potential economic stall, while economist Rob Shapiro argued that a delay wouldn't cause a double dip but criticized the deal's limited impact. The administration stressed the consequences of inaction, such as tax increases and loss of unemployment benefits, urging passage to avoid blame for an economic downturn. Despite skepticism, they pushed for the deal, arguing it's the best option available.
+
+Wait, that's 106 words. I can add more details to reach up to 200 but stay concise. Maybe include Shapiro's point about stabilizing housing and the lack of that in the deal. Also, mention the carrots and sticks approach, and the administration's argument that any delay would lead to a worse outcome.
+
+Revised:
+
+Senior White House officials have raised the stakes for congressional Democrats to pass the Bush tax cuts, warning that inaction would significantly increase the risk of a double dip recession. Larry Summers emphasized the potential economic consequences, while economist Rob Shapiro argued that a delay wouldn't cause a double dip but criticized the deal's limited impact on growth. The administration highlighted the consequences of inaction, such as tax increases and loss of unemployment benefits, urging passage to avoid blame for an economic downturn. Shapiro also pointed out that stabilizing the housing market, crucial for economic recovery, wasn't part of the current deal. Despite skepticism from Democrats, the administration pushed for the deal, arguing it's the best available option and that any delay would likely lead to a worse outcome.
+
+That's 148 words. Maybe add more about the carrots and sticks, but perhaps it's better to keep it focused on the main points.
+
+Final version:
+
+Senior White House officials have warned congressional Democrats that failing to pass the Bush tax cuts would significantly increase the risk of a double dip recession, emphasizing the urgency of the situation. Larry Summers highlighted the potential economic consequences, while economist Rob Shapiro argued that a delay wouldn't cause a double dip but criticized the deal's limited impact on growth. The administration stressed the consequences of inaction, such as tax increases and loss of unemployment benefits, urging passage to avoid blame for an economic downturn. Shapiro also noted that stabilizing the housing market, crucial for economic recovery, wasn't part of the current deal. Despite skepticism, the administration pushed for the deal, arguing it's the best available option and that any delay would likely lead to a worse outcome.
+
+That's 148 words. I think it captures the moral framing by presenting both the urgency and the counterarguments, showing the tension.
+</think>
+
+Senior White House officials have warned congressional Democrats that failing to pass the Bush tax cuts would significantly increase the risk of a double dip recession, emphasizing the urgency of the situation. Larry Summers highlighted the potential economic consequences, while economist Rob Shapiro argued that a delay wouldn't cause a double dip but criticized the deal's limited impact on growth. The administration stressed the consequences of inaction, such as tax increases and loss of unemployment benefits, urging passage to avoid blame for an economic downturn. Shapiro also noted that stabilizing the housing market, crucial for economic recovery, wasn't part of the current deal. Despite skepticism, the administration pushed for the deal, arguing it's the best available option and that any delay would likely lead to a worse outcome.
+
+SUMMARY:
+Senior White House officials have warned congressional Democrats that failing to pass the Bush tax cuts would significantly increase the risk of a double dip recession, emphasizing the urgency of the situation. Larry Summers highlighted the potential economic consequences, while economist Rob Shapiro argued that a delay wouldn't cause a double dip but criticized the deal's limited impact on growth. The administration stressed the consequences of inaction, such as tax increases and loss of unemployment benefits, urging passage to avoid blame for an economic downturn. Shapiro also noted that stabilizing the housing market, crucial for economic recovery, wasn't part of the current deal. Despite skepticism, the administration pushed for the deal, arguing it's the best available option and that any delay would likely lead to a worse outcome.
+END OF SUMMARY.

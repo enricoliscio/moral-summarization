@@ -1,0 +1,12 @@
+Okay, so the user has given me a task to summarize a news article about President Obama and the Benghazi attack. They want the summary to be concise, no more than 200 words, and to follow a specific format with "SUMMARY:" and "END OF SUMMARY." tokens. 
+
+First, I need to read the article carefully to understand the main points. The article talks about how Obama's administration allegedly deceived the public regarding the Benghazi attack, claiming it was a spontaneous protest when it was actually a terrorist attack. It mentions emails and cables showing that the administration knew it was a terrorist act but misled the public to cover up their failure.
+
+I should identify the key elements: the deception, the terrorist group involved (Ansar al-Sharia), the failure of security, and the political implications. The article also criticizes Obama's foreign policy in Libya, stating it led to an increase in jihadist activity.
+
+Next, I need to condense this information into a summary. I'll start by stating that the article accuses Obama of deception regarding the Benghazi attack. Then, mention the emails and cables that revealed the administration knew it was a terrorist attack but lied. Highlight the political reasons, such as maintaining the image of weakening al-Qaeda. Also, include the failure to protect the consulate and the consequences of that failure.
+
+I should make sure the summary is clear and within the word limit. I'll avoid getting too detailed on each point but ensure all main aspects are covered. Finally, I'll structure it with the required tokens at the beginning and end.
+</think>
+
+SUMMARY: The article accuses President Obama of deception regarding the 2012 Benghazi attack, claiming his administration misled the public by blaming a protest instead of acknowledging it as a terrorist act. Emails and cables reveal that senior officials, including the CIA, knew Ansar al-Sharia, an al-Qaeda affiliate, was responsible. Obama allegedly concealed this to avoid admitting his administration's failure, as it contradicted his narrative of weakening al-Qaeda. The article criticizes Obama's Libya intervention, arguing it enabled jihadist expansion, leading to the attack. Security requests for the consulate were ignored, and a potential military response was delayed to avoid violating Libyan sovereignty. The author argues Obama's actions, including the cover-up, make him unfit for office. END OF SUMMARY.

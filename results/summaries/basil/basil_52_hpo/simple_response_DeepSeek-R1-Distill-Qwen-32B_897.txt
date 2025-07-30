@@ -1,0 +1,20 @@
+Okay, so I need to help the user by summarizing a news article while preserving the moral framing. The user is a news summarizer assistant and a moral expert. The task is to take the provided news article and create a concise summary that doesn't exceed 200 words. 
+
+First, I should read through the article carefully to understand the key points. The main topic is about Washington Governor Jay Inslee banning state-funded travel to Indiana due to a new law that could allow discrimination against LGBTQ individuals for religious reasons. The article also mentions other states and cities taking similar actions, and the backlash from business leaders.
+
+I need to make sure the summary captures the moral stance taken by Inslee and others. The moral framing is about equality, civil rights, and opposing discrimination. It's important to highlight the actions taken by the governors, the reactions from businesses, and Pence's defense of the law.
+
+I should structure the summary to include the main actors: Inslee, Malloy, the cities like San Francisco and Seattle, and the business leaders. Also, include the counterpoints from Pence and the legislative intent to clarify the law.
+
+I'll start by mentioning Inslee's announcement and his reasoning. Then, note the similar actions by other states and cities. Include the business responses, such as Apple and Salesforce. Then, address Pence's defense and the legislative intent to fix the law's perception.
+
+I need to keep the language clear and concise, ensuring that the moral perspective is maintained. I should avoid any technical jargon and make it easy to understand.
+
+Let me draft the summary, making sure each sentence adds value and stays within the word limit. I'll check the word count after writing to ensure it's under 200 words.
+
+After drafting, I'll review to make sure all key points are included: the ban, the reasoning, other states' actions, business reactions, Pence's defense, and the legislative intent. I'll also ensure the moral stance against discrimination is clear.
+
+Finally, I'll format it with the "SUMMARY:" token at the beginning and "END OF SUMMARY." at the end, as per the user's instructions.
+</think>
+
+SUMMARY: Washington Governor Jay Inslee announced a ban on state-funded travel to Indiana, citing concerns over a new law allowing businesses to deny service to LGBTQ individuals for religious reasons. Inslee criticized the law as a step backward for civil rights, emphasizing Washington's commitment to equality. Connecticut, San Francisco, and Seattle have also imposed travel bans, while business leaders like Apple's Tim Cook and Salesforce's Marc Benioff have condemned the law. Indiana Governor Mike Pence defended the law, claiming it was "grossly misconstrued" and does not legalize discrimination. However, state leaders acknowledge the need to clarify the law to address concerns. The backlash highlights a national debate over religious freedom versus LGBTQ rights. END OF SUMMARY.

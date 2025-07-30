@@ -1,0 +1,18 @@
+Alright, I need to help the user by summarizing the given news article while preserving the moral framing. The user specified that I should act as a news summarizer and a moral expert. So, first, I should read the article carefully to understand its content and the author's perspective.
+
+The article talks about a new crew arriving at the International Space Station. It mentions the astronauts and cosmonauts, their tasks, and some personal touches like their hobbies. The moral framing here seems to be about teamwork, international cooperation, and the human spirit in space exploration. The author highlights the smooth transition of the crew and the personal items that reflect their individuality, which adds a human element to the mission.
+
+I need to make sure the summary captures these elements. It should mention the arrival of the new crew, their half-year stay, the tasks they performed, and the personal touches. I should also keep it concise, under 200 words, and ensure it starts with "SUMMARY:" and ends with "END OF SUMMARY."
+
+I'll structure the summary by first stating the main event, then the tasks, and finally the personal aspects. I'll avoid technical jargon to keep it clear and straightforward. Also, I need to maintain the positive tone and the moral aspects like cooperation and the human element in space missions.
+
+Let me draft the summary step by step. Start with the arrival, mention the new crew and their stay duration. Then, talk about the tasks they did, like installing seat liners and moving gear. Highlight the transition of command and the use of the robot arm. Finally, include the personal items to show their individuality and the spirit of the mission.
+
+I should also make sure the word count is within the limit. Let me count the words as I go. I think the initial summary I provided is around 150 words, so it's well within the limit. I'll check for any unnecessary details to trim down if needed, but it seems concise enough.
+
+Overall, the key points are the crew's arrival, their tasks, the transition, the use of the robot arm, and their personal items. I think I've covered all these points in a way that preserves the moral framing of teamwork and human spirit in space exploration.
+</think>
+
+SUMMARY:  
+Two American astronauts and a Russian cosmonaut have joined the International Space Station for a six-month mission, replacing the previous crew. The new team, including Russian Yuri Onufrienko, who took over as commander, and astronauts Daniel Bursch and Carl Walz, spent their first day installing equipment and settling in. The crew also transferred supplies from the shuttle Endeavour, including a cargo carrier named Raffaello, loaded with food, clothes, and experiments. Before departing, the outgoing crew, led by Frank Culbertson, spent 128 days in space. The new residents brought personal items reflecting their hobbies: Onufrienko brought fishing gear, Bursch weaving materials, and Walz a keyboard for psychological support. The transition highlights international cooperation and the human touch in space exploration.  
+END OF SUMMARY.

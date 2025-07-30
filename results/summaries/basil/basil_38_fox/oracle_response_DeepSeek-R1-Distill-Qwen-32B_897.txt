@@ -1,0 +1,18 @@
+Okay, so the user has given me a task where I need to act as a news summarizer assistant and a moral expert. The goal is to summarize a news article while preserving the moral framing that the author used. The article is about the IRS and Treasury Department allowing legally married same-sex couples to file federal joint tax returns, following a Supreme Court decision overturning part of the Defense of Marriage Act.
+
+First, I need to understand the key points of the article. The main points are the announcement by the IRS and Treasury, the impact of the Supreme Court's decision, the reaction from different groups, and the moral language used.
+
+The user provided a list of morally framed words: file, receive, overturned, affect, access, deserve, equally, denied, lawlessness, forcing. I need to make sure these words are included in the summary as much as possible.
+
+I should start by identifying the main events and the moral implications. The article talks about same-sex couples now being allowed to file jointly, which means they receive the same benefits as heterosexual couples. The Supreme Court overturned part of DOMA, which is a significant legal change. The announcement affects all legally married same-sex couples regardless of their state, which is a positive step towards equality. However, there are opposing views, with some arguing that this is lawlessness and forcing same-sex marriage on the public.
+
+I need to structure the summary to include these points, using the moral words. I should mention the filing of joint returns, the receipt of benefits, the overturning of DOMA, the effect on couples, access to benefits, deserving of equality, equal treatment, denial under DOMA, and the opposing view on lawlessness and forcing.
+
+I also need to keep the summary under 200 words and make sure it's concise. I should start with the announcement, then the context from the Supreme Court, the effect on couples, the reactions from supporters and opponents, and conclude with the implications.
+
+Let me draft the summary step by step, ensuring each moral word is included where appropriate. I'll check the word count to stay within the limit. Finally, I'll make sure the summary flows well and accurately reflects the article's content and moral framing.
+</think>
+
+SUMMARY:  
+The IRS and Treasury Department have announced that legally married same-sex couples can now file federal joint tax returns, granting them the same tax benefits as heterosexual couples. This decision follows the Supreme Court’s overturning of part of the Defense of Marriage Act (DOMA) earlier this year. The new rules will affect all legally married same-sex couples nationwide, regardless of their state of residence, though domestic partnerships and civil unions are excluded. Treasury Secretary Jacob Lew emphasized that the ruling provides certainty and equal access to tax benefits, responsibilities, and protections that all Americans deserve. Chad Griffin of the Human Rights Campaign celebrated the decision, stating that committed same-sex couples will now be treated equally under federal tax laws, ending the denial of benefits previously imposed by DOMA. However, Brian Brown of the National Organization for Marriage criticized the move, calling it "lawlessness" and accusing the administration of forcing same-sex marriage on the public. The decision reflects a significant step toward equality, though it remains contentious.  
+END OF SUMMARY.

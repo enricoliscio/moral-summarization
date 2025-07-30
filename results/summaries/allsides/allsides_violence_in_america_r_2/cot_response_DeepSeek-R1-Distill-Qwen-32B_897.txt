@@ -1,0 +1,40 @@
+Okay, so I need to help the user by summarizing this news article while preserving the moral framing. The user provided a specific structure: first, identify all the morally framed single words, then write a concise summary.
+
+First, I'll read through the article to understand the main points. The author is a Jewish scholar who has spent his life fighting anti-Semitism. He's reflecting on the Pittsburgh massacre and discussing the uniqueness of anti-Semitism in America. He also critiques the left for increasing anti-Semitism and the media's role in inflating threats.
+
+Now, for STEP 1, I need to extract all the single words that carry moral connotations. Words like "luckiest," "anti-Semitism," "tragedy," "inevitable," "painful," "unique," "exterminationist," "evil," "scapegoat," "dishonest," "falsehood," "hypocrisy," "values," "fervently," "pray," "love," "fight," "fate." These words carry strong moral judgments or emotional weight.
+
+For the summary, I need to condense the article, keeping the moral framing intact. I'll start by stating the author's perspective on American Jews being lucky but acknowledging the Pittsburgh tragedy. I'll mention the uniqueness of anti-Semitism as exterminationist, referencing historical context. Then, I'll note the author's critique of the left and media, pointing out their role in falsely claiming increased anti-Semitism. Finally, I'll highlight his plea for unity against anti-Semitism, emphasizing its importance for national well-being.
+
+I need to ensure the summary is under 200 words and includes as many of the morally framed words as possible. I'll structure it to flow logically, covering the main points without getting too detailed. Making sure each sentence captures a key moral point from the article.
+
+Let me draft the summary, ensuring it's concise and includes all necessary moral elements. I'll check the word count to stay within limits. Once done, I'll present it after the "SUMMARY:" token as specified.
+</think>
+
+**STEP 1:**
+
+* luckiest
+* anti-Semitism
+* tragedy
+* inevitable
+* painful
+* unique
+* exterminationist
+* evil
+* scapegoat
+* dishonest
+* falsehood
+* hypocrisy
+* values
+* fervently
+* pray
+* love
+* fight
+* fate
+
+---
+
+**SUMMARY:**
+
+The author, a Jewish scholar and activist, reflects on the Pittsburgh synagogue massacre, calling it a unique American tragedy. While acknowledging the pain of such events, he emphasizes that anti-Semitism is distinct because it seeks the annihilation of Jews, not just persecution. He draws parallels to historical anti-Semitism, such as Nazi Germany, which caused immense suffering and destruction. The author critiques the left and media for falsely claiming an increase in anti-Semitism, citing manipulated data. He argues that anti-Semitism is now growing on the left, particularly on college campuses, and warns that Israel’s enemies pose a threat to Jewish survival. The author calls for vigilance and unity to protect Jewish communities, urging Americans to fight anti-Semitism for the sake of national well-being. He prays that synagogues remain safe without armed guards, emphasizing the moral imperative to combat hatred.  
+**END OF SUMMARY.**

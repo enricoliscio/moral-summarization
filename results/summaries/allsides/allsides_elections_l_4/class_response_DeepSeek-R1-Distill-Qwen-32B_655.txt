@@ -1,0 +1,19 @@
+<think>
+Okay, I need to help the user by summarizing the given news article while preserving the moral framing. The user is a news summarizer assistant and a moral expert, so I should focus on maintaining the ethical implications presented in the text.
+
+First, I'll read through the article to understand the main points. It's about Donald Trump softening his stance on immigration, specifically targeting Hispanic and African American voters. He claims immigrants will pay back taxes without amnesty, which seems contradictory to his previous hardline approach. He also talks about African American unemployment and criticizes the Democrats for failing in inner cities, claiming they're more dangerous than war zones. The article points out that his crime statistics are misleading and his employment claims are not backed by data.
+
+Next, I need to identify the morally framed words the author used. These include "lies," "failed," "deportation," "unemployed," "misleading," etc. I should ensure these words are included in the summary to maintain the moral perspective.
+
+I'll structure the summary to cover Trump's softened immigration stance, his claims about inner cities being unsafe, the misleading statistics on unemployment, and the lack of support among African American voters. I need to keep it concise, under 200 words, and make sure it flows logically.
+
+I should start by mentioning Trump's shift on immigration, then move to his comments on inner cities, followed by the unemployment statistics and the critique of his claims. Finally, I'll note the low support among African American voters despite his outreach.
+
+I need to make sure the summary is clear and sticks to the key points without adding extra information. I'll avoid any markdown and keep the language straightforward, preserving the moral framing as required.
+
+Let me draft the summary now, ensuring all the key moral points are included and the word count is respected.
+</think>
+
+SUMMARY:  
+Donald Trump softened his stance on immigration, claiming undocumented migrants would pay back taxes and work toward legalization, though he denied flip-flopping. His campaign aims to court non-white voters, particularly Hispanics and African Americans, as polls show he trails Hillary Clinton among these groups. Trump also criticized inner cities as crime-ridden and unsafe, comparing them to war zones, despite declining crime trends. His claims about African American unemployment being 58% were deemed misleading, as the figure included those not seeking employment. Trump’s outreach to African American voters has been limited, with only 1% supporting him, despite his claims of employing many in his businesses. His statements on immigration, crime, and unemployment highlight a mix of moderation and controversial moral framing.  
+END OF SUMMARY.

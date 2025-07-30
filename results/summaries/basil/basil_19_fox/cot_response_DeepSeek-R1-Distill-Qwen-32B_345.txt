@@ -1,0 +1,28 @@
+Okay, so the user has given me a query where they want me to act as a news summarizer and a moral expert. The task is to summarize a news article while preserving the moral framing the author used. They've also provided specific steps: first, identify all single words that are morally framed, and then write a summary using those words.
+
+First, I need to understand what morally framed words mean. These are words that carry a moral judgment, like "conflict of interest," "wrong," "bad," "right," etc. I should go through the article and pick out each of these words.
+
+Looking at the article, I'll scan through each sentence to spot any words that have a moral connotation. For example, "conflict of interest" is definitely one. Then "wrong," "bad," "right," "failed," "destructive," "courage," "conviction," "confidence." I should list each of these, each on a new line with an asterisk.
+
+Next, the summary needs to include as many of these words as possible while being concise, no more than 200 words. I have to make sure the summary captures the essence of Trump's decision, his reasoning, and the implications. I'll structure it to mention his withdrawal, the conflict of interest, his consideration of a third-party run, the economic concerns, and the endorsement. Also, include the debate's sponsorship and the candidates' reactions, ending with his confidence and goal to make America great again.
+
+I should ensure that the summary flows naturally and includes all the key points without being too verbose. I'll start by stating his decision, then his reasons, the candidates' concerns, the impact on the debate, and conclude with his goals and the moral framing words.
+
+I need to make sure I don't miss any of the morally framed words and that the summary accurately reflects the article's content while preserving the moral perspective. It's important to keep the summary clear and within the word limit, so I'll be concise but thorough in including all necessary details.
+</think>
+
+**STEP 1:**
+
+* Conflict of interest  
+* Wrong  
+* Bad  
+* Right  
+* Failed  
+* Destructive  
+* Courage  
+* Conviction  
+* Confidence  
+
+**SUMMARY:**  
+Donald Trump has withdrawn as the moderator for a Republican presidential debate, citing a potential "conflict of interest" if he decides to run as an independent candidate. He emphasized his desire to keep his options open, particularly if the Republicans choose the "wrong" candidate or the economy remains "bad." Trump expressed concern about the "failed" and "destructive" Obama administration and stressed the importance of selecting the "right" Republican candidate. Despite his decision, he plans to endorse a Republican while considering a third-party run. The debate, sponsored by Newsmax, had lost momentum after several candidates withdrew, citing concerns about Trump's potential third-party bid. Trump praised Newt Gingrich and Rick Santorum for their "courage, conviction, and confidence" in attending the debate. He remains confident in his ability to "make America great again."  
+**END OF SUMMARY.**

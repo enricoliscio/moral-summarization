@@ -1,0 +1,18 @@
+Okay, so the user wants me to summarize a news article. Let me read through the article first. It's about Donald Trump and Vicente Fox having a Twitter war before Trump's visit to Mexico. 
+
+Hmm, the article starts by saying that even before Trump landed, he was in a Twitter battle with Fox. Fox is a former Mexican president and a critic of Trump. Fox criticized Trump on CNN, saying he's not welcome in Mexico and that President Pena Nieto made a mistake by inviting him. Fox called it a political risk and even a betrayal.
+
+Then Trump responded on Twitter, bringing up a past incident where Fox used the 'f bomb' regarding the wall. Trump seems to be using that against Fox, which probably means Fox had criticized Trump's wall before. Fox then fired back on Twitter, demanding an apology and accusing Trump of lying.
+
+So, I need to condense this into a summary. I should mention both parties, their main points, and the context of their conflict. I should keep it under 200 words, so I need to be concise but include all key points: the Twitter war, Fox's criticism, Trump's response referencing the wall incident, and Fox's demand for an apology.
+
+I should structure it in a way that flows logically, starting with the conflict, then each side's arguments, and the ongoing tension. Make sure to include that Fox is a former president and a critic, and that Trump is the Republican nominee.
+
+Also, the user specified the summary should start after a "SUMMARY:" token and end with "END OF SUMMARY." So I need to format it correctly without any markdown, just plain text.
+
+I think I have all the main points. Let me put it together clearly and concisely, ensuring it's within the word limit.
+</think>
+
+SUMMARY:  
+Before Donald Trump arrived in Mexico, former President Vicente Fox criticized Trump on CNN, calling him "not welcome" and accusing President Enrique Peña Nieto of taking a political risk by inviting him. Fox also labeled Trump's visit as a "big mistake." Trump responded on Twitter, referencing Fox's past criticism of the border wall, which included the use of profanity. Fox fired back, demanding Trump apologize and stop lying. The exchange escalated into a heated Twitter war, highlighting tensions between the two figures over Trump's visit.  
+END OF SUMMARY.

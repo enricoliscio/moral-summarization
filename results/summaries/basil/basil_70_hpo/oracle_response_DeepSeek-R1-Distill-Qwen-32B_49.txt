@@ -1,0 +1,12 @@
+Okay, so I need to help the user by summarizing a news article while preserving the moral framing. The user specified that I should focus on the morally framed words, especially "stolen," which was used in the original text. 
+
+First, I'll read through the article to understand the main points. It's about Donald Trump becoming president, his journey from a real estate developer to the presidency, his campaign against Hillary Clinton, and the factors that helped him win. The key moral word here is "stolen" referring to the Democratic emails hacked by Russians.
+
+I need to make sure the summary includes that word and maintains the moral context. I'll structure the summary to highlight Trump's unexpected rise, his campaign strategy, the stolen emails, and the narrow victories in key states. I should keep it concise, under 200 words, and make sure it flows naturally.
+
+I'll start by mentioning Trump taking the oath, then his background, his nomination win, the primary voters' anger, the general election struggle, the stolen emails and Comey's action, and the close wins in Wisconsin, Michigan, and Pennsylvania. I'll end with Clinton's expectation and the overall impact of the stolen emails.
+
+I should avoid adding any personal opinions and stick to the facts while keeping the moral framing intact. Also, I need to make sure the summary starts after "SUMMARY:" and ends with "END OF SUMMARY." without any markdown. Let me piece this together concisely.
+</think>
+
+SUMMARY: Donald J. Trump became the 45th president of the United States on Friday, 584 days after announcing his candidacy. Chief Justice John Roberts administered the oath, marking Trump's improbable ascent from a New York City real estate developer and reality TV star to the nation's highest office. Trump secured the Republican nomination despite facing 16 other candidates, many with more political experience, by tapping into a primary base angered at the GOP establishment for not challenging President Barack Obama's policies. In the general election, Trump trailed Hillary Clinton but benefited from the near-daily release of stolen Democratic Party emails by Russian hackers and FBI Director James Comey's brief reopening of the investigation into Clinton's private email server. Trump won Wisconsin, Michigan, and Pennsylvania by a combined 78,000 votes, defying Clinton's expectations. END OF SUMMARY.

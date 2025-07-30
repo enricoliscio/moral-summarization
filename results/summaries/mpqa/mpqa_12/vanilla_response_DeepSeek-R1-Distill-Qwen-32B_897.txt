@@ -1,0 +1,10 @@
+Okay, so the user wants me to summarize a news article about Florida astronauts repairing the space station. Let me read through the article first. It's about two astronauts doing a spacewalk to fix the ISS's solar wings. They wrapped thermal covers around some motors to protect them from temperature extremes. The motors are important because they keep the solar wings facing the sun, which generates electricity. The astronauts used the shuttle's robot arm to move around.
+
+I need to make sure the summary is concise, under 200 words. I should include the main points: who did it, what they did, why it's important, and the method they used. Maybe start with the astronauts' names and their action. Then explain the purpose of the thermal covers and the role of the motors. Also, mention how they moved using the robot arm.
+
+I should avoid any technical jargon and keep it simple. The summary should flow logically, starting with the action, then the reason, and the method. Let me structure it: astronauts, action, purpose, result, method. That should cover all the key points without being too lengthy.
+
+Also, the user specified to use the "SUMMARY:" token and end with "END OF SUMMARY." I need to make sure the summary starts and ends correctly. Let me put it all together, keeping each sentence clear and to the point.
+</think>
+
+SUMMARY: Two astronauts from Florida performed a spacewalk to repair the International Space Station (ISS) on Monday. They wrapped thermal covers around motors that control the station's solar wings, aiming to protect them from extreme temperatures and prevent power issues. The motors are crucial for keeping the solar panels oriented toward the sun to generate electricity. Astronauts Linda Godwin and Daniel Tani used the robot arm of the space shuttle Endeavour to move 50 feet up the station during the repair mission. The goal was to ensure the station's power system remains stable. END OF SUMMARY.

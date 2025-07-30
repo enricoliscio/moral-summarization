@@ -1,0 +1,15 @@
+<think>
+Alright, so the user wants me to summarize a news article while preserving the moral framing. The article is about Bruce Braley making a remark about Chuck Grassley, and the author used specific morally framed words. I need to make sure those words are included in the summary.
+
+First, I'll read the article to understand the context. Braley mocked Grassley as a farmer without a law degree during a campaign event. He later apologized, showing respect and appreciation for Iowa farmers. The PAC released the video, and Grassley's spokesperson fired back, highlighting Grassley's background and experience.
+
+I need to identify the morally framed words: respects, respect, appreciate, grateful, support, help, fighting, work, works. I should include these in the summary without adding any extra words.
+
+I'll start by mentioning the controversy, then Braley's apology and his expressions of respect and appreciation. I'll include his support for farmers and how he wants their help. Then, I'll note his criticism of Grassley, using "fighting" for his own experience. Finally, I'll mention Grassley's spokesperson countering, emphasizing his work and the use of "works" for policies.
+
+I'll keep the summary concise, under 200 words, ensuring all key points are covered while preserving the moral language. I'll make sure it's clear and flows well, ending with the required tokens.
+</think>
+
+SUMMARY:  
+Iowa Democratic Rep. Bruce Braley faced criticism after a video emerged of him mocking Sen. Chuck Grassley, a Republican, as a “farmer from Iowa who never went to law school” during his Senate campaign. Braley apologized, stating he “respects” Grassley and “appreciates” the importance of Iowa’s farmers, for whom he is “grateful” to have their support. The video, released by a conservative PAC, showed Braley speaking to lawyers in Texas, where he contrasted his legal experience with Grassley’s background, suggesting Grassley, as a farmer without a law degree, might chair the Senate Judiciary Committee. Grassley’s spokesperson countered, arguing Braley’s logic would disqualify him from speaking on key issues and highlighted Grassley’s “strong record” on the Judiciary Committee, emphasizing his role as a “working family farmer” who “brings Iowa common sense” to policy areas. Braley, meanwhile, focused on his own “fighting” experience in tort reform and his desire to “work” on the Judiciary Committee.  
+END OF SUMMARY.

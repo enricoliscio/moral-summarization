@@ -1,0 +1,12 @@
+STEP 1:
+* Blame
+* Problem
+* Suspect
+* Snag
+* Interrupted
+* Nuisance
+* Danger
+
+SUMMARY: 
+Astronauts encountered a slight *problem* during the inaugural run of the international space station's new railcar. The railcar, valued at $190 million, was sent rolling down a short stretch of track but quickly ran into a *snag*. NASA *blamed* the issue on weightlessness, suspecting that the one-ton car had floated off the rail, causing the magnetic sensors to lose contact with the iron strips in the aluminum tracks. Although there was no apparent *danger* of the railcar rolling off the track, the automatic latching system malfunctioned, requiring ground controllers to take manual control and secure the car. Engineers believe the issue may be due to how the mobile transporter operates in zero-g conditions, and they may need to adjust the computer software if it becomes more of a *nuisance*. The railcar is a critical component for the space station's construction and is set to be used in late summer to transport the outpost's robot arm as more girders are installed. Despite the *interrupted* test run, the railcar was successfully moved to its designated work stations, showcasing the resilience and adaptability of the astronauts and ground controllers.
+END OF SUMMARY.

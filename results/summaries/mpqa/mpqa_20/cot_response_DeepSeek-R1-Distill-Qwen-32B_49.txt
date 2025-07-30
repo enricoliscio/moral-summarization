@@ -1,0 +1,37 @@
+Alright, I need to help the user by summarizing the given news article while preserving the moral framing. The user has specified a two-step process: first, identifying all the morally framed single words, and then writing a concise summary that includes as many of those words as possible.
+
+Starting with the first step, I'll go through the article and pick out words that carry a moral connotation. Words like "rigged," "punish," "flawed," "courageous," "renew," "promise," "better," "governance," "democracy," "jeopardy," "suspend," "isolation," "solidarity," "model," "poverty," "hope," "desperation," "condone," "quiet diplomacy," "stature," "renewal," and "greater democracy" all seem to carry moral weight. These words reflect judgments about actions, policies, and outcomes, so they're key to the moral framing.
+
+Next, for the summary, I need to condense the article into 200 words or less, making sure to include these morally framed words. The article discusses how South Africa and Nigeria took a stand against Zimbabwe's election, leading to international consequences. It highlights the importance of governance and democracy for aid and development, and it critiques Mugabe's actions while showing support for Mbeki's efforts. I'll structure the summary to reflect these points, ensuring the moral terms are included to maintain the original framing.
+
+I should also keep the summary clear and concise, focusing on the main actions and implications without getting bogged down in details. The key points are the actions of South Africa and Nigeria, the impact on the New Partnership for Africa's Development, Mugabe's response, and the hope for better governance and democracy in Africa. By weaving in the morally charged words, the summary will retain the author's original perspective on the events.
+
+I think I've covered all the necessary points. Now, I'll format the response as per the user's instructions, listing the moral words first and then the summary, making sure to stay within the word limit and include the required tokens.
+</think>
+
+**STEP 1:**  
+* Rigged  
+* Punish  
+* Flawed  
+* Courageous  
+* Renew  
+* Promise  
+* Better  
+* Governance  
+* Democracy  
+* Jeopardy  
+* Suspend  
+* Isolation  
+* Solidarity  
+* Model  
+* Poverty  
+* Hope  
+* Desperation  
+* Condone  
+* Quiet diplomacy  
+* Stature  
+* Renewal  
+* Greater democracy  
+
+**SUMMARY:**  
+The article highlights the moral and political implications of Zimbabwe's flawed election, which was widely seen as rigged. South Africa and Nigeria, Africa's most powerful nations, took a stand by suspending Zimbabwe from the Commonwealth, signaling their commitment to governance, democracy, and the "grand bargain" of aid and development. This move, supported by President Mbeki and Obasanjo, reflects solidarity with the West and upholds the New Partnership for Africa's Development, aimed at reducing poverty through better governance. Zimbabwe's leader, Mugabe, faced widespread condemnation for voter intimidation and land seizures without compensation. The opposition demanded a new election for a unity government, while trade unions protested his tactics. Mugabe's desperation, including charging the opposition leader with treason, underscores the need for African leaders to condemn such actions. Mbeki's "quiet diplomacy" has now evolved into a stronger stance, offering hope for African renewal and democracy. END OF SUMMARY.

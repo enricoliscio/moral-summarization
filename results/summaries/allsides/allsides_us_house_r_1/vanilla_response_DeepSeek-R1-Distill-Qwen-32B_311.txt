@@ -1,0 +1,21 @@
+Alright, I need to help the user by summarizing the given news article. The user has specified that the summary should be after a "SUMMARY:" token and end with "END OF SUMMARY." It should be concise, no more than 200 words.
+
+First, I'll read through the article to understand the main points. The article is about the House Judiciary Committee's proceedings regarding the impeachment of President Trump. Key points include:
+
+- Chairman Jerrold Nadler's arguments about Trump putting himself before the country.
+- The charges: abuse of power, bribery, obstructing Congress.
+- The context of Trump asking Ukraine to investigate Biden and his son Hunter.
+- The July 25 phone call and the whistleblower's allegations.
+- The delay in military aid to Ukraine as leverage.
+- The Democrats' focus on the quid pro quo aspect.
+- Republican arguments defending Trump's actions.
+- Testimonies, especially from Gordon Sondland, and the lack of direct link between aid delay and investigations.
+
+I need to condense these points into a coherent summary. I should ensure it's under 200 words, so I'll focus on the essential elements: the charges, the context of the Ukraine investigation, the phone call, the whistleblower, the military aid delay, the quid pro quo, and the testimonies. I'll also mention the Republican defense and the ongoing process.
+
+I'll structure the summary to start with the committee's actions, outline the charges, explain the context, mention key events like the phone call and whistleblower, the delay in aid, and the testimonies. I'll conclude with the Republicans' stance and the committee's next steps.
+
+Now, I'll draft the summary, making sure it's concise and hits all the main points without going into too much detail. I'll avoid any markdown and keep it in plain text as per the user's instructions.
+</think>
+
+SUMMARY: House Judiciary Committee Chairman Jerrold Nadler emphasized that President Trump's actions, including pressuring Ukraine to investigate political rival Joe Biden and his son Hunter, constitute a clear conflict of interest, putting personal gain above the national interest. Democrats are preparing articles of impeachment, focusing on charges of abuse of power, bribery, and obstructing Congress. The case stems from a July 25 phone call where Trump allegedly withheld military aid from Ukraine in exchange for an investigation into the Bidens, a claim supported by a whistleblower. Republicans argue Trump's actions were unconventional but not criminal, and that investigating Hunter Biden was legitimate. Key testimony from Ambassador Gordon Sondland revealed a potential quid pro quo, though Trump denied any such arrangement. The delay in military aid to Ukraine remains a central issue, with no direct evidence linking it to the investigations. Trump has denied wrongdoing, calling the impeachment process a partisan "sham." The committee is reviewing evidence to determine if Trump's actions warrant impeachment. END OF SUMMARY.

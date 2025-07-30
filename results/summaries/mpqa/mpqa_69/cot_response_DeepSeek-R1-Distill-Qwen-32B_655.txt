@@ -1,0 +1,40 @@
+<think>
+Okay, so I need to help the user by summarizing a news article while preserving the moral framing. The user has given me a specific structure to follow: first, identify all the morally framed single words, and then write a concise summary that includes as many of those words as possible.
+
+First, I'll read through the article to understand the context. It's about environmentalist groups protesting against the U.S. alternative to the Kyoto Protocol. They're opposing Bush's plan, which they see as inadequate compared to the Kyoto Protocol. The protest is near the U.S. Embassy in Tokyo, and they're handing over letters and banners with messages like "Ratify the Kyoto Protocol." The NGOs are critical of Bush's approach, arguing it's not an alternative but worse than the Kyoto Protocol. They also mention other issues like the war on terrorism and military bases.
+
+Now, for the first step, I need to identify the single words that carry moral framing. I'll go through the article and pick out words that express approval, disapproval, or moral judgment. Words like "protest," "opposed," "cannot accept," "regrettable," "dismayed," "international outcry," "voluntary" (as opposed to mandatory), "only existing," "leadership," "fair," "peaceful," "cooperate," "stop," "cease," "reduce." These words convey the moral stance of the protesters and the NGOs.
+
+Next, I need to write a summary that includes these words. The summary should be under 200 words, so I have to be concise but include as many of the morally framed words as possible. I'll start by mentioning the protest, the participants, their opposition, the banners, the letter's contents, the NGOs' demands, and the broader context of the meeting between Koizumi and Bush. I'll also touch on the additional requests regarding the war on terrorism and military actions.
+
+I need to make sure the summary flows well and covers all the key points while preserving the moral framing. I'll structure it by first describing the protest, then the NGOs' actions and demands, followed by the implications of the meeting, and finally the additional requests in the letters.
+
+I should check that I'm not missing any important details, like the specific criticisms of Bush's plan and the NGOs' call for reconsideration. Also, I need to include that the NGOs handed over letters and the contents of those letters, emphasizing their moral stance against Bush's policies.
+
+Finally, I'll ensure that the summary is within the word limit and that all the morally framed words are appropriately included without making the summary too verbose.
+</think>
+
+**STEP 1:**  
+* Protest  
+* Opposed  
+* Cannot accept  
+* Regrettable  
+* Dismayed  
+* International outcry  
+* Voluntary  
+* Mandatory  
+* Alternative  
+* Increase  
+* Sacrifice  
+* Demand  
+* Reconsider  
+* Leadership  
+* Fair  
+* Peaceful  
+* Cooperate  
+* Stop  
+* Cease  
+* Reduce  
+
+**SUMMARY:**  
+Environmental groups protested against the U.S. alternative to the Kyoto Protocol near the U.S. Embassy in Tokyo as President Bush arrived. About 50 members of NGOs, including Friends of the Earth Japan, opposed the U.S. plan, calling it "regrettable" and "cannot accept." Protesters carried banners demanding the ratification of the Kyoto Protocol. NGOs handed Bush a letter criticizing his climate plan, which they said would allow U.S. greenhouse gas emissions to rise by 30% by 2010, compared to 1990 levels. They demanded Bush reconsider his policy and rejoin the Kyoto Protocol, calling it the "only existing international framework" to prevent dangerous climate change. Meanwhile, Prime Minister Koizumi and Bush were set to discuss global warming measures. Additional letters called for U.S. leadership in helping developing countries through "peaceful dialogue and fair economic support" and urged the U.S. to stop military actions and reduce bases in Japan. END OF SUMMARY.

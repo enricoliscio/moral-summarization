@@ -1,0 +1,28 @@
+Okay, I need to help the user by summarizing the news article while preserving the moral framing. First, I should identify the morally framed words as per the instructions. Let me read through the article again to spot those words.
+
+The article talks about Reddit shutting down communities due to hate speech. Words like "curtail," "hate speech," "protests," "equality," "ban," "purging," "hosted," "antagonized," "refused," "weaponize," "mitigate," and "reiterate" stand out as having moral connotations. These words carry a sense of right and wrong, so I'll list them.
+
+Next, I need to write a concise summary. I should include the main points: Reddit closing 2,000 communities, the reasons like hate speech, examples of subreddits, and the company's stance. I'll make sure to use the identified moral words to maintain the original framing.
+
+I should keep the summary under 200 words. Let me structure it to first mention the action Reddit took, then the reasons, examples, and the company's commitment to enforcing policies. That should cover all the key points while staying within the word limit.
+
+Finally, I'll format the response with STEP 1 listing the words and then the SUMMARY section. I need to ensure clarity and that the moral framing is preserved throughout the summary.
+</think>
+
+**STEP 1:**  
+* curtail  
+* hate speech  
+* protests  
+* equality  
+* ban  
+* purging  
+* hosted  
+* antagonized  
+* refused  
+* weaponize  
+* mitigate  
+* reiterate  
+
+**SUMMARY:**  
+Reddit has shut down over 2,000 communities for violating its content policies, particularly those promoting hate speech. The move follows growing protests for gender, racial, and LGBTQ+ equality and comes after brands boycotted Facebook over hate speech. Subreddits like "The_Donald," "Gender Critical," and "CapoTrapHouse" were banned for consistently hosting rule-breaking content, antagonizing others, and refusing to meet basic expectations. "The_Donald" was flagged for promoting hate speech and extreme political ideas, while "Gender Critical" was criticized for anti-trans rhetoric and denying trans women's rights. Reddit emphasized its responsibility to combat hate speech and stated this purge is just the beginning of stricter enforcement. The company aims to support its communities by taking stronger action against those weaponizing the platform.  
+**END OF SUMMARY.**

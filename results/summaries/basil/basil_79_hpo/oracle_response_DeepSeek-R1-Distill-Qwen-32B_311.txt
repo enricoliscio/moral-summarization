@@ -1,0 +1,14 @@
+Alright, so the user has given me a query where I need to act as a news summarizer and moral expert. The task is to summarize a provided news article while preserving the moral framing that the author used. They also specified that I should include as many of the listed morally framed words as possible. 
+
+First, I'll read through the article to understand the main points. The article talks about Trump defending Michael Flynn by comparing him to Hillary Clinton. Trump mentions that Flynn's life was "ruined" because he lied to the FBI, while Clinton lied but faced no consequences. Flynn pleaded guilty, and Trump's team is trying to distance themselves from the investigation, but Flynn's case makes it harder. Trump's lawyer argues that the president can't obstruct justice because he's the chief law enforcement officer.
+
+Next, I need to identify the morally framed words from the article: ruined, use, lied, destroyed, unfair, lying, collusion, charges, distance, misled, contacts, sanctions, backchannel, knew, fired, end, express. I should incorporate these into the summary.
+
+I'll start by noting Trump's defense of Flynn, using "ruined" and "lied." Then, I'll mention the comparison to Clinton, using "lied" again and "unfair." I'll include Flynn's guilty plea and the implications for Trump's distancing efforts. I'll also touch on Trump's lawyer's argument about the president's role, using "express."
+
+I need to keep the summary concise, under 200 words, and ensure it flows naturally while preserving the moral framing. I'll structure it to highlight Trump's comparison, Flynn's situation, the legal implications, and the ongoing questions about obstruction of justice.
+
+Finally, I'll make sure to include all relevant morally framed words without making the summary feel forced. The goal is to maintain the article's original moral perspective while presenting a clear and concise summary.
+</think>
+
+SUMMARY: President Trump defended Michael Flynn, stating his life was "ruined" after pleading guilty to lying to the FBI. Trump compared Flynn’s fate to Hillary Clinton, who lied to the FBI about her private email server but faced no consequences, calling it "unfair." Flynn’s case, involving collusion with Russia, has made it harder for Trump to distance himself from the investigation. Flynn misled the transition team about his contacts with Russian officials, including discussions on sanctions and a backchannel with the Kremlin. Trump’s lawyer, John Dowd, argued that the president, as the chief law enforcement officer, cannot obstruct justice. Trump has claimed he fired FBI Director James Comey with "this Russia thing" in mind, while Comey testified that Trump asked him to end the Flynn investigation. END OF SUMMARY.

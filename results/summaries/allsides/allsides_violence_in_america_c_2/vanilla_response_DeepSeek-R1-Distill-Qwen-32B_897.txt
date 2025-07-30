@@ -1,0 +1,18 @@
+Alright, so the user has given me a query where they want me to summarize a news article. Let me read through the article first to understand what it's about. 
+
+The article is about Patrick Crusius, who was indicted for the El Paso Walmart shooting that happened in August 2019. It mentions he's 21, from Allen, Texas, and the indictment is for capital murder with the death penalty sought. The shooting left 22 dead, mostly Hispanic, including eight Mexicans. Crusius drove from Dallas, targeting Mexicans, and surrendered, saying he was the shooter. He wrote a manifesto blaming the "Hispanic invasion," which tied into Trump's immigration rhetoric, causing some to blame Trump, though he denied it. 
+
+There are mentions of other shootings in Dayton and West Texas, which happened around the same time, and the political reactions, including Texas Governor Greg Abbott's response and the gun control debate. The user wants a summary of this article, limited to 200 words, starting with "SUMMARY:" and ending with "END OF SUMMARY."
+
+I need to condense the key points: the indictment, the death penalty, the attack details, the manifesto, political implications, other shootings, and the political reactions. I should keep it concise, ensuring all important aspects are covered without going over the word limit. 
+
+I'll structure it by starting with the indictment, then the attack details, the manifesto and its connection to Trump, the other shootings, and the political fallout, including Abbott's response and the gun control debate. I need to make sure each point is clear and flows logically.
+
+Let me draft the summary, making sure each sentence is concise and captures the essence without unnecessary details. I'll check the word count to ensure it's under 200 words. 
+
+After drafting, I'll review to make sure it's accurate and covers all critical points without being too verbose. I'll also ensure that the summary starts and ends with the required tokens as specified.
+</think>
+
+SUMMARY:  
+A 21-year-old man, Patrick Crusius, has been indicted for capital murder in connection with the August 3 mass shooting at a Walmart in El Paso, Texas, which left 22 people dead. Crusius, who targeted Mexicans, surrendered to police and allegedly authored a manifesto blaming the "Hispanic invasion of Texas." El Paso prosecutors are seeking the death penalty, while his defense team aims to prevent execution. The shooting, part of a series of mass shootings last month, sparked debates over guns and immigration. Crusius drove from near Dallas to El Paso, where most victims had Hispanic last names, including eight Mexican nationals. Federal authorities are considering hate-crime charges. Survivors have held vigils, while political reactions, including from Texas Gov. Greg Abbott, have focused on gun control and immigration. Abbott has resisted calls for new gun laws, and the incident has fueled political tensions.  
+END OF SUMMARY.

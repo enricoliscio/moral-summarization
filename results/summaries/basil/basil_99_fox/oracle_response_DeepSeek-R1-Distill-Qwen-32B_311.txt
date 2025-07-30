@@ -1,0 +1,12 @@
+Okay, so the user has provided a news article and wants a summary that preserves the moral framing. They've specified certain morally charged words to include. First, I need to read the article carefully to understand the key points. 
+
+The article is about Republicans on the House Intelligence Committee demanding Rep. Adam Schiff step down as chairman. They're upset because Schiff has been claiming there's evidence of Trump-Russia collusion, which Mueller's probe didn't find. The Republicans are using strong moral terms like "lying," "leaking," and "false narrative." 
+
+I should identify the main elements: the demand for Schiff's resignation, the reasons given by Republicans, Mueller's findings, Schiff's defense, and the Democratic response. I need to make sure to include the specified moral words without adding any new ones. 
+
+I'll structure the summary to include each party's stance, using the exact terms from the article. I'll keep it concise, under 200 words, and ensure it flows logically. Also, I need to end with the specified tokens. 
+
+Let me draft this, making sure to hit all the key points and maintain the moral framing as presented. I'll check the word count to stay within limits. Once done, I'll present it clearly.
+</think>
+
+SUMMARY: Every Republican on the House Intelligence Committee demanded Rep. Adam Schiff step down as chairman, citing his claims of Trump-Russia collusion as incompatible with his duties. They accused him of "lying" and "leaking," calling his actions "outrageous" and "in conspiracy land." President Trump and Sen. Lindsey Graham also criticized Schiff, with Trump tweeting that he should resign from Congress. Schiff, however, defended his stance, pointing to Russian hacking, offers of "dirt" on Hillary Clinton, and meetings between Trump associates and Russians. Republicans argued Schiff's claims were a "false narrative" that "undermined" public faith. Despite Mueller's probe finding no collusion, Schiff insisted the question of Trump's ties to foreign powers remained unresolved. Democrats, including House Speaker Nancy Pelosi, defended Schiff, stating his work was "outstanding" and rejecting calls for his resignation as "absolutely ridiculous." The dispute highlights ongoing tensions over oversight and the release of the full Mueller report. END OF SUMMARY.

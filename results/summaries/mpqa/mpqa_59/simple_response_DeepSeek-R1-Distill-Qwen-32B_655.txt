@@ -1,0 +1,12 @@
+Alright, so the user has provided a query where they want me to act as a news summarizer and a moral expert. The task is to summarize a given news article while preserving the moral framing that the author used. 
+
+First, I need to understand the article. It's about Condoleezza Rice defining the "axis of evil" as Iraq, Iran, and North Korea, based on them being repressive and seeking WMDs. The author points out that many other countries could fit this description but aren't included, suggesting a bias towards authoritarian regimes. The article also critiques the criteria for acquiring WMDs, noting that the US itself developed nuclear weapons but isn't labeled evil.
+
+The user wants a summary that's concise, no more than 200 words, and to include the moral framing. So, I should focus on the main points: Rice's criteria, the author's criticism of the selective application, the moral implications of labeling based on regime type, and the US's own history with WMDs.
+
+I need to make sure the summary captures the moral argument that the criteria are inconsistent and biased. I'll structure it by first stating Rice's definition, then the author's critique, and finally the implications regarding the US's stance.
+
+Let me draft this, keeping it within the word limit and ensuring the moral elements are clear.
+</think>
+
+SUMMARY: Condoleezza Rice, George W. Bush's National Security Adviser, expanded on the "axis of evil" concept, identifying Iraq, Iran, and North Korea as repressive regimes violating human rights and aggressively pursuing weapons of mass destruction (WMDs). Critics argue that many other countries could fit this description, as the criteria seem selective. The term "aggressively seeking" WMDs implies that slower development or acquisition might not warrant the label, yet numerous nations are exploring such capabilities. The article questions whether acquiring WMDs alone should determine a nation's morality, noting that the U.S. itself developed nuclear weapons first. The real criterion, it suggests, may be whether the regime is democratic, as democratic states are seen as more restrained in using such weapons. Rice's criteria, therefore, may reflect a bias against authoritarian regimes, raising moral concerns about the fairness and consistency of labeling nations as "evil" based on their political systems. END OF SUMMARY.

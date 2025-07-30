@@ -1,0 +1,17 @@
+<think>
+Okay, so the user has given me a query where they want me to summarize a news article while preserving the moral framing. The article is about House Democrats introducing a bill to protect Dreamers, and the challenges they face in the Senate. The user provided a list of morally framed words that the author used, and they want me to include as many as possible in the summary.
+
+First, I need to understand the main points of the article. It talks about the DREAM Act's history, how Senate Republicans have become more conservative, and the current political climate making it difficult for the bill to pass. The author uses words like "punish," "protected," "entitled," "die," "protect," "ravaged," "killed," "bring," "amended," "amendments," "use," and "amend."
+
+I should start by identifying the key events and the moral implications. The bill aims to protect Dreamers, which is framed as a compassionate move. However, Republicans view it as amnesty, which is a moral stance against leniency. The article mentions the decline in Republican support over the years, showing a shift from compassion to stricter policies.
+
+I need to include words like "protected," "punish," "entitled," and "amend." I should structure the summary to highlight the struggle between compassion and amnesty, the political risks for senators, and the current impasse in the Senate.
+
+I'll also mention the Dream and Promise Act, the opposition from the White House and Republicans wanting border security in exchange, and the challenges of passing a stand-alone bill. I should end with the stalemate, emphasizing the moral conflict.
+
+Now, I'll draft the summary, making sure to include the moral words and keep it under 200 words. I'll check each sentence to see if it reflects the moral framing and whether the required words are present. I'll avoid any markdown and keep the summary concise.
+
+Finally, I'll ensure that the summary starts with "SUMMARY:" and ends with "END OF SUMMARY." as per the instructions. I'll review it to make sure all key points are covered and the moral terms are appropriately included.
+</think>
+
+SUMMARY: House Democrats introduced a bill to grant permanent protections to undocumented immigrants brought to the U.S. as children, known as Dreamers, but its fate lies with Senate Republicans, who have increasingly opposed such measures. Once viewed as an act of "compassion," the DREAM Act has been labeled "amnesty" by conservatives, leading to dwindling GOP support over the years. Senate Republicans now prioritize border security or immigration system changes in exchange for protecting Dreamers, leaving the House bill, the Dream and Promise Act, with little chance in the Senate. The bill would create a pathway to citizenship for Dreamers and those with Temporary Protected Status (TPS), but Senate Republicans fear amendments that could derail its passage. Sen. Roy Blunt expressed support for Dreamers but hesitated to commit to voting for the bill. Sen. Lindsey Graham called for a "more comprehensive solution," while Sen. Marco Rubio dismissed the standalone bill, citing the risk of amendments. The article highlights the moral conflict between "protecting" Dreamers and opposing "amnesty," with Senate Republicans facing political risks and polarization. END OF SUMMARY.

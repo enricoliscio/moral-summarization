@@ -1,0 +1,41 @@
+Alright, so I've got this query where the user wants me to act as a news summarizer and a moral expert. They provided a news article about US climate change proposals and the EU's concerns. The task has two steps: first, identify all morally framed single words, and then summarize the article preserving those moral framings.
+
+First, I need to understand what morally framed words are. These are words that carry a judgment or evaluation, like "sufficient," "concerned," or "voluntary." They indicate approval or disapproval, which is crucial for the summary to retain the original moral stance.
+
+Looking at the article, I'll go through each sentence to pick out these words. Words like "domestic," "concerned," "sufficient," "absolute," "intensity target," "voluntary," "effective," "guaranteed," "cost-effective," "flexibility," "welcomes," "first step," "mandatory," "adequately assess," "comparable," "ratification," "optimistic," "examine," "dialogue." Each of these carries a moral or evaluative tone.
+
+Next, I need to summarize the article in under 200 words, using as many of these words as possible. The summary should reflect the EU's concerns about the US proposals being insufficient and voluntary, while also noting the EU's own commitments and willingness to engage in dialogue.
+
+I should structure the summary to highlight the key points: the US proposals are domestic and insufficient, the EU's concerns about the voluntary nature and lack of effectiveness review, the comparison with the Kyoto Protocol, the EU's cap-and-trade system, and their determination to proceed with ratification. I'll also mention the EU's optimism about other countries joining and their willingness to assess the US proposals further.
+
+I need to make sure the summary flows well, keeping it concise while including all the necessary moral framings. I'll start by stating the EU's concerns, then move to the specifics of the US plan, followed by the EU's actions and optimism. Finally, I'll conclude with the EU's openness to dialogue.
+
+I should double-check that all the identified moral words are included and that the summary accurately reflects the original article's moral framing without adding any new information or bias beyond what's presented.
+</think>
+
+**STEP 1:**  
+* domestic  
+* concerned  
+* sufficient  
+* absolute  
+* intensity target  
+* voluntary  
+* effectiveness  
+* cap-and-trade  
+* cost-effective  
+* guaranteed  
+* environmental result  
+* flexibility  
+* welcomes  
+* first step  
+* mandatory  
+* adequately assess  
+* comparable  
+* ratification  
+* optimistic  
+* examine  
+* dialogue  
+
+**SUMMARY:**  
+The EU expresses concern over the US's climate change proposals, which are domestic and insufficient to reduce emissions effectively. The US plan allows for increased absolute emissions, unlike the Kyoto Protocol, which requires industrialized countries to reduce emissions. The 1992 Climate Change Convention, to which the US is a party, aims to stabilize greenhouse gas emissions at 1990 levels, but the new plan fails to achieve this. The EU criticizes the voluntary nature of the US actions and the delayed review of their effectiveness. The EU favors a cap-and-trade system, which it deems cost-effective and environmentally guaranteed, and plans to implement one covering 46% of its CO2 emissions by 2005. While the EU welcomes the Bush administration's effort, it emphasizes the need for mandatory monitoring and reporting to assess if the US plan matches the Kyoto Protocol's efforts. The EU remains committed to ratifying the Kyoto Protocol by June 2002 and hopes other major players like Japan and Russia will join its efforts. It will continue to examine the US proposals and engage in dialogue.  
+**END OF SUMMARY.**

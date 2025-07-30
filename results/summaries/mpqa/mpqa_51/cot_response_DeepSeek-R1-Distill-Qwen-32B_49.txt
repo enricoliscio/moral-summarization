@@ -1,0 +1,41 @@
+Okay, so the user has given me a query where they want to summarize a news article about George W. Bush's alternative plan to the Kyoto Protocol. They also want me to identify the morally framed words and then write a summary preserving those moral framings. 
+
+First, I need to understand what morally framed words are. These are words that carry a positive or negative connotation, influencing the reader's perception. For example, words like "audacious," "voluntary," or "unjust" have moral implications.
+
+Looking at the article, I'll go through each paragraph and pick out these words. Words like "voluntary," "binding," "harmful," "unjust," "irresponsible," and "counterproductive" stand out. These words are used to critique or support the plan, so they're crucial for the summary.
+
+Next, I need to write a concise summary. I should include the key points: Bush's plan, its voluntary nature, the comparison to Kyoto, the reactions from environmentalists, and the tax incentives. I must make sure to keep the morally charged words to maintain the author's framing.
+
+I'll start by introducing Bush's plan as an alternative to Kyoto, mention it's voluntary, and note the White House's positive description. Then, I'll include the environmentalists' criticisms, using their harsh words. I'll also touch on Bush's stance on developing countries and the tax incentives offered.
+
+I need to keep the summary under 200 words, so I'll be concise but include all necessary points. I'll structure it to flow logically, starting with the plan's introduction, its details, the reactions, and the implications.
+
+Finally, I'll make sure the summary ends with the required tokens and that all morally framed words are included to reflect the article's tone accurately.
+</think>
+
+**STEP 1:**  
+* Audacious  
+* Obligation  
+* Voluntary  
+* Incentives  
+* Harmful  
+* Counterproductive  
+* Unrealistic  
+* Irresponsible  
+* Champion  
+* Polluters  
+* Sensible  
+* Protect  
+* Stabilize  
+* Sustain  
+* Economic growth  
+* Investments  
+* Cleaner energy  
+* Shared obligations  
+* Global fight  
+* Greenhouse effect  
+* International community  
+* Binding measures  
+
+**SUMMARY:**  
+US President George W. Bush unveiled an alternative plan to the Kyoto Protocol, emphasizing voluntary measures and tax incentives to reduce greenhouse gas emissions. Critics, including environmentalists, condemned the plan as a "Valentine's Day gift for polluters," arguing it lacks binding measures and relies on industry goodwill. The plan aims to reduce emissions intensity by 18% over 10 years, but environmentalists doubt its effectiveness, calling it "counterproductive" and "unjust" to developing nations. Bush also urged countries like India and China to reduce emissions, while distancing the US from the Kyoto Protocol, which he deemed harmful to the economy. Environmentalists accused the administration of prioritizing industry interests over health and climate protection, asserting the plan would have "very little effect" on emissions. The White House defended it as the "most audacious program in American history," but critics argued it moves away from global efforts to combat climate change. END OF SUMMARY.

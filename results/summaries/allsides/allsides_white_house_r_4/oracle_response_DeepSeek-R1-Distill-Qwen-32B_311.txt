@@ -1,0 +1,14 @@
+Alright, I need to help the user by summarizing the given news article while preserving the moral framing. The user provided a detailed article and specified that the summary should include as many of the listed morally framed words as possible. 
+
+First, I'll read through the article to understand the main points. The author is critical of Obama's foreign policy, labeling it as focused on appearances over substance. They mention his inconsistent actions in various crises, such as Libya, Syria, Egypt, Iran, Ukraine, and Nigeria, where Obama's rhetoric didn't match his actions.
+
+Next, I'll identify the key morally charged words the author used. Words like "pretend," "ignore," "care," "evil," "die," and "casualties" are central to the moral critique. I need to ensure these are included in the summary.
+
+I'll structure the summary to highlight Obama's approach: pretending to care, ignoring long-term solutions, and prioritizing posturing over real action. I'll mention specific examples like Libya, Syria, and Iraq to illustrate the pattern. It's important to convey that his policies lead to massive casualties and lack of real change.
+
+I'll keep the summary concise, under 200 words, ensuring it captures the essence of the author's argument without going into too much detail. I'll end by noting the dangerous combination of emotional manipulation and policy dilettantism, leading to unpopularity and casualties.
+
+Finally, I'll make sure the summary starts with "SUMMARY:" and ends with "END OF SUMMARY." to meet the user's formatting requirements.
+</think>
+
+SUMMARY: The article critiques President Obama's foreign policy, labeling it as the "Obama Doctrine," which prioritizes appearances over substance. The author argues that Obama pretends to care about the suffering of innocents in crises like Libya, Syria, and Iraq but consistently ignores long-term solutions, leaving people to die. His actions, such as launching airstrikes against ISIS, are short-term and ineffective, while his rhetoric often outpaces his commitments. The author highlights instances where Obama's posturing failed to prevent evil, such as in Egypt, Iran, Ukraine, and Nigeria, where his inaction led to massive casualties. The article concludes that Obama's focus on popularity and emotional manipulation over actual leadership has made him a foreign policy dilettante, resulting in widespread unpopularity and tragedy. END OF SUMMARY.

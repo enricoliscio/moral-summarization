@@ -1,0 +1,27 @@
+<think>
+Okay, so I need to help the user with their query. They provided a news article and specific instructions on how to process it. The task has two parts: first, identifying all the single words that are morally framed, and then summarizing the article while preserving those moral frames.
+
+Starting with the first part, I need to go through the article and pick out words that carry moral connotations. The user mentioned that these words should be listed under "STEP 1:" each on a new line with an asterisk. I'll read through the article carefully, looking for words that imply values, ethics, or judgments. Words like "help," "critical," "faith," "voluntary," "responsibility," "outstanding," "praise," "bend," "chopping block," and "jeopardize" stand out as they carry moral weight.
+
+Next, for the summary, I need to condense the article into 200 words, making sure to include as many of those moral words as possible. The article discusses the differing views on government roles in disaster response between Obama and Romney. Obama emphasizes federal help, while Romney supports local and voluntary efforts. I should highlight the contrast, mention specific examples like Romney's canned food drive and Obama's FEMA approach, and note the political implications, especially Romney's past comments on federal spending.
+
+I also need to ensure that the summary flows well and accurately reflects the original content while incorporating the moral terms. I'll structure it to first introduce the debate, then outline each candidate's stance, include quotes, and conclude with the political context, like the budget concerns and Romney's avoidance of questions.
+
+I should double-check that I'm not exceeding 200 words and that all key points are covered. It's important to maintain the moral framing by using words like "help," "critical," "voluntary," "responsibility," etc., as they were in the original text. This way, the summary not only informs but also preserves the ethical dimensions presented in the article.
+</think>
+
+**STEP 1:**  
+* Help  
+* Critical  
+* Faith  
+* Voluntary  
+* Responsibility  
+* Outstanding  
+* Praise  
+* Bend  
+* Chopping block  
+* Jeopardize  
+
+**SUMMARY:**  
+The article discusses the debate over the government's role in disaster response, highlighted by Hurricane Sandy. President Obama emphasized federal assistance, stating, "America's with you," and offering tangible support. Republicans, like Mitt Romney, advocate for local and voluntary efforts, as seen in Romney's canned food drive and his belief in decentralized disaster relief. Romney argues that federal responsibilities should be reduced, favoring state and private sector involvement. However, Obama has streamlined federal disaster response through FEMA, earning praise from Republican Governor Chris Christie. Romney's past comments on cutting federal disaster relief budgets, in light of Sandy, have drawn criticism. Obama continues to champion an active federal role, touring disaster-hit areas to demonstrate federal commitment. The article underscores the political tension between federal intervention and local autonomy in disaster response.  
+**END OF SUMMARY.**

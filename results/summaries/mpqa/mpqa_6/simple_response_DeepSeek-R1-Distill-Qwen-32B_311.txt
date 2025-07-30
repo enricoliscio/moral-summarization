@@ -1,0 +1,14 @@
+Okay, I need to help the user by summarizing the given news article while preserving the moral framing. The user mentioned that they are a news summarizer assistant and a moral expert, so I should focus on the ethical implications or the positive actions highlighted in the article.
+
+First, I'll read the article carefully. It's about Brazil and Germany calling for the implementation of the Kyoto Protocol by September. They're working together on an action plan and want other countries to ratify the protocol. They also plan to expand environmental cooperation and present common positions at the Rio+10 meeting. Plus, they mention the PPG-7 program for tropical forests.
+
+I need to capture the key points: the partnership, the call for the Kyoto Protocol, cooperation in environment, and the PPG-7. The moral framing here is about global responsibility, cooperation, and proactive environmental efforts. So, I should highlight their commitment to sustainability and leading by example.
+
+I'll structure the summary to include these elements concisely, making sure it's under 200 words. I'll start with the main countries and their action plan, then mention the call for other countries, their cooperation areas, and the importance of the PPG-7. I'll end by noting their leadership in promoting sustainability.
+
+Let me put it all together, ensuring it flows well and stays within the word limit. I'll make sure to use the "SUMMARY:" and "END OF SUMMARY." tokens as instructed.
+</think>
+
+SUMMARY:  
+Brazil and Germany have reaffirmed their commitment to combating climate change by advocating for the implementation of the Kyoto Protocol by September, during the Rio+10 Sustainable Development Summit in South Africa. In a joint document, *Partnership Brasil-Germany: Action Plan*, both countries express their interest in ensuring the protocol’s enforcement and urge other nations to ratify it. They also plan to strengthen their collaboration in environmental and sustainable development initiatives and aim to present unified positions at the Rio+10 meeting. Additionally, the document highlights the importance of the Pilot Program for Protection of Tropical Forests (PPG-7), emphasizing Germany’s involvement in this critical initiative. Brazil and Germany’s actions demonstrate a proactive stance in addressing global environmental challenges, showcasing their leadership in promoting sustainable practices and international cooperation.  
+END OF SUMMARY.

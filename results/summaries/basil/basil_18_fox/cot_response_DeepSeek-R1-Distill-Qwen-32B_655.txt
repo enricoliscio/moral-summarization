@@ -1,0 +1,44 @@
+<think>
+Okay, I need to help the user by summarizing the given news article while preserving the moral framing. The user has specified two steps: first, identifying all morally framed single words, and then writing a summary using those words.
+
+Starting with STEP 1, I should go through the article and pick out words that carry moral connotations. Words like "attack," "war," "wrong," "objectionable," "values," "defend," "fundamentals," "strength," "freedom," "discrimination," and "strong" stand out. These terms are used to convey moral judgment and are central to the article's framing.
+
+For the summary, I need to condense the article into 200 words, ensuring that the moral framing is maintained. I'll focus on Perry's claims, his ad, the issues he's highlighting like gay marriage and religious freedom, and the administration's memorandum. I should mention how Perry positions himself as a defender of faith and traditional values, contrasting with Obama's policies.
+
+I should structure the summary to first introduce Perry's ad, then outline his accusations against Obama, followed by the administration's response, and conclude with Perry's appeal to faith and strength. Keeping it concise while including the key morally framed words is crucial.
+
+I also need to ensure that the summary flows logically, connecting each point without exceeding the word limit. I'll make sure to highlight the main arguments and the emotional appeal Perry is making to evangelical voters.
+
+Finally, I'll review the summary to ensure it accurately reflects the article's content and maintains the moral perspective presented by the author. Making sure all the identified morally framed words are included where appropriate.
+</think>
+
+**STEP 1:**  
+* attack  
+* War  
+* Religion  
+* ashamed  
+* Christian  
+* wrong  
+* gays  
+* openly  
+* celebrate  
+* pray  
+* liberal  
+* attacks  
+* religious heritage  
+* social conservative  
+* Defense of Marriage Act  
+* Thanksgiving  
+* God  
+* out of touch  
+* American values  
+* foreign aid  
+* gay rights  
+* promote  
+* lifestyle  
+* objectionable  
+* faith  
+* strong  
+
+**SUMMARY:**  
+Texas Gov. Rick Perry, trailing in polls, has launched a new TV ad titled "Strong," accusing President Obama of waging a "War on Religion." Perry claims Obama's policies, such as ending the Defense of Marriage Act and omitting God from Thanksgiving speeches, attack traditional American values and religious freedom. He argues that tax dollars should not promote lifestyles many Americans of faith oppose, referencing Obama's memorandum to advance gay rights abroad. Perry, a Methodist, emphasizes his faith and conservative stance on social issues, appealing to evangelical voters. He vows to defend faith in America and restore its strength, framing his campaign as a defense against liberal attacks on religious heritage. END OF SUMMARY.

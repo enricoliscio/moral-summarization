@@ -1,0 +1,14 @@
+Okay, I need to help the user by summarizing the given news article while preserving the moral framing. The user provided specific morally framed words: "contrary," "undermines," and "interfered." I should make sure these words are included in the summary.
+
+First, I'll read through the article to understand the main points. Trump is close to selecting an interim FBI director, with Joe Lieberman as his top choice. Lieberman has no law enforcement experience, which is causing concern among Democrats. They argue that a politician shouldn't lead the FBI, as it undermines its independence. Republicans support Lieberman, but Democrats are opposed, fearing it's contrary to the FBI's mission.
+
+I need to condense this into a summary under 200 words. I'll start by mentioning Trump's selection process and Lieberman's background. Then, highlight the Democratic concerns using "contrary" and "undermines." I'll also include the context about Trump firing Comey and the perception of interference, using "interfered."
+
+I should ensure the summary flows logically, connecting the political implications and the moral concerns. I'll avoid adding any new information beyond what's in the article and keep it concise.
+
+Let me structure the summary: Trump's choice of Lieberman, the criticism from Democrats using the specified moral terms, the support from Republicans, and the context of Comey's firing and the Russia investigation.
+
+I think that covers all the necessary points while preserving the moral framing. I'll make sure to stay within the word limit and end with the required tokens.
+</think>
+
+SUMMARY: President Donald Trump is nearing the selection of an interim FBI director, with former Sen. Joe Lieberman as his top choice. Lieberman, a centrist Democrat with no federal law enforcement experience, has drawn severe criticism from Democrats, who argue that appointing a politician to lead the FBI is "contrary" to its mission and would "undermine" public confidence in its independence. Sen. Claire McCaskill called it a "mistake," while Sen. Brian Schatz described it as "shocking," noting that there are "dozens" of qualified law enforcement professionals for the role. Democrats worry that Lieberman's nomination would split the Senate and signal political interference in the agency. Meanwhile, Republicans, including Sen. John McCain, have praised Lieberman, with McCain dismissing Democratic concerns. The need for a new director arises after Trump fired James Comey last week amid the FBI's investigation into potential ties between Trump's campaign and Russia. Reports have suggested Trump may have "interfered" with the investigation, further heightening concerns about the politicization of the FBI. END OF SUMMARY.

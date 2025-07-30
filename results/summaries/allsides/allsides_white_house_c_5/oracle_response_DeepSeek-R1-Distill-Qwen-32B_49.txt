@@ -1,0 +1,16 @@
+Okay, so the user wants me to act as a news summarizer and a moral expert. They provided a news article about Attorney General Holder assigning prosecutors to investigate leaks. The task is to summarize the article while preserving the moral framing from the author. The user also listed specific morally framed words that should be included.
+
+First, I need to understand the key points of the article. Holder is assigning two U.S. attorneys to investigate leaks of classified info, which includes sensitive national security details. The leaks have caused concern, and there are accusations that the White House might be leaking for political gain. Holder emphasizes that leaks compromise security and won't be tolerated. President Obama denies any intentional leaks. Senators are discussing whether to appoint a special counsel or propose legislation.
+
+Next, I need to identify the morally framed words from the author's list. Words like leaks, probe, investigate, investigation, leaked, etc. I should make sure these words are included in the summary.
+
+I should structure the summary to include the main actions: Holder assigning the attorneys, the purpose of the investigation, the potential political motives, Holder's stance on security, Obama's denial, and the senators' discussions on further actions.
+
+I need to keep the summary concise, under 200 words, and ensure it flows naturally while incorporating the moral language. I'll start by stating Holder's assignment, then mention the leaks and their implications, Holder's emphasis on security, Obama's response, and the ongoing discussions in Congress.
+
+I should avoid any markdown and keep the summary clear and to the point. Also, I need to end with the specified tokens, so after the summary, I'll add "END OF SUMMARY.".
+
+Let me draft the summary, making sure to include all the necessary points and the moral terms. I'll check the word count to ensure it's within the limit.
+</think>
+
+SUMMARY: Attorney General Eric Holder has assigned two U.S. attorneys to investigate potential leaks of classified information, emphasizing that such leaks "compromise the security of this country and all Americans" and will not be tolerated. The probe follows recent disclosures about sensitive national security details, including a secret terrorist kill list and an al-Qaida infiltration operation. Holder authorized the attorneys to prosecute criminal violations and consult with the Intelligence Community. President Obama denied accusations that the White House intentionally leaked classified material for political gain, calling such claims "offensive" and "wrong." Senators, including John McCain, have called for a special counsel to investigate, while others, like Dianne Feinstein, are considering legislative measures to address the breaches. Feinstein cautioned that a special counsel could take years, urging swift action to prevent further compromises of national security. END OF SUMMARY.

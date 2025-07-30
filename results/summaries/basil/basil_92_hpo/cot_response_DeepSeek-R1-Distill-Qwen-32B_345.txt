@@ -1,0 +1,33 @@
+Okay, so I'm trying to help this user who wants a news summary that preserves the moral framing. First, I need to understand the task. They provided a news article about Robert Mueller's team disputing a BuzzFeed report on Trump directing Cohen to lie to Congress. The user wants two things: first, to identify all single words with moral framing, and second, to write a summary preserving those moral words.
+
+Starting with STEP 1, I need to go through the article and pick out words that carry moral connotations. Words like "disputed," "explosive," "directed," "lie," "confusion," "obligation," "investigation," "interfere," "crimes," "impeachment," "accountable," "innocent," "accused," "deception," and "duty." These words are charged with moral implications, indicating right or wrong actions.
+
+Next, for the summary, I have to condense the article while keeping these moral terms. I should mention Mueller's dispute, BuzzFeed's report, the confusion it caused, the Democrats' reactions, and Trump's defense. I need to keep it under 200 words, so I'll focus on the key points: the dispute, theBuzzFeed report's claims, Mueller's response, the political implications like impeachment, and Trump's denial.
+
+I should make sure the summary flows logically, starting with the dispute, then the report's details, the political reactions, and ending with Trump's stance. I'll use the moral words identified to maintain the original framing. I'll also ensure clarity and conciseness, avoiding any unnecessary details.
+
+I think I've got all the key elements. Now, I'll structure the summary step by step, making sure each part is clear and the moral words are included where appropriate.
+</think>
+
+### STEP 1:  
+* disputed  
+* explosive  
+* directed  
+* lie  
+* confusion  
+* obligation  
+* investigation  
+* interfere  
+* crimes  
+* impeachment  
+* accountable  
+* innocent  
+* accused  
+* deception  
+* duty  
+
+---
+
+### SUMMARY:  
+Special counsel Robert Mueller’s team disputed BuzzFeed’s report claiming President Trump directed attorney Michael Cohen to lie to Congress about the Trump Tower in Moscow deal. Mueller’s office denied BuzzFeed’s description of statements and documents, but did not directly refute Trump’s alleged directive. BuzzFeed stood by its reporting, citing federal law enforcement sources. The report sparked outrage among Democrats, with Sen. Dianne Feinstein and Rep. Adam Schiff calling for accountability and impeachment if the allegations were true. Trump denied the claims, accusing Cohen of lying to reduce his jail time. The investigation into potential obstruction of justice and ties to Russia continues to divide political opinion.  
+END OF SUMMARY.

@@ -1,0 +1,31 @@
+Okay, I need to help the user by summarizing the given news article while preserving the moral framing. The user provided a specific structure with two steps: identifying morally framed words and then writing a summary. 
+
+First, I'll go through the article to find words that carry moral connotations. Words like "suspend," "protest," "ignored," "disdain," "wrath," "excessive force," "detained," "deny," "commitment," "respect," "independence," "erode," "controversial," "scathing," "pleased," "critique," "bill," "promise," "unfair," and "self-interest" stand out as they relate to moral judgments.
+
+Next, I need to craft a concise summary. I'll start by mentioning the NGOs' boycott of Suhakam, their reasons for it, the government's response, and the implications for human rights. I'll make sure to include the morally framed words to maintain the original tone. I'll keep the summary under 200 words, ensuring it's clear and captures all key points.
+</think>
+
+**STEP 1:**  
+* suspend  
+* protest  
+* ignored  
+* disdain  
+* wrath  
+* excessive force  
+* detained  
+* deny  
+* commitment  
+* respect  
+* independence  
+* erode  
+* controversial  
+* scathing  
+* pleased  
+* critique  
+* bill  
+* promise  
+* unfair  
+* self-interest  
+
+**SUMMARY:**  
+Thirty-two NGOs have suspended all engagements with the Malaysian Human Rights Commission (Suhakam) for 100 days, protesting the government's poor response to Suhakam's recommendations and the decline of human rights in Malaysia. The NGOs expressed deep concern over the government's disregard for Suhakam's reports, including the controversial Kesas report, which criticized the police for excessive force. They also criticized the government for failing to ratify key international human rights instruments and for detaining individuals without trial under the Internal Security Act. The NGOs boycotted Suhakam due to concerns over its independence, following the appointment of former attorney-general Abu Talib Othman as chairperson and the removal of three commissioners. They questioned whether retired civil servants could objectively critique government policies. The NGOs will monitor Suhakam's performance and judge it by improvements in human rights, not just reports. Suhakam commissioner Prof Hamdan Adnan called the boycott "unfair" and urged collaboration instead. END OF SUMMARY.

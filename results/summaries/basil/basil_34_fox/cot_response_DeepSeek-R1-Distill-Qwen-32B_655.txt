@@ -1,0 +1,104 @@
+Alright, let me try to figure out how to approach this user's query. They want me to act as a news summarizer and moral expert. The task is to summarize a given news article while preserving the moral framing. 
+
+First, I need to understand the structure of the query. They provided a news article about the NRA urging states to allow more armed officers in schools after the Newtown shooting. The user has two main steps: identifying morally framed words and then writing a summary that includes those words.
+
+For step one, I have to go through the article and pick out words that carry moral connotations. Words like "urges," "allow," "proposed," "school," "personnel," "carry," "weapons," "extensive," "training," "recommendations," "review," "wake," "mass," "killing," "criticism," "focus," "school," "security," "rejecting," "gun," "control," "measures," "Connecticut," "killed," "CEO," "called," "installed," "every," "school," "country," "eased," "slightly," "call," "important," "unique," "budget," "circumstances," "training," "program," "model," "state," "law," "teachers," "teach," "safety," "assessment," "pilot," "program," "mental," "health," "pre-indicator," "violence," "applauded," "review," "effort," "legislation," "approved," "arming," "teachers," "expanding," "assault," "weapons," "bans," "background," "checks," "restrict," "firearms," "sweeping," "gun," "control," "proposal," "dealt," "approval," "argued," "improving," "security," "paramount," "protection," "monster," "killing," "kids," "absolute," "protection," "good," "gun."
+
+I should list each of these words starting with a * on new lines. 
+
+Next, for the summary, I need to condense the article into 200 words, keeping the moral framing intact. The summary should include the key points: NRA's recommendations, the training program, the model law, the criticism, the focus on school security, and the opposing views on gun control. I should use as many of the identified words as possible without making it sound forced.
+
+I also need to make sure the summary flows well and covers all the main points without being too verbose. I'll start by mentioning the NRA's call for armed personnel, the training, the model law, and the criticism. Then, I'll touch on the safety assessments and mental health programs. Finally, I'll note the opposing legislation and the NRA's stance on security versus gun control.
+
+I should double-check that the summary stays within the word limit and accurately reflects the article's content while preserving the moral framing. It's important to maintain the balance between NRA's recommendations and the opposing views to provide a comprehensive summary.
+</think>
+
+**STEP 1:**  
+* urges  
+* allow  
+* proposed  
+* school  
+* personnel  
+* carry  
+* weapons  
+* extensive  
+* training  
+* recommendations  
+* review  
+* wake  
+* mass  
+* killing  
+* criticism  
+* focus  
+* school  
+* security  
+* rejecting  
+* gun  
+* control  
+* measures  
+* Connecticut  
+* killed  
+* CEO  
+* called  
+* installed  
+* every  
+* school  
+* country  
+* eased  
+* slightly  
+* call  
+* important  
+* unique  
+* budget  
+* circumstances  
+* training  
+* program  
+* model  
+* state  
+* law  
+* teachers  
+* teach  
+* safety  
+* assessment  
+* pilot  
+* program  
+* mental  
+* health  
+* pre-indicator  
+* violence  
+* applauded  
+* review  
+* effort  
+* legislation  
+* approved  
+* arming  
+* teachers  
+* expanding  
+* assault  
+* weapons  
+* bans  
+* background  
+* checks  
+* restrict  
+* firearms  
+* sweeping  
+* gun  
+* control  
+* proposal  
+* dealt  
+* approval  
+* argued  
+* improving  
+* security  
+* paramount  
+* protection  
+* monster  
+* killing  
+* kids  
+* absolute  
+* protection  
+* good  
+* gun  
+
+**SUMMARY:**  
+The NRA has called for states to allow more school personnel to carry weapons on school grounds after extensive training, following the Newtown mass shooting. While the organization initially faced criticism for focusing on school security over gun control, it proposed a 40-60 hour training program and a "model" state law to enable armed officers in schools. Former Arkansas Rep. Asa Hutchinson emphasized that each school should have at least one armed officer, but decisions should be locally made. The NRA's 225-page report also recommended safety assessments and mental health programs to prevent violence. Meanwhile, some states have advanced gun control measures, including assault weapons bans and background checks, while others, like South Dakota, have approved arming teachers. The NRA maintains that school security is paramount, arguing that armed protection is the only way to stop violence, as "the only thing that stops a bad guy with a gun is a good guy with a gun." END OF SUMMARY.

@@ -1,0 +1,72 @@
+Okay, so I'm trying to figure out how to approach this user's query. They want me to act as a news summarizer and a moral expert. The task is to summarize a given news article while preserving the moral framing. The user provided a detailed article about ICE's actions during the COVID-19 pandemic, including deportations of sick individuals and the spread of the virus.
+
+First, I need to understand the structure of the query. The user has specified two main steps: identifying morally framed words and then writing a summary that includes as many of these words as possible. They provided an example response, which I can use as a reference.
+
+Starting with STEP 1, I need to go through the article and pick out words that carry moral connotations. Words like "undocumented," "deportation," "detention," "coronavirus," "symptoms," "reprisals," "unsafe," "scattershot," "spread," "pressure," "Trump administration," "countries," "sick," "deportees," "cramped," "unsanitary," "social distancing," "protective gear," "time bomb," "positive," "limited," "flights," "refugee," "moved," "Covid-19," "symptoms," "panicking," "die," "prison," "humanitarian aid," "cooperate," "accepted," "praise," "ventilators," "Covid-19," "governments," "confirmed," "deportees," "returned," "Covid-19," "deportation," "flights," "continue," "precautions," "CDC," "testing," "sampling," "immigrants," "home," "flights," "continue."
+
+Now, moving on to the summary. I need to condense the article into 200 words, making sure to include as many of these morally charged words as possible. The summary should highlight ICE's role in spreading the virus through deportations, the unsafe conditions in detention centers, and the ethical concerns raised by these actions.
+
+I should start by introducing the main issue: ICE deporting sick individuals despite the pandemic. Then, mention the unsafe conditions in detention centers, the spread to other countries, and the response from ICE. I need to ensure that the moral implications are clear, such as the inhumane treatment, the lack of proper care, and the international spread of the virus.
+
+I should also include specific examples, like the Cuban immigrant describing the detention centers as a "time bomb," and the fact that several deportees tested positive after returning home. It's important to note the Trump administration's pressure on countries to accept deportees and the limited testing by ICE.
+
+Finally, I'll conclude by stating that ICE claims to follow CDC guidelines but continues deportations despite the risks, highlighting the ethical concerns.
+
+I need to make sure the summary flows well and covers all the key points without exceeding 200 words. I'll also ensure that the morally framed words are included to preserve the author's original moral stance.
+</think>
+
+**STEP 1:**  
+* undocumented  
+* deportation  
+* detention  
+* coronavirus  
+* symptoms  
+* reprisals  
+* unsafe  
+* scattershot  
+* spread  
+* pressure  
+* Trump administration  
+* countries  
+* sick  
+* deportees  
+* cramped  
+* unsanitary  
+* social distancing  
+* protective gear  
+* time bomb  
+* positive  
+* limited  
+* flights  
+* refugee  
+* moved  
+* Covid-19  
+* symptoms  
+* panicking  
+* die  
+* prison  
+* humanitarian aid  
+* cooperate  
+* accepted  
+* praise  
+* ventilators  
+* Covid-19  
+* governments  
+* confirmed  
+* deportees  
+* returned  
+* Covid-19  
+* deportation  
+* flights  
+* continue  
+* precautions  
+* CDC  
+* testing  
+* sampling  
+* immigrants  
+* home  
+* flights  
+* continue  
+
+**SUMMARY:**  
+The article highlights the moral and public health concerns surrounding ICE's continued detention and deportation of immigrants during the COVID-19 pandemic. undocumented immigrants, including those showing symptoms of the coronavirus, were detained in cramped, unsanitary facilities where social distancing was impossible and protective gear was scarce. Despite these unsafe conditions, ICE proceeded with deportations, including flights carrying sick individuals to other countries. At least four deportees tested positive for the virus shortly after arriving from the U.S., and ICE confirmed at least 3,000 coronavirus-positive detainees. The Trump administration pressured countries like El Salvador and Honduras to accept deportees, even as ICE struggled with limited testing. ICE claimed to follow CDC guidelines but continued deportations, raising ethical concerns about spreading the virus domestically and globally. END OF SUMMARY.

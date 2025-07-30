@@ -1,0 +1,94 @@
+Okay, so I need to summarize this news article about the U.S. Senate's impeachment trial of President Trump, but I have to make sure to preserve the moral framing the author used. The user also wants me to first identify all the morally framed single words in the text. 
+
+First, I'll read through the article to understand the context. It's about the Senate debates on how the impeachment trial will proceed, with Republicans and Democrats having different stances. McConnell, the Republican leader, is comparing the trial to Clinton's, suggesting they'll handle it similarly, which involved limited witness testimony. Democrats, led by Schumer, are pushing for witnesses and documents, arguing that without them, the trial would be a sham. Trump is accused of delaying tactics and calling it a witch hunt. Pelosi hasn't sent the articles yet to pressure the Senate. The White House blocked some witnesses from testifying.
+
+Now, for STEP 1, I need to find all the single words that carry moral implications. Let's go through the article:
+
+- "sparer" over the shape: "sparer" isn't a word here. Wait, the article says "U.S. senators on Monday sparred over the shape..." So "sparred" is a verb, not a noun. Maybe "shape" is neutral. Wait, "shape" is neutral. Maybe "sparer" isn't here. Maybe I misread.
+
+Wait, the user's example had "sparer" as a word, but in the given text, it's "sparred" as in debated. So maybe "sparer" isn't in the text. Let me check again.
+
+Looking at the text: "U.S. senators on Monday sparred over the shape of an impeachment trial..." So "sparred" is the past tense of "spar," meaning to debate or argue. It's a neutral verb. So maybe "sparred" isn't a moral word. Hmm.
+
+Wait, the user's example included "sparer," but that might have been a typo. Maybe I should focus on the actual words in the text.
+
+Looking for words that carry moral judgment:
+
+- "impeachment" is a process, neutral.
+- "Democrats have demanded" – "demanded" is a verb, but maybe "demanded" is neutral.
+- "McConnell... stopped short of agreeing..." – "stopped short" is neutral.
+- "fair is fair" – "fair" is a moral word, implying justice.
+- "prolong the trial" – "prolong" is neutral.
+- "damaging" to Trump – "damaging" is negative, implying harm.
+- "Democrats... House of Representatives last week" – "Democrats" is neutral.
+- "impeach Trump on two charges over his pressuring Ukraine" – "pressuring" is negative.
+- "abuse of power" – definitely a moral term.
+- "obstructing Congress’ investigation" – "obstructing" is negative.
+- "Trump has said he did nothing wrong" – "wrong" is a moral term.
+- "little chance Trump will be convicted" – "convicted" is legal, not moral.
+- "accused Democrats of delaying tactics" – "delaying tactics" is negative.
+- "urged for a quick conclusion" – "urged" is neutral.
+- "House Speaker Nancy Pelosi has not yet transmitted... to pressure Senate Republicans" – "pressure" is neutral.
+- "McConnell said the Senate could not take any action until it receives the articles" – neutral.
+- "Trump accused Democrats of delaying tactics" – "delaying tactics" again.
+- "urged for a quick conclusion" – neutral.
+- " Pelosi has not yet transmitted... to pressure..." – "pressure" is neutral.
+- "McConnell said the Senate could not take any action until it receives the articles" – neutral.
+- "Trump said on Twitter: 'What right does Crazy Nancy have...' 'Witch Hunt' 'Scam!'" – "Crazy," "Witch Hunt," "Scam" are all strong moral terms.
+- "Schumer has requested to have four witnesses subpoenaed" – "requested" is neutral.
+- "White House blocked all four... from testifying" – "blocked" is negative.
+
+So compiling the morally framed single words:
+
+- fair
+- damaging
+- pressuring
+- abuse
+- obstructing
+- wrong
+- delaying
+- tactics
+- Crazy
+- Witch Hunt
+- Scam
+- Sham
+- Sham trial
+- Show trial
+
+Wait, "Sham" and "Show" are from Schumer's quote: "It’s hard to imagine a trial not having documents and witnesses. If it doesn’t have documents and witnesses, it’s going to seem - to most of the American people - that it is a sham trial, a show trial." So "sham" and "show" are used in a moral context here, implying the trial is fake or insincere.
+
+So the list would include:
+
+fair, damaging, pressuring, abuse, obstructing, wrong, delaying, tactics, Crazy, Witch Hunt, Scam, sham, show.
+
+Wait, but "show" in "show trial" is part of a phrase, but the user asked for single words. So "sham" and "show" are single words, but "show trial" is a phrase. So maybe only "sham" is a single word in that context.
+
+So the list is:
+
+fair, damaging, pressuring, abuse, obstructing, wrong, delaying, tactics, Crazy, Witch Hunt, Scam, sham.
+
+Now, for the summary, I need to include as many of these words as possible while keeping it under 200 words. The summary should capture the key points: McConnell's stance on witnesses, Schumer's demand, the comparison to Clinton's trial, the potential prolongation and damage, Schumer's warning about a sham trial, Trump's accusations, Pelosi's delay, and the blocked witnesses.
+
+I should structure the summary to include these moral terms naturally. For example, mention McConnell saying they'll handle it like Clinton's trial, which was fair. Democrats argue without witnesses, it's a sham. Trump calls it a witch hunt and scam. Pelosi delaying, etc.
+
+I need to make sure the summary flows well and includes all the key points with the moral framing intact.
+</think>
+
+**STEP 1:**
+
+* fair
+* damaging
+* pressuring
+* abuse
+* obstructing
+* wrong
+* delaying
+* tactics
+* Crazy
+* Witch Hunt
+* Scam
+* sham
+
+**SUMMARY:**
+
+The U.S. Senate is debating the structure of President Trump's impeachment trial, with Republicans and Democrats clashing over witness testimony. Republican leader Mitch McConnell has not ruled out witnesses, citing the 1999 Clinton trial as a fair model, though it involved limited testimony. Democrats, led by Chuck Schumer, argue that without documents and witnesses, the trial would seem like a sham, a show trial. Trump accused Democrats of delaying tactics and called the process a witch hunt and scam. House Speaker Nancy Pelosi has delayed sending the impeachment articles to pressure Republicans. Trump's team blocked key witnesses, including Mick Mulvaney and John Bolton, from testifying. The trial's fairness and integrity remain central to the debate. END OF SUMMARY.

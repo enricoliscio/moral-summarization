@@ -1,0 +1,40 @@
+Okay, so I'm trying to help this user who wants a summary of a news article, but with a focus on preserving the moral framing. The user provided a detailed query, so I need to make sure I follow all the steps correctly.
+
+First, I need to identify all the single words that are morally framed in the article. The user mentioned that I should list each word with an asterisk. I'll go through the article and pick out words that carry a moral connotation. Words like "excoriated," "misuse," "decimates," "weakens," "intolerant," "condemnation," etc., come to mind. I'll make sure to list each one on a new line.
+
+Next, I have to write a summary of the article, keeping as many of those morally framed words as possible. The summary needs to be concise, no longer than 200 words. I should start with "SUMMARY:" and end with "END OF SUMMARY." I'll need to capture the main points: Ryan's budget plan, the criticism from Catholic leaders, the comparison to Ayn Rand, the broader context of the church's stance on social issues, and the bishops' criticism of the Obama administration.
+
+I also need to ensure that the summary flows well and accurately reflects the moral arguments presented in the article. I'll make sure to include key points like the budget slashing programs, the Vatican's social doctrine, the comparison to Ayn Rand, and the bishops' stance on religious freedom and birth control mandates.
+
+I should double-check that I haven't missed any morally charged words and that the summary stays within the word limit. It's important to maintain the balance between conciseness and completeness, ensuring all critical moral aspects are covered without being too verbose.
+
+Finally, I'll review the summary to make sure it aligns with the user's request and that all the key moral points are clearly presented. This way, the user gets a summary that not only captures the essence of the article but also retains the moral framing as intended.
+</think>
+
+**STEP 1:**  
+* Excoriated  
+* Misuse  
+* Decimates  
+* Weakens  
+* Intolerant  
+* Condemnation  
+* Violations  
+* Mandate  
+* Birth control  
+* Intolerant  
+* Similar path  
+* Hitler  
+* Stalin  
+* Preferential option  
+* Poor  
+* Independent  
+* Dependent  
+* Government  
+* Economic crises  
+* High unemployment  
+* Endemic poverty  
+* Hunger  
+
+**SUMMARY:**  
+Representative Paul D. Ryan, a Republican and chairman of the House Budget Committee, has faced criticism from Catholic leaders for claiming his budget plan, which slashes antipoverty programs, aligns with Catholic moral teachings. Georgetown University faculty and priests accused Ryan of misusing Catholic teachings to defend a budget that decimates food programs, weakens protections for the elderly and sick, and favors the wealthy. They argued his plan reflects Ayn Rand’s philosophy rather than Jesus Christ’s teachings. The criticism highlights efforts by Catholic leaders to distance the church from the Republican Party, following recent condemnations of the Obama administration over religious freedom mandates, including a bishop’s controversial comparison of Obama to Hitler and Stalin. Ryan defended his budget, stating it promotes independence for the poor, but Georgetown faculty countered that Catholic teachings call for government intervention in addressing societal problems. The U.S. Conference of Catholic Bishops has also urged a budget prioritizing aid to the poor, further emphasizing the church’s moral stance.  
+**END OF SUMMARY.**

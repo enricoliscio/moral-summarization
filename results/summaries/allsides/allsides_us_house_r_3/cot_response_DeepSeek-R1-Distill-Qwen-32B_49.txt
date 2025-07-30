@@ -1,0 +1,60 @@
+Okay, so the user has given me a query where they want me to act as a news summarizer assistant and a moral expert. They provided a news article and specific instructions on how to process it. The task has two main parts: first, identifying all the single words that are morally framed, and second, writing a summary that preserves those moral framings.
+
+Let me start by understanding the article. It's about House Republicans storming a secure room during the impeachment probe against Trump. There's a lot of conflict between the parties, accusations of unfairness, security lapses, and ethical issues. 
+
+For the first step, I need to identify all the morally framed words. I'll go through the article and pick out words that carry moral connotations. Words like "stormed," "upending," "fairness," "enraged," "protest," "electronic," "security lapse," "ethics charges," "complaints," "brushed aside," "outrage," "obsession," "justice," "constitutional norms," "due process," "bypassing," "standards," "shut out," "precedents," "denied," "subpoena power," "restricted," "access," "transcripts," "ethics," "banned," "Russian," "Chinese," "contradicted," "quid pro quo," "second-hand," "third-hand," "ruling," "left-leaning," "watchdog," "request," "ordered," "releasing," "documents," "communications," "appointee."
+
+Now, for the summary. I need to condense the article into 200 words, making sure to include as many of these moral terms as possible. I'll start by outlining the main events: Republicans storming the room, the Democrats' reaction, the security breach, ethics accusations, the protest's impact on the deposition, the fairness arguments, the specifics of the impeachment process, the testimony details, and the ongoing developments like document requests and court rulings.
+
+I should ensure the summary flows logically, highlighting the moral disputes on both sides. I'll mention the Republicans' actions, the Democrats' accusations, the consequences of the protest, the fairness issues, and the broader implications of the impeachment process. I'll also include the key testimonies and the subsequent actions taken by Democrats and the court.
+
+I need to keep the language concise and focused on the moral framing without getting bogged down in too many details. The summary should reflect the tension and the ethical concerns raised by both parties, emphasizing the conflict over procedural fairness and security.
+
+Finally, I'll make sure the summary doesn't exceed 200 words and that it captures the essence of the article while preserving the moral language identified earlier.
+</think>
+
+**STEP 1:**  
+* stormed  
+* upending  
+* fairness  
+* enraged  
+* protest  
+* electronics  
+* security lapse  
+* ethics charges  
+* complaints  
+* brushed aside  
+* outrage  
+* obsession  
+* justice  
+* constitutional norms  
+* due process  
+* bypassing  
+* standards  
+* shut out  
+* precedents  
+* denied  
+* subpoena power  
+* restricted  
+* access  
+* transcripts  
+* ethics  
+* banned  
+* Russian  
+* Chinese  
+* contradicted  
+* quid pro quo  
+* second-hand  
+* third-hand  
+* ruling  
+* left-leaning  
+* watchdog  
+* request  
+* ordered  
+* releasing  
+* documents  
+* communications  
+* appointee  
+
+**SUMMARY:**  
+House Republicans stormed a secure room during the impeachment probe against President Trump, disrupting a deposition and demanding fairness. Democrats accused them of creating a security lapse by bringing electronics into the restricted area and called for ethics charges. Republicans argued the hearing was not classified and criticized Democrats for excluding them from the impeachment process, claiming it bypassed constitutional norms and due process. The protest delayed the testimony of Defense Department official Laura Cooper, who eventually testified after hours of disruption. Democrats countered that Republicans on the impeachment committees already had access to proceedings and information. Meanwhile, Republicans criticized the fairness of the process, with Rep. Mark Walker stating the president is neither above nor below justice. The impeachment inquiry into Trump’s Ukraine dealings continued, with Democrats seeking more documents and a federal judge ordering the State Department to release Ukraine-related files, including Giuliani-Pompeo communications. END OF SUMMARY.

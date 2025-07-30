@@ -1,0 +1,18 @@
+Alright, so the user wants me to summarize a news article about the new crew arriving at the International Space Station. They mentioned that I should preserve the moral framing the author gave it. Hmm, okay, first I need to understand what the moral framing is here.
+
+Looking at the article, it's more of a factual report without explicit moral judgments. However, the author does highlight the crew's personal touches, like Yuri bringing fishing gear and the others bringing weaving materials and a keyboard. This shows their humanity and the effort to maintain their hobbies in space, which is a positive aspect.
+
+I should focus on the key points: the arrival of the new crew, their tasks upon arrival, the transfer of supplies, and their personal items. I need to keep it concise, under 200 words, and make sure it's clear and captures the essence of the article without adding any personal opinions.
+
+Also, the user specified that the summary should start with "SUMMARY:" and end with "END OF SUMMARY." So I need to format it that way. I should avoid any markdown and just provide the plain text summary.
+
+I'll start by mentioning the new crew arriving and their mission duration. Then, I'll note the tasks they had to do before settling in, like installing seat liners and space suits. Next, I'll mention Yuri taking over as commander and the transfer of the cargo carrier. Finally, I'll highlight their personal items to show their individuality and the human element in the mission.
+
+Let me make sure I stay within the word limit. I'll keep each sentence brief and to the point, avoiding unnecessary details. Also, I'll ensure that the summary flows logically from their arrival to their activities and personal touches.
+
+Double-checking, I think that covers all the important points without adding any moral judgments beyond what's implied in the article. The focus is on the crew's activities and their personal interests, which adds a positive human element to the summary.
+</think>
+
+SUMMARY:  
+Two American astronauts and a Russian cosmonaut have joined the International Space Station for a six-month mission. The crew, including Yuri Onufrienko, Daniel Bursch, and Carl Walz, arrived aboard the space shuttle Endeavour and began settling in by installing their equipment. Onufrienko, eager to take command, waited for the hatch to open. The team transferred a cargo carrier named Raffaello, loaded with supplies, and prepared to return it with waste and used items. The new residents also brought personal items reflecting their hobbies, such as fishing gear, weaving materials, and a keyboard for psychological support. Meanwhile, the outgoing crew, led by Frank Culbertson, will return to Earth after 128 days in space.  
+END OF SUMMARY.

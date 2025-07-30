@@ -1,0 +1,49 @@
+Alright, let me try to figure out how to approach this user's query. They want me to act as a news summarizer assistant and a moral expert. The task involves two main steps: first, identifying morally framed words in the provided article, and second, summarizing the article while preserving those moral terms.
+
+Starting with the first step, I need to go through the article and pick out words that carry moral connotations. Words like "protesting," "racial injustice," "change," "segregated," "arrested," "lie," "Constitution," "discrimination," "violence," "resistance," "vow," "rights," "movement," "build," "opposition," "victory," "reform," "abolish," "injustices," "inequality," "opportunity," "conscience," "struggle," "moral," "force," "injustice," "silently," "extraordinary," "movement," "conscience," "pulse," "join," "extraordinary," "movement," "conscience," "pulse," "join," "extraordinary," "movement." These words seem to carry the moral weight the author intended.
+
+Now, for the summary. I need to condense the article, which talks about the civil rights movement, the author's personal experiences, the progress made, and the ongoing struggles. I should include the key moral terms to maintain the framing. I'll start by highlighting the new generation's protests, the historical context, the author's arrest, the systemic issues still present, and the hope for change with the new movement. I need to keep it under 200 words, so I'll make sure each point is concise but comprehensive.
+
+I should also ensure that the summary flows well, connecting the past struggles with the present movement, emphasizing the moral imperative and the potential for change. Including the mention of Dr. King and the recent protests, along with the reforms and the challenges ahead, will provide a balanced view. Finally, I'll end with the call to action, encouraging people to join the movement, which ties back to the moral framing.
+
+I think I've covered all the necessary points. Let me structure this into a coherent summary, making sure to include as many moral terms as possible without making it sound forced. I'll aim for clarity and conciseness, ensuring that the summary accurately reflects the original article's moral perspective.
+</think>
+
+**STEP 1:**  
+* Protesting  
+* Racial injustice  
+* Change  
+* Segregated  
+* Arrested  
+* Lie  
+* Constitution  
+* Discrimination  
+* Violence  
+* Resistance  
+* Vow  
+* Rights  
+* Movement  
+* Build  
+* Opposition  
+* Victory  
+* Reform  
+* Abolish  
+* Injustices  
+* Inequality  
+* Opportunity  
+* Conscience  
+* Struggle  
+* Moral  
+* Force  
+* Injustice  
+* Silently  
+* Extraordinary  
+* Movement  
+* Conscience  
+* Pulse  
+* Join  
+* Extraordinary  
+* Movement  
+
+**SUMMARY:**  
+The article reflects on the inspiring rise of a new generation protesting against racial injustice, drawing parallels to the civil rights movement of the 1960s. The author recounts their own experience of being arrested for desegregating a library in 1960, highlighting the persistence of systemic racism despite legal victories like the Brown v. Board decision. The movement faced fierce resistance but ultimately led to landmark reforms, including the Civil Rights Act and Voting Rights Act. However, racism and institutional bias persist, manifesting in unequal schools, hiring discrimination, and a flawed criminal justice system. A new generation, driven by the murder of George Floyd, has sparked the largest protests in U.S. history, with unprecedented white participation. Politicians are beginning to respond with reforms, but entrenched interests resist change. The author emphasizes that this movement holds great promise but will face significant opposition. Drawing on lessons from the past, the author urges everyone with a conscience to join this extraordinary movement for justice and equality. END OF SUMMARY.

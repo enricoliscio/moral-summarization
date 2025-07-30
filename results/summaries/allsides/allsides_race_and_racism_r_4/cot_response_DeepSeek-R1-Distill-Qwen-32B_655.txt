@@ -1,0 +1,40 @@
+<think>
+Okay, so I need to help the user with this query. They want me to act as a news summarizer assistant and a moral expert. The task is to summarize a news article while preserving the moral framing. 
+
+First, I should read through the article carefully. It's about a police shooting in Texas where a white officer killed a black woman, Atatiana Jefferson, inside her home. The family's attorney is involved, and there's a lot of moral language here. 
+
+The user has two main steps. The first is to identify all single words that are morally framed. I need to go through the article and pick out words that carry moral connotations. Words like "murder," "injustice," "unjust," "unjustifiable," "unconscionable," "outrage," "shame," "unforgivable," "unjust," "unfair," "tragedy," "unacceptable," "unjust," "unfair," "unjustifiable," "unconscionable," "outrage," "shame," "unforgivable," "unjust," "unfair," "tragedy," "unacceptable," "unjust," "unfair," "unjustifiable," "unconscionable," "outrage," "shame," "unforgivable," "unjust," "unfair," "tragedy," "unacceptable," "unjust," "unfair," "unjustifiable," "unconscionable," "outrage," "shame," "unforgivable," "unjust," "unfair," "tragedy," "unacceptable." Wait, that's too many. I think I need to be more precise. The article uses words like "murder," "unjust," "outrage," "shame," "unconscionable," "tragedy," "unfair," "unacceptable," "unjustifiable," "unforgivable," "outrage," "shame," "unforgivable," "unjust," "unfair," "tragedy," "unacceptable," "unjust," "unfair," "unjustifiable," "unconscionable," "outrage," "shame," "unforgivable," "unjust," "unfair," "tragedy," "unacceptable." Hmm, maybe I'm overcomplicating. I should list each word once, even if they repeat.
+
+Next, the second step is to write a summary that includes as many of these morally framed words as possible, keeping it under 200 words. The summary should reflect the moral framing from the article, emphasizing the family's perspective and the systemic issues.
+
+I need to make sure the summary is concise but captures the key points: the shooting, the officer's actions, the family's reaction, the political response, and the broader context of similar incidents. I should include words like "murder," "unjust," "outrage," etc., to maintain the moral tone.
+
+I should also structure the summary to highlight the injustice and the family's grief, perhaps starting with the shooting, then the family's statements, the officer's actions, the political call for justice, and the broader context of police violence against Black Americans.
+
+I need to ensure the summary flows well and stays within the word limit. Maybe start with the event, then the family's perspective, the officer's status, the political response, and end with the broader implications.
+
+I think I've got a good structure. Now, I'll draft the summary, making sure to include the morally framed words and keep it under 200 words.
+</think>
+
+**STEP 1:**
+
+* Murder  
+* Injustice  
+* Unjust  
+* Unjustifiable  
+* Unconscionable  
+* Outrage  
+* Shame  
+* Unforgivable  
+* Unjust  
+* Unfair  
+* Tragedy  
+* Unacceptable  
+
+---
+
+**SUMMARY:**  
+
+A Fort Worth police officer shot and killed Atatiana Jefferson, a 28-year-old Black woman, inside her home after responding to a neighbor’s call about an open door. Her family’s attorney, Lee Merritt, argued that the officer “didn’t have time to perceive a threat” before firing, calling the act “murder.” The family expressed outrage and grief, questioning why Jefferson was killed while watching her 8-year-old nephew. The officer, who has been on the force since 2018, is on administrative leave, and an investigation is underway. Police Lt. Brandon O’Neil confirmed that the officer did not announce his identity before firing, which is part of the investigation. The family seeks justice but acknowledges it cannot bring their loved one back. The incident has sparked outrage, with Democratic candidate Bernie Sanders calling for a Justice Department investigation. This tragedy follows a similar case in Dallas, where a white officer was sentenced for killing a Black man. The family’s attorney, Merritt, emphasized the need for a thorough investigation, highlighting the ongoing issue of police violence against Black Americans.  
+
+**END OF SUMMARY.**

@@ -1,0 +1,27 @@
+Okay, so the user has given me a query where they want me to act as a news summarizer assistant and a moral expert. The task is to summarize a news article while preserving the moral framing. They've provided specific steps: first, identify all single words that are morally framed, and then write a concise summary using those words.
+
+First, I need to understand what morally framed words are. These are words that carry a strong positive or negative connotation, often used to express judgment or evaluation. So, I'll go through the article and pick out words that fit this description.
+
+Looking at the article, I see words like "outrageous," "criminals," "rapists," "fucking," "stupid," "crazy," "false prophet," "useless," and "prosperity." These words all carry strong moral judgments. For example, "outrageous" and "criminals" are negative, while "prosperity" is positive but used in a context that's being criticized.
+
+Next, I need to write a summary that includes as many of these words as possible without exceeding 200 words. The summary should capture the main points: Fox's refusal to pay for the wall, his criticism of Trump, the quotes from Ramos and Calderon, and the overall dismissal of Trump's proposal.
+
+I'll start by mentioning Fox's refusal, then Trump's claims, the morally charged quotes, and the criticism from Calderon. I'll make sure to include the negative terms to maintain the moral framing. I'll also note the political implications, like the Hispanic support for Trump and the view of him as a "false prophet."
+
+I should structure the summary to flow logically, ensuring each point is clear and concise. I need to check that the summary stays within the word limit and that all key points are covered. Also, I must make sure the moral framing is preserved, so the negative terms are included as they highlight the criticism against Trump's proposal.
+
+Finally, I'll review the summary to ensure it accurately reflects the article's content and maintains the moral perspective. I'll make sure the language is clear and that the summary is a faithful representation of the original text, preserving the intended tone and message.
+</think>
+
+**STEP 1:**  
+* outrageous  
+* criminals  
+* rapists  
+* crazy  
+* stupid  
+* false prophet  
+* useless  
+* prosperity  
+
+**SUMMARY:**  
+Former Mexican President Vicente Fox firmly opposes paying for a border wall, calling it a "fucking wall" and dismissing Donald Trump's claim that Mexico will foot the bill. Fox criticizes Trump's outrageous statements about Latinos, including labeling Mexican immigrants as "criminals" and "rapists." He mocks Trump's wealth and insists the U.S. should pay for the wall, which he deems a "stupid" idea. Fox also dismisses the notion that Trump could win the presidency, calling him a "crazy" candidate. Meanwhile, Felipe Calderon, Mexico's former president, echoed Fox's rejection, calling the wall "useless" and accusing Trump of promoting a false prophet's vision. Both leaders emphasize that Mexico will not contribute financially to the wall, deeming it a misguided and ineffective solution to immigration. END OF SUMMARY.

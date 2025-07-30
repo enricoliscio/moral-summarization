@@ -1,0 +1,31 @@
+Alright, I need to help the user by summarizing the given news article while preserving the moral framing. The user has specified two steps: first, identifying all the morally framed single words, and second, writing a concise summary using those words.
+
+Starting with the first step, I'll go through the article and pick out words that carry a moral connotation. Words like "good," "evil," "indicted," "corrupt," "felonies," "cult-like," "foul," "criminals," "probity," "scandal," "animus," "dishonest," "deception," "sacrifices," "noxious," and "corrupt" stand out as they carry moral weight.
+
+Next, I'll craft a summary. I need to ensure it's under 200 words and includes as many of these moral terms as possible. The summary should reflect the article's critical tone towards Trump, highlighting his associations with individuals involved in felonies, his lack of accountability, and the implications for the country.
+
+I'll structure the summary to mention Trump's exemption from indictment, the guilty plea from his lawyer, the implication of his associates, and the contrast with Obama's administration. I'll also touch on the moral failure of his supporters and the ongoing risks his administration poses.
+
+Making sure the summary flows well and retains the moral framing, I'll avoid adding any personal opinions but stick to the facts and the author's perspective presented in the article.
+</think>
+
+**STEP 1:**  
+* good  
+* evil  
+* indicted  
+* corrupt  
+* felonies  
+* cult-like  
+* foul  
+* criminals  
+* probity  
+* scandal  
+* animus  
+* dishonest  
+* deception  
+* sacrifices  
+* noxious  
+* corrupt  
+
+**SUMMARY:**  
+The article critiques President Trump's association with individuals involved in felonies, emphasizing the moral failure of his administration. It highlights how Trump's associates, like Michael Cohen and Paul Manafort, have been implicated in crimes, while Trump himself remains unindicted due to his presidential immunity. The author condemns Trump's fondness for hiring individuals of questionable character, contrasting him with Obama's corruption-free presidency. Trump's defenders are likened to a cult, blindly loyal despite evidence of his dishonesty. The article warns that Trump's administration, governed by a "corrupt tree," poses ongoing risks to the nation. END OF SUMMARY.

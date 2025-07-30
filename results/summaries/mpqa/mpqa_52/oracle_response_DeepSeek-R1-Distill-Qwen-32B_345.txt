@@ -1,0 +1,17 @@
+Okay, so I need to help the user by summarizing a news article while preserving the moral framing. The user provided the article and a list of morally framed words. My task is to create a concise summary, using as many of those words as possible without exceeding 200 words.
+
+First, I'll read through the article to understand the main points. It's about President Khatami congratulating Venezuela after a coup attempt. Chavez was restored to power, and Khatami emphasizes justice and freedom. The article also mentions Iran's condemnation of the coup and the reasons behind it, like Venezuela's oil policies.
+
+Now, I need to identify the key morally framed words: coup, justice, freedom, difficult, attempts, topple, reestablishment, collapsed, ouster, force, method, conformity, detained, forced, deaths, violent.
+
+I should structure the summary to include these words naturally. I'll start with Khatami congratulating Venezuela after the coup. Mention the failed attempt to topple Chavez, emphasizing justice and freedom. Then, include Chavez's perspective on the difficult period and the divine help. Next, explain the coup's objective regarding OPEC and oil production. Mention Iran's stance against the coup, using words like force and conformity. Finally, note Chavez's return and the support for his government.
+
+I need to ensure the summary flows well and stays within 200 words. I'll check each sentence to include the moral terms without making it sound forced. Also, I'll make sure the summary captures the essence of the article, highlighting the moral and political implications of the coup and its aftermath.
+
+Let me draft the summary step by step, ensuring each morally framed word is included where appropriate. I'll start with the main event, then the congratulation, Chavez's statement, the coup's objectives, Iran's condemnation, and conclude with the implications and future meeting plans.
+
+After drafting, I'll review to make sure all key points are covered and the word count is within limits. I'll also ensure that the moral framing is preserved, using the specified words to convey the article's tone and message accurately.
+</think>
+
+SUMMARY:  
+President Mohammad Khatami congratulated Venezuela for the restoration of President Hugo Chavez's government after a failed military coup, calling it a victory for justice and freedom. Chavez expressed gratitude for Iran's support during the difficult period and briefed Khatami on the reestablishment of legal order. The coup, which sought to topple Chavez, aimed to remove Venezuela from OPEC and increase oil production, undermining the organization. Iran condemned the ouster of a democratically elected leader, stating that coups and force are unacceptable methods for political change, as they do not conform to human society's norms. Chavez returned to power after being detained on a Caribbean island, resuming his role as president. The coup was linked to his policy of cutting oil production to boost global prices, a stance he reinforced during a successful OPEC summit in 2000. The two leaders also expressed a desire to meet soon. END OF SUMMARY.

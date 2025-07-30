@@ -1,0 +1,19 @@
+<think>
+Alright, so I need to help the user by summarizing this news article while preserving the moral framing. Let me read through the query again to make sure I understand what's needed.
+
+The user provided a news article where China criticizes a US human rights report. They want a summary that keeps the moral perspective the author had. The summary needs to be under 200 words, start with "SUMMARY:" and end with "END OF SUMMARY." 
+
+First, I should identify the key points in the article. China is responding to the US report by pointing out issues in the US, like police abuses, poverty, racial discrimination, lack of personal safety, military actions, and withdrawal from the Kyoto Protocol. The article also mentions that China releases this report annually in response to the US report, which usually criticizes China.
+
+Now, I need to capture the moral framing. The article presents China as highlighting the US's hypocrisy—criticizing others while ignoring their own problems. So, the summary should reflect that critique.
+
+I should structure the summary to include China's annual report, the specific criticisms against the US, the hypocrisy angle, and the context of the US report accusing China. I need to keep it concise, so I'll focus on the main points without going into too much detail.
+
+Let me draft it out: China criticizes the US human rights report, pointing out issues like police abuses, poverty, discrimination, military actions, and environmental policy. They accuse the US of hypocrisy, ignoring their own problems while judging others. This is part of an annual response to the US report that usually criticizes China.
+
+I should make sure the summary flows well and stays within the word limit. Let me check the word count as I write. Also, I need to ensure that the moral angle is clear—China is pointing out the US's double standards.
+
+Putting it all together, the summary should succinctly convey China's criticism, the specific points made, the hypocrisy angle, and the context of the annual response. That should meet the user's requirements.
+</think>
+
+SUMMARY: China has criticized the United States' human rights record in its annual report, accusing the U.S. of ignoring its own human rights issues while condemning others. The report, published by China's State Council Information Office, highlighted police abuses, poverty, racial discrimination, and personal safety concerns in the U.S. It also accused the U.S. of infringing on other nations' sovereignty through military operations and criticized President George W. Bush's administration for withdrawing from the Kyoto Protocol. China released the report in response to the U.S. State Department's annual global human rights report, which typically accuses China of human rights abuses. The Chinese report condemned the U.S. for hypocritically acting as a "world judge of human rights" while ignoring its own problems. END OF SUMMARY.

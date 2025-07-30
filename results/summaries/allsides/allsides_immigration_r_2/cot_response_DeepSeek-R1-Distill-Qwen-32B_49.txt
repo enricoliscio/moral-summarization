@@ -1,0 +1,79 @@
+Okay, so the user has given me a task where I need to act as a news summarizer assistant and a moral expert. The main goal is to summarize a provided news article while preserving the moral framing that the author used. The user has broken down the task into two steps: first, identifying all the single words that are morally framed, and second, writing a summary that includes as many of those words as possible.
+
+First, I need to understand the article. It's about Texas Governor Greg Abbott refusing to accept refugees, which has sparked a lot of moral criticism. The author seems to support Abbott's decision and argues against mass migration, suggesting it's not the morally right approach. The article is quite lengthy and filled with moral language from both sides.
+
+For step one, I have to go through the article and pick out all the single words that carry a moral connotation. Words like "inhumane," "violates," "shameful," "morally wrong," "xenophobia," "twisted," "virtue," etc., stand out. I'll list each of these, each on a new line with an asterisk.
+
+Next, for the summary, I need to condense the article into 200 words or less. I must ensure that the moral framing is preserved. I should mention Abbott's decision, the criticism he received, and the author's counterarguments about the negative impacts of mass migration. I'll include terms like "inhumane," "morally wrong," "xenophobia," and others to reflect the moral debate.
+
+I also need to make sure the summary flows logically, starting with Abbott's action, the reactions from critics, and then the author's perspective arguing against mass migration. I'll keep each point concise, ensuring that the moral language is integrated naturally.
+
+I should double-check to make sure I'm not adding any new moral terms beyond what's in the article and that the summary accurately reflects the author's stance. Also, I need to maintain a neutral tone while preserving the moral framing, so the summary remains an objective reflection of the article's content.
+
+Finally, I'll structure the response with the two steps clearly marked, making sure each part is separated properly and the summary ends with the specified tokens. I'll review the word count to ensure it's within the limit and that all key points are covered without being too verbose.
+</think>
+
+### STEP 1:
+* Inhumane  
+* Violates  
+* American values  
+* Shameful  
+* Morally wrong  
+* Xenophobia  
+* Fear  
+* Tarnished  
+* National character  
+* Conflating  
+* Legal  
+* Illegal  
+* Impoverished  
+* Unskilled  
+* Assimilable  
+* Communist  
+* Laughable  
+* Absurd  
+* Moral high ground  
+* Immigration hawks  
+* Mass migration  
+* Vacuum  
+* Dangerous  
+* Improve  
+* Left twisting  
+* Wind  
+* Countries migrants  
+* Fleeing  
+* Good people  
+* Encouraged  
+* Destination countries  
+* Strain  
+* Social services  
+* Infrastructure  
+* Social fabric  
+* Origin countries  
+* Best people  
+* Declining prospects  
+* Billion  
+* Preferred destinations  
+* West  
+* Overcrowded  
+* Pathologies  
+* Poor  
+* Downtrodden  
+* Ignored  
+* Homeless  
+* Betraying  
+* Constituents  
+* RINO squishes  
+* Foreigners  
+* Tyrants  
+* Terrorists  
+* Invasions  
+* Tipping point  
+* Socialists  
+* Freedom-loving  
+
+---
+
+### SUMMARY:
+Texas Governor Greg Abbott became the first GOP governor to decline refugee resettlement, citing the "disproportionate" impact on his state. His decision sparked moral outrage, with critics calling it "inhumane," "shameful," and "morally wrong," driven by "xenophobia and fear." The author argues that mass migration, including refugee resettlement, harms both destination and origin countries, as it strains resources and drains skilled individuals from their homelands. They question why cities with homelessness, like Austin, prioritize refugees over their own citizens. The author accuses immigration proponents of conflating legal and illegal immigration and warns that unchecked migration could lead to a "tipping point" where socialist values overwhelm American culture. Critics, however, defend resettlement as a moral duty, emphasizing the need to help those fleeing tyranny. The debate highlights conflicting views on morality, responsibility, and the impact of migration on national identity.  
+END OF SUMMARY.

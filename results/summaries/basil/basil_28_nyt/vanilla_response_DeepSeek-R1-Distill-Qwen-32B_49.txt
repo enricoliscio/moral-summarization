@@ -1,0 +1,14 @@
+Alright, so the user wants me to summarize this news article about the 2012 vice presidential debate between Biden and Ryan. They provided the article and an example response. I need to make sure the summary is under 200 words, starts with "SUMMARY:" and ends with "END OF SUMMARY."
+
+First, I'll read through the article to get the main points. It's about Biden using aggressive tactics, referencing past debates, and the overall tone of the debate. I should highlight Biden's approach, his use of humor and interruptions, and how Ryan handled it. Also, mention the moderator's role and the emotional moments, like Biden bringing up his personal tragedy.
+
+I need to condense this into a concise summary without getting too detailed. Focus on the key events and the contrast between Biden's style and Ryan's responses. Make sure it's clear that Biden was more aggressive and the debate was lively. Also, include the moderator's active role and the emotional points made by both candidates.
+
+Let me structure it: start with the debate context, Biden's strategy, his use of humor and interruptions, Ryan's respectful but sometimes flustered approach, the moderator's involvement, and the emotional elements. Keep each point brief to stay within the word limit.
+
+I should avoid jargon and keep it straightforward. Make sure the summary flows well and covers all the essential aspects without unnecessary details. Double-check the word count to ensure it's under 200 words. Once done, format it correctly with the tokens.
+</think>
+
+SUMMARY:  
+The 2012 vice presidential debate between Joe Biden and Paul Ryan was marked by Biden's aggressive and humorous style, as he sought to redeem the Obama campaign after President Obama's poor performance in the previous debate. Biden, referencing Lloyd Bentsen's 1988 debate tactics, mocked Ryan, comparing him to Dan Quayle and questioning his economic policies. Biden frequently interrupted Ryan, dismissing his arguments as "malarkey" and using humor to undermine his opponent. Ryan, though respectful, appeared flustered by Biden's intensity and interruptions, particularly over Medicare and stimulus funding. Biden also mocked Ryan for opposing the stimulus while seeking funds for his district. The debate was lively, with both candidates exchanging sharp remarks, though Biden dominated with his wit and interruptions. Moderator Martha Raddatz actively pushed for specifics, avoiding the passive approach of the previous debate. The debate also touched on emotional topics, with Biden recounting his family tragedy after Ryan praised Romney's kindness. Overall, Biden's performance stood out as a spirited and memorable display of debate tactics.  
+END OF SUMMARY.

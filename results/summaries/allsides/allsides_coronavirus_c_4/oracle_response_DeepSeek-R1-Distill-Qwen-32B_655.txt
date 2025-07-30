@@ -1,0 +1,15 @@
+Alright, I need to help the user by summarizing the given news article while preserving the moral framing. The user specified that the assistant should act as a news summarizer and a moral expert, so I need to ensure that the summary includes the morally framed words provided.
+
+First, I'll read through the article to understand the main points. It's about the surge in COVID-19 cases in the U.S., with states like California, Texas, and Arizona becoming new epicenters. Dr. Fauci is warning about the potential for cases to double and the need for a nationwide effort to control the virus. There's criticism of Trump's handling of the pandemic, and mentions of economic impacts and state actions like closing bars.
+
+Next, I need to identify the morally framed words the author used: get, tamp, risk, failed, mismanagement, cost, inflicted, close. I should include as many of these as possible in the summary without making it sound forced.
+
+I'll start by noting the record number of new cases and Fauci's warning, using "tamp" and "risk." Then, I'll mention the states and the criticism of Trump, using "failed" and "mismanagement." I'll also include how the pandemic has "inflicted" damage on the economy and the action of "closing" bars.
+
+I need to keep the summary concise, under 200 words, so I'll focus on the key points without going into too much detail. I'll make sure each morally framed word is naturally integrated into the summary.
+
+Finally, I'll structure the summary to flow logically, starting with the current situation, moving to the expert warnings, then the criticism, and ending with the consequences and state actions. This should effectively convey the moral framing while providing a clear and concise summary.
+</think>
+
+SUMMARY:  
+New U.S. COVID-19 cases surged by over 47,000, the highest since the pandemic began, with California, Texas, and Arizona becoming new hotspots. Dr. Anthony Fauci warned the daily increase could reach 100,000 unless a nationwide effort to tamp down the virus is made. He emphasized the risk to the entire country, urging action beyond just affected areas. Fauci also cautioned there’s no guarantee of a vaccine, though early data is promising. States like Texas and Florida saw cases more than double in June, with hospitals in Texas and Arizona struggling to get enough ICU beds. Over 126,000 Americans have died, and millions lost jobs due to lockdowns. The economy is expected to crater further. Renewed criticism of President Trump’s pandemic response, labeled as mismanagement, has emerged, with rival Joe Biden stating Trump failed the country. States like California and Texas have closed bars to curb spikes, while New York and others require travelers from high-risk states to self-quarantine. Fauci expressed concern about Independence Day gatherings, warning it could worsen the situation. END OF SUMMARY.

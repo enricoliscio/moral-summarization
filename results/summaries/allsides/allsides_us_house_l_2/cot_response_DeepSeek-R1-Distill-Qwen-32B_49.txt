@@ -1,0 +1,25 @@
+Alright, so I need to help the user by summarizing a news article while preserving the moral framing. The user has given specific instructions on how to approach this. Let me break down what I need to do.
+
+First, I have to identify all the single words that are morally framed in the article. The user mentioned that I should label this step as "STEP 1:" and list each word with a * before it on new lines. I'll go through the article and pick out words that carry moral connotations. Words like "blocked," "criticism," "impeachment," "precedent," "disdain," "impede," "contempt," "chopping block," "contempt," and "impedance" come to mind. These words suggest actions or attitudes that are either morally right or wrong, so they fit the moral framing.
+
+Next, I need to write a summary of the article, making sure to include as many of these morally framed words as possible. The summary should be concise, no longer than 200 words, and start with "SUMMARY:" and end with "END OF SUMMARY." I'll have to ensure that the summary captures the main points: Trump blocking McGahn's testimony, the legal opinion from the Justice Department, the implications for future presidents, the criticism from Democrats, and the potential for impeachment. I'll also mention McGahn's role in the Mueller report and the ongoing conflicts between the administration and Congress.
+
+I should make sure the summary flows well and includes all the key moral elements. I'll check that each sentence reflects the moral stance presented in the article, such as Trump's actions being criticized for undermining the rule of law and the Democrats' push for accountability.
+
+Finally, I'll review the summary to ensure it's within the word limit and that all the morally framed words are appropriately included. This way, the summary not only informs but also preserves the ethical dimensions discussed in the original article.
+</think>
+
+**STEP 1:**  
+* Blocked  
+* Criticism  
+* Impeachment  
+* Precedent  
+* Disdain  
+* Impede  
+* Contempt  
+* Chopping block  
+* Contempt  
+* Impedance  
+
+**SUMMARY:**  
+Donald Trump has blocked Don McGahn, the former White House counsel, from testifying before Congress about the special counsel report on Russian election interference, sparking sharp criticism and threats of impeachment. The Justice Department issued a legal opinion stating that McGahn, who was subpoenaed by the House Judiciary Committee, cannot be compelled to testify under oath, citing constitutional precedent. Trump defended the move, claiming it protects the office of the presidency for future leaders. McGahn, a key figure in Robert Mueller’s report, reportedly resisted Trump’s attempts to obstruct justice, including refusing to fire Mueller and urging Jeff Sessions to remain involved in the Russia investigation. Critics, including Democratic lawmakers, argue Trump is attempting to shield himself from accountability. Jerry Nadler condemned the action, calling it an effort to block McGahn from revealing Trump’s alleged misconduct. David Cicilline warned that failing to comply with the subpoena could warrant impeachment. The Justice Department’s opinion does not prevent McGahn from testifying voluntarily, though it may risk his career. Trump’s administration has repeatedly clashed with Congress, with ongoing disputes over oversight and the release of Mueller’s report. END OF SUMMARY.

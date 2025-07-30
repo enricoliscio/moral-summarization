@@ -1,0 +1,14 @@
+Alright, I need to help the user by summarizing the given news article while preserving the moral framing. The user provided the article and specified that I should focus on the morally charged words used by the author. Let me first read through the article carefully.
+
+The article discusses President Trump's criticism of social media giants like Facebook and Twitter for allegedly discriminating against Republicans and conservatives. He uses terms like "discriminating," "destroyed," "ignoring," "banning," "discriminatory," "illegal," "discrimination," "limited," "ban," "manipulate," "detract," "mistreating," and "closing." These words carry strong moral implications, so my summary must include as many of them as possible without exceeding 200 words.
+
+I'll start by identifying the main points: Trump accuses the platforms of discrimination, mentions specific incidents like shadow banning and algorithmic issues, and contrasts this with media outlets like CNN and MSNBC. The tech companies deny these allegations, citing algorithmic ranking and combating bad-faith actors. Trump emphasizes the importance of free speech and accuses the platforms of closing down conservative voices while ignoring others.
+
+I need to structure the summary to include Trump's accusations, the companies' responses, and the moral framing words. I'll make sure each key point is covered succinctly, using the specified terms to maintain the original moral tone.
+
+Let me draft the summary, ensuring it's concise and includes all necessary elements. I'll check the word count to stay within the limit. Finally, I'll format it correctly with the "SUMMARY:" and "END OF SUMMARY." tokens as instructed.
+</think>
+
+SUMMARY:  
+President Trump has accused social media giants like Facebook and Twitter of "discriminating" against Republicans and conservatives, claiming "too many voices are being destroyed." He criticized the platforms for "ignoring" rules violations by liberal users while allegedly "closing down" conservative opinions. Trump referred to Twitter's alleged "shadow banning" as "discriminatory and illegal," while conservatives have long complained of "discrimination" by tech companies. Last month, Twitter addressed claims of limited visibility for GOP accounts, denying "shadow banning" and attributing it to an algorithmic glitch. Facebook also denied bias, but apologized for "mistreating" pro-Trump personalities Diamond and Silk. Trump accused the platforms of "closing down" conservative voices while "doing nothing" to address liberal violations. He warned against "censorship," calling it "dangerous," and criticized media outlets like CNN and MSNBC for spreading "Fake News," though he did not demand their content be removed. The controversy highlights concerns over "manipulation" and "detracting" from healthy discourse.  
+END OF SUMMARY.

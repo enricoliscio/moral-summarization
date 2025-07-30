@@ -1,0 +1,12 @@
+Okay, I need to help the user summarize this news article while preserving the moral framing. The user specified that the summary should include the morally framed words: "have," "own," and "attack." 
+
+First, I'll read through the article to understand the main points. Taro Kono, a Japanese politician, criticized President Bush's speech. He had some strong thoughts but didn't voice them publicly. He mentions issues like the Kyoto Protocol, CTBT, and other treaties, which are about shared values. Kono argues that the US wants to share power or burden, not values, and lists several US policies that Japan should oppose. Ambassadors from the Middle East were interested in his thoughts.
+
+Now, I need to craft a concise summary. I'll start by identifying the key elements: Kono's criticism, his restraint, the issues he brings up, his argument about value sharing, the list of US policies, and the ambassadors' reaction. I should make sure to include the words "have," "own," and "attack" where appropriate.
+
+I'll structure the summary to highlight Kono's stance and the moral implications. For example, "the US claims to have common values but..." and "Americans have the right to own handguns." Also, mention the call to "attack Iraq together." I need to keep it under 200 words and end with the specified tokens.
+
+Let me put it all together, ensuring the moral words are included and the summary flows logically. I'll check the word count to make sure it's within the limit. That should cover everything the user asked for.
+</think>
+
+SUMMARY: Taro Kono, a Japanese politician and son of former Foreign Minister Yohei Kono, criticized U.S. President Bush's speech before the Japanese Diet in a critical commentary published in his e-mail magazine. Kono refrained from heckling during the speech but questioned the President's emphasis on "common values," arguing that "value sharing" is essential for the Japan-U.S. relationship. He criticized the U.S. stance on several issues, including the CTBT, BWC, Kyoto Protocol, gun ownership rights, land mines, SOFA revisions, and the call to "attack Iraq together." Kono emphasized that these positions are unacceptable and noted that Middle Eastern ambassadors sought his opinion on the President's remarks. His commentary highlights concerns about the moral and diplomatic implications of U.S. policies, particularly in areas where "value sharing" is prioritized over "burden sharing" or "power sharing." END OF SUMMARY.

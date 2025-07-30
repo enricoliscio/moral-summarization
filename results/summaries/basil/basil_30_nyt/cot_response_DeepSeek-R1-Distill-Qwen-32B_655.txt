@@ -1,0 +1,52 @@
+Okay, so the user wants me to act as a news summarizer assistant and a moral expert. They provided a news article about Obama's plan to reduce gun violence using executive orders. The task is to first identify all the morally framed single words and then write a summary preserving those moral framings.
+
+First, I need to understand what morally framed words are. These are words that carry a moral judgment or implication, like 'abuse,' 'fear,' 'oppose,' etc. I'll go through the article and pick out each word that fits this category.
+
+Next, I need to write a concise summary, keeping it under 200 words. I should include as many of the identified moral words as possible to preserve the author's framing. The summary should cover Obama's plan, the executive actions, the opposition, and the legislative challenges.
+
+I'll start by listing the morally framed words. Then, I'll structure the summary to highlight the key points: the comprehensive plan, the 19 executive actions, opposition from gun rights groups, the legislative challenges, and the focus on background checks.
+
+I need to ensure the summary flows well and stays within the word limit. I'll also make sure to include the moral words to reflect the article's tone and perspective.
+</think>
+
+**STEP 1:**
+
+* Abusive  
+* Ban  
+* Bitterly  
+* Cautious  
+* Comprehensive  
+* Control  
+* Crackdown  
+* Derail  
+* Eager  
+* Emphasize  
+* Enforce  
+* Fear  
+* Focus  
+* Frustration  
+* Harm  
+* Impeachment  
+* Improve  
+* Intimidate  
+* Issue  
+* Justice  
+* Limit  
+* Oppose  
+* Political  
+* Pressure  
+* Protect  
+* Push  
+* Rational  
+* Reduce  
+* Regulate  
+* Rights  
+* Sensible  
+* Shun  
+* Tighten  
+* Trauma  
+* Viable  
+* Violent  
+
+**SUMMARY:**  
+President Obama plans to address gun violence through a comprehensive strategy, including 19 executive actions and legislative efforts to expand background checks and restrict assault weapons. While gun rights groups and some lawmakers oppose these measures, Obama emphasizes the need to focus on common-sense solutions rather than political divides. The administration aims to improve background checks, mental health record sharing, and gun trafficking enforcement. Despite opposition, Obama’s allies see a rare opportunity to push for tighter gun laws. However, political challenges remain, with some lawmakers threatening impeachment if executive orders overstep. The focus on universal background checks is seen as the most viable path to reducing gun violence, while fiscal issues may delay legislative progress. END OF SUMMARY.

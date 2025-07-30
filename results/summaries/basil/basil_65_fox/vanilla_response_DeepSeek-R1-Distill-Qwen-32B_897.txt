@@ -1,0 +1,16 @@
+Alright, the user has provided a query where they want me to act as a news summarizer assistant. They've given a specific news article about Michael Bloomberg endorsing Hillary Clinton and provided an example response. My task is to figure out how to approach this.
+
+First, I need to understand the user's requirements. They want a summary of the given article, formatted with "SUMMARY:" and ending with "END OF SUMMARY." The summary should be concise, no longer than 200 words. The example provided is a well-structured summary that captures the key points.
+
+I should start by reading the article carefully. The main points are Bloomberg endorsing Clinton, his reasons, his criticisms of Trump, their business backgrounds, and their relationship with Clinton. I need to extract the essential information without getting into too much detail.
+
+I should also consider the user's possible deeper needs. They might be looking for a clear, quick overview of the article without having to read the entire piece. They value conciseness and accuracy, so I need to ensure the summary is both brief and informative.
+
+Next, I'll structure the summary. It should mention Bloomberg's endorsement, his reasons, the contrast between him and Trump, his criticisms, and the implications of his decision. I'll make sure to include key terms like "dangerous demagogue" and the comparison of their business backgrounds.
+
+I need to keep the language clear and straightforward, avoiding any jargon. Also, I must adhere to the word limit, so I'll focus on the most impactful points. Checking the example, it's about 150 words, so I can aim for something similar in length.
+
+Finally, I'll review the summary to ensure it meets all the criteria: correct format, within word limit, and accurately reflects the article's content. This way, the user gets exactly what they need efficiently.
+</think>
+
+SUMMARY: Former New York City Mayor Michael Bloomberg endorsed Hillary Clinton at the Democratic National Convention, calling it "imperative" to support her over Donald Trump. Bloomberg, a self-made billionaire with an estimated net worth of $48 billion, criticized Trump as a "dangerous demagogue" and "bomb-thrower," contrasting his own business success with Trump's history of bankruptcies and lawsuits. Bloomberg, who briefly considered a third-party run but ultimately decided against it to avoid helping Trump, emphasized the importance of unity for the country. He also criticized Trump's immigration policies and economic plans, deeming them "a con" and "a disaster in the making." Bloomberg's endorsement highlights his opposition to Trump's leadership style and policies, while acknowledging some disagreements with Clinton. END OF SUMMARY.

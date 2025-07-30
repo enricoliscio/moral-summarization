@@ -1,0 +1,39 @@
+Okay, so I need to help the user by summarizing a news article while preserving the moral framing. The user provided a detailed query with specific instructions. Let me break it down.
+
+First, the user wants me to act as a news summarizer and moral expert. My task is to summarize the given article, making sure to keep the moral elements intact. The article is about Nancy Pelosi's reaction to Rashida Tlaib's comment about impeaching Trump, and the moral framing is important here.
+
+The user has two main steps. The first is to identify all the single words that are morally framed. They want me to list these words with asterisks. The second step is to write a concise summary, preserving those moral words, and keep it under 200 words.
+
+Looking at the article, I need to find words that carry moral connotations. Words like "vulgar," "censorship," "freedom of speech," "impact," "success," "base," "cheers," "bullies," "win," "impeach," "motherfucker," "shithole," "bragged," "insults," "progressive," "Muslim," "Congress." These words have moral implications because they relate to language use, censorship, impact on people, and political strategies.
+
+Next, for the summary, I need to condense the article, making sure to include these moral words. I'll start by mentioning Pelosi's reaction to Tlaib's comment, her stance on free speech, and her comparison to Trump's comments. I'll also include Trump's response and the context of Tlaib's victory speech. I need to keep it under 200 words, so I'll focus on the key points: Pelosi's defense of free speech, the comparison to Trump's remarks, the impact on Trump's base, and the overall context of the political climate.
+
+I should ensure that the summary flows well and includes all the necessary moral elements without being too verbose. I'll structure it to highlight Pelosi's position, Tlaib's comment, the comparison to Trump, and the implications of the remarks on the political landscape.
+
+Now, putting it all together, I'll list the morally framed words first, then craft the summary, making sure to include them naturally. I'll check the word count to ensure it's within the limit. I also need to end the summary with the specified tokens.
+
+I think that's a solid approach. Let me draft the response accordingly.
+</think>
+
+**STEP 1:**  
+* vulgar  
+* censorship  
+* freedom of speech  
+* impact  
+* success  
+* base  
+* cheers  
+* bullies  
+* win  
+* impeach  
+* motherfucker  
+* shithole  
+* bragged  
+* insults  
+* progressive  
+* Muslim  
+* Congress  
+
+**SUMMARY:**  
+House Speaker Nancy Pelosi defended Michigan Rep. Rashida Tlaib’s use of vulgar language when referring to impeaching President Donald Trump, calling it a free speech issue. Pelosi stated she doesn’t censor her colleagues but noted Trump’s comments, such as bragging about grabbing women “by the pussy” and calling some countries “shithole,” have more impact on people’s lives. Tlaib, one of the first Muslim women in Congress, made the remark during a victory speech, saying, “we’re gonna impeach the motherfucker.” Pelosi argued that while the comment might fire up Trump’s base, it doesn’t significantly affect House business. Trump responded on Twitter, claiming Democrats only want to impeach him because they can’t win in 2020. The incident highlights the tension between free speech and political accountability in the current political climate.  
+**END OF SUMMARY.**

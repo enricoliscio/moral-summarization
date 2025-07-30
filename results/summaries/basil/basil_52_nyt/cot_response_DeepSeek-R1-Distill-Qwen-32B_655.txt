@@ -1,0 +1,30 @@
+<think>
+Alright, I need to help the user by summarizing the news article while preserving the moral framing. The user has given specific instructions, so I should follow them carefully.
+
+First, I need to identify all the single words that are morally framed in the article. I'll go through the text and pick out words that carry moral connotations. Words like "discrimination," "tolerance," "freedom," "protesters," "ban," "opposition," "satisfaction," "concerned," "backlash," and "headache" come to mind. These words are central to the moral arguments presented.
+
+Next, I have to write a concise summary. I should include as many of these moral terms as possible without making the summary too long. The summary needs to capture the key points: Pence's stance on the law, the reactions from businesses and the public, the potential for discrimination, and the political implications.
+
+I should ensure that the summary is under 200 words and flows naturally. I'll start by mentioning Pence's defense of the law, then touch on the protests and business reactions, the debate over discrimination, and the political impact on Pence's career.
+
+I also need to make sure that the summary reflects both sides of the argument—the support for religious freedom and the concern about discrimination. This balance is important to maintain the moral framing accurately.
+
+Finally, I'll structure the summary to end with the political implications, showing how the backlash affects Pence's decisions. This ties everything together and provides a clear conclusion.
+
+I should review the summary to ensure it's within the word limit and that all key points are covered. Also, I'll double-check that all morally framed words are included and that the summary accurately reflects the original article's tone and content.
+</think>
+
+**STEP 1:**  
+* Discrimination  
+* Tolerance  
+* Freedom  
+* Protesters  
+* Ban  
+* Opposition  
+* Satisfaction  
+* Concerned  
+* Backlash  
+* Headache  
+
+**SUMMARY:**  
+Gov. Mike Pence of Indiana defended his state’s Religious Freedom Restoration Act, which he signed into law, stating it protects individuals and businesses from actions that burden their religious beliefs. Critics argue the law could enable discrimination against gays and lesbians, a claim Pence denies, emphasizing it is about religious liberty. Thousands protested, and businesses like Salesforce.com and Angie’s List halted operations in Indiana, while Seattle banned city-funded travel there. Pence, considering a 2016 presidential run, faces political backlash as the law sparks debates over tolerance and discrimination. Critics note the law lacks protections for gays and lesbians, unlike similar statutes in other states. Pence insists the law is not about discrimination but about religious freedom, though its potential to allow discrimination remains a contentious issue. END OF SUMMARY.

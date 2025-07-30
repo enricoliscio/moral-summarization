@@ -1,0 +1,14 @@
+<think>
+Alright, I need to help the user by summarizing this news article while preserving the moral framing. The user has specified that I should keep as many of the morally charged words as possible. Let me read through the article again to identify the key points and the terms I need to include.
+
+The article talks about George Papadopoulos, a former Trump campaign adviser, who accepted a plea deal for lying to the FBI. He's described as a "proactive cooperator," which suggests he might have worn a wire. The court documents mention that premature disclosure would undermine his ability to cooperate. The author uses words like lying, disclosure, undermine, cooperate, collusion, money laundering, and conspiracy.
+
+I need to make sure these words are included in the summary. The summary should be concise, under 200 words, and structured to capture the essence of the article. I'll start by stating Papadopoulos's role and his plea deal. Then, mention his cooperation and the speculation about wearing a wire. I'll include the court's reasoning about disclosure and the implications for Mueller's investigation. I should also note the charges against Manafort and Gates, as well as the White House's response.
+
+I'll need to connect these points logically, ensuring each sentence flows into the next. I should avoid adding any new information not present in the article. Let me draft a few sentences and check the word count to make sure it's within the limit. Also, I need to end with the specified tokens.
+
+I think that's a solid approach. Now, I'll put it all together, making sure to include all the morally framed words and keep the summary accurate and within the word limit.
+</think>
+
+SUMMARY:  
+George Papadopoulos, a former Trump campaign adviser, has become a "proactive cooperator" with federal investigators, suggesting he may have worn a wire to assist Robert Mueller's team. Papadopoulos pleaded guilty to lying to the FBI about his contacts with Russians and acknowledged providing false information during an interview. Prosecutors requested court filings be sealed to prevent premature disclosure, which could undermine his ability to cooperate. Legal experts speculate Papadopoulos may have engaged in undercover work, such as recording conversations with Trump associates. His cooperation could provide evidence for Mueller's investigation into Russian interference and potential collusion. Manafort and Gates, meanwhile, face charges of money laundering and conspiracy, though no evidence of collusion was provided. The White House dismissed Papadopoulos' role as minor, denying collusion. Mueller's team likely leveraged Papadopoulos' efforts to gather information, potentially recording conversations to target additional subjects. END OF SUMMARY.

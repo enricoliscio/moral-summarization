@@ -1,0 +1,29 @@
+Okay, so I need to help the user by summarizing this news article while preserving the moral framing. Let me start by understanding the task. The user wants me to first identify all the single words that are morally framed in the article. Then, I have to write a concise summary that includes as many of these words as possible without exceeding 200 words.
+
+First, I'll read through the article carefully to spot any words that carry moral implications. The article talks about Donald Trump causing controversy, alarm among party leaders, a war of words, targeting women, using nude photos, personal attacks, etc. I'll list each of these words, each on a new line with an asterisk.
+
+Next, for the summary, I need to make sure it's concise and captures the essence of the article while highlighting the moral aspects. I should mention Trump's actions, the impact on the party, the use of personal attacks, the comparison with the 2012 Akin incident, and the media's muted response. I'll structure it to flow logically, ensuring each point is clear and within the word limit.
+
+I should also check that the summary doesn't add any new information beyond what's in the article and that it stays true to the moral framing. It's important to highlight the negative impact on women and the party's concerns, as well as the comparison to past incidents to show a pattern of behavior.
+
+Finally, I'll make sure the summary starts with "SUMMARY:" and ends with "END OF SUMMARY." without any markdown, just plain text. I'll keep each part clear and separate, ensuring that the user's instructions are fully met.
+</think>
+
+**STEP 1:**  
+* Controversy  
+* Alarm  
+* Targeting  
+* Women  
+* Nude  
+* Personal  
+* Attacks  
+* Jeopardize  
+* Off-Limits  
+* Outrage  
+* Offensive  
+* Cauterize  
+* Wound  
+
+**SUMMARY:**  
+Donald Trump has sparked controversy in the Republican primary by escalating a war of words against Ted Cruz, targeting women and using personal attacks to discredit his opponent. Trump shared a nude photo of his wife, Melania, and suggested revealing sensitive information about Heidi Cruz, Ted's wife, who has a history of depression. Cruz called Trump a "sniveling coward" and demanded he "leave Heidi the hell alone." Party leaders fear Trump's tactics will jeopardize the party's appeal to women in the fall. Trump's actions echo past controversies, such as Todd Akin's offensive remarks in 2012, but media outrage has been far more subdued this time. The use of spouses as political targets is generally seen as off-limits, and Trump's behavior has raised concerns about the moral standards of the campaign.  
+**END OF SUMMARY.**

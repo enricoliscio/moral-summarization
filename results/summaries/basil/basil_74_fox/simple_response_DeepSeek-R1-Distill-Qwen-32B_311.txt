@@ -1,0 +1,14 @@
+Okay, I need to help the user by summarizing the given news article while preserving the moral framing. The user is a news summarizer assistant and a moral expert, so they want a concise summary that reflects the ethical implications discussed in the article.
+
+First, I'll read through the article to understand the main points. Kathy Griffin took a photo with a bloodied Trump mask, which caused controversy. She apologized, saying it was too disturbing and not funny. Tyler Shields defended the artwork, saying it's meant to provoke and is just like a movie still. There were reactions from Chelsea Clinton and others, and Shields mentioned past controversies with his work.
+
+I need to make sure the summary includes Griffin's admission, her apology, Shields' defense, the reactions, and the context of Shields' previous work. I should keep it under 200 words and end with the specified tokens.
+
+I'll structure the summary to start with Griffin's admission, mention the photo and its impact, her apology, Shields' explanation, the reactions, and conclude with the debate it sparked. I'll ensure to highlight the moral aspects, like the offense caused and the artistic freedom argument.
+
+Let me draft that and check the word count to make sure it's concise.
+</think>
+
+SUMMARY:  
+Kathy Griffin apologized for a controversial photo shoot with Tyler Shields, where she held a bloodied mask of President Trump. Griffin acknowledged the image was "too disturbing" and "not funny," understanding its offensive nature. She vowed to remove the image, admitting she "went too far." Shields defended the artwork, stating it aimed to provoke thought and was no different from a movie still. Critics, including Chelsea Clinton, called the image "vile and wrong." Shields, who has faced backlash for prior controversial work, emphasized artistic freedom and denied any intent to harm. The incident sparked debate over the line between art and offense.  
+END OF SUMMARY.

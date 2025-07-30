@@ -1,0 +1,45 @@
+Okay, I need to help the user by summarizing the news article while preserving the moral framing. First, I should understand the user's request. They want me to act as a news summarizer and a moral expert. The task has two parts: identifying morally framed words and then writing a summary that includes as many of those words as possible.
+
+Starting with STEP 1, I need to go through the article and pick out words that carry a moral connotation. Words like "anti-corruption," "barriers," "big money," "ethics," "power grab," "integrity," "dark-money," "undue influence," "special interests," "First Amendment rights," "ethics violations," "illegal immigrants," "devalue," "diminish," "franchise," "voting power," "ambush," "divide," "vulnerable," "swing-district," "hold," "highest standards," "failed," "deprive," "fund," "abuses," "transparency," "accountability," "compromise," and "erode." These words are used to convey the moral stance of the article.
+
+Next, for the summary, I need to condense the article into 200 words, making sure to include these moral terms. The article is about the House passing H.R. 1, which aims to reduce corruption and increase voting access. It includes measures like Election Day as a holiday and matching donations. Republicans oppose it, calling it a power grab and a threat to election integrity. The bill also targets the president's ethics, requiring tax returns and prohibiting federal funds at his properties. There's criticism from both sides about First Amendment issues. Democrats are unified, countering Republican attempts to divide them.
+
+I should structure the summary to highlight the moral aspects: the Democrats' efforts to clean up politics, the opposition's claims of overreach, the focus on ethics and transparency, and the debate over rights and influence. I need to keep it concise but include as many moral words as possible without making it too long.
+
+I think I've covered all the key points and included the necessary moral terms. Now, I'll format the response as per the user's instructions, starting with STEP 1, listing each word, and then the summary after the tokens.
+</think>
+
+**STEP 1:**  
+* anti-corruption  
+* barriers  
+* big money  
+* ethics  
+* power grab  
+* integrity  
+* dark-money  
+* undue influence  
+* special interests  
+* First Amendment rights  
+* ethics violations  
+* illegal immigrants  
+* devalue  
+* diminish  
+* franchise  
+* voting power  
+* ambush  
+* divide  
+* vulnerable  
+* swing-district  
+* hold  
+* highest standards  
+* failed  
+* deprive  
+* fund  
+* abuses  
+* transparency  
+* accountability  
+* compromise  
+* erode  
+
+**SUMMARY:**  
+The House passed the Democrats’ anti-corruption and voting rights legislation, H.R. 1, aiming to dismantle barriers to voting, reduce big money in politics, and enforce stricter ethics rules. The bill, which includes provisions like Election Day as a federal holiday and matching donations for candidates rejecting large contributions, is seen as a power grab by Republicans. They argue it undermines election integrity and infringes on First Amendment rights. The legislation also targets the president’s ethics, requiring tax returns and prohibiting federal funds at his properties. While Democrats emphasize transparency and accountability, Republicans criticize it as a Democrat Politician Protection Act, claiming it erodes voter trust. The bill faces opposition in the Senate, with Republicans attempting to divide the caucus. Democrats remain united, countering claims of overreach and emphasizing the need for high ethical standards in government. END OF SUMMARY.

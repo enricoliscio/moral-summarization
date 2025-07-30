@@ -1,0 +1,34 @@
+Okay, I need to help the user by summarizing the given news article while preserving the moral framing. Let me start by understanding the task. The user wants me to first identify all the morally framed single words in the text. Then, I have to write a concise summary using those words where appropriate.
+
+First, I'll read through the article to spot words that carry moral connotations. Words like "impeachment," "trial," "Democrats," "Republicans," "fair," "sham," "witch hunt," "scam," "abuse of power," "obstructing," "pressure," "investigation," "justice," "fairness," "transparency," "credibility," "integrity," and "potential." These words seem to carry the moral weight the author uses.
+
+Next, I'll structure the summary. I need to include the main points: the Senate's debate over witness testimony, McConnell's stance referencing the Clinton trial, Schumer's arguments for witnesses and documents, the impeachment charges against Trump, Pelosi's strategy, Trump's tweets, and the blocked subpoenas. I'll make sure to use the morally framed words to maintain the author's perspective.
+
+I should keep the summary under 200 words and ensure it's clear and concise. I'll start by stating the main issue, then outline each side's arguments, mention the charges, Pelosi's move, Trump's reaction, and the subpoenas. I'll end with the implications of the trial's fairness and transparency.
+
+Let me check if I've included all key points and maintained the moral framing. Yes, the summary includes the necessary elements and uses the identified words to reflect the article's tone. I think this should meet the user's requirements effectively.
+</think>
+
+**STEP 1:**  
+* Impeachment  
+* Trial  
+* Democrats  
+* Republicans  
+* Fair  
+* Sham  
+* Witch hunt  
+* Scam  
+* Abuse of power  
+* Obstructing  
+* Pressure  
+* Investigation  
+* Justice  
+* Fairness  
+* Transparency  
+* Credibility  
+* Integrity  
+* Potential  
+
+**SUMMARY:**  
+The U.S. Senate is debating the structure of President Donald Trump's impeachment trial, with Republicans and Democrats clashing over witness testimony. Republican leader Mitch McConnell has not ruled out witnesses but referenced the 1999 impeachment trial of President Bill Clinton as a model, emphasizing "fairness." Democrats, led by Chuck Schumer, argue that a trial without documents and witnesses would appear "sham" or "show," undermining its credibility. Trump was impeached by the Democratic-controlled House for abusing power and obstructing Congress over his pressure on Ukraine to investigate former Vice President Joe Biden and his son Hunter. Schumer wants to subpoena key witnesses, but the White House has blocked their testimony. Trump accused Democrats of a "witch hunt" and "scam," urging a quick resolution. House Speaker Nancy Pelosi has delayed sending the articles of impeachment to the Senate to pressure Republicans into agreeing on trial rules. The trial's fairness, transparency, and integrity remain central to the debate.  
+**END OF SUMMARY.**

@@ -1,0 +1,40 @@
+Alright, so the user has given me a query where they want to summarize a news article while preserving the moral framing. They also provided a specific structure for the response, which includes two steps: first, identifying morally framed words, and second, writing a concise summary using those words.
+
+First, I need to understand the article's content. It's about the U.S. State Department's human rights report, criticizing Iran without evidence, while the U.S. itself is accused of human rights violations. The author is pointing out the hypocrisy of the U.S. claiming to advocate human rights while committing atrocities.
+
+Now, for the first step, I need to extract all single words that carry moral connotations. I'll go through the article and pick out words that have a clear positive or negative moral charge. Words like "repeated," "allegations," "baseless," "unpopular," "empty," "tarnish," "criticized," "killing," "innocent," "torture," "inhuman," "condoning," "atrocious," "ugliest," "crimes," "mistreatment," "appalling," "bloody," "hypocrisy," "harsh," "hegemonic," "belligerent," "empty rhetoric." These words all carry moral weight and are essential for preserving the article's framing.
+
+Next, I need to write a concise summary. It should be under 200 words, include as many of the identified words as possible, and maintain the original moral perspective. I'll start by stating the U.S. published a report accusing Iran without evidence. Then, mention Iran's popular support as shown by the rallies. Highlight the hypocrisy by pointing out U.S. actions in Afghanistan and Guantanamo, their mistreatment of minorities, and the example of the Cincinnati riot. Conclude by emphasizing the emptiness of their human rights claims.
+
+I should ensure the summary flows logically, connecting each point without losing the moral critique. I'll make sure each sentence incorporates the moral words to maintain the original tone. Also, I'll keep the language clear and direct to stay within the word limit.
+
+Finally, I'll format the response as per the user's instructions, separating the steps and ensuring the summary is properly tokenized. I need to double-check that all morally framed words are included and that the summary accurately reflects the article's critical stance towards the U.S. while supporting Iran's position.
+</think>
+
+**STEP 1:**  
+* Repeated  
+* Allegations  
+* Baseless  
+* Unpopular  
+* Empty  
+* Tarnish  
+* Criticized  
+* Killing  
+* Innocent  
+* Torture  
+* Inhuman  
+* Condoning  
+* Atrocious  
+* Ugliest  
+* Crimes  
+* Mistreatment  
+* Appalling  
+* Bloody  
+* Hypocrisy  
+* Harsh  
+* Hegemonic  
+* Belligerent  
+* Empty rhetoric  
+
+**SUMMARY:**  
+The U.S. State Department published its annual human rights report, repeating baseless allegations against Iran without evidence. The report claimed Iran's government is unpopular due to human rights violations, but millions of Iranians participated in rallies marking the Islamic Revolution's anniversary, disproving these claims. The U.S. accusations are seen as an attempt to tarnish Iran's image for its independent foreign policy. Meanwhile, the U.S. itself faces criticism for killing innocent civilians in Afghanistan and torturing prisoners at Guantanamo Bay. The report's timing highlights the hypocrisy of the U.S. claiming to advocate human rights while perpetrating atrocities, such as the mistreatment of ethnic minorities and inmates in its own prisons. The Cincinnati riot, sparked by police killing an unarmed Black youth, underscores the U.S.'s harsh treatment of its citizens. The article concludes that the U.S.'s human rights rhetoric is empty, as its actions reveal a belligerent and hegemonic policy toward other nations. END OF SUMMARY.

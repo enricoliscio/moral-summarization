@@ -1,0 +1,58 @@
+Okay, so I need to help the user with their query. They want me to summarize a news article while preserving the moral framing. The user has provided a detailed article about General Mattis rebuking Trump's handling of protests. 
+
+First, I should understand the task. They want me to identify all the morally framed words in the article and then write a concise summary that includes as many of these words as possible. The summary should be under 200 words and end with specific tokens.
+
+I'll start by reading through the article to spot words that carry moral weight. Words like "abuse," "divide," "unconstitutional," "respect," "sacrifice," "unite," "values," etc., seem to fit. I'll list these out as per the user's instruction.
+
+Next, for the summary, I need to condense the article, making sure to include the key points: Mattis's criticism, the specific incidents he refers to, his stance on military use, Trump's response, and the broader implications. I should keep the language clear and concise, ensuring that the moral framing is maintained through the inclusion of those identified words.
+
+I also need to remember to structure the summary properly, starting after the "SUMMARY:" token and ending with "END OF SUMMARY." I'll check the word count to ensure it's within the limit. 
+
+I should avoid any markdown and keep the response natural. It's important to capture Mattis's main arguments and the context of his criticism, including the rare nature of military leaders speaking out against a president. 
+
+Finally, I'll review the summary to make sure it flows well and accurately reflects the article's content while preserving the moral elements.
+</think>
+
+**STEP 1:**
+
+* Abuse  
+* Divide  
+* Unconstitutional  
+* Respect  
+* Sacrifice  
+* Unite  
+* Values  
+* Disdain  
+* Mockery  
+* Accountability  
+* Better angels  
+* Service  
+* Leadership  
+* Conscience  
+* Demand  
+* Justice  
+* Lawbreakers  
+* Vandalism  
+* Looting  
+* Wholesome  
+* Unifying  
+* Dispel  
+* Clearing  
+* Photo-op  
+* Battle space  
+* Dominate  
+* Misuse  
+* Constitution  
+* Rights  
+* Protesters  
+* Fellow citizens  
+*Enemy  
+*Battlespace  
+
+---
+
+**SUMMARY:**  
+
+Former Defense Secretary Jim Mattis sharply criticized President Trump for dividing the nation and militarizing the response to protests, calling it an "abuse of executive authority." Mattis condemned the use of troops to clear peaceful protesters for a "photo-op" near the White House, stating it disrespected the Constitution and the military's role. He accused Trump of pursuing a divisive strategy, unlike any president in his lifetime, and warned against treating American cities as a "battlespace" for the military to "dominate." Mattis emphasized that the military should only be used domestically when requested by state governors, not to suppress protests. He praised the protesters' demand for equal justice, calling it a "wholesome and unifying demand." Mattis also criticized Trump for failing to provide mature leadership, leading to the current national division. Trump responded by dismissing Mattis as "the world’s most overrated General." Mattis urged the nation to reject those who mock the Constitution and to focus on unity, invoking Abraham Lincoln's "better angels."  
+
+**END OF SUMMARY.**

@@ -1,0 +1,31 @@
+Alright, I need to help the user by summarizing a news article while preserving the moral framing. Let me start by understanding the query. The user wants me to first identify all the morally framed single words in the article. Then, write a summary that includes as many of those words as possible, keeping it under 200 words.
+
+First, I'll read through the article to get the gist. It's about Trump criticizing Kathy Griffin and Democrats on Twitter. Griffin had a controversial photo, Trump and Melania reacted strongly, she apologized, and CNN fired her. Trump also accused Democrats of a witch hunt regarding the Russia investigation.
+
+Now, for STEP 1, I need to find all the single words that carry moral connotations. Let me go through the article again, looking for words like "assailed," "castigated," "disturbing," "wrong," "sane," "apologize," "offends," "witch hunt," "excoriated," "false," "misleading," "collusion." These words are used to convey moral judgment or evaluation.
+
+Next, I'll write the summary. I need to include these words and keep it concise. I'll start by stating Trump's actions, mention Griffin's photo and the reactions, her apology, CNN's decision, and then move on to the Democrats and the witch hunt accusation. I'll make sure to use the identified words to maintain the moral framing.
+
+I should check the word count to ensure it's under 200. Let me draft it: Trump criticized Griffin and Democrats, her photo was disturbing, Melania questioned her sanity, Griffin apologized, CNN fired her. Trump accused Democrats of a witch hunt, Carter Page's testimony, false testimony by Comey and Brennan, and collusion claims. That should cover all points succinctly.
+
+I think that's a solid summary. I'll present it after the specified tokens as the user requested.
+</think>
+
+**STEP 1:**  
+* Assailed  
+* Castigated  
+* Disturbing  
+* Wrong  
+* Sane  
+* Apologize  
+* Offends  
+* Witch hunt  
+* Excoriated  
+* False  
+* Misleading  
+* Collusion  
+
+**SUMMARY:**  
+President Trump criticized Kathy Griffin and Democrats on Twitter, calling her video of a fake severed head of him "disturbing" and questioning her sanity. Griffin apologized, admitting she crossed a line and begging forgiveness. CNN fired her from its New Year’s Eve show. Trump also accused Democrats of a "witch hunt" over the Russia investigation, citing Carter Page’s testimony as evidence of false claims by James Comey and John Brennan. Page urged the committee to investigate collusion between Clinton campaign associates and Obama administration officials.  
+
+**END OF SUMMARY.**

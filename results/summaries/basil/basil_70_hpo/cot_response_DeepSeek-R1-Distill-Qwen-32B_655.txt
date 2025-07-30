@@ -1,0 +1,27 @@
+Alright, so the user has given me a query where they want me to act as a news summarizer and a moral expert. The task is to summarize a news article while preserving the moral framing. The user provided a specific structure: first, identify morally framed words, then write a summary.
+
+First, I need to understand what morally framed words are. These are words that carry a moral judgment or implication, like "angry," "stolen," or "unethical." I should go through the article and pick out each word that fits this category.
+
+Looking at the article, I see words like "unlikely journey," "capitalized," "angry," "stolen," "helped," "unethical," "wrongdoing," "unfair," and "unjust." Each of these carries a moral connotation, so I'll list them as per the user's instruction.
+
+Next, I need to summarize the article, making sure to include as many of these morally framed words as possible. The summary should be concise, around 200 words. I'll start by outlining the main events: Trump becoming president, his background, his nomination, the primary voters' anger, the stolen emails, Comey's decision, and the narrow victory.
+
+I need to ensure the summary flows well and includes the moral elements without making it too long. I'll structure it to highlight Trump's journey, his strategies, the external factors that helped him, and the ethical issues involved.
+
+Finally, I'll make sure the summary starts with "SUMMARY:" and ends with "END OF SUMMARY." I'll double-check the word count to stay within the limit. This approach should meet the user's requirements effectively.
+</think>
+
+**STEP 1:**  
+* unlikely  
+* capitalized  
+* angry  
+* stolen  
+* helped  
+* unethical  
+* wrongdoing  
+* unfair  
+* unjust  
+
+**SUMMARY:**  
+Donald Trump became the 45th U.S. President after an unlikely journey from a real estate developer and TV personality. He won the Republican nomination despite 16 other candidates, many more experienced, by capitalizing on a primary base angry at the GOP establishment for not opposing Barack Obama’s policies. In the general election, Trump trailed Hillary Clinton but was helped by stolen Democratic emails and FBI Director James Comey’s reopening of the email server probe. Trump narrowly won Wisconsin, Michigan, and Pennsylvania by 78,000 votes, despite Clinton’s expectations. His victory was aided by unethical actions, including the stolen emails and Comey’s decision, raising questions about fairness and justice in the election.  
+**END OF SUMMARY.**

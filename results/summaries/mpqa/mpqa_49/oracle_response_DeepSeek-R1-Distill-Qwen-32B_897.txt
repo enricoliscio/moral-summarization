@@ -1,0 +1,10 @@
+Alright, let me try to figure out how to approach this query. The user wants me to act as a news summarizer and a moral expert. They provided a news article and specified that I need to summarize it while preserving the moral framing the author used. The article is about President Cardoso's reaction to the US decision on greenhouse gases.
+
+First, I should read the article carefully. The key points are that the US decided to adopt measures to control greenhouse gases but didn't ratify the Kyoto Protocol. Cardoso considers this a positive step and hopes the domestic measures will have the same effect as the protocol.
+
+The user highlighted the morally framed words: positive, adopt, measures, adopted. I need to make sure these words are included in the summary. The summary should be concise, under 200 words, and start with "SUMMARY:" and end with "END OF SUMMARY."
+
+I should structure the summary to include Cardoso's positive view, the US's adoption of measures, and his hope for their effectiveness. I'll need to use the specified words to maintain the moral framing. Let me draft that, ensuring it's clear and within the word limit.
+</think>
+
+SUMMARY: President Fernando Henrique Cardoso has expressed a positive view of the United States' decision to adopt measures for controlling greenhouse gases, even though the US did not formally ratify the Kyoto Protocol. Cardoso emphasized that the United States is a significant party to the convention and hopes the domestically adopted measures will have the same impact as adhering to the Kyoto Protocol. END OF SUMMARY.

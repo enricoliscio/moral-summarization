@@ -1,0 +1,16 @@
+Alright, I need to help the user by summarizing the given news article while preserving the moral framing. The user specified that I should act as a news summarizer and a moral expert, so I have to ensure the summary reflects the ethical implications as presented in the original text.
+
+First, I'll read through the article to understand the main points. The article compares the US's climate change proposals with the EU's approach, particularly focusing on the Kyoto Protocol. The US plan is criticized for being insufficient because it allows for increased emissions, whereas the EU's plan is more stringent with a cap-and-trade system.
+
+I need to highlight the moral concerns here. The EU is concerned that the US's approach isn't enough to prevent dangerous climate change, which has ethical implications for global efforts. The US's plan is described as voluntary and not binding, which might not be as effective. The EU, on the other hand, is taking a more proactive and mandatory approach, which is seen as more responsible.
+
+I should structure the summary to contrast the two approaches, emphasizing the EU's criticism and their commitment to the Kyoto Protocol. It's important to mention the specific targets and the EU's optimism about other countries joining them. Also, the voluntary vs. mandatory aspect is a key moral point, so I'll make sure that's clear.
+
+I need to keep the summary under 200 words and ensure it starts with "SUMMARY:" and ends with "END OF SUMMARY." I'll make sure to include the main elements: the US's domestic focus, the EU's concerns about insufficient emission reductions, the comparison with the Kyoto Protocol, the EU's cap-and-trade system, and their determination to proceed with the Protocol.
+
+I should avoid technical jargon where possible to make it accessible but still accurate. Also, I need to maintain the moral framing, so terms like "voluntary nature" and "failure to meet obligations" should be included to reflect the ethical concerns.
+
+Let me draft the summary, making sure each point flows logically and covers all critical aspects without exceeding the word limit. I'll check the word count to ensure compliance and adjust as necessary.
+</think>
+
+SUMMARY: The article highlights the EU's concerns over the US's climate change proposals, which are criticized for being insufficient to reduce emissions effectively. Unlike the Kyoto Protocol, which requires industrialized countries to achieve absolute emission reductions, the US plan focuses on intensity targets, allowing for increased absolute emissions. The US's greenhouse gas emissions are projected to rise by 33-39% above 1990 levels by 2012, despite some improvements in emission intensity relative to GDP. The EU emphasizes the need for mandatory measures, such as cap-and-trade systems, to ensure environmental effectiveness and flexibility. While the EU acknowledges the Bush administration's efforts as a potential first step, it stresses the need for mandatory monitoring and reporting to assess the plan's comparability to Kyoto Protocol efforts. The EU remains committed to ratifying the Kyoto Protocol by June 2002 and hopes other major players, like Japan and Russia, will join its efforts. The EU also expresses willingness to continue dialogue with the US on climate policy. END OF SUMMARY.

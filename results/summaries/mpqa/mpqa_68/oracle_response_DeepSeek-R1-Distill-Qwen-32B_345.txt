@@ -1,0 +1,16 @@
+Alright, so the user has given me a query where I need to act as a news summarizer and a moral expert. They provided a news article about Japan and the U.S. differing on global warming issues, specifically regarding the Kyoto Protocol. The task is to summarize the article while preserving the moral framing words the author used: economy, environment, ineffective, help, and economic.
+
+First, I need to understand the article thoroughly. It talks about the differing stances of Japan and the U.S. on the Kyoto Protocol. Bush rejects it, pushing for an alternative plan with voluntary limits, while Koizumi supports Kyoto but acknowledges the U.S.'s decision. They agreed to cooperate on new technologies that benefit both economy and environment.
+
+Next, I have to identify the morally framed words. The author used economy, environment, ineffective, help, and economic. I need to make sure these words are included in the summary. 
+
+I should start the summary by highlighting the disagreement between the two leaders. Mention Bush's rejection of Kyoto and his alternative plan. Then, Koizumi's support for Kyoto and his hope for U.S. efforts. It's important to note that Bush's plan is seen as ineffective by environmentalists, which ties into the moral framing.
+
+I also need to include the cooperation part, emphasizing how new technologies can help both the economy and the environment. This shows the positive moral aspect of their agreement despite the initial disagreement.
+
+I should keep the summary concise, under 200 words, and make sure it flows logically. I'll structure it by first stating the disagreement, then each leader's stance, the criticism of Bush's plan, and finally their agreement to cooperate on technologies.
+
+Now, putting it all together, ensuring the moral words are included and the summary is clear and within the word limit. I need to make sure the summary accurately reflects the article's content while highlighting the moral aspects as specified.
+</think>
+
+SUMMARY: Japan and the U.S. differ over global warming strategies, with Prime Minister Junichiro Koizumi supporting the Kyoto Protocol and President George W. Bush rejecting it. Bush advocates for an alternative plan with voluntary limits on greenhouse gas emissions, while Koizumi calls it a "constructive proposal" but urges more U.S. efforts. Bush argues the Kyoto Protocol would harm the economy, while environmentalists criticize his plan as "ineffective" for addressing global warming. Koizumi emphasizes that both the economy and environment can be improved together. Despite their differences, the leaders agreed to cooperate on developing new technologies to tackle global warming, which they believe will "help" both environmental and economic goals. END OF SUMMARY.

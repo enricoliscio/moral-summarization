@@ -1,0 +1,15 @@
+<think>
+Alright, I need to help the user by summarizing the provided news article while preserving the moral framing. Let me start by reading the article carefully.
+
+The article talks about China criticizing the US human rights report. China accuses the US of ignoring its own human rights issues while criticizing others. They mention police abuses, poverty, racial discrimination, and lack of personal safety in the US. Also, China points out that the US is infringing on other nations' sovereignty through military actions and stationing forces abroad. Additionally, the US withdrew from the Kyoto Protocol, which China criticizes.
+
+The user wants the summary to include as many of the morally framed words as possible. The words listed are: turning, abuses, poverty, discrimination, lack, infringing, operations, stationing, withdrawing, distorted, violations.
+
+I need to make sure these words are included where appropriate. The summary should be concise, no more than 200 words, and start with "SUMMARY:" and end with "END OF SUMMARY."
+
+I should structure the summary to first mention China's response to the US report, then list the accusations against the US, and finally note that China releases this report annually in response to the US report. I'll make sure to use the moral terms to maintain the framing.
+
+Let me draft it step by step, ensuring all key points are covered and the moral language is preserved.
+</think>
+
+SUMMARY: China has criticized the US human rights report, accusing the US of turning a blind eye to domestic abuses while condemning others. The Chinese report, published by the Information Office of the State Council, highlighted police abuses, poverty, racial discrimination, and lack of personal safety in the US. It also accused the US of wantonly infringing on the sovereignty of other nations through military operations and stationing forces overseas. Additionally, China condemned the US for withdrawing from the Kyoto Protocol. The report criticized the US for distorting human rights conditions in other countries, including China, while ignoring its own violations. This annual response from China comes in reaction to the US State Department's report, which typically accuses China of widespread human rights abuses. END OF SUMMARY.

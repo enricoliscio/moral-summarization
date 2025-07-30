@@ -1,0 +1,57 @@
+Okay, so the user has given me a query where I need to act as a news summarizer and a moral expert. They want me to first identify all the morally framed single words from the provided news article, and then write a concise summary preserving those moral terms. 
+
+First, I need to understand what morally framed words are. These are words that carry a strong moral connotation, such as 'violence', 'injustice', 'racism', etc. I'll go through the article and pick out each word that fits this category.
+
+Next, I have to summarize the article. The summary should be under 200 words and include as many of those morally framed words as possible. I'll need to capture the main events: the protests, the arrests, the violence, the police response, the context of past events like Ferguson, and the underlying issues like institutional racism.
+
+I should ensure that the summary flows well and maintains the moral perspective presented in the original text. It's important to highlight the tension between the majority of peaceful protesters and the violent minority, as well as the systemic issues that led to the protests.
+
+I also need to remember the structure: first list the morally framed words under STEP 1, each on a new line with an asterisk. Then, provide the summary after the SUMMARY token, ending with END OF SUMMARY.
+
+I should be careful to keep the summary concise but comprehensive, making sure all key points are included without exceeding the word limit. Let me start by reading through the article again to identify all the relevant words and then structure the summary accordingly.
+</think>
+
+**STEP 1:**  
+* violence  
+* acquitted  
+* peaceful  
+* disorder  
+* agitators  
+* control  
+* protect  
+* acquittal  
+* first-degree murder  
+* shooting death  
+* riots  
+* memories  
+* confiscated  
+* weapons  
+* handguns  
+* chemical  
+* decontaminated  
+* peaceful protest  
+* ceramic  
+*chunks  
+* storefront windows  
+* largest  
+* riot gear  
+* hands in the air  
+* feel safe  
+* photographers  
+* Facebook  
+* handcuffs  
+* released  
+* bottles  
+* injured  
+* clashes  
+* institutional racism  
+* cleared  
+* criminal wrongdoing  
+* unarmed black men  
+* drug deal  
+* planted  
+* weapon  
+
+**SUMMARY:**  
+Violence erupted in St. Louis as protests over the acquittal of a white police officer, Jason Stockley, who shot and killed a black man, Anthony Lamar Smith, in 2011. Over 80 people were arrested after protests turned violent for a third night, with demonstrators defying police orders and engaging in acts of disorder, including smashing windows and blocking highways. Police used riot gear, pepper spray, and mass arrests to regain control. Mayor Lyda Krewson blamed the violence on a "group of agitators," while police Commissioner Lawrence O’Toole emphasized their authority to "protect" the city. The protests, which began after Stockley’s acquittal, mirrored the 2014 Ferguson riots following the killing of Michael Brown. The violence highlighted tensions over institutional racism and police accountability. Protesters clashed with police, and weapons were confiscated. The summary underscores the moral framing of systemic injustice, police violence, and the struggle for racial equality.  
+**END OF SUMMARY.**

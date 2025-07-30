@@ -1,0 +1,14 @@
+Okay, so the user wants me to summarize a news article. They provided the article, which is about former Mexican President Vicente Fox's comments on Trump's border wall. I need to make sure I capture the main points without going over 200 words. 
+
+First, I should identify the key elements: who is speaking, their stance on the wall, and any relevant context. Fox is clear that Mexico won't pay, and he criticizes Trump's proposal. I should note Fox's quote about not paying for the wall. 
+
+Then, mention Trump's stance and his estimation of the cost. It's important to include that Fox doesn't think Trump will win because he's seen as crazy. Also, the part about Trump possibly winning among Hispanics in Nevada, but Fox is skeptical about that. 
+
+Felipe Calderon's comments are also relevant; he adds another voice against the wall, calling it useless and stupid. I need to include that to show broader Mexican opposition.
+
+I should structure the summary to flow logically: start with Fox's refusal, mention Trump's claims, Fox's dismissal of Trump's chances, Calderon's comments, and the overall Mexican stance. Keep it concise, using quotes where necessary but not too many details. 
+
+Make sure the summary is under 200 words and ends with the required tokens. Also, avoid any markdown as per the instructions. I think that's all. Let me put it together.
+</think>
+
+SUMMARY: Former Mexican President Vicente Fox has rejected Donald Trump's proposal for Mexico to pay for a border wall, stating, "I’m not going to pay for that fucking wall." Fox, a taxpayer, believes Trump should fund his own idea, dismissing the Republican candidate's claims. Trump, who has made controversial remarks about Latinos, insists Mexico will finance the $8 billion wall if he becomes president. Fox, however, doubts Trump's chances of winning, calling him "crazy" and dismissing the notion that Hispanics supported Trump in the Nevada caucus. Fox referred to Trump's supporters as "followers of a false prophet." Former Mexican President Felipe Calderon also opposes the wall, calling it "stupid" and "completely useless," and emphasizing that Mexico will not contribute financially. Both leaders highlight the futility of the wall and criticize Trump's immigration policies. END OF SUMMARY.

@@ -1,0 +1,14 @@
+Alright, so I've got this query where the user wants me to summarize a news article while preserving the moral framing. Let me break this down.
+
+First, I need to understand the article. It's about Republicans on the House Intelligence Committee demanding Rep. Adam Schiff step down as chairman. They're upset because Schiff has been claiming there's evidence of collusion between Trump and Russia, despite Mueller's report finding no such evidence. The article mentions several morally charged words like collusion, lying, leaking, etc., which I need to include in the summary.
+
+The user specified that I should preserve as many of these moral words as possible. So, I have to make sure not to lose those in the summary. I'll need to identify the key points: the demand for Schiff's resignation, the reasons given (his claims vs. Mueller's findings), the reactions from Trump and others, Schiff's defense, and the Democratic response.
+
+I should structure the summary to cover these points concisely, using the morally framed words. I'll start by stating the Republicans' demand, then explain why they're upset, mention Trump's tweet, the committee's letter, Schiff's defense, and Pelosi's support.
+
+I also need to keep it under 200 words. Let me check the word count as I draft. I'll make sure each sentence is clear and includes the necessary moral terms without being redundant.
+
+Finally, I'll end with the required tokens. I think this approach covers all the user's requirements effectively.
+</think>
+
+SUMMARY: Every Republican on the House Intelligence Committee has demanded Rep. Adam Schiff step down as chairman, accusing him of lying and leaking claims of Trump-Russia collusion, despite Special Counsel Robert Mueller's probe finding no evidence of such collusion. In a letter to Schiff, Republicans called his actions "incompatible" with his duties and urged his resignation, stating they have "no faith" in his ability to fulfill his constitutional responsibilities. President Trump also criticized Schiff, tweeting that he should be forced to resign. Sen. Lindsey Graham compared Schiff to Oliver Stone, accusing him of making "outrageous" and "conspiratorial" claims. Schiff defended his position, citing Russian hacking, attempts to undermine Hillary Clinton, and meetings between Trump associates and Russians. He argued that Mueller's report did not address whether Trump or his associates were compromised by foreign powers. Meanwhile, House Speaker Nancy Pelosi defended Schiff, calling the calls for his removal "absolutely ridiculous" and emphasizing the need for the full Mueller report. Democrats remain focused on securing the report and conducting legitimate oversight, as required by the Constitution. END OF SUMMARY.

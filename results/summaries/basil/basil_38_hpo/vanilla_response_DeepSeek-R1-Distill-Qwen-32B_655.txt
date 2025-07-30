@@ -1,0 +1,14 @@
+Alright, so the user has provided a news article and wants a summary of it. They've specified that the summary should be after a "SUMMARY:" token and end with "END OF SUMMARY." It also needs to be no longer than 200 words. 
+
+First, I need to read through the article to understand the main points. The article is about the U.S. Department of the Treasury announcing that same-sex couples' marriages will be recognized for tax purposes regardless of the state they live in. This decision follows the overturning of DOMA by the Supreme Court. 
+
+I should identify the key details: who made the announcement (Treasury Secretary Jacob Lew), what the decision entails (recognizing same-sex marriages based on where they were celebrated, not where they reside), and the implications (access to federal benefits and protections). 
+
+Also, the article mentions Edie Windsor's case, which was a significant factor in challenging DOMA, so that should be included. Additionally, the new policy affects various tax areas and introduces the marriage penalty for some couples. 
+
+I need to make sure the summary is concise, covering all these points without exceeding 200 words. I should structure it to start with the announcement, explain the change from DOMA, mention the impact on couples, and include the significance of Edie Windsor's case. 
+
+Finally, I'll ensure the summary flows logically, highlighting the progress for the LGBT community and the uniform policy implemented by the IRS.
+</think>
+
+SUMMARY: The U.S. Department of the Treasury announced that same-sex couples' marriages will be recognized for federal tax purposes, regardless of their state of residence. This decision follows the Supreme Court's overturning of the Defense of Marriage Act (DOMA). Previously, the IRS did not recognize same-sex marriages due to DOMA, but now, the state where the marriage was celebrated will determine federal tax status, even if the couple resides in a state that doesn't recognize same-sex marriage. Treasury Secretary Jacob Lew stated that this policy provides clarity and equal access to federal tax benefits, responsibilities, and protections for legally married same-sex couples nationwide. The new policy applies to all federal tax provisions involving marriage, including filing status, benefits, and taxes, and also subjects same-sex couples to the marriage penalty. Edie Windsor, whose case helped overturn DOMA, praised the decision as the remedy she sought. This ruling is part of a broader effort by the Obama administration to extend federal benefits to same-sex couples, following the DOMA ruling. END OF SUMMARY.

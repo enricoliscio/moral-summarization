@@ -1,0 +1,40 @@
+Alright, let me try to figure out how to approach this query. The user has provided a news article about Chris Christie announcing his presidential run and wants me to act as a news summarizer assistant and a moral expert. They have specific instructions: first, identify all the morally framed single words in the article, then write a summary preserving those moral frames.
+
+First, I need to understand what morally framed words are. These are words that carry a moral judgment, either positive or negative. They often relate to concepts like fairness, honesty, courage, etc. So, I'll go through the article and pick out words that fit this category.
+
+Looking at the article, I see words like "fight," "productive," "anxiety," "fail," "compromise," "courage," "dirty," "bullying," "catastrophic," "visible," "leadership," "care," "brash," "confrontational," "lead," "reversing," "criticism," and "pack." Each of these carries some moral weight, either in a positive or negative sense.
+
+Next, I need to summarize the article while keeping as many of these moral words as possible. The summary should be concise, under 200 words, and capture the key points about Christie's announcement, his criticisms, his background, and his challenges.
+
+I should start by mentioning his announcement, his criticism of Congress, his reputation, the Bridgegate scandal, his leadership during Hurricane Sandy, his reversal on Common Core, and his standing in the polls. I need to weave in the moral words naturally without forcing them.
+
+I also need to structure this properly, starting with the announcement, then his criticisms, his background, the scandal, his leadership, his policy reversal, and finally his standing in the race. Making sure each part includes the relevant moral terms.
+
+I should avoid any markdown and keep it in plain text, as per the user's instructions. Also, the summary should be clear and flow logically, ensuring that all key points are covered without being too verbose.
+
+Finally, I'll review the summary to make sure it's under 200 words and that all the moral words are appropriately included. I'll check for clarity and coherence to ensure the summary effectively conveys Christie's announcement and the associated moral framing.
+</think>
+
+**STEP 1:**  
+* Fight  
+* productive  
+* anxiety  
+* fail  
+* compromise  
+* courage  
+* dirty  
+* bullying  
+* catastrophic  
+* visible  
+* leadership  
+* care  
+* brash  
+* confrontational  
+* lead  
+* reversing  
+* criticism  
+* pack  
+
+**SUMMARY:**  
+Chris Christie, New Jersey's Republican governor, announced his candidacy for the 2016 presidency, vowing to "fight for the people of the United States." He criticized Washington lawmakers, including President Obama, for a lack of productivity, arguing that both parties have failed the country. Christie emphasized the need for compromise and courage, calling out the political climate's aversion to collaboration. Known for his blunt style, Christie has faced criticism for his reputation as a "bully," notably in the George Washington Bridge "Bridgegate" scandal. Despite this, his leadership during Hurricane Sandy boosted his popularity. Christie, who initially supported Common Core but later reversed his stance, is now in the middle of the GOP pack. His brash and confrontational approach has divided opinion, but he remains committed to leading.  
+**END OF SUMMARY.**

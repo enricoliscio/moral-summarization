@@ -1,0 +1,12 @@
+Alright, I need to help the user by summarizing the given news article. Let me read through the query again to make sure I understand the requirements.
+
+The user is asking for a news summary. They provided an article where President Trump criticized social media companies for discrimination against Republicans and conservatives. He mentions that some voices are being destroyed and suggests letting everyone participate, both good and bad. He also talks about censorship and fake news, specifically mentioning CNN and MSNBC. The article also notes that Trump didn't reference any specific person but mentions that companies have banned Alex Jones recently.
+
+The summary needs to be concise, under 200 words, and should start with "SUMMARY:" and end with "END OF SUMMARY." I should capture the main points: Trump's criticism, his solution, mention of censorship, fake news, and the context about Alex Jones.
+
+I'll structure it by first stating Trump's main criticism, then his solution, followed by his comments on censorship and fake news. Finally, I'll include the note about Alex Jones without naming him specifically, as the article points out that he wasn't referenced but the context is relevant.
+
+I need to make sure the summary is clear and sticks to the key points without going into too much detail. Also, keeping the language straightforward and within the word limit is important.
+</think>
+
+SUMMARY: President Donald Trump criticized social media companies on Twitter, accusing them of "totally discriminating against Republican/Conservative voices." He argued that too many voices, both good and bad, are being suppressed and called for everyone to participate without censorship. Trump claimed that platforms are closing down opinions on the right while ignoring others, calling censorship "very dangerous" and "impossible to police." He also criticized "fake news" outlets like CNN and MSNBC, admitting he watches them but with skepticism. While he did not reference any specific individuals, the tech companies have recently banned conspiracy theorist Alex Jones and his website Infowars. Trump's comments reflect his ongoing criticism of social media's content moderation practices. END OF SUMMARY.

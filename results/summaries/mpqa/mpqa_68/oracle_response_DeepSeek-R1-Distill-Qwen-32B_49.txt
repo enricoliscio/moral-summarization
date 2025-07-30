@@ -1,0 +1,16 @@
+Okay, so the user wants me to summarize a news article while preserving the moral framing. The article is about Japan and the U.S. differing on the Kyoto Protocol. The author used specific morally framed words like economy, environment, ineffective, help, and economic. I need to make sure these words are included in the summary.
+
+First, I'll read the article carefully. The main points are that Koizumi supports the Kyoto Protocol, while Bush doesn't. Bush prefers voluntary limits, which environmentalists criticize as ineffective. The leaders agreed to cooperate on technology development that benefits both economy and environment.
+
+I need to keep the summary under 200 words. I'll start by stating the disagreement, mention Bush's rejection and his alternative plan. Then, note Koizumi's support for Kyoto and his hope for U.S. efforts. Highlight the environmentalists' criticism, and end with their agreement to cooperate on technology.
+
+I should make sure to include all the morally framed words. Economy and environment are central, so I'll use them. Ineffective describes the U.S. plan. Help is used when talking about the benefits of technology. Economic is mentioned in the context of Bush's concern.
+
+Putting it all together, I'll structure the summary to flow logically, starting with the disagreement, each leader's stance, the criticism, and the cooperation plan. I'll ensure each morally framed word is naturally integrated without forcing them in.
+
+Let me check the word count. I think it's around 190 words, so that's good. I'll make sure the summary captures the essence and the moral framing as per the user's request.
+</think>
+
+SUMMARY:  
+Japan and the U.S. differ on global warming strategies, with Prime Minister Koizumi supporting the Kyoto Protocol and President Bush rejecting it. Bush advocates for voluntary limits on greenhouse gas emissions, while Koizumi calls the U.S. plan "constructive" but urges more effort. Koizumi emphasizes that both the economy and environment can improve together, while Bush fears the Kyoto Protocol would harm U.S. economic growth. Environmentalists criticize the U.S. proposal as ineffective, warning emissions will rise. Despite their differences, both leaders agreed to cooperate on developing new technologies to address global warming, benefiting both economic development and environmental protection.  
+END OF SUMMARY.

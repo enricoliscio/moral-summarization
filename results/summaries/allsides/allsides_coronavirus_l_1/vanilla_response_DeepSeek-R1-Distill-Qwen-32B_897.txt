@@ -1,0 +1,16 @@
+Alright, so the user has given me a query where I need to act as a news summarizer. The task is to summarize a provided article. The user has specified that the summary should be returned after a "SUMMARY:" token and end with "END OF SUMMARY." It also needs to be no longer than 200 words.
+
+First, I'll read through the article to understand its main points. The article discusses how Donald Trump's actions, like trying to pull the U.S. out of the WHO, have made the country more vulnerable to another pandemic. It also talks about how the U.S. mishandled its COVID-19 response, stockpiling drugs, and withdrawing from global alliances, which could hinder future warnings or support.
+
+Next, the article presents an optimistic scenario where a new virus is detected early due to global alertness. It mentions that the same tests used for COVID-19 could be adapted for new pathogens, and existing flu vaccines might be tweaked. Countries like South Korea, New Zealand, and Germany are highlighted as better prepared, while the U.S., Brazil, Russia, and India are struggling.
+
+I need to condense this into a concise summary. I'll focus on Trump's actions, the impact on international standing, the potential for another pandemic, the optimistic scenario, the possibility of adapting tests and vaccines, and the contrast between prepared and struggling countries.
+
+I should ensure the summary is under 200 words, so I'll need to be brief but comprehensive. I'll start by stating Trump's failure and the U.S.'s vulnerability, mention the withdrawal from the WHO, the effects on international cooperation, and the consequences of mishandling. Then, I'll touch on the optimistic scenario, the adaptability of tests and vaccines, and the contrast between countries. Finally, I'll conclude with the strained resources in struggling nations.
+
+I'll make sure to use clear and concise language, avoiding any unnecessary details. I'll also structure it logically, moving from the problem to the potential solutions and the current state of different countries.
+
+Now, putting it all together, I'll draft the summary, ensuring it starts with "SUMMARY:" and ends with "END OF SUMMARY." I'll check the word count to stay within the limit.
+</think>
+
+SUMMARY: Donald Trump's mishandling of the COVID-19 pandemic has left the U.S. more vulnerable to future crises. His attempt to withdraw from the World Health Organization (WHO) has weakened international cooperation, harming the WHO at a critical time and further damaging America's global standing. The U.S., which has mishandled its own outbreak, stockpiled drugs, and withdrawn from global alliances, is less likely to receive warnings or support in a new crisis. A second virus could spread undetected in countries struggling with COVID-19, like the U.S., Brazil, Russia, and India, where resources are strained. However, a new pathogen might be contained if detected early in an alert world. Tests for COVID-19 could be adapted to detect other viruses, and existing flu vaccines could be tweaked to protect against a new strain. Countries like South Korea, New Zealand, and Germany, which have controlled COVID-19, are better prepared, while the U.S. and others face greater risks due to exhausted resources. END OF SUMMARY.

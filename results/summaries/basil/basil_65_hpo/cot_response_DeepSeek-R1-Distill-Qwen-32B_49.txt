@@ -1,0 +1,36 @@
+Okay, so I need to help the user by summarizing the given news article while preserving the moral framing. The user has specified two main tasks: first, identifying all the morally framed single words, and second, writing a concise summary that includes as many of those words as possible.
+
+Starting with the first task, I need to go through the article and pick out words that carry a moral connotation. The article is about Michael Bloomberg's speech at the Democratic National Convention criticizing Donald Trump and endorsing Hillary Clinton. I'll read through each sentence and note words that have a positive or negative moral charge.
+
+Looking at the article, the first morally framed word I see is "sane," used to describe Hillary Clinton. Then "competent" is another positive term. Bloomberg calls Trump a "dangerous demagogue," so "dangerous" and "demagogue" are negative. "Bad" is used to describe Trump as a businessman. "Disastrous" is another strong negative term. "Con" is used to describe Trump, implying deceit. "Collapse" and "missteps" are negative in the context of Trump's career. "Hypocrisy" is a strong negative term. "Refuses" is used in the context of Trump not releasing tax returns, which is framed negatively. "Defensive" describes Trump's reaction when his success is questioned. "Self-assurance" is positive but in contrast to Trump's negative traits. "Disaster" is used again to describe Trump's business plan. "Damage" is negative in the context of Trump's presidency effects. "Unsafe" is the negative outcome predicted.
+
+Now, moving on to the summary. I need to condense the article into a 200-word summary, making sure to include as many of these morally framed words as possible. The summary should capture Bloomberg's main points: endorsing Clinton, criticizing Trump's business practices, personal character, and the potential negative impact of a Trump presidency.
+
+I'll start by stating Bloomberg's endorsement and his reasoning. Then, I'll mention his criticism of Trump as a dangerous demagogue and bad businessman. I'll include the negative aspects of Trump's career, such as bankruptcies and lawsuits. Highlighting the contrast between Bloomberg's business success without a large inheritance versus Trump's inheritance and lack of transparency. Mentioning the hypocrisy and the negative predictions about Trump's presidency on various aspects of American life.
+
+I need to ensure the summary flows well and includes all the key moral points without being too verbose. I'll check the word count to make sure it's under 200 words. Also, I'll make sure to preserve the moral framing by using the identified words where appropriate.
+
+Finally, I'll structure the summary to start with Bloomberg's endorsement, outline his criticisms of Trump, contrast their backgrounds, and conclude with the potential negative impacts of a Trump presidency. This should effectively convey the moral stance taken in the original article.
+</think>
+
+**STEP 1:**  
+* sane  
+* competent  
+* dangerous  
+* demagogue  
+* bad  
+* disastrous  
+* con  
+* collapses  
+* missteps  
+* hypocracy  
+* refuses  
+* defensive  
+* self-assurance  
+* disaster  
+* damage  
+* unsafe  
+
+**SUMMARY:**  
+Michael Bloomberg, a former New York mayor and Democratic endorser of Hillary Clinton, criticized Donald Trump at the Democratic National Convention, calling him a "dangerous demagogue" and a "bad businessman." Bloomberg accused Trump of a career marked by "bankruptcies, thousands of lawsuits, angry stockholders, and disillusioned customers," questioning Trump's claim to run the country like his business. He mocked Trump's inheritance, lack of transparency about his wealth, and defensive reactions to criticism. Bloomberg, who built his business without a large inheritance, contrasted his achievements with Trump's record, warning that Trump's presidency would harm the economy, retirement savings, and national influence. He emphasized that Americans should seek a leader with a proven track record, not someone with a history of "hypocrisy" and "disasters." Bloomberg's speech aimed to highlight Trump's unfitness for office, urging voters to choose a "sane, competent" leader instead.  
+**END OF SUMMARY.**

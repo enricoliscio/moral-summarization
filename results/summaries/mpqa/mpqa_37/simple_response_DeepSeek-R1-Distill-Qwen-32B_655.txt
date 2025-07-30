@@ -1,0 +1,13 @@
+<think>
+Alright, so I need to help the user by summarizing a news article while preserving the moral framing. Let me start by reading the article carefully.
+
+The article is about Pakistan rejecting a US human rights report. The report was called "factually inaccurate and unwarranted" by Pakistan's Foreign Office. They argue that the US is judging them unfairly. 
+
+I should note the main points: Pakistan's rejection, the reasons given, and the specific initiatives they've taken. They mention several reforms like the Juvenile Justice System, women's commission, police reforms, child labor laws, citizenship amendments, and international conventions they've ratified.
+
+I need to make sure the summary highlights Pakistan's stance against the US report, their list of achievements, and their call for cooperation instead of judgment. Also, I must keep it under 200 words and use the specified tokens.
+
+Let me structure it: start with Pakistan rejecting the report, list their initiatives, quote their criticism, and conclude with their call for international cooperation. Keep it concise and make sure the moral framing is clear—that Pakistan feels judged unfairly despite their efforts.
+</think>
+
+SUMMARY: Pakistan has rejected the US State Department's human rights report, calling it "factually inaccurate and unwarranted." The Foreign Office criticized the report for failing to acknowledge Pakistan's efforts to promote and protect human rights, including reforms such as the Juvenile Justice System Ordinance, police and jail reforms, and measures to combat child labor. Pakistan also highlighted its ratification of international conventions on human rights and its amendments to the Citizenship Act to allow women to pass nationality to their children. The government emphasized its achievements in human rights, including the introduction of joint electorates for minority communities, and condemned the report's characterization of its human rights record as "poor." Pakistan urged a cooperative approach to addressing human rights challenges, rejecting the notion of one state judging another. END OF SUMMARY.

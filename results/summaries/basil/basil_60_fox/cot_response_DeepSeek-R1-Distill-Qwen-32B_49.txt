@@ -1,0 +1,32 @@
+Okay, so the user has given me a query where I need to summarize a news article while preserving the moral framing. They've provided a specific structure with two steps: first identifying morally framed words, then writing the summary. 
+
+First, I need to understand what morally framed words are. These are words that carry a moral judgment or connotation, like "egotistical," "stupid," or "crazy." I'll go through the article and pick out each word that fits this criterion.
+
+Next, I have to write a concise summary using as many of these words as possible without exceeding 200 words. I'll need to make sure the summary captures the main points: Fox's refusal to pay for the wall, his criticism of Trump, the Hispanic vote, and the responses from other political figures like Biden and Calderón.
+
+I should also ensure that the summary flows well and maintains the moral tone from the original article. It's important to include all key elements without making the summary too lengthy. I'll structure the summary to highlight Fox's strong statements, the context of the Nevada caucus, and the broader political reactions to Trump's wall proposal.
+
+Finally, I'll review the summary to make sure it meets the word limit and effectively conveys the moral framing as per the user's instructions.
+</think>
+
+**STEP 1:**
+
+* loud  
+* clear  
+* f***ing  
+* crazy  
+* false prophet  
+* stupid  
+* useless  
+* egocentric  
+* dangerous  
+* damaging  
+* ill-advised  
+
+---
+
+**SUMMARY:**  
+
+Former Mexican President Vicente Fox firmly rejected Donald Trump's proposal for Mexico to pay for a U.S.-Mexico border wall, calling it "f***ing" and stating, "I’m not going to pay for that." Fox criticized Trump, labeling him a "false prophet" and warned Hispanics in the U.S. to "open their eyes," as Trump would lead them astray. He accused Trump of being "egocentric" and not aligned with any political party. Fox's comments echoed his successor, Felipe Calderón, who also vowed Mexico would not pay for the "stupid" wall. Trump, however, remained defiant, stating the wall would "just got taller" after Calderón's refusal. Meanwhile, U.S. Vice President Joe Biden condemned Trump's "dangerous" rhetoric during a visit to Mexico, emphasizing it did not represent most Americans. Fox's remarks came amid Trump's strong showing in the Nevada caucus, where he won 44% of the Hispanic vote, sparking concern over Trump's appeal to this community.  
+
+**END OF SUMMARY.**

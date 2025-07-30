@@ -1,0 +1,33 @@
+Alright, I need to help the user by summarizing the news article while preserving the moral framing. Let me start by understanding the query.
+
+First, the user wants me to act as a news summarizer and a moral expert. My task is to summarize the given article, making sure to keep the moral elements intact. The article is about the Vietnamese Minister's speech at the ASEM Environment Ministers' Meeting in Beijing.
+
+The user has specified two steps: identifying morally framed words and then writing a summary. They want the summary to include as many of these moral terms as possible, keeping it under 200 words.
+
+Okay, so for STEP 1, I need to go through the article and pick out words that carry moral connotations. Let's see, the article mentions "values," "protection," "pollution," "degradation," "bio-diversity," "improvement," "mobilized," "resources," "international cooperation," "importance," "cooperation," "dialogue," "statement," "implementation," "cooperation," and "dialogue." These words seem to carry a sense of responsibility, importance, and collective action, which are moral in nature.
+
+Now, for the summary. I need to condense the article, making sure to include these moral words. I should start by stating the minister's commitment, then mention the efforts and cooperation, the forum proposal, and the outcome of the meeting. I'll ensure the summary flows logically and stays within the word limit.
+
+Let me check the word count. The summary is concise, around 150 words, so that's good. I've included all the key points and the moral framing words. I think this meets the user's requirements. Time to put it all together.
+</think>
+
+**STEP 1:**  
+* Values  
+* Protection  
+* Pollution  
+* Degradation  
+* Bio-diversity  
+* Improvement  
+* Mobilized  
+* Resources  
+* International cooperation  
+* Importance  
+* Cooperation  
+* Dialogue  
+* Statement  
+* Implementation  
+* Cooperation  
+* Dialogue  
+
+**SUMMARY:**  
+Vietnamese Minister Chu Tuan Nha emphasized Vietnam's commitment to environmental protection, including preventing pollution, degradation, and safeguarding biodiversity. He highlighted the government's efforts to mobilize resources and strengthen international cooperation to address environmental challenges. The minister stressed the importance of bilateral cooperation between Asia and Europe, calling for a biennial cooperation forum under the Asia-Europe Environment Cooperation Program to facilitate policy dialogue and expert exchange. The ASEM Environment Ministers' Meeting concluded in Beijing with a presidium statement urging early Kyoto Protocol implementation and cooperation among ASEM members. END OF SUMMARY.

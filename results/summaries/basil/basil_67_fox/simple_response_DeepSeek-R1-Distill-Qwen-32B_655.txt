@@ -1,0 +1,12 @@
+Okay, I need to help the user by summarizing the given news article while preserving the moral framing. Let me read through the article carefully.
+
+The article is about a Twitter war between Donald Trump and former Mexican President Vicente Fox. Fox criticizes Trump, calling him unwelcome in Mexico and criticizing President Pena Nieto for inviting Trump. Trump responds by bringing up Fox's past comments, including the "f bomb" incident about the wall. Fox then demands an apology and accuses Trump of lying.
+
+I need to make sure the summary captures the conflict and the moral perspectives each side is taking. Fox is portrayed as a critic defending Mexico's dignity, while Trump is shown as retaliating and pointing out Fox's past statements. I should keep the summary concise, under 200 words, and include the key points: Fox's criticism, Trump's response, and the ongoing feud.
+
+Let me structure it to first mention Fox's criticism, then Trump's response, and conclude with the ongoing conflict. I'll make sure to highlight the moral elements each side emphasizes. 
+
+I should avoid any markdown and keep the language clear and neutral, sticking to the facts while reflecting the moral framing from the article. Let me draft the summary now, ensuring it's within the word limit and properly formatted with the tokens.
+</think>
+
+SUMMARY: Former Mexican President Vicente Fox has criticized Donald Trump, calling him "not welcome" in Mexico and accusing current President Enrique Peña Nieto of taking a "political risk" by inviting Trump for a meeting. Fox described Trump's visit as a "big mistake" and accused Peña Nieto of appearing "like a traitor" for hosting him. Trump responded on Twitter, referencing Fox's past criticism of the border wall, including a comment where Fox used the "f bomb." Fox fired back, demanding Trump apologize and stop "lying." The exchange highlights tensions between the two figures, with Fox defending Mexico's dignity and Trump countering with past criticisms from Fox. The feud underscores ongoing divisions over immigration and U.S.-Mexico relations. END OF SUMMARY.

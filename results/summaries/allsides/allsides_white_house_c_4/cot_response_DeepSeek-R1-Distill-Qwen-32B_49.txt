@@ -1,0 +1,46 @@
+Okay, so I need to help the user with summarizing a news article while preserving the moral framing. Let me first understand what the user is asking for. They provided a news article about the White House seeking emergency funds after Hurricane Sandy. The task has two parts: first, identify all the single words that are morally framed, and second, write a summary preserving those moral words.
+
+Starting with STEP 1, I need to go through the article and pick out words that carry moral connotations. These are words that imply value judgments, like "conservative," "down payment," "hardships," "resources," "whole," "stronger," "smarter," "safer," "resiliently," "response," "decisions," "design," "materials," "rebuild," "generator-capable," "problems," "waiting," "lives," "Democrats," "Republicans," "budget," "cuts," "aid," "families," "small businesses," "communities," "waiting," "resources," "rebuild," "down payment," "hardships," "lives," "Democrats," "Republicans," "budget," "cuts," "aid," "families," "small businesses," "communities," "waiting," "resources," "rebuild."
+
+Now, for the summary, I need to condense the article into 200 words, keeping as many of these moral words as possible. The article talks about the White House requesting $50-60 billion for Sandy recovery, with a focus on future resilience. It mentions the damage in New York and New Jersey, the need for immediate funds, and the debate over how to allocate the money without cutting other budgets. I should highlight the moral aspects like the need for immediate aid, the importance of rebuilding stronger, and the political debate over funding.
+
+I should structure the summary to include the emergency funding request, the states' damage estimates, the focus on future resilience, the debate over immediate vs. delayed funding, and the political divide. I'll make sure to use the moral words identified, like "conservative estimate," "down payment," "hardships," "resources," etc.
+
+Let me draft the summary: The White House is seeking $50-60 billion in emergency funds for Sandy recovery, emphasizing future resilience. States like New York and New Jersey are seeking around $80 billion, with New York alone at a $32.8 billion conservative estimate. The administration wants to rebuild stronger and smarter, considering infrastructure improvements. However, there's a debate over immediate funding versus delayed payments, with concerns about hardships if only a down payment is given. The administration opposes offsetting disaster aid with budget cuts, while some lawmakers suggest a smaller upfront payment. This highlights the moral imperative to aid families and communities, balancing immediate needs with future resilience.
+
+I think that covers all the key points and includes the moral framing words. Let me check the word count to ensure it's under 200 words.
+</think>
+
+**STEP 1:**
+* conservative
+* down payment
+* hardships
+* resources
+* whole
+* stronger
+* smarter
+* safer
+* resiliently
+* response
+* decisions
+* design
+* materials
+* rebuild
+* generator-capable
+* problems
+* waiting
+* lives
+* Democrats
+* Republicans
+* budget
+* cuts
+* aid
+* families
+* small businesses
+* communities
+* waiting
+* resources
+* rebuild
+
+**SUMMARY:**
+The White House is seeking an emergency funding request of $50 to $60 billion for Hurricane Sandy recovery, emphasizing the need for immediate aid and future resilience. New York and New Jersey alone are seeking around $80 billion in federal aid, with New York's damages estimated at $32.8 billion—a conservative figure. HUD Secretary Shaun Donovan stressed the importance of rebuilding stronger, smarter, and safer, focusing on long-term solutions to prevent future devastation. However, some lawmakers propose providing a down payment now and the rest later, a move Donovan opposes, as it would cause hardships for families and communities waiting for resources to rebuild. The administration also opposes offsetting disaster aid with budget cuts, highlighting the moral imperative to prioritize aid over political divides. END OF SUMMARY.

@@ -1,0 +1,32 @@
+Alright, so the user has given me a query where I need to summarize a news article while preserving the moral framing. They also want me to identify the morally framed words first. Let me break this down.
+
+First, I need to understand what morally framed words are. These are words that carry a moral judgment or connotation, like "war," "attack," "tolerance," etc. I should go through the article and pick out each word that fits this criterion.
+
+Looking at the article, Perry is talking about a "war on religion," so "war" is definitely a moral term. He mentions "open service of gays and lesbians," so "open service" might be framed morally here. "Prohibition against prayer" uses "prohibition," which has a negative connotation. He says he's not ashamed to be a Christian, so "ashamed" is a moral word. "Something wrong" in the country is another clear moral framing. "Kids can't openly celebrate Christmas" uses "can't" in a restrictive sense, which is moral. "Fight against liberal attacks" uses "attack," which is strong. "Faith made America strong" uses "strong" in a positive moral sense. "War with people of faith" again uses "war." "Investing tax dollars promoting a lifestyle" uses "promoting" in a negative context. "Mistaken America's tolerance" uses "tolerance" as a moral concept. "Endorsement of those lifestyles" uses "endorsement" in a negative way. "Six percent support" is more factual, so maybe not moral. "Caucus-goers" is neutral. "Bring influential Texans" is neutral. "Dallas Morning News" is a source, not moral. "Presidential campaign" is neutral. "Republican" is a party, not moral. "Iowa" is a location. "Jan. 3 caucuses" is factual. "Ad" is neutral. "Television time" is neutral. "Poll" is neutral. "Des Moines Register" is a source. "Plans" is neutral. "More than 600 Texans" is factual. "Iowa" again. "Recently" is neutral. "Ad" is neutral. "Air" is neutral. "Iowa" again. "Caucus-goers" again. "Support" is neutral. "Perry" is a name. "Republican" is a party. "Presidential candidate" is neutral. "End Obama's war on religion" uses "war" again. "Open service" again. "Prohibition against prayer" again. "Admits" is neutral. "Christian" is a religion, but not inherently moral unless framed that way. "Pews" is neutral. "Sunday" is neutral. "Something wrong" again. "Gays can serve openly" uses "openly" in a positive sense but is part of a moral argument. "Kids can't openly celebrate Christmas" again. "Faith made America strong" again. "Strong again" is positive. "Investing tax dollars promoting a lifestyle" again. "Americans of faith" is a group, not moral. "Deeply objectionable" is a moral judgment. "Endorsement" again. "Tolerance" again. "Lifestyles" is neutral but used in a moral context. "Wrong" is a clear moral term.
+
+So, compiling all these, I list each morally framed word. Then, for the summary, I need to include as many of these words as possible while keeping it concise and within 200 words. I have to make sure the summary reflects the moral framing without adding my own bias, just presenting the author's perspective.
+
+I should structure the summary to highlight Perry's main points: his criticism of Obama's policies on religion, his stance on gay service in the military, prayer in schools, and his use of moral language to rally support. I also need to mention the political strategy, like buying ad time and bringing supporters to Iowa, but note the low poll numbers to provide context on the effectiveness.
+
+I need to be careful to preserve the moral framing without introducing any new terms. So, I'll start by stating Perry's pledge to end the "war on religion," mention the specific issues he's targeting, his personal stance on faith, and the political moves he's making. I'll conclude with the poll numbers to show the current support level.
+
+I think that's a solid approach. Now, I'll proceed to list the morally framed words and then craft the summary accordingly.
+</think>
+
+**STEP 1:**  
+* War  
+* Open service  
+* Prohibition  
+* Ashamed  
+* Wrong  
+* Celebrate  
+* Fight  
+* Faith  
+* Strong  
+* Lifestyle  
+* Tolerance  
+* Endorsement  
+
+**SUMMARY:**  
+Republican presidential candidate Rick Perry has launched a new ad in Iowa, vowing to end what he calls "Obama's war on religion." He criticizes the Obama administration for allowing gays and lesbians to serve openly in the military while prohibiting prayer in public schools, stating, "There's something wrong in this country." Perry emphasizes his Christian faith and accuses the administration of attacking religious heritage. He also opposes using foreign aid to promote gay and lesbian rights, calling it a misuse of tax dollars and a mistake in conflating tolerance with endorsement. Despite these efforts, Perry has only six percent support among likely Republican caucus-goers in Iowa. His campaign has invested heavily in ads and plans to bring influential Texans to Iowa ahead of the January 3 caucuses.  
+**END OF SUMMARY.**

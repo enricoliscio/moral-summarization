@@ -1,0 +1,14 @@
+Okay, so the user wants me to summarize a news article. The article is about Senate Majority Leader Mitch McConnell's response to CIA findings that Russia tried to influence the U.S. election. The user specified that the summary should be under 200 words, start with "SUMMARY:" and end with "END OF SUMMARY."
+
+First, I need to read through the article carefully to understand the key points. The main points are McConnell's stance on the investigation, his dismissal of a special committee, his mention of the Intelligence Committee's capability, his comments on Russia, and his refusal to comment on Tillerson's nomination. Also, there's mention of McCain's call for a special committee and Trump's dismissal of the CIA report.
+
+I should condense these points, making sure to include McConnell's position, the committees involved, his views on Russia, and the political context with Trump and McCain. I need to keep it concise, so I'll focus on the most important details without getting into too much detail about each aspect.
+
+I also need to ensure that the summary flows well and covers all the essential information without exceeding the word limit. Let me structure it by starting with McConnell's call for the Intelligence Committee to handle the investigation, then his dismissal of a special committee, his comments on Russia, and finally the political implications with Trump and McCain.
+
+I should also mention the broader context, like the potential for partisanship and the Trump administration's dismissal of the findings. That should wrap up the summary effectively.
+
+Now, putting it all together, making sure each sentence is clear and concise, and that the summary meets the user's requirements. I'll check the word count to ensure it's under 200 words and that it starts and ends with the specified tokens.
+</think>
+
+SUMMARY: Senate Majority Leader Mitch McConnell has called for the Senate Intelligence Committee to investigate Russian interference in the U.S. election, dismissing the need for a special bipartisan commission. McConnell emphasized the committee's capability to conduct a thorough review and stressed the importance of a bipartisan approach. He also criticized Russia's actions, stating they are not allies, particularly after their annexation of Crimea. McConnell declined to comment on potential Secretary of State Rex Tillerson's ties to Russian President Vladimir Putin. Meanwhile, Sen. John McCain has advocated for a special committee to address the issue. McConnell noted that McCain and Intelligence Committee Chairman Richard Burr would lead efforts to review cybersecurity threats. Trump administration officials have dismissed the CIA findings, with Trump calling them "ridiculous" and suggesting the narrative is an attempt to delegitimize his election win. END OF SUMMARY.

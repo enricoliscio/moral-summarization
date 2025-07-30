@@ -1,0 +1,39 @@
+<think>
+Alright, let's see. The user has given me a query where I need to act as a news summarizer and a moral expert. They provided a news article about Rev. Franklin Graham and his event being canceled in Liverpool. The task is to first identify all the morally framed words and then write a summary preserving those moral frames.
+
+First, I need to understand what morally framed words are. These are words that carry a moral judgment, like "homophobic," "sin," "condemn," etc. I'll go through the article and pick out each word that has a moral connotation.
+
+Next, I have to write a concise summary, making sure to include as many of these moral words as possible without exceeding 200 words. I should maintain the original moral framing the author used, so I need to be careful not to change the context or tone.
+
+I'll start by reading the article carefully. The main points are: Rev. Graham's event was canceled because his views on marriage and homosexuality are seen as incompatible with the venue's values. There were protests, including from the Liverpool Labour LGBT Network, which called him a "homophobic hate preacher." Graham responded by saying he's coming to present the Gospel, not to condemn, but he still believes homosexuality is a sin. He also defended free speech and religious liberty.
+
+Now, identifying the morally framed words: "evangelist," "biblical," "incompatible," "values," "protesters," "rebuking," "critical," "slated," "homophobic," "hate," "sin," "condemn," "Gospel," "inclusive," "love," "absolutely welcome."
+
+For the summary, I need to weave these words in naturally. I'll structure it by stating the cancellation, the reasons given by the venue, the protests, Graham's response, his beliefs, and his defense of free speech. I'll make sure each moral word is included where appropriate.
+
+I should check the word count to ensure it's under 200. Let me draft it: Rev. Franklin Graham's event was canceled because his views on marriage and homosexuality were incompatible with the venue's values. Protesters, including the Liverpool Labour LGBT Network, criticized him as a homophobic hate preacher. Graham responded, stating he's presenting the Gospel, not to condemn, but he still sees homosexuality as a sin. He emphasized the Gospel's inclusivity and his love for all, inviting the LGBTQ community to attend.
+
+That seems to cover all the points and includes the moral words. I think that's a solid summary that preserves the moral framing.
+</think>
+
+**STEP 1:**  
+* Evangelist  
+* Biblical  
+* Incompatible  
+* Values  
+* Protesters  
+* Rebuking  
+* Critical  
+* Slated  
+* Homophobic  
+* Hate  
+* Sin  
+* Condemn  
+* Gospel  
+* Inclusive  
+* Love  
+* Absolutely welcome  
+
+**SUMMARY:**  
+Rev. Franklin Graham, an evangelist and son of Billy Graham, had his event at ACC Liverpool canceled due to his biblical views on marriage and homosexuality, which were deemed "incompatible" with the venue's values. Protesters, including the Liverpool Labour LGBT Network, criticized Graham as a "homophobic hate preacher." Graham responded by stating he was coming to the U.K. to present the Gospel, not to condemn, but admitted he sees homosexuality as a sin. He emphasized the Gospel's inclusivity and his love for all, inviting the LGBTQ community to attend his events. The cancellation reflects tensions over free speech, religious liberty, and moral values.  
+**END OF SUMMARY.**

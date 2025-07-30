@@ -1,0 +1,14 @@
+Okay, so the user wants me to summarize a news article while preserving the moral framing the author provided. Let me start by reading the article carefully.
+
+The article talks about a federal judge ruling in favor of religious freedom advocates against Cuomo and de Blasio. The judge issued an injunction against limiting religious gatherings during the pandemic while allowing mass protests. The judge criticized the officials for hypocrisy, saying they were prioritizing protests over religious meetings. The Thomas More Society, a conservative group, brought the case, highlighting the double standard.
+
+I need to make sure the summary captures the moral aspect, emphasizing the hypocrisy and the preferential treatment. I should include key points: the judge's ruling, the comparison between protests and religious gatherings, the judge's criticism, and the societal implications.
+
+I'll structure the summary to first state the ruling, then explain the context of the pandemic and protests. Next, I'll mention the judge's criticism of the double standard and the societal impact. I'll keep it under 200 words, using concise language.
+
+Wait, the user mentioned using a "SUMMARY:" token and ending with "END OF SUMMARY." I should make sure to include those as specified. Also, the summary should be in the response after the token, so I need to format it correctly without markdown.
+
+I think I've got all the necessary points. Let me put it together concisely, ensuring the moral framing is clear. The summary should reflect the judge's stance on fundamental rights and the hypocrisy in enforcing restrictions selectively.
+</think>
+
+SUMMARY: A federal judge ruled in favor of religious freedom advocates, stating that New York Gov. Andrew Cuomo and Mayor Bill de Blasio improperly limited religious gatherings during the COVID-19 pandemic while allowing mass protests against racial injustice. U.S. District Judge Gary L. Sharpe issued a preliminary injunction prohibiting Cuomo and de Blasio from enforcing arbitrary restrictions on church gatherings. Sharpe criticized the officials for hypocrisy, noting that while they supported large protests, they continued to restrict religious assemblies, even as "nonessential" businesses were allowed 50% occupancy. The judge emphasized that such double standards amounted to "preferential treatment" for protests, undermining the principle of equal protection under the law. The Thomas More Society, representing Catholic priests and Jewish congregants, argued that Cuomo's "Social Distancing Protocol" was selectively enforced, prioritizing certain gatherings over others. The ruling highlights the tension between public health measures and the protection of fundamental rights, particularly in times of crisis. END OF SUMMARY.

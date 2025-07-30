@@ -1,0 +1,39 @@
+Alright, so the user wants me to summarize a news article while preserving the moral framing. They provided a specific structure: first, identify all the single words with moral connotations, then write a concise summary using those words. 
+
+First, I need to read the article carefully. It's about Robert Mueller's team disputing BuzzFeed's report that Trump directed Cohen to lie to Congress. There are mentions of impeachment, obstruction of justice, crimes, accountability, etc. These are the morally charged words.
+
+Next, I'll list each of these words as per the user's instruction. Then, I'll craft a summary that includes these terms to maintain the moral context. I have to keep it under 200 words, so I'll focus on the key points: Mueller's response, BuzzFeed's reporting, the implications for Trump, and the reactions from Democrats and Trump himself.
+
+I should ensure that the summary flows well and includes all necessary elements without being too lengthy. Also, I need to make sure that the morally framed words are included to reflect the original article's tone and implications.
+</think>
+
+**STEP 1:**  
+* Rare  
+* Disputed  
+* Explosive  
+* Directed  
+* Lie  
+* Congress  
+* Inaccurate  
+* Confusion  
+* Investigation  
+* Ties  
+* Russia  
+* Falsely  
+* Obstructed  
+* Justice  
+* Impeachment  
+* Criminal  
+* Charges  
+* Misrepresentations  
+* Accountability  
+* Innocent  
+* Accused  
+* Lying  
+* Jail  
+* Counterintelligence  
+* Magnitude  
+
+**SUMMARY:**  
+In a rare move, Robert Mueller’s team disputed BuzzFeed’s explosive report claiming President Trump directed attorney Michael Cohen to lie to Congress about the Trump Tower in Moscow. Mueller’s office stated that BuzzFeed’s description of statements and documents was inaccurate, though it did not directly deny Trump’s involvement in directing Cohen to lie. BuzzFeed stood by its reporting, which suggested Trump may have obstructed justice, potentially leading to impeachment or criminal charges. Democrats, including Sen. Dianne Feinstein and Rep. Adam Schiff, called for Mueller to release information and demanded accountability if the allegations were true. Trump denied the claims, accusing Cohen of lying to reduce his jail time. The investigation into Trump’s ties to Russia and the Moscow deal remains ongoing, with implications for potential obstruction of justice and impeachment.  
+**END OF SUMMARY.**

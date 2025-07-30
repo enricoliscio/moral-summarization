@@ -1,0 +1,16 @@
+Okay, so the user has provided a news article and wants me to summarize it while preserving the moral framing. The key is to keep the morally charged words the author used, which are "thrown," "dismissive," "determined," and "expense." 
+
+First, I need to read the article carefully to understand the context. It's about Bibi Netanyahu being featured in a Republican ad attacking Obama's foreign policy. The ad is part of election-year politicking, and it's using Netanyahu's concerns about Iran to criticize Obama. 
+
+I should start by identifying the main points: the ad's purpose, who's behind it, where it's airing, and the political implications. Also, note that Netanyahu is trying to distance himself from the election, which adds another layer.
+
+Now, I need to make sure to include the moral words. "Thrown" is used in the context of Romney's criticism, so I should include that. "Dismissive" describes the GOP's portrayal of Obama. "Determined" is from Netanyahu's statement about Obama's stance on Iran. "Expense" relates to the "apology tour" ad.
+
+I'll structure the summary to cover the ad's details, the political strategy, Netanyahu's response, and the organization's previous actions. Keeping it concise, under 200 words, while making sure all the moral terms are included.
+
+Let me draft it, ensuring each moral word is present and the summary flows naturally. I'll check the word count to stay within the limit. Once done, I'll present it after the "SUMMARY:" token and end with "END OF SUMMARY." as instructed.
+</think>
+
+SUMMARY:  
+A new ad by the neoconservative group Secure America Now features Israeli Prime Minister Bibi Netanyahu, highlighting Israel’s concerns over Iran’s nuclear program to criticize President Obama’s foreign policy. The ad, airing in Florida’s Jewish communities, is part of election-year politicking, with Republicans accusing Obama of being "dismissive" of Israel and "throwing Israel under a bus." Romney has criticized Obama for not taking a firm stance against Iran, while Netanyahu has distanced himself from the U.S. election, denying involvement and clarifying that scheduling conflicts, not a refusal, caused the missed UN meeting. Netanyahu also praised Obama’s "determined" stance on preventing Iran from obtaining nuclear weapons. This ad follows Secure America Now’s previous attack on Obama, accusing him of an "apology tour" that undermined American security. The ad implicitly supports the GOP narrative, despite the organization claiming to represent all political ideologies.  
+END OF SUMMARY.

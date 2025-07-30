@@ -1,0 +1,14 @@
+Okay, so I'm trying to help the user summarize this news article while preserving the moral framing. First, I need to understand the article's content. It's about Susan Rice criticizing Netanyahu for his speech in Congress, which she says has hurt the US-Israel relationship. The article mentions several morally charged words like "hurt," "injected," "destructive," etc. 
+
+I need to make sure my summary includes as many of these words as possible. The user wants the summary to be concise, no more than 200 words, and it should follow after a "SUMMARY:" token and end with "END OF SUMMARY." 
+
+I'll start by identifying the main points: Rice's criticism, Netanyahu's speech, the impact on the relationship, the breach of protocol, the refusal to meet with Democrats, and the administration's response. I should weave in the moral terms where they fit naturally.
+
+I'll structure the summary to first mention Rice's criticism and the impact, then the breach of protocol, Netanyahu's refusal, and the administration's stance. I'll make sure to use words like "hurt," "injected," "destructive," "damaged," "breach," "refusal," "misperception," "obligation," and "address." 
+
+I need to keep each sentence tight and focused, ensuring the summary flows logically. I'll also check that it's under 200 words. Let me draft it out and then count the words to make sure.
+</think>
+
+SUMMARY:  
+Susan E. Rice, President Obama’s national security adviser, criticized Prime Minister Benjamin Netanyahu of Israel for his plan to address a joint meeting of Congress, stating his actions had hurt the US-Israel relationship. Rice accused Netanyahu of injecting partisanship, which she called destructive to the bilateral fabric. The speech, arranged without consulting the White House, was seen as a breach of protocol. Obama’s team expressed displeasure, with the president declining to meet Netanyahu to avoid influencing the Israeli elections. Rice emphasized the need to protect the relationship from party politics, while Netanyahu defended his obligation to address Congress to prevent a nuclear deal with Iran. Democratic senators offered a private meeting to balance the politically divisive invitation, but Netanyahu refused, fearing it could compound the perception of partisanship. The episode marked a low point in the tense relationship between Obama and Netanyahu, with the administration working to maintain the US-Israel bond despite the controversy.  
+END OF SUMMARY.

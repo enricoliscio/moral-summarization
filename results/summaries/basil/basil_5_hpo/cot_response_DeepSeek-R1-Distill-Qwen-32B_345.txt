@@ -1,0 +1,25 @@
+<think>
+Alright, I need to help the user by summarizing the news article they provided. They want me to focus on the moral framing and preserve the moral words used by the author. First, I'll read through the article to understand the main points. It's about the NAACP accusing the Tea Party of tolerating bigotry and racism. The Tea Party is disputing these claims, and there's some history of similar accusations during the health care debate.
+
+Now, the user has given specific instructions. They want me to first identify all the single words that are morally framed. I'll go through the article again, looking for words that carry moral connotations. Words like "bigotry," "condemning," "racism," "disputed," "false," "appalling," "unfounded," "extremist," and "negative" stand out. These words are used to convey judgment or moral evaluation.
+
+Next, I need to write a concise summary of the article, making sure to include as many of these morally framed words as possible. The summary should be no longer than 200 words. I'll structure it to include the NAACP's action, the Tea Party's response, and the context of past accusations. I'll also mention the resolution's content and the differing viewpoints between the two groups.
+
+I should ensure that the summary flows logically, starting with the NAACP's resolution, then the Tea Party's denial, and finally the broader context of the accusations. This way, the moral framing is preserved, and the key points are clearly presented.
+
+Let me double-check that I've included all the necessary moral words and that the summary accurately reflects the article's content without adding any personal opinions. I also need to make sure the summary is within the word limit. Once I'm satisfied, I'll present the identified words and the summary as per the user's instructions.
+</think>
+
+**STEP 1:**  
+* bigotry  
+* racism  
+* condemns  
+* dispute  
+* false  
+* appalling  
+* unfounded  
+* extremist  
+* negative  
+
+**SUMMARY:**  
+The NAACP accused Tea Party activists of tolerating bigotry and racism, adopting a resolution condemning the movement during its annual convention in Kansas City. Tea Party organizers denied the claims, calling them false and appalling, and demanded the NAACP withdraw the resolution. The NAACP resolution urges the Tea Party to repudiate racist elements and activities, while also educating its members about the potential dangers of the movement. NAACP leaders emphasized their concern with the Tea Party's acceptance of white supremacists, not the movement's existence. Tea Party activists, including Sarah Palin, rejected the accusations, asserting the movement is diverse and focused on limited government and individual rights. The debate over the resolution highlights ongoing tensions between the NAACP and the Tea Party, with both sides presenting sharply contrasting views on the movement's moral character. END OF SUMMARY.

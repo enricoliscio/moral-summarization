@@ -1,0 +1,26 @@
+<think>
+Okay, I need to summarize the given news article while preserving the moral framing. The user provided a list of morally framed words, so I should make sure to include as many of those as possible. The summary needs to be concise, under 200 words, and should end with the specified tokens.
+
+First, I'll read through the article to identify the key points. Julie Berman was a trans rights activist in Toronto who was murdered. She spoke at a 2017 event about transphobia and the murder of a friend. Two years later, she was killed. Her friend Davina Hader mentioned the emotional impact and how the same violence she spoke against happened to her. The police arrested Colin Harnack, who's not in the LGBTQ community. Julie was involved in activism for almost three decades, helping her community but struggling to survive. The article also mentions a study showing high rates of violence against trans people, with many not reporting assaults. Olivia Nuamah from Pride Toronto notes that violence is common in the trans community, especially in Toronto where there have been multiple deaths. Despite efforts to support the community, resources are insufficient, leaving many vulnerable. The trans march during Pride is a significant event, but the murder is a reminder of the ongoing issues.
+
+Now, I need to condense this into a summary, using as many of the moral words as possible. I'll structure it to highlight Julie's activism, her murder, the context of transphobia, the study's findings, the community's response, and the ongoing challenges. I'll make sure to include words like "murdered," "transphobia," "assaulted," "heartbreaking," "violence," "vulnerable," etc.
+
+I should start with Julie's murder, her activism, the context of her speech, the emotional impact, the suspect, her background, the study's statistics, the community's struggle, the support efforts, and the reminder of the violence they face.
+
+I'll need to keep each sentence concise and ensure the summary flows logically. I'll avoid adding any new information not in the article and stick to the key points while emphasizing the moral aspects.
+
+Let me draft the summary step by step:
+
+1. Introduce Julie Berman and her murder.
+2. Mention her activism and the 2017 speech.
+3. Describe the emotional impact on her friend and the community.
+4. Note the suspect's background.
+5. Highlight her involvement in the community and her struggles.
+6. Reference the study on violence against trans people.
+7. Discuss the community's vulnerability and support efforts.
+8. Conclude with the reminder of the ongoing violence.
+
+I'll make sure each point is covered succinctly, using the moral words where appropriate. Now, I'll write the summary accordingly, keeping it under 200 words and ending with the required tokens.
+</think>
+
+SUMMARY: Julie Berman, a Toronto trans rights activist, was murdered on Dec. 22, 2019. At a 2017 Trans Day of Remembrance event, she spoke about transphobia and the murder of a friend, only for the same violence to be directed at her. Her friend, Davina Hader, described the incident as heartbreaking, noting the irony of Julie’s activism. Colin Harnack, a non-LGBTQ community member, was charged with her murder. Julie, a longtime community advocate, struggled to survive despite her dedication. A 2015 study revealed high rates of violence against trans people, with many facing harassment or assault. Olivia Nuamah of Pride Toronto emphasized the vulnerability of the trans community, citing Toronto’s recent fatalities. Despite efforts to support trans individuals, resources remain inadequate, leaving many exposed to danger. Julie’s death serves as a stark reminder of the ongoing violence trans people face. END OF SUMMARY.

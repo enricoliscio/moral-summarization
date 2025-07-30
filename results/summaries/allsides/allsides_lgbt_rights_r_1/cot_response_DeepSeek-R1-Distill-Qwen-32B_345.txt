@@ -1,0 +1,36 @@
+Okay, so I've got this query where the user wants me to summarize a news article while preserving the moral framing. They also want me to identify the morally framed words first. Let me break this down.
+
+First, I need to understand what's being asked. The user provided a news article about a lawsuit involving school district policies on gender identity. They want me to perform two steps: identify the morally framed words and then summarize the article, keeping those moral terms intact.
+
+Starting with Step 1, I should go through the article and pick out words that carry moral connotations. Words like "unconstitutional," "fundamental right," "parental involvement," "health and future," "socially transition," "constitutional rights," "due process clause," "parental rights," "life-altering decisions," "gender dysphoria," "compelling government interest," "religious freedom," and "God" all seem to carry moral weight. These terms are used to argue either for or against the policy, so they're crucial for the moral framing.
+
+Now, for the summary. I need to condense the article into 200 words, making sure to include as many of those moral terms as possible. The summary should capture the essence of the lawsuit, the arguments from both sides, and the key moral issues involved. I'll start by mentioning the parents filing the lawsuit, the law firm involved, the policy in question, and the constitutional arguments. Then, I'll outline the school district's stance and the parents' concerns about privacy, health, and religious freedom.
+
+I should ensure that the summary flows logically, starting with the lawsuit, the policy details, the constitutional claims, the school's defense, and the parents' arguments about privacy and religious rights. I need to keep it concise but comprehensive, hitting all the main points without getting bogged down in too much detail.
+
+I also need to make sure that the morally framed words are included to preserve the author's original moral perspective. This means using terms like "unconstitutional," "fundamental right," "parental rights," "constitutional right," "due process," "life-altering decisions," "gender dysphoria," "compelling government interest," and "religious freedom." These words highlight the moral and legal arguments on both sides.
+
+I should also check the word count to stay under 200 words. Let me draft the summary, ensuring each sentence is clear and contributes to the overall understanding without unnecessary fluff.
+
+Finally, I'll review the summary to make sure it accurately reflects the article's content and maintains the moral framing as required. This way, the user gets a concise, morally framed summary that meets their specifications.
+</think>
+
+**STEP 1:**  
+* unconstitutional  
+* fundamental  
+* right  
+* parental involvement  
+* health  
+* future  
+* socially transition  
+* constitutional rights  
+* due process clause  
+* parental rights  
+* life-altering decisions  
+* gender dysphoria  
+* compelling government interest  
+* religious freedom  
+* God  
+
+**SUMMARY:**  
+A group of 14 Wisconsin parents has filed a lawsuit against the Madison Metropolitan School District (MMSD) over its policy allowing students to use their preferred gender identity and pronouns without parental notification. The lawsuit, filed by the conservative law firm Wisconsin Institute for Law and Liberty (WILL), argues that the policy violates the state constitution's due process clause and parental rights, as it circumvents parents' ability to guide their children's upbringing. The parents claim that the policy enables children to "socially transition" without their consent, interfering with their constitutional right to direct their children's health and future. The school district's policy, announced in 2018, affirms students' self-designated gender identities and strives to "disrupt the gender binary" through educational materials. The parents also argue that the policy violates religious freedom, as they believe God intended humans to be male or female. The district has not yet responded to the lawsuit but stands by its support for transgender and nonbinary students. The lawsuit asserts that hiding children's gender struggles from parents undermines their ability to provide necessary professional help and aligns with their religious beliefs. END OF SUMMARY.

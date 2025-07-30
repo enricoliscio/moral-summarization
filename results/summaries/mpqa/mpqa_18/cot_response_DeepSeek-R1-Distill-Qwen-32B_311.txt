@@ -1,0 +1,25 @@
+Okay, so I need to help this user who's asking me to act as a news summarizer assistant and a moral expert. They provided a news article about the International Space Station crew change and some specific instructions. Let me break this down.
+
+First, the user wants me to identify all the single words in the article that are morally framed. They mentioned this as STEP 1, and each word should be listed with an asterisk. I need to go through the article and pick out words that carry moral connotations. Words like "settled," "trade," "installed," "couldn't wait," "peeking," "reflected," "psychological," "support," and "device" come to mind because they imply actions, intentions, or values.
+
+Next, the user wants a summary of the article that preserves the moral framing. The summary needs to be concise, under 200 words, and include those morally framed words. I should make sure the summary captures the key points: the arrival of the new crew, their tasks, the commander change, the cargo transfer, and the personal touches each astronaut brought. I'll structure it to highlight the teamwork, readiness, and the personal aspects that support their well-being in space.
+
+I should also ensure that the summary flows naturally and includes all the identified moral words without forcing them. It's important to maintain the original tone and key details while emphasizing the moral elements the author intended.
+
+Alright, I think I have a clear plan. I'll start by listing the moral words, then craft a concise summary that incorporates them, keeping it within the word limit. Let me put it all together now.
+</think>
+
+**STEP 1:**  
+* settled  
+* trade  
+* installed  
+* couldn't wait  
+* peeking  
+* reflected  
+* psychological  
+* support  
+* device  
+
+**SUMMARY:**  
+Two American astronauts and a Russian cosmonaut arrived at the International Space Station (ISS) on Saturday, settling in for a six-month mission. They joined the existing crew, which had been on board since August, and began transferring gear between the shuttle and the station. Yuri Onufrienko, the new Russian cosmonaut, was eager to take over as commander, while the outgoing crew, led by Frank Culbertson, prepared to return to Earth after 128 days in space. The new crew installed their lifeboat seat liners and space suits before fully occupying the station. They also transferred a cargo carrier named Raffaello, loaded with supplies, and packed personal items reflecting their hobbies, such as fly-tying materials and a keyboard for psychological support. The crew worked efficiently, showcasing teamwork and readiness for their mission.  
+**END OF SUMMARY.**

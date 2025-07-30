@@ -1,0 +1,30 @@
+Okay, so I need to help the user with their query. They provided a news article about Tony Blair's disagreement with Australia's climate deal with the US. The task is to summarize the article while preserving the moral framing. 
+
+First, I have to understand what moral framing means. It's about the language used to convey values or judgments. So, I need to identify words in the article that carry moral connotations. 
+
+Looking at the article, words like "disagreed," "deny," "dumping," "cosying up," "critics," "hurt," "committed," "should not follow," "concerned," and "obvious disagreement" stand out. These words imply judgment or evaluation.
+
+Next, I have to summarize the article. I should include these morally framed words to maintain the author's perspective. The summary needs to be concise, under 200 words, and include the key points: Blair's disagreement, Australia's partnership with the US, the criticism, the commitment to Kyoto, and Blair's concerns about the protocol's adequacy.
+
+I should structure the summary to flow logically, starting with Blair's disagreement, then Australia's actions, the criticism, and conclude with Blair's stance on the issue. I need to ensure that the moral words are included without making the summary too long.
+
+I also need to format the response correctly, starting with STEP 1 listing each moral word, then the SUMMARY section. I must make sure the summary is clear and captures the essence of the article while keeping the moral framing intact.
+
+Let me draft the summary. I'll start by stating Blair's disagreement with Australia's decision. Then mention the partnership and the criticism that Australia is moving away from Kyoto despite claims. Include the Environment Minister's commitment and Blair's concern about the protocol's effectiveness. End with Blair's emphasis on the importance of the issue.
+
+I think that covers all the key points and includes the necessary moral terms. Let me check the word count to ensure it's under 200. Looks good. Now, I'll present the response as per the user's instructions.
+</think>
+
+**STEP 1:**  
+* Disagreed  
+* Deny  
+* Dumping  
+* Cosying up  
+* Hurt  
+* Committed  
+* Should not follow  
+* Concerned  
+* Obvious disagreement  
+
+**SUMMARY:**  
+Tony Blair expressed disagreement with Australia's decision to sign a climate change deal with the US, criticizing it as a move away from the Kyoto Protocol. Australia claims it remains committed to Kyoto, despite critics arguing it is "cosying up" to the US, which opposes the protocol. Blair emphasized his concerns about the adequacy of the Kyoto Protocol, stating that greenhouse gases are a significant issue requiring global action. He acknowledged the "obvious disagreement" with the US and Australia on this matter, while also noting that individual countries must decide their own positions. The future of the Kyoto Protocol, aimed at reducing pollution, will be decided at an upcoming meeting in Johannesburg. END OF SUMMARY.

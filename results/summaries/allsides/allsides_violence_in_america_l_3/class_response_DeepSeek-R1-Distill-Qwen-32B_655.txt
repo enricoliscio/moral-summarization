@@ -1,0 +1,16 @@
+<think>
+Alright, so the user has provided a query where they want a summary of a news article, preserving the moral framing. They also included the specific morally framed words the author used. The user is acting as a news summarizer and a moral expert. 
+
+First, I need to understand the article's main points. It's about Chicago's record-high homicides and shootings, the reasons behind it, and the city's response. The key moral terms are things like homicides, violence, crime, etc. 
+
+I should make sure to include as many of those terms as possible without making the summary too long. The summary needs to be under 200 words, so I have to be concise. 
+
+I'll start by noting the record number of homicides and shootings, then mention the spike compared to previous years. I should include the Superintendent's comments about illegal guns and the lack of deterrent. Also, the impact of the police shooting video on public trust and officer caution is important. 
+
+I need to highlight the areas affected and the reasons behind the surge in crime, like the perception that the justice system is lenient. Finally, mention the city's efforts to combat the violence. 
+
+I should structure it to flow logically, ensuring each point is clear and the moral framing is evident through the chosen words. Keeping it within the word limit is crucial, so I'll have to be selective but comprehensive.
+</think>
+
+SUMMARY:  
+Chicago experienced its most violent year in two decades, with 762 homicides and 3,550 shooting incidents in 2016, surpassing New York and Los Angeles combined. The surge in bloodshed, particularly in poor, predominantly black neighborhoods on the South and West sides, has sparked national concern over gun violence. Police Superintendent Eddie Johnson cited a flood of illegal guns, with 8,300 recovered in 2016—a 20% increase from the previous year. He noted that criminals feel emboldened due to a perceived lack of deterrent, as those committing violent crimes face minimal consequences compared to other offenses. The city's homicide rate spiked following the release of a controversial police shooting video involving Laquan McDonald, which led to protests and a decline in public trust in the police force. This, combined with a state law requiring extensive paperwork for stops, has made officers more cautious, allowing nefarious activity to flourish. Mayor Rahm Emanuel has added 1,000 officers, and new initiatives like street cameras and gunshot-detection systems aim to curb violence. However, critics argue that the reluctance of officers to act has enabled gangs to kill with impunity. END OF SUMMARY.

@@ -1,0 +1,29 @@
+Okay, so I've got this query where I need to act as a news summarizer assistant and a moral expert. The user provided a news article about the Endeavour space shuttle docking with the International Space Station. They want me to first identify all the single words that are morally framed and then write a summary preserving those moral frames.
+
+First, I need to understand what morally framed words are. These are words that carry moral or ethical connotations, like "relieve," "awaited," "frustrated," etc. I'll go through the article and pick out each word that has such a connotation.
+
+Looking at the article, I see words like "delivered," "relieve," "awaited," "quiet," "isolated," "frustrated," "ghostly," "tradition," "closed," "commander," and "stay." Each of these carries some moral or emotional weight.
+
+Next, I need to write a summary that includes as many of these words as possible. The summary should be concise, under 200 words, and capture the essence of the article while maintaining the moral framing.
+
+I'll start by mentioning the docking of Endeavour and the delivery of the new crew. Then, I'll note the commander's feelings after the terrorist attacks and the transition of crew members. I'll make sure to include the morally framed words to preserve the author's tone.
+
+I should also ensure that the summary flows well and is coherent. I'll check the word count to stay within the limit. Once done, I'll present the identified words and the summary as per the user's instructions.
+</think>
+
+**STEP 1:**  
+* deliver  
+* relieve  
+* awaited  
+* quiet  
+* isolated  
+* frustrated  
+* ghostly  
+* tradition  
+* closed  
+* commander  
+* stay  
+
+**SUMMARY:**  
+The space shuttle Endeavour successfully docked with the International Space Station, delivering a fresh three-member crew to relieve the existing crew that had been on board since August. The docking occurred 250 miles above the Polish-Ukrainian border, ending a two-day pursuit. Commander Frank Culbertson, who had eagerly awaited the arrival, expressed feelings of isolation and frustration following the September 11 terrorist attacks. As the shuttle approached, Culbertson radioed his readiness to see the crew and, in a traditional maritime gesture, rang the ship's bell and announced, "Endeavour arriving." The departing crew, including Culbertson and his Russian crewmates, will return home, while the new crew, led by Russian commander Yuri Onufrienko, will take their place and remain aboard until May.  
+**END OF SUMMARY.**

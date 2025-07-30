@@ -1,0 +1,28 @@
+<think>
+Alright, I need to help the user by summarizing the given news article while preserving the moral framing. The user has specified two steps: first, identifying all single words that are morally framed, and second, writing a concise summary using those terms.
+
+Starting with the first step, I'll go through the article and pick out words that carry a moral connotation. Words like "sanctions," "terrorism," "threat," "provocations," "provocations," "provocations," "empty," "baseless," "ranting," "unexperienced," "threatening," "kind," "tolerant," "provocations," "exacerbate," "challenges." These words are used to convey judgment or evaluation, so they fit the moral framing.
+
+Next, for the summary, I need to condense the article into 200 words, keeping the moral language intact. I'll focus on the main points: the Trump administration imposing sanctions on Iran due to missile tests and support for rebels in Yemen. The sanctions target individuals and companies linked to missile programs and terrorism. The article mentions the nuclear deal but notes that these new sanctions are separate. The summary should highlight the administration's tough stance and Iran's dismissal of the accusations. I'll ensure that the moral terms are included to reflect the original framing.
+
+I need to make sure the summary flows well and covers all key points without exceeding the word limit. I'll start by stating the administration's action, then mention the reasons and targets, followed by Iran's response, and conclude with the implications and reactions from lawmakers. This approach should effectively capture the essence of the article while preserving the moral elements.
+</think>
+
+**STEP 1:**  
+* sanctions  
+* terrorism  
+* threat  
+* provocations  
+* empty  
+* baseless  
+* ranting  
+* inexperienced  
+* threatening  
+* kind  
+* tolerant  
+* provocations  
+* exacerbate  
+* challenges  
+
+**SUMMARY:**  
+The Trump administration imposed new economic sanctions on Iran, targeting individuals and companies linked to its ballistic missile program and support for rebels in Yemen. Acting Treasury Director John E. Smith stated that Iran’s actions pose a threat to global stability, while Trump criticized Iran’s behavior, calling it "provocative." The sanctions freeze assets and prohibit U.S. transactions with the targeted entities. Iran denied violating UN regulations and dismissed Trump’s criticism, labeling it "empty and baseless." The sanctions focus on Iran’s missile activity and alleged terrorism support, separate from the nuclear deal. National security adviser Michael Flynn condemned Iran as the "world’s leading state sponsor of terrorism," emphasizing the administration’s intolerance of its "bad behavior." Lawmakers supported the sanctions but urged clarity on the administration’s strategy to avoid escalating tensions. END OF SUMMARY.

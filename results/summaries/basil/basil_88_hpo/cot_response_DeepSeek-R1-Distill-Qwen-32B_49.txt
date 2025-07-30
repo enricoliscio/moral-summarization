@@ -1,0 +1,40 @@
+<think>
+Okay, so the user has given me a task where I need to act as a news summarizer and a moral expert. The goal is to summarize a provided news article while preserving the moral framing that the author used. The user has broken this down into two steps: first, identifying all the single words that are morally framed, and second, writing a concise summary that includes as many of those moral words as possible.
+
+First, I need to understand what morally framed words are. These are words that carry a strong positive or negative connotation, often related to values, ethics, or principles. They can indicate approval or disapproval, so words like "ridiculous," "unconstitutional," or "division" might be examples.
+
+Looking at the news article, I should go through each paragraph and pick out words that have a clear moral or evaluative tone. For example, when Trump is described as considering an executive order, words like "ridiculous" and "punishing" stand out. Also, terms like "bluster," "attack," "division," "hatred," "unconstitutional," and "secure" are likely candidates.
+
+Once I've identified all these words, I'll list them in the first step. Then, for the summary, I need to condense the article into a few sentences, making sure to include as many of these moral words as possible without losing the essence of the article.
+
+I also need to ensure that the summary is no longer than 200 words and that it captures the key points: Trump's proposal to end birthright citizenship, the legal and constitutional challenges, the political context around the midterm elections, and the reactions from different political figures and experts.
+
+I should structure the summary to highlight the moral implications, such as the potential punishment of children, the divisiveness of the move, and the unconstitutionality of the executive order. Including the reactions from Republicans like Paul Ryan and Lindsey Graham, as well as the ACLU's stance, will add depth to the moral framing.
+
+Finally, I need to make sure the summary flows well and stays within the word limit, while preserving all the key moral points from the article.
+</think>
+
+**STEP 1:**
+
+Here are the morally framed words identified in the text:
+
+* Ridiculous  
+* Punishing  
+* Bluster  
+* Boundaries  
+* Unconstitutional  
+* Division  
+* Hatred  
+* Secure  
+* Transparent  
+* Blatantly  
+* Unconstitutional  
+* Magnet  
+* Out of the mainstream  
+* Hell  
+
+---
+
+**SUMMARY:**
+
+President Trump has proposed ending birthright citizenship for children born in the U.S. to non-citizen parents, claiming it can be done via executive order. Critics argue this would be "ridiculous" and "unconstitutional," as the 14th Amendment guarantees citizenship to all born in the U.S., a right that cannot be altered by presidential fiat. Trump's suggestion has been widely criticized as "punishing" children of undocumented immigrants and sowing "division" and "anti-immigrant hatred." Republicans like House Speaker Paul Ryan and Rep. Justin Amash have dismissed the idea, stating it exceeds Trump's authority. Trump's proposal aligns with his midterm election strategy, which includes stoking fear about the caravan of Central American migrants. Legal experts, including the ACLU, warn the move would be "unconstitutional" and "transparent" in its divisiveness. Some, like Sen. Lindsey Graham, support ending birthright citizenship through legislation, though it would likely require a constitutional amendment. Trump's rhetoric reflects his long-standing opposition to birthright citizenship, which he claims is a "magnet for illegal immigration." END OF SUMMARY.

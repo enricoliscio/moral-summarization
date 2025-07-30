@@ -1,0 +1,16 @@
+Okay, I need to help the user by summarizing the given news article while preserving the moral framing. Let me read through the article first. It's about the South Korean government's response to the U.S. President Bush's new policy on greenhouse gas emissions and the Kyoto Protocol.
+
+The user wants the summary to be under 200 words, starting with "SUMMARY:" and ending with "END OF SUMMARY." They also mentioned that I should preserve the moral framing, which means I need to highlight the appreciation and the stance towards the U.S. initiative and the Kyoto Protocol.
+
+First, I should identify the key points. The Ministry of Foreign Affairs and Trade issued a statement appreciating the U.S.'s interest in climate change and their new initiative. They acknowledge the flexible approach and consideration for developing countries. However, they also mention the need for more details on the U.S. plan, especially regarding emission levels.
+
+It's also important to note that the U.S. rejected the Kyoto Protocol, which many other countries, including South Korea, are preparing to ratify. The summary should reflect the appreciation for the U.S. effort but also the need for further elaboration.
+
+I should make sure the summary is concise, capturing the appreciation, the need for details, and the context of the Kyoto Protocol. I'll structure it to first mention the appreciation, then the need for elaboration, and finally the international context.
+
+Let me draft the summary, ensuring it's within 200 words and includes the necessary moral framing elements. I'll check the word count and adjust as needed to keep it concise.
+</think>
+
+SUMMARY:  
+The South Korean government has expressed appreciation for the U.S. initiative on climate change, acknowledging its flexible and gradual approach to reducing greenhouse gas emissions while considering developing nations' concerns. However, it emphasized the need for greater elaboration, particularly on concrete methods to establish emission levels. The government also highlighted the importance of international consultations to build understanding of the U.S. plan, while reaffirming its commitment to actively participate in global efforts to address climate change. Over 180 countries, including the U.S., have prepared for the Kyoto Protocol's ratification, which the Bush administration rejected last year. The U.S. has since proposed a new policy focusing on reducing emissions relative to GDP, a shift from its earlier stance. The Korean government's response reflects its support for international cooperation in tackling this critical 21st-century challenge.  
+END OF SUMMARY.

@@ -1,0 +1,43 @@
+Okay, so I need to summarize this news article while preserving the moral framing. The user has given specific instructions: first, identify all the single words that are morally framed, then write a summary that includes as many of those words as possible, keeping it under 200 words.
+
+First, I'll read through the article carefully to understand the context. It's about Nebraska and Oklahoma suing Colorado over its marijuana legalization. The lawsuit claims that Colorado's legal marijuana market is causing problems in neighboring states, like increased arrests and strain on their criminal justice systems. Colorado's attorney general is defending against the lawsuit, saying it's without merit.
+
+Now, for the first step, identifying morally framed words. These are words that carry a positive or negative connotation in the context of the article. Let me go through the article again and pick out such words.
+
+I see words like "challenge," "illegal," "problem," "undermine," "draining," "stress," "scheme," "violating," "pro-drug," "patchwork," "illegal," "influx," "strain," "black market," "violent," "criminal enterprises," "gangs," "cartels," "without merit," "vigorously defend," "pro-drug," "scheme," "violating," "ignoring," "patchwork," "illegal," "influx," "strain," "black market," "violent," "criminal enterprises," "gangs," "cartels," "without merit," "vigorously defend," "scheme," "ignoring," "patchwork," "illegal," "influx," "strain," "black market," "violent," "criminal enterprises," "gangs," "cartels," "without merit," "vigorously defend."
+
+Wait, I think I might be overcomplicating this. The user wants each morally framed word listed, each on a new line starting with *. So I should go through the article and pick out each word that's used in a moral context.
+
+Looking again, words like "challenge," "illegal," "problem," "undermine," "draining," "stress," "scheme," "violating," "pro-drug," "patchwork," "illegal," "influx," "strain," "black market," "violent," "criminal enterprises," "gangs," "cartels," "without merit," "vigorously defend." These are the main ones.
+
+Now, for the summary. I need to condense the article, making sure to include as many of these moral words as possible. The summary should be concise, under 200 words, and capture the essence of the lawsuit, the arguments from both sides, and the implications.
+
+I'll start by stating that Nebraska and Oklahoma filed a lawsuit against Colorado's marijuana laws. They argue that Colorado's legal market is causing problems in their states, like increased arrests and strain on their systems. Colorado's attorney general is defending the law, saying it's without merit. The lawsuit focuses on the commercial aspects, not personal use. Critics worry that shutting down legal sales could boost the black market, involving violent criminal groups.
+
+I need to make sure the summary flows well and includes all the key points and moral framing words. Let me piece it together, ensuring it's under 200 words and includes the necessary terms.
+</think>
+
+**STEP 1:**
+* challenge
+* illegal
+* problem
+* undermine
+* draining
+* stress
+* scheme
+* violating
+* pro-drug
+* patchwork
+* illegal
+* influx
+* strain
+* black market
+* violent
+* criminal enterprises
+* gangs
+* cartels
+* without merit
+* vigorously defend
+
+**SUMMARY:**
+Nebraska and Oklahoma filed a lawsuit challenging Colorado's marijuana legalization, claiming it creates a "dangerous gap" in federal drug control, leading to an influx of marijuana in their states. They argue this undermines their marijuana bans, strains their criminal justice systems, and drains their treasuries. Colorado's attorney general, John Suthers, defended the law, calling the challenge "without merit." The lawsuit targets Colorado's commercial marijuana market, not personal use, but critics warn it could revive the black market, empowering violent criminal enterprises, gangs, and cartels. The suit accuses Colorado of violating federal laws by ignoring drug control objectives and failing to track marijuana sales or conduct background checks. Colorado counters that the lawsuit lacks merit and will defend its regulations. END OF SUMMARY.

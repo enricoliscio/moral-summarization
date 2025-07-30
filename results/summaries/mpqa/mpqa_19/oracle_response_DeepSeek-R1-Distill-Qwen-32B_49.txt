@@ -1,0 +1,14 @@
+Okay, so I need to help the user by summarizing a news article while preserving the moral framing. The user mentioned that I'm a news summarizer and a moral expert, so I should focus on keeping the moral aspects intact. 
+
+First, I'll read the article carefully. It's about Tony Blair disagreeing with Australia's decision to sign a climate change deal with the US. The article talks about the Kyoto Protocol and how Australia's actions might signal moving away from it. There's criticism that Australia is aligning with the US, which wants to dump Kyoto. 
+
+I need to identify the morally framed words. The user provided some, like "disagreed," "dumping," "cosying up," "hurt," "concerned," "should not follow," "obvious disagreement," and "individual countries." I should make sure these words are included in the summary.
+
+Next, I'll structure the summary. It should start by stating Blair's disagreement, then mention Australia's denial about abandoning Kyoto. Then, explain the partnership between Australia and the US, and the critics' viewpoint. Include Blair's concerns about the Kyoto targets and his statement on countries choosing their positions. Also, note that the future of Kyoto is undecided until Johannesburg.
+
+I need to keep it under 200 words and ensure it's concise. I'll make sure to include all the key points and the moral framing words. Let me draft it step by step, checking each point and the word count as I go.
+</think>
+
+SUMMARY:  
+Tony Blair expressed disagreement with Australia's decision to sign a climate change deal with the United States, criticizing the move as a potential signal of abandoning the Kyoto Protocol. Critics argue that Australia is "cosying up" to the US, which aims to "dump" Kyoto, while claiming it remains committed to the agreement. The Australian-US "climate action partnership" focuses on collaboration between governments, businesses, and research bodies, but its implications for Kyoto remain uncertain. Blair acknowledged the "obvious disagreement" with the US on climate change and questioned whether Kyoto's targets go far enough, expressing growing concern over the issue. Meanwhile, Australia's Environment Minister, David Kemp, reaffirmed the country's commitment to Kyoto, though the protocol's future will be decided at a meeting in Johannesburg. Opposition spokesman Kelvin Thomson urged Australia not to follow the US position, highlighting the moral stakes in the debate.  
+END OF SUMMARY.

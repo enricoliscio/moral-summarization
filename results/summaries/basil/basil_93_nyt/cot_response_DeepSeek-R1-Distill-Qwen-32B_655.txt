@@ -1,0 +1,37 @@
+Alright, I need to help the user by summarizing the given news article while preserving the moral framing. Let me start by understanding the task.
+
+First, I have to identify all the single words that are morally framed in the article. That means looking for words that carry a positive or negative moral connotation. I'll go through the text and pick out words like "backlash," "hostage taking," "compromise," "desperation," etc. I'll list each of these with a *.
+
+Next, I need to write a concise summary of the article, making sure to include as many of these morally framed words as possible. The summary should be under 200 words and should capture the essence of the article, highlighting the moral perspectives presented.
+
+I'll start by summarizing the main points: Trump offers a deal during the shutdown, the deal is rejected by Democrats, the moral framing words are identified, and the implications of the deal are discussed. I need to ensure that the summary flows well and includes the key morally charged terms.
+
+I should also make sure the summary is clear and captures the tension between the two parties, the public's reaction, and the political strategies involved. I'll check the word count to ensure it's within the limit.
+
+Finally, I'll present the summary after the "SUMMARY:" token and end it with "END OF SUMMARY." to meet the user's formatting requirements.
+</think>
+
+### STEP 1:
+* Backlash  
+* Hostage taking  
+* Compromise  
+* Desperation  
+* Amnesty  
+* Fair  
+* Reasonable  
+* Common sense  
+* Logjam  
+* Naturalization  
+* Humanitarian  
+* Tragedy  
+* Confidence  
+* Rule of law  
+* Pressure  
+* Reassurance  
+* Stalemate  
+* Desperation  
+
+---
+
+### SUMMARY:  
+President Trump offered a deal to end the government shutdown, proposing $5.7 billion for a border barrier in exchange for temporary protections for 700,000 Dreamers and 300,000 TPS recipients. However, Democrats rejected the proposal, calling it "hostage taking" and insisting on permanent protections. Trump's plan, which included funding for border agents and drug detection technology, was criticized as "fake promises" and "amnesty." Republicans like Susan Collins also opposed the deal, urging an end to the shutdown. The stalemate continued as Trump faced growing public backlash, with polls showing most blame him. His advisers sought an exit strategy, but Democrats refused to negotiate until the government reopened. The proposal, which Trump framed as a "fair compromise," was seen as desperation by some, with no clear path forward as the shutdown entered its fifth week. END OF SUMMARY.

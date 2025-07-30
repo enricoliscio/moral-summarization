@@ -1,0 +1,50 @@
+<think>
+Alright, so I need to tackle this query where the user wants me to act as a news summarizer assistant and a moral expert. The task is to summarize a given news article while preserving the moral framing. Let me break it down step by step.
+
+First, the user provided a detailed news article about the Trump administration's rule affecting federal family planning funds. The article discusses the legal battles, the impact on low-income patients, and the moral arguments from both sides.
+
+The user's instructions have two main parts. The first is to identify all the single words that are morally framed. They want this step labeled as "STEP 1:" with each word on a new line starting with a *. The second part is to write a summary preserving the moral framing, ending with specific tokens.
+
+I need to make sure I understand what "morally framed" words mean. These are words that carry a positive or negative connotation, often indicating a value judgment. For example, "barred," "challenged," "oppose," "unconscionable," etc.
+
+Looking through the article, I'll scan for words that express approval or disapproval. Words like "barred," "challenged," "oppose," "unconscionable," "ethics," "access," "oppression," "winning strategy," etc., seem to fit. I should list each of these, ensuring they're single words and each on a new line with an asterisk.
+
+Next, for the summary, I need to condense the article into 200 words, keeping the moral framing intact. I should highlight the key points: the rule's impact, legal challenges, the divide between pro-life and reproductive rights groups, and the broader implications for healthcare access. I'll make sure to include the morally charged words to reflect the author's stance.
+
+I also need to structure the summary properly, starting with "SUMMARY:" and ending with "END OF SUMMARY." Keeping it concise is crucial, so I'll focus on the main events and the moral arguments presented.
+
+I should double-check that I'm not missing any morally framed words in the article. Maybe I missed some, so I'll go through the text again to ensure all relevant terms are included. Also, in the summary, I'll balance presenting both sides but emphasize the moral perspectives, especially the negative impact on low-income patients as highlighted by Planned Parenthood and their allies.
+
+Finally, I'll review the summary to ensure it flows well and accurately reflects the article's content while maintaining the moral framing. It's important that the summary isn't just a factual recount but also captures the ethical concerns and conflicts presented in the original text.
+</think>
+
+**STEP 1:**
+
+\*barred  
+\*challenged  
+\*oppose  
+\*unconscionable  
+\*ethics  
+\*access  
+\*oppression  
+\*winning  
+\*illegal  
+\*compromises  
+\*unbiased  
+\*gag  
+\*disentangle  
+\*subsidize  
+\*unconscionable  
+\*unethical  
+\*oath  
+\*best  
+\*repercussions  
+\*rely  
+\*exemption  
+\*controversy  
+\*anti-abortion  
+\*pro-life  
+\*controversial  
+
+**SUMMARY:**  
+The Trump administration finalized a rule barring clinics that provide or refer for abortions from receiving federal family planning funds, known as the "domestic gag rule." This rule, challenged in court by reproductive rights groups and states, faced a preliminary injunction by the Ninth Circuit in July. Anti-abortion groups support the rule, arguing that abortion providers should not receive federal funding. However, Planned Parenthood and others argue it will deny low-income patients access to vital health services. The rule requires Title X recipients to be physically and financially separate from abortion providers, effectively barring Planned Parenthood from funding. Critics claim it violates laws requiring unbiased counseling and will leave millions without contraceptive care. The rule is part of the administration's broader effort to limit access to abortion and contraception, with Trump leveraging anti-abortion rhetoric for political gain. The moral debate centers on access, ethics, and the impact on vulnerable populations. END OF SUMMARY.

@@ -1,0 +1,28 @@
+Okay, I need to help the user by summarizing a news article while preserving the moral framing. The user has specified two steps: first, identifying all the morally framed single words, and then writing a summary that includes as many of those words as possible.
+
+Starting with the first step, I should read through the article carefully. I need to look for words that carry moral implications. The article talks about a communications director's Facebook post criticizing the first daughters. Words like "critical," "class," "respect," "good role model," and "hurtful" stand out as having moral connotations. These words are used to judge the behavior or character of the individuals involved.
+
+Next, for the summary, I need to condense the article into a concise version without losing the moral elements. The key points are the director's criticism, the content of her post, the apology, and the context of the Thanksgiving event. I should make sure to include the morally framed words to maintain the original tone and message.
+
+I should structure the summary to include all necessary details: who was involved, what happened, the nature of the criticism, the apology, and the lack of response from others. Keeping it under 200 words is important, so I need to be concise but thorough.
+
+I also need to ensure that the summary flows naturally and clearly, without any markdown or special formatting. It should be a straightforward paragraph that captures the essence of the article, including the moral aspects highlighted by the use of certain words.
+
+Finally, I'll make sure to follow the user's instructions precisely, starting with "SUMMARY:" and ending with "END OF SUMMARY." to meet their formatting requirements.
+</think>
+
+**STEP 1:**
+
+* Critical  
+* Class  
+* Respect  
+* Good role model  
+* Hurtful  
+
+---
+
+**SUMMARY:**  
+
+A Republican communications director, Elizabeth Lauten, working for Rep. Stephen Fincher, apologized for a Facebook post criticizing the Obama daughters, Malia and Sasha, during President Obama's Thanksgiving address. Lauten accused the girls of lacking "class" and questioned their outfits, suggesting they should "dress like they deserve respect." She also criticized the first lady and president for failing to set a "good role model" example. Lauten later apologized, acknowledging her judgment was "hurtful" and vowing to learn from the experience. The White House and Fincher did not respond publicly.  
+
+END OF SUMMARY.

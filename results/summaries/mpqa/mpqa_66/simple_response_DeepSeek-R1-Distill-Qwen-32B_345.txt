@@ -1,0 +1,20 @@
+Alright, so the user has given me a query where I need to act as a news summarizer and a moral expert. They want me to summarize a specific news article while preserving the moral framing the author used. The article is about three international organizations warning against human rights violations in the fight against terrorism, especially after 9/11.
+
+First, I need to understand the key points of the article. The main organizations involved are the Council of Europe, OSCE, and the UN High Commissioner for Human Rights. They issued a joint statement cautioning against using the fight against terrorism as an excuse to violate human rights. They mention specific concerns like excessive measures and the need for governments to balance national security with fundamental freedoms.
+
+I should note the examples given, such as the UK passing emergency legislation allowing detention without trial and the prison incident in Afghanistan. Also, the US's potential expansion of the war to Iraq is mentioned, drawing criticism from Germany and France.
+
+Now, the user wants the summary to be concise, no longer than 200 words, and to preserve the moral framing. That means I should highlight the ethical concerns and the organizations' stance on maintaining human rights.
+
+I need to structure the summary to include the organizations, their main message, the examples provided, and the call for balance. I should avoid technical jargon and keep it clear and straightforward.
+
+Let me start by identifying the main elements: the organizations, their warning, the context (post-9/11), specific concerns, examples, and the call for balance. I'll make sure each of these points is included succinctly.
+
+I also need to ensure that the moral aspect is clear—emphasizing that while fighting terrorism is important, it shouldn't come at the expense of human rights. This includes mentioning the essential rights they highlighted, like the right to life, freedom of expression, and freedom from torture.
+
+Finally, I'll make sure the summary ends with the required tokens, "SUMMARY:" and "END OF SUMMARY." I'll check the word count to stay within the limit, probably around 150-200 words.
+
+Putting it all together, the summary should flow logically, starting with the organizations and their warning, then the context, examples, and concluding with the call for balance and adherence to international law.
+</think>
+
+SUMMARY: Three international organizations—the Council of Europe, OSCE, and UN High Commissioner for Human Rights—warned that the fight against terrorism should not justify human rights violations. They expressed concern over recent developments, particularly after the September 11 attacks, urging governments to avoid excessive measures that could infringe on fundamental freedoms. The joint statement emphasized the need to balance national security with human rights, citing essential rights such as the right to life, freedom of expression, religion, and freedom from torture. The organizations criticized the UK's emergency legislation allowing detention without trial and the tragic killings of Taliban inmates in Afghanistan. They also cautioned against retroactive harsh penalties and warned against expanding the war on terrorism beyond Afghanistan, as hinted by the U.S., drawing criticism from Germany and France. The statement stressed adherence to international law and the protection of civil liberties in the fight against terrorism. END OF SUMMARY.

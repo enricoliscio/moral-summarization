@@ -1,0 +1,39 @@
+Okay, I need to help the user with their query. They provided a news article and specific instructions on how to process it. The task involves two main steps: identifying morally framed words and then summarizing the article while preserving those words.
+
+First, I should read through the article carefully to understand the context and identify any words that carry a moral connotation. The user mentioned that these words are framed by the author, so I need to look for terms that imply values, principles, or judgments.
+
+Looking at the article, I see words like "auspiciously," "illuminated," "superseded," "amendments," "slaves," "prohibition," "partisan," "battled," "constituents," "important," "message," "Tea Party," "expansion," "federal government," "powers," "rights," "responsibilities," "repeal," "health care law," "constitutional basis," "interest," "precedents." These words seem to carry moral weight as they relate to principles, rights, government overreach, and political movements.
+
+Next, I need to summarize the article. The summary should be concise, around 200 words, and include as many of the identified morally framed words as possible. The key points are the reading of the Constitution in the House, the initial disagreements, the purpose behind the reading, and its significance in the political context.
+
+I should structure the summary to highlight the event, the procedural issues, the reasons behind the reading, and its implications. I'll make sure to incorporate the morally framed words to maintain the author's original tone and framing.
+
+Finally, I'll format the response as per the user's instructions: starting with STEP 1, listing each morally framed word, followed by the SUMMARY section, and ending with the specified tokens.
+</think>
+
+**STEP 1:**  
+* auspiciously  
+* illuminated  
+* superseded  
+* amendments  
+* slaves  
+* prohibition  
+* partisan  
+* battled  
+* constituents  
+* important  
+* message  
+* Tea Party  
+* expansion  
+* federal government  
+* powers  
+* rights  
+* responsibilities  
+* repeal  
+* health care law  
+* constitutional basis  
+* interest  
+* precedents  
+
+**SUMMARY:**  
+The 112th Congress began by reading the U.S. Constitution aloud, a symbolic act meant to set a tone of constitutional adherence. The process started with partisan disputes over which parts of the Constitution to include, notably omitting sections superseded by amendments, such as those referencing slaves. The reading aimed to instruct lawmakers and constituents about Congress's constitutional limits, reflecting the Tea Party's emphasis on strict constitutional governance. House Republicans also used the occasion to advance their agenda, including repealing the health care law, which they argued lacked constitutional basis. This event marked a rare instance of the Constitution being read aloud on the House floor, with members from both parties participating. The act was seen as a nod to the Tea Party movement and a response to debates over federal overreach. END OF SUMMARY.

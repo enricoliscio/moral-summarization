@@ -1,0 +1,35 @@
+Okay, so the user has given me a query where I need to act as a news summarizer assistant and a moral expert. They provided a news article about a mass shooting and specific instructions on how to process it. Let me break this down step by step.
+
+First, the user wants me to identify all the single words that are morally framed in the article. They mentioned this as STEP 1, and each word should be listed with a * and on a new line. I need to go through the article and pick out words that carry moral connotations. Words like "mass shooting," "killed," "senseless," "domestic violence," "court-martialed," "failed," "problem," "massacre," "domestic dispute," "threatening," "arrested," "die-in protest," "stricter," "senseless," "problem," "massacre," "domestic situation," "threatening," "strict." I'll list these out.
+
+Next, the user wants a summary of the article, preserving the moral framing. The summary needs to be concise, under 200 words, and include as many of the identified moral words as possible. I should start with the event, mention the shooter's background, the Air Force's failure, the gun purchase, the domestic dispute motive, and the activists' protest. I'll make sure to use the morally charged words to maintain the author's framing.
+
+I also need to ensure that the summary flows well and covers all key points without being too lengthy. I'll structure it by first introducing the shooting, then the shooter's history, the Air Force's oversight, the domestic dispute, and the activists' response. This should encapsulate the moral aspects effectively.
+
+I should double-check that I'm using the correct morally framed words and that the summary accurately reflects the article's content while preserving the moral tone. Also, I need to make sure the summary is clear and within the word limit. Once that's done, I'll present the summary after the specified tokens.
+</think>
+
+**STEP 1:**  
+* Mass shooting  
+* Killed  
+* Senseless  
+* Domestic violence  
+* Court-martialed  
+* Failed  
+* Problem  
+* Massacre  
+* Domestic dispute  
+* Threatening  
+* Arrested  
+* Die-in protest  
+* Stricter  
+* Senseless  
+* Problem  
+* Massacre  
+* Domestic situation  
+* Threatening  
+* Strict  
+
+**SUMMARY:**  
+A senseless mass shooting occurred at the First Baptist Church in Sutherland Springs, Texas, killing 26 people, including children, the elderly, and a pregnant woman. The suspected shooter, Devin Patrick Kelley, a 26-year-old white man, had a history of domestic violence, including a court-martial in the Air Force for attacking his wife and stepson. Despite his violent past, the Air Force failed to report his record to a federal database, allowing him to purchase an assault rifle. Kelley allegedly carried out the massacre due to a domestic dispute with his mother-in-law, a church member. Authorities emphasized that the attack was not racially or religiously motivated but stemmed from a family conflict. Meanwhile, seven activists from Gays Against Guns were arrested during a die-in protest advocating for stricter gun control.  
+END OF SUMMARY.

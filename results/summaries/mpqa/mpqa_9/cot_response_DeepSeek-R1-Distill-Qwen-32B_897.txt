@@ -1,0 +1,42 @@
+Okay, so the user has given me a query where they want me to act as a news summarizer and a moral expert. The task is to summarize a news article while preserving the moral framing. They've provided specific steps: first, identify all morally framed words, then write a concise summary using those words.
+
+First, I need to understand what morally framed words are. These are words that carry a judgment or imply a value, like "concerned," "sufficient," "voluntary," etc. I'll go through the article and pick out each word that has a moral connotation.
+
+Next, I'll list each of these words, each on a new line with an asterisk. That's step one done. 
+
+Then, for the summary, I need to make sure it's under 200 words and includes as many of those morally framed words as possible. I'll read the article again to get the main points: the US's climate proposals are domestic and insufficient, the EU's concerns about voluntary measures, the comparison to the Kyoto Protocol, and the EU's commitment to their own plan. I'll structure the summary to highlight these points, using the identified moral words to maintain the original framing.
+
+I should also ensure the summary flows well and covers all key aspects without being too technical. I'll need to mention the US's intensity target, the EU's concerns about voluntary actions, the lack of a cap-and-trade system, and the EU's determination to proceed with the Kyoto Protocol. 
+
+Finally, I'll make sure the summary ends with the required tokens and stays within the word limit. I think that's a solid plan to tackle the user's request effectively.
+</think>
+
+**STEP 1:**
+
+\*clear  
+\*domestic  
+\*concerned  
+\*sufficient  
+\*intensity target  
+\*voluntary  
+\*effectiveness  
+\*prolongation  
+\*business-as-usual  
+\*current emission projections  
+\*increase  
+\*substantial increase  
+\*mandatory monitoring  
+\*adequately assess  
+\*comparable  
+\*Kyoto Protocol  
+\*ratification  
+\*optimistic  
+\*examine  
+\*dialogue  
+
+---
+
+**SUMMARY:**  
+
+The US's proposed climate action plans are domestically focused but insufficient to reduce emissions effectively, according to the EU. The "intensity target" allows for increased absolute emissions, unlike the Kyoto Protocol, which mandates absolute reductions. The 1992 Climate Change Convention requires industrialised countries, including the US, to stabilise greenhouse gas emissions at 1990 levels, but the new plan fails to achieve this, leading to a projected 33% increase by 2012. The EU criticises the voluntary nature of the US plan and the delayed review of its effectiveness. The EU favours a cap-and-trade system, which it plans to implement by 2005, covering 46% of CO2 emissions. While the EU welcomes the US's policy review, it remains concerned about the lack of mandatory monitoring and the adequacy of the effort compared to the Kyoto Protocol. The EU is determined to ratify the Kyoto Protocol by June 2002 and hopes other major players like Japan and Russia will join its efforts. The EU will continue to assess the US plan and maintain dialogue.  
+**END OF SUMMARY.**

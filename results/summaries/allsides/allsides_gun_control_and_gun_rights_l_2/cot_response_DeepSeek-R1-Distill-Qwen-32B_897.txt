@@ -1,0 +1,40 @@
+Alright, so the user has given me a query where they want me to act as a news summarizer assistant and a moral expert. They provided a news article and specific instructions on how to process it. Let me break this down.
+
+First, the user wants me to identify all the single words that are morally framed in the article. They mention this as STEP 1 and want each word listed with a * at the beginning of each line. Then, I need to write a summary that preserves as many of these morally framed words as possible. The summary should be concise, under 200 words, and follow specific formatting with "SUMMARY:" and "END OF SUMMARY." tokens.
+
+Looking at the article, it's about Democrats pushing for stricter gun control, especially background checks, after the midterm elections. There are mentions of specific events like Sandy Hook, Parkland, and others, which are emotionally charged. The article also talks about legislative efforts, failed bipartisan attempts, and the impact on victims' families.
+
+For STEP 1, I need to find words that carry moral connotations. Words like "bitterly divides," "gun control," "anti-gun," "harassment," "hoax," "conspiracy," "emboldened," "strident," "priority," "survivors," "bereaved," "victims," "mass shootings," "languished," "blocked," "top priority," "tighten," "survived," "campaign," "action." These words carry moral weight as they relate to division, control, opposition, harassment, deceit, persistence, and the push for change.
+
+Now, for the summary, I need to condense the article, making sure to include as many of these moral words as possible without making it too long. I'll start by stating the Democrats' plan, mention the background checks, the leaders involved, the events they're referencing, the legislative challenges, and the ongoing efforts despite obstacles. I'll also include the lawsuit as it shows the emotional and moral struggle.
+
+I need to ensure the summary flows well and stays within 200 words. I'll check each sentence to include the key points and the moral framing words. Making sure it's concise but covers all important aspects: the legislative push, the events, the challenges in Congress, and the broader implications like the 2020 election.
+
+Finally, I'll format it correctly, starting with "SUMMARY:" and ending with the token. I'll review to ensure all the moral words are included and that the summary accurately reflects the article's content while maintaining the moral perspective.
+</think>
+
+**STEP 1:**  
+* bitterly  
+* gun control  
+* anti-gun  
+* harassment  
+* hoax  
+* conspiracy  
+* emboldened  
+* strident  
+* priority  
+* survivors  
+* bereaved  
+* victims  
+* mass shootings  
+* languished  
+* blocked  
+* top priority  
+* tighten  
+* survived  
+* campaign  
+* action  
+
+**SUMMARY:**  
+Democrats in the House plan to prioritize legislation requiring background checks on all gun sales, following the midterm elections. Prominent figures like Chris Murphy and Richard Blumenthal, representing Connecticut, are leading the push, alongside anti-gun violence groups and survivors. The effort aims to address the deeply divisive issue of gun control in the U.S., following mass shootings in Parkland, Las Vegas, and other cities. Despite stalled progress under Republican control, Democrats are emboldened to pursue a strident new strategy, with 46 incoming House members demanding gun reform as a top priority. Bipartisan efforts, like those supported by Peter King, have failed in the past, but new legislation is expected. Meanwhile, families of victims, including Lenny Pozner, whose son Noah was killed in Sandy Hook, continue to fight against conspiracy theorists. The emotional and moral struggle over gun control persists as Democrats seek to make progress ahead of the 2020 election.  
+**END OF SUMMARY.**

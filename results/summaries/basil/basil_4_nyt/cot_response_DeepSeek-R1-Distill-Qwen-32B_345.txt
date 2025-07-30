@@ -1,0 +1,46 @@
+Okay, I need to help the user by summarizing the given news article while preserving the moral framing. Let me start by understanding the task. The user provided a news article about Michael Steele's comments on the Afghanistan war, and they want a summary that includes morally framed words.
+
+First, I should identify the morally framed words. I'll go through the article and pick out words that carry moral connotations. Words like "criticism," "resignation," "wrong side," "critique," "student of history," "gaffes," "embarrassments," "success," "causes," "principles," "betting against," "rooting for failure," "success," "security," "free world," "support," "success," "increase," "troop force," "success," "stake," "success," "necessary," "success," "success," "success." I'll list these as STEP 1.
+
+Next, I need to write a concise summary, under 200 words, using as many of these words as possible. The summary should capture the key points: Steele's criticism, the call for his resignation, the context of the war, and the reactions from both sides. I'll make sure to include the moral terms to reflect the author's framing.
+
+I'll structure the summary to first mention Steele's statement and the criticism it received. Then, I'll explain the context of the war and Steele's argument that it's Obama's war. I'll include Kristol's call for resignation and the opposing views from Democrats and Republicans. Finally, I'll note Steele's support for the troops and the ongoing debate.
+
+I should ensure the summary flows well and stays within the word limit. Let me draft it, making sure to incorporate the moral words naturally without forcing them in. I'll check the word count to make sure it's under 200. Once done, I'll present the summary as per the user's instructions, starting with "SUMMARY:" and ending with "END OF SUMMARY."
+</think>
+
+**STEP 1:**
+
+* Criticism
+* Resignation
+* Wrong side
+* Critique
+* Student of history
+* Gaffes
+* Embarrassments
+* Success
+* Causes
+* Principles
+* Betting against
+* Rooting for failure
+* Success
+* Security
+* Free world
+* Support
+* Success
+* Increase
+* Troop force
+* Success
+* Stake
+* Success
+* Necessary
+* Success
+* Success
+* Success
+
+---
+
+**SUMMARY:**
+
+Michael Steele, chairman of the Republican National Committee, faced criticism and calls for his resignation after stating that the U.S. was on the "wrong side of history" in Afghanistan, calling it "a war of Obama’s choosing." Steele criticized President Obama’s military strategy, suggesting the war was not actively prosecuted by the U.S. and questioning Obama’s historical understanding. His remarks were controversial, with conservative voices like William Kristol arguing the war was not Obama’s choice but began under Bush. Steele later clarified his support for winning the war, emphasizing its necessity post-9/11. Critics accused him of "betting against our troops" and "rooting for failure," while Steele defended his stance, supporting troop increases and General Petraeus’s confirmation. The debate over Afghanistan’s necessity and success continued, with Steele’s comments sparking further controversy.  
+**END OF SUMMARY.**

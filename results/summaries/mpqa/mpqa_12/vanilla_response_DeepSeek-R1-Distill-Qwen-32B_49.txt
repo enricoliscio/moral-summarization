@@ -1,0 +1,8 @@
+Okay, so the user wants me to summarize a news article about Florida astronauts repairing the space station. The article mentions astronauts Linda Godwin and Daniel Tani performing a spacewalk to cover motors with thermal covers. Their goal is to protect the motors from temperature extremes, which should help with power issues. They used the shuttle's robot arm to move around.
+
+I need to make sure the summary is concise, under 200 words, and starts with "SUMMARY:" and ends with "END OF SUMMARY." I should include the key points: who did it, what they did, the purpose, and the method. Maybe mention the shuttle they used, Endeavour. I should avoid any extra details not essential to the main points.
+
+Let me structure it: astronauts, spacewalk, thermal covers on motors, reason for the repair, and how they moved using the robot arm. Keep it clear and straightforward. Make sure it's all within the word limit. Double-check the names and the shuttle's name for accuracy.
+</think>
+
+SUMMARY: Two astronauts, Linda Godwin and Daniel Tani, conducted a spacewalk from the shuttle Endeavour to repair the International Space Station's solar wings. They installed thermal covers on motors that adjust the solar panels to face the sun, aiming to protect them from extreme space temperatures and address power fluctuations. The motors are crucial for generating electricity. The astronauts used the shuttle's robot arm to move 50 feet up the station during the repair. END OF SUMMARY.

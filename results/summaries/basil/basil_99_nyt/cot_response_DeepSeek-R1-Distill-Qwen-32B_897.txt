@@ -1,0 +1,44 @@
+<think>
+Okay, so I need to help the user by summarizing this news article while preserving the moral framing. First, I should understand what the user is asking for. They want me to act as a news summarizer and a moral expert. That means I need to not only condense the article but also keep the moral implications intact.
+
+The user provided a specific structure: first, identify all the single words that are morally framed, each on a new line with a *. Then, write a summary using those words where possible, keeping it under 200 words. They also mentioned that the summary should end with "END OF SUMMARY."
+
+Looking at the article, it's about a hearing in the House Intelligence Committee after Mueller's report. The Republicans are demanding Schiff's resignation, and there's a lot of conflict between the parties. There's a lot of charged language here, so I need to pick out words that carry moral weight.
+
+Starting with the first step, I'll go through the article and note words that have a moral connotation. Words like "acrimony," "divided," "absolve," "nefarious," "immoral," "unethical," "unpatriotic," "corrupt," "abuse," "false," "integrity," "irresponsible," "criminal," "scaredy-cats," "conspiracy," "destabilize," "underestimated," "platform," "falsehoods," "abuse," "hypocrisy," and "bias."
+
+Now, for the summary, I need to weave these words in naturally. The key points are the hearing's conflict, Schiff's stance, the accusations, and the contrast with the Senate committee. I should highlight the moral framing by including words like "nefarious," "immoral," "corrupt," and "unpatriotic." Also, mention the accusations of "abuse" and "false information."
+
+I should make sure the summary is concise, under 200 words, and captures the essence of the conflict and the moral arguments from both sides. I'll start by setting the scene of the hearing, then move into the accusations and responses, and end with the contrast to the Senate committee's approach.
+
+I need to ensure that the summary flows well and that the moral terms are used appropriately without making it sound forced. Also, I should keep the language clear and direct, sticking to the facts while emphasizing the moral elements.
+
+Finally, I'll review to make sure I haven't missed any key points and that the summary accurately reflects the article's content and moral framing.
+</think>
+
+**STEP 1:**  
+* acrimony  
+* divided  
+* absolve  
+* nefarious  
+* immoral  
+* unethical  
+* unpatriotic  
+* corrupt  
+* abuse  
+* false  
+* integrity  
+* irresponsible  
+* criminal  
+* scaredy-cats  
+* conspiracy  
+* destabilize  
+* underestimated  
+* platform  
+* falsehoods  
+* abuse  
+* hypocrisy  
+* bias  
+
+**SUMMARY:**  
+The House Intelligence Committee hearing, held after Robert Mueller's report, was marred by acrimony as Republicans demanded Chairman Adam Schiff's resignation, accusing him of McCarthyism and spreading false information. Schiff defended his stance, labeling certain actions by the Trump administration as immoral, unethical, and unpatriotic. Republicans, citing Mueller's findings, accused Schiff of abusing his position and undermining the committee's integrity. Democrats, led by Nancy Pelosi, supported Schiff, calling him calm and professional, while criticizing Republicans for their irresponsible behavior. The hearing highlighted the deep divide in Congress over the Russia investigation, with Democrats vowing to continue their work despite Republican accusations of bias and conspiracy. Meanwhile, the Senate Intelligence Committee quietly continued its own probe, contrasting the House's chaotic proceedings. END OF SUMMARY.

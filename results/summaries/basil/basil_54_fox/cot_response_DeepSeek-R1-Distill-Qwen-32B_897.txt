@@ -1,0 +1,31 @@
+Okay, so I need to help the user by summarizing a news article while preserving the moral framing. First, I should understand what the user is asking for. They provided a detailed news article about Arkansas Governor Asa Hutchinson's stance on a religious freedom bill. The user wants me to identify morally framed words and then write a summary that includes as many of those words as possible.
+
+Starting with STEP 1, I need to go through the article and pick out words that carry moral connotations. Words like "controversial," "discriminate," "criticism," "backlash," "veto," "discriminatory," "stifle," "tolerance," "opposition," "public outcry," "flies in the face," "values," "strongly support," "falsely," "suggest," "significant expansion." These words are used to convey the moral aspects of the debate around the bill.
+
+Next, for the summary, I need to condense the article into 200 words, making sure to include these moral terms. The summary should reflect the governor's position, the criticism he's facing, and the broader implications of the bill. I should mention the federal law comparison, the pressure from businesses and the public, and the White House's opposition.
+
+I also need to structure the summary clearly, starting with the governor's initial support and then his change of stance. Highlighting the generational gap and the pressure from major employers like Wal-Mart adds context. Ending with the White House's criticism ties it back to the national debate.
+
+I should ensure that the summary flows well and covers all key points without being too verbose. Making sure each morally framed word is appropriately included without forcing them in. This way, the summary maintains the original moral framing as intended by the user.
+</think>
+
+**STEP 1:**  
+* Controversial  
+* Discriminate  
+* Criticism  
+* Backlash  
+* Veto  
+* Discriminatory  
+* Stifle  
+* Tolerance  
+* Opposition  
+* Public outcry  
+* Flies in the face  
+* Values  
+* Strongly support  
+* Falsely  
+* Suggest  
+* Significant expansion  
+
+**SUMMARY:**  
+Arkansas Governor Asa Hutchinson faced intense criticism over a controversial religious freedom bill, which critics argued could allow discrimination based on sexual orientation. Initially planning to sign the bill, Hutchinson later urged state lawmakers to amend it to better align with a 1993 federal law. He emphasized the need to strike a "right balance" between religious freedom and non-discrimination, though he remained supportive of the bill's intent. The governor cited a "generational gap," noting even his own son opposed the measure. Major employers, including Wal-Mart, and local businesses pressured Hutchinson to reject the bill, fearing it would harm economic development. The Human Rights Campaign also targeted the governor, running ads against the legislation. The White House criticized the bill, calling it a "significant expansion" of current law and opposing its discriminatory implications. Hutchinson's decision to seek changes reflects the national debate over balancing religious traditions with anti-discrimination values. END OF SUMMARY.

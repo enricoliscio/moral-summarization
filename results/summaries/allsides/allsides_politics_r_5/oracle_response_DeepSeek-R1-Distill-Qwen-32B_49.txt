@@ -1,0 +1,16 @@
+<think>
+Okay, I need to help the user by summarizing the given news article while preserving the moral framing. The user provided a detailed article about George Papadopoulos and his cooperation with the Mueller investigation. They also listed specific morally charged words that should be included in the summary.
+
+First, I should read through the article to understand the key points. The main points are: Papadopoulos accepted a plea deal for lying to the FBI, he's a proactive cooperator, which might mean he's wearing a wire, and his role in the investigation. The article also mentions the Mueller investigation into Russian interference, the arrest, and the White House's downplay of his involvement.
+
+Next, I need to identify the morally framed words from the user's list: lying, investigating, interference, undermine, activity, arrested, investigation, collusion, claimed, downplayed, laundering, conspiracy. I should make sure these words are included in the summary.
+
+I'll start by mentioning Papadopoulos's plea deal and lying to the FBI. Then, explain that he's a proactive cooperator, possibly wearing a wire. Include the Mueller investigation into Russian interference. Note his arrest and the charges. Mention his claimed interactions with Russians and the emails that exposed his lies. Highlight the White House downplaying his role and the speculation about his wire activities. Finally, note the implications for the investigation.
+
+I need to keep the summary concise, under 200 words, and make sure it flows naturally while incorporating the moral terms. I should avoid adding any personal opinions or extra information beyond what's in the article.
+
+Let me structure the summary step by step, ensuring each key point is covered with the appropriate moral framing. I'll check the word count to stay within the limit. Once done, I'll present it clearly after the "SUMMARY:" token and end with "END OF SUMMARY."
+</think>
+
+SUMMARY:  
+George Papadopoulos, a former Trump campaign adviser, accepted a plea deal for lying to the FBI about his contacts with Russians. Court documents describe him as a "proactive cooperator," suggesting he may have worn a wire to assist Robert Mueller's investigation into Russian interference in the 2016 election. Prosecutors requested court filings be sealed to protect Papadopoulos' ability to cooperate. At his plea hearing, prosecutors noted his efforts to cooperate, contingent on providing information to the government. Papadopoulos was arrested in July for lying about his interactions with Russian nationals, including discussing arranging meetings between the Trump campaign and Russian officials. His claims were contradicted by emails and social media exchanges. The White House downplayed his role, denying collusion with Russia. The revelation of Papadopoulos' cooperation sparked speculation about his involvement in undercover activities, potentially including wearing a wire. Legal analysts suggest his cooperation could have involved recording conversations with Trump associates, adding a new dimension to the investigation. END OF SUMMARY.

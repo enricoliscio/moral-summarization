@@ -1,0 +1,48 @@
+Okay, so the user has given me a query where they want to summarize a news article while preserving the moral framing. They provided specific steps: first, identify all the morally framed single words, then write a concise summary using those words. 
+
+First, I need to understand what constitutes a morally framed word. These are words that carry strong ethical or value-based connotations, such as "cruel," "humanitarian," or "plight." I'll go through the article and pick out each of these words, making sure they're single words and relevant to the moral context.
+
+Next, I need to summarize the article. The summary should be no longer than 200 words and include as many of the identified moral words as possible. I'll focus on the key points: the bill's passage, the funding, the opposition, the conditions at the border, and the political implications. I'll ensure that the summary reflects the moral stance presented in the original article, highlighting the humanitarian efforts and the opposing viewpoints.
+
+I also need to structure the response with two parts: STEP 1 listing the moral words and then the SUMMARY. I must make sure to use the correct tokens and keep each section clear and concise. 
+
+Let me start by reading through the article again to extract the morally framed words. Words like "emergency," "care," "detained," "plight," "cruel," "humanitarian," "belong," "safeguards," "score," "avoiding," "work," "solve," "gruesome," "windowless," "housed," "adequate," "overwhelmed," "depleting," "harsh," "outrage," "treatment," "veto," "objected," "lacked," "toughen," "security," "proposed." 
+
+Now, for the summary, I'll start with the passage of the bill, mention the funding, the political divide, the conditions faced by migrants, and the criticism from both sides. I'll make sure to include the moral words to convey the ethical implications as presented in the article.
+
+I need to keep the summary under 200 words, so I'll be concise but comprehensive, ensuring all key points are covered without unnecessary details. I'll also make sure the summary flows logically, starting with the bill's passage, the funding details, the political opposition, the conditions, and the consequences of inaction.
+
+Finally, I'll review both the list of moral words and the summary to ensure they accurately reflect the original article's moral framing and that the summary is clear and within the word limit.
+</think>
+
+**STEP 1:**  
+* emergency  
+* care  
+* detained  
+* plight  
+* cruel  
+* humanitarian  
+* belong  
+* safeguards  
+* score  
+* avoiding  
+* work  
+* solve  
+* gruesome  
+* windowless  
+* housed  
+* adequate  
+* overwhelmed  
+* depleting  
+* harsh  
+* outrage  
+* treatment  
+* veto  
+* objected  
+* lacked  
+* toughen  
+* security  
+* proposed  
+
+**SUMMARY:**  
+The House passed a $4.5 billion emergency border aid package to address the humanitarian crisis at the U.S.-Mexico border, despite opposition from some progressives and Republicans. The bill, which funds care for migrant families and unaccompanied children, faced criticism from President Trump and Senate Republicans, who proposed a different measure. House Speaker Nancy Pelosi emphasized the bill's focus on humanitarian needs, such as food, shelter, and medical care, while blocking funds for the border wall. However, three moderate Republicans supported the bill, and some Democrats opposed it due to concerns over immigration enforcement. The urgency to pass the legislation was heightened by reports of dire conditions in Border Patrol facilities, including overcrowding and inadequate care. Federal agencies are overwhelmed, and critics argue the bill is politically motivated. The Senate's bill, which passed with bipartisan support, aims to address the crisis without funding controversial policies. The political standoff highlights the moral imperative to protect vulnerable migrants while balancing border security. END OF SUMMARY.

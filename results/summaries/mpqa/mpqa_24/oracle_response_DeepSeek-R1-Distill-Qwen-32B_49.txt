@@ -1,0 +1,12 @@
+Alright, I need to help the user by summarizing the given news article while preserving the moral framing. The user specified that I should use the morally framed words "ballooned," "disaster," and "clean." 
+
+First, I'll read through the article to understand the main points. NASA is changing leadership, moving from Daniel Goldin to Sean O'Keefe. The focus is shifting from exploration to cost-cutting and credibility. Goldin's tenure had successes but also issues like the space station's budget ballooning. The article mentions the space station's costs going way over, which fits the "ballooned" word. 
+
+I should highlight that O'Keefe's background is in finance, not space, which is a shift. The mention of the Challenger disaster is important, so I'll include that as a past problem. The need for NASA to clean up its act ties in the "clean" word. 
+
+I'll structure the summary to include these points: the leadership change, the shift in focus, the ballooning costs, the disaster reference, and the need for cleaning up. I'll make sure to keep it concise, under 200 words, and use the specified moral terms. 
+
+Let me draft the summary, ensuring it flows well and includes all key points without losing the moral framing. I'll check the word count to stay within limits. Once done, I'll present it after the "SUMMARY:" token and end with "END OF SUMMARY." as instructed.
+</think>
+
+SUMMARY: NASA faces a new era under Sean O'Keefe, a financial expert replacing Daniel Goldin, as the agency grapples with soaring costs and a dysfunctional image. Goldin's tenure saw successes like water discovery on the moon and Mars exploration, but the International Space Station's budget ballooned from $17.4 billion to over $30 billion, eroding credibility. O'Keefe, with a background in finance and Pentagon management, is tasked with fixing the fiscal morass, potentially clashing with international partners over scaling back the station. Critics argue this could violate agreements and limit international use. Analysts compare O'Keefe to James Webb, who led NASA during its Apollo heyday, but note the agency's objectives have grown less visionary since. The administration sees O'Keefe's appointment as a message: NASA must clean up its act before pursuing ambitious projects. END OF SUMMARY.

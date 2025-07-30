@@ -1,0 +1,29 @@
+Okay, so I need to help the user with summarizing a news article while preserving the moral framing. Let me start by understanding the query. The user wants two things: first, to identify all the morally framed words in the article, and second, to write a concise summary that includes as many of those words as possible.
+
+Looking at the article, it's about the U.S. Treasury recognizing same-sex marriages for tax purposes, regardless of the state. The moral framing here likely involves words related to equality, justice, rights, discrimination, etc. 
+
+First, I'll go through the article to pick out words that carry moral connotations. Words like "progress," "discriminatory," "equality," "justice," "rights," "protections," "burden," "discrimination," "remedy," "fairness," and "freedom" stand out. These words are used to convey the moral stance of the policy change.
+
+Next, I need to write a summary that includes these words. The summary should be under 200 words and capture the essence of the article while highlighting the moral aspects. I'll start by stating the main decision, then explain the background with DOMA, mention Edie Windsor's case, outline the benefits and penalties, and conclude with the significance of the policy.
+
+I have to make sure the summary flows well and includes the key morally framed words without making it sound forced. I'll also need to keep it concise, so I'll focus on the most impactful points.
+
+Putting it all together, I'll structure the summary to first introduce the policy, then provide context, outline the implications, and conclude with the positive outcome and the moral victory. This should effectively convey the article's message while preserving the intended moral framing.
+</think>
+
+**STEP 1:**  
+* Progress  
+* Discriminatory  
+* Equality  
+* Justice  
+* Rights  
+* Protections  
+* Burden  
+* Discrimination  
+* Remedy  
+* Fairness  
+* Freedom  
+
+**SUMMARY:**  
+The U.S. Department of the Treasury has announced that same-sex married couples will be recognized for federal tax purposes regardless of their state of residence, marking a significant step toward equality. This decision follows the Supreme Court’s overturning of the Defense of Marriage Act (DOMA), which previously denied federal benefits to same-sex couples. The new policy ensures that legally married same-sex couples can access the same tax benefits, protections, and responsibilities as heterosexual couples, regardless of where they live. It also addresses the "marriage penalty," which may affect some upper-middle-class couples. The policy was praised for its fairness and for remedying the discriminatory treatment faced by same-sex couples, such as Edie Windsor, who sued the government after being forced to pay estate taxes due to DOMA. This ruling underscores the administration’s commitment to justice and equality for the LGBTQ+ community.  
+**END OF SUMMARY.**

@@ -1,0 +1,22 @@
+Okay, so the user has given me a query where I need to act as a news summarizer and a moral expert. They provided a news article about the space shuttle Endeavour docking with the International Space Station. The task has two main parts: first, identifying morally framed words, and second, summarizing the article while preserving those moral terms.
+
+Starting with the first step, I need to go through the article and pick out words that carry moral connotations. Words like "delivered," "relieve," "awaited," "isolated," "frustrated," and "tradition" come to mind. These words suggest emotions, actions, or values, so they fit the moral framing.
+
+Next, for the summary, I have to make sure I include these words while keeping it concise, under 200 words. I should maintain the key points: the docking, the crew change, the emotions of the commander, and the transition of command. I need to ensure the summary flows naturally and includes all the morally framed words without making it sound forced.
+
+I also need to structure the response correctly, starting with "STEP 1:" listing each word with an asterisk, then the "SUMMARY:" followed by the concise summary ending with "END OF SUMMARY." I should double-check that the summary accurately reflects the original article's content and maintains the moral elements identified.
+
+Finally, I'll review everything to make sure it's clear, concise, and meets the user's requirements. This way, the response should effectively fulfill both parts of the query as specified.
+</think>
+
+**STEP 1:**  
+* Delivered  
+* relieve  
+* awaited  
+* isolated  
+* frustrated  
+* tradition  
+
+**SUMMARY:**  
+Space shuttle Endeavour successfully docked with the International Space Station, delivering a new three-member crew to relieve the existing crew that had been in orbit since August. Commander Frank Culbertson, a retired Navy fighter pilot, expressed feelings of isolation and frustration following the Sept. 11 terrorist attacks. Culbertson and his Russian crewmates, Vladimir Dezhurov and Mikhail Tyurin, welcomed the arrival of Endeavour, with Culbertson ringing the ship's bell and announcing, "Endeavour arriving," in tradition. The outgoing crew will depart the station, making way for the new crew led by Russian commander Yuri Onufrienko, along with Americans Carl Walz and Daniel Bursch, who will remain on board until May.  
+**END OF SUMMARY.**

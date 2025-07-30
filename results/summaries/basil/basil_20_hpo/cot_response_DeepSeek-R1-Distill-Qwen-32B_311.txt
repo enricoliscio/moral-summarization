@@ -1,0 +1,31 @@
+Okay, so I'm trying to help the user by summarizing a news article while preserving the moral framing. The user has given specific instructions: first, identify all the morally framed single words, and then write a concise summary that includes those words. 
+
+Looking at the article, Rick Santorum made several controversial statements. I need to pick out words that carry moral connotations. Words like "controversial," "questioned," "challenged," "phony," "radical," "cull," "anachronistic," "meet," "disqualify," "race," "bottom." These words are key because they reflect the moral stance of the statements.
+
+Now, for the summary, I need to condense the article into 200 words. I should mention Santorum's defense of his remarks on prenatal testing leading to abortions, his criticism of Obama's policies as not based on the Bible, and his views on education. Also, include Gibbs' criticism that Santorum's rhetoric is over the line and the race to the bottom in the GOP. I have to make sure to include all the morally framed words identified earlier.
+
+I need to structure the summary logically, starting with Santorum's interview, his defense of his statements, his views on education, and then the criticism from Obama's campaign. I should keep each sentence concise and ensure that all key points are covered without exceeding the word limit.
+
+Let me make sure I include all the necessary details: the context of the interview, his specific criticisms, the moral framing of his words, and the reaction from the Obama campaign. I also need to ensure that the summary flows well and accurately represents the article's content.
+
+Finally, I'll write the summary, making sure to start with "SUMMARY:" and end with "END OF SUMMARY." I'll double-check the word count to stay within 200 words and ensure all morally framed words are included as per the instructions.
+</think>
+
+### STEP 1:
+* Controversial  
+* Questioned  
+* Challenged  
+* Phony  
+* Radical  
+* Cull  
+* Anachronistic  
+* Meet  
+* Disqualify  
+* Race  
+* Bottom  
+
+---
+
+### SUMMARY:
+Rick Santorum defended his controversial remarks during a CBS interview, including claims that prenatal testing leads to abortions, federally provided education is "anachronistic," and President Obama's policies are not "based on the Bible." Santorum denied challenging Obama's Christianity but criticized his "worldview," calling it "different than most people view it in America." He dismissed Obama's politics as rooted in "phony theology," arguing that environmentalism is a "phony ideal" and that man should not "serve the earth." Santorum also opposed mandatory coverage of prenatal testing, asserting it leads to abortions, and criticized government-run education for not "meet[ing] the needs of the customer." Obama campaign aide Robert Gibbs condemned Santorum's rhetoric as "well over the line," calling it a "race to the bottom" in the GOP.  
+END OF SUMMARY.

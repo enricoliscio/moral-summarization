@@ -1,0 +1,30 @@
+Okay, so I need to help the user by summarizing the news article while preserving the moral framing. The user has given specific instructions, so I should follow them carefully. 
+
+First, I'll read the article to understand the context. It's about Cubans celebrating Chavez's return to power and comparing the coup attempt to the Bay of Pigs. The article mentions Castro supporters, the Communist Party, and the U.S.'s involvement. 
+
+The user wants me to identify all the single words that are morally framed. I need to look for words that carry a moral connotation. Words like "celebrate," "failed," "disastrous," "overthrow," "dignity," "honor," "friend," "loyalist," "brushed aside," "encouraged," "seized," "failed," "killed," "captured." These words have positive or negative moral implications, so they're important to highlight.
+
+Next, I need to write a concise summary, keeping the morally framed words. The summary should be under 200 words. I'll start by mentioning the celebration, the comparison to Bay of Pigs, the participants, the Communist Party's statement, the U.S. reaction, and the historical context of the Bay of Pigs. I'll make sure to include the key morally charged words to maintain the author's framing.
+
+I should structure the summary to flow logically, starting with the event, the participants, the comparison, the political implications, and the historical reference. This way, the summary captures the essence of the article while preserving the moral elements as per the user's request.
+</think>
+
+**STEP 1:**  
+* celebrate  
+* failed  
+* disastrous  
+* overthrow  
+* dignity  
+* honor  
+* friend  
+* loyalist  
+* brushed aside  
+* encouraged  
+* seized  
+* failed  
+* killed  
+* captured  
+
+**SUMMARY:**  
+Thousands of Cubans celebrated Venezuelan President Hugo Chavez's return to power, comparing the failed coup against him to the disastrous U.S.-backed Bay of Pigs invasion of 1961. Castro supporters, including workers, students, and retirees, gathered at the site where Fidel Castro declared Cuba socialist, marking the anniversary of the Bay of Pigs. A Communist Party official called it a "beautiful historic coincidence" that the celebration coincided with Venezuelans' efforts to overthrow the coup attempt, which he praised as a "page of dignity and honor." Both Castro and Chavez, who see themselves as revolutionary leaders, are close allies, irritating the United States. Cuba quickly denounced the coup attempt against Chavez, which was reversed when loyalist military officers reinstated him after public demonstrations. The Bush administration denied encouraging Chavez's removal. The Bay of Pigs, a CIA-trained invasion to overthrow Castro, failed, resulting in many deaths and captures.  
+**END OF SUMMARY.**

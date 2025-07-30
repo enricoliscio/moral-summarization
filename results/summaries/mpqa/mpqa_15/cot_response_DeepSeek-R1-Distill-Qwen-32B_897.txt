@@ -1,0 +1,51 @@
+Okay, so I'm trying to help the user with their query. They provided a news article about the space shuttle Atlantis and want me to summarize it while preserving the moral framing. The user also wants me to first identify the morally framed words. 
+
+First, I need to understand what "morally framed" words mean. I think they refer to words that carry positive or negative connotations, highlighting achievements, challenges, or significant events. 
+
+Looking at the article, I'll go through each sentence to spot these words. 
+
+"Successful blastoff" – "successful" is positive, showing achievement.
+"Flurry of activity" – "flurry" might imply busyness, but "activity" is neutral. Maybe "flurry" is a bit more active, but not necessarily moral.
+"Completion" – positive, as it's a goal.
+"Belched an orange pillar of fire" – "belched" is a bit negative, but in context, it's describing the engines.
+"Computer glitch" – negative, a problem.
+"Marred the countdown" – negative, something that spoiled the event.
+"Frantically reloaded software" – "frantically" implies urgency, maybe a bit negative.
+"11 seconds to spare" – positive, they made it just in time.
+"Four-day delay" – negative, a setback.
+"Sprung a leak" – negative, caused the delay.
+"Spent a few extra days" – neutral, but the context is a delay.
+"Take a ride" – positive, encouraging.
+"Milestone" – positive, a significant achievement.
+"First astronaut to make seven space flights" – positive, an accomplishment.
+"Keystone" – positive, essential part.
+"Nearly an acre in size" – impressive, positive.
+"Stretching more than a football field" – positive, emphasizing size.
+
+Now, I need to list each of these words starting with a *. I'll make sure each is on a new line.
+
+Next, the summary. It should include as many of these words as possible while being concise. I'll focus on the successful launch, the milestone, the seven flights, the keystone structure, and the challenges like the computer glitch and delay. I need to keep it under 200 words, so I'll be brief but include the key moral points.
+
+I should start with the launch, mention the milestone, the seven flights, the mission's purpose, and the challenges faced. That should cover the main points and the moral framing.
+</think>
+
+**STEP 1:**  
+* Successful  
+* Flurry  
+* Completion  
+* Belched  
+* Glitch  
+* Frantically  
+* Marred  
+* Sprung  
+* Spent  
+* Ride  
+* Milestone  
+* First  
+* Keystone  
+* Nearly  
+* Stretching  
+
+**SUMMARY:**  
+The space shuttle Atlantis successfully launched, marking a milestone in U.S. space flight. Seven astronauts and hardware are en route to the International Space Station, with the mission aiming to install a critical "keystone" structure. This is the first of six launches over seven months to near-complete the station. A computer glitch and a four-day delay due to a liquid hydrogen leak were overcome, with engineers frantically reloading software just in time. Astronaut Jerry Ross, making his seventh flight, broke a record. The mission includes four spacewalks to install the 44-foot-long "S-Zero" structure, which will support a large solar array. The launch, despite challenges, showcased NASA's determination to achieve its goals.  
+**END OF SUMMARY.**

@@ -1,0 +1,13 @@
+<think>
+Okay, so I need to summarize this news article while keeping the moral framing the author used. Let me read through the article first.
+
+The article is about Adam Schiff, the House Intelligence Committee Chairman, defending himself against calls to step down from Republicans. They're accusing him of promoting a false narrative about Trump's ties with Russia. Schiff is pushing back, saying that contacts between Trump's campaign and Russia were "not OK." He's emphasizing that he doesn't think it's acceptable, unlike some of his colleagues. There's tension because the Mueller report didn't find collusion, but Schiff is continuing his investigation. Republicans are accusing him of McCarthyism and abusing his power, while Democrats support him, calling the GOP's actions an ambush.
+
+I need to make sure the summary captures the conflict, the moral accusations from both sides, and the ongoing investigation. I should keep it concise, under 200 words, and maintain the original moral framing—so highlight the accusations and defenses without bias.
+
+Let me structure the summary: start with Schiff defending his position, mention the accusations from Republicans, the Mueller report context, and the ongoing investigation. Also, include the Democratic support and the comparison to McCarthy. Make sure to include key points without getting too detailed.
+
+I should avoid any markdown and keep it in plain text. The summary should end with the specified tokens. Let me put it all together, ensuring it's clear and within the word limit.
+</think>
+
+SUMMARY: House Intelligence Committee Chairman Adam Schiff defended his leadership against Republican calls for his resignation, citing concerns over the Trump administration's ties with Russia. Schiff criticized the president and his campaign for contacts with Russia, labeling them "not OK," while Republicans accused him of promoting a "demonstrably false" narrative that undermines the committee's integrity. This tension arose after Attorney General William Barr reported that Mueller's investigation found no evidence of Trump campaign collusion with Russia. Schiff, who plans to continue the investigation, faced accusations of advancing "Putin's work" and abusing power, with some Republicans likening him to McCarthy. Democrats defended Schiff, calling the GOP's actions an "ambush." The hearing highlighted deep partisan divisions within the committee, with Republicans seeking his removal and Democrats supporting his efforts to hold the administration accountable. END OF SUMMARY.

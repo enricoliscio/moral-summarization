@@ -1,0 +1,40 @@
+Okay, so the user has given me a query where they want me to act as a news summarizer assistant and a moral expert. They provided a news article about the IRS and Treasury Department allowing legally married same-sex couples to file joint federal tax returns. My task is to first identify all the morally framed words in the article and then write a summary preserving those moral framings.
+
+First, I need to understand what morally framed words are. These are words that carry a positive or negative connotation related to ethics or values. For example, words like "discriminatory" or "equality" have moral implications.
+
+Looking at the article, I'll go through each sentence and pick out words that have a moral charge. Starting from the beginning: "allowed", "receive", "tax benefits", "equal", "discriminatory", "equality", "certainty", "clear", "coherent", "access", "benefits", "responsibilities", "protections", "deserve", "treated equally", "crucial tax benefits", "discriminatory", "pattern of lawlessness", "forcing", "unwilling public", "intent", "forcing", "unwilling".
+
+Next, I need to write a summary that includes as many of these words as possible. The summary should be concise, under 200 words, and capture the essence of the article while highlighting the moral aspects.
+
+I'll structure the summary by first stating the main action (IRS and Treasury allowing joint filings), then mention the Supreme Court decision and its implications. I'll include the positive reactions from supporters like the Human Rights Campaign and Treasury Secretary, using words like "equality", "access", and "deserve". Then, I'll address the opposing viewpoint from the National Organization of Marriage, using terms like "pattern of lawlessness" and "forcing".
+
+I need to ensure that the summary flows naturally and includes all key points without being too verbose. I should also make sure that the moral framing is preserved, so I'll keep the words that carry positive and negative connotations as they are.
+
+Finally, I'll review the summary to ensure it meets the word limit and effectively conveys the moral perspectives presented in the original article.
+</think>
+
+**STEP 1:**  
+* allowed  
+* receive  
+* tax benefits  
+* equal  
+* discriminatory  
+* equality  
+* certainty  
+* clear  
+* coherent  
+* access  
+* benefits  
+* responsibilities  
+* protections  
+* deserve  
+* treated equally  
+* crucial tax benefits  
+* discriminatory  
+* pattern of lawlessness  
+* forcing  
+* unwilling public  
+* intent  
+
+**SUMMARY:**  
+The IRS and Treasury Department have announced that legally married same-sex couples can now file federal joint tax returns, granting them the same tax benefits as heterosexual couples. This decision follows the U.S. Supreme Court’s ruling to overturn part of the Defense of Marriage Act. The new rules apply to all legally married same-sex couples nationwide, regardless of their state of residence, but do not extend to domestic partnerships or civil unions. Supporters, including the Human Rights Campaign and Treasury Secretary Jacob Lew, praised the move as a step toward equality, ensuring that same-sex couples receive the benefits and protections they deserve. However, critics like Brian Brown of the National Organization of Marriage argue that this decision perpetuates a "pattern of lawlessness" and forces same-sex marriage on an "unwilling public." The ruling has sparked debate over federal tax law and the role of Congress in determining such policies. END OF SUMMARY.

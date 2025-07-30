@@ -1,0 +1,14 @@
+Alright, so the user has given me a query where they want me to act as a news summarizer assistant and a moral expert. They provided a news article about Donald Trump stepping down as a moderator for a Republican debate. The task is to summarize the article while preserving the moral framing words used by the author.
+
+First, I need to understand what the user is asking for. They want a summary that's concise, up to 200 words, and to include the morally framed words: choose, chosen, defeat, failed, destructive, make. I should make sure these words are included in the summary as they were in the original text.
+
+Looking at the article, Trump is stepping down as moderator to avoid a conflict of interest, especially if he runs as an independent. He's concerned about the Republican choice and the possibility of a third-party run. The article mentions his confidence in the debate's success and his endorsement plans.
+
+I need to structure the summary to include Trump's decision, the reason behind it (conflict of interest), his consideration of a third-party run, his criticism of the current administration, and his support for Gingrich and Santorum. I should use the moral words where appropriate.
+
+I'll start by stating Trump's decision, then his reason, followed by his possible third-party run. Then, mention his desire for the right candidate to defeat Obama's administration. I'll include his confidence in the debate's success and his support for Gingrich and Santorum. Finally, wrap it up with his goal to make America great again.
+
+I need to ensure the summary flows well and includes all the key points without exceeding 200 words. Also, make sure to use the moral words as they were in the original article to maintain the framing.
+</think>
+
+SUMMARY: Donald Trump announced he will no longer moderate a Republican presidential debate to avoid a "conflict of interest," as he considers a potential third-party run. He emphasized the importance of choosing the "right" Republican candidate to defeat the "failed and destructive" Obama administration but reserved the right to run independently if he deems the Republican choice unsuitable. Trump criticized the Republican field, expressing confidence in the debate's success and praising Newt Gingrich and Rick Santorum for their willingness to participate. He stated he still plans to endorse a candidate despite his threatened third-party bid, insisting his decision was made to keep all options open and "make America great again." END OF SUMMARY.

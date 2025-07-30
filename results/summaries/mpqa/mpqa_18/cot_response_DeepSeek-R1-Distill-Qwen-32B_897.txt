@@ -1,0 +1,38 @@
+Okay, so I need to help the user by summarizing a news article while preserving the moral framing. The user provided a specific structure, so I should follow that closely.
+
+First, I'll read the article carefully. It's about a new crew settling into the International Space Station. The key points are the arrival of two Americans and a Russian, their stay duration, the transfer of equipment, the new commander, and some personal touches like their hobbies.
+
+Next, I need to identify the morally framed words. These are words that carry a positive or negative connotation. From the article, words like "settles," "moves," "installed," "couldn't wait," "peeking," "threshold," "astronauts," "filled," "psychological support device," "reflecting," "hobbies," "dirty laundry," "trash," "used equipment," "return," "spent," "128 days," "space," "Earth," "another week." I should list each on a new line with an asterisk.
+
+Now, for the summary. I need to keep it under 200 words and include as many of those moral words as possible. I'll start by stating the main event: the new crew arriving. Then mention the transfer of equipment, the commander change, and their personal items. Finally, note the outgoing crew's time in space.
+
+I should make sure the summary flows well and includes all the key points without being too detailed. I'll also ensure that the moral words are integrated naturally to preserve the author's framing.
+
+Let me put it all together, making sure each step is clear and the summary is concise.
+</think>
+
+**STEP 1:**  
+* settles  
+* moves  
+* installed  
+* couldn't wait  
+* peeking  
+* threshold  
+* astronauts  
+* filled  
+* psychological support device  
+* reflecting  
+* hobbies  
+* dirty laundry  
+* trash  
+* used equipment  
+* return  
+* spent  
+* 128 days  
+* space  
+* Earth  
+* another week  
+
+**SUMMARY:**  
+Two American astronauts and a Russian cosmonaut have settled into the International Space Station for a six-month mission. Their arrival involved transferring equipment, including a cargo carrier named Raffaello, loaded with supplies. Russian cosmonaut Yuri Onufrienko eagerly took over as commander, while the outgoing crew, led by Frank Culbertson, will return to Earth after 128 days. The new crew brought personal items reflecting their hobbies, such as fly-tying materials and a keyboard for psychological support. The outgoing crew will soon depart, leaving the station in the hands of Onufrienko, Daniel Bursch, and Carl Walz.  
+**END OF SUMMARY.**

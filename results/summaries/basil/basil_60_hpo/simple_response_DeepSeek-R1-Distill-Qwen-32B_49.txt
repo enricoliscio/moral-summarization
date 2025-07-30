@@ -1,0 +1,14 @@
+Alright, so the user wants me to summarize a news article, but they also want me to preserve the moral framing that the author gave. Hmm, okay, let's break this down. First, I need to read the article carefully to understand the main points and the tone.
+
+The article is about former Mexican President Vicente Fox and his response to Donald Trump's wall proposal. Fox is pretty clear that Mexico won't pay for it, using strong language like "fucking wall" which shows his frustration. He also dismisses Trump's chances of winning the presidency, calling him a "false prophet." There's also mention of another former president, Felipe Calderon, who agrees with Fox, calling the wall idea "stupid" and useless.
+
+I need to make sure the summary captures the key points: Fox's refusal to pay, his criticism of Trump, and the moral judgment against Trump's proposal. The tone is critical towards Trump, so I should reflect that in the summary. Also, I need to keep it under 200 words and end with the specified tokens.
+
+Wait, the user also mentioned I'm a moral expert. So, maybe I should highlight the ethical issues in Trump's proposal, like the inhumanity of building a wall or the financial burden. But the article doesn't explicitly state that, so I should stick to what's given. The moral framing is more about the criticism of Trump's approach, so I'll focus on that.
+
+I should structure the summary to include Fox's comments, his dismissal of Trump's chances, Calderon's stance, and the overall criticism of Trump's wall idea. Keeping it concise but informative. Let me make sure not to add any extra information beyond what's in the article.
+
+Also, I need to avoid any markdown and keep the summary natural. I'll start with Fox's refusal, mention the cost, then his criticism of Trump, include Calderon's comments, and end with the implication that Trump's ideas are impractical. That should cover the main points while preserving the moral tone.
+</think>
+
+SUMMARY: Former Mexican President Vicente Fox has firmly rejected Donald Trump's proposal for Mexico to pay for a border wall, stating, "I’m not going to pay for that fucking wall." Fox dismissed Trump's idea, calling him a "false prophet" and expressing confidence that democracy would not elect someone as uninformed as Trump. He also criticized Trump's rhetoric toward Latinos, including his derogatory comments about Mexican immigrants. Another former Mexican president, Felipe Calderon, echoed Fox's stance, calling the wall idea "stupid" and useless, and asserting that Mexico would not contribute a single cent. Both leaders emphasized the impracticality of Trump's plan and its potential harm to U.S.-Mexico relations. END OF SUMMARY.

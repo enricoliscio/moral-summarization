@@ -1,0 +1,62 @@
+Okay, so I need to help the user by summarizing a news article while preserving the moral framing. The user has given me a specific structure to follow: first, identify the morally framed words, then write a summary using those words. 
+
+First, I should read the article carefully to understand the context. It's about ICE deporting immigrants during the COVID-19 pandemic, which has led to the spread of the virus. The moral issues here are clear: ICE's actions are putting people's lives at risk, both in detention centers and in other countries.
+
+Now, for STEP 1, I need to find all the single words that carry a moral connotation. I'll go through the article and pick out words that imply wrongdoing, negligence, or negative consequences. Words like "undocumented," "deportation," "detention," "coronavirus," "symptoms," "reprehensions," "unsafe," "scattershot," "spreader," "pressure," "cramped," "unsanitary," "impossible," "nonexistent," "time bomb," "deportees," "confirmed," "limited," "flights," "sick," "refugee," "moved," "despite," "symptoms," "panicking," "die," "prison," "tracked," "deportation," "migrants," "Trump," "pressure," "cooperate," "deportations," "praised," "ventilators," "confirmed," "returned," "Covid-19," "CDC," "precautions," "sampling," "continue."
+
+Next, I'll write the summary. I need to include as many of these morally framed words as possible without making it too long. The summary should highlight ICE's role in spreading the virus, the unsafe conditions, the impact on immigrants, and the criticism from the article.
+
+I should make sure the summary is concise, under 200 words, and flows well. I'll start by stating the main issue: ICE deporting sick immigrants despite the pandemic. Then mention the unsafe conditions, the spread to other countries, and the lack of testing. Finally, include ICE's response and the criticism they're facing.
+
+I need to ensure that the moral framing is preserved, so words like "unsafe," "spreader," "cramped," "unsanitary," "impossible," "nonexistent," "die," "pressure," "cooperate," "confirmed," "returned," "Covid-19," "precautions," "sampling," "continue" should be included to convey the ethical issues involved.
+
+Putting it all together, the summary should effectively communicate the moral concerns highlighted in the article without losing the essential details.
+</think>
+
+**STEP 1:**  
+* undocumented  
+* deportation  
+* detention  
+* coronavirus  
+* symptoms  
+* reprisals  
+* unsafe  
+* scattershot  
+* spreader  
+* pressure  
+* cramped  
+* unsanitary  
+* impossible  
+* nonexistent  
+* time bomb  
+* deportees  
+* confirmed  
+* limited  
+* flights  
+* sick  
+* refugee  
+* moved  
+* despite  
+* symptoms  
+* panicking  
+* die  
+* prison  
+* tracked  
+* deportation  
+* migrants  
+* Trump  
+* pressure  
+* cooperate  
+* deportations  
+* praised  
+* ventilators  
+* confirmed  
+* returned  
+* Covid-19  
+* CDC  
+* precautions  
+* sampling  
+* continue  
+
+**SUMMARY:**  
+The article highlights how ICE's deportation practices during the COVID-19 pandemic have contributed to the spread of the virus, both domestically and internationally. Despite detainees testing positive for the coronavirus and showing symptoms, ICE continued to move and deport individuals, often without proper precautions. Detainees described unsafe, cramped, and unsanitary conditions in detention centers, where social distancing was impossible and protective gear was nonexistent. At least four deportees tested positive for the virus shortly after arriving in their home countries, and ICE confirmed at least 3,000 coronavirus-positive detainees. Despite criticism, ICE claimed to follow CDC guidelines but admitted it could only test a limited sampling of immigrants before deportation. The article reveals how the Trump administration pressured countries to accept deportees, some of whom were sick, while ICE's actions continued to raise ethical concerns. END OF SUMMARY.

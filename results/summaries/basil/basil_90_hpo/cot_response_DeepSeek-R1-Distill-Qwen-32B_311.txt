@@ -1,0 +1,37 @@
+Okay, so I'm trying to help the user with their query. They want me to summarize a news article while preserving the moral framing. Let me break down what they're asking for.
+
+First, they provided a news article about Nancy Pelosi's reaction to Rashida Tlaib's vulgar comment. The user wants me to identify all the morally framed words in the article. I need to go through the text and pick out words that carry a moral judgment or connotation. Words like "vulgar," "colorful," "impeach," "motherfucker," "censorship," "generational," "freedom," "impact," "bullies," "cheers," "success," "impeachment," "controversy," "freedom," "individual," "stance," "base," "difference," and "success." These words are key because they carry moral weight in the context of the article.
+
+Next, the user wants a summary that includes as many of these morally framed words as possible. The summary should be concise, no more than 200 words. I need to make sure the summary captures the main points: Pelosi's stance on free speech, Tlaib's comment, the comparison to Trump's language, and the political implications.
+
+I should start by outlining the main events: Tlaib's comment, Pelosi's response, the comparison to Trump, and the political reactions. Then, I'll weave in the moral words to maintain the original framing. I have to ensure the summary flows well and stays within the word limit.
+
+I also need to make sure that the summary accurately reflects Pelosi's position without censorship, her generational perspective, and the contrast with Trump's impactful language. Including the political implications, like Trump's tweet, adds depth to the summary.
+
+Finally, I'll structure the summary to first mention Tlaib's comment and Pelosi's reaction, then compare it to Trump's language, discuss the implications of free speech, and conclude with the political dynamics. This approach should effectively capture the moral framing while being concise.
+</think>
+
+**STEP 1:**  
+* Vulgar  
+* Colorful  
+* Impeach  
+* Motherfucker  
+* Censorship  
+* Generational  
+* Freedom  
+* Impact  
+* Bullies  
+* Cheers  
+* Success  
+* Impeachment  
+* Controversy  
+* Freedom  
+* Individual  
+* Stance  
+* Base  
+* Difference  
+* Success  
+
+**SUMMARY:**  
+House Speaker Nancy Pelosi addressed criticism over Michigan Rep. Rashida Tlaib’s use of vulgar language when vowing to “impeach that motherfucker” in reference to President Trump. Pelosi defended Tlaib’s free speech, stating she doesn’t engage in censorship and that the comment wasn’t worse than Trump’s own controversial remarks. While Trump’s language can impact people’s lives, Pelosi argued Tlaib’s comment didn’t have the same effect. Tlaib, one of the first Muslim women in Congress, made the remark at a MoveOn event, sparking cheers from supporters. Pelosi acknowledged the comment might rally Trump’s base but emphasized it doesn’t significantly affect House business. Trump responded on Twitter, accusing Democrats of impeachment attempts due to their inability to win in 2020. The controversy highlights the tension between free speech and political accountability.  
+**END OF SUMMARY.**

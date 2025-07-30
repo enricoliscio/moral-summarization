@@ -1,0 +1,44 @@
+Alright, so I've got this query from a user who wants me to act as a news summarizer and moral expert. They provided a news article and specific instructions on how to process it. Let me break this down.
+
+First, the user wants me to identify all the single words that are morally framed in the article. They specified that this should be labeled as "STEP 1:" with each word on a new line starting with a *. I need to go through the article and pick out words that carry moral connotations. Words like "strength," "sacred," "hope," "protection," etc., seem to fit here because they imply values or ethical considerations.
+
+Next, the user wants a summary of the article that preserves as many of these morally framed words as possible. The summary should be concise, no longer than 200 words, and formatted with "SUMMARY:" at the start and "END OF SUMMARY." at the end. I need to ensure that the summary captures the essence of the article while emphasizing the moral aspects.
+
+Looking at the article, it's about Chicago's efforts to protect immigrants by limiting ICE's cooperation. The mayor is proud of supporting immigrant communities, which ties into values like diversity, hope, and inclusion. The ordinance they passed restricts ICE's access to police databases, which is a proactive stance against immigration enforcement. The article also criticizes the federal administration for politicizing ICE, leading to fear among immigrant families. The moral framing here is about protecting vulnerable communities, maintaining trust, and upholding principles of unity and inclusion.
+
+I should make sure the summary highlights Chicago's proactive measures, the moral stance against ICE's actions, and the emphasis on community safety and values. I'll need to include words like "protection," "sacred," "unity," "inclusion," and "hope" to maintain the moral framing.
+
+I also need to keep the summary under 200 words, so I'll have to be concise but comprehensive. I'll structure it to first mention the ordinance and its impact, then the criticism of federal policies, and conclude with Chicago's commitment to its values.
+
+Finally, I'll make sure to follow the formatting instructions precisely, separating the steps and the summary correctly. I'll double-check that all the morally framed words are included and that the summary flows logically while preserving the article's moral stance.
+</think>
+
+**STEP 1:**  
+* Strength  
+* Sacred  
+* Protect  
+* Hope  
+* Beacon  
+* Diversity  
+* Community  
+* Trust  
+* Unity  
+* Inclusion  
+* Opportunity  
+* Values  
+* Justice  
+* Fairness  
+* Rights  
+* Fear  
+* Demonize  
+* Sanctuary  
+* Safe  
+* Whole  
+* Cynical  
+* Complicated  
+* Indictment  
+* Success  
+* Heritage  
+
+**SUMMARY:**  
+The article highlights Chicago's efforts to protect its immigrant and refugee communities by limiting cooperation with U.S. Immigration and Customs Enforcement (ICE). Mayor Lori Lightfoot and city leaders have implemented the Accountability on Communication and Transparency Ordinance, codifying previous executive actions to restrict ICE's access to police databases and prohibit assistance with immigration enforcement. This move has significantly reduced ICE arrests in the Chicago area, showcasing the city's commitment to unity, inclusion, and protecting vulnerable communities. The article criticizes the federal administration for politicizing ICE, leading to fear among undocumented families. Chicago emphasizes its role as a "Welcoming City," where immigration policy should prioritize pathways to citizenship over fear of arrest. The city's actions aim to uphold principles of diversity, trust, and equity, ensuring it remains a beacon of hope and a model for others. END OF SUMMARY.

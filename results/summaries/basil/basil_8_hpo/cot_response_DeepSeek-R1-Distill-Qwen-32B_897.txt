@@ -1,0 +1,43 @@
+<think>
+Alright, so I need to help the user by summarizing a news article while preserving the moral framing. The user has given me a specific structure to follow, so I should make sure to adhere to that. 
+
+First, I need to identify all the single words that are morally framed in the article. I'll go through the text and look for words that carry moral connotations. Words like "inaction," "risk," "dire," "stall," "dip," "doldrums," "contractionary," "stimulative," "boost," "increment," "dangers," "stabilize," "skeptical," "compromise," "physics," "blood," "sweat," "blamed," "consequences," "provisions," "dislike," "help," "difficult," "fight," "compromise," "fundamentally," "better." I'll list each of these with a star.
+
+Next, I need to write a summary that includes as many of these moral words as possible. The summary should be concise, no longer than 200 words. I'll start by outlining the main points: the White House warning about inaction leading to a double dip recession, Summers' dire assessment, the debate over the tax cut deal, Shapiro's counterargument, the lack of support from Democrats, and the consequences of not passing the bill.
+
+I should make sure the summary flows well and includes the key moral terms. I'll also need to end the summary with the specified tokens. I'll check the word count to ensure it's within the limit.
+
+Finally, I'll review everything to make sure I followed the user's instructions correctly and that the summary accurately reflects the moral framing from the original article.
+</think>
+
+**STEP 1:**  
+* inaction  
+* risk  
+* dire  
+* stall  
+* dip  
+* doldrums  
+* contractionary  
+* stimulative  
+* boost  
+* increment  
+* dangers  
+* stabilize  
+* skeptical  
+* compromise  
+* physics  
+* blood  
+* sweat  
+* blamed  
+* consequences  
+* provisions  
+* dislike  
+* help  
+* difficult  
+* fight  
+* compromise  
+* fundamentally  
+* better  
+
+**SUMMARY:**  
+Senior White House officials warned that inaction on the Bush tax cuts would "significantly increase the risk" of a double dip recession, urging congressional Democrats to act quickly. Larry Summers emphasized the dire stakes, stating that failing to pass the bill would materially increase the risk of economic stalling. However, the debate over the tax cut deal was contentious, with critics arguing it was not enough to lift the economy. Rob Shapiro countered that a delay would not cause a double dip but warned of the dangers of a contractionary fiscal policy. The White House pushed the deal, highlighting its stimulative effects, but faced skepticism from Democrats over extending tax cuts for the wealthy. Officials warned of real consequences, including tax increases and loss of unemployment insurance, if the deal failed. The administration urged Democrats to accept the package, emphasizing that delaying would risk being blamed for an economic downturn. END OF SUMMARY.

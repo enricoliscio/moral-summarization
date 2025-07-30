@@ -1,0 +1,12 @@
+Alright, I need to help the user by summarizing the given news article while preserving the moral framing. First, I'll read through the article to understand the main points. The article discusses Trump's response to Obama's statement about mass shootings and the moral implications of their statements.
+
+The user provided a list of morally framed words that should be included in the summary. I need to make sure to use as many of these as possible without making the summary too long. The summary should be concise, under 200 words, and end with the specified tokens.
+
+I'll start by identifying the key events: Obama's criticism of Trump's language, Trump's counter with Fox & Friends, the shootings in El Paso and Dayton, and the accusations against Trump for emboldening hate groups. I'll also note the political divide and the moral implications of their actions.
+
+Now, I'll structure the summary to include these points, using the morally framed words like "shootings," "feeds," "fear," "hatred," "normalises," "racist," etc. I'll ensure each sentence captures the essence of the events while maintaining the moral tone.
+
+Finally, I'll check the word count to make sure it's within the limit and that all key points are covered coherently.
+</think>
+
+SUMMARY: Donald Trump responded to Barack Obama's criticism of his rhetoric, which Obama linked to a "climate of fear and hatred" and "normalised racist sentiments." Obama called for accountability in changing gun laws to prevent mass shootings, a sentiment Trump dismissed by citing Fox & Friends, claiming Obama's presidency saw 32 mass shootings. Trump has been accused of emboldening white nationalists through racist statements, including the suspect in the El Paso shooting, who referenced Trump's language. Trump plans to visit El Paso and Dayton, but Democrats, like Beto O’Rourke, oppose his visit, arguing he has contributed to division and hatred. Obama emphasized the need to reject leaders who demonise others and promote white supremacy, linking such language to human tragedy. Trump has been accused of stoking racial tensions, including tweets targeting congresswomen and deriding minority communities. The article highlights the moral divide over responsibility for mass shootings, gun control, and the role of rhetoric in fostering hatred and division. END OF SUMMARY.

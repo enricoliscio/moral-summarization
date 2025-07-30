@@ -1,0 +1,26 @@
+Alright, I'm trying to help the user with their query. They want me to summarize a news article while preserving the moral framing. First, I need to understand what the user is asking for. They provided a specific structure: step one is identifying morally framed words, and step two is writing a summary using those words.
+
+Looking at the article, I should read through it carefully. The main points are Trump pulling out of a debate he was supposed to moderate, his reasons for doing so, the candidates not showing up, and the public reaction. 
+
+For step one, I need to find all the single words that carry a moral connotation. Words like "moderator," "substantive," "independent," "pledging," "ridicule," "noises," and "canceling" stand out. These words are used in a way that implies judgment or evaluation, so they fit the moral framing.
+
+Now, for the summary, I have to make sure to include as many of these words as possible without making it too long. I should keep it under 200 words. I'll start by stating Trump's decision to pull out, mention his reasons, the lack of candidates, public ridicule, and his wavering before canceling.
+
+I need to ensure the summary flows well and includes all the key points while preserving the moral elements. I'll check the word count to make sure it's within the limit. Once done, I'll present the summary clearly after the "SUMMARY:" token.
+
+I think that's all. Let me put it together step by step.
+</think>
+
+**STEP 1:**  
+* moderator  
+* substantive  
+* independent  
+* pledged  
+* ridicule  
+* noises  
+* canceling  
+
+**SUMMARY:**  
+Donald Trump has announced he is pulling out of his own Newsmax debate, stating he did not want to "give up his right to run as an independent candidate." Trump claimed the Republican Party was asking him to do so if he wanted to moderate the debate. The decision came after only Newt Gingrich and Rick Santorum pledged to attend, while most other candidates opted out. Trump faced public ridicule for his decision to moderate and his plan to endorse a candidate at the debate. Despite earlier assurances the forum would proceed, Trump began making noises about canceling it, ultimately deciding to pull out.  
+
+**END OF SUMMARY.**

@@ -1,0 +1,28 @@
+Okay, so I'm trying to help the user with their query. They provided a news article and want me to summarize it while preserving the moral framing. First, I need to understand what moral framing means here. It refers to words or phrases that carry a moral judgment or implication, like "reckless spending" or "renewed commitment."
+
+The user has a two-step process. The first step is to identify all the single words that are morally framed. I should go through the article and pick out those words. Let me read through the article again.
+
+The article talks about Republicans reading the Constitution, making it a requirement to cite constitutional authority for new bills. They mention "strict adherence," "renewed commitment," "reckless spending," "renewed commitment," and " Tea Party-ization." Also, "symbolic power" and "controversial and contentious" might carry moral implications.
+
+Wait, "symbolic power" is more descriptive than moral, but "controversial and contentious" imply that the statements might be disputed, which could be a moral judgment. I'm not sure if "controversial" counts, but I'll include it.
+
+Next, the second step is to write a summary using as many of these morally framed words as possible. The summary needs to be concise, under 200 words. I should focus on the key points: the reading of the Constitution, the new rules, the cost, and the spending cuts.
+
+I need to make sure the summary includes the moral terms like "strict adherence," "renewed commitment," "reckless spending," and "controversial." I'll also mention the cost and the spending cuts to show the practical implications.
+
+Putting it all together, the summary should highlight the Republicans' emphasis on the Constitution, the symbolic and practical steps they're taking, the criticism regarding costs and effectiveness, and their commitment to fiscal responsibility.
+
+I think that's a good approach. I'll structure the summary to first mention the reading of the Constitution, then the new rules, the cost, the criticism, and finally the spending cuts. This should cover all the key points while preserving the moral framing.
+</think>
+
+**STEP 1:**  
+* Strict  
+* Adherence  
+* Renewed  
+* Reckless  
+* Controversial  
+* Contentious  
+* Tea Party-ization  
+
+**SUMMARY:**  
+On the second day of Republican rule, the House read the Constitution, emphasizing strict adherence to it as a cornerstone of their effort to reduce federal government size. Republicans will require all new bills to include a statement citing constitutional authority, a symbolic move that reflects their renewed commitment to founding principles. Critics argue the rule’s impact may be limited, as most legislation is already vetted for constitutional validity. The estimated cost of reading the Constitution on the House floor is $1.1 million, drawing criticism for its symbolic nature. Speaker John Boehner and Rep. Michele Bachmann highlighted the move as a response to voter demands for fiscal responsibility and constitutional respect. The House also proposed a 5% spending cut, expected to save $35 million over nine months. END OF SUMMARY.

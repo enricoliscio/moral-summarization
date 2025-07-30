@@ -1,0 +1,33 @@
+Okay, so I need to help the user with their query. They provided a news article and asked me to act as a news summarizer assistant and a moral expert. My task is to first identify all the single words that are morally framed in the article and then write a summary preserving those moral framings.
+
+First, I should read the article carefully to understand the context. The article talks about Venezuela's political situation, specifically about Hugo Chavez, a coup, and the moral implications of the events. The user wants me to extract the morally framed words, which are words that carry a positive or negative connotation related to ethics or values.
+
+Looking through the article, I'll go sentence by sentence. Words like "tyranny," "abused," "heavy-handed," "dictators," "opposition," "protest," "gunshots," "killing," "forced," "coup," "champion," "democracy," and "repent" stand out as morally charged. These words convey the author's judgment on the actions and characters involved.
+
+Next, I need to summarize the article while keeping these moral words intact. The summary should be concise, no more than 200 words. I'll start by outlining the main events: the coup attempt, Chavez's actions, the opposition, the military's role, the violence, and the international reaction, especially from the US.
+
+I should ensure that the summary reflects the author's moral framing, showing disapproval of Chavez's tactics and the coup, while also criticizing the US's stance. I'll need to include the key points about the Constitution, economic promises, and the use of force.
+
+I'll structure the summary to highlight the failure of tyranny, the opposition's response, the violence, and the aftermath, including the US's role. I'll make sure to include all the morally framed words identified earlier to preserve the author's tone.
+
+Finally, I'll check the word count to ensure it's within the limit and that all key points are covered without losing the moral perspective. This way, the summary will effectively convey the article's message while maintaining the ethical framing intended by the author.
+</think>
+
+**STEP 1:**  
+* Tyranny  
+* Fighting  
+* Abused  
+* Heavy-handed  
+* Dictators  
+* Opposed  
+* Protest  
+* Gunshots  
+* Killing  
+* Forced  
+* Coup  
+* Champion  
+* Democracy  
+* Repent  
+
+**SUMMARY:**  
+In Venezuela, the recent coup attempt and its aftermath highlight the moral failures of tyranny and the need for democratic accountability. President Hugo Chavez, who rose to power through a coup himself, has been accused of abusing his mandate by rewriting the Constitution and pursuing authoritarian measures. His economic promises to the poor have failed, and his alignment with leftist dictators raises concerns about his power-hungry tendencies. The opposition, including business groups, labor unions, and parts of the military, rose up against him after he attempted to control the state oil company. Violence erupted, leading to Chavez's temporary removal. However, international pressure and renewed domestic support forced his reinstatement. The Bush administration's tacit support for the coup tarnished the U.S.'s image as a defender of democracy, underscoring the need for both Chavez and his opponents to abandon tyrannical tactics and embrace constitutional, nonviolent solutions. END OF SUMMARY.

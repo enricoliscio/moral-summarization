@@ -1,0 +1,19 @@
+<think>
+Okay, so I need to help the user summarize this news article about Chris Christie's presidential candidacy. The user wants a summary that preserves the moral framing the author used. Let me read through the article first to understand the key points and the tone.
+
+The article starts by describing Christie's declaration of his candidacy with New Jersey-style confidence. He's criticizing Washington and emphasizing his forthrightness. He's positioning himself as the only Republican candidate with the strength and experience to lead. He mocks his rivals, especially those in the Senate, for not having run a state government. He also criticizes Obama's foreign policy and Hillary Clinton, but still blames both parties for Washington's dysfunction.
+
+Then, the article contrasts his current situation with his past successes. His economic recovery didn't pan out, leading to credit downgrades and job issues. His pension system and ethical promises have failed, leading to scandals. He's not very popular among Republican voters, with only 55% not wanting to vote for him. His campaign now relies heavily on his personality, which includes charm, banter, and some controversy.
+
+He's planning to focus on town hall meetings in New Hampshire, avoiding the usual early-state tours. However, his campaign has serious vulnerabilities: he's a centrist from the Northeast, facing better-funded and more popular candidates. The article ends by questioning whether Republican voters will give him a chance despite his flaws.
+
+Now, I need to summarize this, keeping the moral framing. The author seems critical of Christie, pointing out his failures and the doubts about his candidacy. The summary should highlight his strengths as he presents them but also the skepticism about his record and viability.
+
+I should structure the summary to first mention his candidacy announcement, his strengths, then his weaknesses, and end with the doubts about his chances. Keep it under 200 words and use the SUMMARY and END tokens as instructed.
+
+Let me draft that, making sure to include the key points: his confident declaration, criticism of Washington, reliance on personality, past failures, low popularity, and the challenges he faces. Also, include his campaign strategy and the skepticism from the author.
+
+I should avoid any markdown and keep the language clear and concise, preserving the moral critique from the original article.
+</think>
+
+SUMMARY: Gov. Chris Christie announced his uphill presidential candidacy with confidence, criticizing Washington's dysfunction and positioning himself as a forthright leader capable of running the country. He mocked rivals like Marco Rubio and Ted Cruz for lacking state governance experience and criticized President Obama's foreign policy, warning against Hillary Clinton's potential continuation of it. However, Christie's campaign faces significant challenges, including a weak record on New Jersey's economy, pension system, and ethics, as well as low popularity among Republican voters. His candidacy now relies heavily on his personality, blending charm, wit, and vulnerability, as he plans to focus on town hall meetings in New Hampshire. Despite his efforts to reinvent himself, Christie's centrist background and vulnerabilities make his path to the nomination difficult, with many questioning whether Republican voters will give him a fair chance. END OF SUMMARY.

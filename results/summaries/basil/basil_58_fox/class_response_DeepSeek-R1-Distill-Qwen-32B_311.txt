@@ -1,0 +1,11 @@
+<think>
+Alright, I need to help the user by summarizing the news article while preserving the moral framing. The user mentioned that the assistant should act as a news summarizer and a moral expert, so I should focus on maintaining the ethical implications in the summary.
+
+First, I'll read the article carefully. It's about Chris Christie announcing his bid for the presidency. The key points are his uphill battle due to low poll numbers and a fundraising deficit. The author uses "scandals" which is a morally charged word, so I need to include that.
+
+I should structure the summary to highlight Christie's challenges, like the scandals and loss of support from donors. Also, mention his personality as a positive trait, but note that it can be polarizing. I need to keep it concise, under 200 words, and end with the specified tokens.
+
+Let me make sure to include all the morally framed elements and present a balanced view of his campaign's prospects. I'll start by stating his announcement, then his challenges, and conclude with his strengths despite the obstacles.
+</think>
+
+SUMMARY: New Jersey Governor Chris Christie is expected to announce his bid for the 2016 presidential race today, despite facing significant challenges. His campaign is hindered by low poll numbers, a fundraising deficit, and scandals that have eroded his standing as the GOP establishment favorite. Once a favorite among mega-donors, Christie has lost their support as they shift to rivals like Jeb Bush. However, Christie’s brash, combative personality and skill in town hall meetings could be his campaign’s main asset, drawing strong reactions from supporters and critics alike. Despite these challenges, he remains a contender, leveraging his unique style to connect with voters. END OF SUMMARY.

@@ -1,0 +1,41 @@
+Alright, I need to help the user by summarizing the news article they provided. They mentioned that I should act as a news summarizer assistant and a moral expert, preserving the moral framing the author used. 
+
+First, I should read through the article carefully to understand the main points. The article talks about President Trump accusing social media giants like Facebook and Twitter of discriminating against Republicans and conservatives. He claims that too many voices are being destroyed and that his administration won't allow it. There's mention of issues like shadow banning, algorithmic glitches, and the companies denying bias. The controversy escalated after some accounts were given limited visibility, and the companies have denied the accusations.
+
+Now, the user has given specific instructions. They want me to first identify all the single words that are morally framed. I need to look for words that carry a moral connotation, like "discriminating," "destroyed," "choices," "good & bad," "censoring," "allegedly," "censoring," "shadow banning," "discriminatory," "illegal," "bad-faith actors," "healthy conversation," "mishandled," "nothing so Fake," "sick behavior," "censorship," "dangerous," "Fake News," and "sick behavior." I should list each of these with a * before them in step 1.
+
+Next, I have to write a concise summary of the article, making sure to include as many of these morally framed words as possible. The summary needs to be under 200 words and should capture the essence of Trump's accusations, the companies' responses, and the ongoing controversy. I should ensure that the moral framing is preserved, highlighting the conflict between the administration and the tech companies over censorship and bias.
+
+I should structure the summary to first mention Trump's accusations, then the companies' denials, the examples like the algorithmic glitch and the Facebook apology, and finally Trump's broader criticism of media outlets like CNN and MSNBC. I need to keep it clear and concise, making sure each point flows logically into the next.
+
+I also need to remember to start the summary after the "SUMMARY:" token and end with "END OF SUMMARY." token. Keeping the language straightforward and the moral terms prominent will help meet the user's requirements.
+
+Let me make sure I'm not missing any key points. Trump's main argument is about discrimination and censorship, which he sees as harmful. The companies deny these allegations, pointing to technical issues and their policies against bad-faith actors. The controversy remains unresolved, with Trump continuing to criticize the platforms and traditional media outlets.
+
+I think that covers all the necessary elements. Now, I'll draft the summary, ensuring it's within the word limit and includes the moral framing words identified earlier. I'll check the word count to make sure it's under 200 words and that the summary flows well.
+</think>
+
+**STEP 1:**
+
+* Discriminating  
+* Destroyed  
+* Choices  
+* Good & bad  
+* Censoring  
+* Allegedly  
+* Censoring  
+* Shadow banning  
+* Discriminatory  
+* Illegal  
+* Bad-faith actors  
+* Healthy conversation  
+* Mishandled  
+* Nothing so Fake  
+* Sick behavior  
+* Censorship  
+* Dangerous  
+* Fake News  
+* Sick behavior  
+
+**SUMMARY:**  
+President Trump accused social media giants like Facebook and Twitter of "discriminating" against Republicans and conservatives, claiming "too many voices are being destroyed." He criticized the platforms for "closing down the opinions of many people on the right" while ignoring violations by liberal users. Trump accused Twitter of "shadow banning" and called it "discriminatory and illegal." Both platforms denied bias, with Twitter attributing limited visibility of Republican accounts to an algorithmic glitch and Facebook apologizing for mishandling communications with pro-Trump personalities. Trump also criticized media outlets like CNN and MSNBC, calling them "Fake News," while asserting he does not demand their content be removed. He warned against the dangers of censorship, framing the issue as a moral conflict over free speech and fair treatment. END OF SUMMARY.

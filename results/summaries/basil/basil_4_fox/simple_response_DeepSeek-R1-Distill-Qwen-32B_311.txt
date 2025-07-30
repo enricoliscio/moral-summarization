@@ -1,0 +1,12 @@
+Alright, I need to help the user by summarizing the given news article. They specified that I should preserve the moral framing the author used. First, I'll read through the article carefully to understand the key points and the tone.
+
+The article is about Republican senators pressuring their chairman, Michael Steele, to apologize for his comments about Afghanistan. Some prominent conservatives want him to resign, while others just want an apology. Steele tried to clarify his stance but the controversy continued.
+
+I should make sure to highlight the moral aspects, like the criticism of Steele's remarks as "unacceptable" and "inaccurate." Also, the support for the troops and the focus on the election are important points to include.
+
+I need to keep the summary concise, under 200 words, and use the "SUMMARY:" and "END OF SUMMARY." tokens as instructed. I'll structure it to first mention the pressure on Steele, then the responses from DeMint and McCain, Steele's attempt to clarify, and the ongoing criticism from Kristol.
+
+I should avoid any markdown and keep the language clear and straightforward, maintaining the original moral framing by emphasizing the need for an apology and the focus on the election.
+</think>
+
+SUMMARY: Republican senators criticized RNC Chairman Michael Steele over his controversial remarks calling Afghanistan a "war of Obama's choosing" and questioning its winnability. Prominent conservatives, including Sen. Jim DeMint, demanded Steele apologize to the troops, stating the war is "America's war" and not Obama's. DeMint also called for Steele to refocus on the November election, labeling his comments "unacceptable" and "inaccurate." Sen. John McCain echoed criticism, calling Steele's remarks "wildly inaccurate" and suggesting he assess his ability to continue in his role. Steele issued a statement reaffirming the need to win the war on terror and support troops, but his attempt to clarify did little to quell the controversy. Conservative leader Bill Kristol continued to push for Steele's resignation, stating it would be "better if he went." The incident highlights internal GOP divisions over messaging and leadership as the party prepares for the election. END OF SUMMARY.

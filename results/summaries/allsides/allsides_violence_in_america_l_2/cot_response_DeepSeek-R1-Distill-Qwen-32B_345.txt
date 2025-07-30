@@ -1,0 +1,53 @@
+Okay, I need to help the user by summarizing the given news article while preserving the moral framing. First, I should understand the task clearly. The user wants me to identify morally framed words and then write a concise summary that includes as many of those words as possible.
+
+Starting with STEP 1, I need to go through the article and pick out words that carry moral connotations. Words like "hate," "antisemitic," "attack," "victims," "murdered," "values," "welcome," "denounce," "polarizing," "fraudulent," "hostility," "fairly," "enemy," "false," "increase," "harassment," "violence," "candidates," "public," "rhetoric," "supremacists," "safety," "solidarity," "grieve," "fundraising," "financial," "support," "grieving," "services," "assault," "slurs," "purchased," "legally," "licensed," "record." These words seem to carry the moral weight of the article.
+
+Next, for the summary, I need to condense the article into 200 words, making sure to include these moral terms. The article is about the Pittsburgh synagogue shooting, the response from the community, and the political implications. I should highlight the moral stances taken by Lederman against Trump, the criticism of Trump's rhetoric, the support from other communities, and the details about the shooter.
+
+I should structure the summary to include key points: the shooting, Lederman's rejection of Trump's visit, the open letter from Jewish leaders, Trump's criticism of the media, the increase in antisemitic incidents, the shooter's background, and the community's response with fundraising. I need to make sure each of these points is covered concisely while using the morally framed words identified.
+
+I also need to ensure that the summary flows well and stays within the word limit. I'll start by introducing the shooting, then move to Lederman's comments, the letter, Trump's response, the ADL's statistics, the shooter's details, and conclude with the community support. This structure should cover all the essential moral points without being too lengthy.
+
+Finally, I'll review the summary to make sure it accurately reflects the article's content and maintains the moral framing as required. I should check that all the key morally charged words are included and that the summary effectively conveys the ethical and political tensions present in the original text.
+</think>
+
+**STEP 1:**  
+* hate  
+* antisemitic  
+* attack  
+* victims  
+* murdered  
+* values  
+* welcome  
+* denounce  
+* polarizing  
+* fraudulent  
+* hostility  
+* fairly  
+* enemy  
+* false  
+* increase  
+* harassment  
+* violence  
+* candidates  
+* public  
+* rhetoric  
+* supremacists  
+* safety  
+* solidarity  
+* grieve  
+* fundraising  
+* financial  
+* support  
+* grieving  
+* services  
+* assault  
+* slurs  
+* purchased  
+* legally  
+* licensed  
+* record  
+
+**SUMMARY:**  
+A former president of the Tree of Life Synagogue in Pittsburgh, Lynette Lederman, has condemned President Donald Trump, calling him a "purveyor of hate speech" and stating he is not welcome in the city after the deadly antisemitic attack. The shooting, which killed 11 people, has sparked widespread condemnation, with local Jewish leaders urging Trump to avoid Pittsburgh until he denounces white nationalism. Trump, who labeled the attack an "evil antisemitic attack," is set to visit the city. Meanwhile, the Anti-Defamation League reported a 57% rise in antisemitic incidents in 2017, highlighting the growing mainstreaming of antisemitism. The shooter, Robert Bowers, had legally purchased firearms and had no prior criminal record. Despite the tragedy, the community has shown solidarity, with fundraising efforts raising significant support for the grieving families. Some faith leaders, like Rabbi Jeffrey Myers, have welcomed Trump, emphasizing that hate transcends politics. The attack has reignited debates over Trump's polarizing rhetoric and its impact on societal divisions.  
+**END OF SUMMARY.**

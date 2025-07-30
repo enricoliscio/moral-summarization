@@ -1,0 +1,43 @@
+Alright, let me try to figure out how to approach this query. The user has provided a news article about the impeachment proceedings against President Trump and wants me to act as a news summarizer assistant and a moral expert. My task is to first identify all the single words that are morally framed in the article and then write a concise summary preserving those moral framings.
+
+First, I need to understand what "morally framed" words mean. These are words that carry a moral judgment, such as "abuse," "corruption," "dishonesty," etc. I should go through the article and pick out each word that conveys a moral evaluation.
+
+Looking at the article, I see several instances where the author uses words that imply wrongdoing or unethical behavior. For example, "abuse of power," "bribery," "extortion," "corruption," "dishonesty," "fraud," " Sham," "betrayal," "obstruction," "deception," "hypocrisy," "dishonest," "unethical," "self-serving," "unconstitutional," "betrayal," "abuse," "dishonest," "unconstitutional," "betrayal," "abuse," "dishonest," "unconstitutional," "betrayal," "abuse," "dishonest," "unconstitutional," "betrayal." These words all carry a negative moral connotation and are used to frame the actions of President Trump and his associates in an unfavorable light.
+
+Next, I need to summarize the article, making sure to include as many of these morally framed words as possible without exceeding 200 words. The summary should capture the essence of the impeachment case, highlighting the key points such as the abuse of power, bribery, obstruction, and the context of the Ukraine investigation. I also need to mention the Republican perspective, acknowledging their arguments but focusing on the moral framing provided by the Democrats.
+
+I should structure the summary to start with the main charges, then provide context about the phone call and military aid, mention the whistleblower and the quid pro quo, and conclude with the ongoing process and Republican counterarguments. Each of these points should incorporate the identified moral terms to preserve the author's framing.
+
+I need to ensure that the summary is concise, clear, and sticks to the key moral points without getting bogged down in too many details. It's important to balance the inclusion of all relevant moral terms with the need for brevity.
+
+Finally, I'll review the summary to make sure it flows well, covers all necessary aspects of the article, and effectively uses the morally framed words to convey the author's perspective on the impeachment case.
+</think>
+
+### STEP 1:  
+* Abuse  
+* Bribery  
+* Obstruction  
+* Corruption  
+* Dishonesty  
+* Fraud  
+* Sham  
+* Betrayal  
+* Obstruction  
+* Deception  
+* Hypocrisy  
+* Dishonest  
+* Unethical  
+* Self-serving  
+* Unconstitutional  
+* Betrayal  
+* Abuse  
+* Dishonest  
+* Unconstitutional  
+* Betrayal  
+* Abuse  
+
+---
+
+### SUMMARY:  
+House Judiciary Committee Chairman Jerrold Nadler emphasized that President Trump's actions, including using his office for personal gain, constitute a serious threat to American institutions. Democrats argue that Trump's request for Ukraine to investigate his political rival, Joe Biden, and withhold military aid as leverage, amounts to abuse of power, bribery, and obstruction of justice. Republicans counter that Trump's actions, while unconventional, do not meet the threshold for impeachment. The case hinges on a July phone call where Trump pressured Ukraine's president for an investigation, and a whistleblower accused him of leveraging military aid for personal gain. Key witnesses, including Ambassador Gordon Sondland, testified about a "quid pro quo" deal, though Trump denied any such arrangement. The delay in military aid and the investigation into Hunter Biden's ties to Burisma Holdings further fuel accusations of corruption and self-serving behavior. Republicans argue the case is a partisan "sham," but Democrats maintain it undermines the Constitution and the rule of law. The impeachment inquiry continues as both sides clash over the moral and legal implications of Trump's actions.  
+END OF SUMMARY.

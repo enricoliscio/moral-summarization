@@ -1,0 +1,15 @@
+Alright, so I need to help the user summarize a news article while preserving the moral framing. The user provided the article and a list of morally framed words to include. They want the summary to be concise, under 200 words, and to use as many of those words as possible.
+
+First, I'll read through the article to understand the main points. It's about Rep. Paul Ryan's budget plan, criticism from Catholic leaders, and the context of the Catholic Church's stance on social issues. The key elements are Ryan's use of Catholic teachings to justify his budget, the criticism from Georgetown faculty, and the broader context of the Church's independence from political parties.
+
+I need to identify the morally charged words from the list that fit into the summary. Words like "killed," "crashed," "misuse," "defend," "decimates," "weakens," "gives," "violations," "intolerant," "following," "comments," "assistance," "help," "step," "crises," "unemployment," "poverty," "hunger," "aid" should be included where appropriate.
+
+I'll structure the summary to highlight Ryan's claims, the criticism from Georgetown, the broader context of the Church's stance, and the debate over Catholic teachings. I need to ensure that each moral word is used naturally within the summary without forcing them.
+
+I should also keep the summary concise, making sure each sentence adds value and doesn't exceed the word limit. I'll start by introducing Ryan and his budget, then move to the criticism, the context of the Church's independence, and conclude with the debate over teachings.
+
+Let me draft the summary, making sure to include the key points and the moral words. I'll check each sentence to ensure it's clear and contributes to the overall summary. After drafting, I'll review to ensure all important aspects are covered and that the moral framing is preserved as per the user's request.
+</think>
+
+SUMMARY:  
+Representative Paul D. Ryan, a Catholic Republican, has faced criticism from Catholic leaders for claiming his budget plan, which slashes antipoverty programs, aligns with Catholic moral teachings. A letter from nearly 90 Georgetown faculty and priests accused him of "misusing" Catholic doctrine to "defend" a budget that "decimates" food programs, "weakens" protections for the elderly, and "gives" tax breaks to the wealthy. They argued his plan reflects Ayn Rand's philosophy rather than Jesus' teachings. The letter also highlighted the church's role in addressing "crises," "unemployment," "poverty," and "hunger" through government "aid." Catholic leaders aim to distance the church from the Republican Party, as bishops have recently criticized the Obama administration over religious freedom "violations." Ryan defended his plan, claiming it promotes "independence" for the poor, but Georgetown faculty countered that Catholic teaching calls for government "assistance" when communities face problems they cannot solve alone. The debate underscores the tension between Catholic social teachings and political agendas. END OF SUMMARY.

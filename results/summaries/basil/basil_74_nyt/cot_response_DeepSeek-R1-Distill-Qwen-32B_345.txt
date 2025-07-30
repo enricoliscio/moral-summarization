@@ -1,0 +1,37 @@
+Okay, so the user wants me to act as a news summarizer and a moral expert. They provided a news article about Trump's reactions to Kathy Griffin and the Democrats. My task is to first identify all the morally framed words and then write a summary preserving those words.
+
+First, I need to read through the article carefully. The article talks about Trump's tweets, Kathy Griffin's video, the public reaction, and the political implications. I should look for words that carry moral connotations. Words like "lash out," "assailed," "castigated," "protests," "apologize," "disturbing," "atrocities," "wrong," "mental health," "crossed the line," "offends," "witch hunt," "false," "misleading," "clear his name," "collusion," "excuse," "abhorrent," and "outrage."
+
+Next, I need to summarize the article in 200 words or less, making sure to include as many of these moral words as possible. The summary should capture the key points: Trump's criticism of Griffin and the Democrats, the reaction to the video, the fallout for Griffin, Trump's accusations of a witch hunt, and the implications for the Russia investigation.
+
+I should ensure the summary flows logically, starting with Trump's actions, moving to Griffin's apology and the consequences, then shifting to his criticism of the Democrats and the ongoing investigation. I need to keep it concise but comprehensive, highlighting the moral framing throughout.
+
+I also need to remember to format the response with the STEP 1 and SUMMARY sections as specified. Making sure each step is clear and the summary is within the word limit. I'll double-check the word count to ensure compliance.
+
+Finally, I'll review the summary to ensure it accurately reflects the article's content while emphasizing the moral aspects. This should meet the user's requirements effectively.
+</think>
+
+**STEP 1:**  
+* Lash out  
+* Assailed  
+* Castigated  
+* Protests  
+* Apologize  
+* Disturbing  
+* Atrocities  
+* Wrong  
+* Mental health  
+* Crossed the line  
+* Offends  
+* Witch hunt  
+* False  
+* Misleading  
+* Clear his name  
+* Collusion  
+* Excuse  
+* Abhorrent  
+* Outrage  
+
+**SUMMARY:**  
+President Trump criticized Kathy Griffin and Democrats on Twitter after she posed for a controversial video depicting a bloodied, severed head resembling his own. The video sparked widespread outrage, leading Griffin to apologize and CNN to terminate her role in their New Year’s Eve show. Mrs. Trump condemned the image, questioning Griffin’s sanity. Griffin expressed regret, admitting she had crossed a line and apologized for the offensive imagery. Trump also accused Democrats of attempting to suppress testimony in the Russia investigation, calling it a "witch hunt." Carter Page, a former Trump advisor, claimed his testimony could expose false or misleading statements by James Comey and John Brennan. Trump and his allies argue the investigation is politically motivated, with Page urging Congress to probe alleged collusion between Clinton associates and Obama-era officials. The situation highlights ongoing tensions over the Russia inquiry and the ethical implications of political satire.  
+**END OF SUMMARY.**

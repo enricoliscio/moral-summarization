@@ -1,0 +1,37 @@
+Alright, I need to help the user by summarizing the given news article while preserving the moral framing. First, I should understand the task. The user wants me to identify all the morally framed words in the article and then create a concise summary using those terms.
+
+Starting with STEP 1, I'll go through the article and pick out words that carry moral connotations. Words like "warned," "violation," "fundamental freedoms," "excessive steps," "abuses," "heavy toll," "emergency legislation," "detention," "without trial," "killings," "inquiry," "balance," "legitimate," "fundamental freedoms," "right to life," "freedom of expression," "religion," "freedom from torture," "retroactive," "severe penalties," "criticism," "restraint." These terms highlight the moral concerns addressed in the article.
+
+Next, for the summary, I need to encapsulate the main points. The three organizations warn against using terrorism as an excuse for human rights violations. They emphasize the importance of maintaining rights like freedom of expression and life, and avoiding excessive measures. The summary should mention the specific examples, like the UK legislation and the prison incident, and the call for an inquiry. Also, note the criticism against expanding the war to Iraq.
+
+I have to ensure the summary is under 200 words and includes as many morally framed words as possible. I'll structure it to first state the warning, then the rights emphasized, followed by the examples and the call for balance and adherence to international law. Finally, mention the criticism from Germany and France.
+
+I should double-check that all key points are covered without exceeding the word limit. Making sure the moral framing is clear and the summary flows logically from the warning to the consequences and the call for action.
+</think>
+
+**STEP 1:**  
+* warned  
+* violation  
+* fundamental freedoms  
+* excessive steps  
+* abuses  
+* heavy toll  
+* emergency legislation  
+* detention  
+* without trial  
+* killings  
+* inquiry  
+* balance  
+* legitimate  
+* fundamental freedoms  
+* right to life  
+* freedom of expression  
+* religion  
+* freedom from torture  
+* retroactive  
+* severe penalties  
+* criticism  
+* restraint  
+
+**SUMMARY:**  
+Three international organizations— the Council of Europe, OSCE, and UN High Commissioner for Human Rights—jointly warned that the fight against terrorism should not justify human rights violations. They emphasized the need to uphold fundamental freedoms and avoid excessive measures, such as detention without trial or retroactive penalties. The statement came amid concerns over recent developments, including the UK passing emergency legislation and the tragic killings of Taliban inmates in Afghanistan. The groups stressed the importance of balancing national security with human rights, urging governments to adhere to international law. Essential rights, such as the right to life, freedom of expression, and freedom from torture, must not be compromised. The organizations also criticized the potential expansion of the war on terrorism to Iraq, calling for restraint. END OF SUMMARY.

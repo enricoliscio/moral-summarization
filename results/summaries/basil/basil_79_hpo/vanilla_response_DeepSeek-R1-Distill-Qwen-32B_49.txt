@@ -1,0 +1,16 @@
+Alright, so the user has given me a task where I need to summarize a news article. They've provided the article and specific instructions on how to format the summary. Let me break this down step by step.
+
+First, I need to understand the article. It's about President Trump defending Michael Flynn by comparing him to Hillary Clinton. Trump mentions that Flynn's life was ruined because he lied to the FBI, while Clinton lied but faced no consequences. Flynn had pleaded guilty in a Mueller investigation, and Trump's comments are part of the ongoing narrative about the Russia probe.
+
+Next, the user wants a summary that starts with "SUMMARY:" and ends with "END OF SUMMARY." It should be concise, no longer than 200 words. I need to ensure I capture the key points without going into too much detail.
+
+I should identify the main elements: Trump's defense of Flynn, the comparison to Clinton, Flynn's guilty plea, the implications for Trump's distancing from the investigation, and the legal arguments brought up by Trump's lawyer, John Dowd.
+
+I need to make sure the summary flows logically, starting with Trump's statement, then moving to the context of Flynn's case, the comparison, and the legal implications. I should avoid including unnecessary details to keep it under 200 words.
+
+Also, I need to ensure that the summary is clear and objective, sticking to the facts presented in the article without adding personal opinions or interpretations beyond what's stated.
+
+Finally, I'll structure the summary by first introducing Trump's defense, then the comparison, followed by the consequences for Flynn and the implications for Trump, and end with the legal arguments. I'll make sure to mention the key players and the main points succinctly.
+</think>
+
+SUMMARY: President Donald Trump defended former national security adviser Michael Flynn, stating that Flynn’s life was “ruined” after pleading guilty to lying to the FBI in the Russia probe. Trump compared Flynn’s situation to Hillary Clinton, who lied to the FBI about her private email server but faced no consequences. Flynn’s guilty plea marks the first charge against a Trump administration official in the Mueller investigation. Trump and his lawyer, John Dowd, claim Trump knew about Flynn’s lies but argue the president cannot obstruct justice as the chief law enforcement officer under the Constitution. Trump’s comments and actions have raised questions about potential obstruction of justice, particularly after he fired FBI Director James Comey, who testified that Trump asked him to end the Flynn investigation. END OF SUMMARY.

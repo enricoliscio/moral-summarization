@@ -1,0 +1,15 @@
+<think>
+Alright, I need to summarize the given news article while preserving the moral framing words used by the author. The user has specified that the summary should include as many of these words as possible: told, stated, punishing, ruled, attempt, sow, division, fan, makes, reaffirms, immigration, come, going, stoking, fear, claimed, cut.
+
+First, I'll read through the article to understand the main points. President Trump is considering an executive order to end birthright citizenship, which is protected by the 14th Amendment. He believes this can be done without a constitutional amendment, though experts disagree. The article also mentions his actions ahead of the midterm elections, including stoking fear about a migrant caravan.
+
+Next, I need to identify the morally charged words in the article. The author uses words like "punishing," "attempt," "sow," "division," "fan," "stoking," "fear," "claimed," and "cut." I should make sure these are included in the summary.
+
+I'll structure the summary to cover Trump's proposal, the legal implications, expert opinions, Republican reactions, and the political context. I'll incorporate the moral framing words where appropriate.
+
+I should keep the summary concise, under 200 words, and make sure it flows naturally while including the specified words. I'll avoid adding any new information not present in the article.
+
+Finally, I'll ensure the summary starts with "SUMMARY:" and ends with "END OF SUMMARY." without using any markdown formatting.
+</think>
+
+SUMMARY: President Donald Trump has stated he is considering an executive order to end birthright citizenship, a right protected by the 14th Amendment. He falsely claimed the U.S. is the only country with such a policy and dismissed the need for a constitutional amendment, though experts argue this would require one. Trump's attempt to punish children of undocumented immigrants aligns with his immigration rhetoric ahead of the midterm elections. He has stoked fear about a migrant caravan, falsely claiming it includes criminals and terrorists. Some Republicans, like House Speaker Paul Ryan, have criticized the idea, stating it would sow division and fan anti-immigrant sentiment. Trump's plan faces legal challenges, as the Supreme Court has ruled birthright citizenship constitutional. Critics argue his actions make immigration policy a tool for political gain, going against the nation's tradition as a land of immigrants. END OF SUMMARY.

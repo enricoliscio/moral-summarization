@@ -1,0 +1,14 @@
+Okay, I need to help the user by summarizing the news article they provided. The user specified that I should act as a news summarizer assistant and a moral expert, preserving the moral framing from the article. The summary needs to be concise, under 200 words, and placed between "SUMMARY:" and "END OF SUMMARY." tokens.
+
+First, I'll read through the article to understand the main points. The article is about the vice presidential debate between Biden and Ryan. It highlights the aggressive tone set by Biden, aiming to make up for Obama's weak performance in the previous debate. Biden attacked Romney's comments about the 47% of Americans not paying federal taxes, calling it offensive. Ryan countered by pointing out Biden's gaffes and criticized Obama's foreign policy and economic recovery.
+
+I need to capture the key elements: the debate's intensity, Biden's strategy, the main issues discussed (economy, foreign policy, Medicare, etc.), and the implications for the campaign. The moral framing involves Biden's criticism of Romney's comments as offensive and Ryan's counterattacks on Obama's policies.
+
+I'll structure the summary to start with the debate's significance, mention Biden's aggressive approach, the main topics, and the impact on the campaign dynamics. I'll keep it within 200 words, ensuring it's clear and captures the moral aspects as presented in the article.
+
+Now, I'll draft the summary, making sure to include all these elements concisely. I'll check the word count and adjust as needed to stay within the limit. Finally, I'll place the summary between the specified tokens as the user requested.
+</think>
+
+SUMMARY:  
+In a heated vice presidential debate, Vice President Biden aggressively challenged Paul Ryan, aiming to shift momentum after President Obama's underwhelming performance in the first presidential debate. Biden directly criticized Mitt Romney's controversial remarks about the "47 percent" of Americans who don't pay federal income taxes, calling them offensive and representative of Romney's disconnect from average Americans. Ryan countered by highlighting Biden's tendency for gaffes and criticized Obama's foreign policy and economic record, accusing the administration of weakness and mismanagement. The debate, which focused on the economy, budget deficit, and foreign policy, saw both candidates clash over issues like Medicare, Iran's nuclear program, and the Benghazi attack. Biden accused Romney and Ryan of prioritizing military action over diplomacy, while Ryan criticized Obama for failing to lead on the economy and debt. The debate's intensity reflected the high stakes, with Romney gaining traction in polls, and Biden striving to reclaim momentum for the Obama campaign. The outcome of the race remains uncertain as the campaign moves toward the final presidential debates.  
+END OF SUMMARY.

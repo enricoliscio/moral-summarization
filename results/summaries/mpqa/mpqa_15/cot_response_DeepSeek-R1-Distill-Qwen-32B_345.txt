@@ -1,0 +1,27 @@
+Okay, so I need to help the user by summarizing a news article while preserving the moral framing. First, I should read the article carefully to understand the content and identify any morally framed words. 
+
+The article is about the launch of the space shuttle Atlantis. It mentions the successful blastoff, the number of astronauts, and the hardware they're carrying. There's a mention of a computer glitch and a delay due to a leak in the liquid hydrogen vent pipe. The launch is described as a milestone in U.S. space flight, and there's an astronaut who made seven space flights, which is significant. The mission involves installing a crucial structure for the International Space Station.
+
+For the first step, I need to identify all single words that carry moral framing. Words like "successful," "milestone," "frantically," "spared," "extra," "grandfather," "first," "keystone," and "milestone" again. These words convey success, urgency, and significance.
+
+Next, I have to write a concise summary that includes these morally framed words. I'll start by mentioning the successful launch, the milestone, the computer glitch and the delay. Then, I'll note the astronaut's record and the mission's goal of installing the keystone structure. I need to keep it under 200 words and make sure the moral words are included.
+
+I should structure the summary to highlight the positive aspects and the challenges overcome, emphasizing the success and significance of the mission. I'll make sure each morally framed word is included where appropriate to preserve the author's framing.
+
+Let me draft the summary, ensuring it's clear and within the word limit. I'll check each sentence to include the necessary words without making it sound forced. That should meet the user's requirements effectively.
+</think>
+
+**STEP 1:**  
+* Successful  
+* milestone  
+* frantically  
+* spared  
+* extra  
+* grandfather  
+* first  
+* keystone  
+* milestone  
+
+**SUMMARY:**  
+The space shuttle Atlantis successfully launched from Cape Canaveral, carrying seven astronauts and essential hardware toward the International Space Station. This milestone mission, delayed by a computer glitch and a liquid hydrogen leak, marked the first of six launches aimed at completing the space station. Despite the challenges, the launch team worked frantically to resolve issues, completing software reloads with just 11 seconds to spare. Astronaut Jerry L. Ross, a grandfather, achieved the distinction of being the first astronaut to make seven space flights. During the 11-day mission, astronauts will install the "keystone" center support unit, a 44-foot-long, 27,000-pound structure crucial for supporting a new solar energy array. This mission represents a significant step forward in U.S. space exploration.  
+**END OF SUMMARY.**

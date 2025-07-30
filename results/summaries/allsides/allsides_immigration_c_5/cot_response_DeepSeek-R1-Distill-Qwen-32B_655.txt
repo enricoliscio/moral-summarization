@@ -1,0 +1,31 @@
+Okay, so I need to help the user by summarizing the news article they provided. They mentioned that I should act as a news summarizer assistant and a moral expert. The user has given specific instructions on how to approach this task, so I need to follow those carefully.
+
+First, the user wants me to identify all the single words that are morally framed in the article. They called this "STEP 1:" and want each word listed with an asterisk. I should go through the article and pick out words that carry a moral connotation. Words like "travesty," "justice," "boycott," "unsafe," "sanctuary," "refuge," "demonize," "slander," "exoneration," "weakly," "disgraceful," "overreached," "shocked," "saddened." I need to make sure I capture all of these.
+
+Next, I need to write a summary of the article, preserving as many of these morally framed words as possible. The summary should be concise, no more than 200 words, and start with "SUMMARY:" and end with "END OF SUMMARY." I should ensure that the moral framing is maintained, highlighting the tensions between sanctuary city policies and federal immigration enforcement, the reactions from different groups, and the trial outcome.
+
+I should structure the summary to include the key points: the jury's acquittal, the calls for a boycott, Trump and Sessions' reactions, the sanctuary city policy, the trial details, and the family's response. I need to make sure the summary flows well and includes the morally charged words to reflect the author's framing.
+
+I also need to keep an eye on the word count to stay within the limit. Maybe I can start by outlining the main events and then condense them, ensuring each morally framed word is included where appropriate. I'll need to avoid adding any new information not present in the article and stick strictly to summarizing the provided content.
+
+Finally, I should review the summary to make sure it meets all the user's requirements: correct structure, inclusion of all morally framed words, and adherence to the word limit. That way, the user gets an accurate and concise summary that preserves the moral framing as intended.
+</think>
+
+**STEP 1:**  
+* Travesty  
+* Justice  
+* Boycott  
+* Unsafe  
+* Sanctuary  
+* Refuge  
+* Demonize  
+* Slander  
+* Exoneration  
+* Weakly  
+* Disgraceful  
+* Overreached  
+* Shocked  
+* Saddened  
+
+**SUMMARY:**  
+The acquittal of Jose Ines Garcia Zarate, a Mexican man accused of killing Kate Steinle, sparked outrage and calls for a #BoycottSanFrancisco, with some demanding the U.S.-Mexico border wall. President Trump and Attorney General Jeff Sessions criticized San Francisco’s sanctuary city policy, which allows immigrants to live without fear of deportation. The city defended its policy, stating it improves public safety. Garcia Zarate, who had been deported five times, was released from jail despite federal requests to detain him. Jurors acquitted him of murder but convicted him of being a felon in possession of a firearm. Critics, including Trump, blamed the verdict on weak immigration laws and sanctuary policies. Steinle’s family expressed shock and sadness, feeling justice was not served. The case reignited debates over immigration reform and public safety, with supporters of sanctuary cities arguing against demonizing immigrants. END OF SUMMARY.

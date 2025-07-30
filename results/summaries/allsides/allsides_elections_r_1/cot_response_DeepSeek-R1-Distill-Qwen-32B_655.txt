@@ -1,0 +1,36 @@
+Okay, so I need to help the user summarize this news article while preserving the moral framing. First, I should read through the article carefully to understand the key points. The article is about Joe Biden's plan for dealing with the Coronavirus and his criticism of the Trump administration. It also brings up the sexual assault allegations against Biden from Tara Reade and how he's handling that.
+
+The user wants me to identify all the single words that are morally framed. So I need to look for words that carry a moral connotation. Words like "criticizing," "accused," "sexual assault," "harassed," "denied," "disgrace," "reprehensible," "credibility," "allegations," "discomfort," "inappropriate," "respect," "independence," "integrity," "transparency," "accountability," "dishonesty," and "objectivity." These words are important because they carry moral weight and shape the reader's perception.
+
+Next, I need to write a concise summary that includes these morally framed words. The summary should be under 200 words and include all the key points: Biden's infrastructure plan, the allegations, the denial from Biden's camp, and the media's role. I should make sure to mention the moral implications, like how the allegations affect Biden's credibility and the importance of independent review.
+
+I should structure the summary to first talk about Biden's plan, then introduce the allegations, the responses from Biden and his team, and the media's handling of the situation. This way, the moral framing is preserved by including the charged words and the context around them.
+
+I also need to ensure that the summary flows well and covers all the essential information without getting bogged down in too much detail. It's important to balance the political and personal aspects of the article to give a comprehensive overview.
+
+Finally, I'll make sure to end the summary with the required tokens and keep it within the word limit. I'll double-check that all the morally framed words are included and that the summary accurately reflects the article's content and moral implications.
+</think>
+
+**STEP 1:**  
+* Criticizing  
+* Accused  
+* Sexual assault  
+* Harassed  
+* Denied  
+* Disgrace  
+* Reprehensible  
+* Credibility  
+* Allegations  
+* Discomfort  
+* Inappropriate  
+* Respect  
+* Independence  
+* Integrity  
+* Transparency  
+* Accountability  
+* Dishonesty  
+* Objectivity  
+
+**SUMMARY:**  
+Joe Biden, the likely Democratic presidential nominee, has proposed a $1 trillion infrastructure plan to address the economic crisis caused by COVID-19, emphasizing job creation and environmental programs. However, Biden has remained silent on allegations of sexual assault made by Tara Reade, a former staffer, who claims he groped her in 1993. Reade alleges she faced a hostile work environment and was dismissed after reporting the incident. Biden's former staffers have denied the claims, and a former neighbor supports Reade's account. In 1993, Reade's mother hinted at the incident on "Larry King Live," but Reade chose not to go public out of respect for Biden. Last year, eight women, including Reade, accused Biden of making them uncomfortable with inappropriate behavior. Biden acknowledged the complaints and promised to be more mindful of personal space. However, major media outlets have not directly questioned Biden about the allegations, and his campaign has denied the claims, stating they "absolutely did not happen." The situation raises questions about credibility, accountability, and the need for independent review.  
+**END OF SUMMARY.**

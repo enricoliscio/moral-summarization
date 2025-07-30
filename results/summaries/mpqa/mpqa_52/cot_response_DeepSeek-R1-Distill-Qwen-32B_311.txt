@@ -1,0 +1,40 @@
+Alright, so I'm trying to help the user with their query. They provided a news article and specific instructions on how to process it. First, I need to understand what they're asking for. They want me to act as a news summarizer and a moral expert. My tasks are two-fold: identify morally framed words and then summarize the article while preserving those moral elements.
+
+Looking at the article, it's about President Khatami congratulating Hugo Chavez after a failed coup in Venezuela. The user wants me to first extract all single words that carry moral framing. These are words that convey approval or disapproval, like "victory," "justice," "freedom," etc. I should list each of these words, each on a new line starting with an asterisk.
+
+Next, I need to write a concise summary of the article. The summary must include as many of those morally framed words as possible. It should be under 200 words and structured with the "SUMMARY:" token at the beginning and "END OF SUMMARY." at the end.
+
+I should start by reading the article carefully to identify the key points and the moral language used. Khatami congratulates Chavez, mentions justice and freedom, condemns the coup, and talks about the failed attempt to overthrow a democratically elected government. The coup's objective was to get Venezuela out of OPEC, which ties into the moral framing of justice and the right to govern.
+
+I need to ensure that the summary captures the main events: the coup, Chavez's return, Khatami's congratulations, the moral stance against the coup, and the implications for OPEC. I'll make sure to include words like "victory," "justice," "freedom," "ouster," "coup," and "democratically elected."
+
+I also need to keep the summary clear and within the word limit. I'll structure it to first mention the congratulation, then the failed coup, Chavez's return, the moral stance against the coup, and the coup's objectives. Finally, I'll note the mutual desire to meet and Chavez's support for OPEC.
+
+I should double-check that I've included all the key morally framed words without making the summary too verbose. It's important to maintain the moral perspective the author intended, highlighting the support for Chavez and the rejection of undemocratic methods.
+
+Okay, I think I've got a good grasp of what needs to be done. Now, I'll proceed to extract the morally framed words and then craft the summary accordingly.
+</think>
+
+**STEP 1:**  
+* Victory  
+* Justice  
+* Freedom  
+* Support  
+* Exalted objectives  
+* Difficult period  
+* Anti-democratic  
+* Legitimate government  
+* Restore legal order  
+* Ouster  
+* Coup  
+* Force  
+* Political change  
+* Norms of present human society  
+* Democratically elected  
+* Violent  
+* Staunch supporter  
+* Boost prices  
+
+**SUMMARY:**  
+President Mohammad Khatami congratulated Venezuela's government and people for the restoration of President Hugo Chavez after a failed military coup, calling it a "victory of justice and freedom." Khatami expressed hope that Chavez's government would achieve its goals with popular support. Chavez thanked Iran for its support, stating that the coup's objective was to remove Venezuela from OPEC and increase oil production to undermine the organization. Iran condemned the coup, stating that it was an unacceptable method of political change and inconsistent with human society's norms. Chavez returned to power after being detained on a Caribbean island, resuming his presidency. The coup, led by the armed forces, accused Chavez of responsibility for 15 deaths during protests. Chavez, a staunch supporter of oil production cuts to boost prices, had previously hosted a successful OPEC summit.  
+END OF SUMMARY.

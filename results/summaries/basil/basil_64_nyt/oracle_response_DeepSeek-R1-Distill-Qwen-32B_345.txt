@@ -1,0 +1,14 @@
+Okay, so the user has given me a query where they want me to act as a news summarizer and moral expert. They provided a news article about Donald Trump criticizing Justice Ginsburg for her comments about his candidacy. The task is to summarize the article while preserving the moral framing, specifically using the words "unbefitting" and "involved" as the author did.
+
+First, I need to understand the key points of the article. Trump is upset because Ginsburg criticized him, calling his election frightening. He thinks it's inappropriate for a Supreme Court justice to get involved in politics and suggests she should apologize. The article also mentions Trump's plans for his running mate, which seems less central to the moral framing.
+
+Next, I should identify the morally charged words. The author used "unbefitting" and "involved." I need to make sure these words are included in the summary. I'll focus on Trump's criticism of Ginsburg, her comments, and his reaction, ensuring that the moral judgment is clear.
+
+I also need to keep the summary under 200 words. I'll start by stating Trump's criticism, mention Ginsburg's comments, his use of "unbefitting" and "involved," and his suggestion that she should apologize. Then, I'll briefly touch on his plans for the vice-presidential pick, but that's secondary to the main moral issue.
+
+I should structure the summary to highlight the conflict between Trump and Ginsburg, emphasizing the inappropriate nature of her involvement according to Trump. I'll make sure to include the specific words and the context around them to preserve the moral framing.
+
+Finally, I'll review the summary to ensure it's concise, includes all necessary points, and maintains the moral perspective without adding any personal opinions. It should be a clear, factual summary that reflects the original article's tone and focus on the moral aspects.
+</think>
+
+SUMMARY: Donald J. Trump criticized Justice Ruth Bader Ginsburg for her remarks about his presidential candidacy, calling them "highly inappropriate" and suggesting she owed the court an apology. Ginsburg had expressed fear about the nation's future under Trump, stating she couldn't imagine the country or the court with him as president. Trump accused her of being "unbefitting" for a Supreme Court justice to get "involved" in a political campaign, calling it a "disgrace" to the court. He also hinted she should step down soon. Trump, meanwhile, discussed his vice-presidential selection process, emphasizing instinct and experience over fundraising potential. He praised several candidates, including Chris Christie, Newt Gingrich, and Mike Pence, while also considering polling data. END OF SUMMARY.

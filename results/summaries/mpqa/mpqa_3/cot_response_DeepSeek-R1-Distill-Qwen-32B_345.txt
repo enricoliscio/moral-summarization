@@ -1,0 +1,30 @@
+Alright, I need to help the user by summarizing the given news article while preserving the moral framing. The user provided a detailed query with specific steps, so I should follow that closely.
+
+First, I'll start by identifying all the single words that are morally framed. These words carry a strong positive or negative connotation. I'll go through the article and pick out words like "enlightened," "reckless," "crush," "evil," "hard-line," "baseless," "contradictions," "punish," "mislead," "extremist," " Texan mentality," "apprehensions," "resentment," and "catastrophe." Each of these words has a clear moral or ethical implication.
+
+Next, I need to write a concise summary of the article, making sure to include as many of these morally framed words as possible. The summary should be no longer than 200 words. I'll focus on the main points: Colin Powell's attempt to soften Bush's statements, the influence of the hard-line administration members, the speculation about Powell's lack of prior knowledge, the contradictions in the administration's stance, and the broader implications of the US's aggressive policies influenced by lobbies and economic factors.
+
+I should ensure that the summary flows logically, highlighting the moral issues without adding any personal opinions. It's important to maintain the original framing, so I'll use the identified words where appropriate. I'll also keep the language clear and straightforward to convey the message effectively.
+
+Finally, I'll make sure the summary starts with "SUMMARY:" and ends with "END OF SUMMARY." to meet the user's formatting requirements. I'll double-check the word count to ensure it's within the limit and that all key points from the article are covered.
+</think>
+
+**STEP 1:**  
+* Enlightened  
+* Reckless  
+* Crush  
+* Evil  
+* Hard-line  
+* Baseless  
+* Contradictions  
+* Punish  
+* Mislead  
+* Extremist  
+* Texan mentality  
+* Apprehensions  
+* Resentment  
+* Catastrophe  
+
+**SUMMARY:**  
+US Secretary of State Colin Powell, described as one of the few enlightened officials in President Bush's administration, is attempting to soften Bush's reckless threats against Iran, Iraq, and North Korea, labeled as the "axis of evil." While Powell claimed the US is open to dialogue with these nations and its allies, his statements contradict the administration's hard-line stance, which prioritizes military action over diplomacy. Speculation suggests Powell may not have been fully informed about Bush's speech, raising questions about his role in shaping policy. The administration, influenced by figures like Cheney, Rumsfeld, and Rice, appears committed to isolating and punishing nations perceived as threats, particularly those challenging Israel. The US is ruled by a Texan mentality, driven by the arms and Zionist lobbies, favoring conflict over dialogue. This approach risks global instability and economic collapse, as the arms industry thrives at the expense of international security. The administration's aggressive policies, combined with Bush's economic challenges, raise fears of impending catastrophe.  
+END OF SUMMARY.

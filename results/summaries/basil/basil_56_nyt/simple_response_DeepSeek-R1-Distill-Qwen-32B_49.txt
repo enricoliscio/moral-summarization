@@ -1,0 +1,14 @@
+Alright, so I need to help the user summarize this news article about Marco Rubio's foreign policy speech. They want the summary to preserve the moral framing that the author gave it. Let me start by reading the article carefully.
+
+The article talks about the Obama Doctrine, the Bush Doctrine, and then moves on to Rubio's approach. Rubio's speech has three main pillars: military strength, protecting the economy, and preserving American values. He emphasizes funding the military even in peace, opposing violations in international spaces, and spreading freedom and helping vulnerable groups.
+
+I need to make sure the summary captures these points. Also, the user mentioned it should be under 200 words and end with the specified tokens. I'll structure it to highlight Rubio's priorities and his moral stance on supporting freedom and protecting vulnerable people.
+
+I should also mention that Rubio is positioning himself as a defense hawk to stand out in the primary. That adds context to his motivations. I need to keep the language clear and concise, making sure the moral elements are prominent.
+
+Let me draft a summary that includes all these points without exceeding the word limit. I'll check the word count to ensure it's within 200 words. Also, I'll make sure to use the "SUMMARY:" and "END OF SUMMARY." tokens as instructed.
+</think>
+
+SUMMARY:  
+Senator Marco Rubio, a 2016 presidential candidate, has outlined his foreign policy approach, emphasizing three pillars: ensuring American strength, protecting the economy in a globalized world, and preserving the moral clarity of U.S. core values. Rubio, a defense hawk, prioritizes adequately funding the military, even in times of peace. He vows to oppose violations of international waters, airspace, cyberspace, and outer space, including economic disruptions caused by invasions. Rubio’s vision includes spreading economic and political freedom, reinforcing alliances, resisting large powers’ subjugation of smaller neighbors, and advancing the rights of vulnerable groups, such as women and religious minorities. His speech aims to highlight the American people’s commitment to freedom and justice, positioning him as a strong candidate in the crowded primary field.  
+END OF SUMMARY.

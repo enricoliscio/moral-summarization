@@ -1,0 +1,18 @@
+Okay, so the user has given me a query where they want me to act as a news summarizer and a moral expert. They provided a news article and a list of morally framed words used by the author. My task is to summarize the article while preserving those moral terms. 
+
+First, I need to understand the article. It's about protests in Minnesota that turned violent, leading to arrests and injuries. The protests were over police killings of black men, Philando Castile and Alton Sterling. The violence included throwing objects and Molotov cocktails, resulting in police injuries. There's also mention of the Dallas police attack and the families denouncing that violence.
+
+Next, I should identify the key points: the number of arrests, injuries, the causes of the protests, the violent acts, police response, and the aftermath. I need to make sure to include the morally charged words like "injured," "killings," "rioting," etc., as per the user's request.
+
+I should structure the summary to cover the main events: the protests starting peacefully, turning violent, the use of Molotov cocktails, police injuries, arrests, and the police response with smoke bombs. Also, mention the comparison to the Dallas attack and the families' stance.
+
+I need to keep the summary concise, under 200 words, and ensure it flows logically. I'll start with the protests, move to the violence, police actions, and conclude with the aftermath and the families' statements.
+
+Let me draft the summary, making sure to include all the necessary moral terms without making it too wordy. I'll check the word count to stay within limits. 
+
+Wait, did I include all the key morally framed words? Let me review the list provided and ensure they are incorporated where appropriate. Words like "arrests," "injured," "killings," "rioting," "protests," "deaths," "shot," "murdered," "targeted," "attack," "clear," "blocking," "refused," "occurred," "impact," "acts," "tolerate," "violence," "turned," "violent," "throwing," "responded," "aimed," "arrest," "disassemble," "burning."
+
+I think I covered most of them. Now, I'll make sure the summary is clear and preserves the moral framing as the author intended. I'll avoid adding my own opinions, just stick to summarizing the facts with the given moral terms.
+</think>
+
+SUMMARY: Over 100 people were arrested and 21 police officers injured in Minnesota during violent protests over recent police killings of black men. The protests, which began peacefully, turned into rioting as demonstrators pelted police with rocks, rebar, and Molotov cocktails. Police used smoke bombs to clear the freeway, but protesters refused to leave, leading to clashes. St. Paul Police Chief Todd Axtell described the violence as unprecedented, expressing disgust at the acts of some protesters. The protests followed the deaths of Philando Castile and Alton Sterling, two black men killed by police, and came days after five Dallas police officers were murdered. While some protesters remained peaceful, others turned violent, throwing debris and aiming fireworks at officers. Police responded with arrests and pepper spray, as the situation escalated. Gov. Mark Dayton met with Castile's family, but the conversation details were not disclosed. The riots highlighted tensions between law enforcement and protesters, with both sides facing significant challenges. END OF SUMMARY.

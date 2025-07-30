@@ -1,0 +1,16 @@
+<think>
+Okay, so the user has given me a query where they want a news summary that preserves the moral framing of the original article. They've provided the article and the list of morally framed words. My task is to summarize the article, making sure to include as many of those words as possible without exceeding 200 words.
+
+First, I need to read through the article to understand the main points. The key points are the high number of homicides in Chicago, the increase in shootings, the reasons behind the surge in violence, and the city's response. The author uses strong moral terms like "homicides," "bloodshed," "violence," and "attacks," so I need to incorporate these into the summary.
+
+I should start by highlighting the record number of homicides and the comparison to other cities. Then, mention the increase in shootings and the factors contributing to the violence, such as the flood of illegal guns and the impact of the Laquan McDonald shooting on police relations. It's important to include Superintendent Johnson's comments about the lack of deterrent and the reluctance of officers to make arrests.
+
+I also need to touch on the areas most affected, the city's efforts to combat the issue, and the challenges they're facing. I should ensure the summary flows logically, connecting each point while using the morally charged words effectively.
+
+I'll structure the summary to first state the statistics, then the causes, followed by the city's response, and finally the challenges they're encountering. I'll make sure each sentence includes one or more of the specified moral terms without making it sound forced.
+
+Now, I'll draft the summary, keeping it concise and within the word limit. I'll check to ensure all key points are covered and that the moral framing is preserved as per the user's instructions.
+</think>
+
+SUMMARY:  
+Chicago experienced its most violent year in two decades, with 762 homicides and 3,550 shooting incidents, surpassing New York and Los Angeles combined. The surge in bloodshed has sparked national concern over gun violence, driven by a flood of illegal firearms and a lack of deterrents. Police Superintendent Eddie Johnson noted a 20% increase in illegal gun recoveries and criticized Illinois' lax gun laws, suggesting criminals feel emboldened due to minimal consequences. The spike in violence coincided with public anger over the police shooting of Laquan McDonald, which weakened public trust in law enforcement. Gang activity concentrated in poor, predominantly Black neighborhoods on the South and West sides accounted for most deaths, with victims often tied to gangs or prior arrests. Mayor Rahm Emanuel added 1,000 officers, but critics argue police have become reluctant to enforce laws due to fears of scrutiny and viral backlash. Johnson acknowledged officers' caution, linking it to state laws requiring extensive paperwork for stops, which criminals exploit. The city is expanding surveillance and gunshot-detection systems to curb violence, but challenges persist as crime continues to surge. END OF SUMMARY.

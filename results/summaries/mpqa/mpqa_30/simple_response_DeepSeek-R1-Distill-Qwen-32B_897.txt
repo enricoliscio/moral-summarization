@@ -1,0 +1,18 @@
+<think>
+Okay, so I need to summarize this news article while preserving the moral framing that the author gave. The user wants a news summarizer assistant and a moral expert. The article is about Morgan Tsvangirai accusing Robert Mugabe of withholding food as punishment for not voting correctly. 
+
+First, I should read the article carefully to understand the key points. Tsvangirai is the opposition leader, and he's making serious allegations about Mugabe's government. The main points seem to be the accusation of using food as a weapon, the impact on Zimbabweans, the UN's warning, and the political implications.
+
+I need to make sure the summary includes Tsvangirai's claims, the UN's warning about starvation, the role of the Grain Marketing Board requiring ZANU-PF membership, Mugabe's response, the land reform issues, and the call for international support. Also, Tsvangirai's trial is mentioned, but maybe that's less critical for the summary.
+
+I should structure the summary to highlight the moral issues: using hunger as a tool for political repression, discrimination in food distribution, and the government's denial. It's important to show the suffering of the people and the political motives behind the policies.
+
+I need to keep it under 200 words and make sure it's concise. I'll start by stating Tsvangirai's accusation, then mention the UN warning, the discriminatory practices, Mugabe's response, the land reform misuse, and the call for Zimbabweans to lead the change. I should end with the moral framing about the government's repression and the need for peaceful resistance.
+
+Let me check the word count as I go. I'll make sure each sentence is clear and adds value without unnecessary details. Also, I need to use the "SUMMARY:" and "END OF SUMMARY." tokens as instructed.
+
+I think that's a solid plan. Now, I'll draft the summary accordingly, ensuring all key points are covered and the moral perspective is maintained.
+</think>
+
+SUMMARY:  
+Opposition leader Morgan Tsvangirai accused Zimbabwean President Robert Mugabe of using food as a political weapon, withholding supplies from areas that opposed him in the March election. Tsvangirai claimed this starvation policy was part of a broader campaign to punish his supporters, with the worst conditions in southern Zimbabwe. The UN warned that 1.5 million Zimbabweans face starvation due to drought and government-backed farm invasions, which disrupted maize and wheat production. Non-governmental organizations reported evidence of discriminatory food distribution, requiring ZANU-PF membership to access grain. Mugabe denied these allegations, blaming drought and sabotage by white farmers. Tsvangirai also criticized Mugabe's land-reform program, which he said benefited cronies and elites rather than the poor. He called for Zimbabweans to lead the fight for change, emphasizing that international support could not replace their own efforts. Tsvangirai denied treason charges, questioning the prosecution's case. The moral framing highlights Mugabe's government as repressive, using hunger and violence to maintain power, while Tsvangirai advocates for peaceful resistance and justice. END OF SUMMARY.

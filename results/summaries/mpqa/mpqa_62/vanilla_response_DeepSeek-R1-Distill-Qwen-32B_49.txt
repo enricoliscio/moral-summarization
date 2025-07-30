@@ -1,0 +1,14 @@
+Okay, so I need to summarize this news article about the space shuttle Endeavour docking with the International Space Station. The user has provided the article and wants a concise summary of 200 words or less, ending with specific tokens. 
+
+First, I'll read through the article to understand the main points. The key details are: Endeavour docked with the ISS, delivering a new 3-man crew to replace the existing one. The docking happened 250 miles above the Polish-Ukrainian border after a two-day journey. The outgoing crew, led by Frank Culbertson, has been there since August. Culbertson mentioned feeling isolated after 9/11. The new crew includes Yuri Onufrienko, Carl Walz, and Daniel Bursch, who will stay until May.
+
+I should structure the summary to include these points: the docking event, the new crew, the outgoing crew's experience, Culbertson's feelings, and the new crew's mission duration. I need to make it concise, so I'll combine these into a few sentences without unnecessary details. Also, I need to ensure the summary starts with "SUMMARY:" and ends with "END OF SUMMARY."
+
+Let me draft it: Space shuttle Endeavour docked with the ISS, delivering a new crew. The docking occurred after a two-day trip, 250 miles above Poland and Ukraine. The outgoing crew, led by Frank Culbertson, has been there since August. Culbertson felt isolated after 9/11. The new crew includes Yuri Onufrienko as commander and two Americans, staying until May.
+
+I should check the word count to make sure it's under 200. Let me count the words in the draft. It's concise, so I think it's good. I'll format it with the required tokens.
+</think>
+
+SUMMARY:  
+Space shuttle Endeavour docked with the International Space Station (ISS), delivering a new three-member crew to replace the existing crew. The docking occurred 250 miles above the Polish-Ukrainian border after a two-day journey. The outgoing crew, led by commander Frank Culbertson, had been on the ISS since August. Culbertson expressed feelings of isolation and frustration following the September 11 terrorist attacks. The new crew, consisting of Russian Yuri Onufrienko as the new commander and Americans Carl Walz and Daniel Bursch, will remain on the ISS until May.  
+END OF SUMMARY.

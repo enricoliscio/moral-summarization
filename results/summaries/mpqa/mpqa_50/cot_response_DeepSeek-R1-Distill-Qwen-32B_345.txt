@@ -1,0 +1,41 @@
+Alright, so I've got this query where I need to summarize a news article while preserving the moral framing. Let me break it down step by step. 
+
+First, the user wants me to identify all the single words that are morally framed in the article. They've specified that this should be labeled as STEP 1 and each word listed with a bullet point. I need to go through the article and pick out words that carry a moral connotation. Words like "praised," "condemned," "free," "fair," "transparent," "credible," "tragedy," "consistent," "inalienable," "sovereign," "legitimate," "flawed," "violence," "intimidation," "stolen," "sanctions," "campaign," "systematic," "toughening," "aid," "projects," "controversial," "extended." These words are key because they reflect the moral judgments made by different parties.
+
+Next, the user wants a summary that includes as many of these morally framed words as possible. The summary needs to be concise, no longer than 200 words. I should structure it to highlight the differing opinions between African organizations and Western countries. African bodies like the OAU and SADC support Mugabe's election, calling it free, fair, and legitimate. In contrast, Western countries condemn it as flawed, citing issues like violence and intimidation. I need to ensure that the summary reflects both perspectives clearly and includes the morally charged terms to preserve the original framing.
+
+I also need to make sure that the summary starts with "SUMMARY:" and ends with "END OF SUMMARY." I should keep the language clear and straightforward, ensuring that all key points are covered without exceeding the word limit. It's important to balance the positive and negative viewpoints to present a fair summary that aligns with the moral framing in the original text.
+
+Lastly, I'll double-check that each step is clearly labeled and that the summary accurately reflects the moral stances taken by the different groups mentioned. This way, the user gets both the list of morally framed words and a concise summary that maintains the article's moral perspective.
+</think>
+
+### STEP 1:
+* praised  
+* condemned  
+* free  
+* fair  
+* transparent  
+* credible  
+* tragedy  
+* consistent  
+* inalienable  
+* sovereign  
+* legitimate  
+* flawed  
+* violence  
+* intimidation  
+* stolen  
+* sanctions  
+* campaign  
+* systematic  
+* toughening  
+* aid  
+* projects  
+* controversial  
+* extended  
+
+---
+
+### SUMMARY:
+Zimbabwean President Robert Mugabe's reelection was praised by African organizations like the OAU and SADC, which deemed the election "free, fair, and transparent." Tanzanian President Benjamin Mkapa congratulated Mugabe, calling him a "champion of democracy," while Kenyan President Daniel arap Moi expressed confidence in the people's choice. However, Western countries condemned the election as "flawed," citing concerns over "violence," "intimidation," and "stolen" votes. The US and UK criticized Mugabe's government, with the UK warning of "enormous implications" for their relationship. France and Germany also questioned the fairness of the election, while Denmark announced cuts to aid and embassy closures. Despite these criticisms, Mugabe secured 56.2% of the vote, marking Zimbabwe's closest presidential race since independence. The election remains a point of contention, with African and Western perspectives sharply divided over its legitimacy.  
+END OF SUMMARY.

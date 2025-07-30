@@ -1,0 +1,80 @@
+Okay, I need to help the user by summarizing the news article while preserving the moral framing. First, I should understand the task. The user wants me to act as a news summarizer and a moral expert. The process involves two steps: identifying morally framed words and then writing a summary that includes as many of these words as possible.
+
+Starting with STEP 1, I need to go through the article and pick out single words that carry a moral connotation. These are words that imply judgment, value, or ethical considerations. Let me read through the article again.
+
+The article talks about the U.S. Senate sparring over the impeachment trial. "Sparring" here implies conflict, so that's a moral frame. McConnell is mentioned as the Republican leader, but that's more descriptive. He says he hasn't ruled out witnesses, but "ruled out" is more of a decision than a moral word. However, "fair" is used when McConnell says "fair is fair," which carries a moral connotation of justice.
+
+Democrats demand witnesses, so "demanded" shows insistence, which is a moral frame. The article mentions the trial ending in acquittal, which is a legal term but not necessarily moral. However, "model" is used in the context of fairness, so it's a moral frame.
+
+Schumer says the trial must include witnesses, using "must" which implies obligation, a moral term. He urges colleagues to release documents, so "urged" is another moral frame. "Relevant" is more factual, so I'll skip that. " Sham trial" and "show trial" are strong moral terms implying deceit and insincerity.
+
+The House voted along party lines, so "voted" is an action but not moral. "Impeach" is a legal term, but the context is moral. Trump pressured Ukraine, so "pressuring" is a moral action. Biden is a potential candidate, so "potential" is neutral. Trump was charged with abuse of power and obstructing Congress, both are clear moral terms. "Convicted" and "removed" are legal but carry moral weight. Trump accused Democrats of delaying tactics, so "delaying" is a moral judgment. Pelosi hasn't transmitted articles, "held up" is a moral frame. McConnell says the Senate can't act until receiving articles, so "can't" is a limitation but not moral. Trump calls it a witch hunt, which is a strong moral term. "Impeachment Scam" is another moral judgment. Schumer wants witnesses subpoenaed, "subpoenaed" is legal but in this context, it's about justice. The White House blocked witnesses, so "blocked" is a moral action. Acting Chief of Staff and former national security adviser are roles, not moral words. "Testifying" is an action but not inherently moral. "Impeachment proceedings" are legal but in the moral context of the trial.
+
+Now, compiling all the morally framed words I identified:
+
+* Sparring
+* Fair
+* Demanded
+* Sham
+* Show
+* Must
+* Urged
+* Sham
+* Show
+* Delaying
+* Held up
+* Witch hunt
+* Scam
+* Subpoenaed
+* Blocked
+
+Wait, I think I might have missed some. Let me go through the article again quickly. The word "fair" is used, "demanded," "sham," "show," "must," "urged," "delaying," "held up," "witch hunt," "scam," "subpoenaed," "blocked." That's 13 words. I think that's all.
+
+Now, moving on to the summary. I need to write a concise summary, no more than 200 words, preserving as many moral terms as possible. I'll start by outlining the main points: the Senate's debate over the impeachment trial, McConnell's stance on witnesses, Schumer's insistence, the potential impact on the trial's credibility, Trump's accusations, Pelosi's delay, and the blocked witnesses.
+
+I should make sure to include words like "sparring," "fair," "demanded," "sham," "show," "must," "urged," "delaying," "held up," "witch hunt," "scam," "subpoenaed," and "blocked." I'll structure the summary to flow logically, ensuring each point is covered succinctly.
+
+I need to check the word count to ensure it's under 200. Let me draft it:
+
+"U.S. senators are sparring over the shape of President Trump's impeachment trial, with Republicans led by Mitch McConnell resisting Democratic demands for witness testimony. McConnell has not ruled out witnesses but insists on following the 1999 Clinton trial model, emphasizing fairness. Democrats, led by Chuck Schumer, argue that a trial without documents and witnesses would be a sham or show trial, undermining its credibility. Trump faces charges of abuse of power and obstructing Congress, with Democrats accusing him of pressuring Ukraine to investigate Biden. Trump denies wrongdoing and accuses Democrats of a witch hunt and delaying tactics. House Speaker Nancy Pelosi has yet to send the articles to the Senate, holding up the process to pressure Republicans. Schumer wants to subpoena four witnesses, but the White House has blocked them. Trump decries the process as a scam, urging a swift resolution."
+
+That's 125 words. I think I included all the key moral terms. Let me make sure each term is present:
+
+- Sparring
+- Demands
+- Fair
+- Sham
+- Show
+- Must (implied in "argue that a trial without... would be")
+- Urged (Schumer urging)
+- Delaying
+- Held up
+- Witch hunt
+- Scam
+- Subpoenaed
+- Blocked
+
+I think I covered all except "subpoenaed" and "blocked," but I included the context where Schumer wants to subpoena witnesses and the White House blocked them. So, the summary effectively preserves the moral framing.
+</think>
+
+**STEP 1:**
+
+* Sparring
+* Fair
+* Demanded
+* Sham
+* Show
+* Must
+* Urged
+* Delaying
+* Held up
+* Witch hunt
+* Scam
+* Subpoenaed
+* Blocked
+
+**SUMMARY:**
+
+U.S. senators are sparring over the shape of President Trump's impeachment trial, with Republicans led by Mitch McConnell resisting Democratic demands for witness testimony. McConnell has not ruled out witnesses but insists on following the 1999 Clinton trial model, emphasizing fairness. Democrats, led by Chuck Schumer, argue that a trial without documents and witnesses would be a sham or show trial, undermining its credibility. Trump faces charges of abuse of power and obstructing Congress, with Democrats accusing him of pressuring Ukraine to investigate Biden. Trump denies wrongdoing and accuses Democrats of a witch hunt and delaying tactics. House Speaker Nancy Pelosi has yet to send the articles to the Senate, holding up the process to pressure Republicans. Schumer wants to subpoena four witnesses, but the White House has blocked them. Trump decries the process as a scam, urging a swift resolution.
+
+**END OF SUMMARY.**

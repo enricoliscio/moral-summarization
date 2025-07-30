@@ -1,0 +1,19 @@
+Okay, so the user has provided a news article about Obama's gun control proposals and wants a summary. They specified that the summary should be after a "SUMMARY:" token and end with "END OF SUMMARY." Also, it needs to be no longer than 200 words. 
+
+First, I need to read through the article carefully to understand the main points. The article talks about Obama unveiling comprehensive gun control measures, which include background checks, assault weapons ban, magazine limits, mental health services, school safety, and funding for police. The cost is around $500 million, some from existing budgets. He's also taking 23 executive actions immediately. 
+
+I should note the opposition from the NRA and the challenges in getting these proposals through Congress. Also, the administration's focus on future production rather than existing weapons is important. 
+
+I need to condense all this into a concise summary, making sure to cover the key elements: the proposals, their components, the funding, the executive actions, the opposition, and the challenges ahead. I'll have to keep it under 200 words, so I'll need to be brief but comprehensive.
+
+Let me structure the summary by first introducing the initiative, then listing the main components, followed by the funding and executive actions. Then, mention the opposition and the challenges. Finally, conclude with the administration's stance on the proposals.
+
+I should avoid any markdown and keep the language clear and straightforward. Let me make sure each sentence is concise and covers a key point without unnecessary details. 
+
+Now, putting it all together, I'll start with Obama's announcement, outline the four key areas, mention the specific policies, funding, executive actions, opposition, challenges, and the administration's position on the proposals. I'll ensure it's all within 200 words.
+</think>
+
+SUMMARY:  
+President Barack Obama has unveiled the most comprehensive gun control reform initiative in decades, aiming to address rising gun violence. The proposal includes requiring universal background checks, reinstating an assault weapons ban, limiting ammunition magazines to 10 rounds, banning armor-piercing bullets, and funding school safety and mental health programs. The $500 million plan, partly funded by existing budgets, also includes 23 immediate executive actions, such as improving background check data sharing and training law enforcement. While gun control advocates applaud the effort, the NRA opposes it, calling it overreach. The administration acknowledges the proposals won't eliminate mass shootings but hopes they will reduce gun violence. The plan focuses on future production of military-style weapons, not existing ones. Obama emphasized the need for public demand and bipartisan support to pass the measures.  
+
+END OF SUMMARY.

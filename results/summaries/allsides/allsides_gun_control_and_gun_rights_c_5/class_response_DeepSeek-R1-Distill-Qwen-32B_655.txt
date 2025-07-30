@@ -1,0 +1,16 @@
+<think>
+Okay, so I need to help this user by summarizing a news article while preserving the moral framing. The user provided the article and a list of morally framed words. My task is to create a concise summary, up to 200 words, using as many of those words as possible. 
+
+First, I'll read through the article to understand the main points. It's about Devin Kelley, a former Air Force serviceman who committed a mass shooting in Texas. He had a history of domestic violence, escaped from a mental hospital, and had a troubled past. The article also discusses how his criminal record wasn't properly entered into a database, allowing him to buy guns legally despite his convictions. This led to a debate about gun control and background checks.
+
+Next, I need to identify the key morally charged words from the list that fit into the summary. Words like "deadliest," "shooting," "violence," "charges," "sneaking," "carry," "threats," "killed," "assault," "failed," "prohibits," "convicted," "crime," "failure," "appalling," "lapse," "massacre," "rampage," "prevented," "shot," "dead." I should include these to maintain the moral framing.
+
+I'll structure the summary by starting with the event: the deadliest mass shooting. Then mention Kelley's background, his escape, the failure of the Air Force to report his conviction, the subsequent gun purchases, and the tragic outcome. I'll also touch on the legislative response and the debate over gun control.
+
+I need to ensure the summary is concise, under 200 words, and flows naturally. I'll avoid technical jargon and keep it clear and impactful, highlighting the moral issues such as the failure to report his record and the consequences of that failure.
+
+Let me draft the summary, making sure to include the key morally framed words and the main points. I'll check the word count to ensure it's within the limit. Finally, I'll make sure it starts with "SUMMARY:" and ends with "END OF SUMMARY."
+</think>
+
+SUMMARY:  
+The deadliest mass shooting in Texas history occurred when Devin Kelley, a former U.S. Air Force serviceman with a history of violence, opened fire at a church in Sutherland Springs, killing 26 and wounding 20. Kelley, who had escaped from a mental hospital in 2012 while facing domestic violence charges, had been convicted of assaulting his first wife and stepson. Despite his criminal record, he legally purchased firearms due to a failure by the Air Force to report his conviction to the National Criminal Information Center (NCIC). This lapse, described as "appalling," allowed him to buy guns despite federal prohibitions on sales to those convicted of domestic violence. Kelley’s troubled past included behavior problems as a student, insubordination, and threatening messages. His attack reignited debates over gun control and background checks, as stricter reviews might have prevented the rampage. The massacre, one of the five deadliest in U.S. history, highlighted systemic failures in preventing such violence. END OF SUMMARY.

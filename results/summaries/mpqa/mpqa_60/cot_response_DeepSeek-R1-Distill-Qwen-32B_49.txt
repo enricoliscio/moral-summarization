@@ -1,0 +1,35 @@
+<think>
+Okay, so I need to help this user by summarizing a news article while preserving the moral framing. Let me start by understanding the task. The user provided an article about Zimbabwe's elections and the potential for violence. They want me to first identify all the morally framed single words, then write a concise summary using those words.
+
+First, I'll read through the article carefully. The key points are about the fear of violence, political issues, and the election process. Words like "violence," "ouster," "rigging," "intolerable," "oppression," "desperation," "deceit," "corruption," "shortages," "unemployment," "oppression," "coups," "rights violations," "high alert," "abducted," "disenfranchised," "steal," "prosecution," and "kill." These words carry moral connotations and are crucial for the summary.
+
+Now, I'll structure the summary. It should start with the main issue: fear of violence post-election. Mention Mugabe's rule and the challenger, Tsvangirai. Highlight the concerns about rigging and violence, the government's stance, and the potential for conflict. Include the human rights issues, the election laws changes, and the impact on voters. End with the possible outcomes and Mugabe's charges against Tsvangirai.
+
+I need to keep it under 200 words, so I'll be concise but include all the moral elements. Make sure the summary flows logically, covering the main points without getting bogged down in details. 
+
+I think I've covered all the necessary points. Time to put it together, ensuring each morally framed word is included where appropriate.
+</think>
+
+**STEP 1:**  
+* violence  
+* oust  
+* rig  
+* intolerable  
+* oppression  
+* desperation  
+* deceit  
+* corruption  
+* shortages  
+* unemployment  
+* oppression  
+* coups  
+* rights violations  
+* high alert  
+* abducted  
+* disenfranchised  
+* steal  
+* prosecution  
+* kill  
+
+**SUMMARY:**  
+Zimbabweans fear violence as they prepare for the upcoming election, with concerns over whether Robert Mugabe or Morgan Tsvangirai will win and how the loser will respond. Mugabe, Zimbabwe's only leader, faces Tsvangirai, who is ahead in polls but accused of planning to "eliminate" Mugabe. The ruling ZANU-PF party has been accused of rigging the election, including changing laws to disenfranchise young opposition supporters. At least 34 MDC supporters have died in political violence, and Mugabe's government has been criticized for human rights violations. Tsvangirai has been charged with high treason, and some fear Mugabe may declare martial law if he loses. The election is seen as a clash between Mugabe's autocratic rule and the opposition's desire for change. If Mugabe loses, he may jail Tsvangirai to stay in power. The election is fraught with tension, and many fear the worst. END OF SUMMARY.

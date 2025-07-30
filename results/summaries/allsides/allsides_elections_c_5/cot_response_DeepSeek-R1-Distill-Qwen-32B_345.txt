@@ -1,0 +1,59 @@
+<think>
+Alright, I need to tackle this query. The user provided a news article and wants me to summarize it while preserving the moral framing. They also want me to first identify the morally framed words.
+
+First, I'll read through the article to understand the context. It's about the debate between Obama and Romney regarding the government's role in disaster relief, specifically after Sandy. The moral framing likely revolves around concepts like responsibility, help, community, and government involvement.
+
+Now, for STEP 1, I need to find all single words that carry moral implications. I'll go through the article paragraph by paragraph.
+
+In the first paragraph, words like "help," "critical," and "vehicle" stand out. "Help" is about assistance, "critical" implies importance, and "vehicle" as a means to provide help.
+
+Next, Romney's actions involve "voluntary," "effort," "individual," "responsibility," "community," "clean," "lane," "gather," "goods," "help." These words relate to personal initiative and community support.
+
+In the context of Romney's past statements, "decentralized," "federal," "states," "private," "sector," "clash," "professional," "red tape," "attention," "praise," "outstanding," "attention," "chopping block," "borrowing," "jeopardize," "future," "kids," "active," "touring" are mentioned. These words discuss governance structures, responsibilities, and the consequences of actions.
+
+I need to list each of these words, each on a new line starting with an asterisk.
+
+For the summary, I need to condense the article, keeping the moral framing intact. I'll mention Obama's federal approach, Romney's emphasis on local efforts, their respective justifications, and the political implications. I'll ensure the summary is under 200 words and includes the morally framed words identified.
+
+I should structure the summary to highlight the contrast between the two leaders' approaches, the context of Sandy, and the ongoing debate over federal versus local responsibilities. I'll also note the political implications, such as budget cuts and the need for effective disaster management.
+
+I need to make sure the summary flows well and covers all key points without being too detailed. Including terms like "help," "voluntary," "individual," and "government" will maintain the moral framing as per the user's request.
+
+Finally, I'll format the response with STEP 1 listing the words and then the SUMMARY, ensuring it ends correctly with the specified tokens.
+</think>
+
+**STEP 1:**  
+* help  
+* critical  
+* vehicle  
+* faith  
+* voluntary  
+* effort  
+* individual  
+* responsibility  
+* community  
+* clean  
+* lane  
+* gather  
+* goods  
+* decentralized  
+* federal  
+* states  
+* private  
+* sector  
+* clash  
+* professional  
+* red tape  
+* attention  
+* praise  
+* outstanding  
+* chopping block  
+* borrowing  
+* jeopardize  
+* future  
+* kids  
+* active  
+* touring  
+
+**SUMMARY:**  
+President Obama emphasized the federal government's role in disaster relief after Hurricane Sandy, offering support and resources to affected areas. He stressed that the federal government is a critical vehicle for providing help, ensuring recovery, and standing behind those in need. In contrast, Mitt Romney highlighted the importance of individual and local efforts, advocating for decentralized disaster relief and voluntary community action. Romney's approach emphasizes the virtue of personal responsibility and the efficiency of smaller-scale, community-driven solutions. However, Romney did not dismiss the role of government entirely, acknowledging its necessity while advocating for a more localized approach. The article also highlights the ongoing debate over federal versus state responsibilities in disaster management, with Romney previously suggesting that disaster relief should be shifted back to states and the private sector to reduce federal spending. Meanwhile, Obama has taken steps to streamline federal aid, ensuring that states and communities receive the support they need. The contrasting approaches reflect broader political ideologies about the role of government in times of crisis. END OF SUMMARY.

@@ -1,0 +1,36 @@
+Alright, so the user has given me a query where they want me to act as a news summarizer assistant and a moral expert. They provided a news article about the Vietnamese Minister discussing environmental efforts and cooperation at an ASEM meeting. The task has two parts: first, identifying morally framed single words, and second, summarizing the article while preserving those moral terms.
+
+First, I need to understand what constitutes a morally framed word. These are words that carry a positive or negative moral connotation. In the context of environmental protection, words like "values," "protects," "improves," "mobilizes," "strengthens," "cooperation," "foundation," "calls for," "adopts," "implement," "cooperation," and "dialogue" stand out. Each of these words implies a positive action or stance towards environmental issues, so they're key to maintaining the moral framing.
+
+Next, I need to summarize the article. The summary should be concise, under 200 words, and include as many of the identified morally framed words as possible. I'll start by highlighting Vietnam's commitment to environmental protection, mentioning the specific areas they focus on. Then, I'll note the minister's emphasis on resource mobilization and international cooperation. The call for a cooperation forum and the adoption of the Kyoto Protocol are crucial points to include, showing the proactive stance and collaborative efforts.
+
+I should ensure the summary flows logically, starting with Vietnam's commitment, moving to the minister's statements, the forum idea, and concluding with the meeting's outcome. This structure preserves the moral framing by emphasizing positive actions and collaborative efforts towards environmental goals.
+
+I also need to make sure the summary is clear and concise, avoiding unnecessary details. Each sentence should encapsulate a key point from the article, maintaining the moral perspective without overcomplicating the language.
+
+Finally, I'll review the summary to ensure it's within the word limit and that all morally framed words are appropriately included. This approach should meet the user's requirements effectively, providing a clear, morally framed summary of the news article.
+</think>
+
+**STEP 1:**  
+* Values  
+* Protects  
+* Prevention  
+* Degradation  
+* Bio-diversity  
+* Improvement  
+* Mobilized  
+* Strengthened  
+* Cooperation  
+* Foundation  
+* Calls  
+* Forum  
+* Exchange  
+* Dialogue  
+* Cooperation  
+* Implement  
+* Cooperation  
+* Dialogue  
+
+**SUMMARY:**  
+Vietnamese Minister Chu Tuan Nha emphasized Vietnam's commitment to environmental protection, including pollution prevention, biodiversity conservation, and improving industrial and urban environments. He highlighted the government's efforts to mobilize resources and strengthen international cooperation to address environmental challenges. The minister stressed the importance of bilateral cooperation between Asia and Europe, calling for a biennial cooperation forum under the Asia-Europe Environment Cooperation Program. This forum would facilitate policy dialogue, information exchange, and expert collaboration. The ASEM Environment Ministers' Meeting concluded in Beijing with the adoption of a statement urging early implementation of the Kyoto Protocol and fostering cooperation and dialogue among ASEM members.  
+**END OF SUMMARY.**

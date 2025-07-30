@@ -1,0 +1,31 @@
+Okay, so I need to help the user by summarizing a news article while preserving the moral framing. The user provided a detailed query with specific instructions. Let me break it down.
+
+First, the user wants me to act as a news summarizer and a moral expert. My task is twofold: identify morally framed words and then write a concise summary using those words.
+
+Looking at the article, it's about Trump's misuse of the term "treason." The user wants me to list all single words that carry moral connotations. I need to go through the text and pick out words that imply judgment or evaluation. Words like "grandiosity," "indispensable," "strongest," "extreme," "betrayal," "misused," "execution," "weaponizing," "anger," "opponents," "treasonous," "fraud," "conspiring," "villain," "disturbing," "limited." Each of these carries a moral charge, either positive or negative.
+
+Next, the summary needs to encapsulate the article's main points while keeping those moral words. I should make sure the summary is under 200 words and flows naturally. I'll start by introducing Trump's grandiosity, his self-centered narrative, and his misuse of "treason." Then, I'll mention the constitutional definition versus his misuse, examples of his tweets, and the expert opinion on the issue. Finally, I'll conclude with the implications of his actions, tying back to the moral framing.
+
+I need to ensure that the summary is clear and sticks to the key points without adding extra information. Also, I should maintain the moral language to reflect the author's framing accurately. Let me structure this step by step to cover all necessary aspects without exceeding the word limit.
+</think>
+
+**STEP 1:**  
+* Grandiosity  
+* Indispensable  
+* Strongest  
+* Extreme  
+* Betrayal  
+* Misused  
+* Execution  
+* Weaponizing  
+* Anger  
+* Opponents  
+* Treasonous  
+* Fraud  
+* Conspiring  
+* Villain  
+* Disturbing  
+* Limited  
+
+**SUMMARY:**  
+The article examines Donald Trump's misuse of the term "treason," highlighting his grandiose self-narrative and its moral implications. Trump frequently casts himself as the indispensable protagonist of the American story, often using first-person pronouns to emphasize his role. His use of "treason" reflects a misinterpretation of the term, conflating disloyalty to him with betrayal of the nation. Constitutionally, treason is defined as acts of war or aiding enemies, but Trump has weaponized the term to attack political opponents, labeling them "treasonous" for opposing his policies or investigating his actions. Experts, like Carlton Larson, criticize Trump for conflating loyalty to the country with loyalty to himself, echoing the outdated notion of treason as betrayal of a monarch. This misuse risks normalizing the term for political vendettas, a practice that has historical ties to executing political enemies. Trump's casual use of "treason" is unparalleled among U.S. presidents and raises concerns about its chilling effect on political dissent. END OF SUMMARY.

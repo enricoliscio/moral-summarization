@@ -1,0 +1,70 @@
+Okay, so I need to help the user with their query. They want me to act as a news summarizer and moral expert. The task is to first identify all the morally framed single words in the given news article and then write a summary preserving those moral framings.
+
+First, I'll read through the article to understand the context. It's about Senator Marco Rubio discussing his foreign policy vision, comparing it to JFK's and criticizing Obama's approach. He talks about American strength, global influence, and moral clarity.
+
+For STEP 1, I need to extract all single words that carry moral connotations. Words like "assertive," "project," "strength," "weakness," "danger," "peace," "believed," "harsh," "engaged," "too many," "step back," "cede," "leadership," "better liked," "world better off," "simple truth," "Rubio Doctrine," "American strength," "protection," "globalized," "moral clarity," "core values," "counter," "normalize," "adversaries," "closer ties," "help," "keep power," "opposed," "negotiations," "more support," "rebel," "increase aid," "counter," "influence," "swipe," "ineffective," "negligent," "backward-looking," "trapped in the past," "timeless," "truths," "invade," "topple," "weapons of mass destruction," "misunderstood."
+
+I should list each of these words, each on a new line with a *.
+
+Next, for the summary, I need to condense the article into under 200 words, keeping as many of these moral words as possible. I'll start by outlining Rubio's main points: his vision inspired by JFK, advocating for a stronger military and assertive foreign policy, criticizing Obama's approach, and his principles. Then mention his opposition to Obama's policies on Cuba, Iran, Syria, and Ukraine. Also, his criticism of Hillary Clinton and his stance on the Iraq invasion.
+
+I need to ensure the summary flows well and includes the key moral framings without being too verbose. I'll make sure to mention each point succinctly, preserving the moral language to reflect the original article's tone.
+
+Finally, I'll structure the summary with the key points, ensuring it's within the word limit and accurately represents Rubio's stance while highlighting the moral elements.
+</think>
+
+**STEP 1:**  
+* assertive  
+* project  
+* strength  
+* prevent  
+* war  
+* promote  
+* weakness  
+* danger  
+* enemy  
+* peace  
+* hard  
+* adversaries  
+* engaged  
+* too many  
+* step back  
+* cede  
+* leadership  
+* better liked  
+* world better off  
+* simple truth  
+* Rubio Doctrine  
+* American strength  
+* protection  
+* globalized  
+* moral clarity  
+* core values  
+* counter  
+* normalize  
+* adversaries  
+* closer ties  
+* help  
+* keep power  
+* opposed  
+* negotiations  
+* more support  
+* rebels  
+* increase aid  
+* counter  
+* influence  
+* swipe  
+* ineffective  
+* negligent  
+* backward-looking  
+* trapped in the past  
+* timeless  
+* truths  
+* invade  
+* topple  
+* weapons of mass destruction  
+* misunderstood  
+
+**SUMMARY:**  
+U.S. Sen. Marco Rubio (R-Fla.) presented a foreign policy vision inspired by President John F. Kennedy, advocating for a stronger U.S. military and a more assertive global presence to prevent conflict and promote peace. Rubio criticized President Obama's approach, arguing that Obama's belief in reducing American engagement and "nation building at home" weakened U.S. leadership and global influence. Rubio's "Rubio Doctrine" emphasizes American strength, economic protection, and moral clarity in upholding core values. He opposes Obama's policies on Cuba, Iran, Syria, and Ukraine, advocating for stronger action against adversaries. Rubio also criticized Hillary Clinton's tenure as secretary of state, calling it "ineffective" and "negligent." While he supports timeless truths like JFK's, Rubio would not have authorized the Iraq invasion if he knew Saddam Hussein lacked weapons of mass destruction. His stance contrasts with Jeb Bush's support for the invasion. Rubio's speech reflects a vision of American leadership rooted in strength and moral clarity.  
+**END OF SUMMARY.**

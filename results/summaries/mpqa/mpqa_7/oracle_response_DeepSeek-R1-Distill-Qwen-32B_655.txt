@@ -1,0 +1,15 @@
+Alright, I need to help the user by summarizing a news article while preserving the moral framing. The user provided a detailed article about Hugo Chavez's declining approval ratings in Venezuela. They also listed specific morally framed words that should be included in the summary.
+
+First, I'll read through the article to understand the main points. It talks about the drop in Chavez's popularity, the reasons behind it, and the public's sentiment. The key issues mentioned are the crisis, problems like insecurity and unemployment, and the perception of Chavez's incapacity.
+
+Next, I need to identify the morally framed words from the list provided. Words like crisis, problems, insecurity, unemployment, decline, unresolved, incapable, happening, solution, problem, solved, incapacity, responsible, ability, shrinking are all important. I should make sure these are included in the summary.
+
+I'll structure the summary by highlighting the main findings of the poll, such as the majority wanting Chavez removed, the split between those wanting it through institutional means versus force, and the drop in approval ratings. I'll also mention the shift in public perception from polarization to a more nuanced view where many poor oppose him.
+
+Additionally, the summary should touch on the referendum support and the reasons behind Chavez's declining popularity, like economic issues and the perception of his inability to solve problems. I'll keep the summary concise, under 200 words, and make sure it flows naturally while incorporating the moral framing words.
+
+Finally, I'll ensure the summary starts with "SUMMARY:" and ends with "END OF SUMMARY." to meet the user's formatting requirements.
+</think>
+
+SUMMARY:  
+Recent polls reveal a significant decline in President Hugo Chavez's approval rating, reflecting a growing crisis in Venezuela. Over 54% of respondents believe Chavez should be removed from office to address the nation's problems, with 49% favoring institutional means and 5% supporting forceful methods. Approval ratings have dropped from 84% in 1999 to 33% in November, while disapproval rose to 58%. The myth of polarization between rich and poor has collapsed, as 78% of those polled believe many poor oppose Chavez. A strong majority (75%) supports a referendum to redraft the Constitution and restore power balance. Despite shrinking voter preference, Chavez remains in first place due to a divided opposition. Key issues include unresolved problems like insecurity and unemployment, with 80% of Venezuelans believing unemployment can be solved, but 40% blaming Chavez for it. His inability to inspire hope and shrinking support highlight his declining ability to address the crisis. END OF SUMMARY.

@@ -1,0 +1,48 @@
+Okay, I need to help the user by summarizing the given news article while preserving the moral framing. The user has specified two main steps: identifying morally framed words and then writing the summary.
+
+First, I'll read through the article carefully. The author uses strong language to describe the US administration's actions. Words like "enlightened" and "reckless" stand out as they carry moral connotations. I'll list each of these words, making sure to capture all the terms that imply judgment or evaluation.
+
+Next, I'll move on to writing the summary. I need to condense the article into under 200 words. The key points are Colin Powell's attempt to mitigate Bush's statements, the influence of the hardliners, the contradiction in Powell's statements, and the broader implications of US policies driven by economic and ideological factors. I'll make sure to include the morally framed words identified earlier to maintain the author's tone.
+
+I should structure the summary to highlight the conflict between Powell's words and the administration's actual stance, the role of the lobbies, and the potential negative consequences. Keeping the summary concise yet comprehensive is essential, ensuring all critical points are covered without exceeding the word limit.
+
+Finally, I'll review the summary to ensure it flows well and accurately reflects the article's moral framing, making adjustments where necessary to enhance clarity and coherence.
+</think>
+
+**STEP 1:**
+
+Here are the single words that are morally framed in the text:
+
+* Enlightened  
+* Reckless  
+* Evil  
+* Crush  
+* Prevent  
+* Characterizing  
+* Axis of evil  
+* Dialogue  
+* Hard-line  
+* Influence  
+* Speculations  
+* Denied  
+* Contradictions  
+* Punish  
+* Danger  
+* Mislead  
+* Targeted  
+* Zionist  
+* Extremist  
+* Texan mentality  
+* Cowboy  
+* Civilized  
+* Apprehensions  
+* Resentment  
+* Catastrophe  
+* Exploited  
+
+---
+
+**SUMMARY:**
+
+The article critiques the moral and political implications of the Bush administration's approach to international relations. US Secretary of State Colin Powell attempted to soften President Bush's "axis of evil" rhetoric, emphasizing a willingness to engage in dialogue with Iran, Iraq, and North Korea. However, the administration's hard-line faction, including Vice President Dick Cheney and Secretary of Defense Donald Rumsfeld, holds significant influence over Bush's decisions. Powell's statements are seen as contradictory, as the administration has already ruled out dialogue with Iraq unless it accepts UN inspections. The article suggests that the US is driven by a combination of economic interests, such as reviving the arms industry, and ideological motivations, including the influence of the Zionist lobby. The Texan "cowboy mentality" is portrayed as prioritizing war over dialogue, raising concerns about global stability and prosperity. The author warns of potential catastrophe if the US continues to prioritize its arms industry and ideological agenda over international security and cooperation.  
+**END OF SUMMARY.**

@@ -1,0 +1,33 @@
+Okay, so the user has given me a query where they want me to summarize a news article while preserving the moral framing. They've also provided specific steps: first, identify all the morally framed single words, and then write a summary using those words. 
+
+First, I need to understand what morally framed words are. These are words that carry a strong moral or ethical connotation, often used to evoke a particular emotion or judgment. In the article, words like "slammed," "murderous," "frightened," "create crimes," "nothing," "making up," "crimes," "checks and balances," "danger," "silent," "scorned," "biased," "truth," "Constitution," and "misleading" stand out as they carry strong moral implications.
+
+Next, I need to make sure the summary includes these words while staying under 200 words. The summary should capture the essence of the article, which is Dershowitz criticizing Democrats for their impeachment efforts, comparing them to Stalin's secret police. He argues they're creating crimes out of thin air, undermining the Constitution, and that media like CNN are biased against him.
+
+I should structure the summary to highlight Dershowitz's main points: his comparison to Stalin, the lack of real crimes, the misuse of terms like collusion and obstruction, and the media's role in this. I need to keep it concise but include all the key morally charged words.
+
+I also need to ensure that the summary flows naturally and accurately reflects the article's content without adding any personal opinions. It's important to maintain the original moral framing as presented by the author, which in this case is Dershowitz's perspective.
+
+Finally, I'll present the identified words in STEP 1 and then craft the summary, making sure it's within the word limit and includes all the necessary moral terms. I'll end the summary with the specified tokens to indicate the conclusion.
+</think>
+
+**STEP 1:**  
+* Slammed  
+* Murderous  
+* Frightened  
+* Create crimes  
+* Nothing  
+* Making up  
+* Crimes  
+* Checks and balances  
+* Danger  
+* Silent  
+* Scorned  
+* Biased  
+* Truth  
+* Constitution  
+* Misleading  
+
+**SUMMARY:**  
+Harvard Law School professor Alan Dershowitz, a self-described liberal Democrat, criticized congressional Democrats for their impeachment efforts against President Trump, comparing them to Stalin's secret police. He accused them of "making up crimes" and claimed their actions were reminiscent of Lavrentiy Beria, Stalin's head of the KGB. Dershowitz argued that terms like "collusion" and "obstruction of Congress" lack legal basis and are being used to justify impeachment. He warned that such actions threaten constitutional checks and balances and put all Americans in danger. Dershowitz also criticized CNN and MSNBC for biased reporting, stating they refuse to air his views, which he believes are truthful and constitutional. Despite his liberal roots, Dershowitz has been scorned by Democrats and now appears frequently on Fox News. He accused left-leaning media of parroting the party line and misleading viewers.  
+**END OF SUMMARY.**

@@ -1,0 +1,32 @@
+Okay, I need to help the user by summarizing the news article while preserving the moral framing. The user has given specific instructions: first, identify all the single words that are morally framed, then write a concise summary using those words.
+
+First, I'll read through the article to understand the context. It's about Paul Ryan responding to criticism regarding his Medicare plan, contrasting it with Obama's healthcare plan. There's a lot of political rhetoric here, so I should look for words that carry strong moral connotations.
+
+Looking for words like "raid," "damage," "dishonest," "hypocritical," "failure," "dragging," "blame," "attack," "wrong." These words are used to convey moral judgments, either positive or negative, about the policies and individuals involved.
+
+Next, I need to write a summary that includes these words. The summary should be under 200 words and capture the essence of the article, highlighting the moral framing from both sides.
+
+I'll start by outlining the main points: Ryan's defense of his plan, Obama's criticism, the contrast between the two plans, the accusations of dishonesty, and the overall political battle. I'll make sure to include the morally charged words to reflect the tone of the article.
+
+I should also ensure that the summary flows well and accurately represents both parties' arguments without bias. It's important to maintain the moral framing as presented in the original text.
+
+Now, putting it all together, I'll structure the summary to first present Ryan's stance, then Obama's counterarguments, and conclude with the ongoing political conflict. I'll make sure each morally framed word is included where appropriate.
+
+Finally, I'll review the summary to ensure it's within the word limit and that all key points are covered while preserving the moral language.
+</think>
+
+### STEP 1:
+* Raid  
+* Damage  
+* Dishonest  
+* Hypocritical  
+* Failure  
+* Dragging  
+* Blame  
+* Attack  
+* Wrong  
+
+---
+
+### SUMMARY:  
+Paul Ryan defended his Medicare plan, accusing President Obama of treating Medicare as a "piggy bank" to fund ObamaCare, while his plan preserves the program. Ryan claimed his approach saves and strengthens Medicare, unlike Obama’s plan, which he said damages it for current seniors. The Obama campaign countered, calling Ryan’s proposals dishonest and hypocritical, as they would end Medicare as we know it, replacing guaranteed benefits with vouchers. Both sides accused each other of cutting Medicare funds, with Ryan emphasizing his plan protects current retirees while Obama highlighted savings through reduced waste and fraud. Ryan also criticized Obama’s job creation record, calling it a failure, and defended his ideological alignment with Romney. The debate over Medicare and healthcare policy remains a central issue in the campaign, with both sides framing their arguments to appeal to voters. END OF SUMMARY.

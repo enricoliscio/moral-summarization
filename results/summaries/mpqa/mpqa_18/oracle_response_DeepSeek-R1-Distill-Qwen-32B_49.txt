@@ -1,0 +1,15 @@
+Alright, I need to help the user by summarizing the given news article while preserving the moral framing. First, I should understand what the user is asking for. They provided an article about the International Space Station crew change and specified that I should focus on the morally framed words used by the author.
+
+I'll start by reading the article carefully to identify the key points. The main events are the arrival of the new crew, the transfer of responsibilities, the installation of equipment, and the personal touches each astronaut brought. The author used words like "settled in," "couldn't wait," "reflected their hobbies," and "psychological support device." These phrases add a human touch and highlight the astronauts' personalities and dedication.
+
+Next, I need to ensure that my summary includes these morally framed words. I'll structure the summary to include the new crew's arrival, the installation of their gear, the commander's eagerness, and their personal items. I should keep it concise, under 200 words, and make sure it flows naturally while retaining the moral elements.
+
+I also need to remember to start the summary with "SUMMARY:" and end with "END OF SUMMARY." without using markdown. I'll make sure each sentence captures the essence of the article and maintains the positive tone about the astronauts' dedication and the collaborative nature of the mission.
+
+Let me draft the summary step by step. First, mention the arrival of the new crew and their half-year stay. Then, note the installation of their equipment and Yuri Onufrienko's eagerness to take command. Highlight their personal items as a reflection of their hobbies. Finally, mention the transfer of the cargo carrier and the return of the outgoing crew. I'll ensure all key points are covered succinctly while preserving the moral framing.
+</think>
+
+SUMMARY:  
+Two American astronauts and a Russian cosmonaut have settled in for a half-year stay at the International Space Station (ISS). After arriving aboard the space shuttle Endeavour, they installed their gear, including form-fitting seat liners and space suits, before fully occupying the station. Russian cosmonaut Yuri Onufrienko, eager to take over as commander, impatiently waited for the hatch to open. The new crew, consisting of Onufrienko, Daniel Bursch, and Carl Walz, will remain on the station until May. Meanwhile, the outgoing crew, led by Frank Culbertson, will return to Earth after 128 days in space. The astronauts also brought personal items reflecting their hobbies: Onufrienko brought fishing gear, Bursch weaving materials, and Walz a five-octave keyboard for psychological support. The shuttle also delivered a cargo carrier, Raffaello, loaded with supplies and destined to return with trash and used equipment.  
+
+END OF SUMMARY.

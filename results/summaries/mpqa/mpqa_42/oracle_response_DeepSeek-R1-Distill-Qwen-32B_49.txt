@@ -1,0 +1,18 @@
+<think>
+Okay, so I'm trying to help the user with this query. They want me to summarize a news article while preserving the moral framing. Let me break this down.
+
+First, I need to understand the article. It's about Hameed Gul, a Pakistani analyst, criticizing the US State Department's human rights report. He's using strong moral language, so I need to capture that in the summary.
+
+The user provided a list of morally framed words. I should make sure to include as many as possible without making the summary too long. The summary needs to be under 200 words and start with "SUMMARY:" and end with "END OF SUMMARY."
+
+I'll start by identifying the main points: Gul rejects the report, calls it lies and propaganda. He accuses the US of hegemony and hypocrisy, pointing out their actions in Afghanistan, India, and Palestine. He also calls for Muslim unity against US influence.
+
+I should structure the summary to include all these points concisely. I'll make sure to use words like "rejected," "blatant lies," "propaganda," "subjugate," "oppression," "murdered," "silent," "abuses," "submission," and "plight."
+
+I need to ensure the summary flows well and maintains the moral tone. I'll check the word count to stay within the limit. Also, I should avoid any markdown and keep it plain text as per the user's request.
+
+Alright, time to put it all together in a clear and concise manner.
+</think>
+
+SUMMARY:  
+Leading Pakistani defense analyst Hameed Gul has rejected the US State Department's human rights report, calling it "a pack of blatant lies and propaganda." He accused the US of using force to subjugate the world and tolerate no resistance to its hegemony. Gul criticized the US for its hypocrisy, noting its silence on human rights abuses in India, where over 600 Muslims were murdered by extremist Hindus, and in Palestine, where Israel commits abuses with US complicity. He condemned the US for denying a free state to Palestine and seeking the submission of Muslims globally. Gul warned that Muslims must unite morally and resist US influence to avoid being crushed individually. He emphasized the need for concerted action to counter the ever-increasing US influence and oppression. END OF SUMMARY.

@@ -1,0 +1,18 @@
+Okay, so the user has given me a task to summarize a news article. They want me to act as a news summarizer assistant. Let me read through the instructions again to make sure I understand what's needed.
+
+The user provided a detailed article about President Trump announcing Defense Secretary Mattis's early departure, along with some context about other resignations and policy decisions. The summary needs to be concise, no longer than 200 words, and should start with "SUMMARY:" and end with "END OF SUMMARY."
+
+First, I should identify the main points of the article. The key events are Mattis's resignation, the change in departure date, Patrick Shanahan taking over, the reasons behind Mattis's resignation, the troop withdrawals from Syria and Afghanistan, and the reactions from Trump and others.
+
+I need to condense each of these points into a few sentences. I should make sure to include the unexpected nature of the departure, Mattis's disagreements with Trump's policies, the impact on national security, and Trump's defense of his decisions despite criticism.
+
+I also need to keep the language clear and straightforward, avoiding any markdown or formatting. The summary should flow logically, starting with Mattis's resignation, moving to the replacement, the reasons, and then the broader implications like troop withdrawals and reactions.
+
+I should check the word count to ensure it's under 200 words. Let me draft a concise version, making sure each sentence covers a key point without unnecessary details.
+
+After drafting, I'll review to ensure it's within the word limit and that all critical information is included. I'll also make sure it starts and ends with the required tokens.
+
+Alright, let me put it all together now.
+</think>
+
+SUMMARY: President Trump announced that Defense Secretary James Mattis will leave the administration on January 1, weeks earlier than previously planned. Mattis, who had planned to stay until February, cited policy disagreements with the White House. Patrick Shanahan, a former Boeing executive, will serve as Acting Secretary of Defense starting January 1. The abrupt change comes amid rising tension in the Defense Department, with sources indicating Mattis resigned "in protest" over Trump's national security policies. Trump has defended his decision to withdraw troops from Syria, stating that ISIS has been defeated. However, critics worry about ISIS resurgence and abandoning Kurdish allies. Meanwhile, Brett McGurk, the U.S. envoy for the coalition against ISIS, also resigned, effective December 31, citing unfinished work in Syria. Trump dismissed the resignations as "nothing events," emphasizing his focus on troop safety and national security. The administration's plan to withdraw troops from Afghanistan has also faced criticism, with concerns over the impact on local security forces. END OF SUMMARY.

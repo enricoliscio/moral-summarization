@@ -1,0 +1,15 @@
+<think>
+Okay, so the user has provided a query where they want a news summary that preserves the moral framing from the original article. The article is about the US's stance on the Kyoto Protocol irritating Japan. I need to make sure the summary captures the moral elements, like how the US's decision affects global efforts and the frustration of allies.
+
+First, I'll read through the article to understand the key points. The Kyoto Protocol was significant for Japan, and the US's refusal to ratify it is causing issues. There's a moral angle here, emphasizing the US's responsibility as the largest emitter and the potential consequences of their decision.
+
+I should highlight the environmental consequences mentioned, like coral reefs dying and polar bears losing habitat. These details add weight to the moral argument. Also, the US's alternative plan is criticized for not being sufficient, so I'll include that to show the criticism.
+
+The user wants the summary to be concise, under 200 words, and to end with specific tokens. I need to structure it so it starts with the main issue, then the moral implications, the US's alternative, and the potential global fallout.
+
+I'll make sure to mention Japan's pride in the Kyoto Protocol and the frustration expressed by environmental groups. Including the US's unilateral actions and the possible two-tier system will show the broader implications.
+
+Finally, I'll wrap it up by noting that while some in Japan support the alternative, the majority see it as a step backward. This balances the summary and keeps it within the word limit.
+</think>
+
+SUMMARY: The article discusses the moral and diplomatic implications of the US refusing to ratify the Kyoto Protocol, irritating its allies, particularly Japan. The protocol, signed in 1997, aimed to address global warming by reducing greenhouse gas emissions, but the US's decision to reject it has raised concerns about its effectiveness. Japan, a nation proud of its role in shaping the protocol, views the US's stance as irresponsible, given its status as the largest emitter of greenhouse gases. Environmental groups criticize the US's alternative plan, which they argue allows continued emissions increases and risks a two-tier global system. The article highlights the moral imperative for global cooperation to combat climate change, emphasizing the potential consequences of inaction, such as coral reef death, polar bear habitat loss, and disrupted bird migration. While some in Japan, like industry representatives, support the US alternative, many view it as a step backward in global efforts to address climate change. END OF SUMMARY.

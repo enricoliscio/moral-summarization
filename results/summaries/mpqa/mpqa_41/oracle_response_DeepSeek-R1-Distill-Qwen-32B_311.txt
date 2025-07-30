@@ -1,0 +1,11 @@
+<think>
+Alright, I need to help the user by summarizing the given news article while preserving the moral framing. First, I'll read through the article to understand the main points. It's about a UN debate on human rights, emphasizing that without development, people can't fully enjoy their rights. They mention things like poverty, hunger, and health issues as barriers. 
+
+The author used specific morally charged words like "enjoy," "improving," "protection," and "peace." I should make sure to include these in the summary. I'll need to condense the information, focusing on the key arguments from different countries. Thailand's point about human rights and development being two sides of the same coin is important. Eritrea and China talked about globalization's negative effects and the development gap. The US mentioned the importance of protecting human rights in fighting terrorism.
+
+I need to keep the summary under 200 words. I'll start by stating the main topic, then mention the key points each delegation made, using the moral words. I'll make sure the flow is logical and that all significant points are covered without going over the word limit. Finally, I'll end with the committee's next meeting, as that's part of the original article.
+</think>
+
+SUMMARY:  
+At the UN General Assembly's Third Committee, delegates emphasized that without development, people facing poverty, hunger, and poor health cannot fully enjoy their human rights. They stressed that the right to development and international peace are crucial for protecting and promoting human rights. Thailand highlighted that human rights and development are interconnected, requiring simultaneous efforts to address social ills like disease, terrorism, and crime. Eritrea and China warned that globalization risks marginalizing the developing world and widening the development gap, hindering the realization of universal human rights. The U.S. delegate stressed that protecting human rights is essential in the fight against terrorism, with no room for compromise or expediency. The debate underscored the need to prioritize people in development efforts and address global challenges to ensure the promotion and protection of human rights. The committee will continue its discussion the following day.  
+END OF SUMMARY.

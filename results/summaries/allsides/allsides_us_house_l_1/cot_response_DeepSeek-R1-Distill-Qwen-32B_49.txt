@@ -1,0 +1,38 @@
+Okay, so I need to help the user with their query. They want me to act as a news summarizer assistant and a moral expert. The task is to summarize a given news article while preserving the moral framing. 
+
+First, I should understand the structure of the query. They provided the article and instructions. The user wants me to do two steps: first, identify all the single words that are morally framed, and second, write a summary preserving those words.
+
+Looking at the article, Fiona Hill is testifying against Republicans and Trump's conspiracy theories. She's pointing out that the narrative about Ukraine interfering is a Russian plot. So, I need to find words that carry moral weight, like "excoriates," "unsubstantiated," "perpetrated," etc.
+
+I should go through the article sentence by sentence, picking out words that have a clear moral connotation. Words that indicate blame, deceit, or wrong action. Once I list those, I'll move on to the summary.
+
+For the summary, I need to condense the article, keeping the key points: Hill's testimony, the conspiracy theories, the quid pro quo, and the ongoing Russian interference. I must include as many morally framed words as possible without making the summary too long—under 200 words.
+
+I also need to make sure the summary flows well and accurately represents the article's content. I should avoid adding my own opinions but stick to the facts presented, emphasizing the moral aspects as the author intended.
+
+Finally, I'll structure the response with STEP 1 listing the moral words and then the SUMMARY section. I need to ensure that each step is clearly marked and that the summary is concise yet comprehensive.
+
+I should double-check that I haven't missed any morally framed words and that the summary captures the essence of the article, highlighting the unethical behavior and the implications for national security.
+</think>
+
+### STEP 1:  
+* Excoriates  
+* Unsubstantiated  
+* Perpetrated  
+* Propagated  
+* Legitimize  
+* Adversary  
+* Attacked  
+* Consensus  
+* Undercut  
+* Conspiracy  
+* Cooking  
+* Impedes  
+* Subverts  
+* Undermined  
+* Politicized  
+
+---
+
+### SUMMARY:  
+Fiona Hill, a former National Security Council official, strongly condemned Republicans for promoting unsubstantiated conspiracy theories about Ukrainian interference in the 2016 election, which she accused of being a fictional narrative propagated by Russian security services. She emphasized that the US intelligence community, including Robert Mueller’s work, has consistently concluded that Russia, not Ukraine, interfered in the 2016 election. Hill criticized President Trump and Rudy Giuliani for advancing politically driven falsehoods that align with Russian interests, urging impeachment investigators to focus on the President’s actions that may have subverted national security for personal or political gain. She also highlighted the ongoing threat of Russian election interference, noting its impact on US unity and the credibility of its foreign service. END OF SUMMARY.

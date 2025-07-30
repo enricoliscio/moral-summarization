@@ -1,0 +1,51 @@
+Okay, I need to help the user with their query. They provided a news article and specific instructions. Let me break it down.
+
+First, the user wants me to act as a news summarizer and moral expert. My task is to summarize the article while preserving the moral framing. They also want me to identify all single words that are morally framed in STEP 1 and then write a concise summary.
+
+Looking at the article, it's about Mugabe's election win in Zimbabwe. There's a lot of moral judgment here. Words like "rigged," "fraud," "intimidation," "violence," "flawed," etc., are key. I need to list each of these as STEP 1, each on a new line with a *.
+
+Next, the summary should be under 200 words. I need to include the morally framed words. The summary should cover Mugabe's win, the West's criticism, African support, and the internal conflict in Zimbabwe.
+
+I should start by identifying all the morally charged words. Then, structure the summary to highlight the divide between the West and African nations, Mugabe's tactics, and the implications for Zimbabwe.
+
+I need to ensure the summary flows well and captures the essence without being too detailed. Also, make sure to include the key points: election results, reactions from Bush, Straw, African countries, Mugabe's supporters, and the impact on Zimbabwe's stability.
+
+I think I've got the main points. Now, I'll proceed to list the morally framed words and then craft the summary accordingly.
+</think>
+
+**STEP 1:**  
+* Rigged  
+* Fraud  
+* Intimidation  
+* Manipulation  
+* Despondent  
+* Bebefuddled  
+* Daylight robbery  
+* Flawed  
+* Sanctions  
+* Systematic campaign of violence  
+* Muted  
+* Flawed  
+* Administrative oversight  
+* Transparent  
+* Credible  
+* Free  
+* Fair  
+* Legitimate  
+* Fraud-tainted  
+* Unfair  
+* Seething with anger  
+* Confrontation  
+* Treason  
+* Trumped up  
+* Disenfranchise  
+* Imploded  
+* Unemployment  
+* Inflation  
+* Hungry  
+* Refugees  
+* War  
+* Political turmoil  
+
+**SUMMARY:**  
+Robert Mugabe won Zimbabwe's contested election, with 56% of the vote, amid accusations of rigging and fraud. Morgan Tsvangirai, the opposition leader, called the election "the biggest electoral fraud I have ever witnessed," while Western leaders, including George W. Bush and Jack Straw, criticized the outcome as flawed and demanded sanctions. In contrast, African nations, including South Africa, supported the result, deeming it legitimate and credible. Mugabe's victory deepened divisions between the West and Africa, as Zimbabwe's economy continued to implode, with high unemployment, inflation, and food shortages. Tsvangirai ruled out open rebellion but expressed anger over the result, while Mugabe's supporters celebrated. The election highlighted regional instability and the challenges of participatory democracy in Zimbabwe. END OF SUMMARY.

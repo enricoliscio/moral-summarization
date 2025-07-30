@@ -1,0 +1,37 @@
+Alright, so the user has given me a task where I need to act as a news summarizer assistant and a moral expert. The task involves two main steps: first, identifying all the morally framed single words in the provided news article, and second, summarizing the article while preserving the moral framing.
+
+Starting with the first step, I need to go through the article and pick out words that carry a moral connotation. These words often relate to right and wrong, ethics, or judgments. For example, words like "defended," "sexual advances," "false," "partisan," "backlash," "dismissed," "garbage," "nothing," "immoral," "illegal," "contrived," "shenanigans," "predatory," "prosecute," "victims," "crime," "rape," and "decisions." Each of these words carries a moral weight, indicating approval, disapproval, or judgment.
+
+Next, for the summary, I need to condense the article into a concise version, making sure to include as many of these morally charged words as possible. The summary should reflect the author's moral framing, which in this case seems to critique the Republican officials' support for Roy Moore despite the allegations. I should highlight the key points: the allegations against Moore, the Republican defense, the dismissal of the victims' accounts, and the moral justifications used by some officials.
+
+I need to ensure that the summary doesn't exceed 200 words and clearly presents the moral implications without adding my own bias. It's important to maintain the original tone and the moral framing as presented in the article.
+
+I also need to structure the response with the two steps clearly marked. The first step lists each morally framed word, and the second provides the summary. I should use the specified tokens "STEP 1:" and "SUMMARY:" to separate these sections, ending with "END OF SUMMARY."
+
+Lastly, I should review the summary to make sure it's accurate and that all the key points are covered, including the reactions from the officials and the legal context provided. This way, the summary will effectively convey the moral framing while being concise and informative.
+</think>
+
+### STEP 1:  
+* defended  
+* sexual advances  
+* false  
+* partisan  
+* backlash  
+* dismissed  
+* garbage  
+* nothing  
+* immoral  
+* illegal  
+* contrived  
+* shenanigans  
+* predatory  
+* prosecute  
+* victims  
+* crime  
+* rape  
+* decisions  
+
+---
+
+### SUMMARY:  
+Republican officials in Alabama defended Roy S. Moore, their Senate nominee, after reports surfaced that he made sexual advances toward teenage girls in the 1970s. The Washington Post detailed allegations that Moore, then a district attorney, engaged in inappropriate behavior with a 14-year-old and other underage girls. Moore denied the claims, calling them a "desperate political attack" by Democrats and the media. Alabama Republicans largely dismissed the women’s accounts, with some labeling the story as "total contrived media garbage" or "much ado about nothing." Officials like Jim Ziegler argued Moore’s actions were not "immoral or illegal," comparing him to biblical figures. Others, including Bibb County party chairman Jerry Pow, stated they would support Moore even if he committed a sex crime. Some, like Riley Seibenhener, rejected the allegations but criticized the victims, claiming 14-year-olds "don’t make good decisions." The article highlights the moral and political divide as Moore faces a special election against Democrat Doug Jones. END OF SUMMARY.

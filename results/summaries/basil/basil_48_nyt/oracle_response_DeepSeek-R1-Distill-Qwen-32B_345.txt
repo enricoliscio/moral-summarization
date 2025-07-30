@@ -1,0 +1,12 @@
+Okay, I need to help the user by summarizing this news article while preserving the moral framing. The user is a news summarizer and a moral expert, so the summary should reflect the ethical aspects highlighted in the original text. 
+
+First, I'll read through the article to understand the main points. It's about Elizabeth Lauten, a Republican aide, who made controversial comments on Facebook about the Obama daughters. Her post went viral, leading to her resignation. The article uses words like "say," "respect," "judged," and "criticized," which are key to the moral framing.
+
+I should focus on these words and ensure they're included in the summary. The summary needs to be concise, under 200 words, and should capture the essence of the moral issues involved. I'll highlight how Lauten's comments were seen as disrespectful and judgmental, leading to her downfall. Also, I'll mention the broader message about the challenges faced by first daughters and the consequences of public criticism.
+
+I need to structure the summary to include the key events: her resignation, the content of her Facebook post, the public reaction, and the apology. I'll make sure to use the morally framed words where appropriate to maintain the author's perspective.
+
+Let me draft the summary, ensuring it's clear and within the word limit. I'll check that all important points are covered and that the moral elements are emphasized. Finally, I'll format it correctly with the "SUMMARY:" and "END OF SUMMARY." tokens as specified.
+</think>
+
+SUMMARY: A young Republican congressional aide, Elizabeth Lauten, resigned after her Facebook post criticizing President Obama’s daughters for their attitude and outfits during the White House turkey pardon went viral. Lauten, who described herself as a conservative with a flair for "pink, green, and pearls," wrote that the girls should "try showing a little class" and "dress like you deserve respect." Her comments were widely criticized as disrespectful and judgmental. Lauten later apologized, admitting she had "judged the two young ladies in a way that I would never have wanted to be judged myself as a teenager." The incident highlights the challenges faced by first daughters, as well as the risks of using social media to criticize public figures. The White House press secretary, Josh Earnest, expressed surprise at the aide's actions, calling it "taken aback" that someone would use a Thanksgiving event to "criticize members of the first family." END OF SUMMARY.

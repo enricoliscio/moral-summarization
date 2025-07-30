@@ -1,0 +1,18 @@
+Okay, so the user wants me to summarize a news article about the 2012 vice presidential debate between Joe Biden and Paul Ryan. They specified that the summary should preserve the moral framing from the original text. 
+
+First, I need to read through the article carefully. The article describes Biden's aggressive debating style, comparing him to Lloyd Bentsen from 1988. It mentions how Biden mocked Ryan, especially when Ryan brought up John F. Kennedy. There's also a point about Biden's past debate with Sarah Palin where he had to be more restrained.
+
+I should note the key points: Biden's use of Bentsen's tactics, the mocking of Ryan, the mention of JFK, Biden's interruptions, and the comparison to Palin. Also, the moderator's active role and the emotional elements, like Biden bringing up his personal tragedy.
+
+I need to make sure the summary is concise, under 200 words, and includes the moral aspects, like Biden's aggressive tactics versus Ryan's respectful approach. I should highlight how Biden was more assertive, almost like a barroom brawler, while Ryan tried to stay respectful but sometimes showed irritation.
+
+I'll structure the summary to start with Biden's strategy, then move into specific instances where he mocked Ryan, mention the moderator's role, and end with the emotional elements. I need to keep it clear and within the word limit.
+
+Let me draft it step by step, ensuring each key point is covered without getting too detailed. I'll check the word count to make sure it's under 200. Also, I'll end with the specified tokens as per the user's instruction.
+
+Alright, I think that's a solid plan. Time to put it all together concisely.
+</think>
+
+SUMMARY:  
+In the 2012 vice presidential debate, Joe Biden aggressively confronted Paul Ryan, adopting a confrontational style reminiscent of Lloyd Bentsen’s 1988 debate tactics. Biden mocked Ryan, particularly when Ryan invoked John F. Kennedy, to which Biden quipped, “Now you’re Jack Kennedy?” Biden’s interruptions and patronizing demeanor contrasted with Ryan’s respectful but sometimes disconcerted approach. Biden’s relentless attacks, including mocking Ryan’s support for stimulus funds while opposing the Obama stimulus, highlighted the sharp tone of the debate. Ryan, in turn, pointed out Biden’s past gaffes, though Biden remained unamused. The moderator, Martha Raddatz, actively pushed candidates for specifics, unlike the previous debate’s more passive format. The debate also touched on emotional elements, with Biden referencing his personal tragedy. Overall, Biden’s assertive, almost barroom-brawler-like style dominated the night, as he sought to redeem the Obama campaign after its earlier stumble.  
+END OF SUMMARY.

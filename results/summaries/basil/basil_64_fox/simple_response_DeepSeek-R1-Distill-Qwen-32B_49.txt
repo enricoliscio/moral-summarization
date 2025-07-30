@@ -1,0 +1,14 @@
+Okay, so the user wants me to summarize a news article while preserving the moral framing the author used. The article is about Justice Ginsburg facing backlash for her comments about Trump. I need to make sure the summary captures the key points and the moral implications without losing the original tone.
+
+First, I should identify the main events. Ginsburg criticized Trump, calling him a faker and unqualified. Trump and others, including both Republicans and Democrats, criticized her for being inappropriate. She also received some support from Bernie Sanders. The moral framing here is about the appropriateness of a Supreme Court justice making political statements, which could undermine the court's impartiality.
+
+I need to keep the summary concise, under 200 words. I'll start by stating Ginsburg's comments and the backlash. Then mention Trump's and others' reactions, emphasizing the concern about impartiality. Finally, include the support from Sanders and the media's stance on the issue. I should ensure that the summary flows well and includes all critical points without being too detailed.
+
+Let me structure it: introduce Ginsburg's criticism, the backlash from Trump and others, the moral concern about impartiality, and the support from Sanders. Make sure to highlight the bipartisan nature of the criticism and the media's comments on the matter.
+
+I should avoid any markdown and keep the language clear and neutral, reflecting the original article's moral perspective. Also, I need to end with the specified tokens. Let me check the word count to make sure it's within limits.
+</think>
+
+SUMMARY:  
+Supreme Court Justice Ruth Bader Ginsburg faced bipartisan criticism after openly criticizing Donald Trump, calling him a "faker" and unqualified for the presidency. Trump and Republican leaders, including Senate Majority Leader Mitch McConnell and House Speaker Paul Ryan, condemned her comments as inappropriate, arguing they undermine the court's impartiality. Even some Democrats, like Sen. Chris Murphy, expressed discomfort with her public political statements. Mainstream media also criticized her for politicizing the court, citing the judicial code of conduct, which discourages judges from endorsing or opposing candidates. While Ginsburg received some support from Bernie Sanders, who agreed Trump is an opportunist, the majority viewed her remarks as overstepping the boundaries of a justice's role. The controversy highlights concerns about the politicization of the judiciary and its impact on public trust in the court's impartiality.  
+END OF SUMMARY.

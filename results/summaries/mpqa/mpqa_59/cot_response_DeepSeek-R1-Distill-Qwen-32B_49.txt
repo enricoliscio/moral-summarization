@@ -1,0 +1,36 @@
+Okay, so I need to help the user by summarizing a news article while preserving the moral framing. The user has given specific instructions, so I should follow them carefully. First, I need to read the article to understand its content and the moral language used. 
+
+The article is about Condoleezza Rice defining the "axis of evil" as Iraq, Iran, and North Korea. She lists criteria like being repressive, human rights violators, and aggressively seeking WMDs. The author points out that many other countries could fit these criteria, questioning Rice's definition. They argue that acquisition of WMDs alone shouldn't label a country as evil, especially since the US has its own history with nuclear weapons. The real issue, the author suggests, is the nature of the regime, not just the possession of weapons.
+
+Now, the user wants two things: first, to identify all the morally framed single words, and second, to write a summary preserving those words. 
+
+For the first part, I'll go through the article and pick out words that carry moral connotations. Words like "repressive," "grave," "violators," "aggressively," "evil," "pluralistic," "oppressive," "mass destruction," "responsible," "evil," "restrained," "responsible," "evil," "authoritarian," "repressive," "responsible," and "evil" stand out as they have strong moral implications.
+
+Next, the summary needs to capture the essence of the article while including as many of these words as possible. I should ensure it's concise, under 200 words, and flows naturally. I'll start by mentioning Rice's definition, the criteria, the criticism that many countries fit, the issue with using WMDs as a sole criterion, the US's own history, and the focus on regime nature.
+
+I need to make sure the summary doesn't add any new information but accurately reflects the article's points. I'll structure it to highlight the main arguments: Rice's criteria, the criticism, the US's stance, and the underlying fear about regime type. 
+
+I should also keep the language clear and direct, avoiding any markdown or extra formatting as per the user's request. Let me piece this together, ensuring each point is covered succinctly.
+</think>
+
+**STEP 1:**  
+* Repressive  
+* Grave  
+* Violators  
+* Aggressively  
+* Evil  
+* Pluralistic  
+* Oppressive  
+* Mass destruction  
+* Responsible  
+* Evil  
+* Restraint  
+* Responsible  
+* Evil  
+* Authoritarian  
+* Repressive  
+* Responsible  
+* Evil  
+
+**SUMMARY:**  
+Condoleezza Rice defined the "axis of evil" as Iraq, Iran, and North Korea, citing their repressive regimes, human rights violations, and aggressive pursuit of weapons of mass destruction. Critics argue that many other countries could fit these criteria, as most non-pluralistic democracies are considered oppressive. Rice's focus on "aggressively seeking" such weapons excludes slower developers, yet acquiring mass destruction weapons alone may not justify labeling a nation as evil. The U.S., having developed and used nuclear weapons, raises questions about the morality of using such criteria. The real issue, the article suggests, lies in the nature of the regime, with democratic states seen as more restrained and responsible. Rice's definition may have erred by not clearly linking regime type to the acquisition of weapons, leaving the criteria vague and open to criticism. END OF SUMMARY.

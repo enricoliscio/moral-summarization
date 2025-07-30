@@ -1,0 +1,16 @@
+Okay, I need to help the user by summarizing the given news article while preserving the moral framing. The user is acting as a news summarizer assistant and a moral expert, so I should focus on both the content and the ethical implications.
+
+First, I'll read the article carefully. It's about China disapproving of the term "axis of evil" in international relations. The Chinese Foreign Ministry spokesman, Kong Quan, comments on the U.S. leader's statement labeling North Korea, Iran, and Iraq as such. He mentions that China doesn't agree with using such terms and points out that public opinion in the U.S. also doesn't support it. He emphasizes that anti-terrorism should be based on evidence and shouldn't be expanded without reason. He also stresses the importance of following UN principles and treating countries equally.
+
+I need to capture the key points: China's disapproval of the term, the context of the U.S. leader's statement, the reference to U.S. public opinion, the call for evidence-based anti-terrorism, and adherence to international principles like the UN Charter and the Five Principles of Peaceful Co-existence.
+
+I should structure the summary to highlight China's stance, the moral concerns about labeling, and the emphasis on international cooperation and equality. I need to keep it under 200 words, so I'll be concise but include all necessary elements.
+
+Let me draft the summary, making sure to include Kong Quan's comments, the reference to U.S. public opinion, the call for evidence, and the principles mentioned. I'll ensure the moral framing is clear, emphasizing the need for peaceful relations and the dangers of arbitrary labeling.
+
+Finally, I'll format it with "SUMMARY:" at the start and "END OF SUMMARY." at the end, keeping it within the word limit.
+</think>
+
+SUMMARY:  
+China has expressed disapproval of the use of the term "axis of evil" in international relations, as stated by Chinese Foreign Ministry spokesman Kong Quan. He criticized the U.S. leader's recent labeling of North Korea, Iran, and Iraq as part of this "axis," arguing that such language risks serious consequences. Kong emphasized that anti-terrorism efforts must be grounded in irrefutable evidence and should not be arbitrarily expanded. He stressed the importance of adhering to the principles of the United Nations Charter, the Five Principles of Peaceful Co-existence, and treating all nations equally. Kong also noted that U.S. public opinion opposes the use of such terms, highlighting the need for diplomacy based on cooperation and equality to maintain global peace and stability.  
+END OF SUMMARY.

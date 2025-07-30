@@ -1,0 +1,28 @@
+<think>
+Alright, I need to help the user with their query. They provided a news article and specific instructions on how to process it. The user wants me to act as a news summarizer assistant and a moral expert. My task is to summarize the article while preserving the moral framing the author used.
+
+First, I need to break down the instructions. They mentioned two main steps: identifying morally framed words and then writing a summary that includes as many of these words as possible.
+
+Starting with Step 1, I have to find all single words that carry moral connotations in the article. I'll go through the text and look for words that express approval, disapproval, or ethical judgment. Words like "irritated," "admissible," "fiendish," "unilateralist," "ambitious," and "indignation" come to mind. These words are used to convey the author's judgment on the actions or decisions discussed.
+
+Next, for the summary, I need to condense the article into a concise version, ensuring that I include the morally framed words identified. The summary should be no longer than 200 words. I'll focus on the main points: the US's refusal to ratify the Kyoto Protocol, Japan's frustration, the environmental consequences, and the implications for global cooperation on climate change. I'll make sure to incorporate the moral terms to reflect the author's perspective.
+
+I should also consider the structure. The summary should start with the main issue, then touch on the impact on US-Japanese relations, the environmental groups' reactions, and the potential consequences of the US's decision. I'll need to keep it clear and within the word limit.
+
+I need to ensure that I'm preserving the moral framing. For example, using "irritated" to show Japan's frustration and "fiendish" to describe Bush's portrayal in the cartoon. These words highlight the disapproval of the US's stance.
+
+I also need to mention the alternatives proposed by the Bush administration and the concerns from environmental advocates, emphasizing the potential negative outcomes. This shows the moral conflict between the US's approach and the global community's expectations.
+
+Finally, I'll make sure the summary flows logically, starting from the problem, the reactions, the alternatives, and the potential consequences, all while embedding the morally charged words to maintain the author's tone.
+</think>
+
+**STEP 1:**  
+* Irritated  
+* Admissible  
+* Fiendish  
+* Unilateralist  
+* Ambitious  
+* Indignation  
+
+**SUMMARY:**  
+The article discusses the moral and political implications of the U.S. decision not to ratify the Kyoto Protocol, a move that has left Japan and other allies irritated. The protocol, seen as a global effort to combat climate change, was a source of pride for Japan, which hosted its creation. Environmental experts warn of dire consequences like coral reef death, polar bear endangerment, and disrupted bird migration due to global warming. Japan, a nation of nature-lovers, views the U.S. stance as "absolutely inadmissible," given its status as the largest greenhouse gas emitter. The Bush administration's alternative plan, which critics argue allows continued emissions increases, has fueled concerns of unilateralism and a potential two-tier system on climate action. While some Japanese industries support the U.S. approach, environmental groups fear a global pullout from Kyoto, highlighting the moral and diplomatic tensions between the U.S. and its allies. END OF SUMMARY.

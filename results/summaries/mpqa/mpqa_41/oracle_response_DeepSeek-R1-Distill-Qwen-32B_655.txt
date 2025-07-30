@@ -1,0 +1,35 @@
+<think>
+Alright, so the user has given me a query where they want me to act as a news summarizer and a moral expert. The task is to summarize a specific news article while preserving the moral framing provided by the author. The article is from the UN General Assembly's Third Committee discussing human rights in relation to development, peace, and security.
+
+First, I need to understand the key points of the article. It mentions several delegations emphasizing that without development, people can't fully enjoy human rights. They talk about the right to development as a precondition for human rights. Also, international peace and security are highlighted as crucial. Thailand's representative mentions that human rights and development are two sides of the same coin, so they should be addressed together. Eritrea and China's representatives discuss how globalization is marginalizing developing countries and hindering their ability to exercise rights. The US representative links protecting human rights to the fight against terrorism.
+
+Now, the user provided a list of morally framed words that the author used, and I need to preserve as many as possible in the summary. These words include enjoy, improving, enjoyment, freedoms, ensure, protection, promotion, peace, security, rights, addressed, protected, conflicts, terrorism, crime, threatening, marginalize, alienate, hampering, duties, narrowing, realization, protect, promote, attack, expediency, compromise, lapse, promoting, strengthening.
+
+I need to make sure that the summary includes these terms where appropriate. The summary should be concise, no more than 200 words, and start with "SUMMARY:" and end with "END OF SUMMARY."
+
+So, I'll start by identifying the main themes: human rights, development, peace, security, globalization's impact, and the connection to terrorism. I'll need to weave in the moral terms naturally.
+
+I should structure the summary to first mention the debate in the UN committee, then the key points about development and peace as preconditions for human rights. Then, address Thailand's point about human rights and development being interconnected. Next, touch on the negative impacts of globalization as mentioned by Eritrea and China. Finally, include the US's stance on human rights and terrorism.
+
+I need to ensure that each point uses the morally framed words. For example, using "enjoy," "improving," "protection," "promotion," "peace," "security," "rights," "addressed," "protected," "conflicts," "terrorism," "crime," "threatening," "marginalize," "alienate," "hampering," "duties," "narrowing," "realization," "protect," "promote," "attack," "expediency," "compromise," "lapse," "promoting," "strengthening."
+
+I'll need to be concise, so each sentence should cover multiple points without being too wordy. I'll also make sure the flow is logical, moving from the debate's focus to the various countries' perspectives.
+
+Let me draft the summary step by step:
+
+1. Start with the UN debate and the main focus on human rights, development, peace, and security.
+2. Mention that delegates emphasized the right to development and peace as preconditions.
+3. Include Thailand's point about human rights and development being two sides of the same coin.
+4. Discuss how globalization is marginalizing developing countries and hampering their rights.
+5. Note China's point about underdevelopment hindering human rights.
+6. Include the US's stance on human rights and terrorism, using terms like expediency and compromise.
+
+Now, I'll make sure each sentence incorporates the moral terms without making it sound forced. For example, "Delegates emphasized the right to development and the need for peace and security to ensure the full enjoyment of human rights." Here, I used "emphasized," "right," "development," "peace," "security," "ensure," "enjoyment," "human rights."
+
+I'll continue this process for each point, ensuring the summary is within 200 words and flows naturally. I'll also check that all key points are covered without missing any important aspects from the article.
+
+After drafting, I'll review to ensure all the morally framed words are appropriately included and that the summary accurately reflects the original article's content and moral framing.
+</think>
+
+SUMMARY:  
+At the UN General Assembly's Third Committee, delegates emphasized the importance of addressing human rights alongside development, peace, and security. They stressed that without development, people suffering from poverty, hunger, and poor health could not fully enjoy their human rights. The right to development and international peace were highlighted as crucial preconditions for protecting and promoting human rights. Thailand's representative noted that human rights and development are interconnected, requiring a people-centered approach to combat issues like disease, armed conflicts, terrorism, and crime. Eritrea and China warned that globalization risks marginalizing developing nations and hampering their ability to exercise rights, while the US stressed that protecting human rights is essential to winning the fight against terrorism. Delegates also discussed the need to narrow the development gap and promote universal human rights, with calls for vigilance and no compromise in safeguarding rights. The debate underscored the moral imperative to address these issues collectively. END OF SUMMARY.

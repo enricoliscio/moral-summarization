@@ -1,0 +1,14 @@
+Alright, so the user wants me to summarize a news article about Rockland County issuing subpoenas to people infected with COVID-19 who refused to speak with contact tracers. The user specified that the summary should be after a "SUMMARY:" token and end with "END OF SUMMARY." Also, it needs to be under 200 words. 
+
+First, I need to read the article carefully to extract the main points. The key elements are: Rockland County officials issuing subpoenas to eight individuals, the reason being their refusal to cooperate with contact tracers, the context of a June 17 party where the outbreak started, and the officials' frustration with non-cooperation. 
+
+I should also note the fines mentioned, $2,000 per day, and the purpose of the subpoenas—to get the individuals to talk about who they were in contact with to prevent further spread. Additionally, the health commissioner's points about people refusing calls, denying attendance, and parents lying about their children's whereabouts are important details.
+
+I need to structure the summary concisely, making sure it's within the word limit. I'll start by stating the issuance of subpoenas, the reason, the party context, the fines, and the officials' stance on cooperation. I'll also mention the challenges they're facing with non-compliance.
+
+I should avoid jargon and keep the language clear. Also, ensure that all critical information is included without going over the word count. Let me check the word count after drafting to make sure it's under 200 words.
+
+Finally, I'll format the summary correctly with the tokens as specified. Making sure the summary is accurate, concise, and meets all the user's requirements.
+</think>
+
+SUMMARY: Rockland County officials in New York have issued subpoenas to eight individuals infected with COVID-19 for refusing to cooperate with contact tracers. The individuals are allegedly linked to a June 17 party in Clarkstown, where the virus spread. County Executive Ed Day emphasized the importance of cooperation to protect public health, while Health Commissioner Patricia Rupert stated that failure to comply could result in daily fines of $2,000. Rupert noted that some individuals have been hanging up on contact tracers or denying their attendance at the party, despite evidence to the contrary. Contact tracing is crucial to identifying and isolating those exposed to the virus, but officials are struggling with non-cooperation, hindering efforts to control the outbreak. The county aims to prevent further spread by compelling these individuals to provide necessary information. END OF SUMMARY.

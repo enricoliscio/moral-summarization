@@ -1,0 +1,15 @@
+<think>
+Okay, so I'm trying to figure out how to approach this query. The user wants me to act as a news summarizer assistant and a moral expert. They provided a news article about Chris Christie announcing his candidacy and asked for a summary that preserves the moral framing the author used. 
+
+First, I need to understand what "morally framed words" mean. It refers to words that carry a moral judgment or connotation, like "scandals," "plummeting popularity," or "brash." The user wants these words included in the summary to maintain the original article's tone and perspective.
+
+Looking at the article, the key points are Christie announcing his run, his uphill battle due to low polls and fundraising issues, the shift in donor support towards Jeb Bush, and his personality-driven campaign style. I should make sure to include terms like "uphill climb," "scandals," "plummeting popularity," and "brash" to keep the moral framing intact.
+
+I also need to keep the summary concise, under 200 words. I'll start by mentioning the announcement, then touch on his challenges, and finally highlight his campaign strategy. I should structure it so that each sentence flows logically, ensuring all important points are covered without being too verbose.
+
+I should avoid adding any personal opinions or additional information not present in the original text. The focus is on summarizing while preserving the moral elements. Let me draft a few sentences and check the word count to ensure it's within the limit.
+
+After drafting, I'll review to make sure all morally framed words are included and that the summary accurately reflects the original article's tone and content. That should fulfill the user's request effectively.
+</think>
+
+SUMMARY: New Jersey Governor Chris Christie is set to announce his bid for the 2016 presidency, though he faces significant challenges. His once strong position as the GOP establishment favorite has eroded due to scandals and declining popularity in his home state. Many major donors who once supported him have shifted their backing to rivals like Jeb Bush. Despite this, Christie is banking on his brash, combative personality and his skill in connecting with voters during town hall meetings. His campaign strategy emphasizes his ability to engage audiences, leaving some enraged but others hopeful. END OF SUMMARY.

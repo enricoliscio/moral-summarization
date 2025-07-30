@@ -1,0 +1,18 @@
+Alright, so the user has provided a news article about the International Space Station's railcar having some issues during its test run. They want me to summarize this article. Let me read through the article carefully to understand the key points.
+
+First, the article mentions that astronauts tested the new railcar, which is the first permanent railroad in space. During the test, the railcar encountered some problems. The issue was due to weightlessness causing the car to float slightly off the track, which made the magnetic sensors lose contact. This happened during the initial run, and the problem occurred again in subsequent tests.
+
+I need to note the main details: the problem was with the railcar moving on the track, the cause being weightlessness, and the fact that the automatic latching system failed each time, requiring manual intervention from ground controllers. The railcar is a $190 million investment, and it's needed for moving the robot arm during future construction stages.
+
+The article also mentions that engineers might adjust the software if the issue persists, and there's a safety feature preventing the railcar from rolling off. The first use is scheduled for late summer.
+
+Now, I need to condense this into a concise summary of no more than 200 words. I should include the main events, the cause of the problem, the response from NASA, and the implications for future operations. I'll structure it to first state the test run, then the problem, followed by the response and future plans.
+
+I should avoid technical jargon and keep the language clear and straightforward. Also, I need to make sure the summary starts with "SUMMARY:" and ends with "END OF SUMMARY." without any markdown formatting.
+
+Let me draft the summary, ensuring all key points are covered within the word limit. I'll check the word count to make sure it's under 200 words.
+</think>
+
+SUMMARY:  
+Astronauts tested the International Space Station's new railcar, the first permanent railroad in space, but encountered issues due to weightlessness. The one-ton car floated slightly off the track, causing magnetic sensors to lose contact with the aluminum rails. Despite this, the railcar successfully moved to two workstations, but the automatic latching system failed each time, requiring manual intervention by ground controllers. NASA engineers suspect the problem may be addressed by adjusting computer software. The railcar, worth $190 million, is essential for transporting the space station's 58-foot robot arm during future construction. Safety features prevent it from rolling off the track. The first operational use is planned for late summer.  
+END OF SUMMARY.

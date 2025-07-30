@@ -1,0 +1,34 @@
+Okay, so I need to help the user with their query. They provided a news article and specific instructions on how to process it. Let me break down what they're asking for.
+
+First, the user wants me to act as a news summarizer and a moral expert. My task is to summarize the article while preserving the moral framing the author used. The article is about Vicente Fox criticizing Donald Trump's visit to Mexico.
+
+The user has given two main steps. Step 1 is to identify all the single words that are morally framed. I need to go through the article and pick out words that carry a moral connotation. These words are usually adjectives or verbs that express approval or disapproval. For example, "demonized," "rejected," "criticized," etc.
+
+Next, in Step 2, I have to write a concise summary of the article, making sure to include as many of those morally framed words as possible. The summary should be under 200 words and end with specific tokens.
+
+I should start by reading the article carefully. Vicente Fox is opposing Trump's visit, calling it a mistake and saying Trump isn't welcome. He criticizes Trump's wall plan and the changing deportation policies. Fox also accuses Trump of being untrustworthy and a false prophet. Trump responds by mentioning Fox's previous invitation, leading to a Twitter exchange where Fox tells Trump to stop lying and show respect.
+
+Now, for Step 1, I need to extract the morally charged words. I'll go through each sentence and note words that convey judgment or evaluation. Words like "demonized," "rejected," "criticized," "unwelcome," "disregard," "false," "misleading," "desperate," "stop lying," "show some respect." Each of these carries a moral judgment.
+
+For the summary, I need to weave these words into a coherent summary without exceeding 200 words. I'll structure it to include Fox's opposition, his reasons, Trump's response, and their exchange. I'll make sure to include the key morally framed words to preserve the original tone.
+
+I also need to ensure that the summary starts with "SUMMARY:" and ends with "END OF SUMMARY." I'll keep each part clear and concise, making sure it flows well and accurately represents the article's content and moral framing.
+
+Alright, I think I have a good plan. I'll first list the morally framed words, then craft a summary that incorporates them, keeping it within the word limit. Let me put it all together.
+</think>
+
+**STEP 1:**  
+* demonized  
+* unwelcome  
+* rejected  
+* trust  
+* disregard  
+* false  
+* misleading  
+* desperate  
+* stop lying  
+* show some respect  
+
+**SUMMARY:**  
+Vicente Fox, Mexico's former president, has strongly criticized Donald Trump's upcoming visit to Mexico, calling it a mistake and stating that Trump is "not welcome" in the country. Fox accused Trump of demonizing Mexicans and criticized his plans to build a border wall and deport undocumented immigrants. He labeled Trump a "false prophet" and expressed distrust in Trump's changing policies. Fox also dismissed Trump's claim that Mexico would pay for the wall, calling it impossible. Trump, in response, referenced Fox's prior invitation for him to visit Mexico, leading to a heated exchange on Twitter. Fox urged Americans not to vote for Trump, questioning his ability to lead and demanding respect for Mexico. The encounter highlights the ongoing tensions between Trump and Mexico, with Fox emphasizing moral and political concerns.  
+**END OF SUMMARY.**

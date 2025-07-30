@@ -1,0 +1,18 @@
+Okay, so the user has given me a task to summarize a news article about the U.S. House impeachment hearing against Donald Trump. They want the summary to be concise, under 200 words, and to follow a specific format with "SUMMARY:" at the start and "END OF SUMMARY." at the end. 
+
+First, I need to understand the key points of the article. The article talks about the first public hearing in Trump's impeachment investigation, led by Rep. Adam Schiff. The main issue is whether Trump used his office to pressure Ukraine for political gain, specifically related to the phone call with Zelenskiy and the withheld military aid. There's mention of whistleblowers, the release of a redacted transcript, and the division among Americans on the issue. It also compares this to past impeachments and the political dynamics involved.
+
+I should structure the summary to include the main elements: the hearing's purpose, the accusation, key figures involved (Schiff, Trump, Zelenskiy, whistleblowers, Pelosi), the context of the phone call and military aid, the political divide, and the comparison to historical impeachments. I need to keep it under 200 words, so I'll have to be concise but comprehensive.
+
+I should avoid getting too bogged down in the details, like the specific roles of Taylor and Kent, unless they're crucial. The summary should flow logically, starting with the hearing, the accusation, the context, the political reactions, and the implications.
+
+Also, the user wants the summary after a "SUMMARY:" token and ending with "END OF SUMMARY." I need to make sure the formatting is correct. No markdown, just plain text.
+
+I should also check for any jargon or terms that might need clarification, but since it's a summary, I can assume the reader is somewhat informed about the impeachment process.
+
+Now, putting it all together: start with the hearing, mention Schiff's statement, the accusation of using office for personal gain, the context of the phone call and military aid, the whistleblower and transcript, Pelosi's initial reluctance, the witnesses, Trump's reaction, and the comparison to past impeachments. Conclude with the significance of the hearing in the constitutional process.
+
+I need to ensure the summary is clear, concise, and captures all the essential points without being too lengthy. Let me draft it step by step, making sure each sentence adds value and stays within the word limit.
+</think>
+
+SUMMARY: The U.S. House held its first public hearing in Donald Trump's impeachment investigation, focusing on whether Trump used his office to pressure Ukraine for personal political gain. Rep. Adam Schiff emphasized the gravity of the inquiry, which centers on Trump's July 25 phone call with Ukraine's president, Volodymyr Zelenskiy, where Trump reportedly sought investigations into Democrats, including Joe Biden, while withholding military aid. A whistleblower raised concerns about the call, leading to the release of a redacted transcript. The hearing featured testimony from diplomats William Taylor and George Kent, who detailed Trump's alleged misuse of foreign policy for political purposes ahead of the 2020 election. The inquiry has divided Americans, with Trump dismissing it as a "witch hunt." The process marks a significant moment in the constitutional balance of power, with comparisons to past impeachments but no clear consensus on whether Trump's actions meet the "high crimes and misdemeanors" threshold. END OF SUMMARY.

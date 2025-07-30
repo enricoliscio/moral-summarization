@@ -1,0 +1,14 @@
+Alright, I need to help the user by summarizing the given news article. The user is a news summarizer assistant, so I should focus on creating a concise and accurate summary.
+
+First, I'll read through the article to understand the main points. The article talks about Illinois Governor J.B. Pritzker removing restrictions on religious services due to lawsuits from the Thomas More Society. The society is a nonprofit law firm that filed multiple lawsuits against the governor's mandates. Initially, the governor had limited church gatherings to 10 people, but now it's changed to recommendations instead of mandates.
+
+I should note that the governor's move was a response to these lawsuits, and the health department now only recommends remote services, especially for vulnerable groups. The society's vice president, Peter Breen, called this a victory for religious freedom. They filed three lawsuits, which led to the governor lifting various restrictions, including drive-in and outdoor services.
+
+The summary needs to be under 200 words, so I'll need to be concise. I'll include the key points: the governor's action, the reason behind it (the lawsuits), the shift from mandates to recommendations, the health department's stance, the society's victory statement, and the impact of the lawsuits on other restrictions.
+
+I should also mention that the governor's administration is accused of abusing the pandemic to infringe on religious liberty, and the health department's statement that religious activities are essential. Finally, the summary should end with the conclusion that this ends a discriminatory chapter against churches.
+
+I need to structure this in a clear, logical flow, making sure each important point is covered without exceeding the word limit. Let me start drafting the summary, ensuring it's within 200 words and properly formatted with the required tokens.
+</think>
+
+SUMMARY: Illinois Governor J.B. Pritzker has lifted restrictions on religious services following lawsuits from the Thomas More Society, a nonprofit law firm. Previously, churches were limited to 10 or fewer attendees, but these mandates have been replaced with non-binding health recommendations. Health officials advise continuing remote services, especially for vulnerable groups, but do not obligate in-person gatherings. The Thomas More Society called this a "total victory" for religious freedom, accusing the governor of abusing the pandemic to infringe on religious liberties. The society filed three lawsuits against Pritzker, leading to the removal of restrictions on drive-in and outdoor services. The governor's administration acknowledged that religious activities are essential and aimed to balance worship options with safety. The society emphasized that churches should not have had to sue to secure their rights, marking an end to government discrimination against religious groups. END OF SUMMARY.

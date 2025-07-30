@@ -1,0 +1,40 @@
+Okay, so I'm trying to help the user with their query. They provided a news article and some specific instructions. Let me break this down step by step.
+
+First, the user wants me to act as a news summarizer assistant and a moral expert. My task is to summarize the given article while preserving the moral framing. They also provided a sample response, so I can use that as a reference.
+
+The article is about Republican senators pressuring their chairman, Michael Steele, over his comments on Afghanistan. The key points are Steele's remarks being criticized, calls for his resignation, and his attempt to apologize.
+
+The user's instructions have two parts. The first is to identify all the single words that are morally framed. I need to go through the article and pick out words that carry moral connotations. Words like "pressure," "backlash," "resignation," "apologize," "unacceptable," "inaccurate," "wildly inaccurate," "appropriate," "support," "confusion," "furor," "quell," "charge," "convince," "clear," "controversy," "better." These words are all used in a moral context, so I'll list them each with a *.
+
+The second part is to write a summary that includes as many of these moral words as possible. The summary needs to be concise, under 200 words, and end with the specified tokens. I should make sure the summary captures the essence of the article, highlighting the criticism, the calls for Steele's resignation, his apology attempt, and the ongoing controversy.
+
+I also need to ensure that the summary flows naturally and maintains the moral framing. For example, using "pressure," "backlash," and "resignation" shows the intensity of the criticism. Including "apologize," "unacceptable," and "inaccurate" highlights the nature of the criticism. Mentioning the attempts to "quell the furor" and the ongoing "controversy" shows the unresolved situation.
+
+I should also check that the summary doesn't exceed 200 words. The sample provided is a good model, so I'll aim for something similar in structure and length.
+
+Finally, I need to present the summary after the "SUMMARY:" token and end with "END OF SUMMARY." token, making sure it's clear and concise.
+
+So, putting it all together, I'll list the morally framed words first and then craft a summary that incorporates them effectively, preserving the moral tone of the original article.
+</think>
+
+**STEP 1:**  
+* Pressure  
+* Backlash  
+* Resignation  
+* Apologize  
+* Unacceptable  
+* Inaccurate  
+* Wildly inaccurate  
+* Appropriate  
+* Support  
+* Confusion  
+* Furor  
+* Quell  
+* Charge  
+* Convince  
+* Clear  
+* Controversy  
+* Better  
+
+**SUMMARY:**  
+Republican senators pressured RNC Chairman Michael Steele to apologize for his controversial remarks calling Afghanistan a "war of Obama's choosing" and questioning its winnability. Prominent conservatives, including Sen. Jim DeMint, demanded Steele apologize to troops, emphasizing that the war is "America's war," not Obama's. DeMint criticized Steele's comments as "unacceptable" and "inaccurate," urging him to refocus on the election. Sen. John McCain also labeled Steele's remarks "wildly inaccurate," suggesting he assess his ability to continue in his role. Steele issued a statement apologizing and reaffirming support for troops, but the controversy persisted. Conservatives like Bill Kristol continued to call for his resignation, arguing it would be "better" for the party. END OF SUMMARY.

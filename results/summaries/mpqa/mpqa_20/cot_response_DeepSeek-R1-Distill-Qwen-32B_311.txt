@@ -1,0 +1,41 @@
+Alright, so the user has given me a query where they want me to act as a news summarizer assistant and a moral expert. They provided a news article about Zimbabwe's election and the reactions from South Africa and Nigeria. My task is to first identify all the morally framed single words in the article and then summarize it while preserving those moral framings.
+
+First, I need to understand what "morally framed words" are. These are words that carry a moral judgment, either positive or negative. So, I'll go through the article and pick out words that indicate approval or disapproval. Words like "courageous," "punish," "flawed," "renew," "promise," "aid," "trade," "investment," "governance," "democracy," "jeopardy," "suspend," "isolation," "solidarity," "initiated," "model," "poverty-reducing," "hope," "repression," "desperation," "condoned," "quiet diplomacy," "heard," "stature," "renewal," "greater democracy."
+
+Next, I need to summarize the article. The key points are that South Africa and Nigeria punished Zimbabwe for a flawed election, which helped maintain a grand bargain for aid with better governance. The leaders' actions showed solidarity with the West, and Mugabe's actions are condemned. The summary should include these moral words to reflect the author's framing.
+
+I need to make sure the summary is concise, under 200 words, and includes as many of those moral words as possible. I'll structure it to highlight the actions of South Africa and Nigeria, the impact on the grand bargain, Mugabe's response, and the implications for democracy in Africa.
+
+Let me check if I've covered all the main points: the punishment of Zimbabwe, the grand bargain, the leaders' solidarity, Mugabe's repression, the opposition's stance, and the hope for renewal. I think that's all covered. Now, I'll draft the summary, ensuring it flows well and includes the moral words identified.
+</think>
+
+**STEP 1:**  
+* Courageous  
+* Punish  
+* Flawed  
+* Renew  
+* Promise  
+* Aid  
+* Trade  
+* Investment  
+* Governance  
+* Democracy  
+* Jeopardy  
+* Suspend  
+* Isolation  
+* Solidarity  
+* Initiated  
+* Model  
+* Poverty-reducing  
+* Hope  
+* Repression  
+* Desperation  
+* Condoned  
+* Quiet diplomacy  
+* Heard  
+* Stature  
+* Renewal  
+* Greater democracy  
+
+**SUMMARY:**  
+South Africa and Nigeria courageously punished Zimbabwe for its flawed election, helping to renew a grand bargain where aid, trade, and investment from industrialized nations depend on better governance and democracy in Africa. By suspending Zimbabwe from the Commonwealth, Presidents Mbeki and Obasanjo showed solidarity with the West and upheld the New Partnership for Africa's Development, a model for poverty reduction. Without fair elections and the rule of law, aid alone cannot help Africa. Mbeki hopes to work with Mugabe to prevent violence and find political compromise, while pressing him to stop repression and land seizures without compensation. Mugabe's isolation, including criticism from African peers, has led him to lash out, charging opposition leader Tsvangirai with attempting to kill him. African leaders must not condone Mugabe's desperation. Mbeki's stand brings hope for economic renewal and greater democracy in Africa. END OF SUMMARY.

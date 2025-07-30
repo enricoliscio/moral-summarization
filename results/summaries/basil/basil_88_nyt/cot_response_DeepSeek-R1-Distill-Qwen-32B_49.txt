@@ -1,0 +1,28 @@
+Okay, so the user has given me a query where I need to act as a news summarizer and a moral expert. The task is to summarize a news article while preserving the moral framing. They've provided a detailed article about President Trump's plan to end birthright citizenship through an executive order. 
+
+First, I need to understand the structure of the query. It's divided into two main parts: Step 1, where I identify all the single words that are morally framed, and then a summary that includes as many of these words as possible. The summary should be concise, under 200 words.
+
+Looking at the article, I notice several emotionally charged terms. Words like "ridiculous," "absurdity," "ethnic cleansing," "offensive," "unconstitutional," "polarization," "second-class citizens," "anti-immigrant," and "diversity" stand out. These words carry strong moral connotations and are crucial for maintaining the article's framing.
+
+Next, I need to write the summary. It should capture the essence of Trump's proposal, the legal and political opposition, and the moral implications. I'll start by stating Trump's plan, mention the opposition from within his party and legal experts, highlight the 14th Amendment, and include the moral critiques like "ethnic cleansing" and "second-class citizens." I should also note the potential consequences and the support from immigration advocates.
+
+I need to ensure the summary is concise, so I'll focus on the key points: Trump's executive order idea, the legal challenges, the political risks, and the moral arguments against it. I'll make sure to include the morally framed words to preserve the author's perspective.
+
+I should also check that the summary doesn't exceed 200 words and that it flows naturally, connecting all the main elements without getting bogged down in details. It's important to balance the factual aspects with the moral critique to give a comprehensive overview.
+
+Finally, I'll review the summary to ensure it accurately reflects the article's content and maintains the moral framing as required. This way, the user gets a clear, concise, and morally charged summary of the news article.
+</think>
+
+**STEP 1:**  
+* ridiculous  
+* absurdity  
+* ethnic cleansing  
+* offensive  
+* unconstitutional  
+* polarization  
+* second-class citizens  
+* anti-immigrant  
+* diversity  
+
+**SUMMARY:**  
+President Trump proposed an executive order to end birthright citizenship, claiming the U.S. is the only country where children born to undocumented immigrants automatically gain citizenship. This claim is false, as at least 30 other countries, including Canada and Mexico, grant birthright citizenship. Trump's plan faced immediate opposition, with House Speaker Paul Ryan stating that altering the 14th Amendment via executive order is impossible. The 14th Amendment explicitly grants citizenship to anyone born in the U.S., and constitutional changes require congressional or state action. Trump's allies argue the amendment may not apply to undocumented immigrants, but legal experts widely agree that birthright citizenship cannot be revoked by executive order. Critics, including civil rights groups, condemned the idea as "ethnic cleansing" and unconstitutional, warning it would create second-class citizens and deepen polarization. Some Republicans also rejected the proposal, highlighting its political risks. Trump's move comes amid midterm elections, as he seeks to energize his anti-immigrant base with attention-grabbing policies. END OF SUMMARY.

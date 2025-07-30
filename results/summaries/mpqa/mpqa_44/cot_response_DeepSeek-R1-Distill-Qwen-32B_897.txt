@@ -1,0 +1,27 @@
+Okay, so the user has given me a query where I need to summarize a news article while preserving the moral framing. They also want me to identify the morally framed words first. Let me break this down.
+
+First, I need to understand what morally framed words are. These are words that carry a positive or negative connotation related to ethics or values. For example, "criticism," "abuse," "independent," "democratic," etc. These words are used to convey judgment or evaluation.
+
+Looking at the article, I'll go through each sentence to spot these words. The article talks about the US human rights report and the Lebanese officials' reactions. So, words like "criticism," "abusing," "undemocratic," "uncivilized," "political pressure," "monitoring," "tapping," "harms," "praised," "criticism," and "practices" stand out. Each of these carries a moral judgment, either positive or negative.
+
+Next, I need to summarize the article. The summary should include these morally framed words to maintain the author's perspective. I'll start by noting that Lebanese officials are dissatisfied with the US report. Then, I'll mention the annual nature of the criticism and the specific points they disagree with, like the judiciary and intelligence monitoring. I'll also include the positive note about the press. Finally, I'll wrap it up by stating their intention to respond, emphasizing their commitment to human rights.
+
+I should keep the summary concise, under 200 words, and make sure it flows naturally while including all the key moral points. I'll structure it to first present the dissatisfaction, then the specific criticisms, the positive aspect, and the response plan. That should cover all necessary points while preserving the moral framing.
+</think>
+
+**STEP 1:**  
+* Criticism  
+* Discredit  
+* Undemocratic  
+* Uncivilized  
+* Abusing  
+* Independent  
+* Monitoring  
+* Tapping  
+* Harms  
+* Praises  
+* Criticism  
+
+**SUMMARY:**  
+Lebanese officials expressed dissatisfaction with the US State Department's human rights report, which they viewed as an annual criticism targeting Lebanon and other countries. The report criticized Lebanon's weakening central government, judicial independence under political pressure, and intelligence monitoring of opposition politicians, which officials argued harms Lebanon's democratic image. While the report praised Lebanon's press for criticizing the government, officials conveyed their concerns to the US ambassador, emphasizing factors beyond their control. They plan to respond to the report, highlighting their commitment to human rights and democracy.  
+**END OF SUMMARY.**

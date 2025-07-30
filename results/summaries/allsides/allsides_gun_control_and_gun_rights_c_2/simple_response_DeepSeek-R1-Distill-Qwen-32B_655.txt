@@ -1,0 +1,16 @@
+Okay, so the user has given me a query where I need to act as a news summarizer assistant and a moral expert. They provided a news article about a church shooting in Texas and want a summary that preserves the moral framing the author used. The summary should be under 200 words and follow specific formatting instructions.
+
+First, I need to understand the key points of the article. A man with a shotgun opened fire in a church, killing two and possibly more. Two volunteer security members confronted him, leading to his death and preventing more casualties. The author emphasizes the heroic actions of the security team, highlighting their quick response and the lives saved. There's also mention of Texas's gun laws and how they allowed the security team to act. The article also touches on the impact of the attack, the community's response, and another attack elsewhere.
+
+Now, I need to ensure that the summary captures the moral aspects. The author portrays the security team as heroes, which is a positive moral framing. The emphasis on their actions stopping a potential mass tragedy is crucial. Also, the mention of Texas's gun laws as enabling this heroism adds a moral stance on gun rights.
+
+I should structure the summary to start with the event, then the heroic intervention, the consequences, and the broader implications like the laws and community reaction. I need to keep it concise, under 200 words, and make sure it flows logically.
+
+I'll begin by stating the incident, then the heroic actions, the outcome, and the aftermath. I'll also include the governor's statement to highlight the moral approval. Finally, I'll mention the other attack to provide context without going into too much detail.
+
+I should avoid any markdown and stick to plain text. The summary needs to end with the specified tokens. Let me draft this, making sure each sentence adds value and stays within the word limit.
+
+After drafting, I'll review to ensure it's under 200 words and that all key moral points are included. I'll check for clarity and conciseness, making sure the summary flows well and accurately reflects the original article's moral framing.
+</think>
+
+SUMMARY: A man opened fire with a shotgun inside a North Texas church, killing two people. Two volunteer security team members heroically confronted the gunman, fatally shooting him and preventing further loss of life. Authorities described their actions as "heroic," saving countless lives. The attack occurred during a livestreamed service, with over 240 parishioners present. All victims were male, and the gunman, described as transient, remains unnamed. Texas Lt. Gov. Dan Patrick praised the state’s gun laws, which allowed the security team to act quickly. The incident follows a knife attack during a Hanukkah celebration in New York, labeled as "domestic terrorism." Texas Gov. Greg Abbott condemned the violence and thanked the church members for their swift action. The tragedy highlights the ongoing issue of church security in Texas, following a mass shooting in Sutherland Springs two years ago. END OF SUMMARY.

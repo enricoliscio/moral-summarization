@@ -1,0 +1,16 @@
+Alright, so the user has given me a query where they want to summarize a news article, preserving the moral framing. They specified that I should act as a news summarizer and a moral expert. The article is about Jordan considering signing the Kyoto Protocol despite the US not doing so, and the context of their FTA with the US.
+
+First, I need to understand the key points of the article. It mentions Jordan's commitment to environmental protection through the FTA, the intention to sign Kyoto, and the minister's stance that it's compatible with their development goals. Also, the US's decision to reject Kyoto under Bush is noted, along with the potential positive impact on Jordan's environment.
+
+Now, the user wants a summary that's no longer than 200 words, starting with "SUMMARY:" and ending with "END OF SUMMARY." They emphasized preserving the moral framing, which I think means highlighting Jordan's commitment to sustainability and their stance against the US's decision.
+
+I should focus on the main elements: Jordan's consideration of Kyoto despite the US, the environmental clauses in the FTA, the minister's belief in sustainable development, the potential positive impact, and the US's rejection. I need to ensure the summary flows logically, connecting Jordan's actions with their moral stance on environmental protection.
+
+I also need to keep it concise, making sure each sentence adds value without unnecessary details. I should avoid technical jargon to keep it accessible. Let me structure it: start with Jordan's consideration, mention the FTA clauses, the minister's belief, the intention to sign Kyoto, the impact, the US's stance, and the reasoning behind Jordan's decision.
+
+I should also make sure to include that the US and Jordan have different national issues, which explains why Jordan is moving forward despite the US's rejection. This shows Jordan's independent commitment to environmental goals.
+
+Finally, I'll check the word count to ensure it's under 200 words and that all key points are covered without being too verbose. Making sure the moral aspect is clear, emphasizing Jordan's proactive stance in environmental protection despite external pressures.
+</think>
+
+SUMMARY: Jordan is considering signing the Kyoto Protocol on global warming despite the US rejecting it, as part of its commitment to environmental protection under its Free Trade Agreement (FTA) with the US. Minister Abdul Razzaq Tbeishat emphasized that Jordan believes development cannot be achieved without protecting the environment. The government plans to sign the Kyoto Protocol, which aims to reduce greenhouse gas emissions, during a workshop organized by the Ministry and the UNDP. While the US faces economic and energy challenges, Jordan, as a developing country, prioritizes clean industry and sustainable development. The Kyoto Protocol, signed by 160 countries, requires industrialized nations to reduce emissions by 5.2% from 1990 levels between 2008 and 2012. Tbeishat stated that signing the protocol would positively impact Jordan's environmental framework, aligning with its national goals. END OF SUMMARY.

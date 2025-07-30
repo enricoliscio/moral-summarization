@@ -1,0 +1,42 @@
+<think>
+Okay, I need to help the user by summarizing the news article while preserving the moral framing. Let me start by understanding the user's query. They want me to act as a news summarizer assistant and a moral expert. The task has two steps: first, identify all the single words that are morally framed, and second, write a concise summary using as many of those words as possible.
+
+Looking at the article, it's about Julie Berman, a trans rights activist who was murdered. The article discusses her activism, the context of violence against the trans community, and the reactions from her friends and organizations. 
+
+For the first step, I need to identify morally framed words. These are words that carry a strong moral connotation, like "murdered," "assaulted," "vulnerable," etc. I'll go through the article and pick out each such word, listing them with asterisks.
+
+Next, the summary needs to be under 200 words and include as many of these moral words as possible. I should focus on the key points: Julie's activism, her murder, the statistics on violence, the community's response, and the ongoing issues faced by the trans community. I need to ensure the summary flows well and highlights the moral issues without being too lengthy.
+
+I should also make sure that the summary accurately reflects the original article's tone and the moral perspective presented. It's important to include details about the study on violence against trans people, the community's efforts to support each other, and the fact that the suspect isn't part of the LGBTQ community. This adds context to the moral framing.
+
+I need to avoid any markdown and keep the thinking process natural, using conversational English without any technical jargon. I'll make sure each step is clear and that the summary effectively captures the moral implications of the events described.
+</think>
+
+**STEP 1:**  
+* Murdered  
+* Heartbreaking  
+* Transphobia  
+* Assailed  
+* Activist  
+* Advocates  
+* Inclusion  
+* Services  
+* Community  
+* Struggling  
+* Survive  
+* Violence  
+* Targets  
+* Physically  
+* Sexually  
+* Assaulted  
+* Verbally  
+* Threatened  
+* Harassed  
+* Vulnerable  
+* Alarmingly  
+* Welcoming  
+* Strong  
+* Awareness  
+
+**SUMMARY:**  
+Julie Berman, a Toronto trans rights activist, was murdered on Dec. 22, 2019, after speaking out about transphobia and violence against the trans community. At a 2017 vigil, she highlighted the struggles of her friend, who was also murdered. Her death, caused by head injuries, is a heartbreaking reminder of the ongoing violence faced by trans individuals. Colin Harnack, a non-LGBTQ community member, was charged with her murder. Berman, a long-time community advocate, had dedicated her life to raising awareness and supporting her community. A 2015 study revealed that 20% of Ontario’s trans people face physical or sexual assault, while 34% experience verbal harassment. Olivia Nuamah, of Pride Toronto, emphasized that violence is a tragic reality for many trans individuals. Despite efforts to support the community through events and programs, the trans community remains vulnerable. Berman’s murder is a stark reminder of the need for vigilance and awareness. END OF SUMMARY.

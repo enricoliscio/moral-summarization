@@ -1,0 +1,15 @@
+<think>
+Okay, so I need to help the user by summarizing this news article while preserving the moral framing. The user provided the article and a list of morally framed words. My task is to create a concise summary using as many of those words as possible without exceeding 200 words. 
+
+First, I'll read the article to understand the key points. Arkansas Governor Hutchinson signed a revised Religious Freedom Reformation Act after rejecting an earlier version due to discrimination concerns. The state legislature amended the bill to align with the federal RFRA, removing provisions that allowed discrimination against LGBT individuals. In Indiana, they also amended their RFRA to explicitly prohibit discrimination based on sexual orientation or gender identity, following national backlash. Hutchinson mentioned his son's influence and pressure from Walmart in his decision.
+
+Now, I need to include the morally framed words: discrimination, amending, allowed, discriminate, bill, veto, legislation, undermine. I'll structure the summary to cover both Arkansas and Indiana's actions, emphasizing the amendments and the reasons behind them, like discrimination concerns and pressure from businesses and the public.
+
+I should start by mentioning Hutchinson's action, then the amendments, the reasons, and the broader context with Indiana. I'll make sure each morally framed word is appropriately placed to maintain the ethical context.
+
+Let me draft it: Arkansas Governor signed the revised bill after rejecting the initial one due to discrimination fears. The legislature amended it to mirror federal RFRA, removing discrimination allowances. Indiana also amended their law to prevent discrimination. Hutchinson cited family influence and pressure from Walmart, which worried about undermining inclusion. The summary should highlight the amendments and the moral implications, using the specified words effectively.
+
+I need to ensure it's under 200 words and flows naturally. Let me check the word count and make sure all key points are included without being too verbose. Also, I should end with the required tokens.
+</think>
+
+SUMMARY: Arkansas Gov. Asa Hutchinson signed a revised version of the Religious Freedom Reformation Act after rejecting an earlier bill due to concerns about discrimination against LGBT individuals. The state legislature amended the bill at his request, removing provisions that would have allowed businesses to discriminate. The revised legislation mirrors the federal RFRA. Meanwhile, Indiana legislators amended their controversial RFRA to explicitly prohibit discrimination based on sexual orientation or gender identity, following national backlash. Hutchinson cited pressure from his son, who urged him to veto the initial bill, highlighting generational differences on the issue. Additionally, Walmart CEO Doug McMillon pressured Hutchinson to reject the bill, warning it could undermine inclusion. The amended legislation reflects efforts to address discrimination concerns while maintaining religious freedom protections. END OF SUMMARY.

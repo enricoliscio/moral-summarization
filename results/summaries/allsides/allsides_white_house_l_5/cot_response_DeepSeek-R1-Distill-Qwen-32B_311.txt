@@ -1,0 +1,40 @@
+Okay, so I need to help the user by summarizing a news article while preserving the moral framing. The user provided a detailed article about the Benghazi attack and the subsequent investigation. They want me to first identify all the single words that are morally framed and then write a concise summary using those words.
+
+First, I'll read through the article to understand the context. It's about the House Speaker, John Boehner, calling for the release of emails related to the Benghazi attack. The article mentions the White House altering talking points to avoid embarrassment and the State Department's handling of the situation.
+
+Now, I need to identify the morally framed words. These are words that carry a judgment or imply right/wrong. Words like "claimed," "ignored," "deliberately," "embarrassing," "cover-up," "altered," "dishonest," "deceiving," "culpability," "discipline," "handled," "satisfactorily," "transparency," "accountability," "trust," "credibility," "failure," "negligence," "justified," "handled," "appropriately," "handled," and "culpability" stand out as they imply judgment or moral implications.
+
+Next, I'll write the summary. I need to make sure it's under 200 words and includes as many of these morally framed words as possible. The summary should cover Boehner's call for emails, the report's findings about altering talking points, the State Department's refusal to share emails, Kerry's commitment to answers, and the ongoing debate about transparency and accountability.
+
+I'll structure the summary to highlight the key points: Boehner's demand, the report's claims, the State Department's actions, and Kerry's response. I'll use the identified words to maintain the moral tone, ensuring the summary reflects the original article's framing.
+
+Finally, I'll make sure the summary flows well and stays within the word limit, capturing all essential elements without unnecessary details.
+</think>
+
+**STEP 1:**  
+* Claimed  
+* Ignoring  
+* Deliberately  
+* Embarrassing  
+* Cover-up  
+* Altered  
+* Dishonest  
+* Deceiving  
+* Culpability  
+* Discipline  
+* Handled  
+* Satisfactorily  
+* Transparency  
+* Accountability  
+* Trust  
+* Credibility  
+* Failure  
+* Negligence  
+* Justified  
+* Handled  
+* Appropriately  
+* Handled  
+* Culpability  
+
+**SUMMARY:**  
+House Speaker John Boehner has demanded the release of emails related to the Benghazi attack, claiming the White House deliberately altered talking points to avoid embarrassment. The House GOP report accused the administration of removing references to extremist groups linked to al Qaeda, suggesting a cover-up. Boehner highlighted an email from a State Department official calling the attack "Islamic terrorists," which was not shared with committees. Secretary of State John Kerry vowed to "leave no stone unturned" in the investigation, emphasizing accountability and discipline if warranted. The administration acknowledged altering talking points to preserve classified information, but the report found no evidence of red flags raised. The ongoing debate over transparency and credibility continues, with questions about whether the State Department misled the public. END OF SUMMARY.

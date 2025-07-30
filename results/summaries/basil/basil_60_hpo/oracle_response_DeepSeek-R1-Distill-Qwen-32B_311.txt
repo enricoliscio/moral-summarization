@@ -1,0 +1,16 @@
+Alright, so I need to help the user by summarizing a news article while preserving the moral framing. The user provided the article and a list of morally framed words. Let me start by reading the article carefully.
+
+The article is about former Mexican President Vicente Fox rejecting Donald Trump's proposal for Mexico to pay for a border wall. Fox uses strong language, saying he won't pay for the "fucking wall." He also dismisses Trump's chances of winning, calling him a "false prophet." Another former president, Felipe Calderon, also opposes the wall, calling it "useless."
+
+I need to include the morally framed words: calling, coerce, wall, useless, closing. I should make sure these words are present in the summary. The summary should be concise, under 200 words, and end with the specified tokens.
+
+I'll start by mentioning Fox's refusal to pay for the wall, using the term "coerce." Then, include his strong language about not paying. Mention Trump's estimate of $8 billion. Highlight Fox's dismissal of Trump winning, calling him a "false prophet." Add Calderon's comments about the wall being useless and closing borders leading to prosperity being a crazy idea.
+
+I need to keep the tone consistent with the original article, which is critical of Trump. I should avoid adding any new information beyond what's in the article. Make sure the summary flows well and includes all key points without being too lengthy.
+
+Let me draft the summary, ensuring all the moral terms are included and the word count is within limits. I'll check the word count to make sure it's under 200. Also, I'll make sure to use the "SUMMARY:" and "END OF SUMMARY." tokens correctly.
+
+After drafting, I'll review to ensure it captures Fox's and Calderon's opposition, the moral framing words, and stays within the word limit. That should meet the user's requirements.
+</think>
+
+SUMMARY: Former Mexican President Vicente Fox has dismissed Donald Trump's proposal for Mexico to pay for a border wall, stating, "I’m not going to pay for that fucking wall." Fox emphasized that Trump, who has made controversial comments about Latinos, should fund his own "big idea." Trump has claimed he will coerce Mexico into paying for the wall, estimated at $8 billion, to keep undocumented migrants out of the U.S. However, Fox expressed confidence that Trump would not win the presidency, calling him a "false prophet." Another former Mexican president, Felipe Calderon, also rejected the idea, calling the wall "useless" and dismissing Trump's border-closing rhetoric as "completely crazy." Both leaders criticized Trump's approach, highlighting its impracticality and moral implications. END OF SUMMARY.

@@ -1,0 +1,28 @@
+Okay, so I need to help the user with their query. They provided a news article and some specific instructions. Let me break this down.
+
+First, the user wants me to act as a news summarizer and a moral expert. My task is to summarize the article while preserving the moral framing. They also want me to identify all the morally framed words in the article.
+
+Looking at the instructions, there are two main steps. Step 1 is to identify single words that are morally framed. I need to go through the article and pick out words that carry moral connotations. Words like "controversy," "alarm," "war," "denounced," "offensive," "outrage," "sniveling coward," "isolating," and "off limits" stand out as they have clear moral implications.
+
+Next, I need to write a summary that includes as many of these morally framed words as possible. The summary should be concise, no longer than 200 words. I'll have to make sure it captures the essence of the article, focusing on Trump's actions, the reactions, and the moral implications involved.
+
+I should also structure the response with "STEP 1:" followed by each word on a new line starting with an asterisk, and then the summary after "SUMMARY:" ending with "END OF SUMMARY."
+
+I need to ensure that the summary accurately reflects the article's content while highlighting the moral aspects. It's important to mention Trump's behavior, the ad, the impact on women, and the comparison to the 2012 Akin incident to show the moral framing.
+
+Alright, I think I've got a good grasp on what needs to be done. Time to put it all together.
+</think>
+
+**STEP 1:**  
+* Controversy  
+* Alarm  
+* War  
+* Denounced  
+* Offensive  
+* Outrage  
+* Sniveling coward  
+* Isolating  
+* Off limits  
+
+**SUMMARY:**  
+Donald Trump sparked controversy in the Republican primary by escalating a Twitter "war" against Ted Cruz, targeting Cruz's wife, Heidi, after a super PAC ad featuring Melania Trump emerged. Trump's actions, including threatening to reveal personal details about Heidi Cruz and sharing unflattering photos of her, drew widespread alarm among party leaders, who fear his tactics could alienate women voters. Cruz, who has no ties to the super PAC, condemned the ad but Trump continued to attack. Cruz eventually called Trump a "sniveling coward" and demanded he stop targeting his wife. The situation drew comparisons to the 2012 backlash against Todd Akin, whose offensive remarks about rape led to widespread outrage and Republican distancing. However, media and public reactions to Trump's behavior have been less condemnatory, despite the clear moral implications of attacking spouses in political campaigns. END OF SUMMARY.

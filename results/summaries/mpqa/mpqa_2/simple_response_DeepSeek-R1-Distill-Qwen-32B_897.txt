@@ -1,0 +1,14 @@
+Alright, so the user has given me a query where they want me to act as a news summarizer assistant and a moral expert. The task is to summarize a news article while preserving the moral framing that the author provided. Let me break this down.
+
+First, I need to understand the content of the article. It's about China disapproving the use of the term "axis of evil" in international relations. The spokesperson, Kong Quan, comments on U.S. statements about North Korea, Iran, and Iraq. He mentions that China doesn't agree with using such terms and refers to public opinion in the U.S. not supporting it either. He emphasizes that anti-terrorism should be based on evidence and shouldn't be expanded without reason. Also, he stresses the importance of following UN principles and the Five Principles of Peaceful Co-existence.
+
+Now, the user wants a summary that's no longer than 200 words, ending with specific tokens. They also want the moral framing preserved. So, I need to ensure that the summary not only captures the key points but also maintains the moral stance against labeling and the emphasis on evidence and international cooperation.
+
+I should start by identifying the main elements: China's disapproval, the context of the U.S. statement, the reasons given (lack of evidence, public opinion), and the moral principles they uphold. I need to make sure these points are concise but comprehensive.
+
+I should also check the word count to ensure it's within the limit. Let me draft a summary that includes all these points succinctly. Maybe start with China's stance, mention the term "axis of evil," reference the U.S. public opinion, and then outline the moral principles they advocate. That should cover the essential parts without exceeding the word limit.
+
+Finally, I'll structure it with the required tokens at the beginning and end. Let me put it all together, making sure it flows well and maintains the moral perspective.
+</think>
+
+SUMMARY: China has expressed disapproval of the use of the term "axis of evil" in international relations, as stated by Foreign Ministry spokesman Kong Quan. He criticized the U.S. leader's recent description of North Korea, Iran, and Iraq as part of such an "axis," arguing that such language risks serious consequences and lacks a solid evidentiary basis. Kong emphasized that anti-terrorism efforts should be grounded in irrefutable evidence and should not be arbitrarily expanded. He stressed the importance of adhering to the principles of the United Nations Charter, the Five Principles of Peaceful Co-existence, and the principle of treating all nations equally. Kong argued that these principles are essential for maintaining global and regional peace and stability. END OF SUMMARY.

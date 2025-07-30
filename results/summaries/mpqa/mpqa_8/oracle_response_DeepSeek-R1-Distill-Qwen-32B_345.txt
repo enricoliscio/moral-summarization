@@ -1,0 +1,12 @@
+Alright, so I need to help the user by summarizing a news article while preserving the moral framing. The user specified that I should focus on the morally framed words "conflicts" and "harmony." 
+
+First, I'll read the article to understand the context. It's about President Cardoso discussing the challenges facing Hugo Chavez in Venezuela. The main points are the conflicts last week, the need for normalcy, communication channels, social harmony, and Chavez's promise not to seek revenge. Also, Jimmy Carter supports Chavez's dialogue approach and plans to visit.
+
+I need to make sure to include the words "conflicts" and "harmony" in the summary. I should keep the summary concise, under 200 words, and structure it to highlight the moral aspects. 
+
+I'll start by mentioning Cardoso's view on Chavez's challenge as reestablishing normalcy after conflicts. Then, I'll note the emphasis on communication and harmony. Next, I'll include Chavez's statement about not seeking revenge. Finally, I'll add Carter's support and his upcoming visit.
+
+I should ensure the summary flows well and maintains the moral tone without adding any personal opinions. Keeping it factual but highlighting the key moral points is essential. I'll make sure to end with the specified tokens.
+</think>
+
+SUMMARY: President Fernando Henrique Cardoso has emphasized that Hugo Chavez's main challenge is reestablishing normalcy in Venezuela after last week's conflicts. Cardoso stressed the importance of opening communication channels and achieving social harmony. Chavez assured Cardoso he has no intention of seeking revenge against military personnel involved in the failed coup attempt. Former U.S. President Jimmy Carter has expressed support for Chavez's commitment to dialogue and is scheduled to visit Venezuela soon. END OF SUMMARY.

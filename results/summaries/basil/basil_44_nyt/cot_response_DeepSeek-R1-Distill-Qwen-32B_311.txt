@@ -1,0 +1,28 @@
+<think>
+Okay, I need to help the user by summarizing a news article while preserving the moral framing. The user has given specific instructions: first, identify all single words that are morally framed, and then write a concise summary using those words.
+
+Starting with the article, I'll read through it to find terms that carry moral connotations. Words like "indicted," "fraud," "corruption," "lying," "vendetta," "abuses," "dishonesty," "dedication," "service," and "reputation" stand out as they imply moral judgment or evaluation.
+
+Next, I'll craft a summary that includes these words. I need to make sure the summary is under 200 words and captures the essence of the article, highlighting the moral aspects without adding personal opinions. I'll structure the summary to mention the indictment, the charges, the restaurant issues, and the political angle, all while using the identified moral terms to maintain the author's framing.
+
+I should also ensure that the summary flows logically, starting with the indictment, moving through the charges and related issues, and ending with the political implications and the congressman's response. This approach should meet the user's requirements effectively.
+</think>
+
+**STEP 1:**
+
+* Indicted  
+* Fraud  
+* Corruption  
+* Lying  
+* Vendetta  
+* Abuses  
+* Dishonesty  
+* Dedication  
+* Service  
+* Reputation  
+
+**SUMMARY:**
+
+Representative Michael G. Grimm, a Republican from Staten Island and Brooklyn, is expected to be indicted on federal fraud charges, including mail fraud, wire fraud, and obstruction of justice, following a corruption investigation. The charges focus on his ownership of a health food restaurant, Healthalicious, which allegedly engaged in labor abuses, such as underpaying employees and evading scrutiny. Grimm has denied the allegations, claiming the investigation is a politically motivated vendetta. His campaign fundraisers, Diana Durand and Ofer Biton, have already been charged with illegal activities. Grimm, who is up for re-election, has maintained his innocence and vowed to continue serving his constituents. His reputation for being hot-tempered was highlighted when he threatened a reporter during a televised interview. The investigation, ongoing for over two years, has been marred by leaks and secrecy violations.  
+
+**END OF SUMMARY.**

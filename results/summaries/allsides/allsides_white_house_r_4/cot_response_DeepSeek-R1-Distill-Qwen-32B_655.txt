@@ -1,0 +1,33 @@
+Alright, I need to tackle this query where the user wants me to summarize a news article while preserving the moral framing. They provided a specific structure with two steps: identifying morally framed words and then writing a summary using those words.
+
+First, I should read the article carefully to understand the author's perspective. The article is critical of Obama's foreign policy, labeling it as focused on appearances rather than real action. The author uses strong moral terms to convey disapproval.
+
+For STEP 1, I need to extract all single words that carry moral connotations. I'll go through the article and pick out words like "pretend," "care," "manipulator," "posturing," "outrage," "scoffed," "ignored," "abdication," "dilettante," "dangerous," "popularity," "unpopularity," and "casualties." These words reflect the author's judgment on Obama's actions.
+
+Next, for the SUMMARY, I must condense the article into 200 words, using as many of these moral words as possible. I'll highlight the main points: Obama's inconsistent policies, his focus on short-term actions, the lack of real commitment, and the resulting negative outcomes. I'll structure it to show the author's criticism, ensuring the moral framing is clear.
+
+I should also make sure the summary flows logically, starting with the definition of the Obama Doctrine, moving through examples of failed policies, and ending with the consequences. This approach will effectively convey the author's viewpoint while adhering to the word limit.
+
+Finally, I'll review both steps to ensure I've captured all the necessary elements and that the summary accurately reflects the original article's moral stance. It's important to maintain the critical tone and use the identified words to strengthen the moral framing in the summary.
+</think>
+
+### STEP 1:
+* pretend  
+* care  
+* master  
+* manipulator  
+* posturing  
+* outrage  
+* scoffed  
+* ignored  
+* abdication  
+* dilettante  
+* dangerous  
+* popularity  
+* unpopularity  
+* casualties  
+
+---
+
+### SUMMARY:
+The article critiques the Obama Doctrine, arguing it prioritizes appearances over real action. President Obama is accused of pretending to care about global suffering, particularly when it garners media attention, but failing to commit to long-term solutions. Examples include Libya, Syria, Ukraine, and Nigeria, where Obama's administration engaged in short-term actions or inaction, leading to massive casualties. The author labels Obama as an emotional manipulator, skilled at posturing but unwilling to lead or take sustained action. His focus on popularity, rather than substantive change, is seen as dangerous, resulting in widespread unpopularity and continued suffering. The article concludes that Obama’s doctrine is marked by hypocrisy, emotional manipulation, and a lack of genuine commitment to global issues. END OF SUMMARY.

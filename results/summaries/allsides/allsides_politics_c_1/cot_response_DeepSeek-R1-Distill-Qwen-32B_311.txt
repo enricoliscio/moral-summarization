@@ -1,0 +1,38 @@
+<think>
+Okay, I need to help the user by summarizing the given news article while preserving the moral framing. First, I'll read through the article carefully to understand the content and the moral implications.
+
+The article talks about John Bolton's upcoming book, which accuses Trump of various unethical actions. I need to identify the morally framed words as per the user's instructions. Let me go through the text again.
+
+Looking for words that carry moral connotations: "unfit," "scathing," "help," "best interest," "liar," "falsehoods," "undercut," "profit," "wrongdoing," "impactful," "severe," "damage," "discontent," "wrongdoing," "self-serving," "indispensable," "jaw-dropping," "wrongdoing," "valid," "objectionable," "defense." I'll list these as STEP 1.
+
+Now, for the summary. I need to condense the article, keeping the moral framing intact. I'll start by mentioning Bolton's book and its accusations against Trump. Highlight the president's dismissal and the legal battle. Then, touch on the reactions from both parties and the implications of the book's release timing. Finally, note the political impact and the debate over Bolton's motives.
+
+I should ensure the summary is concise, under 200 words, and includes as many of the identified moral words as possible without making it sound forced. Let me structure it step by step, making sure each key point is covered succinctly.
+</think>
+
+**STEP 1:**
+* unfit  
+* scathing  
+* help  
+* best interest  
+* liar  
+* falsehoods  
+* undercut  
+* profit  
+* wrongdoing  
+* impactful  
+* severe  
+* damage  
+* discontent  
+* wrongdoing  
+* self-serving  
+* indispensable  
+* jaw-dropping  
+* wrongdoing  
+* valid  
+* objectionable  
+* defense  
+
+**SUMMARY:**  
+John Bolton’s upcoming book contains scathing accusations against President Trump, alleging decisions based on reelection rather than the country’s best interest, including claims of seeking election help from China, endorsing Muslim prison camps, discussing executing journalists, and Ukraine dealings. Trump dismisses the book as lies, while the administration tried to block its release over classified info, but a judge ruled in Bolton’s favor. Bolton, Trump’s third national security adviser, left amid clashes. Democrats and Republicans avoided subpoenaing him during impeachment. The book’s release has sparked debate: Trump allies criticize Bolton, while liberals accuse him of prioritizing profit over national interest. Some argue the claims could still impact Trump’s image, especially regarding China. The book’s timing amid a health crisis and racial justice protests is seen as politically irrelevant by some, while others believe it could still damage Trump. Democrats may seek Bolton’s testimony. The accusations are seen as significant, despite Bolton’s self-serving motives, offering specific wrongdoing allegations.  
+END OF SUMMARY.

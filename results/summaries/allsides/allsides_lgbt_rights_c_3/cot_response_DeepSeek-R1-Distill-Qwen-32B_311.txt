@@ -1,0 +1,30 @@
+Okay, so I'm trying to help the user with their query. They want me to summarize a news article while preserving the moral framing. The article is about an appeals court striking down same-sex marriage bans in Wisconsin and Indiana. 
+
+First, I need to understand what the user is asking for. They provided a specific structure: step 1 is identifying all the morally framed words, each on a new line starting with a *. Then, the summary should include as many of these words as possible, keeping it under 200 words.
+
+Looking at the article, I see several moral terms like "discrimination," "equality," "rights," "justice," "unconstitutional," "fairness," etc. These words carry moral weight and are crucial for the framing.
+
+Next, I need to write the summary. I should start by stating the court's decision, then mention the judges involved and their reasoning. I should highlight the main arguments they rejected, such as the states' claims about marriage and child welfare. Also, including the statistics on out-of-wedlock births and the comparison to interracial marriage bans would strengthen the moral stance.
+
+I need to ensure the summary flows well, is concise, and includes all the key points without exceeding 200 words. I'll make sure to incorporate the moral terms identified in step 1 to preserve the framing as per the user's request.
+</think>
+
+**STEP 1:**  
+* Discrimination  
+* Equality  
+* Rights  
+* Justice  
+* Unconstitutional  
+* Fairness  
+* Welfare  
+* Abandoned  
+* Foster care  
+* Model parents  
+* Unwanted children  
+* Accidental pregnancies  
+* Empirical data  
+* Out-of-wedlock births  
+* Tradition  
+
+**SUMMARY:**  
+The U.S. Court of Appeals for the Midwest has ruled that Wisconsin and Indiana's same-sex marriage bans are unconstitutional, joining two other federal appeals courts in striking down such laws. Judge Richard Posner, a Reagan appointee, emphasized that the states provided no reasonable basis for the bans, calling their arguments "full of holes." He criticized the states' claim that traditional marriage protects children from accidental pregnancies, noting that out-of-wedlock birth rates have risen since the bans were enacted. Posner also rejected the idea that tradition alone can justify discrimination, referencing the Supreme Court's decision to overturn interracial marriage bans. He highlighted the moral inconsistency of denying marriage rights to same-sex couples, who often adopt children and provide a stable environment. The cases are now headed to the Supreme Court, which is expected to rule by June. END OF SUMMARY.

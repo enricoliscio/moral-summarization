@@ -1,0 +1,14 @@
+Alright, so the user has provided a query where they want me to summarize a news article while preserving the moral framing. The article is about a Project Veritas video showing a Sanders campaign organizer making controversial statements. The user has specified that I need to include certain morally charged words in the summary.
+
+First, I need to understand the key points of the article. The main points are Kyle Jurek's statements about violence if Trump is reelected, support for reeducation camps, comparisons to Nazis, and violent rhetoric against the police and media.
+
+Next, I should identify the morally framed words the user wants preserved: violence, nazis, beaten, riots, clashed, nazi, nazified, drag, fire, editing. I need to make sure these words are included in the summary.
+
+I should structure the summary to highlight Jurek's statements, the context of the video, and the implications for the Sanders campaign. I'll need to keep it concise, under 200 words, and ensure it flows logically.
+
+I also need to mention Project Veritas' methods and the criticism they face regarding editing, as that adds context to the credibility of the video.
+
+Finally, I'll make sure to end the summary with the required tokens and keep the language clear and direct, preserving the moral framing without adding personal opinions.
+</think>
+
+SUMMARY: A Project Veritas video revealed controversial remarks by Kyle Jurek, a Bernie Sanders campaign organizer, predicting "cities burn" if Trump wins reelection and violence at the Democratic National Convention. Jurek compared Trump supporters to Nazis, advocated for Soviet-style gulags for reeducation, and called for violent riots to "beat" police. He also criticized less radical liberals, suggesting they should be "dragged" and "lit on fire." Jurek linked Sanders' free tuition plan to reeducating "Nazified" Americans, drawing parallels to post-WWII Germany. He praised antifa and Stalin's gulags as tools for reeducation, stating, "the only thing fascists understand is violence." The video, part of Project Veritas' #Expose2020 series, includes Federal Election Commission records confirming Jurek's role in the Sanders campaign. Critics accuse Project Veritas of deceptive editing, a claim the organization denies. The Sanders campaign has not responded to the allegations. END OF SUMMARY.

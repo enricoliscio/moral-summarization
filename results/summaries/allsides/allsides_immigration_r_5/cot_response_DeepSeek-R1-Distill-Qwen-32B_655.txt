@@ -1,0 +1,45 @@
+<think>
+Okay, so I need to help the user with summarizing a news article while preserving the moral framing. The user provided a detailed query with specific instructions. First, I should understand what they're asking for. They want me to act as a news summarizer and a moral expert. The task has two main parts: identifying morally framed words and then summarizing the article while keeping those moral terms.
+
+Let me start by reading the provided news article. It's about former President Obama criticizing Trump for ending DACA. The article uses strong moral language, so I need to pick out those words. The user wants me to list each morally framed word in step one, each on a new line with an asterisk. Then, in step two, I need to write a concise summary that includes as many of these words as possible without exceeding 200 words.
+
+First, I'll go through the article and highlight the words that carry moral connotations. Words like "cruel," "basic decency," "contrary," "spirit," "common sense," "wrong," "self-defeating," "threat," "contribute," "cruelty," "required legally," "political decision," "moral question," "shouldn't threaten," "fault," "pose no threat," "taking away," "future," "chance," "unemployment rate," "taxes," "wages," "weigh in," "precedent," "criticizing," "current president." Each of these words carries a moral judgment or implication.
+
+Now, for the summary, I need to condense the article, ensuring that I include these moral terms to preserve the author's framing. I'll start by mentioning Obama's criticism, the termination of DACA, and the moral terms he used. I'll explain the reasons Obama gave, such as the recipients posing no threat and contributing positively. I should also include the political and legal context, and the impact on individuals. Finally, I'll note Obama's previous statement about weighing in on DACA.
+
+I need to make sure the summary flows well and stays within the word limit. I'll structure it to first state Obama's criticism, then his reasons, followed by the implications, and end with the political aspect. I'll check each sentence to ensure it's concise and includes the necessary moral terms without making the summary too lengthy.
+
+Let me draft the summary, ensuring each point is covered and the moral framing is preserved. I'll also count the words to make sure it's under 200. Once done, I'll present the step-by-step process as per the user's instructions, starting with the identified words and then the summary.
+</think>
+
+**STEP 1:**  
+* Cruel  
+* Basic decency  
+* Contrary  
+* Spirit  
+* Common sense  
+* Wrong  
+* Self-defeating  
+* Threat  
+* Contribute  
+* Cruelty  
+* Required legally  
+* Political decision  
+* Moral question  
+* Shouldn’t threaten  
+* Fault  
+* Pose no threat  
+* Taking away  
+* Future  
+* Chance  
+* Unemployment rate  
+* Taxes  
+* Wages  
+* Weigh in  
+* Precedent  
+* Criticizing  
+* Current president  
+
+**SUMMARY:**  
+Former President Obama harshly criticized President Trump for ending the DACA program, calling the decision "cruel" and a lack of "basic decency." Obama argued that DACA recipients, known as "Dreamers," pose no threat and contribute positively to society, serving in roles like teachers, first responders, and military cadets. He questioned the morality of deporting individuals who came to the U.S. through no fault of their own, emphasizing that their removal would not solve issues like unemployment or taxes. Obama also noted that the decision was not legally required but a political choice with moral implications. He urged compassion, asking where Dreamers would be sent, often to countries they no longer recognize. This criticism followed Obama’s earlier pledge to "weigh in" on DACA, despite the precedent of former presidents not openly criticizing their successors.  
+**END OF SUMMARY.**

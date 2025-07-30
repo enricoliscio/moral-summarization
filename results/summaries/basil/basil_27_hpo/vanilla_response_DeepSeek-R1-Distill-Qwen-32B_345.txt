@@ -1,0 +1,14 @@
+Alright, so the user has provided a news article and wants me to summarize it. They specified that the summary should be after "SUMMARY:" and end with "END OF SUMMARY." Also, it needs to be under 200 words. 
+
+First, I need to read the article carefully to understand the main points. The article is about an ad by Secure America Now, a neoconservative group, featuring Netanyahu discussing Iran's nuclear program. This ad is part of the election-year politics, targeting Obama's foreign policy, especially his stance on Israel and Iran.
+
+I should identify the key elements: who is involved (Netanyahu, Romney, Obama), what the ad is about, where it's being aired, and the implications for the election. Also, note that Netanyahu is trying to stay neutral in the U.S. election but the ad is part of the GOP's strategy against Obama.
+
+I need to condense this into a concise summary, making sure to include all these points without exceeding 200 words. I'll start by introducing the ad, mention where it's airing, the purpose, and then touch on Netanyahu's response and the context of previous ads. Finally, I'll wrap it up by noting the implications for Obama's campaign.
+
+I should avoid getting too detailed on each point but ensure all main aspects are covered. Let me structure it step by step to ensure clarity and conciseness.
+</think>
+
+SUMMARY:  
+A new ad by neoconservative group Secure America Now features Israeli Prime Minister Bibi Netanyahu discussing Israel's security concerns over Iran's nuclear program, targeting President Barack Obama's foreign policy. The ad, airing in Florida's Jewish-heavy areas, aligns with Republican criticisms of Obama's stance on Israel and Iran. Republican Mitt Romney has accused Obama of "throwing Israel under a bus," while the GOP has criticized Obama for declining to meet Netanyahu at the UN. Netanyahu, however, distanced himself from the U.S. election, stating he won't be drawn into it and clarifying that scheduling conflicts, not a dismissal, caused the meeting cancellation. He also praised Obama's commitment to preventing Iran from obtaining nuclear weapons. This isn't the first time Secure America Now has targeted Obama; a previous ad accused him of an "apology tour" harming American security. The new ad implicitly supports the GOP narrative, despite the group claiming to represent all political ideologies.  
+END OF SUMMARY.

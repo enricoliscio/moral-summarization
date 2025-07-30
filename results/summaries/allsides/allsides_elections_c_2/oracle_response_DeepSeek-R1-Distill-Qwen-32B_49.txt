@@ -1,0 +1,16 @@
+Alright, so I need to help the user by summarizing this news article about Justin Amash launching his exploratory committee for the Libertarian nomination. The user is a news summarizer assistant and a moral expert, so I have to make sure to preserve the moral framing that the author used.
+
+First, I'll read through the article to understand the key points. Justin Amash, a former Republican congressman, is starting an exploratory committee for the Libertarian Party's presidential nomination. He's been considering a third-party run for months and is under pressure from Libertarians. His platform includes less government intervention and cutting federal spending. He's been critical of Trump, even supporting impeachment, which caused him to leave the GOP. Now, he's positioning himself as a third-party option, which might draw support away from Trump or Biden.
+
+The user provided a list of morally framed words: protests, restore, bring, serving, exploding, misbehavior, excusing, defenses, assault. I need to incorporate as many of these as possible into the summary.
+
+I should start by mentioning that Amash is launching his exploratory committee, using "restore" and "bring" to describe his goals. Highlight his Libertarian values, like less government intervention and cutting spending, which ties into "exploding" deficit. Mention his criticism of Trump, using "misbehavior" and "excusing," and how that led him to leave the GOP. Also, note the potential impact on the election, using "protests" or "assault" if applicable, though "protests" seems more fitting in the context of political unrest.
+
+I need to keep the summary under 200 words, so I'll be concise. I'll structure it to include his announcement, his values, his stance on Trump, and the implications for the election. Make sure each moral term is naturally integrated without forcing them in.
+
+Let me draft the summary now, ensuring it flows well and includes all the necessary points with the moral framing words.
+</think>
+
+SUMMARY:  
+Rep. Justin Amash has launched an exploratory committee to seek the Libertarian Party’s presidential nomination, signaling his intent to run as a third-party candidate. Amash, a former Republican congressman, aims to "restore" respect for the Constitution and "bring" people together, emphasizing a presidency rooted in humility and trust. His campaign focuses on libertarian values, including less government intervention and cutting federal spending to address the "exploding" deficit. Amash has criticized President Trump, accusing Republicans of excusing Trump's "misbehavior" and abandoning fiscal conservatism. His decision to leave the GOP and support impeachment has drawn backlash from Republicans. Libertarians view him as a potential "game changer," capable of attracting "Never Trump" Republicans and independents. His candidacy could "assault" Trump's support or分流 support from Biden, the Democratic nominee. Amash's exploratory committee marks a significant step in his bid to "serve" Americans of all backgrounds, offering a third-party alternative in the 2020 election.  
+END OF SUMMARY.

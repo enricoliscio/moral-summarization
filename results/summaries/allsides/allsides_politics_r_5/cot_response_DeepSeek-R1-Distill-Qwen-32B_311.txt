@@ -1,0 +1,31 @@
+<think>
+Alright, I need to help the user by summarizing the given news article while preserving the moral framing. First, I'll go through the article to understand the main points. The article is about George Papadopoulos, a former Trump campaign adviser, who accepted a plea deal for lying to the FBI. He's described as a "proactive cooperator," which suggests he's helping federal investigators, possibly by wearing a wire.
+
+The user has asked for two steps. The first is to identify all single words that are morally framed. I need to look for words that carry moral connotations, like "lying," "collusion," "conspiracy," "secrets," "deception," etc. These words indicate wrongdoing or moral judgment.
+
+Next, I have to write a concise summary, keeping as many of these morally framed words as possible. The summary should be under 200 words and include the key points: Papadopoulos's role as a cooperator, his plea deal, the implication of wearing a wire, and the implications for the investigation. I also need to mention the White House's response and the speculation about the impact on the Mueller investigation.
+
+I should ensure that the summary flows well and includes all necessary details without being too lengthy. I'll start by stating Papadopoulos's role, then his plea deal, the cooperation details, the White House's downplay, and the potential significance of his actions in the investigation. I'll make sure to include the morally charged words to maintain the author's framing.
+
+I also need to structure the response with the two steps clearly marked. First, list the morally framed words, each on a new line. Then, write the summary after the "SUMMARY:" token. I must remember to end with "END OF SUMMARY."
+
+I think I've covered all the necessary points. Let me double-check to ensure I haven't missed any key details or moral terms. The summary should reflect the cooperation's significance and the potential impact on the investigation, keeping the moral implications clear.
+</think>
+
+**STEP 1:**  
+* lying  
+* collusion  
+* interference  
+* conspiracy  
+* money laundering  
+* secrets  
+* deception  
+* cooperation  
+* wiretapping  
+* investigation  
+* undermining  
+* betrayal  
+* exposure  
+
+**SUMMARY:**  
+George Papadopoulos, a former Trump campaign adviser, has been labeled a "proactive cooperator" by federal investigators, suggesting he may have worn a wire to assist the Mueller investigation into Russian interference in the 2016 election. Papadopoulos pleaded guilty to lying to the FBI about his contacts with Russians and has been cooperating with authorities since his arrest in July. Prosecutors have kept his case under wraps to protect his role as a cooperator, which may involve undercover work. Papadopoulos admitted to lying about his interactions with Russian nationals and discussed arranging meetings between Russian officials and the Trump campaign. The White House downplayed his involvement, denying collusion. Legal analysts speculate that Papadopoulos may have been recording conversations with Trump associates, potentially providing significant evidence for the investigation. END OF SUMMARY.

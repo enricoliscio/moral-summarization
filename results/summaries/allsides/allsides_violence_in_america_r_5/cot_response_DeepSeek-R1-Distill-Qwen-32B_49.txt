@@ -1,0 +1,40 @@
+<think>
+Okay, so I need to help the user by summarizing the news article while preserving the moral framing. The user provided a detailed query with specific steps, so I should follow that closely.
+
+First, I need to identify all the single words that are morally framed. I'll go through the article and pick out words that carry strong moral connotations. Words like "heartbreaking," "evil," "terror," "radical," "hate," "victims," "justice," "failure," "dishonesty," "hypocrisy," "vulnerability," "weakness," "sacrifice," "honor," "safety," "security," "failure," "weakness," "dignity," and "respect" come to mind. I'll list each of these with a *.
+
+Next, I have to write a concise summary of the article, making sure to include as many of these morally framed words as possible. The summary should be under 200 words and include the key points: the murder of Marines, the political response, the debate on terrorism, gun policies, and the broader implications. I'll structure it to show the moral perspectives presented by both sides, highlighting the tension between acknowledging the threat and the administration's approach.
+
+I need to ensure the summary flows well and captures the essence of the article without losing the moral framing. I'll start by mentioning the event, then the political reactions, the investigation, the policy debates, and the ongoing discussions in Congress. I'll end by noting the debate over the administration's handling of the threat, tying back to the moral words used.
+
+Finally, I'll make sure the summary is clear and within the word limit, ending with the specified tokens. I'll review to ensure all steps are followed and that the moral framing is preserved accurately.
+</think>
+
+**STEP 1:**
+
+* heartbreaking  
+* evil  
+* terrorism  
+* radical  
+* hate  
+* victims  
+* justice  
+* failure  
+* dishonesty  
+* hypocrisy  
+* vulnerability  
+* weakness  
+* sacrifice  
+* honor  
+* safety  
+* security  
+* failure  
+* weakness  
+* dignity  
+* respect  
+
+---
+
+**SUMMARY:**  
+President Obama called the murder of four Marines in Tennessee "heartbreaking," urging Americans to avoid jumping to conclusions. However, Republicans, including Louisiana Gov. Bobby Jindal, blamed Obama for not confronting the "evil" of radical Islamic terrorism. The shooting, classified as domestic terrorism, reignited debates over gun policies at military facilities and the administration's handling of terrorism. The FBI identified the gunman as Mohammad Youssuf Abdulazeez, a U.S. citizen, and is investigating potential ties to extremist groups. Lawmakers debated the threat of radical Islam, with some arguing that the administration's failure to acknowledge the danger has allowed it to grow. The incident also highlighted the vulnerability of military facilities and the need for stronger security measures. The debate over terrorism's role in the 2016 campaign continued, with Democrats emphasizing the danger of white supremacists and anti-government extremists. The shooting underscored the moral and political challenges of addressing terrorism while preserving safety and justice.  
+**END OF SUMMARY.**

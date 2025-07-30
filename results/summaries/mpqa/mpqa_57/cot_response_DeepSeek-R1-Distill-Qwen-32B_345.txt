@@ -1,0 +1,36 @@
+Okay, so the user has given me a query where they want me to act as a news summarizer assistant and a moral expert. They provided a detailed news article about climate change policies in Europe and the US, specifically around the Kyoto Protocol. The task is to first identify all the morally framed words in the article and then write a summary that preserves those moral framings.
+
+First, I need to understand what morally framed words mean. These are words that carry a judgment or imply a value, like "flawed," "weak," "ambitious," etc. I'll go through the article and pick out each word that has such a connotation.
+
+Once I've listed those words, the next step is to summarize the article. The summary needs to be concise, under 200 words, and include as many of those moral words as possible. I have to make sure the summary reflects the original article's moral perspective, highlighting the EU's proactive stance and the US's lackluster effort.
+
+I should start by outlining the key points: the EU's ratification of the Kyoto Protocol, the US's withdrawal and subsequent weak program, the scientific warnings, and the economic benefits of climate action. I'll need to weave in the moral terms to emphasize the importance and urgency of the issue.
+
+I also need to ensure that the summary flows logically, connecting the EU's leadership with the US's shortcomings and the implications for global climate efforts. Highlighting the economic and job creation aspects from the EU's perspective will show the positive moral framing of their actions.
+
+Finally, I'll make sure the summary ends with a call for the US to rejoin the Kyoto process, emphasizing the necessity and the ongoing invitation for their participation. This will maintain the moral tone throughout the summary.
+</think>
+
+### STEP 1:  
+* Fundamentally flawed  
+* Dominant role  
+* Original mechanism  
+* Model  
+* Strengthening  
+* Extreme weakness  
+* Ambitious  
+* Heeded  
+* Rapid and decisive action  
+* Avert  
+* Dramatic  
+* Devastating  
+* Reticence  
+* Lagging behind  
+* Excellent opportunity  
+* Necessary  
+* Responsibilities  
+
+---
+
+### SUMMARY:  
+Recent weeks have seen significant developments in climate change policies on both sides of the Atlantic. The European Union (EU) has made a major decision to ratify the Kyoto Protocol, positioning it to take effect before the 2002 Johannesburg summit. Meanwhile, the United States, under President Bush, unveiled a climate protection program that falls far short of expectations. The EU has played a dominant role in international negotiations, establishing a model mechanism for implementing the Kyoto Protocol. However, the US withdrawal from the Kyoto Protocol, despite its status as the world's largest emitter of greenhouse gases, remains a critical issue. The US program, which aims to reduce emissions as a proportion of GDP by 18% by 2012, is seen as extremely weak compared to the EU's commitment to an 8% reduction. Scientists warn that without decisive action, climate change will lead to devastating consequences, including rising temperatures, sea levels, and more severe weather events. The EU has called on the US to assume its responsibilities and align its efforts with the Kyoto Protocol. The EU's proactive climate policy not only addresses environmental concerns but also presents an excellent opportunity for economic growth and job creation. The return of the US to the Kyoto process remains a key goal, as its participation is essential for effective global climate protection. END OF SUMMARY.

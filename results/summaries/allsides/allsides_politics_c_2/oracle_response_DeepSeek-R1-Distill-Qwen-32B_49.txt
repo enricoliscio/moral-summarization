@@ -1,0 +1,14 @@
+Okay, I need to help the user by summarizing the given news article while preserving the moral framing. The user has provided the article and a list of morally framed words. My task is to create a concise summary, under 200 words, using as many of those words as possible.
+
+First, I'll read through the article to understand the main points. Mattis criticizes Trump's handling of the unrest, specifically the use of military force and the photo-op. He talks about the oath, Constitution, and the misuse of military authority. Current Defense Secretary Esper opposes the Insurrection Act. Mattis mentions the dangers of militarizing the response and the impact on the military's reputation. He also addresses the protests as a demand for justice and condemns the division Trump is causing. Trump responds by criticizing Mattis.
+
+Now, I need to identify the key morally framed words from the list that fit into the summary. Words like "unrest," "divide," "militarizing," "oath," "abuse," "rights," "respect," "quash," "justice," "unifying," "leadership," "sacrifice," "accountable," "unite" are central.
+
+I'll structure the summary to highlight Mattis's main points: the abuse of authority, the misuse of military, the demand for justice, and the need to unite. I'll also mention Trump's criticism of Mattis to show the conflict.
+
+I need to keep the summary concise, so I'll focus on the most impactful points without getting into too many details. I'll ensure that the moral framing is clear, using the specified words to convey the criticism and the call for unity.
+
+Finally, I'll make sure the summary starts with "SUMMARY:" and ends with "END OF SUMMARY." and stays within the word limit.
+</think>
+
+SUMMARY: Retired Marine Gen. Jim Mattis, former Defense Secretary, strongly criticized President Trump's handling of nationwide unrest, accusing him of seeking to divide Americans and militarizing the response to protests. Mattis emphasized his oath to support and defend the Constitution, warning against using troops to violate citizens' rights or create a "bizarre photo op." He condemned Trump's actions as an abuse of executive authority, particularly the clearing of peaceful protesters near the White House. Mattis also opposed invoking the Insurrection Act, stating that the military should only be used when requested by state governors. He called the protests a unifying demand for equal justice, urging rejection of dividing citizens and respecting the military's role to protect, not dominate. Mattis accused Trump of pursuing a divisive strategy, lacking mature leadership, and risking the politicization of the armed forces. He highlighted the risks faced by healthcare workers and essential personnel during the pandemic, calling for accountability for those mocking the Constitution and unity in upholding American values. Trump responded by dismissing Mattis as "the world's most overrated General." END OF SUMMARY.

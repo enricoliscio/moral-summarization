@@ -1,0 +1,36 @@
+Okay, I need to help the user by summarizing a news article while preserving the moral framing. First, I should read the article carefully to understand the main points and the moral terms used. The article is about the House passing HR 1, an election reform bill, which has been criticized by Republicans and civil libertarians.
+
+The user has two steps: first, identify all single words that are morally framed, and second, write a summary using those terms. I'll start by going through the article and picking out words that carry moral connotations. Words like "sweeping," "touchstone," "curb," "bolster," "unconstitutional," "impinge," "silencing," "power grab," "federal takeover," "micromanage," "costly," "unnecessary," "faith," "public interest," "elites," "power brokers," and "mischaracterization" stand out as they express approval or disapproval.
+
+Next, I need to write a concise summary that includes as many of these words as possible without making it too long. I should structure the summary to include the bill's goals, the criticisms from both Republicans and the ACLU, and the responses from Democrats. It's important to highlight the moral arguments on both sides to maintain the framing.
+
+I'll start by stating the bill's approval and its main aims. Then, I'll mention the criticisms from Republicans and the ACLU, using terms like "power grab" and "unconstitutional." I'll also include Pelosi's defense, emphasizing the public interest and countering the power grab accusation. Finally, I'll note the Democrats' response to the criticisms about campaign funding and felons voting.
+
+I need to make sure the summary is under 200 words and flows naturally while preserving the moral language. I'll avoid any markdown and keep it in plain text as per the instructions. Let me piece this together, ensuring each point is covered succinctly.
+</think>
+
+**STEP 1:**
+
+* sweeping  
+* touchstone  
+* curb  
+* bolster  
+* unconstitutionally  
+* impinge  
+* silencing  
+* power grab  
+* federal takeover  
+* micromanage  
+* costly  
+* unnecessary  
+* faith  
+* public interest  
+* elites  
+* power brokers  
+* mischaracterization  
+
+---
+
+**SUMMARY:**  
+The House of Representatives approved HR 1, a sweeping election reform bill aimed at curbing big money in politics, easing voting access, and bolstering election security. Critics, including Republicans and the ACLU, argue the bill unconstitutionally impinges on free speech and silences voices through provisions like the DISCLOSE ACT, which mandates donor disclosure for election spending. Republicans label the bill a Democratic power grab, claiming it amounts to a federal takeover of elections and micromanages state-run processes. The White House condemns it as costly and unnecessary. House Speaker Nancy Pelosi defends the bill as restoring faith in government working for the public interest, countering claims it grabs power for elites and power brokers. Democrats dispute accusations of taxpayer-funded campaigns, asserting funds come from corporate settlements. The debate highlights competing visions of democracy, integrity, and free speech.  
+**END OF SUMMARY.**

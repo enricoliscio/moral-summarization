@@ -1,0 +1,23 @@
+Okay, I need to help the user by summarizing the given news article while preserving the moral framing. The user has specified two steps: first, identifying all the morally framed single words, and then writing a concise summary.
+
+Starting with STEP 1, I'll go through the article and pick out words that carry a moral connotation. Words like "anti-LGBT," "supportive," "admonish," "oppose," "conversion therapy," "oppress," "hateful," "violent," "extreme," and "oppose" stand out as they relate to moral judgments or evaluations.
+
+Now, for the summary, I need to condense the article into 200 words or less. I'll focus on the key points: the Republican platform's anti-LGBT stance, Peter Thiel's speech at the convention, Trump's mixed signals on LGBTQ issues, Pence's extreme views, and the overall tension within the party. I'll make sure to include the morally framed words identified earlier to maintain the original moral framing.
+
+I should ensure the summary flows logically, starting with the party's platform, moving to Thiel's speech, then Trump's statements and actions, and finally Pence's stance. This structure will provide a clear overview of the situation, highlighting the moral issues involved.
+</think>
+
+**STEP 1:**  
+* anti-LGBT  
+* supportive  
+* admonish  
+* oppose  
+* conversion therapy  
+* oppress  
+* hateful  
+* violent  
+* extreme  
+* oppose  
+
+**SUMMARY:**  
+The Republican Party has adopted a platform described as the most anti-LGBT in its history, opposing same-sex marriage, supporting "conversion therapy," and backing laws that discriminate against LGBT individuals. Despite this, some pro-LGBT Republicans, including PayPal co-founder Peter Thiel, have praised Donald Trump as the most supportive GOP candidate on LGBTQ issues. Thiel, in a speech at the GOP convention, expressed pride in being gay and a Republican, while distancing himself from the party's platform on LGBT rights. Trump has claimed to be a "friend of the gay community," but his support is inconsistent. He opposes federal recognition of same-sex marriage and supports the First Amendment Defense Act, which protects those opposing same-sex marriage. Trump's vice presidential pick, Mike Pence, has been criticized for holding "more extreme" views on LGBT rights, including opposing gay marriage and promoting traditional marriage. The article highlights the tension between Trump's personal claims of support for LGBTQ individuals and the GOP's anti-LGBT platform, as well as the broader debate over transgender bathroom rights. END OF SUMMARY.

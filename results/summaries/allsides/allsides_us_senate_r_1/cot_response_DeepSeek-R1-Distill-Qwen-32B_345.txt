@@ -1,0 +1,73 @@
+Alright, I need to help the user by summarizing the news article while preserving the moral framing. First, I'll go through the article to understand the main points. The article discusses the Born-Alive Abortion Survivors Protection Act, which requires medical care for infants born alive after an abortion. It mentions that Democrats oppose this bill, claiming such infants don't exist or that existing laws already cover this. The article criticizes the Democrats' stance as dehumanizing and highlights the moral conflict between abortion rights and the rights of newborns.
+
+Now, the user wants me to identify all the morally framed words. I'll scan through the text again, looking for words that carry strong moral connotations. Words like "exposes," "commitment," "logic," "unlimited," "protection," "require," "provide," "infants," "born alive," "attempted abortion," "expose," "flimsy," "rationales," "opposition," "deny," "care," "murderous," "crimes," "illegal," "spotty," "evidence," "survive," "late-term," "infanticide," "false," "federal," "deny," "medical," "infant," "anti-abortion," "place," "government," "women," "doctors," "limiting," "healthcare," "regulate," "treat," "newborns," "dehumanizing," "rationale," "pro-choice," "support," "decency," "arbitrary," "deny rights," "human being," "mother," "birth," "oppose," "right to abortion," "infant," "die," "neglect," "planned," "killed."
+
+Next, I need to write a concise summary that includes as many of these moral words as possible. The summary should be under 200 words and highlight the moral conflict. I'll start by mentioning the bill and its purpose, then the Democrats' opposition and their reasons. I'll include the criticism of their stance and the moral implications of their arguments. Finally, I'll note the potential impact of the bill on the abortion debate.
+
+I should ensure the summary flows well and captures the essence of the article while emphasizing the moral aspects. I'll make sure to include terms like "exposes," "commitment," "unlimited," "protection," "deny," "murderous," "dehumanizing," "arbitrary," and "deny rights" to maintain the moral framing.
+
+After drafting, I'll check the word count to ensure it's within the limit and that all key points are covered. I'll make sure the summary is clear and effectively conveys the moral arguments presented in the article.
+</think>
+
+**STEP 1:**  
+* Exposes  
+* Commitment  
+* Logic  
+* Unlimited  
+* Legal  
+* Protection  
+* Require  
+* Provide  
+* Infants  
+* Born-alive  
+* Attempted  
+* Abortion  
+* Expose  
+* Flimsy  
+* Rationales  
+* Opposition  
+* Deny  
+* Care  
+* Murderous  
+* Crimes  
+* Illegal  
+* Spotty  
+* Evidence  
+* Survive  
+* Late-term  
+* Infanticide  
+* False  
+* Federal  
+* Deny  
+* Medical  
+* Infant  
+* Anti-abortion  
+* Place  
+* Government  
+* Women  
+* Doctors  
+* Limiting  
+* Healthcare  
+* Regulate  
+* Treat  
+* Newborns  
+* Dehumanizing  
+* Rationale  
+* Pro-choice  
+* Support  
+* Decency  
+* Arbitrary  
+* Deny rights  
+* Human being  
+* Mother  
+* Birth  
+* Oppose  
+* Right to abortion  
+* Infant  
+* Die  
+* Neglect  
+* Planned  
+* Killed  
+
+**SUMMARY:**  
+The Senate is considering the Born-Alive Abortion Survivors Protection Act, which mandates medical care for infants born alive after an abortion. Democrats oppose the bill, claiming "born-alive" infants don't exist or that existing laws already protect them, but data and cases like Kermit Gosnell's crimes show such infants do survive. The bill doesn't regulate abortion access but requires doctors to treat born-alive infants as they would any newborn. Critics argue it "exposes" the dehumanizing logic of abortion rights, as opposing the bill implies supporting the denial of care to newborns who were intended to be aborted. The legislation highlights the moral conflict between abortion rights and the rights of newborns, forcing lawmakers to confront the arbitrary nature of denying rights to a fetus versus a newborn. END OF SUMMARY.

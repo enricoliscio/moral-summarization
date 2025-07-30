@@ -1,0 +1,12 @@
+Okay, so the user has given me a query where they want a summary of a news article. The article is about the Namibian government dismissing a US human rights report. The user has specified that the summary should be after a "SUMMARY:" token and end with "END OF SUMMARY." Also, it needs to be no longer than 200 words.
+
+First, I need to read the article carefully. The key points are that the US report accuses Namibia's security forces of human rights violations, including extra-judicial killings, torture, arbitrary arrests, and disappearances, especially linked to UNITA and CLA. The Namibian government, through Shivute, dismisses the report, citing US hypocrisy, like Guantanamo Bay detentions. Shivute also points out inaccuracies in the report, such as misclassifying media affiliations and historical data.
+
+I should structure the summary to include the main accusations from the US report, the government's response, and the points of contention. I need to keep it concise, under 200 words. I'll start by stating the dismissal, then outline the report's claims, followed by the government's rebuttal and the specific inaccuracies they mentioned.
+
+I should ensure that the summary flows logically, covering all critical aspects without unnecessary details. Also, I need to make sure it's within the word limit, so I'll have to be precise with each point.
+
+Finally, I'll format it correctly, starting with "SUMMARY:" and ending with "END OF SUMMARY." to meet the user's requirements.
+</think>
+
+SUMMARY: The Namibian government has dismissed a US human rights report detailing violations by Namibia's security forces, including extra-judicial killings, torture, arbitrary arrests, and disappearances, particularly linked to suspected ties with UNITA and the Caprivi Liberation Army (CLA). The report accused the government of failing to uphold constitutional rights, such as informing arrestees of their charges and bringing them before a magistrate within 48 hours. Namibia's Information Permanent Secretary, Mocks Shivute, criticized the US for hypocrisy, citing its detention of individuals at Guantanamo Bay without trial. Shivute dismissed the report as factually inaccurate and based on unverified claims, noting errors like misclassifying media affiliations and historical data. He questioned whether similar US actions would be labeled human rights abuses. The government attached "little value" to the report, emphasizing its lack of credibility. END OF SUMMARY.

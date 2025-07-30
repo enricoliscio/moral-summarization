@@ -1,0 +1,30 @@
+Alright, I need to help the user by summarizing the given news article while preserving the moral framing. Let me start by understanding the task. The user wants me to first identify all the single words that carry moral implications in the article. Then, I have to write a concise summary that includes as many of those moral words as possible.
+
+First, I'll read through the article carefully to spot words that have a moral connotation. Words like "disparaging," "fired," "recommendation," "departure," "guarantee," "troubling," "evidence," "protection," "punish," "bias," "improper," "accountability," and "celebrated" stand out as they carry moral weight. These words highlight the ethical issues surrounding Strzok's termination and the implications of political influence.
+
+Next, I'll structure the summary. It should be under 200 words, so I need to be concise. I'll start by stating that Peter Strzok was fired despite a recommendation for suspension and demotion. Mentioning the attorney's claims about political pressure and First Amendment rights adds the moral angle. I'll include the inspector general's concerns about bias and improper actions, as well as the potential extramarital relationship as a factor. Wray's statement about accountability and Trump's reaction wrap up the summary, emphasizing the political and ethical dimensions.
+
+I should ensure that the summary flows logically, connecting each moral point without getting too bogged down in details. The key is to maintain the moral framing while being clear and concise. I'll review the summary to make sure all the identified moral words are included and that the summary accurately reflects the article's content.
+</think>
+
+**STEP 1:**
+
+\*disparaging  
+\*fired  
+\*recommendation  
+\*departure  
+\*guarantee  
+\*troubling  
+\*evidence  
+\*protected  
+\*punish  
+\*bias  
+\*improper  
+\*accountability  
+\*celebrated  
+
+**SUMMARY:**  
+
+FBI Special Agent Peter Strzok was fired by Deputy Director David Bowdich despite a career official’s recommendation for a 60-day suspension and demotion. Strzok’s attorney, Aitan Goelman, claimed the decision was a departure from typical FBI practice and accused it of being influenced by political pressure, punishing Strzok for his anti-Trump texts protected under the First Amendment. Goelman emphasized that no evidence linked Strzok’s personal views to his work performance. The inspector general expressed concern over Strzok’s texts, which potentially indicated bias or improper considerations, and criticized his use of personal email for FBI business. Strzok’s extramarital relationship with Lisa Page may have also factored into the decision. FBI Director Chris Wray previously vowed accountability, but Trump celebrated Strzok’s firing, calling for the investigation into his campaign to be dropped and Clinton’s to be redone.  
+
+**END OF SUMMARY.**

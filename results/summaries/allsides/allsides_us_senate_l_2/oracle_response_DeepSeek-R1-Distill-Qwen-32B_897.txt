@@ -1,0 +1,16 @@
+Okay, I need to help the user by summarizing the provided news article while preserving the moral framing. The user is a news summarizer assistant and a moral expert, so I should focus on the ethical implications and the language used.
+
+First, I'll read through the article to understand the main points. The Senate approved a $19.1 billion disaster aid package after six months of fighting. Trump's involvement caused delays, especially regarding Puerto Rico and border aid. The article uses words like "fighting," "delay," "approve," "help," etc., which are morally charged.
+
+I need to make sure the summary includes as many of these words as possible. I'll start by noting the key events: the approval of the aid, the initial issues with Puerto Rico funding, Trump's request for border aid, the eventual removal of border funds, and the allocation to Puerto Rico.
+
+I should highlight how Trump's actions delayed the aid, causing consequences like prolonged suffering. The moral framing emphasizes the negative impact of political interference on disaster relief.
+
+I'll structure the summary to show the conflict, the delays, and the negative outcomes. I'll make sure to include terms like "fighting," "delay," "approve," "help," and others to maintain the moral tone.
+
+I should keep the summary under 200 words, so I'll be concise but include all critical points. I'll end with the "SUMMARY:" and "END OF SUMMARY." tokens as instructed.
+
+Now, putting it all together, I'll craft a summary that captures the political battle, the delays, and the resulting harm, using the specified moral language.
+</think>
+
+SUMMARY: After six months of fighting, the Senate approved a $19.1 billion disaster aid package, providing relief to millions affected by hurricanes, wildfires, and floods. However, President Trump's involvement caused significant delays, as he initially balked at additional funding for Puerto Rico and later demanded $4.5 billion for the border. The final package stripped out border aid and allocated $1.4 billion to Puerto Rico, despite Trump's objections. The delay in aid has had staggering consequences, leaving millions without help for over a year in Puerto Rico, Florida, and other disaster-hit areas. Trump's interference in disaster aid negotiations, including his aversion to supporting Puerto Rico and his request for border funding, slowed progress and politicized the issue. This delay has left people struggling to rebuild their lives, with infrastructure and agricultural industries suffering nationwide. The politicization of disaster aid raises concerns about future responses to natural disasters. END OF SUMMARY.

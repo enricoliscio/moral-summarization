@@ -1,0 +1,15 @@
+Alright, I need to help the user by summarizing the given news article while preserving the moral framing. The user has specified that the summary should include as many of the morally framed words as possible. Let me first read through the article to understand the key points.
+
+The article is about Gov. Asa Hutchinson of Arkansas and his son Seth, who opposes the religious freedom bill. The bill is controversial because critics say it could legalize discrimination against gay people. Seth Hutchinson has differing political views from his father, which is a significant aspect of the story. The article mentions their relationship, Seth's background, and how their political differences have evolved over time.
+
+I need to identify the morally framed words used by the author: justice, discrimination, reputation, economy, love, arrest, loiter, joined, rallied, ask, recall, rewrite, credit. I should make sure these words are included in the summary.
+
+The summary should be concise, around 200 words, and start after the "SUMMARY:" token. I'll need to structure it to highlight the conflict between father and son, the moral implications of the bill, and the impact on Arkansas's reputation and economy.
+
+I'll start by introducing the main conflict: Seth opposing the bill. Then, mention the family's influence in Arkansas and the reactions. Next, include the moral aspects like justice and discrimination. Then, explain Seth's background and how his views changed, including his involvement in labor and gay rights. Highlight the ongoing dialogue between father and son and the outcome of the governor reconsidering the bill. Make sure to use the required words like arrest, loiter, joined, rally, etc.
+
+I should ensure that the summary flows well and covers all key points without being too lengthy. I'll also make sure to end with "END OF SUMMARY." as per the instructions.
+</think>
+
+SUMMARY:  
+Gov. Asa Hutchinson of Arkansas faced criticism from his son, Seth, over a religious freedom bill that critics argue could legalize discrimination against gay people. Seth, a labor activist and political divergent, warned his father that the bill could harm Arkansas's reputation and economy. Their politically complex relationship, marked by love and disagreement, has evolved over the years. Seth, who once shared his father's values, began questioning them as a teenager, influenced by his experiences working low-wage jobs and becoming interested in gay rights. He later joined groups like the Young Democratic Socialists and rallied for gay rights during Gov. Mike Huckabee's tenure. Seth emphasized that his father's reconsideration of the bill was not due to his influence but the broader pressure from all sides. The family maintains a close, though lively, relationship, with ongoing dialogue about their differing views. Seth's efforts to promote justice and challenge discrimination highlight his commitment to social change, while the bill's implications for equality and economic reputation remain a focal point of debate. END OF SUMMARY.

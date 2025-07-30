@@ -1,0 +1,20 @@
+Okay, so I need to help the user by summarizing this news article while preserving the moral framing. First, I should understand what the user is asking for. They mentioned that I'm a news summarizer assistant and a moral expert, so my main task is to identify morally framed words and then create a summary that includes those words.
+
+Looking at the article, it's about a new crew arriving at the International Space Station. The key morally framed words are probably related to teamwork, dedication, and personal touches that show their humanity. Let me go through the article again.
+
+The article mentions the crew settling in, which shows their dedication. Yuri Onufrienko is eager to take over as commander, which is a leadership role. The crew bringing personal items like fly-tying material, weaving materials, and a keyboard shows their personal touches and how they're making the space station feel like home. These are all positive, morally framed aspects.
+
+I need to make sure the summary includes these elements. I'll start by mentioning the arrival of the crew, their dedication, Onufrienko's eagerness, the transfer of the cargo carrier, and their personal items. This should capture the moral aspects while keeping the summary concise.
+
+Wait, I should also note that the summary needs to be under 200 words. Let me check the word count as I draft. I'll make sure each point is clear and concise without losing the moral framing.
+</think>
+
+**STEP 1:**  
+* dedication  
+* leadership  
+* teamwork  
+* personal touches  
+
+**SUMMARY:**  
+Two American astronauts and one Russian cosmonaut arrived at the International Space Station, marking the beginning of their six-month mission. Yuri Onufrienko, the new commander, eagerly took over from the outgoing crew, while the team worked to transfer gear and install equipment. The crew also brought personal items reflecting their hobbies, such as fly-tying material, weaving supplies, and a keyboard, adding a touch of humanity to their new home in space. The outgoing crew, led by Frank Culbertson, will return to Earth after 128 days, leaving the station in capable hands. The mission highlights dedication, leadership, and teamwork in the pursuit of scientific discovery and human achievement.  
+**END OF SUMMARY.**

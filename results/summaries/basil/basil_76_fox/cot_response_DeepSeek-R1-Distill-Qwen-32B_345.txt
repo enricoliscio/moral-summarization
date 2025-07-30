@@ -1,0 +1,46 @@
+Alright, so the user has given me a query where I need to act as a news summarizer and moral expert. They provided a detailed news article about Roy Moore and the allegations against him. The task is to first identify all the morally framed single words and then write a summary preserving those moral framings.
+
+First, I need to understand what "morally framed" words mean. These are words that carry a moral judgment, like "allegations," "scandal," "wrongdoing," etc. I should go through the article and pick out each such word.
+
+Looking at the article, I see words like "sexual misconduct," "step aside," "allegation," "destroy," "evil," "lie," "steal," "harm," "silence," "crossroads," "futures," "fight," "winning," "double-digit," "death spiral," "Hail Mary," "fabrication," "garbage," "fake news," "defamation," "disturbing," "truth," and "deserve." Each of these carries a moral connotation, either positive or negative.
+
+Next, I need to summarize the article, making sure to include as many of these words as possible without exceeding 200 words. The summary should capture the key points: Trump's statement, the allegations against Moore, the reactions from different parties, and the legal context.
+
+I should start by mentioning Trump's expectation that Moore would step aside if the allegations are true. Then, mention the allegations themselves and the reactions from Moore and others. Include the legal age context and the fact that the statute of limitations has passed. Also, note the political implications and the calls for Moore to drop out.
+
+I need to ensure the summary flows well and covers all main points succinctly. I'll structure it to first introduce the situation, then the allegations, reactions, legal context, and finally the political fallout.
+
+I should also check that the summary doesn't include any markdown and stays within the word limit. Let me count the words after writing to make sure it's under 200.
+
+I think I've covered all the necessary points and included the morally framed words. Now, I'll present the summary clearly, starting with "SUMMARY:" and ending with "END OF SUMMARY."
+</think>
+
+**STEP 1:**  
+* sexual misconduct  
+* step aside  
+* allegation  
+* destroy  
+* evil  
+* lie  
+* cheat  
+* steal  
+* harm  
+* silence  
+* crossroads  
+* futures  
+* fight  
+* winning  
+* double-digit  
+* death spiral  
+* Hail Mary  
+* fabrication  
+* garbage  
+* fake news  
+* defamation  
+* disturbing  
+* truth  
+* deserve  
+
+**SUMMARY:**  
+President Trump has stated that Alabama Senate candidate Roy Moore should "step aside" if the sexual misconduct allegations against him are true. However, Trump also cautioned against rushing to judgment, emphasizing that mere allegations should not "destroy a person’s life." Moore has accused the media and political opponents of spreading lies and attempting to "silence" Christian conservatives. Leigh Corfman, now 53, alleges that Moore, then 32, engaged in inappropriate behavior with her when she was 14. Moore’s campaign has labeled the allegations "baseless" and "fake news," accusing Democrats and the media of fabricating the story to derail his campaign. Several Republican leaders, including Senate Majority Leader Mitch McConnell, have called for Moore to drop out if the allegations are true. The legal age of consent in Alabama is 16, and sexual contact with minors is considered abuse, though the statute of limitations has expired. Moore remains in the race, claiming he is "winning" with a "double-digit lead." The situation has sparked widespread debate over truth, justice, and the future of the nation.  
+**END OF SUMMARY.**

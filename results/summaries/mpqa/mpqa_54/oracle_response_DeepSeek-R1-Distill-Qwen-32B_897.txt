@@ -1,0 +1,17 @@
+Okay, so I need to summarize this news article while preserving the moral framing the author used. The user provided a list of morally framed words, and I have to make sure to include as many of them as possible in the summary. The summary should be concise, under 200 words, and follow the "SUMMARY:" token and end with "END OF SUMMARY.".
+
+First, I'll read through the article to understand the main points. The article talks about the US becoming the sole superpower after the Cold War, adopting pragmatism and unilateralism in its foreign policy under Bush. It mentions deploying the NMD, opposition from the international community, Bush's persistence despite that, the Sino-US plane collision, and the US's stance on international treaties like the Kyoto Protocol and others.
+
+I need to highlight the moral aspects using the provided words. Words like deploying, plan, persuade, revise, flashing, trigger, etc., should be included. I'll structure the summary to cover each key point, making sure each morally charged word is used where appropriate.
+
+I'll start by mentioning the US as the sole superpower and their policy of pragmatism and unilateralism. Then, discuss the NMD deployment, the opposition, and Bush's persistence. Next, the plane collision incident and how the US handled it, emphasizing their refusal to apologize and later threats. Then, touch on their stance on international treaties, like the Kyoto Protocol and others, showing their unilateral approach. Finally, mention the "war on terrorism" and how they used it to influence other countries, using words like condemned, support, terrorism, etc.
+
+I'll make sure each paragraph is concise, using the morally framed words to convey the author's perspective on the US's actions as self-serving and disregarding international norms.
+</think>
+
+SUMMARY:  
+Following the Cold War, the United States emerged as the sole superpower, adopting a foreign policy rooted in pragmatism and unilateralism. Under Bush, the U.S. pursued the deployment of the National Missile Defense (NMD) system, despite international opposition, including from allies like Canada. The administration sought to persuade the international community to accept the NMD and revise the Anti-Ballistic Missile Treaty (ABM), claiming it was outdated. Despite the UN's resolution to uphold the ABM Treaty, the U.S. persisted with missile defense tests, prioritizing its status as the sole superpower.  
+
+The Sino-U.S. plane collision incident highlighted the U.S.'s dual approach: it refused to apologize for the crash, instead指责中国, and later threatened retaliation. The U.S. also unilateralist地 abandoned international agreements like the Kyoto Protocol and the Comprehensive Test Ban Treaty, focusing only on treaties that benefited its security and economy.  
+
+After 9/11, the U.S. framed its "war on terrorism" as a global effort, demanding other nations align with it or face hostility. It pragmatically shifted its stance toward Pakistan, lifting sanctions and providing aid after the attacks. The U.S.'s actions underscored its willingness to prioritize its interests over international norms and cooperation. END OF SUMMARY.

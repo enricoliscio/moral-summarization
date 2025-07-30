@@ -1,0 +1,46 @@
+Okay, I need to help the user by summarizing a news article while preserving the moral framing. First, I should understand what the user is asking for. They provided a detailed news article about Democrats introducing gun control legislation after the midterm elections. The user wants me to identify morally framed words and then create a summary using those words.
+
+Starting with STEP 1, I need to go through the article and pick out words that carry moral connotations. Words like "introduce," "legislation," "background checks," "stronger gun control," "stalled," "progress," "divides," "fresh action," "sweeping," "empowered," "change," "victims," "gun violence," "mass shootings," "survivors," "bereaved," "anti-gun," "harassment," "conspiracy theorists," "hoax," "fear," "emboldened," "strategy," "pledges," "youth movement," "blocked," "bipartisan," "languished," "support," "survivor," "campaign." These words seem to carry moral weight as they relate to the debate, consequences, and actions surrounding gun control.
+
+Now, for the summary, I need to condense the article, ensuring I include as many of these moral words as possible. The key points are the Democrats' new strategy, the introduction of background checks, the failed bipartisan efforts, the stalled progress, the impact on victims, and the upcoming legislation. I should structure this in a concise manner, highlighting the moral aspects like the divide, stalled efforts, victims' calls, and the legislative push.
+
+I need to make sure the summary is under 200 words and flows naturally. I'll start by mentioning the Democratic majority's plan, then the background checks, the failed efforts, the victims' calls, and the upcoming legislation. I'll also touch on the harassment faced by Pozner and the new strategy aimed at winning Republican support and the 2020 election.
+
+I should avoid any markdown and keep the summary clear and focused on the moral framing. Let me piece this together, ensuring each sentence includes the necessary moral words without making it sound forced.
+</think>
+
+**STEP 1:**  
+* introduce  
+* legislation  
+* background checks  
+* stronger gun control  
+* stalled  
+* progress  
+* divides  
+* fresh action  
+* sweeping  
+* empowered  
+* change  
+* victims  
+* gun violence  
+* mass shootings  
+* survivors  
+* bereaved  
+* anti-gun  
+* harassment  
+* conspiracy theorists  
+* hoax  
+* fear  
+* emboldened  
+* strategy  
+* pledges  
+* youth movement  
+* blocked  
+* bipartisan  
+* languished  
+* support  
+* survivor  
+* campaign  
+
+**SUMMARY:**  
+The Democratic majority in the House plans to introduce sweeping legislation to impose background checks on all gun sales, marking a bold new strategy to address the deeply divisive issue of gun control in the U.S. Prominent Democrats, including Chris Murphy and Richard Blumenthal, are leading calls for fresh action, following the annual national vigil for gun violence victims. Advocacy groups, survivors, and families of victims from mass shootings, such as Parkland, Las Vegas, and Sandy Hook, are urging change. Despite stalled progress in Washington, Democrats are emboldened to push for reform, with 46 incoming House members demanding gun control as a top priority. Bipartisan efforts have failed under GOP control, but some Republicans, like Peter King, may support new legislation. The push comes amid persistent harassment of victims' families, such as Lenny Pozner, whose son Noah was killed in Sandy Hook. The Democrats aim to set the stage for the 2020 election while addressing the urgent need to curb gun violence. END OF SUMMARY.

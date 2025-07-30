@@ -1,0 +1,25 @@
+Okay, I need to help the user by summarizing the given news article while preserving the moral framing. The user has specified a two-step process: first, identifying morally framed words, and then writing a summary that includes as many of those words as possible.
+
+Starting with the article, I'll read through it to find words that carry moral implications. Words like "controversial," "offends," "wrong," "vile," "stir the pot," and "freedom of speech" stand out. These terms are used to convey judgment or ethical considerations in the context of the article.
+
+Next, I'll structure the summary. I need to include the key points: Kathy Griffin's photo shoot, the reaction, her apology, Tyler Shields' defense, and the broader implications. I'll make sure to incorporate the identified moral words to maintain the original framing.
+
+I also need to keep the summary concise, under 200 words. I'll start by introducing Griffin and the photo, then mention the controversy, her response, Shields' perspective, and the criticism they received. I'll end with the implications of their work on freedom of speech.
+
+I should ensure that the summary flows logically and covers all essential points without being too detailed. It's important to highlight both Griffin's regret and Shields' defense to present a balanced view of the moral aspects discussed.
+
+Finally, I'll review the summary to make sure it includes all the necessary morally framed words and that it accurately reflects the article's content while adhering to the word limit.
+</think>
+
+**STEP 1:**  
+* Controversial  
+* Offends  
+* Wrong  
+* Vile  
+* Stir the pot  
+* Freedom of speech  
+
+**SUMMARY:**  
+Kathy Griffin admitted she "went too far" after a controversial photo shoot with Tyler Shields, where she held a bloodied mask of President Trump. Griffin later apologized, calling the image "too disturbing" and acknowledging it wasn't funny. She expressed regret for offending people and vowed to remove the photo. Critics, including Chelsea Clinton, labeled the image "vile and wrong." Shields defended the artwork, stating it was meant to provoke thought and that art often causes discomfort. He emphasized it was not real and compared it to a movie still. Shields, known for provocative photos, defended their creative freedom, though the photo sparked outrage. Griffin and Shields' collaboration highlighted the tension between artistic expression and public offense, with Shields asserting his right to create such imagery.  
+
+**END OF SUMMARY.**

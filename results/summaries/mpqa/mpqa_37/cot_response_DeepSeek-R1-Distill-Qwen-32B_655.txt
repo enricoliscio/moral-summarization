@@ -1,0 +1,34 @@
+<think>
+Okay, I need to help the user by summarizing a news article while preserving the moral framing. First, I should read the article carefully. It's about Pakistan rejecting a US human rights report, calling it inaccurate. The government lists several initiatives they've taken, like laws for women, child labor, and human rights campaigns. They also mention international conventions they've ratified.
+
+The user wants me to first identify all the morally framed single words. I'll go through the article and pick out words that carry moral weight. Words like "rejected," "inaccurate," "unwarranted," "tendency," "judge," "promote," "protect," "initiatives," "ignored," "amended," "campaign," "ratified," "signed," "introduced," "constraints," "address," "cooperation," "understanding," "better served." I'll list each with a *.
+
+Next, I need to write a concise summary, under 200 words, using as many of these moral words as possible. I'll start by stating Pakistan's rejection of the report, then mention the specific initiatives they've taken. I'll highlight their achievements and how the report was seen as unfair. Finally, I'll conclude with their stance on international cooperation for human rights.
+
+I need to make sure the summary flows well and includes all key points without being too verbose. Also, I should preserve the moral framing by using the identified words where appropriate.
+</think>
+
+**STEP 1:**  
+* rejected  
+* inaccurate  
+* unwarranted  
+* tendency  
+* judge  
+* promote  
+* protect  
+* initiatives  
+* ignored  
+* amended  
+* campaign  
+* ratified  
+* signed  
+* introduced  
+* constrained  
+* address  
+* cooperation  
+* understanding  
+* better served  
+
+**SUMMARY:**  
+The Pakistani government firmly rejected the US State Department's human rights report, labeling it "factually inaccurate and unwarranted." It criticized the report for ignoring Pakistan's significant efforts to promote and protect human rights, including the Juvenile Justice System Ordinance, women's rights initiatives, police reforms, and child labor elimination policies. Pakistan also amended its Citizenship Act to allow women to pass nationality to their children and ratified key international conventions. Despite these achievements, the report accused Pakistan of a poor human rights record, which the government deemed a "gross misstatement." Pakistan emphasized the need for international cooperation and understanding to address human rights challenges, rejecting the tendency of some states to judge others.  
+**END OF SUMMARY.**

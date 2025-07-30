@@ -1,0 +1,30 @@
+<think>
+Okay, so I need to help the user by summarizing a news article while preserving the moral framing. The user has given me a detailed article about the Trump administration's consideration of a migrant ban. They want me to first identify all the single words that are morally framed, then write a summary that includes as many of those words as possible.
+
+First, I'll go through the article to pick out words that have a moral connotation. Words like "block," "bar," "undocumented," "asylum," "national security," "escalation," "cruelty," "failure," "abuse," "illegal," "emergency," and "abuse" stand out. These words carry moral weight and reflect the author's perspective on the issue.
+
+Next, I need to write a concise summary. I'll start by stating the administration's consideration of the order, mentioning the block on migrants and asylum seekers. I'll note the comparison to the earlier travel ban and the use of national security concerns. Then, I'll include the moral criticisms, like racism-driven cruelty and moral failure. I should also mention the legal challenges and the deployment of troops. Finally, I'll touch on the political context, such as the midterm elections and the threat to cut aid, ending with the implications for international law and the U.S. Constitution.
+
+I need to make sure the summary is under 200 words and includes the morally framed words identified. I'll structure it to flow logically, covering the administration's actions, the criticisms, and the broader implications.
+</think>
+
+**STEP 1:**
+
+\*block  
+\*bar  
+\*undocumented  
+\*asylum  
+\*national security  
+\*escalation  
+\*cruelty  
+\*failure  
+\*abuse  
+\*illegal  
+\*emergency  
+\*abuse  
+
+**SUMMARY:**  
+
+The Trump administration is considering an order to block migrants at the southern border, effectively barring asylum seekers, similar to its 2017 travel ban. This move, framed as a national security concern, would escalate presidential power over immigration. Critics, including legal experts, call the proposal "racism-driven cruelty" and a "moral failure," arguing it undermines constitutional and international law. The administration plans to deploy additional troops to the border to support border control efforts, including constructing barriers. Trump has also threatened to cut aid to Central American countries over the migrant caravan, a move complicated by bipartisan support for existing anti-corruption programs. The proposal faces legal challenges, with experts noting its potential cruelty but uncertain judicial outcome. The administration's actions have sparked widespread criticism, with opponents emphasizing the moral and legal implications of denying refuge to those fleeing persecution.  
+
+**END OF SUMMARY.**

@@ -1,0 +1,14 @@
+Alright, so the user has provided a query where they want a news summary that preserves the moral framing from the original article. They specified that I should act as a news summarizer and a moral expert. 
+
+First, I need to understand the article. It's about Alan Dershowitz, a Harvard professor and Democrat, criticizing congressional Democrats for their impeachment efforts against Trump. He compares them to Stalin's secret police, which is a strong moral statement about the dangers of creating crimes to fit a narrative.
+
+I need to make sure the summary captures this moral framing. The key points are Dershowitz's comparison, his argument about making up crimes, his criticism of CNN, and his support for constitutional checks and balances.
+
+I should keep the summary concise, under 200 words, and include the main elements: who Dershowitz is, his criticism, the specific accusations (collusion, obstruction), his point about the Constitution, and the impact on his media appearances.
+
+Also, the summary should end with the specified tokens. I'll structure it to highlight the moral concerns without getting bogged down in too many details. Ensuring that the comparison to Stalin and Beria is included to convey the severity of his critique.
+
+Finally, I'll make sure the summary flows well and stays within the word limit. Let me put it all together, making sure each sentence adds value and maintains the moral perspective.
+</think>
+
+SUMMARY: Harvard Law School professor Alan Dershowitz, a self-described liberal Democrat, harshly criticized congressional Democrats for their impeachment efforts against President Trump, likening them to the Russian secret police under Stalin. He accused them of "making up crimes" to justify impeachment, citing examples like "collusion" and "obstruction of Congress," which he argued are not actual crimes. Dershowitz warned that this approach threatens constitutional principles and checks and balances, comparing it to the tactics of Stalin's KGB chief, Lavrentiy Beria. He also criticized CNN and MSNBC for biased reporting, claiming they refuse to air his views, which he believes are truthful and constitutional. Dershowitz, who supports Trump's impeachment defense, has faced backlash from Democrats and reduced appearances on left-leaning media. He argued that the ACLU should oppose these efforts but remains silent, emphasizing the danger of creating crimes out of thin air. END OF SUMMARY.

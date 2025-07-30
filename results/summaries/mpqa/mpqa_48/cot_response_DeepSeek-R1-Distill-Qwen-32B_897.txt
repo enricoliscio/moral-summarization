@@ -1,0 +1,36 @@
+Alright, I need to help the user by summarizing the news article they provided. They want me to act as a news summarizer assistant and a moral expert, so I have to make sure I preserve the moral framing in the summary. 
+
+First, the user has given me a specific structure to follow. They want me to identify all the single words that are morally framed in the text. They mentioned two steps: Step 1 is to list these words, each on a new line starting with an asterisk. Step 2 is to write a concise summary, preserving the moral framing, and ending with specific tokens.
+
+I'll start by reading the article carefully. The main points are about Vietnam's commitment to environmental protection, their efforts in pollution prevention, biodiversity, and environmental improvements in industrial zones. The minister mentions mobilizing resources, strengthening international cooperation, and the importance of bilateral cooperation between Asia and Europe. They also called for a forum for environmental cooperation and the adoption of a statement supporting the Kyoto Protocol.
+
+Now, identifying the morally framed words. Words like "values," "protection," "prevention," "pollution," "degradation," "bio-diversity," "improvement," "mobilized," "resources," "cooperation," "addressing," "exchange," "dialogue," "cooperation," "implementation," "protocol," "cooperation," and "dialogue" seem to carry moral weight here. These words highlight Vietnam's responsible actions and the collaborative efforts towards environmental goals.
+
+Next, I need to craft a summary that includes as many of these morally framed words as possible. The summary should be under 200 words. I'll start by mentioning Vietnam's commitment, then the minister's statements about their efforts and international cooperation. I'll note the call for a forum and the adoption of the statement supporting the Kyoto Protocol. I'll make sure to include the key moral terms to maintain the original framing.
+
+I should ensure the summary flows well and covers all the main points without being too verbose. I'll also make sure to end with the required tokens as specified.
+
+Let me check the word count to ensure it's within the limit. I think I've covered all the essential points concisely. The summary should effectively convey Vietnam's proactive stance on environmental issues and their collaborative efforts with Asia and Europe.
+</think>
+
+**STEP 1:**  
+* Values  
+* Protection  
+* Prevention  
+* Pollution  
+* Degradation  
+* Bio-diversity  
+* Improvement  
+* Resources  
+* Cooperation  
+* Addressing  
+* Exchange  
+* Dialogue  
+* Cooperation  
+* Implementation  
+* Protocol  
+* Cooperation  
+* Dialogue  
+
+**SUMMARY:**  
+Vietnamese Minister Chu Tuan Nha emphasized Vietnam's commitment to environmental protection, including pollution prevention, biodiversity conservation, and improving industrial and urban environments. He highlighted the government's efforts to mobilize resources and strengthen international cooperation to address environmental challenges. The minister stressed the importance of bilateral cooperation between Asia and Europe, calling for a biennial environmental cooperation forum under the Asia-Europe Environment Cooperation Program. The forum would facilitate policy dialogue, information exchange, and expert collaboration. The ASEM EnMM concluded with a statement supporting early Kyoto Protocol implementation and fostering cooperation among member countries. END OF SUMMARY.

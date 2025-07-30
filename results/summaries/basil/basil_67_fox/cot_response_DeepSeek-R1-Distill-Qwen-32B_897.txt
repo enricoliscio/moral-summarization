@@ -1,0 +1,31 @@
+Okay, I need to help the user with their query. They provided a news article and specific instructions on how to process it. First, I should understand what they're asking for. They want me to act as a news summarizer assistant and a moral expert. My task is to summarize the given article while preserving the moral framing the author used.
+
+The user outlined two main steps. The first is to identify all the single words that are morally framed. They want this step labeled as "STEP 1:" and each word listed with a bullet point starting with *. The second step is to write a summary of the article, making sure to include as many of those morally framed words as possible. The summary needs to be concise, no longer than 200 words, and should follow the "SUMMARY:" token, ending with "END OF SUMMARY."
+
+Looking at the article, it's about a Twitter war between Donald Trump and Vicente Fox. Fox criticizes Trump's visit, calling him not welcome and accusing the current president of taking a political risk. Trump responds by bringing up Fox's past comments, which led to a heated exchange. 
+
+For STEP 1, I need to find words that carry moral connotations. Words like "Twitter war," "critic," "disagree," "not welcome," "reject," "political risk," "traitor," "offended," "mistake," "apologize," "lying." These words are charged with moral judgment, showing disapproval or criticism.
+
+Now, for the summary, I have to condense the article, keeping those moral words. I'll start by stating that Trump and Fox were in a Twitter war. Fox criticized Trump's visit, calling him not welcome and accusing the president of a political risk, even calling him a traitor. Trump retaliated by bringing up Fox's past comments about the wall. The exchange was heated, with Fox demanding an apology and accusing Trump of lying.
+
+I need to ensure the summary is under 200 words and flows naturally while including all the key moral terms. I should also make sure the summary starts with "SUMMARY:" and ends with "END OF SUMMARY."
+
+Let me check the word count. The summary I drafted is concise and within the limit. I've included all the morally framed words, so it should meet the user's requirements. I think this approach covers everything they asked for.
+</think>
+
+**STEP 1:**  
+* Twitter war  
+* critic  
+* disagree  
+* not welcome  
+* reject  
+* political risk  
+* traitor  
+* offended  
+* mistake  
+* apologize  
+* lying  
+
+**SUMMARY:**  
+Donald Trump and former Mexican President Vicente Fox engaged in a heated Twitter war over Trump's planned visit to Mexico. Fox criticized Trump, calling him "not welcome" and accusing current President Enrique Peña Nieto of taking a "political risk" by hosting him. Fox even labeled Peña Nieto's decision as a "big mistake" and accused him of acting like a "traitor" for allowing Trump to visit. Trump responded by referencing Fox's past comments, including his use of the "f bomb" when discussing the border wall, and accused Fox of hypocrisy. Fox fired back, demanding Trump "apologize" and "stop lying." The exchange highlighted deep divisions over Trump's policies and his reception in Mexico.  
+**END OF SUMMARY.**

@@ -1,0 +1,36 @@
+<think>
+Okay, so I need to help the user with their query. They provided a news article about Governor Mike Pence and the religious freedom law in Indiana. The user wants me to act as a news summarizer and a moral expert. My task is to first identify all the single words that are morally framed in the article and then write a summary preserving those moral frames.
+
+First, I'll read through the article to understand the context. It's about the law causing a political firestorm, reactions from various groups, and the governor's stance. The user wants me to break this down into two steps: identifying moral words and summarizing.
+
+For step one, I need to find all the single words that carry moral connotations. Words like "firestorm," "discrimination," "liberty," "tolerance," "backlash," "protesters," "discriminate," "opposition," "concerned," "examine," "headache," "origins," "critics," "wider," "protected," "agenda." These words are key because they convey the moral aspects of the situation, like the conflict, rights, discrimination, and public reaction.
+
+Next, for the summary, I need to condense the article, keeping those moral words. I should mention Pence's attempt to clarify the law, the backlash, the impact on businesses and events, and the moral debate around religious freedom vs. discrimination. I have to keep it under 200 words and make sure the moral framing is preserved.
+
+I'll start by stating that Pence is addressing the political firestorm, then mention the law's intent to protect religious beliefs. Highlight the backlash, including business boycotts and protests. Then, discuss the ongoing debate and Pence's stance on not adding protections for gays and lesbians. Finally, note the broader implications of the law.
+
+I need to ensure the summary flows well and includes all the key points without being too detailed. I'll check the word count to make sure it's within the limit. Also, I'll make sure to include the morally framed words identified earlier to maintain the original moral framing of the article.
+
+Alright, I think I have a clear plan. I'll proceed to list the moral words first and then craft the summary accordingly.
+</think>
+
+**STEP 1:**  
+* firestorm  
+* discrimination  
+* liberty  
+* tolerance  
+* backlash  
+* protesters  
+* discriminate  
+* opposition  
+* concerned  
+* examine  
+* headache  
+* origins  
+* critics  
+* wider  
+* protected  
+* agenda  
+
+**SUMMARY:**  
+Gov. Mike Pence of Indiana is addressing a political firestorm over a religious freedom law, which critics argue sanctions discrimination against gays and lesbians. The law aims to protect individuals or businesses from actions that burden their religious beliefs, allowing Christian vendors to refuse service to same-sex couples without legal repercussions. Pence supports the law but has promised to seek clarifying legislation. However, he rejected adding protections for gays and lesbians, stating it’s not on his agenda. The backlash has led to business boycotts, including Salesforce halting travel to Indiana, and protests outside the Statehouse. The NBA and NCAA have also expressed concerns. Pence defends the law, citing its roots in federal legislation, but critics argue it could enable wider discrimination. The debate has become a political headache for Pence, who is considering his 2016 run. END OF SUMMARY.

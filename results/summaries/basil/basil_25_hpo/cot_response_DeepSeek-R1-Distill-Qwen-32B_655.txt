@@ -1,0 +1,27 @@
+Okay, I need to help the user with their query. They provided a news article about Medicare and the political debate between Romney, Obama, and McCain. They want me to act as a news summarizer and moral expert. My tasks are twofold: first, identify all the morally framed single words in the article, and second, summarize the article while preserving those moral terms.
+
+Starting with the first step, I need to go through the article and pick out words that carry moral connotations. Words like "harm," "steal," "blood on their hands," "effective," "false," "drastic," "ill-conceived," "badly thought-through," "gamble," "false," "attack," "oppose," "demagogue," and "reluctance" stand out as they imply blame, deceit, or criticism.
+
+Next, for the summary, I need to condense the article into 200 words, making sure to include these moral terms. The summary should reflect the ongoing debate between Romney and Obama regarding Medicare, highlighting the accusations and counter-accusations, and mention the historical context with McCain. It's important to show how each side is using these moral frames to criticize the other, emphasizing the political stakes and the difficulty in discussing reforms without accusations.
+
+I should structure the summary to first introduce the debate, then outline each side's accusations, reference past instances where similar arguments were made, and conclude with the impact on the political discourse. This way, the summary captures the moral framing while providing a clear and concise overview of the article.
+</think>
+
+**STEP 1:**  
+* Harm  
+* Steal  
+* Blood on their hands  
+* Effective  
+* False  
+* Drastic  
+* Ill-conceived  
+* Badly thought-through  
+* Gamble  
+* False  
+* Attack  
+* Oppose  
+* Demagogue  
+* Reluctance  
+
+**SUMMARY:**  
+The debate over Medicare has intensified as Mitt Romney and Barack Obama accuse each other of harming the program. Romney's team claims Obama "stole" $700 billion from Medicare to fund Obamacare, while Obama's team argues Romney's plan would harm benefits. Fact-checkers dispute Romney's characterization, stating the savings came from limiting waste and fraud, not cutting benefits. Obama's campaign has history with similar attacks, as he accused John McCain in 2008 of slashing Medicare by $800 billion. McCain's team countered that the savings were from efficiency, not benefit cuts. Now, Romney's running mate, Paul Ryan, faces similar accusations. The political debate over Medicare reform is complicated by these moral attacks, making substantive discussions difficult. END OF SUMMARY.

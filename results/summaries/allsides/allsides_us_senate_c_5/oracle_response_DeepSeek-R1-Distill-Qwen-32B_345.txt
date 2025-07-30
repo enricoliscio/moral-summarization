@@ -1,0 +1,14 @@
+Alright, I need to help the user by summarizing the given news article while preserving the moral framing. First, I'll read through the article to understand the main points. 
+
+Mitch McConnell is the Senate Majority Leader, and he's discussing the CIA findings about Russian interference in the U.S. election. He supports an investigation but wants the Senate Intelligence Committee to handle it instead of a special committee. He emphasizes that the Intelligence Committee is capable and that they'll follow regular procedures, ensuring a bipartisan review. 
+
+He mentions that the Russians are adversaries, having invaded Crimea, and that their intentions aren't friendly. He's cautious about leaks, calling them irresponsible and possibly illegal for partisan gain. There's also mention of Trump dismissing the CIA report and his spokesperson accusing opponents of trying to delegitimize his win through recount issues and other distractions.
+
+I need to identify the morally framed words used by the author: capable, follow, review, threat, threats, bipartisan, invaded, wish, suggesting, activities, leaks, illegally, gain, delegitimize, recount, discussion, raise. I should incorporate as many of these as possible into the summary without making it too long.
+
+I'll structure the summary to highlight McConnell's stance, the capabilities of the Intelligence Committee, the threats posed by Russia, the bipartisan approach, the invasion of Crimea, the concern about leaks, and the accusations of delegitimization. I'll make sure to keep it under 200 words and end with the specified tokens.
+
+Let me draft the summary now, ensuring all key points and moral terms are included concisely.
+</think>
+
+SUMMARY: Senate Majority Leader Mitch McConnell emphasized the need for the Senate Intelligence Committee to investigate Russian interference in the U.S. election, calling the allegations "disturbing." He dismissed calls for a special committee, stating the Intelligence Committee is "more than capable" of conducting a "complete review" on a "bipartisan basis." McConnell noted that the committee, including incoming Democratic Leader Chuck Schumer, would handle the matter, while also acknowledging Sen. John McCain's efforts on cybersecurity. McConnell described Russia as an "adversary," citing its "invasion" of Crimea and warning that "the Russians do not wish us well." He criticized leaks of intelligence findings, calling them "irresponsible" and potentially "illegal" for "partisan political gain." McConnell declined to comment on Rex Tillerson's potential nomination as Secretary of State. Meanwhile, President-elect Donald Trump dismissed the CIA report as "ridiculous," with his spokesperson Jason Miller accusing opponents of "delegitimize" his win through "recount nonsense" and "discussion" of the popular vote. END OF SUMMARY.

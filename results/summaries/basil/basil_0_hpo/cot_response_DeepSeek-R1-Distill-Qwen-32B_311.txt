@@ -1,0 +1,42 @@
+Alright, so I've got this query where the user wants me to summarize a news article while preserving the moral framing. They've given specific instructions to first identify the morally framed words and then write a concise summary. Let me break this down step by step.
+
+First, I need to understand what morally framed words are. These are words that carry strong moral connotations, often related to right, wrong, good, or bad. They're used to convey the author's judgment or stance on an issue. So, I'll go through the article and pick out words that fit this category.
+
+Looking at the article about Glenn Beck's speech, I notice terms like "progressivism," "eating," "Constitution," "purity," "sucked," "problem," "Come-To-Jesus," "tax," "spend," "addicted," "recovery," "apology," "handouts," "right," "freedom," "big tent," "circus," "idea," "free." These words seem to carry the moral weight of Beck's argument against progressive policies and the need for Republican purity.
+
+Next, I need to summarize the article. The user wants the summary to include as many of these morally framed words as possible. I should focus on the key points: Beck's demand for Republican purity, his critique of progressive policies, the 12-step analogy, and his rejection of a "big tent" approach. I'll make sure to keep the summary under 200 words and include the identified terms.
+
+I also need to structure the response with "STEP 1:" followed by the list of words and then the "SUMMARY:" section. I should ensure clarity and conciseness, making sure the moral framing is evident in the summary.
+
+I'll start by outlining Beck's main arguments: he's calling for Republicans to clean up their act, criticizing progressive policies as harmful, and advocating for ideological purity. I'll incorporate the specific terms to highlight the moral aspects. For example, using "progressivism" as a threat to the Constitution and "addicted" to describe the party's spending habits.
+
+I should also mention the 12-step analogy and the rejection of the "big tent," emphasizing that Beck believes in a more focused, pure approach rather than broadening the party's appeal. This ties back to the moral framing of what's right for the country.
+
+Finally, I'll wrap up the summary by noting the audience's reaction and the implications of Beck's message for the conservative movement. This ensures the summary is comprehensive yet concise, adhering to the user's instructions.
+
+I think I've covered all the bases here. I've identified the morally charged words, crafted a summary that includes them, and followed the structure the user requested. Time to put it all together and make sure it flows naturally.
+</think>
+
+**STEP 1:**  
+* Progressivism  
+* Eating  
+* Constitution  
+* Purity  
+* Sucked  
+* Problem  
+* Come-To-Jesus  
+* Tax  
+* Spend  
+* Addicted  
+* Recovery  
+* Apology  
+* Handouts  
+* Right  
+* Freedom  
+* Big tent  
+* Circus  
+* Idea  
+* Free  
+
+**SUMMARY:**  
+Glenn Beck, in a fiery speech at CPAC 2010, demanded Republican ideological purity, warning that "progressivism" was "eating the Constitution." He criticized the party for not admitting its "problem" and urged a 12-step "recovery" program, comparing it to his own struggle with addiction. Beck rejected the idea of a "big tent" approach, calling it a "circus," and emphasized that America was an "idea" rooted in "freedom." He criticized Democrats and progressive policies, accusing them of taxing and spending excessively, while also taking aim at Republicans who embraced similar agendas. Beck’s message, intertwined with his personal story of redemption, was a call for conservatism to "succeed" by embracing "purity" and rejecting compromise. His speech captivated the audience, offering a moral framework for the GOP’s future. END OF SUMMARY.

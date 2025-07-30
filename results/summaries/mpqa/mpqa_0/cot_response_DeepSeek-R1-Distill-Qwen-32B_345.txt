@@ -1,0 +1,32 @@
+Okay, I need to tackle this query. The user provided a news article and wants a summary that preserves the moral framing. They also want me to first list the morally framed words. 
+
+First, I'll read the article carefully. It's about the U.S. State Department's human rights report, criticizing Iran without evidence. The article points out that the U.S. is hypocritical because they're accused of human rights violations themselves, like in Afghanistan and Guantanamo. 
+
+Now, for step one, I need to identify all the single words with moral framing. I'll go through the article and pick out words that carry a strong moral judgment. Words like "allegations," "baseless," "unpopular," "tarnish," "criticized," "atrocious," "ugliest," "crimes," "appalling," "bloody," "harsh," "hegemonic," "belligerent," "empty." Each of these words conveys a moral judgment against the U.S. actions.
+
+Next, for the summary, I need to condense the article while keeping these moral terms. I'll start by stating the U.S. published a report with unfounded claims about Iran. Then mention the lack of evidence and the irony of the timing with U.S. criticisms. Highlight the hypocrisy by including the human rights violations in Afghanistan and Guantanamo, the prison abuses, and police mistreatment. Conclude that the U.S. claims are empty rhetoric due to their own actions.
+
+I should make sure the summary is concise, under 200 words, and includes as many of the moral words as possible. I'll structure it to flow logically, showing the contradiction between U.S. accusations and their own issues.
+
+Finally, I'll format the response as per the user's instructions, starting with the step one list and then the summary. Make sure to use the correct tokens and keep each section clear.
+</think>
+
+**STEP 1:**  
+* Allegations  
+* Baseless  
+* Unpopular  
+* Tarnish  
+* Criticized  
+* Atrocious  
+* Ugliest  
+* Crimes  
+* Appalling  
+* Bloody  
+* Harsh  
+* Hegemonic  
+* Belligerent  
+* Empty  
+
+**SUMMARY:**  
+The U.S. State Department published its annual human rights report, making unfounded allegations against Iran without evidence. These claims, such as Iran's lack of social support due to human rights violations, were disproven by the massive participation in Iran's Islamic Revolution anniversary rallies. The report came amid international criticism of the U.S. for its own human rights abuses, including the killing of civilians in Afghanistan and the torture of prisoners at Guantanamo Bay. The U.S., which positions itself as a human rights advocate, is hypocritical in its treatment of its own citizens, such as the harsh conditions in prisons and the mistreatment of ethnic minorities, which have led to riots. The article concludes that the U.S. human rights rhetoric is empty, as its actions reveal a hegemonic and belligerent policy toward other nations.  
+**END OF SUMMARY.**

@@ -1,0 +1,30 @@
+Alright, I'm looking at this query where the user wants me to summarize a news article while preserving the moral framing. They've given specific instructions: first, identify all the morally framed single words, and then write a concise summary.
+
+First, I need to understand what morally framed words are. These are words that carry a positive or negative connotation, influencing the reader's judgment. For example, "opposed" and "sanctuary" have different implications.
+
+I'll start by reading the article carefully. It's about San Francisco's decision not to cooperate with ICE, led by Sheriff Miyamoto. The article mentions the city's progressive stance, public safety, and conflicts with federal policies. There are mentions of crime, illegal aliens, and the impact of sanctuary policies.
+
+Next, I'll go through the article word by word to spot terms that have moral connotations. Words like "opposed," "sanctuary," "progressive," "public safety," "afraid," "illegal aliens," "additional crimes," "prohibits," "targeted," "unfairly," "resilient," "attacks," and "protect" stand out. These words carry the author's perspective on the issue.
+
+Now, I need to summarize the article, keeping these words to maintain the moral framing. The summary should be under 200 words. I'll start by stating the main action: San Francisco not cooperating with ICE. Then, mention the sheriff's reasoning about public safety and community trust. Include the conflict with federal policies, the example President Trump used, and the city's response. Highlight the ongoing debate between federal and state policies.
+
+I should ensure the summary flows logically, covering all key points without losing the moral nuances. I'll check the word count to stay within limits. Finally, I'll structure the summary to clearly convey the moral perspectives presented in the article.
+</think>
+
+**STEP 1:**  
+* opposed  
+* sanctuary  
+* progressive  
+* public safety  
+* afraid  
+* illegal aliens  
+* additional crimes  
+* prohibited  
+* targeted  
+* unfairly  
+* resilient  
+* attacks  
+* protect  
+
+**SUMMARY:**  
+San Francisco’s newly elected sheriff, Paul Miyamoto, has declared that the city’s law enforcement will no longer cooperate with Immigration and Customs Enforcement (ICE), further cementing the city’s status as a sanctuary jurisdiction. Miyamoto argued that his department’s focus is on public safety, and cooperation with ICE would undermine community trust, as residents might fear reporting crimes. The city will ignore ICE detainers, meaning individuals in local custody for unrelated crimes will not be transferred to federal custody. While Miyamoto claims this promotes public safety, critics point to cases where illegal aliens released from custody have committed additional crimes. California’s Values Act, in effect since 2018, already restricts state and local agencies from honoring ICE detainers. President Trump has criticized California’s sanctuary policies, citing cases where illegal aliens released due to such laws have committed violent crimes. San Francisco Mayor London Breed defended the city’s stance, calling it resilient and committed to protecting its residents despite federal opposition. END OF SUMMARY.

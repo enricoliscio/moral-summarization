@@ -1,0 +1,30 @@
+Alright, I'm looking at the user's query where they want me to summarize a news article while preserving the moral framing. The user provided a specific structure: first, identify morally framed words, then write a concise summary. 
+
+I need to start by reading the article carefully. It's about President Trump accusing social media of censoring conservatives, specifically mentioning Republican voices being discriminated against. He's hinting at intervention, which suggests he's framing this as a threat to free speech and fairness. 
+
+Next, the article mentions social media companies taking action against misinformation and partisan division. They've banned pages and removed Alex Jones's content, which Trump's allies, like Jones, are framing as censorship. Jones even asked Trump to block these actions, tying it to Chinese influence, which adds another layer of conspiracy and threat.
+
+I should identify words that carry moral weight. Words like "censored," "discriminating," "dangerous," "unfairly," "censorship," "infiltrated," "penetrated," "sick behavior," "fake news," and "hostility." These terms are loaded and show the moral stance each side is taking.
+
+Now, for the summary, I need to keep it under 200 words. I'll start by stating Trump's claim of censorship, mention the companies' actions against misinformation, include Jones's plea, and Trump's response about China. I'll also note his stance on free speech and his criticism of the media, tying it back to the moral framing.
+
+I have to ensure that the summary flows well and includes all key points without being too verbose. It's important to highlight the moral aspects without losing the essence of the article. I'll structure it to show the conflict between Trump's accusations and the companies' enforcement, the role of Alex Jones, and the broader implications on media and politics.
+
+Finally, I'll make sure the summary starts with the morally framed words identified and ends with the main points, ensuring it's concise and captures the moral framing as the user requested.
+</think>
+
+**STEP 1:**  
+* Censored  
+* Discriminating  
+* Dangerous  
+* Unfairly  
+* Censorship  
+* Infiltrated  
+* Penetrated  
+* Sick behavior  
+* Fake news  
+* Hostility  
+
+**SUMMARY:**  
+President Trump accused social media platforms of unfairly censoring conservative voices, claiming they are discriminating against Republicans and conservatives. He warned that censorship is dangerous and vowed to prevent it, hinting at potential intervention. Social media companies have been cracking down on misinformation and partisan content, removing accounts linked to Alex Jones, a far-right conspiracy theorist, for hateful speech. Jones, in turn, urged Trump to block these actions and highlight Chinese interference in elections, a claim Trump echoed. Trump also criticized the media, calling outlets like CNN and MSNBC "fake news," while insisting that everyone, including both "good & bad," should be allowed to participate online. Despite his rhetoric, Trump has consistently attacked unfavorable news coverage and expressed hostility toward press freedoms. His comments reflect a broader moral framing of censorship, fairness, and the role of social media in shaping public discourse.  
+**END OF SUMMARY.**

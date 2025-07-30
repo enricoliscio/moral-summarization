@@ -1,0 +1,12 @@
+Okay, so the user has provided a query where they want me to summarize a news article. They've given specific instructions on how the summary should be formatted, starting with "SUMMARY:" and ending with "END OF SUMMARY." They also mentioned that the summary should be no longer than 200 words. 
+
+First, I need to understand the content of the article. It's about Republican senators pressuring their chairman, Michael Steele, to apologize for his comments about the Afghanistan war. Steele referred to it as "Obama's war" and suggested it might not be winnable. The backlash was significant, with some conservatives calling for his resignation. Senators DeMint and McCain criticized him, and Steele tried to clarify his stance but it didn't settle the controversy. Bill Kristol also supported the call for Steele's resignation.
+
+I should extract the main points: the criticism from senators, the nature of Steele's comments, his attempted clarification, and the ongoing controversy. I need to keep it concise, under 200 words, so I'll focus on the key actions and statements without getting into too much detail.
+
+I also need to make sure the summary starts and ends with the specified tokens. I'll structure it to mention the pressure from senators, the specifics of Steele's remarks, the reactions from DeMint and McCain, Steele's attempt to clarify, and the ongoing demand for his resignation.
+
+I should check the word count to ensure it's within the limit. Let me draft it and then count the words to make sure it's under 200. I'll also ensure that the summary is clear and captures all essential elements without unnecessary details.
+</think>
+
+SUMMARY: Republican senators are pressuring party Chairman Michael Steele to apologize for his controversial remark that Afghanistan is "Obama's war" and may not be winnable. Prominent conservatives, including Sen. Jim DeMint, have criticized Steele, calling his comments "unacceptable" and "inaccurate," while Sen. John McCain described them as "wildly inaccurate." Steele attempted to clarify his stance, stating that "America must win the war on terror" and emphasizing support for troops. However, his efforts did little to quell the controversy, with conservatives like Weekly Standard Editor Bill Kristol continuing to call for his resignation. DeMint emphasized the need for Steele to refocus on the November election and better support U.S. military efforts. END OF SUMMARY.

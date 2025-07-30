@@ -1,0 +1,35 @@
+Okay, so the user has given me a query where they want to summarize a news article while preserving the moral framing. They also want me to identify all the morally framed words first. Let me break this down.
+
+First, I need to understand what morally framed words are. These are words that carry a moral connotation, like "discriminatory," "equality," "fairness," etc. I should go through the article and pick out each word that has such a connotation.
+
+Looking at the article, the main points are about the federal recognition of same-sex marriages for tax purposes, the impact on couples in states that don't recognize their unions, and the reactions from different groups. The moral framing here is around equality, discrimination, fairness, and justice.
+
+I'll start by reading through the article and noting each morally charged word. For example, "discriminatory" appears when talking about the Defense of Marriage Act. "Equality" is mentioned by the Human Rights Campaign. "Fairness" comes up in discussions about how federal benefits are distributed. Words like "justice," "rights," "benefits," and "penalty" also carry moral weight.
+
+Next, I need to summarize the article, making sure to include these words where appropriate. The summary should be concise, under 200 words, and capture the essence of the changes, the implications, and the reactions. I'll structure it to first state the main change, then the implications for couples in non-recognizing states, the financial impacts, and the broader context of federal vs. state policies.
+
+I also need to ensure that the summary flows well and maintains the moral perspective, highlighting issues like fairness and equality without introducing new information. I'll check that each identified moral word is included where relevant, without forcing them in awkwardly.
+
+Finally, I'll make sure the summary starts with "SUMMARY:" and ends with "END OF SUMMARY." as per the instructions. I'll keep an eye on the word count to stay within the limit. 
+
+Alright, I think I've got a plan. Now, I'll proceed to identify the words and then craft the summary accordingly.
+</think>
+
+**STEP 1:**
+
+* Discriminatory  
+* Benefits  
+* Equality  
+* Fairness  
+* Justice  
+* Rights  
+* Penalty  
+* Certainty  
+* Protections  
+* Recognition  
+* Treatment  
+
+---
+
+**SUMMARY:**  
+The Treasury Department and IRS have announced that all legally married same-sex couples will be recognized as married for federal tax purposes, regardless of their state of residence. This decision, following the Supreme Court’s overturning of the Defense of Marriage Act, ensures equal treatment under federal tax laws. Couples must file as “married filing jointly” or “married filing separately,” regardless of where they live. This ruling provides certainty and clarity for same-sex couples, allowing them to move freely across states without worrying about changes in federal filing status. However, it creates complications for couples in states that do not recognize same-sex marriages, as they may face disparities in state tax filings. The ruling also addresses the “marriage penalty,” where couples may pay higher taxes, but couples can choose not to file amended returns if it disadvantages them. The decision has been praised for promoting equality and fairness, though it raises questions about discrimination and the patchwork of federal and state policies. END OF SUMMARY.

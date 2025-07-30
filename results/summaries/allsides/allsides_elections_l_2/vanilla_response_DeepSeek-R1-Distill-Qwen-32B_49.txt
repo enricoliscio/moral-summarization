@@ -1,0 +1,14 @@
+Alright, so I need to help the user by summarizing this news article. The user wants a concise summary, no longer than 200 words, and it should be returned after a "SUMMARY:" token and end with "END OF SUMMARY.".
+
+First, I'll read through the article to understand the main points. The article is discussing Trump's decision to hold the Republican convention despite the pandemic. It mentions possible reasons why Trump might have chosen to do this, like shifting blame or creating a conflict with a Democratic governor. It also talks about the potential consequences, such as creating a pandemic hotspot and the political fallout.
+
+The article contrasts Trump's behavior with Biden's criticism, highlighting Trump's recklessness and self-absorption. Biden is portrayed as emphasizing the importance of leadership and responsibility, accusing Trump of endangering lives and lacking empathy.
+
+I need to condense all this into a summary. I'll start by stating Trump's decision to hold the convention, the possible reasons, the political implications, and Biden's criticism. I'll make sure to keep it under 200 words and structure it clearly.
+
+I should also ensure that the summary captures the essence of the article without getting bogged down in details. I'll focus on the key points: Trump's decision, possible motivations, the potential negative outcomes, and Biden's response.
+
+Let me draft the summary now, keeping it concise and within the word limit.
+</think>
+
+SUMMARY: The article discusses President Trump's decision to hold the Republican National Convention amid the COVID-19 pandemic, suggesting possible motivations such as shifting blame to Democratic Governor Roy Cooper or creating a political conflict. Trump's insistence on proceeding with the convention, despite the risks, is criticized as reckless and self-absorbed, potentially alienating voters in both North Carolina and the new host state. Former Vice President Joe Biden condemns Trump's behavior, calling it dangerous and selfish, and accuses him of prioritizing optics over public health. Biden emphasizes the importance of leadership and responsibility, contrasting Trump's actions with the qualities of a mature and empathetic leader. The article highlights Trump's lack of empathy and coherence, likening his behavior to that of a schoolyard bully. Biden's criticism underscores the potential political and moral failings of Trump's decision, framing it as a key issue in the upcoming election. END OF SUMMARY.

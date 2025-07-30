@@ -1,0 +1,10 @@
+Okay, so the user has given me a task to summarize a news article about a new crew settling into the International Space Station. They want the summary to start with "SUMMARY:" and end with "END OF SUMMARY." and it should be no longer than 200 words. 
+
+First, I need to read the article carefully to understand the key points. The main points are that two Americans and a Russian have arrived at the ISS, they're there for six months, and they had to transfer their gear before settling in. The new commander is Yuri Onufrienko, taking over from Frank Culbertson. They moved a cargo carrier named Raffaello, which has supplies and will be used to bring trash back. The crew also brought personal items related to their hobbies.
+
+I should condense this into a concise summary. I'll start by mentioning the arrival and their mission duration. Then, note the transfer of gear and the new commander. Include the cargo carrier details and the personal items. Make sure it's under 200 words and flows well.
+
+I need to ensure the summary captures all important details without being too wordy. Also, check that it starts and ends with the specified tokens. Let me structure it step by step, making sure each sentence adds value without redundancy.
+</think>
+
+SUMMARY: Two American astronauts and a Russian cosmonaut arrived at the International Space Station (ISS) on Saturday, beginning a six-month mission. The crew, including Russian Yuri Onufrienko, who will serve as commander, and astronauts Daniel Bursch and Carl Walz, moved in after transferring their gear, including space suits and seat liners. The new residents also brought personal items reflecting their hobbies, such as fishing gear and a weaving kit. The space shuttle Endeavour attached a cargo carrier, Raffaello, loaded with supplies, which will later return with trash and used equipment. The departing crew, led by Frank Culbertson, has spent 128 days in space and will return in a week. END OF SUMMARY.

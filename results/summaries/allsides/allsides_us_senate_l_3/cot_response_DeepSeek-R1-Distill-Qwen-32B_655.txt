@@ -1,0 +1,23 @@
+Okay, so I need to help the user by summarizing a news article about the First Step Act while preserving the moral framing. The user has given specific instructions: first, identify all the morally framed single words, and then write a concise summary using those terms.
+
+First, I'll read through the article to understand its content. It's about a bill that's passed in the Senate, supported by both parties, aiming to reform the criminal justice system. The key points include reducing sentences for drug crimes, allowing judges more discretion, improving rehabilitation, and ending some harsh practices like shackling pregnant women. It also mentions support from various public figures and the president, and the potential impact on thousands of prisoners.
+
+Now, for the first step, I need to identify all the single words that carry moral connotations. I'll go through the article and pick out words that imply value judgments or ethical considerations. Words like "reform," "discretion," "rehabilitation," "unjust," "catastrophic," "healing," "crisis," and "common sense" come to mind. These words are used to convey the moral stance of the article, emphasizing the positive changes and the necessity of the bill.
+
+Next, I need to summarize the article in 200 words or less, making sure to include as many of these morally framed words as possible. I'll start by mentioning the bipartisan support and the passage of the bill. Then, I'll outline the main provisions: reducing sentences, allowing judicial discretion, expanding rehabilitation, and ending inhumane practices. I'll also note the support from public figures and the president, and the potential impact on prisoners. Finally, I'll include the critiques from groups like the ACLU, highlighting that while the bill isn't perfect, it's a significant step towards addressing mass incarceration.
+
+I should ensure the summary flows well and covers all the key points without being too verbose. I'll make sure to preserve the moral framing by using the identified words to convey the positive and necessary changes the bill brings. This approach should meet the user's requirements effectively.
+</think>
+
+**STEP 1:**  
+* Reform  
+* Discretion  
+* Rehabilitation  
+* Unjust  
+* Catastrophic  
+* Healing  
+* Crisis  
+* Common sense  
+
+**SUMMARY:**  
+The First Step Act, a landmark criminal justice reform bill, passed the Senate with bipartisan support, aiming to reduce harsh sentences for non-violent drug offenses and improve rehabilitation efforts. The bill, supported by figures like Donald Trump, Patricia Arquette, and Mark Cuban, allows judges more discretion in sentencing, ends inhumane practices like shackling pregnant women, and provides pathways for elderly and terminally ill inmates to return home. It also retroactively extends the 2010 Fair Sentencing Act, potentially affecting thousands of prisoners. Advocates, including Cory Booker and the ACLU, praised the bill as a step toward healing communities disproportionately impacted by mass incarceration, though they noted it is not perfect. The legislation, which applies only to federal prisoners, marks a significant bipartisan victory in addressing the nation's criminal justice crisis. END OF SUMMARY.

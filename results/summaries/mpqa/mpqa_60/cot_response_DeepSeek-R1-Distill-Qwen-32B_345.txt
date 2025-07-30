@@ -1,0 +1,36 @@
+<think>
+Okay, so I need to help the user with their query. They want me to act as a news summarizer assistant and a moral expert. The task is to summarize a news article while preserving the moral framing. 
+
+First, I'll read the article carefully. It's about Zimbabwe's elections and the fears of violence. The user provided specific instructions: identify morally framed words and then write a summary using those words.
+
+Starting with Step 1, I need to find all single words that are morally framed. I'll go through the article and pick out words that have strong moral connotations. Words like "violence," "fear," "rig," "concerns," "intolerable," "coup," "kill," "assassinate," "corruption," "shortages," "unemployment," "high treason," "elimination," "abducted," "disenfranchise," "steal," "attack," "prosecute." These words carry moral weight and are crucial for the summary.
+
+Next, for the summary, I need to condense the article into 200 words, using as many of these moral words as possible. The summary should capture the tension, the fears of violence, the election rigging, and the political stakes. I'll structure it to highlight the concerns about the election's fairness, the potential for violence, and the implications for the country's future.
+
+I'll make sure the summary flows logically, starting with the context of the election, then the fears, the accusations of rigging, the violence, and the possible outcomes. I'll ensure that the morally framed words are included to preserve the author's original moral perspective.
+
+Finally, I'll review the summary to ensure it's concise and meets the word limit. I'll check that all key points are covered and that the moral framing is clear and present throughout.
+</think>
+
+**STEP 1:**  
+* Fear  
+* Violence  
+* Rig  
+* Concerns  
+* Intolerable  
+* Coup  
+* Kill  
+* Assassinate  
+* Corruption  
+* Shortages  
+* Unemployment  
+* High treason  
+* Elimination  
+* Abducted  
+* Disenfranchise  
+* Steal  
+* Attack  
+* Prosecute  
+
+**SUMMARY:**  
+Zimbabweans fear violence as they prepare for the upcoming election, with many questioning whether the country is on the brink of civil war. Robert Mugabe, the long-ruling leader, faces a challenge from Morgan Tsvangirai, but concerns about election rigging and political violence loom large. Senior government officials and military leaders have openly stated they would not accept Tsvangirai's leadership, with some even suggesting support for a coup if he wins. At least 34 people have died in political violence this year, mostly MDC supporters. Mugabe's government has been accused of human rights violations and altering election laws to ensure his victory. These changes include increasing polling stations in rural areas, reducing them in urban areas, and banning independent monitors. A residency requirement could disenfranchise young opposition supporters. Tsvangirai has been charged with high treason for allegedly plotting to assassinate Mugabe, and there are fears of post-election chaos, including martial law or mass protests. The election is seen as a clash between Mugabe's autocratic rule and the opposition's push for change, with both sides struggling to accept a loss. END OF SUMMARY.

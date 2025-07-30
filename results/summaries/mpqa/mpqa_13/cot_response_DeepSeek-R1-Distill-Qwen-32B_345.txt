@@ -1,0 +1,40 @@
+Okay, so I'm trying to help this user who wants me to summarize a news article while preserving the moral framing. They provided a specific structure with two steps: first, identifying morally framed words, and then writing a summary. 
+
+Let me start by reading the article carefully. It's about US-Japan climate talks. The key points are that the talks ended, they discussed cooperation in science and tech to prevent global warming. The US mentioned promoting R&D, while Japan plans to ratify the Kyoto protocol. President Bush rejected Kyoto, causing international outcry, saying it hindered US growth.
+
+Now, for step one, I need to find all the single words that are morally framed. These are words that carry a positive or negative connotation in a moral sense. Looking through the article:
+
+- "voluntary" vs. "mandatory" – these imply choice vs. obligation, which are moral concepts.
+- "rejected" – has a negative connotation as it shows refusal.
+- "hindered" – implies something was stopped, which is negative.
+- "outcry" – shows strong negative reaction.
+- "ratify" – a positive action of approval.
+- "promote" – positive action of support.
+- "co-operating" – positive teamwork.
+- "voluntary" again, same as before.
+- "mandatory" same as before.
+
+So, I'll list these words: voluntary, mandatory, rejected, hindered, outcry, ratify, promote, co-operating.
+
+Moving on to the summary. I need to preserve as many of these words as possible while keeping it under 200 words. The summary should capture the essence of the talks, the differing approaches between the US and Japan, and the moral implications of Bush's decision.
+
+I'll start by stating the talks ended, mentioning the focus on science and tech. Then, note the US's voluntary approach and Japan's intent to ratify Kyoto. Highlight Bush's rejection causing an outcry and his reasoning. Make sure to include the morally framed words naturally.
+
+Putting it all together, the summary should flow logically, showing the contrast between the two countries' approaches and the moral stance each represents. I'll make sure to include all the identified words without making it sound forced.
+
+I think that covers everything. Now, time to put it into the required format.
+</think>
+
+**STEP 1:**  
+* voluntary  
+* mandatory  
+* rejected  
+* hindered  
+* outcry  
+* ratify  
+* promote  
+* co-operating  
+
+**SUMMARY:**  
+US-Japan climate talks concluded in Tokyo, focusing on science and technology cooperation to address global warming. The US emphasized promoting research and development, while Japan reaffirmed its intent to ratify the Kyoto Protocol. The discussions followed President George Bush's announcement of a new US plan advocating voluntary limits on greenhouse gas emissions, based on economic growth, rather than mandatory targets. Bush's rejection of the Kyoto Protocol last year sparked international outcry, as critics argued it hindered US economic growth. The talks marked the first bilateral meeting since the US unveiled its new climate strategy.  
+**END OF SUMMARY.**

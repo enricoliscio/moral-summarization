@@ -1,0 +1,31 @@
+Okay, I need to help the user by summarizing the given news article while preserving the moral framing. The user has specified two main steps: first, identifying all the morally framed single words, and second, writing a concise summary that includes as many of those words as possible.
+
+Starting with STEP 1, I'll go through the article to find words that carry moral connotations. The article talks about a Republican aide, Elizabeth Lauten, who made controversial remarks about the Obama daughters. Words like "berating," "class," "respect," "dignity," "condescending," "judgmental," "discrimination," "condemned," "apology," "condescension," "hypocrisy," "criticism," "fairness," "double standards," "empathy," and "double standards" stand out as they relate to moral judgments.
+
+For the summary, I need to condense the article into under 200 words, making sure to include these moral terms. I'll start by outlining the key points: Lauten's resignation, her Facebook post, the public reaction, her apology, and the broader implications about social media and respect for public figures' children. I'll weave in the morally framed words naturally to maintain the original tone.
+
+I should ensure the summary flows logically, highlighting the main events and the moral lessons. It's important to show how Lauten's comments were judged and the subsequent fallout, including the White House's response and the comparison to Patti Davis's experience. This will illustrate the broader issue of public scrutiny of first family members.
+
+Finally, I'll check the word count to make sure it's within the limit and that all key moral points are included. This approach should meet the user's requirements effectively.
+</think>
+
+**STEP 1:**  
+* berating  
+* class  
+* respect  
+* dignity  
+* condescending  
+* judgmental  
+* discrimination  
+* condemned  
+* apology  
+* condescension  
+* hypocrisy  
+* criticism  
+* fairness  
+* double standards  
+* empathy  
+* double standards  
+
+**SUMMARY:**  
+A young Republican congressional aide, Elizabeth Lauten, resigned after her Facebook post berating President Obama’s daughters for their attitude and outfits during the annual White House turkey pardon went viral. Lauten criticized the girls for lacking class and respect, suggesting they should dress more appropriately as members of the First Family. Her condescending tone and judgmental remarks sparked widespread condemnation, with many accusing her of hypocrisy and unfair criticism. Lauten later apologized, acknowledging her hurtful words and admitting she had judged the teenagers in a way she would not want to be judged herself. The incident highlights the double standards and unfair scrutiny faced by the children of public figures, as well as the dangers of social media sniping. The White House press secretary condemned the attack, and Patti Davis, daughter of Ronald Reagan, echoed the sentiment, emphasizing the unfairness of such criticism and the importance of empathy for the challenges faced by first family members. END OF SUMMARY.

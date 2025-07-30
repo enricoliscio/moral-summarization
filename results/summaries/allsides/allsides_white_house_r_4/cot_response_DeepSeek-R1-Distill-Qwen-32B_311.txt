@@ -1,0 +1,91 @@
+Okay, I need to help the user by summarizing the given news article while preserving the moral framing. The user has specified two main tasks: first, identify all the single words that are morally framed, and second, write a summary that includes as many of these words as possible.
+
+Starting with STEP 1, I'll go through the article to pick out words that carry moral connotations. Words like "realism," "limits," "power," "leading from behind," "problems," "drug cartels," "climate change," "terrorism," "unilateralism," "human rights," "internationalism," "muscular interventionism," "pushy paternalism," "abdication," "suffering," "innocents," "headline," "ignore," "truly," "care," "emotional manipulator," "effective posturing," "anger," "determination," "evil," "deployment," "short-term," "ineffective," "do all," "leave," "die," "optimism," "ouster," "allow," "take over," "undercut," "coup," "launched," "popularly-supported," "belatedly," "denounced," "shot," "belatedly," "denounced," "shot," "belatedly," "denounced," "shot," "belatedly," "denounced," "shot," "annexed," "invaded," "outrage," "scoffed," "rebel forces," "shot down," "passenger airliner," "effective action," "upset," "kidnapping," "innocent girls," "power of hashtag," "nothing," "red line," "weapons of mass destruction," "consequences," "signed," "seven-year term," "dead," "massive," "casualties," "popularity," "doctrine," "ironically," "massive unpopularity," "prolonged," "sustained action," "posturing," "massive casualties," "emotional pro," "dilettante," "dangerous combination."
+
+Now, moving on to the summary. I need to condense the article into 200 words, highlighting the moral aspects. The article criticizes Obama's foreign policy as prioritizing appearances over real action, leading to inaction in crises like Syria, Iraq, and Ukraine. It accuses him of using emotional appeals without committing to long-term solutions, resulting in high casualties. I'll structure the summary to reflect this critique, using the identified moral terms to convey the author's perspective.
+</think>
+
+**STEP 1:**  
+* Realism  
+* Limits  
+* Power  
+* Leading from behind  
+* Problems  
+* Drug cartels  
+* Climate change  
+* Terrorism  
+* Unilateralism  
+* Human rights  
+* Internationalism  
+* Muscular interventionism  
+* Pushy paternalism  
+* Abdication  
+* Suffering  
+* Innocents  
+* Headline  
+* Ignore  
+* Truly  
+* Care  
+* Emotional manipulator  
+* Effective posturing  
+* Anger  
+* Determination  
+* Evil  
+* Deployment  
+* Short-term  
+* Ineffective  
+* Do all  
+* Leave  
+* Die  
+* Optimism  
+* Ouster  
+* Allow  
+* Take over  
+* Undercut  
+* Coup  
+* Launched  
+* Popularly-supported  
+* Belatedly  
+* Denounced  
+* Shot  
+* Belatedly  
+* Denounced  
+* Shot  
+* Belatedly  
+* Denounced  
+* Shot  
+* Annexed  
+* Invaded  
+* Outrage  
+* Scoffed  
+* Rebel forces  
+* Shot down  
+* Passenger airliner  
+* Effective action  
+* Upset  
+* Kidnapping  
+* Innocent girls  
+* Power of hashtag  
+* Nothing  
+* Red line  
+* Weapons of mass destruction  
+* Consequences  
+* Signed  
+* Seven-year term  
+* Dead  
+* Massive  
+* Casualties  
+* Popularity  
+* Doctrine  
+* Irony  
+* Massive unpopularity  
+* Prolonged  
+* Sustained action  
+* Posturing  
+* Massive casualties  
+* Emotional pro  
+* Dilettante  
+* Dangerous combination  
+
+**SUMMARY:**  
+The article critiques the Obama Doctrine, arguing it prioritizes appearances over real action, leading to inaction in crises like Syria, Iraq, and Ukraine. Obama is accused of using emotional appeals without committing to long-term solutions, resulting in high casualties. His foreign policy is seen as inconsistent, with short-term actions and ineffective interventions. The author highlights Obama's failure to address suffering in Egypt, Iran, Nigeria, and Syria, where his rhetoric far exceeded his actions. The conclusion is that Obama's focus on popularity and posturing, rather than sustained leadership, has caused widespread harm. His emotional manipulation and lack of commitment to real change are deemed dangerous, leading to massive casualties and unpopularity. END OF SUMMARY.

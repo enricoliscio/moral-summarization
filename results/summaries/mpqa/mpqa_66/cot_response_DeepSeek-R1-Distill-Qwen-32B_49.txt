@@ -1,0 +1,46 @@
+Alright, so I'm trying to help this user who wants me to act as a news summarizer and moral expert. They provided a news article and specific instructions on how to process it. First, I need to understand their query thoroughly.
+
+They want me to do two main things: identify morally framed words and then summarize the article while preserving those moral terms. The user also provided an example response, which is helpful. I should follow that structure closely.
+
+Looking at the article, it's about three international organizations warning against human rights violations in the fight against terrorism. The key here is to recognize the moral framing. Words like "violation," "excessive steps," "fundamental freedoms," "legitimate dissent," "strictly adhere," "international obligations," "heavy toll," "emergency legislation," "detention," "without trial," "killings," "call for inquiry," "balance," "legitimate national security concerns," "fundamental freedoms," "right to life," "freedom of expression," "freedom of religion," "freedom from torture," "retroactive imposition," "more severe penalties," "expand," "war," "criticism," "restraint," and "military campaign" all carry moral connotations.
+
+Next, I need to summarize the article. The summary should be concise, under 200 words, and include as many of these moral terms as possible. I should start by identifying the main points: the organizations' warning, the context of September 11, the call for governments to avoid excessive measures, specific examples like UK legislation and the Afghan prison incident, the essential rights mentioned, and the criticism of potential military expansion.
+
+I need to make sure the summary flows well and covers all these points without being too lengthy. I'll structure it to first mention the organizations and their warning, then the context, followed by the specific measures they oppose, the examples given, the essential rights, and the criticism of expanding the war. I'll also highlight the balance they emphasize between security and freedoms.
+
+I should ensure that each morally framed word is included where appropriate without forcing them in. The summary needs to be clear and maintain the moral stance presented in the original article. I'll review the word count to make sure it's within the limit and adjust if necessary.
+
+Finally, I'll present the summary after the "SUMMARY:" token and end with "END OF SUMMARY." to follow the user's instructions precisely. I think that covers everything they asked for. Time to put it all together.
+</think>
+
+**STEP 1:**  
+* violation  
+* excessive steps  
+* fundamental freedoms  
+* legitimate dissent  
+* strictly adhere  
+* international obligations  
+* human rights  
+* heavy toll  
+* emergency legislation  
+* detention  
+* without trial  
+* killings  
+* call for inquiry  
+* balance  
+* legitimate national security concerns  
+* fundamental freedoms  
+* right to life  
+* freedom of expression  
+* freedom of religion  
+* freedom from torture  
+* retroactive imposition  
+* more severe penalties  
+* expand  
+* war  
+* criticism  
+* restraint  
+* military campaign  
+
+**SUMMARY:**  
+Three international organizations— the Council of Europe, OSCE, and the UN High Commissioner for Human Rights— issued a joint warning on November 29, emphasizing that the fight against terrorism must not justify human rights violations. They expressed concern over recent developments, particularly following the September 11 attacks, urging governments to avoid excessive measures that could infringe on fundamental freedoms and legitimate dissent. The statement highlighted the importance of adhering to international obligations to protect rights such as the right to life, freedom of expression, religion, and freedom from torture. It also opposed retroactive imposition of harsher penalties. This call came amid criticism of the UK's emergency legislation allowing detention without trial and the deadly prison uprising in Afghanistan. The organizations stressed the need for a balance between national security and fundamental freedoms, while also addressing concerns over potential military action against Iraq. END OF SUMMARY.

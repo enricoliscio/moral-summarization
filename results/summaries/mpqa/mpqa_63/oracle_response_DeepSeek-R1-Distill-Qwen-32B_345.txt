@@ -1,0 +1,14 @@
+Okay, so I need to summarize this news article about the space station's railcar. The user mentioned that I should preserve the moral framing the author used. Hmm, I'm not entirely sure what "morally framed words" mean here. Maybe it refers to the tone or the way the author presents the events, highlighting the challenges and the team's response.
+
+Looking at the article, the railcar had some issues during its test run. It got off track a couple of times, and they had to manually take over control. The author used words like "snag," "problem," "blamed," "snag," "snail's pace," "smoothly," "set for," "needed," "installed," "adjust," "nuisance," "danger," "rings," "planned," "final." These words might carry a certain tone, perhaps showing the challenges faced and the team's persistence.
+
+I should make sure to include these words in the summary. The summary needs to be concise, under 200 words, and after a "SUMMARY:" token, ending with "END OF SUMMARY." I need to capture the main points: the railcar's initial test, the issues encountered, the cause (weightlessness), the manual intervention, and the future plans.
+
+I'll start by mentioning the test run, then the problem with the car floating off track, the manual control, the successful movement after that, and the plans for its future use. I should also note the engineer's comment about adjusting software if needed and the safety measures in place.
+
+Let me structure this: begin with the test, mention the snag and cause, describe the manual intervention, the successful movement, the engineer's comment, safety measures, and future use. Make sure to include all the morally framed words as much as possible without making it sound forced.
+
+I need to keep it clear and concise, ensuring that the summary flows well and includes all necessary details while preserving the original tone of the article.
+</think>
+
+SUMMARY: Astronauts tested the International Space Station's new railcar, but it encountered a snag when it floated slightly off the track due to weightlessness, causing magnetic sensors to lose contact. Ground controllers took manual control, successfully latching the car and moving it to the next workstation. The issue repeated during subsequent tests, but the railcar ultimately reached its destination. NASA engineers may adjust the software if the problem persists, though the car is safe due to end rings on the girder. The railcar is needed to transport the space station's robot arm during future construction phases. The first use is planned for late summer. END OF SUMMARY.

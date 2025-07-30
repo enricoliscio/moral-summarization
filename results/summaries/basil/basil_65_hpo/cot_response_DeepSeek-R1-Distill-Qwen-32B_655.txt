@@ -1,0 +1,39 @@
+Alright, I need to help the user by summarizing the given news article while preserving the moral framing. Let me start by understanding the task. The user wants two things: first, to identify all single words that are morally framed in the article, and second, to write a concise summary using those words.
+
+First, I'll read through the article carefully. Michael Bloomberg is speaking at the Democratic National Convention, criticizing Donald Trump and endorsing Hillary Clinton. The key points are about Trump's competence, business practices, and character. 
+
+Looking for morally framed words, I'll go through each sentence. Words like "sane," "competent," "dangerous demagogue," "bad businessman," "disastrous," "con," "bankruptcies," "lawsuits," "cheated," "ripped off," "hypocrisy," "wealth," "ego," "intellect," "success," "influence," "damage," "unemployment," "safe." These terms carry strong moral judgments about Trump's suitability as a leader.
+
+Next, I need to write a summary that includes these words. The summary should be under 200 words, so I'll condense the main points: Bloomberg's endorsement of Clinton, his criticism of Trump's business record, and the moral implications of Trump's presidency. I'll make sure to include the identified words to maintain the original moral framing.
+
+I should structure the summary to highlight Bloomberg's arguments against Trump, using the morally charged terms. This will ensure the summary reflects the author's original stance and tone. I'll start by mentioning Bloomberg's endorsement, then move into the specifics of his criticisms, and conclude with the potential consequences of a Trump presidency.
+
+I need to be concise but thorough, ensuring all key points are covered without exceeding the word limit. I'll check the word count to make sure it's within the limit. Also, I'll ensure that the summary flows logically, connecting each point smoothly.
+
+Finally, I'll review the summary to make sure it accurately represents the article's content and maintains the moral framing. This way, the user gets a clear, concise summary that preserves the original message and tone.
+</think>
+
+**STEP 1:**  
+* sane  
+* competent  
+* dangerous demagogue  
+* bad businessman  
+* disastrous  
+* con  
+* bankruptcies  
+* lawsuits  
+* cheated  
+* ripped off  
+* hypocrisy  
+* wealth  
+* ego  
+* intellect  
+* success  
+* influence  
+* damage  
+* unemployment  
+* safe  
+
+**SUMMARY:**  
+Michael Bloomberg, a former New York mayor and Democratic endorser of Hillary Clinton, criticized Donald Trump at the Democratic National Convention, calling him a "dangerous demagogue" and a "bad businessman." Bloomberg highlighted Trump's record of bankruptcies, lawsuits, and disappointed stakeholders, arguing that Trump's claims of success do not match reality. He mocked Trump's business acumen, inheritance, and ego, labeling him a "con artist" and a "hypocrite." Bloomberg emphasized that Trump's presidency would harm the economy, retirement savings, and national influence, urging voters to choose a "sane, competent" leader instead. Bloomberg's speech aimed to expose Trump's lack of qualifications and the potential damage of a Trump administration, while also showcasing his own achievements as a successful businessman and politician.  
+**END OF SUMMARY.**

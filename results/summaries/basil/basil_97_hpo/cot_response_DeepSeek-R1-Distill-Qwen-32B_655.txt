@@ -1,0 +1,34 @@
+Okay, I need to help the user by summarizing the given news article while preserving the moral framing. The user has provided a specific structure with two steps: identifying morally framed words and then writing the summary.
+
+First, I'll read through the article to understand the context. It's about the For The People Act passing in the House, focusing on campaign finance, voting rights, and ethics reforms. The article mentions the bill's goals, the Democratic support, Republican opposition, and the implications of the legislation.
+
+For Step 1, I need to identify all single words that carry moral connotations. I'll go through the text and pick out words that express values or judgments. Words like "landmark," "priority," "expand," "restore," "opportunity," "history," "corruption," "endemic," "power grab," "assault," "lazy," "opponent," "restrict," "reform," "popular," "fight," and "change" seem to fit. These words reflect the moral stance of the article, showing support for the bill and opposition from Republicans.
+
+Next, for the summary, I need to condense the article into 200 words, keeping the morally framed words. I'll start by stating the bill's passage, its key provisions, and the Democratic perspective. Then, I'll mention Republican opposition, the Senate's stance, and the Democrats' plans to keep the issues prominent. I'll ensure to include words like "landmark," "opportunity," "corruption," "opponent," and "change" to maintain the moral framing.
+
+I should make sure the summary flows logically, covering the main points: the bill's passage, its provisions, support from Democrats, opposition from Republicans, Senate's inaction, and future plans. I'll also highlight the moral implications, such as fighting corruption and ensuring fair elections.
+
+Finally, I'll check the word count to ensure it's under 200 words and that all key points are included without being too verbose. I'll make sure the summary is clear and preserves the original article's moral perspective.
+</think>
+
+**STEP 1:**  
+* landmark  
+* priority  
+* expand  
+* restore  
+* opportunity  
+* history  
+* corruption  
+* endemic  
+* power grab  
+* assault  
+* lazy  
+* opponent  
+* restrict  
+* reform  
+* popular  
+* fight  
+* change  
+
+**SUMMARY:**  
+The For The People Act, a landmark Democratic bill, passed the House, aiming to expand voting access, fund elections publicly, and combat corruption. Democrats, led by Nancy Pelosi, viewed it as a historic opportunity to empower the American people and end elite control. The bill faced Republican opposition, with critics labeling it a power grab and an assault on free speech. Despite its passage, the Senate, led by Mitch McConnell, is unlikely to act, as Republicans have opposed similar reforms. Democrats remain committed to fighting for these reforms, seeing it as a pivotal step to change politics and ensure fair elections. The bill reflects a moral stance against inequality and corruption, with Democrats framing it as a necessary step to restore democracy. END OF SUMMARY.

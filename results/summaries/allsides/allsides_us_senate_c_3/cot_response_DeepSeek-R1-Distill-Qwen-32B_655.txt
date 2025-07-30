@@ -1,0 +1,145 @@
+Okay, so I need to help the user with their query. They provided a news article and asked me to act as a news summarizer assistant and a moral expert. My task is to summarize the article while preserving the moral framing. 
+
+First, I have to identify the morally framed words. The user specified that I should look for single words that carry moral connotations. I'll go through the article and pick out words that express judgment or moral evaluation. Words like "Shutdown," "Complicity," "Hostage," "Chaos," "Suffering," "Bargaining chip," "Trojan Horse," "Destroy," "Attack," "Special," "Compromise," "Common-sense," "Embrace," "Correctly," "Cave," "Filibuster," "Threshold," "Hard," "Require," "Support," "Opportunity," "End," "Staring," "Face," "Put," "Country," "Politics," "Take," "Answer," "Behind," "Proposal," "Encourage," "Offer," "Vote," "Open," "Government," "Continue," "Conversations," "Accused," "Playing," "Games," "Back down," "Demand," "Never," "Border," "National," "Security," "Crime," "Rates," "Drugs," "Substantially," "Down," "Know," "But," "Want," "Play," "Must," "Finally," "Done," "Correctly," "No," "Cave," "Struck," "Less-confrontational," "Tone," "Outlined," "Common-sense," "Compromise," "Embrace," "Fund," "End," "Shutdown," "Released," "Draft," "Legislation," "Proposals," "Provide," "Wall," "Years," "Protection," "Young," "Immigrants," "Temporarily," "Protected," "Aid," "Victims," "Hurricanes," "Wildfires," "Natural," "Disasters," "Criticism," "Immigration," "Groups," "Change," "Minors," "Central," "America," "Asylum," "Apply," "Home," "Country," "Southwest," "Border," "Limited," "Approved," "National," "Interest," "Trojan," "Horse," "Stephen," "Miller," "Special," "Destroy," "Concept," "Asylum," "Major," "Change," "Historic," "Closed," "Asylum," "Protections," "Passed," "Temporarily," "Fund," "Department," "Homeland," "Security," "Included," "Latest," "Bill."
+
+Next, I need to summarize the article, making sure to include as many of these moral words as possible without exceeding 200 words. The summary should capture the key points: the Senate voting on bills to end the shutdown, the border wall funding, the Democrats' refusal, the proposed compromise, the criticism from immigration groups, and the ongoing stalemate.
+
+I'll structure the summary by first mentioning the Senate's vote, then the two bills, the opposition from Democrats, the details of the compromise bill, the criticism it received, and the House's stance. I'll ensure that the moral terms are integrated to reflect the author's framing.
+
+I should check that the summary is concise and flows well, while preserving the moral elements. I'll avoid adding any new information not present in the article and stick strictly to summarizing the content with the identified moral words included.
+</think>
+
+**STEP 1:**  
+* Shutdown  
+* Complicity  
+* Hostage  
+* Chaos  
+* Suffering  
+* Bargaining chip  
+* Trojan Horse  
+* Destroy  
+* Attack  
+* Special  
+* Compromise  
+* Common-sense  
+* Embrace  
+* Correctly  
+* Cave  
+* Filibuster  
+* Threshold  
+* Hard  
+* Require  
+* Support  
+* Opportunity  
+* End  
+* Staring  
+* Face  
+* Put  
+* Country  
+* Politics  
+* Take  
+* Answer  
+* Behind  
+* Proposal  
+* Encourage  
+* Offer  
+* Vote  
+* Open  
+* Government  
+* Continue  
+* Conversations  
+* Accused  
+* Playing  
+* Games  
+* Back down  
+* Demand  
+* Never  
+* Border  
+* National  
+* Security  
+* Crime  
+* Rates  
+* Drugs  
+* Substantially  
+* Down  
+* Know  
+* But  
+* Want  
+* Play  
+* Must  
+* Finally  
+* Done  
+* Correctly  
+* No  
+* Cave  
+* Struck  
+* Less-confrontational  
+* Tone  
+* Outlined  
+* Common-sense  
+* Compromise  
+* Embrace  
+* Fund  
+* End  
+* Shutdown  
+* Released  
+* Draft  
+* Legislation  
+* Proposals  
+* Provide  
+* Wall  
+* Years  
+* Protection  
+* Young  
+* Immigrants  
+* Temporarily  
+* Protected  
+* Aid  
+* Victims  
+* Hurricanes  
+* Wildfires  
+* Natural  
+* Disasters  
+* Criticism  
+* Immigration  
+* Groups  
+* Change  
+* Minors  
+* Central  
+* America  
+* Asylum  
+* Apply  
+* Home  
+* Country  
+* Southwest  
+* Border  
+* Limited  
+* Approved  
+* National  
+* Interest  
+* Trojan  
+* Horse  
+* Stephen  
+* Miller  
+* Special  
+* Destroy  
+* Concept  
+* Asylum  
+* Major  
+* Change  
+* Historic  
+* Closed  
+* Asylum  
+* Protections  
+* Passed  
+* Temporarily  
+* Fund  
+* Department  
+* Homeland  
+* Security  
+* Included  
+* Latest  
+* Bill  
+
+**SUMMARY:**  
+The Senate is set to vote on two bills to end the longest government shutdown in history, with one offering $5.7 billion for a border wall and other concessions. Senate Majority Leader Mitch McConnell urged Democrats to prioritize the country over politics, while President Trump accused Democrats of playing games and demanded border wall funding. A proposed compromise bill includes border wall funding, asylum changes, and disaster aid, but faces criticism for limiting asylum protections. House Democrats oppose the wall funding and propose a bill without it, which is unlikely to pass the Senate. Centrist Democrats are pushing for a compromise, but Trump threatens to veto any bill not meeting his demands. The shutdown continues, with both sides accusing each other of holding the country hostage. END OF SUMMARY.

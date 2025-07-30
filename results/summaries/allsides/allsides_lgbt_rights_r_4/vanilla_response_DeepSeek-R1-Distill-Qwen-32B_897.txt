@@ -1,0 +1,16 @@
+Okay, so the user has given me a query where they want me to act as a news summarizer assistant. They provided a news article about Christian leaders' reactions to the Supreme Court's decision on same-sex marriage. My task is to summarize this article, making sure it's under 200 words and properly formatted with the specified tokens.
+
+First, I need to read through the article carefully to understand the main points. The article talks about how Christian leaders are responding with love, concern, and some even warning of civil disobedience after the Supreme Court's decision. The court ruled that same-sex couples have a constitutional right to marry nationwide, overturning the remaining 14 states' traditional definitions.
+
+I notice that several leaders are quoted, expressing concerns about religious liberty. For example, Mike Huckabee and Bob Vander Plaats are critical, calling the ruling tyrannical and unconstitutional. Others, like Rev. Albert Mohler, emphasize speaking the truth in love. The article also mentions efforts by organizations like the Southern Baptist Convention and the Alliance Defending Freedom to provide guidance to churches, and some leaders are considering civil disobedience.
+
+I need to condense all this information into a concise summary. I should highlight the key reactions, the concerns about religious freedom, and the actions being taken by these leaders and organizations. It's important to mention the main points without getting too bogged down in details, ensuring the summary is clear and within the word limit.
+
+I should start by stating the Supreme Court's decision, then move on to the reactions from different leaders, their concerns about religious liberty, and the steps they're taking in response. I'll make sure to include the names of the leaders and organizations mentioned to give context. Finally, I'll wrap it up by noting the potential impact on religious freedom and the call for civil disobedience.
+
+Let me check the word count to ensure it's under 200 words. I'll structure the summary in a logical flow, starting with the court's decision, followed by the reactions, concerns, and responses from the leaders and organizations. This should provide a comprehensive yet concise overview of the article.
+</think>
+
+SUMMARY:  
+The U.S. Supreme Court has ruled that same-sex couples have a constitutional right to marry nationwide, overturning the remaining 14 states' traditional marriage definitions. Christian leaders are reacting with concern, warning of potential threats to religious liberty. Former governor Mike Huckabee and conservative activist Bob Vander Plaats criticized the decision as unconstitutional. Rev. Albert Mohler urged Christians to "speak the truth in love," while others, like Jim Campbell, argue the ruling limits democratic debate on marriage policy. Many faith leaders fear the decision could marginalize those with biblical worldviews. Organizations like the Southern Baptist Convention and the Alliance Defending Freedom are offering guidance to churches, and some leaders, including Liberty Counsel's Mat Staver, have called for civil disobedience. The ruling has sparked debates over religious freedom and its societal impact.  
+END OF SUMMARY.

@@ -1,0 +1,18 @@
+<think>
+Okay, I need to summarize the given news article about Chris Christie declaring his candidacy for president. The user wants a concise summary, no longer than 200 words, and it should be returned after a "SUMMARY:" token and end with "END OF SUMMARY." token.
+
+First, I'll read through the article to understand the main points. The article talks about Christie's announcement, his personality, his criticism of other candidates, his record, and his campaign strategy.
+
+I should highlight that Christie is running for president with confidence, emphasizing his straight-talking style. He's criticizing other candidates, especially those in the Senate, for lacking governance experience. He's also criticizing Obama and Clinton's foreign policies.
+
+It's important to mention his background, like being a two-term governor, but also note the challenges he's facing, such as his declining popularity and the state's issues like pension problems and scandals.
+
+His campaign is focusing on his personality and town hall meetings, targeting New Hampshire. However, he's facing tough competition from other candidates who have more financial backing or appeal to conservatives.
+
+I should structure the summary to include his declaration, his strengths (personality, experience), weaknesses (state's problems, low voter support), and his campaign strategy. Also, mention the challenges he's up against.
+
+Now, I'll condense all this into a coherent summary, making sure it's under 200 words and flows well.
+</think>
+
+SUMMARY:  
+Gov. Chris Christie announced his candidacy for president, emphasizing his straight-talking, no-nonsense style and experience as a two-term governor of New Jersey. He criticized his Republican rivals, particularly those in the Senate, for lacking governance experience, and faulted President Obama and Hillary Clinton for weak foreign policies. Christie, whose popularity has declined amid state challenges like pension issues and scandals, is banking on his personality and town hall-style campaign to stand out. He plans to focus on New Hampshire, known for its town meetings, rather than the traditional early-state tour. Despite his campaign's focus on his record and blunt communication, Christie faces significant challenges, including low voter support and competition from better-funded and more appealing candidates. His campaign hinges on his ability to connect with voters through his charisma and authenticity, though his message occasionally relies on clichés. END OF SUMMARY.

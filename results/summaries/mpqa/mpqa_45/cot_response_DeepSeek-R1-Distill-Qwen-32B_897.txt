@@ -1,0 +1,32 @@
+Okay, I need to help the user by summarizing the given news article while preserving the moral framing. The user has specified two steps: first, identifying all the morally framed single words, and second, writing a concise summary that includes as many of those words as possible.
+
+Starting with STEP 1, I'll go through the article to find words that carry moral connotations. Words like "suspended," "protest," "ignored," "disdain," "wrath," "excessive force," "detained," "restrictions," "deny," "commitment," "respect," "independence," "undermine," "erode," "controversial," "critique," "promised," "fair," and "unjust" stand out as they express moral judgments or evaluations.
+
+For the SUMMARY, I need to condense the article into under 200 words, ensuring the moral framing is maintained. I'll focus on the key points: NGOs suspending engagements with Suhakam, the government's dismissal of reports, the deteriorating human rights situation, concerns over commissioners' appointments, and the criticism from Suhakam. I'll make sure to include the morally framed words identified earlier to preserve the author's tone.
+
+I should structure the summary to first mention the boycott, then the reasons behind it, the impact on human rights, the concerns about commissioners, and the opposing viewpoints. Keeping it concise but comprehensive, ensuring all main points are covered without exceeding the word limit.
+</think>
+
+### STEP 1:  
+* suspended  
+* protest  
+* ignored  
+* disdain  
+* wrath  
+* excessive force  
+* detained  
+* restrictions  
+* deny  
+* commitment  
+* respect  
+* independence  
+* undermine  
+* erode  
+* controversial  
+* critique  
+* promised  
+* fair  
+* unjust  
+
+### SUMMARY:  
+Thirty-two NGOs have suspended engagements with Malaysia's Human Rights Commission (Suhakam) for 100 days, protesting the government's poor response to its recommendations. The NGOs criticized the government for ignoring Suhakam's reports, including one谴责 police excesses, and for failing to address human rights issues like arbitrary detentions and restrictions on free speech. They also expressed concern over the appointment of former attorney-general Abu Talib as Suhakam chair, questioning his commitment to civil liberties. The NGOs accused the government of undermining Suhakam's independence and eroding public confidence. They will monitor Suhakam's performance and decide whether to continue the boycott after 100 days. Suhakam Commissioner Hamdan Adnan called the boycott "unfair," urging NGOs to collaborate instead. The NGOs emphasized their focus on improving human rights in Malaysia, not just on the number of reports produced. END OF SUMMARY.

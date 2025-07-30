@@ -1,0 +1,23 @@
+Okay, so I'm trying to help the user with their query. They provided a news article about Michele Bachmann and a specific task. They want me to act as a news summarizer and moral expert. The task has two parts: first, identify all the single words that are morally framed, and second, write a summary preserving those moral words.
+
+Starting with STEP 1, I need to go through the article and pick out words that carry moral connotations. Words like "disrespectful," "sexist," "outrage," "biased," "controversy," and "creepy" come to mind. These words are used to convey judgments or evaluations, so they fit the moral framing.
+
+Next, for the summary, I need to condense the article into 200 words, keeping those moral terms. The article talks about the Newsweek cover of Michele Bachmann, the reaction from conservatives and feminists, and past controversial covers. I should highlight the key points and include the moral words to maintain the author's framing.
+
+I need to make sure the summary is concise but covers all main points: the cover image, reactions, the article content, Newsweek's response, and previous controversies. Also, I should end with the specified tokens to format it correctly.
+
+Let me check if I included all the moral words and if the summary flows well. I think it's good, but I'll make sure it's under 200 words and that the moral framing is preserved.
+</think>
+
+**STEP 1:**  
+* Disrespectful  
+* Sexist  
+* Outrage  
+* Biased  
+* Controversy  
+* Creepy  
+
+**SUMMARY:**  
+This week’s Newsweek magazine features a cover image of Republican presidential candidate Michele Bachmann, labeled “The Queen of Rage,” sparking controversy. Critics, including conservative bloggers and feminist groups, argue the image is disrespectful and sexist, questioning if such treatment would ever be applied to a male candidate. Newsweek defended itself by posting additional photos of Bachmann, showing her with the same wide-eyed intensity. The cover accompanies an article by Lois Romano about Bachmann’s role in the Tea Party movement. While the article itself has not caused significant outrage, Newsweek’s cover choice has reignited debates about media bias and sexism. This is not the first time Newsweek has faced criticism for its cover choices, including past controversies over photos of Sarah Palin and Catherine, the Duchess of Cambridge.  
+
+**END OF SUMMARY.**

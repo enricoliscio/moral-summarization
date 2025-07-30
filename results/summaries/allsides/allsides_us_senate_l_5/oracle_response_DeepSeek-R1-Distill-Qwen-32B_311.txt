@@ -1,0 +1,15 @@
+<think>
+Alright, so the user has given me a query where I need to summarize a news article while preserving the moral framing. The article is about a bill related to equal pay for women, with Democrats and Republicans having opposing views. The user wants the summary to include as many of the morally framed words as possible, which are listed.
+
+First, I need to understand the key points of the article. The bill aims to prevent pay discrimination against women. Democrats argue it closes loopholes and protects women's rights, while Republicans say it's politically motivated, benefits trial lawyers, and burdens employers. The vote failed, but Democrats plan to bring it back.
+
+Next, I should identify the morally charged words from the article: discrimination, ahead, stick, less, stand, wrong, dealing, politics, nothing, allows, overreach, addressing, goes, burden, back, giving, pay, rights. I need to incorporate these into the summary.
+
+I'll start by outlining the main events: the bill's purpose, the vote outcome, reactions from both parties, and the vow to reintroduce the bill. I'll use the listed words to frame the summary morally, ensuring each side's arguments are represented with the appropriate language.
+
+I need to keep the summary concise, under 200 words. I'll structure it to first present the Democrats' stance, then the Republicans', and conclude with the Democrats' determination. I'll make sure to include words like "discrimination," "ahead," "wrong," "politics," "burden," "back," "rights," etc., to maintain the moral framing.
+
+Finally, I'll review the summary to ensure it's within the word limit and that all key points are covered with the necessary moral terms. I'll avoid any markdown and keep the summary clear and focused.
+</think>
+
+SUMMARY: A Democratic bill aimed at preventing pay discrimination against women was blocked by Republicans, who argued it was politically motivated and would benefit trial lawyers at employers' expense. The measure, which failed to reach the required 60 votes, would have closed loopholes in the 1963 Equal Pay Act, requiring employers to prove pay differences were based on job performance and not gender. It also allowed women to sue for damages if they faced discrimination. Democrats criticized Republicans for prioritizing politics over women's rights, while Republicans accused the bill of being an overreach that would burden employers with costly lawsuits. Senate Majority Leader Harry Reid accused Republicans of ignoring the issue of women earning less than men, while Sen. Mike Enzi called the bill a "trial lawyers bonanza." Retiring Sen. Olympia Snowe, a moderate Republican, also opposed the bill, calling it "regrettable." Democrats, led by Sen. Barbara Mikulski, vowed to bring the bill back until it passes, emphasizing their commitment to equal pay and rights. END OF SUMMARY.

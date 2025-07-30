@@ -1,0 +1,34 @@
+<think>
+Okay, so the user has given me a query where I need to act as a news summarizer assistant and a moral expert. The task is to summarize a news article while preserving the moral framing the author used. The user provided specific instructions in two steps: first, identifying all single words that are morally framed, and then writing a concise summary using those words.
+
+First, I need to understand what morally framed words are. These are words that carry a moral judgment or imply a value judgment. For example, words like "criticizes," "abuses," "discrimination," etc., have a moral connotation.
+
+Looking at the provided news article, I should go through each sentence and pick out words that have this moral framing. I'll list them each starting with an asterisk. 
+
+Next, I need to write a summary. The summary should be no longer than 200 words and include as many of the morally framed words as possible. I need to make sure the summary accurately reflects the original article's content and maintains the moral perspective presented.
+
+I should ensure that the summary captures the main points: China's criticism of the US human rights report, the specific issues China points out (police abuses, poverty, racial discrimination, lack of personal safety, military operations, withdrawal from Kyoto Protocol), and the context of China responding to the US report.
+
+I also need to make sure the summary flows well and is concise. I'll start by identifying the key elements: China's annual report, the accusations against the US, the specific issues mentioned, and the mutual accusations between the two countries.
+
+After listing the morally framed words, I'll structure the summary to include these words, ensuring the moral framing is preserved. I'll make sure the summary doesn't exceed 200 words and ends with the specified tokens.
+
+Finally, I'll review the summary to ensure it's accurate, concise, and maintains the moral perspective from the original article.
+</think>
+
+**STEP 1:**  
+* Criticizes  
+* Abuses  
+* Distorted  
+* Accused  
+* Infringing  
+* Sovereignty  
+* Withdrawal  
+* Slammed  
+* Distorted  
+* Blind eye  
+* Problems  
+
+**SUMMARY:**  
+China has released its annual human rights report criticizing the United States for hypocrisy, accusing it of ignoring its own human rights issues while condemning others. The report highlights police abuses, poverty, racial discrimination, and lack of personal safety in the U.S., while also accusing Washington of "wantonly infringing" on other nations' sovereignty through military operations and overseas troop deployments. It further condemns the U.S. for withdrawing from the Kyoto Protocol. China released the report in response to the U.S. State Department's global human rights report, which often accuses China of widespread abuses. The Chinese report accuses the U.S. of acting as a "world judge of human rights" while ignoring its own problems.  
+END OF SUMMARY.

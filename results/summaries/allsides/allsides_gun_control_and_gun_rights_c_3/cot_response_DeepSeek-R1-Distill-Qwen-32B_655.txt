@@ -1,0 +1,41 @@
+Okay, so the user has provided a news article and wants me to summarize it while preserving the moral framing. They also want me to identify all the morally framed single words first. Let me break this down.
+
+First, I need to understand what "morally framed" words mean. These are words that carry a strong positive or negative connotation, indicating approval or disapproval. So I'll go through the article and pick out words that are used to convey judgment or moral stance.
+
+Looking at the article, the San Francisco Board of Supervisors is declaring the NRA a "domestic terrorist organization." That's a strong negative term. They also mention the "epidemic of gun violence," which is another negative framing. The resolution talks about the NRA spreading "propaganda" and "misinforming" the public, which are negative words. The NRA is described as "absolutely disgraceful" and "out for what they really are," which are clearly negative. 
+
+The resolution points out that 100 Americans are killed daily, which highlights the severity, so "killed" is a strong word. The NRA's opposition to gun control is seen as "standing in the way of saving lives," so "saving lives" is positive. The NRA's statement calls the resolution a "worthless" and "disgusting" "soundbite remedy," which are negative. They also mention it's a "reckless assault" on their freedoms, another negative term. 
+
+The article mentions recent mass shootings, so "mass shootings" is a negative framing. NRA is "condemned" by the resolution, which is negative. Walmart's decision to stop selling ammo is seen as not making them "safer," so "safer" is positive. Senate Majority Leader McConnell is under pressure, so "pressure" is a neutral term but used in a context of moral urgency. President Trump's support is mentioned, but it's more factual.
+
+Now, compiling all these words: domestic terrorist, epidemic, misinforms, deceive, disgraceful, killed, reckless, assault, worthless, disgusting, soundbite remedy, mass shootings, condemned, safer, pressured.
+
+Next, I need to write a summary that includes as many of these words as possible, keeping it under 200 words. The summary should reflect the moral stance of the article, so I'll highlight the negative framing towards the NRA and the positive stance towards gun control.
+
+I'll start by stating the resolution, use "domestic terrorist," mention the epidemic, the NRA's actions, the resolution's call for distancing, the negative impact on public understanding, the daily deaths, the NRA's opposition hindering life-saving measures, the resolution's passage, the NRA's condemnation, their criticism of the resolution, recent shootings, and the political pressure.
+
+I need to ensure the summary flows well and includes all key points while preserving the moral language. I'll make sure to mention the resolution's impact, the NRA's response, and the context of recent events leading to increased attention on gun control.
+
+Let me draft the summary, making sure each sentence includes the moral words where appropriate. I'll check the word count to stay within 200 words.
+</think>
+
+**STEP 1:**  
+* domestic terrorist  
+* epidemic  
+* misinforms  
+* deceive  
+* disgraceful  
+* killed  
+* reckless  
+* assault  
+* worthless  
+* disgusting  
+* soundbite remedy  
+* mass shootings  
+* condemned  
+* safer  
+* pressured  
+
+**SUMMARY:**  
+The San Francisco Board of Supervisors unanimously passed a resolution declaring the National Rifle Association (NRA) a "domestic terrorist organization," linking it to the "epidemic of gun violence" in the U.S. The resolution condemns the NRA for spreading "propaganda" that misinforms the public about the dangers of gun violence and urges the city to distance itself from the organization. Supervisor Catherine Stefani called the NRA "absolutely disgraceful" and "standing in the way of saving lives." The resolution highlights that 100 Americans are killed daily by gun violence, a rate 25 times higher than in other high-income countries. The NRA condemned the resolution, calling it a "worthless" and "disgusting" "soundbite remedy" to the violence epidemic. This move follows recent mass shootings and increased national attention on gun control. The NRA also criticized Walmart's decision to stop selling certain ammunition, claiming it would not make people "safer." Senate Majority Leader Mitch McConnell faces pressure to address gun control, while President Trump's discussions with NRA head Wayne LaPierre have drawn attention to the issue.  
+**END OF SUMMARY.**

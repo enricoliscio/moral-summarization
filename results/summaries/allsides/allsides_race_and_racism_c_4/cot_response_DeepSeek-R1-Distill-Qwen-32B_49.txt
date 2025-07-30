@@ -1,0 +1,69 @@
+<think>
+Okay, I need to help the user by summarizing a news article while preserving the moral framing. Let me start by understanding the task. The user wants me to first identify all the single words that are morally framed in the text. Then, I have to write a concise summary that includes as many of these morally charged words as possible, keeping it under 200 words.
+
+First, I'll read through the article to get a sense of its content. It's about the discovery of mass graves from the 1921 Tulsa race massacre, which is a significant but often overlooked event in American history. The article discusses how the event was buried, the destruction of the Greenwood District, and the efforts to erase its memory.
+
+Now, for STEP 1, I need to pick out words that carry moral weight. These are words that evoke strong emotions or imply blame, harm, or injustice. Let me go through the text again, line by line.
+
+In the first paragraph, words like "mass graves," "violence," "buried," "vibrant," "success," "assault," "resentment," "violence," "burned," "homeless," "deaths," "forgotten." These all have moral connotations.
+
+Next, the article mentions the HBO show, so "fictionalized" might not be moral, but "unknown" relates to the neglect of history. Then, "hesitant," "hush-hush," "declined," "paper trail," "strip," "evidence," "euphemism," "minimized," "omitted," "preferred narrative," "progress," "absolved," "victims," "common knowledge," "whitewashed," "sanitized," "history," "curriculum," "textbooks," "massacre," "contradicts," "passive victims," "violence," "dogma," "scrambles," "timeline," "forget."
+
+I think I've got all the morally framed words. Now, I need to make sure each is on a new line starting with *.
+
+Moving on to the summary. I need to condense the article, highlighting the key points while using the morally framed words. The summary should mention the discovery, the historical context, the violence, the cover-up, the erasure from history, and the ongoing efforts to remember it. I should ensure that the moral framing is preserved, so words like "mass graves," "violence," "buried," "success," "assault," etc., are included.
+
+I'll start by introducing the discovery, then the historical event, the violence, the cover-up, the erasure, and the current efforts to uncover and remember. I'll make sure the summary flows logically and stays within the word limit.
+
+Let me draft the summary:
+
+Scientists in Tulsa discovered evidence of mass graves linked to the 1921 race massacre, highlighting the buried history of racial violence. The Greenwood District, known as "Black Wall Street," was destroyed when white mobs attacked after a false accusation, resulting in widespread destruction, deaths, and erasure from history. The event, often mislabeled as a riot, was systematically covered up, with little documentation and exclusion from educational materials. Efforts to excavate and identify victims continue, aiming to honor the victims and confront the whitewashed narrative of American history.
+
+I think this captures the moral framing and the key points. I should check the word count to ensure it's under 200. It looks good. Now, I'll present the step-by-step process as per the user's instructions.
+</think>
+
+**STEP 1:**
+* buried
+* racial violence
+* deadly
+* successful
+* vibrant
+* assault
+* resentment
+* boiled over
+* violence
+* looting
+* burning
+* killing
+* homeless
+* deaths
+* forgotten
+* hesitant
+* hush-hush
+* declined
+* paper trail
+* strip
+* evidence
+* euphemism
+* minimized
+* omitted
+* preferred narrative
+* progress
+* absolved
+* victims
+* common knowledge
+* whitewashed
+* sanitized
+* curriculum
+* textbooks
+* massacre
+* contradicts
+* passive victims
+* violence
+* dogma
+* scrambles
+* timeline
+* forget
+
+**SUMMARY:**
+Scientists in Tulsa discovered evidence of mass graves linked to the 1921 race massacre, highlighting the buried history of racial violence. The Greenwood District, known as "Black Wall Street," was destroyed when white mobs attacked after a false accusation, resulting in widespread destruction, deaths, and erasure from history. The event, often mislabeled as a riot, was systematically covered up, with little documentation and exclusion from educational materials. Efforts to excavate and identify victims continue, aiming to honor the victims and confront the whitewashed narrative of American history. END OF SUMMARY.

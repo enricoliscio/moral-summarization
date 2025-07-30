@@ -1,0 +1,18 @@
+Alright, so I've got this query where I need to act as a news summarizer and a moral expert. The user provided a news article about Seyed Qamar Abbas rejecting the US State Department's human rights report. My task is to summarize it while preserving the moral framing the author used.
+
+First, I need to read the article carefully to understand the main points. The article is about Abbas, a leader from Pakistan, criticizing the US for its human rights report. He argues that the US isn't in a position to judge others because it violates human rights itself, especially through actions in the Muslim world and its support for Israel.
+
+I should identify the key elements: who is speaking, their main arguments, and the moral stance they're taking. The moral framing here is about hypocrisy and double standards, so the summary needs to reflect that.
+
+I need to make sure the summary is concise, under 200 words, and starts with "SUMMARY:" and ends with "END OF SUMMARY." I should avoid any markdown and keep it straightforward.
+
+I'll start by mentioning Abbas's rejection of the report, his criticism of US hypocrisy, their actions in the Muslim world, support for Israel, and the idea that independent countries are labeled as violators. I should also include his hope that people will recognize US policies as unjust.
+
+I should check the word count to ensure it's within the limit. Also, I need to maintain the moral perspective, emphasizing the US's double standards and the impact on human rights perception.
+
+Let me draft this step by step, making sure each point is covered succinctly. I'll focus on the main arguments without getting into too much detail, keeping it clear and to the point.
+
+Finally, I'll review the summary to ensure it accurately reflects the article's content and the moral stance taken by Abbas. Making sure it's within the word limit and properly formatted.
+</think>
+
+SUMMARY: Seyed Qamar Abbas, a prominent Pakistani political figure, has condemned the US State Department's human rights report, accusing the United States of hypocrisy. He argued that America, as a violator of human rights itself, has no moral authority to criticize others. Abbas highlighted US actions in the Muslim world, including the killing and mistreatment of innocents under the guise of the "war on terror," and criticized its double standards, such as supporting Israel's policies in Palestine and Lebanon. He accused the US of labeling independent nations as human rights violators while favoring those that comply with its dictates. Abbas emphasized that the US's true motives in its war on terrorism and against weapons of mass destruction are strategic and economic interests. He expressed hope that the world would recognize the injustice of US policies and no longer accept its claims at face value. END OF SUMMARY.

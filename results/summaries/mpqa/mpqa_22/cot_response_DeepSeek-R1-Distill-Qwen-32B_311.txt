@@ -1,0 +1,32 @@
+Alright, I need to tackle this query. The user provided a news article about the Canadarm2 and the space railway, along with specific instructions on how to process it. They want me to act as a news summarizer and a moral expert, so I have to ensure that the moral framing is preserved in the summary.
+
+First, I need to break down the task. The user has two main steps: identifying morally framed words and then summarizing the article while keeping those words. 
+
+Starting with STEP 1, I have to go through the article and pick out any words that carry a moral connotation. Words like "flawlessly," "unique," "complex," "hostile," "smoothly," "bound to occur," "pivotal," "powerful," and "contribution" stand out. These words aren't just descriptive; they imply qualities that are positive or part of a significant effort, which is the moral framing the user wants preserved.
+
+Next, for the summary, I need to condense the article into under 200 words. I should include the key points: the installation of the railway, the role of Canadarm2, its performance, and the future plans. I must make sure to incorporate the morally framed words identified earlier. For example, describing Canadarm2 as "unique and highly complex" and highlighting its flawless performance.
+
+I should structure the summary to first mention the successful installation, then the capabilities and performance of Canadarm2, address any issues that were overcome, and outline the future plans for the space station. This flow maintains the positive and significant aspects highlighted in the original article.
+
+I also need to ensure that the summary is concise and sticks to the facts without adding extra information. It's important to keep the language clear and straightforward, yet retain the moral elements that emphasize the achievements and the challenges overcome.
+
+After drafting the summary, I should review it to make sure it's within the word limit and that all the key points are covered. I also need to check that the morally framed words are included and that the summary accurately reflects the original article's tone and content.
+
+Overall, the goal is to provide a concise, well-structured summary that not only informs but also preserves the positive and significant aspects highlighted in the original news piece.
+</think>
+
+### STEP 1:  
+* Flawlessly  
+* Unique  
+* Complex  
+* Hostile  
+* Smoothly  
+* Bound to occur  
+* Pivotal  
+* Powerful  
+* Contribution  
+
+---
+
+### SUMMARY:  
+The first space railway, featuring the Mobile Transporter rail car, was prepared for its debut run outside the International Space Station (ISS) by astronauts from the space shuttle Atlantis. The rail car, part of the 13-meter S-0 truss, will support a 120-meter girder to hold solar panels generating power for the station. Canadarm2, a unique and highly complex robot, flawlessly installed the truss segment and moved astronauts during spacewalks. Despite an anomaly in one of its joints, Canadian engineers resolved the issue, ensuring smooth operations. Canadarm2, a pivotal Canadian contribution to the ISS, demonstrated its power and precision, rewiring to draw energy from the new truss. Future missions will add more truss segments and a handcar for easier astronaut movement. END OF SUMMARY.

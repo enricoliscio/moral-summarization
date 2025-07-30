@@ -1,0 +1,38 @@
+Alright, so the user has given me a query where they want me to act as a news summarizer assistant and a moral expert. They provided a news article about Alabama's abortion ban and the lawsuit filed by Planned Parenthood and the ACLU. The task is to first identify all the single words that are morally framed in the article and then write a summary preserving the moral framing.
+
+First, I need to understand what constitutes a morally framed word. These are words that carry a strong positive or negative connotation related to ethics, justice, rights, etc. I'll go through the article and pick out words that fit this criterion.
+
+Looking at the article, words like "ban," "extreme," "unconstitutional," "anti-abortion," "exploit," "disproportionately," "emboldened," "oppress," "restrict," "deprive," "fundamental," "injustice," "moral," "unjust," "oppression," "freedom," "right," "oppress," "deprive," "fundamental," "injustice," "moral," "unjust," "oppression," "freedom," "right," "oppress," "deprive," "fundamental," "injustice," "moral," "unjust," "oppression," "freedom," "right" stand out as they carry moral weight.
+
+Next, I need to summarize the article while preserving these moral terms. The summary should be concise, under 200 words, and include as many of these words as possible without making it sound forced.
+
+I'll start by outlining the main points: the lawsuit against Alabama's abortion ban, the intent to challenge Roe v. Wade, the lack of exceptions, the disproportionate impact on black and low-income communities, and the broader context of state-level restrictions.
+
+I'll make sure to include the morally charged words naturally within the summary. For example, mentioning the "extreme" ban, "unconstitutional" nature, "anti-abortion" agenda, and the "disproportionate" harm.
+
+I should also highlight the legal strategy behind the law, the plaintiffs involved, and the broader implications of these restrictions across states.
+
+Finally, I'll ensure the summary flows well, keeping it under 200 words and ending with the specified tokens.
+</think>
+
+**STEP 1:**  
+* Ban  
+* Extreme  
+* Unconstitutional  
+* Anti-abortion  
+* Exploit  
+* Disproportionately  
+* Emboldened  
+* Oppress  
+* Restrict  
+* Deprive  
+* Fundamental  
+* Injustice  
+* Moral  
+* Unjust  
+* Oppression  
+* Freedom  
+* Right  
+
+**SUMMARY:**  
+Planned Parenthood and the ACLU filed a lawsuit against Alabama over its near-total abortion ban, which prohibits abortions except in cases of serious health risk to the mother, with no exceptions for rape or incest. The law, designed to challenge Roe v. Wade, imposes severe penalties on providers. Critics argue it is unconstitutional and disproportionately harms Black and low-income communities, who make up the majority of abortion seekers in Alabama. The lawsuit highlights Alabama’s long history of politically motivated restrictions and the moral imperative to fight for reproductive rights. Similar restrictive laws have been introduced in other states, but none are currently in effect. The case underscores the ongoing battle over abortion access, with advocates emphasizing the fundamental right to choose and the injustice of oppressing vulnerable communities. END OF SUMMARY.

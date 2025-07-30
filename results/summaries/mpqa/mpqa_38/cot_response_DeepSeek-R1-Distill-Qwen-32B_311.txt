@@ -1,0 +1,28 @@
+Okay, I need to help the user by summarizing the given news article while preserving the moral framing. The user has specified two steps: first, identifying all the single words that are morally framed, and second, writing a summary that includes as many of those words as possible.
+
+Starting with STEP 1, I'll read through the article carefully to pick out words that carry a moral connotation. The article talks about Bush ordering assassinations, which is a strong moral statement. Words like "assassinate," "opponents," "terrorism," "fatwa," "insulting," "crushed," "protest," "pressure," "violation," "rights," "cruelty," "inhuman," and "justice" stand out as morally charged.
+
+Moving on to the summary, I need to condense the article into about 200 words. I should include the key points: Bush's directive, the hypocrisy of the US claiming to fight terrorism while assassinating opponents, the comparison with Iran's fatwa, and the call for Islamic countries to withdraw ambassadors. I'll make sure to use the morally framed words identified earlier to maintain the original tone.
+
+I also need to ensure the summary flows logically, starting with Bush's order, contrasting it with the US's stance on terrorism, then comparing it to Iran's situation, and concluding with the call for diplomatic action. I'll keep sentences concise and impactful, avoiding any markdown as per the instructions.
+
+Finally, I'll structure the response with STEP 1 listing each moral word and then the SUMMARY section, making sure it's under 200 words and ends correctly with the specified tokens.
+</think>
+
+**STEP 1:**  
+* Assassinate  
+* Opponents  
+* Terrorism  
+* Fatwa  
+* Insulting  
+* Crushed  
+* Protested  
+* Pressure  
+* Violating  
+* Rights  
+* Cruelty  
+* Inhuman  
+* Justice  
+
+**SUMMARY:**  
+US President Bush has ordered the CIA to assassinate America's opponents globally, a move criticized as hypocritical given the US's claimed leadership in the fight against terrorism. The article draws a moral comparison to Iran's fatwa against Salman Rushdie, which Western countries condemned as an act of terrorism and a violation of human rights. The author argues that the US's assassination directive, targeting millions without proof, is a flagrant violation of human rights on a much larger scale. The text calls for Islamic countries to withdraw ambassadors from the US, echoing the diplomatic protests previously directed at Iran. The US is accused of resorting to pre-historic justice, using military force to silence global cries for justice. The author emphasizes that the world will not tolerate such cruelty, as human rights are a God-given achievement that must be preserved. END OF SUMMARY.

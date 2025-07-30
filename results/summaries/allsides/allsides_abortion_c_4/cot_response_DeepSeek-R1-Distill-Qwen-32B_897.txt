@@ -1,0 +1,102 @@
+Okay, so I need to help the user by summarizing a news article while preserving the moral framing. The user provided a detailed article about the Supreme Court ruling on California's law regarding anti-abortion pregnancy centers. 
+
+First, I'll start by identifying all the single words that are morally framed. I'll go through the article and pick out words that carry moral connotations. Words like "blow," "anti-abortion," "inform," "abortion," "contraception," "compelled," "script," "availability," "state-sponsored," "oppose," "individual," "thought," "expression," "unintended," "consequences," "conservative," "abortion," "view," "ultrasound," "fetus," "risk," "impose," "message," "individual," "thought," "expression," "liberal," "notify," "pregnant," "rights," "abortion," "compelled," "convictions," "deeply," "divisive," "subjects," "abortion," "government," "express," "message," "convictions," "pro-life," "provide," "free," "advertising," "abortion," "deceive," "pregnant," "free," "speech," "right," "dress," "medical," "centers," "deceive," "pregnant," "women," "abortion," "access," "free," "speech," "rights," "cities," "enact," "requirements," "pregnancy," "centers," "discriminate," "viewpoints," "coalition," "municipal," "groups," "argued," "against," "California," "put," "required," "postings," "shaky," "legal," "ground," "first," "aid," "instructions," "workers," "wash," "hands."
+
+Next, I need to write a summary that includes as many of these morally framed words as possible. I'll make sure to capture the essence of the article, highlighting the Supreme Court's ruling, the moral arguments on both sides, and the potential consequences of the decision. I'll keep the summary concise, under 200 words, and ensure it flows naturally while preserving the moral framing.
+
+I should structure the summary to first state the ruling, then the arguments from both the majority and dissenting opinions, followed by the implications and reactions. I'll make sure to include terms like "anti-abortion," "compelled speech," "pro-life," "deceive," and "free speech rights" to maintain the moral context.
+
+I also need to remember to start the summary with "SUMMARY:" and end with "END OF SUMMARY." I'll avoid using any markdown and keep the language clear and straightforward. Let me piece this together, ensuring all key points are covered and the moral framing is preserved.
+</think>
+
+**STEP 1:**  
+* blow  
+* anti-abortion  
+* inform  
+* abortion  
+* contraception  
+* compelled  
+* script  
+* availability  
+* state-sponsored  
+* oppose  
+* individual  
+* thought  
+* expression  
+* unintended  
+* consequences  
+* conservative  
+* abortion  
+* view  
+* ultrasound  
+* fetus  
+* risk  
+* impose  
+* message  
+* individual  
+* thought  
+* expression  
+* liberal  
+* notify  
+* pregnant  
+* rights  
+* abortion  
+* compelled  
+* convictions  
+* deeply  
+* divisive  
+* subjects  
+* abortion  
+* government  
+* express  
+* message  
+* convictions  
+* pro-life  
+* provide  
+* free  
+* advertising  
+* abortion  
+* deceive  
+* pregnant  
+* free  
+* speech  
+* right  
+* dress  
+* medical  
+* centers  
+* deceive  
+* pregnant  
+* women  
+* abortion  
+* access  
+* free  
+* speech  
+* rights  
+* cities  
+* enact  
+* requirements  
+* pregnancy  
+* centers  
+* discriminate  
+* viewpoints  
+* coalition  
+* municipal  
+* groups  
+* argued  
+* against  
+* California  
+* put  
+* required  
+* postings  
+* shaky  
+* legal  
+* ground  
+* first  
+* aid  
+* instructions  
+* workers  
+* wash  
+* hands  
+
+**SUMMARY:**  
+The Supreme Court ruled 5-4 that a California law requiring anti-abortion pregnancy centers to inform women about publicly funded abortion and contraception services likely violates the First Amendment as compelled speech. Justice Clarence Thomas, writing for the conservative majority, criticized the law for forcing pro-life centers to promote abortion, which they oppose. Justice Anthony Kennedy concurred, calling it a threat to individual speech and expression. The dissent, led by Justice Stephen Breyer, argued that the law was a reasonable effort to ensure women know their options. California’s law mandates licensed centers to post notices about free or low-cost state programs, including abortion services, while unlicensed centers must inform clients they are not medical facilities. Critics, including the Alliance Defending Freedom, argued the law forces centers to express messages against their convictions. The ruling could have unintended consequences, potentially weakening laws in conservative states requiring ultrasounds or fetal development information for women seeking abortions. The decision highlights the tension between free speech rights and the government’s role in informing pregnant women about their options. END OF SUMMARY.

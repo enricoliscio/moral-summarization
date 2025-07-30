@@ -1,0 +1,49 @@
+Okay, I need to help the user by summarizing the given news article while preserving the moral framing. The user has provided a detailed query with specific steps. Let me break it down.
+
+First, the user wants me to identify all single words that are morally framed. I should look for words that carry a moral connotation, like 'decried', 'neoconservative', 'influence', 'criticized', 'frosty', 'firm', 'dismissive', 'apology tour', 'embarrassing', 'conflict','respect', 'appreciate', 'dismissed', 'criticism', 'undermine','support', 'prioritize','safeguard', 'compromised', 'ignored', 'ignored', 'undermining', 'compromised', 'ignored', 'ignored', 'undermining', 'compromised', 'ignored'. I need to list each on a new line with an asterisk.
+
+Next, I have to write a concise summary of the article, making sure to include as many of these moral words as possible. The summary should be under 200 words and start with "SUMMARY:" and end with "END OF SUMMARY."
+
+I should ensure the summary captures the key points: the ad by Secure America Now, Netanyahu's stance, the criticism against Obama, the scheduling conflict, and the ongoing narrative from the GOP. I need to maintain the moral framing by using words like 'criticized', 'frosty', 'firm', etc.
+
+I should also check that the summary flows naturally and accurately reflects the article's content without adding any new information. It's important to keep it clear and within the word limit.
+
+Let me start by drafting the summary, making sure to incorporate the moral words identified. I'll mention the ad, the markets it's airing in, the criticism of Obama's stance, Netanyahu's response, and the ongoing GOP narrative. I'll ensure each sentence is concise and sticks to the main points.
+
+Finally, I'll review the summary to make sure it's under 200 words and that all key moral elements are included. I'll also verify that the identified words are correctly listed in the first step.
+</think>
+
+### STEP 1:  
+* decried  
+* neoconservative  
+* influence  
+* criticized  
+* frosty  
+* firm  
+* dismissive  
+* apology tour  
+* embarrassing  
+* conflict  
+* respect  
+* appreciate  
+* dismissed  
+* criticism  
+* undermine  
+* support  
+* prioritize  
+* safeguard  
+* compromised  
+* ignored  
+* ignored  
+* undermining  
+* compromised  
+* ignored  
+* ignored  
+* undermining  
+* compromised  
+* ignored  
+
+---
+
+### SUMMARY:  
+Bibi Netanyahu has been drawn into U.S. election-year politicking through a new ad by Secure America Now, a neoconservative group. The ad, airing in Florida’s Jewish communities, highlights Israel’s security concerns about Iran’s nuclear program, criticizing President Obama’s frosty relationship with Netanyahu. Republicans, including Mitt Romney, have accused Obama of not taking a firm stance against Iran and of dismissing Israel’s concerns. Netanyahu, however, has pushed back, denying involvement in the American election and rejecting claims that Obama threw Israel “under a bus,” stating, “There is no bus.” This ad is part of a broader GOP narrative criticizing Obama’s handling of U.S.-Israel relations, with Secure America Now previously running ads accusing Obama of embarking on an “apology tour.” While the latest ad doesn’t mention Obama by name, it implicitly supports the GOP’s narrative of a dismissive administration. END OF SUMMARY.

@@ -1,0 +1,28 @@
+<think>
+Alright, I need to help the user by summarizing the given news article while preserving the moral framing. The user has specified two steps: first, identifying all the morally framed single words, and second, writing a concise summary using those words.
+
+Starting with the first step, I'll read through the article to spot words that carry moral connotations. Words like "ridiculous," "punishing," "attack," "division," "hatred," "unconstitutional," "magnet," "hell," "fear," "criminals," "gang members," "terrorists," "aid," and "national security" stand out as they imply judgment or strong values.
+
+Now, for the summary, I need to condense the article into under 200 words, keeping the moral terms. The article discusses Trump's plan to end birthright citizenship via an executive order, which is constitutionally shaky. He claims the U.S. is unique, but it's not. Critics argue it's unconstitutional and harmful, especially to immigrants. Republicans are split, with some opposing and others supporting. Trump's move is seen as election-driven, targeting midterm voters. The caravan of migrants is another focal point, with Trump using fear tactics.
+
+Putting it all together, I'll structure the summary to include the key points: Trump's proposal, the constitutional issues, the moral criticisms, Republican reactions, and the political timing. I'll ensure to incorporate the identified moral words to maintain the article's tone.
+</think>
+
+**STEP 1:**  
+* ridiculous  
+* punishing  
+* attack  
+* division  
+* hatred  
+* unconstitutional  
+* magnet  
+* hell  
+* fear  
+* criminals  
+* gang members  
+* terrorists  
+* aid  
+* national security  
+
+**SUMMARY:**  
+President Donald Trump has floated the idea of an executive order to end birthright citizenship for babies born in the U.S. to non-citizen parents, a right protected by the 14th Amendment. Trump claimed this could be done without a constitutional amendment, though experts argue it is unconstitutional. Critics, including the ACLU, warn that such a move would punish children of undocumented immigrants and sow division. Trump’s assertion that the U.S. is the only country with this policy is false, as over 30 nations, including Canada and Mexico, have similar laws. Some Republicans, like House Speaker Paul Ryan, dismissed the idea, while others, like Sen. Lindsey Graham, supported legislation to end birthright citizenship, though it would likely require a constitutional amendment. Trump’s proposal, which he has pushed for years, is seen as part of his midterm election strategy, targeting undocumented immigrants and stoking fear about a migrant caravan. His claims about the caravan containing criminals and terrorists have been widely debunked. END OF SUMMARY.

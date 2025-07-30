@@ -1,0 +1,33 @@
+Okay, so I'm trying to figure out how to approach this query. The user wants me to act as a news summarizer and a moral expert. They provided a news article about a church shooting in Texas, and they have specific instructions on how to process it.
+
+First, they want me to identify all the single words that are morally framed. I need to go through the article and pick out words that carry a moral connotation. Words like "heroic," "tragic," "evil," "terrible," "random," "terrorism," etc. These words are used to convey judgment or moral evaluation in the text.
+
+Next, I have to write a summary that preserves as many of these morally framed words as possible. The summary should be concise, no more than 200 words, and it needs to capture the essence of the article while highlighting the moral aspects.
+
+I should start by reading the article carefully to understand the key points: a man opened fire in a church, two security members stopped him, saving many lives, the gunman's background, the impact on the community, and the context of Texas's gun laws.
+
+When identifying the morally framed words, I'll go through each paragraph and note any words that express approval, disapproval, or moral judgment. For example, "heroic" is used to praise the security members, while "evil" condemns the gunman's actions.
+
+After listing those words, I'll craft a summary that includes these terms, ensuring the summary flows naturally and stays within the word limit. I'll make sure to mention the heroic actions, the tragic loss, the evil act, and the context of the church security policies.
+
+I also need to ensure that the summary doesn't include any markdown or special formatting beyond the specified tokens. It should be clear and concise, capturing all the important moral points from the article.
+
+Finally, I'll review the summary to make sure it meets the word count and effectively conveys the moral framing as per the user's request.
+</think>
+
+**STEP 1:**  
+* Heroic  
+* Tragic  
+* Evil  
+* Terrible  
+* Random  
+* Terrorism  
+* Scariest  
+* Upsetting  
+* Condemnation  
+* Grateful  
+* Horrible  
+* Domestic  
+
+**SUMMARY:**  
+A man opened fire with a shotgun at a North Texas church, killing two and injuring others, but two volunteer security members heroically confronted and fatally shot the gunman, saving countless lives. The attack, described as "evil" and "terrible," occurred during a livestreamed service attended by over 240 people. The gunman, described as "relatively transient," had no known motive. Texas Lt. Gov. Dan Patrick praised the state's gun laws, which allow licensed carriers to bring weapons into churches. The incident, which could have been far worse, highlighted the importance of church security, following a similar tragedy in Sutherland Springs two years ago. Gov. Greg Abbott condemned the attack and thanked the heroic parishioners. The shooting occurred hours after a knife-wielding attacker committed an act of "domestic terrorism" during a Hanukkah celebration in New York. END OF SUMMARY.

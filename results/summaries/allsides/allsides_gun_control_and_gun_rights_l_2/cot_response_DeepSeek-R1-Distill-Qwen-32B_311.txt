@@ -1,0 +1,32 @@
+Alright, so I need to help the user by summarizing this news article while preserving the moral framing. First, I should understand what the user is asking for. They want me to act as a news summarizer and a moral expert. The task has two parts: first, identify all the single words that are morally framed, and second, write a summary that includes as many of those words as possible.
+
+Looking at the article, it's about Democrats in the House planning to introduce legislation for background checks on gun sales. The moral framing here likely involves words that carry strong emotions or judgments, like "background checks," "control," "push," "progress," "stalled," "pledges," "action," "movement," "harassment," "emboldened," "strategy," "support," and "reform."
+
+I need to list each of these words, each on a new line, starting with a star. Then, for the summary, I have to condense the article, making sure to include these morally charged terms to maintain the author's perspective. The summary should be concise, around 200 words, and end with the specified tokens.
+
+I should ensure that the summary captures the key points: the Democratic push for gun control, the background checks legislation, the involvement of specific lawmakers, the failed bipartisan efforts, the harassment faced by victims' families, and the political strategy ahead of the 2020 election.
+
+I need to be careful to keep the summary within the word limit and maintain the moral tone by including those identified words. Also, I should structure the summary to flow logically, starting with the legislative push, moving through the issues faced, and ending with the political strategy.
+</think>
+
+**STEP 1:**
+
+* background checks  
+* control  
+* push  
+* progress  
+* stalled  
+* pledges  
+* action  
+* movement  
+* harassment  
+* emboldened  
+* strategy  
+* support  
+* reform  
+
+**SUMMARY:**
+
+The Democratic majority in the House plans to prioritize legislation requiring background checks on all gun sales, signaling a renewed push for gun control following years of stalled progress. Prominent Democrats, including Chris Murphy and Richard Blumenthal, will lead efforts to address the issue, which has deeply divided the nation. The legislation aims to curb gun violence, particularly after mass shootings in Parkland, Las Vegas, and Newtown. Despite Republican opposition, Democrats are emboldened to introduce sweeping reforms, hoping to gain Republican support and set the stage for the 2020 election. Bipartisan efforts to strengthen background checks have failed in the past, but some Republicans, like Peter King, may support new legislation. Advocacy groups, survivors, and families of victims will join the push, highlighting the urgent need for action. Meanwhile, the family of Sandy Hook victim Noah Pozner faces ongoing harassment from conspiracy theorists, underscoring the emotional and moral stakes of the debate.  
+
+**END OF SUMMARY.**

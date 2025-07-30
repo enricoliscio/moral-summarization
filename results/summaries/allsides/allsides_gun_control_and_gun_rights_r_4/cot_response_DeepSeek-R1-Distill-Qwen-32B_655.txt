@@ -1,0 +1,33 @@
+Alright, I need to help the user by summarizing the given news article while preserving the moral framing. First, I should understand the task. The user wants me to identify morally framed words and then write a concise summary that includes as many of these words as possible.
+
+Looking at the article, I notice several terms that carry moral connotations. Words like "higher," "stunning turnaround," "rights," "control," "protect," "public safety," "boon," "safeguard," "restrictions," "commitment," "imperative," "appealing," "free from," "sensible," "shift," "peak," "drop," "trumps." These words are used to frame the debate around gun rights and control, emphasizing values like safety, rights, and control.
+
+Now, for the summary. I need to condense the article into under 200 words, ensuring that the moral framing is maintained. The key points are the increase in support for gun rights, the shift in African American attitudes, the legislative efforts post-Newtown, the specifics of public opinion on background checks and restrictions, and the partisan divide.
+
+I'll start by stating the main finding from Pew, then mention the shift in African American views. Next, I'll touch on Obama's push and the legislative stalemate. I'll include the statistics on background checks and the partisan divide, using the morally framed words where possible. Finally, I'll note the overall shift across demographics and the decline in support for gun control.
+
+I need to make sure the summary flows logically and includes all critical points without being too verbose. I'll also ensure that the moral framing words are incorporated to reflect the original article's tone.
+</think>
+
+**STEP 1:**  
+* higher  
+* stunning  
+* rights  
+* control  
+* protect  
+* public safety  
+* boon  
+* safeguard  
+* restrictions  
+* commitment  
+* imperative  
+* appealing  
+* free from  
+* sensible  
+* shift  
+* peak  
+* drop  
+* trumps  
+
+**SUMMARY:**  
+Support for gun rights has reached its highest level in two decades, according to Pew Research, with 52% of Americans prioritizing Second Amendment rights over gun control. This shift is notable, especially among black Americans, where 54% now view firearms as protective, up from 29% two years ago. The Newtown shooting in 2012 initially pushed public opinion toward stricter controls, but subsequent legislative efforts stalled. Gun control supporters emphasize universal background checks, which enjoy 90% support, while limits on rifles and magazines hover around 50%. The Pew survey highlights a partisan divide, with Republicans and independents favoring gun rights over controls, while Democrats remain committed to restrictions. The findings reflect a significant shift in attitudes, with support for gun rights rising across most demographics, though Hispanics saw a slight decline. END OF SUMMARY.

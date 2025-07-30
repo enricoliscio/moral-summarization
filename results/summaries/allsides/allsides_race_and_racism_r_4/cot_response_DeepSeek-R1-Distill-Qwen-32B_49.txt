@@ -1,0 +1,39 @@
+<think>
+Okay, so the user has given me a query where I need to act as a news summarizer assistant and a moral expert. They want me to summarize a news article while preserving the moral framing the author used. The article is about a police shooting in Texas. 
+
+First, I need to understand the structure of the query. They have two main steps: identifying morally framed words and then writing a summary. 
+
+For step one, I have to go through the article and pick out words that carry moral connotations. Words like "murder," "inconceivable," "unjust," etc., stand out because they imply blame or wrongdoing. I'll list each of these words, each on a new line with a star.
+
+Next, for the summary, I need to condense the article into a concise version, making sure to include as many of those morally framed words as possible. The summary should be under 200 words. I'll start by identifying the main points: the shooting, the family's reaction, the officer's actions, the neighbor's regret, and the broader context of police violence against Black Americans.
+
+I should ensure that the summary reflects the moral perspective, so I'll use words like "murder," "unjust," and "inconceivable." I'll also mention the family's confusion and the lack of transparency from the police. Including the political angle with Bernie Sanders adds context about systemic issues.
+
+I need to be careful not to add my own opinions but to present the facts while keeping the moral framing intact. The summary should flow logically, starting with the incident, moving to the family's reaction, the officer's actions, the neighbor's remorse, and ending with the broader implications and calls for justice.
+
+I'll make sure each sentence in the summary is clear and concise, hitting all the key points without exceeding the word limit. I'll also ensure that the summary starts with "SUMMARY:" and ends with "END OF SUMMARY." as per the instructions.
+
+Finally, I'll review the summary to make sure it accurately reflects the moral framing from the original article and that all important details are included without unnecessary fluff.
+</think>
+
+### STEP 1:  
+* Murder  
+* Inconceivable  
+* Unjust  
+* Protect  
+* Justice  
+* Loss  
+* Fault  
+* Normal  
+* Transparency  
+* Blurred  
+* Firearm  
+* Mistake  
+* Unarmed  
+* End  
+
+---
+
+### SUMMARY:  
+A white police officer in Fort Worth, Texas, killed a black woman, Atatiana Jefferson, inside her home after responding to a neighbor’s call about an open front door. The officer fired without announcing his identity, and the family’s attorney called the shooting "murder," stating there was no perceived threat. Jefferson’s family expressed confusion and grief, questioning why she was killed. Police Lt. Brandon O’Neil confirmed the officer was on administrative leave and would be interviewed. The neighbor who called police expressed regret, feeling partly responsible. The Fort Worth Police Department released bodycam footage, showing a blurred image of a firearm inside the home, though it’s unclear if the officer thought Jefferson had a gun. Democratic candidate Bernie Sanders called for a Justice Department investigation, highlighting the need to end the killing of unarmed Black Americans. The shooting follows a similar case in Dallas, where a white officer was sentenced for murdering a black neighbor. The family seeks a thorough investigation, emphasizing the unjust loss of life.  
+END OF SUMMARY.

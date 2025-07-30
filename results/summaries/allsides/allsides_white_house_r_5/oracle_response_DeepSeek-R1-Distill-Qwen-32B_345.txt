@@ -1,0 +1,14 @@
+Okay, so I need to help the user by summarizing the given news article while preserving the moral framing. The user provided the article and a list of morally framed words that the author used. My task is to create a concise summary, under 200 words, that includes as many of those words as possible.
+
+First, I'll read through the article to understand the main points. It's about the Obama administration's handling of the Benghazi incident, criticizing their decisions and the lies told afterward. The author uses strong moral language, so I need to capture that tone.
+
+I'll start by identifying key events: the attack in Benghazi, the administration's response, the lies told, and the medals awarded. I should include words like "betrayed," "peddled lies," "contempt," and "sins" to maintain the moral judgment.
+
+Next, I'll structure the summary. It should mention the administration's betrayal, their lies, the contempt for the military, and Hillary's nonchalance. Also, the fact that rescue teams were available but not used adds to the moral failing.
+
+I need to make sure the summary flows well and stays within the word limit. I'll check each sentence to see if it includes the necessary moral terms without making it too verbose.
+
+Finally, I'll review the summary to ensure all key points are covered and the moral framing is preserved. I'll make sure to end with the required tokens.
+</think>
+
+SUMMARY: The article criticizes the Obama administration for its handling of the 2012 Benghazi attack, accusing it of betrayal, lies, and contempt for the military. The author argues that the administration, influenced by the '60s counterculture, displayed greed, self-centeredness, and disdain for national institutions. Hillary Clinton and Barack Obama are portrayed as embodying this contempt, with Clinton treating military aides poorly and Obama failing to understand America. The article claims the administration peddled lies, evasions, and disinformation to cover up their betrayal, including falsely blaming a video for the attack. It reveals that rescue teams, including Delta Force and Green Berets, were available but not deployed, highlighting the administration's hesitation and timidity. The author condemns Hillary Clinton's nonchalance and the administration's lack of appreciation for sacrifice, calling their actions squalid and misleading. The unraveling hoax and lies further undercut the administration's credibility, emphasizing their moral failing in the tragedy. END OF SUMMARY.

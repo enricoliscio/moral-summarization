@@ -1,0 +1,39 @@
+<think>
+Okay, so the user wants me to summarize a news article while preserving the moral framing. Let me break down what they're asking for. They provided an article about Donald Trump's campaign, specifically his stance on immigration and his outreach to African American and Hispanic voters. 
+
+First, I need to identify all the morally framed words. I'll go through the article and pick out words that carry moral connotations. Words like "lies," "fail," "failed," "horrible," "disgrace," "offensive," "offering," "safe," "failed," "failed," "crime," "hell," "unemployed," "losing," "disgrace," "misleading," and "fraudulent." These words are key because they carry the author's judgment on Trump's actions and statements.
+
+Next, I have to write a concise summary that includes as many of these words as possible without exceeding 200 words. The summary should reflect the moral framing, so I'll make sure to include words like "lies," "fail," "horrible," etc., to convey the critical tone of the original article.
+
+I'll start by outlining the main points: Trump softening his immigration stance, his claims about inner cities being unsafe, and the unemployment statistics. Then, I'll weave in the morally framed words to highlight the criticism. I need to ensure the summary flows naturally while preserving the original's critical perspective.
+
+Let me check the word count as I draft to stay within the limit. I'll also make sure each sentence is clear and that the moral framing is evident. For example, mentioning the "lies" Trump told, the "fail" of Democrats, and the "fraudulent" unemployment claims. This should capture the essence of the article's critique.
+
+Finally, I'll review the summary to ensure it's accurate and that all key points are included with the appropriate moral language. That should fulfill the user's request effectively.
+</think>
+
+**STEP 1:**
+
+* Lies  
+* Fail  
+* Failed  
+* Horrible  
+* Disgrace  
+* Offensive  
+* Offering  
+* Safe  
+* Failed  
+* Failed  
+* Crime  
+* Hell  
+* Unemployed  
+* Losing  
+* Disgrace  
+* Misleading  
+* Fraudulent  
+
+**SUMMARY:**  
+
+The article examines Donald Trump's campaign strategies, highlighting his shifting stance on immigration and efforts to court non-white voters. Trump initially promised a "deportation force" but later softened his approach, claiming undocumented immigrants would pay taxes and work toward legal status without amnesty. Critics accuse him of "flip-flopping" and using "lies" to manipulate public perception. Trump also criticized Democratic policies in inner cities, claiming they are "safer in war zones," a claim contradicted by declining crime statistics. His assertion that 58% of young African Americans are unemployed was labeled "fraudulent" by economists, as it included non-job seekers. Trump's outreach to African American and Hispanic voters has been met with skepticism, as polling shows he trails significantly among non-white voters. His claims of employing "so many" African Americans were also challenged, with reports showing few black executives in his organization. The article underscores Trump's efforts to appeal to minority communities while facing criticism for inconsistent and misleading statements.  
+
+**END OF SUMMARY.**

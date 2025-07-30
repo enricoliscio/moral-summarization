@@ -1,0 +1,12 @@
+Alright, so the user has provided a query where they want me to act as a news summarizer and a moral expert. The task is to summarize a given news article while preserving the moral framing that the author provided. 
+
+First, I need to understand the content of the article. It's about a Russian supply ship docking with the International Space Station. There's a potential issue with the latching mechanism, which could cause problems if a shuttle docks next. The article mentions concerns about delays in the Endeavour's launch and the steps taken to assess the problem.
+
+Now, the user wants the summary to include the moral framing. The original article highlights the potential risks and the efforts made by the teams to ensure safety. The moral aspect here is the importance of safety and teamwork in space missions, especially when international collaboration is involved.
+
+I need to make sure that the summary not only captures the key points but also reflects the underlying values. I should mention the concern for safety, the cooperation between Russian and NASA teams, and the steps taken to mitigate the risk. This will convey the moral emphasis on caution and teamwork.
+
+I also need to keep the summary under 200 words and structure it with the specified tokens. I'll start with the main event, then the potential issue, the implications, and the actions taken. This should effectively convey both the facts and the moral considerations.
+</think>
+
+SUMMARY: A Russian supply ship docked with the International Space Station on Wednesday, but there were concerns it may not have latched properly. NASA officials were unsure if this issue could delay the planned launch of the space shuttle Endeavour. The problem raised fears that a loose fit could damage the space station due to the force from a docking shuttle. The Progress ship, carrying over a ton of supplies, docked on time, but Russian controllers did not receive confirmation that the hooks had latched correctly. The station's steering system was turned off for an extra three hours to allow Russian engineers to assess the situation, with some equipment temporarily shut down to conserve power. After evaluation, Russian Mission Control confirmed the ship was securely attached, and systems were restored. The incident highlighted the importance of precision and cooperation in space operations to ensure safety and mission success. END OF SUMMARY.

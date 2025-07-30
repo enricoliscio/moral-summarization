@@ -1,0 +1,18 @@
+Alright, I need to help the user by summarizing the given news article while preserving the moral framing. The user specified that I should act as a news summarizer and a moral expert. The article is about Trump's Tulsa rally and his campaign strategies, focusing on his negative rhetoric and divisive tactics.
+
+First, I'll read through the article to understand the main points. The article describes Trump's speech as centered around enmity, targeting various groups like anarchists, journalists, Democrats, and immigrants. He downplayed the pandemic's impact, made derogatory comments, and encouraged violence against protesters. The moral framing here is clearly negative, highlighting Trump's divisiveness and harmful rhetoric.
+
+I need to condense this into a concise summary under 200 words. I should include the key elements: the rally's purpose, the groups targeted, the pandemic downplay, derogatory language, encouragement of violence, and the overall negative impact on the nation.
+
+I should ensure the summary maintains the critical tone from the original article. It's important to mention the specific groups he attacked, his comments on the pandemic, the use of inflammatory language, and his encouragement of violence. This will capture the moral issues presented.
+
+I'll structure the summary to start with the event, then outline Trump's approach, followed by the specifics of his rhetoric, and conclude with the implications for the nation. Keeping it clear and within the word limit is crucial.
+
+Now, I'll draft the summary, making sure it flows well and covers all necessary points without being too verbose. I'll check the word count to ensure it's under 200 words and that the moral framing is preserved.
+
+Finally, I'll review the summary to make sure it accurately reflects the article's content and maintains the critical perspective. This should meet the user's requirements effectively.
+</think>
+
+SUMMARY:  
+At a Tulsa rally, President Trump sought to relaunch his reelection campaign by framing the election as a battle against enemies, including anarchists, journalists, Democrats, and immigrants. Instead of focusing on achievements, he attacked opponents, labeling them "sadistic," "vicious," and "sinister," while ridiculing reporters and athletes. Trump downplayed the pandemic's impact, joking about testing and trivializing the virus's toll. He also targeted specific groups, such as calling the coronavirus "Kung Flu" and threatening DACA recipients, while pitting black and Latino communities against each other. Trump extended his rhetoric to violence, dismissing immigrants as "animals" and praising ICE agents for using force. He also encouraged supporters to take action against protesters, saying, "It’s damn nice to have firearms." Trump's speech highlighted a campaign rooted in division, hatred, and the potential for violence, with little regard for unity or constitutional governance. His approach, the article suggests, risks further eroding American democracy.  
+END OF SUMMARY.

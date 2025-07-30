@@ -1,0 +1,14 @@
+Okay, so I need to summarize this news article about the shuttle Atlantis launch. The user wants the summary to preserve the moral framing that the author gave. Hmm, first, I should read the article carefully to understand the main points and the tone.
+
+The article starts by describing the launch of Atlantis, mentioning it's the first of six scheduled over seven months to complete the space station. There's a focus on the successful blastoff despite some hiccups like a computer glitch and a four-day delay due to a leak. They mention the milestone for Jerry Ross making his seventh flight. The mission involves installing a key structure for the space station.
+
+I need to make sure the summary includes all these points but keeps it under 200 words. Also, preserving the moral framing means highlighting the perseverance and achievement, maybe the teamwork and overcoming challenges.
+
+Let me structure it: Start with the launch details, mention the milestone, the challenges faced, and the mission's purpose. Keep it concise but informative, ensuring the positive aspects are highlighted.
+
+Wait, the user also mentioned to return the summary after "SUMMARY:" and end with "END OF SUMMARY." So I need to format it correctly. Also, I should avoid any markdown, just plain text.
+
+I think I've got a good structure. Let me put it together, making sure each key point is covered without exceeding the word limit.
+</think>
+
+SUMMARY: The space shuttle Atlantis successfully launched from Cape Canaveral, carrying seven astronauts and essential hardware to the International Space Station (ISS). This mission marks the first of six scheduled launches over the next seven months, aimed at advancing the ISS toward completion. The launch, delayed four days due to a liquid hydrogen vent pipe leak, was nearly derailed by a computer glitch, which engineers resolved just seconds before liftoff. Atlantis, equipped with three new main engines, thundered into space, carrying a 44-foot-long, 27,000-pound "S-Zero" structure—a critical component for supporting a new solar energy array. Astronaut Jerry L. Ross, making his seventh space flight, achieved a historic milestone. During the 11-day mission, astronauts will conduct four spacewalks to install the "keystone" support unit, marking a significant step in U.S. space exploration. END OF SUMMARY.

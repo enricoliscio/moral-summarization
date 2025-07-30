@@ -1,0 +1,31 @@
+Okay, so I need to help the user with their query. They provided a news article and specific instructions on how to process it. Let me break this down step by step.
+
+First, the user wants me to act as a news summarizer and a moral expert. My task is to summarize the given article while preserving the moral framing. They've also provided a structure to follow, which includes two main steps: identifying morally framed words and then writing a summary.
+
+Starting with STEP 1: I need to go through the article and pick out all the single words that carry moral implications. The user mentioned to list each word with a * and on a new line. I should look for words that relate to values, judgments, or ethics. For example, "criticized," "class," "respect," "good role model," "hurtful," "judged," "grow," "apologized," and "public comment." These words seem to carry moral weight because they relate to behavior, judgment, and the consequences of actions.
+
+Next, for the summary, I have to condense the article into a concise version, keeping the morally framed words intact. The summary should be no longer than 200 words and should start with "SUMMARY:" and end with "END OF SUMMARY." I need to make sure that the summary accurately reflects the events without losing the moral nuances. I'll mention the communications director's initial criticism, the apology, the context of the Thanksgiving event, and the lack of public response from the involved parties.
+
+I should also ensure that the summary flows well and is clear, even though it's condensed. I need to include all the key points: who did what, the content of the post, the apology, the tradition mentioned, and the lack of response from the White House and Rep. Fincher.
+
+I should double-check that I'm not missing any morally framed words. Let me read through the article again to make sure I caught all the relevant terms. Words like "criticized," "class," "respect," "good role model," "hurtful," "judged," "grow," "apologized," and "public comment" all seem appropriate.
+
+Now, putting it all together, the summary should start by introducing Elizabeth Lauten and her initial post, then her apology, followed by the context of the Thanksgiving event, and conclude with the lack of public comments. I need to keep it under 200 words, so I'll be concise but thorough.
+
+I think that's all. I'll structure it as per the user's instructions, making sure each part is clear and the moral framing is preserved.
+</think>
+
+**STEP 1:**  
+* Criticized  
+* Class  
+* Respect  
+* Good role model  
+* Hurtful  
+* Judged  
+* Grow  
+* Apologized  
+* Public comment  
+
+**SUMMARY:**  
+Elizabeth Lauten, a communications director for Rep. Stephen Fincher, apologized after posting a critical Facebook comment about the Obama daughters, Malia and Sasha, during President Obama's Thanksgiving address. Lauten criticized their outfits and behavior, suggesting they lacked class and respect, and accused their parents of failing to set a good role model example. The post was made during a turkey pardoning ceremony, a tradition dating back to 1947. Lauten later apologized, acknowledging her judgment was hurtful and vowing to learn and grow from the experience. The White House and Rep. Fincher did not respond publicly to the incident.  
+END OF SUMMARY.

@@ -1,0 +1,51 @@
+Okay, I need to help the user by summarizing the given news article while preserving the moral framing. The user has specified two steps: first, identifying all single words that are morally framed, and then writing a concise summary using those words.
+
+Starting with STEP 1, I'll go through the article to find words that carry moral connotations. Words like "rigged," "punish," "courageous," "renew," "promise," "aid," "trade," "investment," "governance," "democracy," "jeopardy," "suspend," "solidarity," "isolation," "initiated," "model," "poverty-reducing," "law," "fair," "repression," "compensation," "fault," "intimidation," "manipulation," "protest," "disgust," "cornered," "condemned," "desperation," "condoned," "quiet diplomacy," "stature," "hope," "renewal," "greater democracy." These words seem to carry moral weight as they relate to actions, decisions, and outcomes with ethical implications.
+
+Now, for the summary, I need to condense the article into under 200 words, keeping the moral framing intact. The key points are the rigged election in Zimbabwe, the actions by South Africa and Nigeria to suspend Zimbabwe, the impact on the grand bargain for aid, the stance against Mugabe's policies, the opposition's conditions, the trade union strike, Mugabe's lashing out, and Mbeki's role in bringing hope for democracy and economic renewal.
+
+I'll structure the summary to highlight the moral actions and implications, ensuring that the morally framed words are included. I'll make sure the summary flows logically, starting from the election, the actions by South Africa and Nigeria, the implications for aid, the opposition's stance, the strike, Mugabe's reaction, and the hope brought by Mbeki's leadership.
+
+I should avoid any markdown and keep the summary clear and concise, preserving the essential moral elements from the original text. Let me draft this step by step, ensuring each part is covered without exceeding the word limit.
+</think>
+
+**STEP 1:**  
+* rigged  
+* punish  
+* courageous  
+* renew  
+* promise  
+* aid  
+* trade  
+* investment  
+* governance  
+* democracy  
+* jeopardy  
+* suspend  
+* solidarity  
+* isolation  
+* initiated  
+* model  
+* poverty-reducing  
+* law  
+* fair  
+* repression  
+* compensation  
+* fault  
+* intimidation  
+* manipulation  
+* protest  
+* disgust  
+* cornered  
+* condemned  
+* desperation  
+* condoned  
+* quiet diplomacy  
+* stature  
+* hope  
+* renewal  
+* greater democracy  
+
+**SUMMARY:**  
+Zimbabwe's rigged election faced international condemnation as South Africa and Nigeria suspended the country from the Commonwealth, signaling a stand against flawed governance. This move upheld the "Grand Bargain," a commitment by industrialized nations to provide aid, trade, and investment contingent on better governance and democracy in Africa. President Thabo Mbeki of South Africa, despite his "quiet diplomacy," joined the West in criticizing Zimbabwean leader Robert Mugabe, calling for an end to repression and unfair land seizures. The opposition demanded a new election as a condition for unity, while trade unions protested Mugabe's tactics. Cornered by international isolation, Mugabe lashed out, charging opposition leader Morgan Tsvangirai with conspiracy. African leaders must condemn Mugabe's desperation and uphold the New Partnership for Africa's Development, which aims to reduce poverty through good governance. Mbeki's stance brings hope for African economic renewal and greater democracy.  
+**END OF SUMMARY.**

@@ -1,0 +1,61 @@
+Alright, so the user has given me a query where they want me to act as a news summarizer and a moral expert. The task involves two main steps: first, identifying all the morally framed single words in the provided news article, and second, writing a concise summary that preserves these moral framings.
+
+First, I need to understand what constitutes a morally framed word. These are words that carry a strong moral connotation, such as "sovereignty," "interference," "respect," "violates," etc. They are terms that evoke judgments or principles related to right and wrong, justice, fairness, etc.
+
+Looking at the news article, I'll go through each sentence and pick out words that fit this criterion. For example, "sovereignty" is a key term here, as it's central to the Venezuelan officials' arguments against US interference. Other terms like "interference," "respect," "violates," "autonomous," "intervention," "nonintervention," "sovereign," "respectful," "autonomous," "interventionist," "treason," "alarming," "incompetent," "ambiguous," "tensions," "breakdown," "friendship," "commitment," "confidence," "investments," "humanitarian," "extremist," "negotiate," "complicity," "hostages," "parasitic," "misguided," "edge," "diminish," "credibility," "failure," "diplomacy," "inconceivable," "war," "sabotage," "smear," "misled," "trial," "activists," "hostage," "extremist," "negotiate," "complicity," "hostages," "parasitic," "misguided," "edge," "diminish," "credibility," "failure," "diplomacy," "inconceivable," "war," "sabotage," "smear," "misled," "trial," "activists," "hostage," "extremist," "negotiate," "complicity," "hostages," "parasitic," "misguided," "edge," "diminish," "credibility," "failure," "diplomacy," "inconceivable," "war," "sabotage," "smear," "misled," "trial," "activists," "hostage," "extremist," "negotiate," "complicity," "hostages," "parasitic," "misguided," "edge," "diminish," "credibility," "failure," "diplomacy," "inconceivable," "war," "sabotage," "smear," "misled," "trial," "activists."
+
+Once I have all these words listed, the next step is to craft a summary. The summary needs to be concise, no more than 200 words, and must include as many of these morally framed words as possible. I need to ensure that the summary accurately reflects the article's content while highlighting the moral arguments presented by both the Venezuelan government and the opposition.
+
+I'll start by outlining the main points: US Secretary Colin Powell's criticism of Venezuela's foreign policy and democracy, the Venezuelan officials' defense of sovereignty and non-intervention, the opposition's perspective on the government's policies and relations with terrorist groups, and the potential impact on international relations and investments.
+
+I should make sure to include terms like "sovereignty," "interference," "respect," "violates," "autonomous," etc., to maintain the moral framing. I'll structure the summary to first present the Venezuelan government's stance, then the opposition's arguments, and finally the implications for international relations and economic ties.
+
+I need to be careful not to introduce new information or deviate from the article's content. The summary should flow logically, connecting the key moral arguments without being too verbose. I'll also ensure that the summary ends with the "END OF SUMMARY." token as specified.
+
+After drafting the summary, I'll review it to confirm that it meets the word limit and that all morally framed words are appropriately included. This way, the summary will effectively convey the article's moral framing while providing a clear and concise overview of the events and arguments presented.
+</think>
+
+**STEP 1:**  
+* Sovereignty  
+* Interference  
+* Respect  
+* Violates  
+* Autonomous  
+* Intervention  
+* Nonintervention  
+* Sovereign  
+* Respectful  
+* Autonomous  
+* Interventionist  
+* Treason  
+* Alarming  
+* Incompetent  
+* Ambiguous  
+* Tensions  
+* Breakdown  
+* Friendship  
+* Commitment  
+* Confidence  
+* Investments  
+* Humanitarian  
+* Extremist  
+* Negotiate  
+* Complicity  
+* Hostages  
+* Parasitic  
+* Misguided  
+* Edge  
+* Diminish  
+* Credibility  
+* Failure  
+* Diplomacy  
+* Inconceivable  
+* War  
+* Sabotage  
+* Smear  
+* Misled  
+* Trial  
+* Activists  
+
+**SUMMARY:**  
+US Secretary of State Colin Powell criticized Venezuela's foreign policy and democracy under President Hugo Chavez, sparking strong reactions from Venezuelan officials. They accused Washington of violating national sovereignty and interfering in Venezuela's domestic affairs. Venezuelan leaders emphasized their right to autonomy and criticized Powell's comments as inconsistent with international law and the principle of nonintervention. They stressed that Venezuela designs its policies independently and demands respect for its sovereignty. Meanwhile, opposition members linked Powell's concerns to reports of Venezuela's alleged ties with terrorist groups, arguing that such claims could lead to foreign intervention or economic sanctions. They also criticized the government's handling of international relations and its impact on investor confidence. The debate highlighted tensions over Venezuela's foreign policy, sovereignty, and international credibility. END OF SUMMARY.

@@ -1,0 +1,45 @@
+Okay, so the user has given me a query where they want me to act as a news summarizer assistant and a moral expert. They provided a news article about Colorado's marijuana law and neighboring states challenging it. The task is to first identify all the morally framed words and then write a summary preserving those moral framings.
+
+First, I need to understand what morally framed words are. These are words that carry a positive or negative connotation, indicating approval or disapproval. For example, words like "defends," "vigorously," "challenge," "unconstitutional," etc., which imply a moral stance.
+
+I'll start by reading through the article carefully. I need to pick out each word that has a moral connotation. Words like "defends," "vigorously," "challenge," "unconstitutional," "problem," "surprise," "frustrated," "oath," "ought," "grandstanding," "merit," "wrong," "history," "experiment," "surprise," "frustrated," "ought," "grandstanding," "merit," "wrong," "history," "experiment," "surprise," "frustrated," "ought," "grandstanding," "merit," "wrong," "history," "experiment."
+
+Next, I need to write a summary that includes as many of these words as possible. The summary should be concise, around 200 words, and capture the essence of the article while maintaining the moral framing.
+
+I should structure the summary to include the key points: Colorado defending its law, neighboring states' concerns, the lawsuit's basis, the attorney generals' arguments, the impact on finances and law enforcement, the federal stance, and the legal scholars' opinions.
+
+I'll make sure to include words like "defends," "vigorously," "challenge," "unconstitutional," "problem," "frustrated," "grandstanding," "merit," "wrong," "history," "experiment," "surprise," and "frustrated" to maintain the moral tone.
+
+Now, putting it all together, I'll draft the summary, ensuring it's within the word limit and flows naturally while preserving the moral framing from the original article.
+</think>
+
+**STEP 1:**
+
+* Defends  
+* Vigorously  
+* Challenge  
+* Unconstitutional  
+* Problem  
+* Surprised  
+* Frustrated  
+* Oath  
+* Ought  
+* Grandstanding  
+* Merit  
+* Wrong  
+* History  
+* Experiment  
+* Surprised  
+* Frustrated  
+* Ought  
+* Grandstanding  
+* Merit  
+* Wrong  
+* History  
+* Experiment  
+
+**SUMMARY:**  
+
+Colorado's Attorney General, John Suthers, has vowed to "vigorously defend" the state's marijuana legalization law, Amendment 64, after Nebraska and Oklahoma filed a lawsuit claiming it is "unconstitutional" and allows marijuana to "freely flow" into their states. The lawsuit argues that Colorado's law violates the Constitution's supremacy clause, as federal laws "trump" state laws. Suthers dismissed the lawsuit as "without merit," stating it stems from "non-enforcement" of federal laws rather than Colorado's voters' decision. Nebraska Attorney General Jon Bruning claimed Colorado's marijuana is "heavily trafficked" into his state, causing financial and legal "strain." Bruning criticized U.S. Attorney General Eric Holder for failing to enforce federal drug laws. Colorado has generated over $60 million in taxes from marijuana sales, while neighboring states argue they bear the "cost" of enforcement. Legal scholars note the case is "unusual," as states rarely sue each other, and Colorado's law exists in a "legal no-man's-land." Critics, including Scotts Bluff County Sheriff Mark Overman, argue Colorado's marijuana is "extra potent" and a financial "incentive" for traffickers. Colorado Gov. John Hickenlooper called the lawsuit "unconstructive," while legalization advocate Brian Vicente dismissed it as "political grandstanding" without "merit."  
+
+**END OF SUMMARY.**

@@ -1,0 +1,37 @@
+Okay, so the user has given me a query where I need to summarize a news article while preserving the moral framing. They also want me to first identify all the single words that are morally framed. Let me break this down.
+
+First, I need to understand what morally framed words mean. These are words that carry a moral judgment or implication, like "corruption," "shakedown," or "dishonesty." They convey a value judgment rather than just a neutral fact.
+
+Looking at the article, I'll go through each sentence and pick out words that have that moral connotation. For example, "shakedown" clearly implies unethical behavior. "Manipulation" and "dishonesty" also carry negative moral weight. I should list each of these words, each on a new line with an asterisk.
+
+Next, I need to write a concise summary of the article, making sure to include as many of these moral terms as possible. The summary should be under 200 words and capture the essence of the article, highlighting the moral issues involved. I should focus on the key points: Sondland's testimony, the link between aid and investigations, Trump's motivations, and the Republican responses.
+
+I also need to structure the response by first listing the morally framed words and then providing the summary. The user specified using "STEP 1:" and "SUMMARY:" tokens, so I'll make sure to follow that format.
+
+I should double-check that I haven't missed any morally charged words and that the summary accurately reflects the article's content while emphasizing the moral aspects. It's important to keep the summary clear and within the word limit, ensuring it's a faithful representation of the original text's moral framing.
+</think>
+
+**STEP 1:**
+
+Here are the single words that are morally framed in the text:
+
+* shakedown  
+* manipulation  
+* dishonesty  
+* interference  
+* corruption  
+* collusion  
+* obstruction  
+* defame  
+* mud  
+* exonerate  
+* unethical  
+* pressure  
+
+---
+
+**SUMMARY:**  
+
+Sondland testified that he told Ukrainian officials U.S. aid would resume only if Ukraine pursued certain investigations, specifically into the DNC server and Burisma, to benefit Trump politically. He claimed Trump cared only about the public announcement of these investigations, not their actual execution, which would allow Trump to defame Biden and exonerate Russia. Sondland also stated Trump did not care about Ukraine itself, only "big stuff" benefiting him. Republicans argue Sondland never heard Trump directly link aid to investigations, but Sondland inferred the connection. His credibility was questioned, as he claimed ignorance of the Burisma-Biden connection, which seemed dishonest. The testimony revealed Trump's manipulation of Ukraine for political gain, highlighting the unethical nature of the shakedown.  
+
+END OF SUMMARY.

@@ -1,0 +1,13 @@
+<think>
+Alright, I need to help the user summarize this news article. Let me read through it carefully. The article is about Donald Trump's campaign where he talks about building a wall on the Mexico border and the responses from Mexico's former presidents.
+
+First, I notice that Trump asks his supporters who will pay for the wall, and they reply Mexico. But the Mexican government hasn't commented much. However, two former presidents, Vicente Fox and Felipe Calderón, have spoken out against it. Fox used a profanity when saying Mexico won't pay, calling Trump egocentric. He also criticized Trump's support among Hispanic voters, calling them followers of a false prophet. Calderón echoed Fox's sentiment, stating the wall is useless and Mexico won't pay. He also pointed out that Trump is misinformed about immigration and the economic impact. Trump, on the other hand, insists Mexico will pay and was angered by Fox's language, asking for an apology.
+
+I need to condense this into a summary of no more than 200 words. I'll start by mentioning Trump's campaign and the wall plan. Then, note the former presidents' opposition, their quotes, and their criticisms. Also, include Trump's response to Fox's language. I'll make sure the summary is clear and concise, hitting all the main points without going into too much detail.
+
+I should structure it in a logical flow: Trump's plan, the responses from Fox and Calderón, their arguments, and Trump's reaction. Keeping it under 200 words, I'll have to be brief but comprehensive. Let me check the word count as I draft to ensure it's within the limit.
+
+Also, I need to make sure to use the "SUMMARY:" and "END OF SUMMARY." tokens as specified. I'll avoid any markdown and keep the language formal yet clear. Okay, I think I have a good structure in mind. Time to put it all together concisely.
+</think>
+
+SUMMARY: During his campaign rallies, Donald Trump repeatedly asks his supporters who will pay for his proposed border wall with Mexico, to which they respond, "Mexico!" However, Mexico's former presidents, Vicente Fox and Felipe Calderón, have both firmly rejected the idea of Mexico footing the bill. Fox, who served as president from 2000 to 2006, called Trump "egocentric" and criticized his supporters, particularly Hispanic voters, for following a "false prophet." Calderón, who served from 2006 to 2012, dismissed the wall as "completely useless" and argued that Trump is misinformed about immigration. Trump, meanwhile, insists Mexico will pay for the wall and was angered by Fox's use of profanity, demanding an apology. END OF SUMMARY.

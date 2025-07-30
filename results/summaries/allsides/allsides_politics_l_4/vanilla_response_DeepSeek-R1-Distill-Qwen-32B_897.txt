@@ -1,0 +1,23 @@
+<think>
+Alright, I need to help the user by summarizing this news article. The user is a news summarizer assistant, so I should focus on creating a concise summary that captures the key points.
+
+First, I'll read through the article to understand the main events. It's about an attempt to create fake sexual misconduct allegations against Robert Mueller, the special counsel. Jacob Wohl and Jack Burkman are involved, and it seems like a scam that backfired.
+
+I should note that Mueller's office referred the matter to the FBI. The individuals involved are conservative activists, and their plan seems to have been exposed, leading to public scrutiny and media attention. The article mentions that several media outlets covered the story, which might have been part of the plan to divert attention.
+
+I need to keep the summary under 200 words. I'll start by identifying the main elements: who, what, when, where, why. The key points are the attempt to frame Mueller, the individuals involved, the involvement of the FBI, the exposure through media, and the implications.
+
+I'll structure the summary to first mention the attempt, then the individuals, the FBI's involvement, the exposure, and the potential impact on media coverage. I should avoid getting too detailed into each person's background unless it's crucial.
+
+Also, the user wants the summary to start with "SUMMARY:" and end with "END OF SUMMARY." I need to make sure the formatting is correct without any markdown.
+
+I'll make sure the language is clear and concise, avoiding jargon. The summary should inform the reader about the situation without unnecessary details.
+
+Let me draft it step by step. Start with the attempt, mention the individuals, the referral to the FBI, the exposure via Wohl's tweets, the media reaction, and the possible trolling aspect. Conclude with the implications for Mueller's investigation and media resources.
+
+I should check the word count to ensure it's under 200 words. Maybe read it aloud to ensure it flows well and covers all necessary points without being too lengthy.
+
+Finally, I'll format it correctly, starting with the token and ending with the specified token.
+</think>
+
+SUMMARY: A scheme to fabricate sexual misconduct allegations against special counsel Robert Mueller appears to have unraveled, potentially implicating conservative activists in an FBI investigation. Mueller's office referred the matter to the FBI after learning of claims that women were offered money to falsely accuse Mueller. Pro-Trump figures Jacob Wohl and Jack Burkman are central to the controversy. Wohl, a conservative commentator, and Burkman, a Republican lobbyist, were linked to a fake private intelligence company, Surefire, which allegedly promoted the false allegations. The plot, which involved a redacted document claiming a rape accusation against Mueller, was exposed after journalists and online sleuths uncovered its dubious nature. Media outlets widely reported on the scam, diverting attention from other issues ahead of the midterm elections. Burkman insists a press conference revealing Mueller's alleged victims is imminent, but past claims by him have proven unfounded. The FBI is now investigating, and Wohl may face consequences if the scheme is deemed a scam. The incident highlights the potential for such tactics to disrupt Mueller's investigation and divert media focus. END OF SUMMARY.

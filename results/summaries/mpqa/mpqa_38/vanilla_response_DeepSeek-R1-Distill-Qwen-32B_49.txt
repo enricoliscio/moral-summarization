@@ -1,0 +1,16 @@
+Okay, so the user has given me a news article to summarize. They want the summary after a "SUMMARY:" token and ending with "END OF SUMMARY." It should be no longer than 200 words. The article talks about President Bush ordering the CIA to assassinate opponents, contrasting it with Iran's fatwa against Salman Rushdie. 
+
+First, I need to read the article carefully. It mentions that the US is leading the fight against terrorism but is now ordering assassinations without proof. The fatwa against Rushdie caused European countries to protest and recall ambassadors from Iran, but now the US is doing something similar on a larger scale.
+
+I should highlight the contrast between the US's actions and their stance on terrorism. Also, the hypocrisy in Europe's response to Iran versus the US's actions is a key point. The article suggests that Islamic countries should withdraw ambassadors from the US, just as Europe did from Iran.
+
+I need to make sure the summary is concise, capturing the main points: Bush's directive, the comparison with Iran's fatwa, the hypocrisy of human rights supporters, and the call for ambassadors to withdraw. I should keep it under 200 words and structure it clearly.
+
+Let me start by stating Bush's order, then the context of the fatwa and Europe's reaction. Then, point out the hypocrisy and the call for action. Make sure it flows logically and covers all key aspects without going into too much detail.
+
+I think that's a solid approach. Now, I'll draft the summary accordingly, ensuring it's within the word limit and properly formatted with the tokens.
+</think>
+
+SUMMARY:  
+US President Bush has ordered the CIA to assassinate opponents globally, sparking criticism amid claims of leading the fight against terrorism. This directive contrasts with the international outcry over Iran's fatwa against Salman Rushdie for insulting the Prophet Muhammad, which was condemned as a human rights violation. European countries recalled ambassadors from Iran, but the article argues that the US now exceeds this by targeting millions without proof. The Islamic Republic defended the fatwa as a defense of religious rights, while the US's actions are seen as a violation of human rights on a larger scale. The article calls for Islamic countries to withdraw ambassadors from the US, mirroring Europe's move against Iran. It criticizes the US for hypocrisy, given its role in promoting human rights, and warns against regressing to "pre-historic justice." The piece emphasizes the importance of protecting human rights and condemns the US for justifying inhuman behavior through violence.  
+END OF SUMMARY.

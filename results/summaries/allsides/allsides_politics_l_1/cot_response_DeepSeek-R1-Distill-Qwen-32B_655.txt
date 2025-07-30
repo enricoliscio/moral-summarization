@@ -1,0 +1,52 @@
+Okay, so the user has given me a query where I need to act as a news summarizer assistant and a moral expert. The task is to summarize a news article while preserving the moral framing. Let me break this down step by step.
+
+First, I need to understand the article. It's about General Mattis criticizing President Trump. He's saying Trump doesn't try to unite the country and instead divides people. Mattis contrasts this with the American ethos of unity, even referencing the Nazi "divide and conquer" strategy. He also mentions his past stance on not criticizing a sitting president but feels it's now necessary because Trump's actions threaten the American experiment, specifically regarding the response to George Floyd's death and the protests.
+
+Next, the user wants me to identify all single words that are morally framed. I should go through the article and pick out words that carry moral connotations. Words like "unite," "divide," "consequences," "mature," "owe," "pledge," "strength," "crisis," "better," "apathy," "apathy," "service," "service," "silence," "threaten," "experiment," "swore," "violate," "Constitutional," "bizarre," "photo op," "reject," "battlespace," "dominate," "militarizing," "erodes," "moral," "bond," "public," "order," "answerable."
+
+Then, I need to summarize the article, making sure to include as many of these morally framed words as possible. The summary should be concise, around 200 words, and capture the essence of Mattis's criticism and the moral implications he highlights.
+
+I should structure the response by first listing the morally framed words in STEP 1, each on a new line starting with an asterisk. Then, after the SUMMARY token, write a coherent summary that includes these words where appropriate, ensuring it's within the word limit.
+
+I also need to make sure the summary flows well and accurately represents Mattis's arguments. I'll start by stating Mattis's main criticism, then touch on his past stance, the current situation with Trump, the reference to the Constitution, the criticism of military involvement in domestic issues, and the importance of civilian leadership in maintaining order.
+
+I should double-check that each morally framed word is included and that the summary preserves the moral framing as per the original article. Also, ensure that the summary doesn't exceed 200 words and is clear and concise.
+
+Finally, I'll end the summary with "END OF SUMMARY." to adhere to the user's instructions.
+</think>
+
+**STEP 1:**  
+* unite  
+* divide  
+* consequences  
+* mature  
+* owe  
+* pledge  
+* strength  
+* crisis  
+* better  
+* apathy  
+* apathy  
+* service  
+* service  
+* silence  
+* threaten  
+* experiment  
+* swore  
+* violate  
+* Constitutional  
+* bizarre  
+* photo op  
+* reject  
+* battlespace  
+* dominate  
+* militarizing  
+* erodes  
+* moral  
+* bond  
+* public  
+* order  
+* answerable  
+
+**SUMMARY:**  
+General Mattis criticizes President Trump for failing to unite the American people, instead dividing the nation. He contrasts this with the American ethos of unity, referencing the Nazi "divide and conquer" strategy and the American response, "In Union there is Strength." Mattis, who previously refrained from criticizing a sitting president, now argues that Trump's actions threaten the American experiment, particularly in response to George Floyd's death and the ensuing protests. He condemns the use of military troops for domestic policing, stating it violates constitutional rights and erodes the moral bond between the military and civilians. Mattis emphasizes that maintaining public order is the responsibility of civilian leaders, not the military. END OF SUMMARY.

@@ -1,0 +1,41 @@
+<think>
+Okay, so the user has given me a query where they want to summarize a news article, but with a focus on preserving the moral framing. They've also provided an example response, which I can use as a reference. 
+
+First, I need to understand the task. The user wants me to act as a news summarizer and a moral expert. The article is about Chris Christie announcing his candidacy for the 2016 White House run. The user has specified two steps: identifying morally framed words and then summarizing the article while preserving those words.
+
+In the example, the assistant first listed the morally framed words, each on a new line with an asterisk. Then, they wrote a concise summary, making sure to include those words. 
+
+So, my approach should be similar. I need to read the provided article carefully, identify any words that carry a moral connotation. These could be words like "scandals," "plummeting popularity," "deficit," "drift," "rivals," "brash," "challenging," "combative," "maestro," "laughing," "weeping," "hope," "clasp," "hand." Each of these words carries a moral or evaluative tone, either positive or negative.
+
+Next, I have to write a summary that includes as many of these words as possible, without making the summary too long—under 200 words. The summary should capture the main points: Christie announcing his candidacy, his low poll numbers, fundraising issues, scandals affecting his support, and his unique personality-driven campaign style.
+
+I need to ensure that the summary flows naturally while incorporating the morally framed words. It's important to balance between being concise and including all necessary details. Also, the summary should start with "SUMMARY:" and end with "END OF SUMMARY."
+
+I should avoid any markdown and keep the language clear and straightforward. Let me make sure I cover all the key points: his announcement, the challenges he faces, the shift in donor support, and his campaign style. I'll structure the summary to first mention his candidacy, then the challenges, followed by his approach and the mixed reactions to his campaign style.
+
+I think I've covered all the steps. Now, I'll proceed to list the morally framed words and then craft the summary accordingly.
+</think>
+
+**STEP 1:**  
+* uphill climb  
+* low poll numbers  
+* fundraising deficit  
+* scandals  
+* plummeting popularity  
+* mega-donors  
+* drift  
+* rivals  
+* brash  
+* challenging  
+* combative  
+* maestro  
+* enraged  
+* laughing  
+* weeping  
+* hoping  
+* clasp  
+* hand  
+
+**SUMMARY:**  
+New Jersey Governor Chris Christie is expected to announce his candidacy for the 2016 White House race today. Despite facing an uphill climb due to low poll numbers, a fundraising deficit, and scandals, Christie remains a formidable contender. His once strong support from mega-donors has drifted to rivals like Jeb Bush, and his popularity in New Jersey has plummeted. However, Christie’s brash, challenging, and combative personality could be his key asset. Known as a maestro of town hall meetings, he engages with constituents in a way that leaves some enraged but others laughing, weeping, or hoping for a connection. His campaign is likely to hinge on his ability to connect with voters on a personal level, even as he faces significant challenges.  
+**END OF SUMMARY.**

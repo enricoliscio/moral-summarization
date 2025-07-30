@@ -1,0 +1,13 @@
+<think>
+Alright, so I need to help the user by summarizing this news article while preserving the moral framing. The user specified that the assistant is both a news summarizer and a moral expert, so I should focus on the key points and the moral terms used.
+
+First, I'll read through the article to understand the main points. It's about President Trump's decision-making process for replacing James Comey as FBI director. He's considering Joseph Lieberman, a former Democratic senator, despite concerns from his staff. The article mentions that Trump is close to choosing Lieberman but is also considering others like McCabe, McFeely, and Lee. There are moral implications here, such as repairing damage from Comey's firing and the potential conflict of interest with Lieberman's current job.
+
+The user highlighted the words "repair," "damage," and "firing" as morally framed. I need to make sure these words are included in the summary. Also, the summary should be concise, under 200 words, and end with the specified tokens.
+
+I should structure the summary to include Trump's consideration of Lieberman, the staff's concerns, the impact on the FBI's reputation, and the potential issues with Lieberman's age and conflicts. I'll also mention other candidates and the moral implications like repairing damage and the firing's effects.
+
+Let me draft the summary, ensuring it flows well and includes all necessary points with the moral terms emphasized.
+</think>
+
+SUMMARY: President Trump is nearing his self-imposed deadline to select a new FBI director, with Joseph I. Lieberman, a former Democratic senator, emerging as a finalist. However, Trump's staff has urged him to take more time due to concerns about Lieberman's lack of federal law enforcement experience. The FBI, known for its independence, has historically been led by judges or former prosecutors, making Lieberman an atypical choice. Trump emphasized the importance of a "great director" to restore the FBI's reputation, which has been damaged by the Comey firing and the political fallout from the 2016 campaign. While Lieberman is a front-runner, some aides and law enforcement officials advocate hiring from within the agency to repair morale. Other candidates include Acting Director Andrew McCabe, Richard McFeely, and Adam Lee. Lieberman's age (75) and potential conflicts of interest, given his ties to Trump's lawyer, have raised concerns. Trump may appoint Lieberman for a short term to bolster his credibility, but Democrats oppose him, viewing him as a partisan figure. The decision remains fluid, with the White House divided over the best choice to lead the FBI. END OF SUMMARY.

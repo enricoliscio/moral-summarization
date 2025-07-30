@@ -1,0 +1,23 @@
+Okay, so I've got this query from a user who wants me to act as a news summarizer and a moral expert. They provided a news article about the International Space Station crew change and some specific instructions on how to process it. Let me break this down step by step.
+
+First, the user wants me to identify all the single words that are morally framed in the article. They mentioned this as "STEP 1" and want each word listed with a star. I need to go through the article and pick out words that carry moral or ethical connotations. Words like "settled," "trade places," "couldn't wait," "reflecting," and "support" come to mind because they imply actions or decisions that have a moral dimension.
+
+Next, the user wants a summary of the article that preserves the moral framing. The summary should be concise, under 200 words, and include as many of those morally framed words as possible. I need to make sure the summary captures the key points: the new crew arriving, the transition process, the installation of equipment, the commander change, and the personal touches each astronaut brought. I should weave in the moral words naturally without forcing them.
+
+I also need to structure the response with "STEP 1:" followed by each word on a new line, then "SUMMARY:" and the summary, ending with "END OF SUMMARY." I should keep the language clear and straightforward, ensuring it's a proper news summary while highlighting the moral aspects as per the user's request.
+
+I should double-check that I'm not missing any morally framed words and that the summary accurately reflects the article's content. Making sure the summary is concise and flows well is important. I also need to verify that the word count is within the limit. 
+
+Overall, the key is to follow the user's instructions precisely, ensuring both steps are addressed thoroughly and the summary meets all the specified criteria. I should avoid any markdown and keep the response in plain text as requested. Once I'm confident I've covered everything, I can present the final answer as per the user's format.
+</think>
+
+**STEP 1:**  
+* settled  
+* trade  
+* couldn't wait  
+* reflecting  
+* psychological  
+
+**SUMMARY:**  
+Two American astronauts and one Russian cosmonaut arrived at the International Space Station (ISS) aboard the space shuttle Endeavour, settling in for a six-month mission. The new crew, including Russian cosmonaut Yuri Onufrienko, who couldn't wait to take over as commander, joined the existing crew after completing essential tasks like installing seat liners and stowing space suits. The new residents brought personal items reflecting their hobbies, such as fishing gear, weaving materials, and a keyboard for psychological support. Meanwhile, the departing crew, led by Frank Culbertson, prepared to return to Earth after 128 days in space. The shuttle also transferred a cargo carrier, Raffaello, filled with supplies to the ISS, which will later be repurposed for returning waste and used equipment. The transition highlighted the crew's dedication to their mission and the seamless operation of the ISS.  
+**END OF SUMMARY.**

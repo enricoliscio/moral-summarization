@@ -1,0 +1,10 @@
+Okay, so the user wants me to summarize a news article. Let me read through the article first to understand what it's about. The article is about President Cardoso of Brazil discussing the challenges facing Hugo Chavez in Venezuela. 
+
+Hmm, the main points are that Cardoso mentions reestablishing normalcy after last week's conflicts. He talks about opening communication channels and achieving social harmony. Chavez assures that he won't seek revenge against the military involved in the coup attempt. Also, Jimmy Carter supports Chavez's dialogue initiative and plans to visit Venezuela soon.
+
+I need to make sure the summary captures all these key points concisely. The user specified that the summary should be after a "SUMMARY:" token and end with "END OF SUMMARY." Also, it should be under 200 words. I should structure it clearly, starting with Cardoso's statement, then Chavez's assurance, and finally Carter's support and visit.
+
+I should avoid any markdown and keep it straightforward. Let me put it all together, making sure each point is included without being too wordy. That should cover everything the user needs.
+</think>
+
+SUMMARY: Brazilian President Fernando Henrique Cardoso has stated that Venezuelan President Hugo Chavez's main challenge is reestablishing normalcy after last week's conflicts. Cardoso emphasized the importance of opening communication channels and achieving social harmony. Chavez assured Cardoso that he has no intention of seeking revenge against military personnel involved in the failed coup attempt. Additionally, former U.S. President Jimmy Carter has expressed support for Chavez's commitment to dialogue and is expected to visit Venezuela soon. END OF SUMMARY.

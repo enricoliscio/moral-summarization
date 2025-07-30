@@ -1,0 +1,24 @@
+Alright, so the user has given me a query where they want me to act as a news summarizer assistant and a moral expert. The task is to summarize a given news article while preserving the moral framing the author provided. 
+
+First, I need to understand the structure of the query. They've specified two main steps: identifying morally framed words and then writing a summary. The user wants me to list each morally framed word starting with an asterisk under STEP 1, and then provide a concise summary after the SUMMARY token.
+
+Looking at the article, it's about Condoleezza Rice's definition of the "axis of evil." The author is critical of her criteria, pointing out that many countries could fit the description. The key morally framed words here would be terms like "evil," "repressive," "oppressive," "aggressively seeking," and "responsible." These words carry strong moral connotations, so I need to make sure they're included in the summary.
+
+Next, the summary needs to be under 200 words. I should focus on the main points: Rice's criteria, the criticism that many countries fit, the argument that acquisition of weapons alone isn't a sufficient criterion, and the emphasis on regime type. I need to ensure that the moral framing is preserved, so I'll use words like "evil," "repressive," and "responsible" as they appear in the original text.
+
+I should also make sure the summary flows logically, starting with Rice's definition, then the criticism, followed by the counterarguments, and concluding with the need for clearer criteria. This way, the summary stays true to the original article's moral perspective.
+
+I need to be careful not to add any personal opinions, just stick to summarizing the given text while highlighting the moral aspects. Also, the formatting is important—each step should be clearly marked, and the summary should start and end with the specified tokens.
+
+Alright, I think I've got a good plan. I'll first list all the morally framed words, then craft a concise summary that includes them, making sure it's within the word limit and captures the essence of the article's moral argument.
+</think>
+
+**STEP 1:**  
+* Evil  
+* Repressive  
+* Oppressive  
+* Aggressively seeking  
+* Responsible  
+
+**SUMMARY:**  
+Condoleezza Rice, former National Security Adviser, defined the "axis of evil" as Iraq, Iran, and North Korea, citing their repressive nature, human rights violations, and aggressive pursuit of weapons of mass destruction. Critics argue that many other countries could fit this description, as most non-pluralistic democracies are considered oppressive. Rice's focus on "aggressively seeking" such weapons excludes slower-paced developments, yet acquiring mass destruction weapons alone may not define a nation as evil. The U.S., as the first to develop and use nuclear weapons, highlights the moral ambiguity of this criterion. The real issue, critics suggest, is whether the regime is democratic, as democratic states are seen as more restrained and responsible. Rice's criteria could have been more precise by clearly linking the nature of the regime to the acquisition of such weapons. END OF SUMMARY.

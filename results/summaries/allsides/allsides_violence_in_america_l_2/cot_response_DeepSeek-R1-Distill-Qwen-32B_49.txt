@@ -1,0 +1,54 @@
+Okay, so I need to help the user by summarizing this news article while preserving the moral framing. Let me start by understanding the user's query. They want me to first identify all the single words that are morally framed in the article. Then, I have to write a concise summary using those words as much as possible.
+
+First, I'll read through the article to spot words that carry moral connotations. Words like "hate speech," "values," "welcome," "antisemitic," "attack," "polarizing," "fraudulent," "hostility," "fake news," "enemy," "anger," "fraudulent," "harassment," "violence," "mainstream," "rhetoric," "supremacists," "blame," "safety," "solidarity," "grieve," "fundraising," "financial," "support," "grieving," "congregations," "assault," "slurs," "rant," "legally," "licensed," "criminal," "record," "injured," "officers," "exchanged," "gunfire."
+
+Now, I need to make sure the summary includes these words where appropriate. The article talks about the synagogue leader rejecting Trump's visit, the president's rhetoric, the attack details, and community support. I'll structure the summary to cover these points, ensuring I include the moral terms identified.
+
+I should keep the summary under 200 words. Let me outline the key points: Lederman's rejection of Trump, the shooting details, the president's response, the community's reaction, and fundraising efforts. I'll weave in the moral words to maintain the author's framing.
+
+I need to be careful not to add any new information beyond what's in the article. Also, I should ensure the summary flows naturally while incorporating the moral terms. Let me draft it step by step, making sure each sentence includes the necessary moral framing without making it seem forced.
+
+Finally, I'll check the word count to ensure it's within the limit and that all key points are covered. I think this approach should meet the user's requirements effectively.
+</think>
+
+**STEP 1:**  
+* hate speech  
+* values  
+* welcome  
+* antisemitic  
+* attack  
+* polarizing  
+* fraudulent  
+* hostility  
+* fake news  
+* enemy  
+* anger  
+* fraudulent  
+* harassment  
+* violence  
+* mainstream  
+* rhetoric  
+* supremacists  
+* blame  
+* safety  
+* solidarity  
+* grieve  
+* fundraising  
+* financial  
+* support  
+* grieving  
+* congregations  
+* assault  
+* slurs  
+* rant  
+* legally  
+* licensed  
+* criminal  
+* record  
+* injured  
+* officers  
+* exchanged  
+* gunfire  
+
+**SUMMARY:**  
+Lynette Lederman, a former president of the Tree of Life Synagogue in Pittsburgh, has stated that President Donald Trump is not welcome in the city following the tragic mass shooting that killed 11 people. She criticized Trump for his "hate speech" and "polarizing rhetoric," emphasizing that his values do not align with those of the community. A coalition of local Jewish leaders also called for Trump to avoid Pittsburgh until he denounces white nationalism. Trump, however, plans to visit the city despite widespread criticism. The shooting, described as an "antisemitic attack," has sparked outrage and concern over rising antisemitism in the U.S. The suspect, Robert Bowers, is accused of committing the deadliest attack on Jewish people in American history, shouting antisemitic slurs during the massacre. While some community leaders, like Rabbi Jeffrey Myers, welcomed Trump's visit, others expressed frustration with his rhetoric. Fundraising efforts have raised significant support for the grieving community. The suspect, who purchased his firearms legally, is now facing charges and is expected in court. END OF SUMMARY.

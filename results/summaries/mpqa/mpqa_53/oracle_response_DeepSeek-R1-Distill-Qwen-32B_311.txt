@@ -1,0 +1,13 @@
+Alright, so I've got this query where I need to summarize a news article while preserving the moral framing. The user wants me to act as a news summarizer and a moral expert. The article is about Jordan considering signing the Kyoto Protocol despite the US not signing it. The user has specified certain morally framed words that need to be included in the summary.
+
+First, I'll read through the article to understand the main points. Jordan is bound by environmental clauses in their FTA with the US but is still considering the Kyoto Protocol. The minister emphasizes the importance of environmental protection for development. They plan to sign the protocol, which aims to limit greenhouse gases. The US, under Bush, rejected it due to economic reasons.
+
+Now, I need to identify the morally framed words used: protection, protected, signing, intentions, sign, effort, limit, fight, care, development, faltering. I should make sure these words are included in the summary without making it too long, keeping it under 200 words.
+
+I'll start by stating Jordan's consideration of signing the Kyoto Protocol despite the US's rejection. Mention the environmental clauses in the FTA and the minister's stance on protecting the environment for development. Highlight Jordan's intention to sign, the positive impact on their environmental framework, and the difference in national issues between the US and Jordan. Also, note the US's reasons for rejecting the protocol and Jordan's commitment to sustainable development.
+
+I need to ensure the summary flows naturally while incorporating all the key moral terms. Let me structure it step by step, making sure each point is concise and the moral framing is clear. I'll check the word count to stay within the limit. Once done, I'll format it with the required tokens.
+</think>
+
+SUMMARY:  
+Jordan is considering signing the Kyoto Protocol to address global warming, despite the US rejecting it. The country, bound by environmental clauses in its Free Trade Agreement (FTA) with the US, believes protecting the environment is essential for development. Minister Abdul Razzaq Tbeishat emphasized that Jordan's intention to sign the protocol aligns with its commitment to sustainable development and clean industry. The minister noted that while the US faces its own challenges, Jordan prioritizes efforts to limit greenhouse gases and fight climate change. The Kyoto Protocol, signed by 160 countries, aims to reduce emissions, but the US withdrew under the Bush administration due to economic concerns. Jordan's decision to sign reflects its care for environmental protection and its goal of achieving sustainable development. END OF SUMMARY.

@@ -1,0 +1,44 @@
+Okay, so the user has given me a query where they want me to act as a news summarizer assistant and a moral expert. The task involves two steps: first, identifying all the single words that are morally framed in the provided article, and second, summarizing the article while preserving those moral frames.
+
+I need to start by understanding the article. It's about Donald Trump and the claims of collusion with Russia. The author uses strong moral language to critique Trump's actions and character. My first step is to go through the article and pick out words that carry moral connotations. Words like "obedient," "adulation," "deny," "corruption," "lies," etc., seem to fit. I should list each of these under STEP 1, each on a new line with an asterisk.
+
+Next, for the summary, I need to condense the article into 200 words while keeping the moral framing intact. I should mention Trump's denial of collusion despite the guilty pleas from his associates. Highlight his lies, obstruction of justice, and the broader implications of his behavior. The summary should reflect the author's critical stance towards Trump's character and actions.
+
+I have to make sure that the summary flows well and includes all the key points without losing the moral tone. It's important to maintain the author's perspective that the real scandal is Trump himself, not just the collusion allegations.
+
+I should also structure the response clearly, separating STEP 1 and the SUMMARY with the appropriate tokens. Keeping the summary concise but comprehensive is key. I need to avoid any markdown and just use plain text as per the instructions.
+
+Let me review the article again to ensure I haven't missed any morally charged words. Words like "corrupt," "dishonest," "abuse," "betrayal," etc., are all part of the moral framing. Including these in the summary will help preserve the author's viewpoint.
+
+Finally, I'll draft the summary, making sure it's under 200 words and captures the essence of the article while emphasizing the moral aspects. I'll check the word count to stay within the limit and ensure clarity and coherence.
+</think>
+
+### STEP 1:
+* Obeying
+* Adulation
+* Deny
+* Corrupt
+* Lies
+* Obstruction
+* Betrayal
+* Dishonest
+* Abuse
+* Scandal
+* Guilty
+* Fraud
+* Evasion
+* Unfit
+* Mendacity
+* Witch hunt
+* Compulsion
+* High example
+* Appalling
+* Unfit
+* Mendacity
+* Witch hunt
+* Compulsion
+* High example
+* Appalling
+
+### SUMMARY:
+The article critiques Donald Trump's repeated denial of collusion with Russia, despite overwhelming evidence of corruption and dishonesty. Trump's behavior, including lying about his knowledge of illegal campaign contributions and obstructing justice, undermines his credibility. His actions, such as taking Vladimir Putin's word over U.S. intelligence, further highlight his unfitness for office. While Trump may technically avoid collusion charges, his mendacity and compulsion to lie set a appalling example. The real scandal, the author argues, is Trump himself, not just the collusion allegations. His inability to keep his word and his corrupt behavior make him unfit to lead. END OF SUMMARY.

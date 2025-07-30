@@ -1,0 +1,16 @@
+Okay, so I need to help the user by summarizing a news article while preserving the moral framing. The user provided the article and a list of morally framed words. My task is to create a concise summary using those words.
+
+First, I'll read through the article to understand the main points. It's about the U.S. airlifting prisoners from Afghanistan to Guantanamo Bay, the conditions they're held in, some related events like a plane crash, and involvement in the Philippines.
+
+Next, I need to identify the key morally charged words: crashed, died, accident, cruel, inhuman, degrading, uprisings, hostages, ransom, support, clear, owe, maintain, readiness, deception.
+
+I should ensure these words are included in the summary. I'll structure the summary to cover the airlift, the treatment of prisoners, the crash, the situation in the Philippines, and the military spending.
+
+I need to keep it under 200 words, so I'll be concise. I'll mention the prisoners being shackled and sedated, the Geneva Convention protections, the camp conditions, the crash with casualties, the hostages, the U.S. support in the Philippines, and the military spending.
+
+I'll make sure each sentence flows logically, connecting the events while highlighting the moral aspects. I'll avoid adding any new information not in the original article.
+
+Finally, I'll review to ensure all key moral words are included and the summary is within the word limit.
+</think>
+
+SUMMARY: The U.S. began airlifting Taliban and Al Qaeda prisoners from Afghanistan to Guantanamo Bay, with the first flight carrying 20 heavily guarded detainees. The prisoners were shackled, hooded, and possibly sedated during the long flight. Pentagon officials stated the detainees were not classified as prisoners of war but would receive Geneva Convention protections. At Guantanamo Bay, they will be held in Camp X-Ray, where they face interrogation and potential trial. Meanwhile, a Marine Corps tanker plane crashed in Pakistan, killing seven marines, though no evidence of hostile fire was found. The U.S. also prepared to send forces to the Philippines to train troops against Abu Sayyaf militants, with possible direct involvement. Amnesty International criticized the treatment of prisoners as potentially violating international standards against cruel, inhuman, or degrading treatment. Secretary Rumsfeld defended security measures, citing past uprisings. American forces in Afghanistan held 371 prisoners, with numbers expected to rise. The U.S. also increased military spending, with President Bush emphasizing the need to maintain readiness against enemies relying on deception. END OF SUMMARY.

@@ -1,0 +1,17 @@
+<think>
+Alright, I need to help the user by summarizing the given news article while preserving the moral framing. The user mentioned that I should act as a news summarizer assistant and a moral expert, so I have to ensure that the summary captures the essence of the debate between Obama and Romney regarding the government's role in disaster response.
+
+First, I'll read through the article to understand the main points. It talks about how President Obama emphasized federal government assistance during Hurricane Sandy, offering prayers and resources. Romney, on the other hand, focused on local efforts and individual action, citing his high school experience and advocating for decentralizing disaster relief.
+
+I should note the moral perspectives each side presents. Obama's approach highlights the federal government's role as a critical support system, ensuring that states and individuals receive the necessary help. Romney's stance emphasizes local responsibility and private sector involvement, suggesting that relying too much on the federal government isn't sustainable, especially with budget constraints.
+
+I also need to mention the practical outcomes, like Governor Christie's praise for the federal response and the ongoing debate about FEMA's budget. This shows that while Romney's principles are clear, the reality of effective disaster management often requires federal involvement, which aligns with Obama's approach.
+
+I should keep the summary concise, under 200 words, and make sure it's clear and captures the moral debate without getting bogged down in details. I'll structure it to first present Obama's federal approach, then Romney's local and private sector focus, and finally touch on the real-world implications and budget considerations.
+
+Let me start drafting the summary, making sure to include key points and maintain the moral framing. I'll ensure it's balanced and accurately reflects both perspectives without bias. After drafting, I'll check the word count and adjust if necessary to stay within the limit.
+
+Finally, I'll present the summary after the "SUMMARY:" token and end with "END OF SUMMARY." to meet the user's formatting requirements.
+</think>
+
+SUMMARY: The article highlights the ongoing debate over the government's role in disaster response, exemplified by Hurricane Sandy. President Obama emphasized federal assistance, stating, "America's with you," and promising full federal support. He stressed the importance of the federal government as a critical resource for recovery. In contrast, Mitt Romney advocated for local and voluntary efforts, using a parable about individual responsibility to illustrate the virtue of decentralized action. Romney has previously argued that disaster relief should be decentralized, with states and private sectors taking the lead. However, Romney did not dismiss federal aid entirely, and during Hurricane Sandy, Republican Governor Chris Christie praised the federal response, acknowledging the administration's support. The article underscores the tension between federal and local approaches, with Romney's budget-focused concerns about federal spending clashing with Obama's emphasis on federal coordination. Despite political differences, the federal government's role in disaster relief remains crucial, as seen in Sandy's aftermath. END OF SUMMARY.

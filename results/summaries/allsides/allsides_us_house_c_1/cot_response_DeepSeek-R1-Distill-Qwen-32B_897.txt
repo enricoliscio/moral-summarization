@@ -1,0 +1,28 @@
+Alright, I need to help the user by summarizing the given news article while preserving the moral framing. First, I should understand the task. The user wants me to identify all the morally framed single words in the article and then write a concise summary using as many of those words as possible.
+
+Starting with STEP 1, I'll go through the article and pick out words that carry a moral connotation. Words like "impeach," "wrongdoing," "abuse," "obstruction," "treason," "desperate," "unfair," "cheat," "danger," "bias," and "errors" stand out. These words are used to convey judgment or moral evaluation, so they fit the criteria.
+
+Next, for the summary, I need to condense the article into 200 words, making sure to include as many of these moral terms as possible. The summary should capture the key points: the Democrats' push for impeachment, the charges against Trump, Republican opposition, the role of witnesses, and the context of the investigation.
+
+I'll start by stating that Democrats are pushing for impeachment, highlighting the charges of abuse of power and obstruction. I'll mention the Republican opposition, their accusations, and the procedural disruptions. Including details about the withheld aid and the phone call with Ukraine adds context. I'll also note the differing reports from both parties and the lack of evidence for collusion. Finally, I'll touch on the Justice Department's findings regarding the FBI probe.
+
+Throughout, I'll ensure that the moral framing words are included to reflect the original article's tone. This approach should meet the user's requirements effectively.
+</think>
+
+**STEP 1:**
+
+\*impeach  
+\*wrongdoing  
+\*abuse  
+\*obstruction  
+\*treason  
+\*desperate  
+\*unfair  
+\*cheat  
+\*danger  
+\*bias  
+\*errors  
+
+**SUMMARY:**
+
+U.S. Democrats are advancing the case for impeaching President Donald Trump, alleging he abused his power by pressuring Ukraine to investigate political rival Joe Biden, which they argue is a "clear and present danger" to free and fair elections and national security. Democrats accuse Trump of withholding military aid and a White House meeting with Ukraine's president as leverage, violating his oath and putting himself above the country. Republicans oppose the impeachment effort, calling it "desperate" and "unfair," with some labeling it "treason." The hearing was disrupted by a protester, and Republicans objected to Democrats' witnesses and evidence. Democrats argue Trump's actions undermine democracy, while Republicans claim there is no direct evidence of impeachable offenses. The investigation focuses on Trump's July 25 phone call with Ukraine's president, with Democrats emphasizing the risk of foreign interference in U.S. elections. Meanwhile, the Justice Department's watchdog found no political bias in the FBI's 2016 Russia probe. The House Judiciary Committee is set to vote on impeachment charges, with a Senate trial likely if Trump is impeached. END OF SUMMARY.

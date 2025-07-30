@@ -1,0 +1,20 @@
+Okay, so I need to help the user by summarizing a news article while preserving the moral framing. The user provided the article and an example of how the summary should look. Let me start by reading the article carefully.
+
+The article is about a Project Veritas video that shows Kyle Jurek, a Sanders campaign organizer, making controversial statements. He talks about cities burning if Trump is re-elected, supports re-education camps, compares Trump supporters to Nazis, and praises Soviet gulags. He also predicts violence at the Democratic convention.
+
+The user wants a summary that's no longer than 200 words, using the "SUMMARY:" and "END OF SUMMARY." tokens. I should make sure to capture all the key points without losing the moral tone the author intended.
+
+First, I'll identify the main points: Jurek's statements about violence, support for re-education, comparison to Nazis, praise for gulags, and the context of him being a Sanders organizer. Also, mention Project Veritas' involvement and the Sanders campaign's lack of response.
+
+I need to keep the language clear and concise, sticking to the facts while highlighting the moral implications. I should avoid any personal opinions and stick to what's in the article.
+
+Let me structure the summary: start with who Jurek is, his statements about violence, re-education, gulags, and the context of the video. Then mention the Sanders campaign's response or lack thereof, and Project Veritas' role.
+
+I should also note that the video is part of their #Expose2020 series and that they provided FEC records. Maybe include Jurek's comparison to Nazis and his support for re-education through gulags.
+
+Finally, ensure the summary is under 200 words and flows logically. I'll make sure to include all the necessary details without being too verbose.
+
+Alright, I think I have a good structure. Now, I'll draft the summary, making sure each sentence captures a key point and maintains the moral framing.
+</think>
+
+SUMMARY: A Project Veritas video released on Tuesday features Kyle Jurek, a campaign organizer for Sen. Bernie Sanders, making controversial remarks about potential violence if President Trump is reelected. Jurek stated, “F–ing cities burn” and predicted riots at the 2020 Democratic National Convention in Milwaukee, comparing the situation to the 1968 DNC riots in Chicago. He also expressed support for re-educating Trump supporters, likening them to Nazis, and praised Soviet-style gulags as a means of reeducation. Jurek aligned himself with antifa, claiming that violence is the only language fascists understand. The video, part of Project Veritas' #Expose2020 series, includes Federal Election Commission records showing Jurek's employment with the Sanders campaign and a tweet from a Sanders field director praising his work. Project Veritas questioned whether Jurek represents the true face of the Sanders campaign, while the campaign has yet to respond. The video also includes Jurek's threats against less radical liberals and media outlets, such as MSNBC. Critics have accused Project Veritas of deceptive editing, a claim the organization denies. END OF SUMMARY.

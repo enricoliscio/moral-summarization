@@ -1,0 +1,21 @@
+<think>
+Alright, so the user has given me a query where they want a summary of a news article, preserving the moral framing. They've also specified the format, including a "SUMMARY:" token and an "END OF SUMMARY." token, with a word limit of 200 words. 
+
+First, I need to understand the content of the article. It's about Senior White House officials pressuring Congress to pass the Bush tax cuts, warning about a double dip recession if they don't act. Larry Summers is mentioned as a key figure, downplaying the significance earlier but now emphasizing the risks. There's also debate among economists like Rob Shapiro, who argues that the deal isn't enough and that stabilizing the housing market is crucial but not addressed in the current plan.
+
+I should focus on the moral framing here. The officials are using the threat of economic downturn to push for the tax cuts, which has a moral implication of responsibility towards the economy. There's also a moral debate about whether the tax cuts are sufficient or if other measures are needed, like housing stabilization.
+
+I need to make sure the summary captures the key points: the warning about the double dip, the pressure on Democrats, the debate over the effectiveness of the tax cuts, and the alternative of waiting versus the consequences. I should keep it concise, under 200 words, and ensure that the moral elements are clear.
+
+I'll start by identifying the main actors: Senior White House officials, Larry Summers, Rob Shapiro, David Axelrod, and Robert Gibbs. Their arguments and the consequences they mention are crucial. I'll also note the lack of carrots (incentives) and the focus on the risks of inaction.
+
+I should structure the summary to first present the warning, then the debate, and conclude with the administration's push, highlighting the moral responsibility and the potential consequences. I need to avoid jargon and keep it clear and straightforward.
+
+Let me draft a few sentences, ensuring each point is covered without exceeding the word limit. I'll check the word count as I go to stay within the limit. Also, I'll make sure to include the key moral points, like the responsibility to avoid a recession and the sufficiency of the tax cuts versus other needed measures.
+
+After drafting, I'll review to ensure it flows well and accurately reflects the original article's moral framing. I'll make sure the summary is balanced, presenting both the administration's stance and the counterarguments from Shapiro and others.
+
+Finally, I'll format it correctly with the tokens as specified, ensuring it starts with "SUMMARY:" and ends with "END OF SUMMARY." I'll double-check for any grammatical errors or clarity issues before finalizing.
+</think>
+
+SUMMARY: Senior White House officials have intensified pressure on congressional Democrats to pass the Bush tax cuts, warning that inaction could "significantly increase the risk" of a double dip recession. Larry Summers, the outgoing senior economic adviser, emphasized the stakes, stating that failure to pass the bill would "materially increase the risk" of economic stagnation. However, Summers had previously downplayed the significance of extending the tax cuts for the wealthy. Rob Shapiro, a former Clinton administration official, argued that a delay would not cause a double dip but criticized the current deal as insufficient to stimulate the economy meaningfully. Shapiro highlighted the importance of stabilizing housing prices, which is not part of the current plan. The administration is urging Democrats to accept the deal, warning of real consequences like increased taxes and lost unemployment benefits if the bill fails. White House officials are framing the choice as between accepting the package now or risking blame for an economic downturn. The debate reflects a moral dilemma: balancing the need for economic stability against concerns about the fairness and adequacy of the tax cut deal. END OF SUMMARY.

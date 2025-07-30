@@ -1,0 +1,51 @@
+Alright, I need to help the user with their query. They want me to act as a news summarizer assistant and a moral expert. The task is to summarize a news article while preserving the moral framing. 
+
+First, I should understand the structure they want. They mentioned two steps: Step 1 is identifying morally framed words, each on a new line with a star. Then, a summary after "SUMMARY:" and ending with "END OF SUMMARY." The summary should be under 200 words.
+
+Looking at the article, I need to find words that carry moral connotations. Words like "charges," "investigation," "vendetta," "wrongdoing," "vindicated," "dedication," "tenacity," "public service," "violations," "fraud," "illegal," "straw donors," "improprieties," "guilty," "fraudulent," "deceptive," "expletive," "stormed," "accused," "protested," "valid," "acknowledged," "denied," "pleaded guilty," "fraud," "funneled," "accused," "lied," "dishonest," "undermined," "questioned," "public trust," "legitimacy," "transparency," "integrity." 
+
+Next, I need to write a concise summary. I'll start by stating the charges against Grimm, mention the investigation, his attorney's claims of a politically driven vendetta, his assertion of innocence, and the ongoing service. Then, I'll include the Ethics Committee's investigation, the reporter incident, the contributions from the rabbi's followers, Biton's guilty plea, and the sealed complaint against the woman. I'll highlight the moral implications like fraud, illegal contributions, and the impact on public trust.
+
+I should ensure the summary flows well, includes key points, and preserves the moral framing without exceeding 200 words. I'll make sure to use the identified words where appropriate to maintain the moral tone.
+</think>
+
+**STEP 1:**  
+* Charges  
+* Investigation  
+* Vendetta  
+* Wrongdoing  
+* Vindicated  
+* Dedication  
+* Tenacity  
+* Public service  
+* Violations  
+* Fraud  
+* Illegal  
+* Straw donors  
+* Improper  
+* Guilty  
+* Fraudulent  
+* Deceptive  
+* Expletive  
+* Stormed  
+* Accused  
+* Protested  
+* Valid  
+* Acknowledged  
+* Denied  
+* Pleaded guilty  
+* Fraud  
+* Funneled  
+* Accused  
+* Lied  
+* Dishonest  
+* Undermined  
+* Questioned  
+* Public trust  
+* Legitimacy  
+* Transparency  
+* Integrity  
+
+**SUMMARY:**  
+New York Republican Rep. Michael Grimm faces criminal charges after a two-year FBI investigation into his business and campaign history. Grimm's attorney claims the investigation is politically motivated, asserting his innocence and dedication to public service. The House Ethics Committee had also been investigating Grimm for potential campaign finance violations, but deferred its inquiry due to a Department of Justice investigation. Grimm recently confronted a reporter, threatening him after questioning Grimm about the investigation. Grimm acknowledged receiving contributions from followers of an Israeli rabbi, though he denies knowledge of any impropriety. An Israeli businessman, Ofer Biton, pleaded guilty to immigration fraud, and the FBI accused a woman linked to Grimm of using straw donors for illegal campaign contributions. Grimm's office did not respond to requests for comment. The case highlights concerns about fraud, transparency, and public trust in political processes.  
+**END OF SUMMARY.**

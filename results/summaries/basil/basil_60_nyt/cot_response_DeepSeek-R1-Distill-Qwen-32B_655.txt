@@ -1,0 +1,25 @@
+<think>
+Alright, I need to help the user with their query. They want me to act as a news summarizer assistant and a moral expert. The task is to summarize a given news article while preserving the moral framing. 
+
+First, I'll read the article carefully. It's about Donald Trump's campaign rallies where he talks about building a wall on the Mexico border and asks who will pay, to which his supporters reply Mexico. The article mentions two former Mexican presidents, Vicente Fox and Felipe Calderón, who both oppose Trump's plan. They use strong language, calling Trump egocentric and a false prophet, and state that Mexico won't pay for the wall. Trump counters by saying he can make Mexico pay and criticizes Fox's use of profanity.
+
+Now, the user has specified two steps. Step 1 is to identify all single words that are morally framed. I need to go through the article and pick out words that carry a moral judgment. Words like "egocentric," "false prophet," "stupid," "harm," "criticized," and "profanity" come to mind. These words convey judgment or evaluation, so they fit the moral framing.
+
+Next, for the summary, I need to condense the article into 200 words or less, preserving as many of these morally framed words as possible. I'll start by outlining the main points: Trump's wall plan, the supporters' response, the former presidents' opposition, their criticisms, and Trump's counterarguments. I'll make sure to include the moral terms to maintain the original framing.
+
+I should structure the summary to flow logically, starting with Trump's plan, then the opposition from Mexico's former leaders, their reasons, and finally Trump's response. Keeping it concise but comprehensive is key. I'll also ensure that the summary doesn't exceed the word limit and that it accurately reflects the moral elements present in the original text.
+
+Finally, I'll present the summary after the specified tokens, making sure it's clear and meets all the user's requirements. I'll double-check that all the morally framed words are included and that the summary effectively captures the essence of the article with the appropriate tone.
+</think>
+
+**STEP 1:**  
+* egocentric  
+* false prophet  
+* stupid  
+* harm  
+* criticized  
+* profanity  
+
+**SUMMARY:**  
+At his campaign rallies, Donald Trump repeatedly asks, “Who’s gonna pay?” for his proposed border wall, to which his supporters reply, “Mexico!” However, former Mexican presidents Vicente Fox and Felipe Calderón have strongly opposed this plan, stating Mexico won’t pay. Fox called Trump “egocentric” and a “false prophet,” urging Hispanic voters to “open their eyes.” Calderón dismissed the wall as “stupid” and ineffective, arguing it would harm America’s economy. Trump insists he can compel Mexico to pay, but he criticized Fox for using profanity in his comments. The moral framing highlights Trump’s egocentric approach, the opposition’s frustration with his proposals, and the clash over responsibility and economic impact.  
+**END OF SUMMARY.**

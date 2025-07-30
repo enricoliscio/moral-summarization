@@ -1,0 +1,36 @@
+Alright, so I need to help the user by summarizing this news article while preserving the moral framing. First, I should understand what the user is asking for. They want me to act as a news summarizer and a moral expert. The task has two parts: first, identifying all the single words that are morally framed in the article, and second, writing a summary that includes as many of those moral words as possible.
+
+Looking at the article, it's about the U.S. Treasury Secretary not meeting a deadline to hand over President Trump's tax returns. The article mentions the conflict between Congress and the administration, legal battles, and the moral implications of the actions taken by both sides.
+
+For the first step, I need to go through the article and pick out words that carry a moral connotation. Words like "failed," "deadline," "stage," "court battle," "possible," "stage," "legal fight," "unprecedented," "fishing expedition," "refuse," "contempt," "penalties," "jail time," "contempt," "corrupt," "contempt," "corrupt," "contempt," "corrupt," "contempt," "corrupt." These words seem to carry moral weight as they relate to duties, responsibilities, and ethical behavior.
+
+Now, for the summary, I need to condense the article into 200 words, making sure to include these moral terms. The summary should capture the essence of the situation, highlighting the conflict, the missed deadlines, the legal implications, and the moral stance of both parties. I should ensure that the moral framing is preserved, showing the tension between Congress's duty to investigate and the administration's refusal, which is seen as contemptuous and corrupt.
+
+I should structure the summary by first stating that Mnuchin missed the deadline, leading to a possible court battle. Then, mention the Democrats' request for the tax returns, their reasons, and the Republicans' counterarguments. Include the legal threats and the moral accusations from both sides. Finally, note the expectation of a Supreme Court decision.
+
+I need to be concise but include all key points and the moral language. I'll make sure each sentence flows logically, connecting the actions with their moral implications. Let me draft the summary, keeping an eye on the word count and ensuring all important moral terms are included without making it too verbose.
+</think>
+
+### STEP 1:
+* failed  
+* deadline  
+* stage  
+* court battle  
+* possible  
+* stage  
+* legal fight  
+* unprecedented  
+* fishing expedition  
+* refuse  
+* contempt  
+* penalties  
+* jail time  
+* contempt  
+* corrupt  
+* contempt  
+* corrupt  
+
+---
+
+### SUMMARY:
+U.S. Treasury Secretary Steven Mnuchin failed to meet a final congressional deadline for providing President Donald Trump’s tax returns, setting the stage for a possible court battle. House Ways and Means Committee Chairman Richard Neal had demanded the records, but Mnuchin missed the 5 p.m. deadline, prompting Neal to threaten legal action. Democrats argue that Trump’s tax returns are necessary to investigate potential conflicts of interest, while Republicans accuse them of a political "fishing expedition." Trump has refused to release his returns, citing an audit, though his former lawyer, Michael Cohen, claimed no audit was ongoing. Mnuchin claimed the request was "unprecedented" and that the Treasury could not act without legal clearance. Democrats accused the administration of contempt for the rule of law, with Representative Bill Pascrell calling Mnuchin’s actions "corrupt." The impasse is expected to escalate to the Supreme Court, with legal experts warning of potential financial penalties and jail time for noncompliance. END OF SUMMARY.

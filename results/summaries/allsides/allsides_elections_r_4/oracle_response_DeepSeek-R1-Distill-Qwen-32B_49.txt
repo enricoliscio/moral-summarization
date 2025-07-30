@@ -1,0 +1,16 @@
+Alright, I need to help the user by summarizing the provided news article while preserving the moral framing. The user has specified that I should focus on the morally charged words the author used. 
+
+First, I'll read through the article to understand the main points. It's about Trump's refusal to accept election results and his disregard for democratic norms. The author uses strong language like "refused," "reject," "sham," and "travesty" to emphasize Trump's actions.
+
+I should identify all the morally framed words the user listed and make sure to include them in the summary. The summary needs to be concise, under 200 words, and should capture the essence of the article while highlighting the moral issues.
+
+I'll start by noting Trump's refusal to accept the election results and his history of rejecting democratic norms. Then, I'll mention his past actions, like the 2012 tweet and his encouragement of violence. I'll include his claims of a rigged election and his admiration for authoritarian leaders. Finally, I'll touch on his authoritarian policies and his view of himself as the sole problem-solver.
+
+I need to make sure the summary flows well and includes all the key points without being too wordy. I'll structure it to show Trump's consistent disrespect for democracy and his authoritarian tendencies, using the specified moral terms.
+
+Let me draft this, ensuring each sentence incorporates the moral framing words. I'll check the word count to stay within the limit. Once done, I'll present it after the "SUMMARY:" token as per the instructions.
+</think>
+
+SUMMARY:  
+The article highlights Donald Trump's consistent rejection of democratic norms and his disdain for the principles of peace, acceptance, and respect for the electoral process. Trump has repeatedly refused to accept the legitimacy of elections, declaring the 2016 election as "rigged" and dismissing the notion of a fair democratic process. His behavior, from his 2012 tweets calling the election a "total sham" to his encouragement of violence at rallies, demonstrates a clear hostility toward democratic principles. Trump has also disrespected the Constitution, promising to violate its essential rules, such as dismissing free speech and suggesting authoritarian policies like banning Muslims, closing mosques, and retaliating against critical media. His admiration for authoritarian leaders like Putin, Saddam Hussein, and Assad further underscores his disdain for democracy. Trump's refusal to acknowledge the legitimacy of the electoral process, combined with his authoritarian tendencies, raises concerns about his commitment to constitutional democracy. His belief in his own unchecked power and his rejection of democratic norms make it clear that he seeks to be an unaccountable leader, not a president of a democratic republic.  
+END OF SUMMARY.

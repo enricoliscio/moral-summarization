@@ -1,0 +1,23 @@
+<think>
+Alright, so the user has given me a task to summarize a news article about a bill introduced by House Democrats to protect Dreamers. They want the summary to be concise, no more than 200 words, and to follow a specific format with "SUMMARY:" and "END OF SUMMARY." tokens.
+
+First, I need to read through the article carefully to understand the main points. The article talks about the introduction of the Dream and Promise Act by House Democrats, which aims to grant permanent protections to undocumented immigrants brought to the U.S. as children. The key issue is that while this bill is moving through the House, its fate in the Senate is uncertain because of Republican opposition over the years.
+
+I should note the historical context: the DREAM Act has seen support from some Republicans in the past, but over time, especially with the rise of more conservative elements within the party, support has dwindled. The article mentions how the number of Republican co-sponsors decreased from 12 in 2003 to none by 2011. This shift is important because it shows the changing stance within the GOP.
+
+Also, the DACA program, which was established under Obama, is mentioned as being ended by Trump but blocked by courts, leaving Dreamers in limbo. This context explains why the House is pushing for a legislative fix now.
+
+The article also discusses the challenges in the Senate, with some Republicans like Roy Blunt being pro-Dreamers but hesitant to commit to voting without seeing details. Others, like Lindsey Graham, suggest a more comprehensive approach, which might involve border security or changes to the immigration system. Marco Rubio's stance is another point to include, as he's a former supporter but now opposes a stand-alone bill due to potential amendments.
+
+I need to make sure the summary captures the introduction of the bill, the historical Republican support shift, the current Senate dynamics, and the challenges faced in passing the bill. It's important to highlight that while the House is moving forward, the Senate's Republican majority makes the bill's passage unlikely.
+
+I should structure the summary to first introduce the bill, then discuss the historical context of Republican support, the current Senate situation, and the challenges faced. Keeping it under 200 words is crucial, so I'll need to be concise and avoid unnecessary details.
+
+Also, I need to ensure that the summary starts with "SUMMARY:" and ends with "END OF SUMMARY." without any markdown, just plain text. The user provided an example, so I can follow that structure.
+
+I should also check for any key statistics, like the number of House co-sponsors (over 190) and the number of Dreamers affected (over 800,000). Including these adds context to the significance of the bill.
+
+Lastly, I'll need to make sure the summary flows logically, starting from the introduction of the bill, moving through historical context, current Senate stance, and concluding with the challenges and likelihood of passage. This structure will help the reader understand the situation clearly.
+</think>
+
+SUMMARY: House Democrats introduced the Dream and Promise Act, a bill to grant permanent protections to undocumented immigrants brought to the U.S. as children (Dreamers). The bill's fate hinges on Senate Republicans, who have increasingly opposed such measures due to internal party divisions and concerns over "amnesty." Once widely supported, the DREAM Act lost GOP backing as conservative elements framed it as amnesty. Senate Republicans have struggled to agree on a solution, with many now prioritizing border security or immigration system overhauls. The bill, which also aids those with Temporary Protected Status (TPS), faces slim chances in the Republican-led Senate. Senators like Roy Blunt and Lindsey Graham remain cautious, while others like Marco Rubio oppose a stand-alone bill, fearing amendments and political fallout. The bill's prospects in the Senate appear dire, reflecting the party's polarization and resistance to standalone immigration fixes. END OF SUMMARY.

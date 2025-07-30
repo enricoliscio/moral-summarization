@@ -1,0 +1,48 @@
+Okay, so the user has given me a query where I need to summarize a news article while preserving the moral framing. They also want me to identify all the morally framed words first. Let me break this down step by step.
+
+First, I need to understand what morally framed words are. These are words that carry a strong moral connotation, such as 'evil', 'pray', 'condolences', etc. They reflect the author's moral stance or evaluation of the events.
+
+Looking at the provided news article, I should go through each sentence and pick out these words. Words like 'evil', 'pray', 'condolences', 'bonds', 'unshattered', 'crushed', 'comfort', 'hope', 'innocent','safety', 'fear', 'well-planned','major', 'open air', 'automatic weapons', 'lone wolf', 'fearing','motive','sorrow', 'grief', 'healing','strength', 'unity', 'darkness', 'light','meaning', 'blessed', 'condolences','sympathy', 'terrible', 'God', 'bless', 'pray', 'entire nation', 'evil banished', 'innocent safe', 'hatred', 'fear', 'praying', 'comfort', 'dark period', 'broken hearted','saves', 'crushed in spirit', 'unity', 'evil shattered', 'violence broken', 'light in darkness', 'hope', 'evil banished', 'innocent safe', 'hatred', 'fear', 'pray', 'entire nation', 'evil banished', 'innocent safe', 'hatred', 'fear', 'pray', 'entire nation', 'evil banished', 'innocent safe', 'hatred', 'fear', 'pray', 'entire nation', 'evil banished', 'innocent safe', 'hatred', 'fear', 'pray', 'entire nation', 'evil banished', 'innocent safe', 'hatred', 'fear', 'pray', 'entire nation', 'evil banished', 'innocent safe', 'hatred', 'fear'.
+
+Wait, that seems repetitive. Maybe I should list each unique word once. Let me go through the article again to make sure I capture all the unique morally framed words without repetition.
+
+Next, I need to write a concise summary of the article, making sure to include as many of these morally framed words as possible. The summary should be no longer than 200 words. I should focus on the key points: Trump's address, the attack details, his actions, the moral language used, and the suspect information.
+
+I also need to structure the response with STEP 1 listing each word, and then the SUMMARY section. I have to ensure the summary flows naturally while incorporating the moral terms. I'll start by outlining the main events and then weave in the moral language where appropriate.
+
+Finally, I'll review the summary to make sure it's within the word limit and that all key points are covered. I should also check that the moral framing is preserved, reflecting the gravity and the emotional response to the attack.
+</think>
+
+**STEP 1:**
+
+* evil  
+* pure evil  
+* faith  
+* prayers  
+* very dark period  
+* comfort  
+* unity  
+* bonds  
+* shared values  
+* hope  
+* innocent  
+* safety  
+* hatred  
+* fear  
+* well-planned  
+* major  
+* open air  
+* automatic weapons  
+* lone wolf  
+* fearing  
+* motive  
+* sorrow  
+* grief  
+* healing  
+* strength  
+
+---
+
+**SUMMARY:**  
+President Trump addressed the nation after the Las Vegas attack, calling it an "act of pure evil" and expressing solidarity with the victims' families. He vowed to visit Las Vegas, ordered flags to be flown at half-staff, and emphasized unity, faith, and shared values in the face of tragedy. Trump prayed for the nation, seeking light in the darkness and hope amidst sorrow. Authorities identified the suspect, Stephen Paddock, and noted the attack was well-planned, involving automatic weapons. The motive remains unclear, but officials described it as a lone wolf attack. Melania Trump also offered condolences. The nation grieves together, seeking comfort and strength in unity and faith.  
+**END OF SUMMARY.**

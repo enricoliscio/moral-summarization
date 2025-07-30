@@ -1,0 +1,23 @@
+<think>
+Alright, I need to help the user by summarizing the news article while preserving the moral framing. First, I should understand the task. The user wants me to identify all the morally framed words in the article and then create a concise summary using those words where possible.
+
+Looking at the article, I see several moral terms. Words like "hold up," "accounting," "deception," "stonewalled," "accountable," "unprecedented," and "inappropriate" stand out. These words carry moral weight and reflect the author's framing of the situation.
+
+Next, I need to write a summary that includes these terms. The summary should be under 200 words and capture the essence of the article. I'll start by outlining the main points: Sen. Graham's actions, the context of the Benghazi attacks, his demands for information, the political implications, and the opposing views from Democrats.
+
+I'll ensure that the summary flows logically, starting with Graham's suggestion, his reasons, the implications for the nominations, and the criticism from Democrats. I'll incorporate the identified moral terms to maintain the original framing.
+
+I should also keep the language clear and concise, making sure not to exceed the word limit. It's important to highlight the key points without getting bogged down in details. I'll double-check that all the moral words are included where appropriate and that the summary accurately reflects the article's content and tone.
+</think>
+
+**STEP 1:**  
+* Hold up  
+* Accounting  
+* Deception  
+* Stonewalled  
+* Accountable  
+* Unprecedented  
+* Inappropriate  
+
+**SUMMARY:**  
+Republican Sen. Lindsey Graham has suggested delaying the confirmation of President Obama’s nominees for the CIA and Defense Department until the White House provides more details about its response during the Benghazi attacks. Graham criticized the administration’s handling of the incident, questioning whether the White House contacted the Libyan government for assistance. He emphasized that no confirmation should occur without information, calling for accountability from the president. Graham has also demanded that outgoing Defense Secretary Leon Panetta testify about the attacks, and he accused the White House of delaying, denying, deceiving, and stonewalling. Democrats, including Sen. Jack Reed, have criticized Graham’s actions as unprecedented and inappropriate, arguing that his focus on the tragedy to block nominations is not appropriate. Meanwhile, Sen. James Inhofe threatened to filibuster the Hagel nomination, requiring 60 votes for confirmation. Republicans oppose Hagel over concerns about his support for Israel and U.S. military action against Iran. END OF SUMMARY.

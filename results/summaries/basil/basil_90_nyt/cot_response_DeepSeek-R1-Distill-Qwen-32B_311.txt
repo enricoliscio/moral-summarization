@@ -1,0 +1,34 @@
+Okay, so the user has given me a query where they want me to act as a news summarizer assistant and a moral expert. The task is to summarize a news article while preserving the moral framing the author provided. They've also specified two steps: first, identifying all the single words that are morally framed, and then writing a concise summary that includes as many of these words as possible.
+
+First, I need to understand what "morally framed words" mean. These are words that carry a moral judgment or imply a value judgment. They could be positive or negative, but they're used to convey approval or disapproval. For example, words like "dishonest," "disgraceful," or "unjust" carry moral weight.
+
+Looking at the provided news article, I'll go through it to identify such words. I should list each one with a star and a new line. Once I have that list, I'll move on to the summary.
+
+The summary needs to be under 200 words, so I have to be concise. I should include the key events: Representative Tlaib's expletive-laden impeachment promise, the reactions from both parties, the stance of Democratic leaders, the mention of the Mueller investigation, and the potential political implications. I must make sure to incorporate as many of the morally framed words as possible without making the summary too long.
+
+I also need to ensure that the summary accurately reflects the moral framing, so I should use words like "dishonored," "disrespectful," "disgraceful," etc., as they were used in the original text. This will help preserve the author's tone and intent.
+
+I should structure the summary to first mention the event, then the reactions from both sides, and finally the broader implications. This way, it's clear and covers all necessary points concisely.
+
+Now, I'll start by identifying the morally framed words. Let me read through the article again and pick out those terms. Once I have that list, I'll draft the summary, making sure to include these words where appropriate and keeping the summary within the word limit.
+</think>
+
+### STEP 1:  
+* Dishonored  
+* Disgraceful  
+* Disrespectful  
+* Out-of-control  
+* Overreaction  
+* Threaten  
+* Destroy  
+* Peril  
+* Obstruction of justice  
+* High crimes and misdemeanors  
+* Unjust  
+* Unfair  
+* Martyr  
+
+---
+
+### SUMMARY:  
+The article details the fallout from Representative Rashida Tlaib’s expletive-laden promise to impeach President Trump, which sparked controversy and political tension. Tlaib’s comments drew criticism, including racially tinged remarks, while Democrats distanced themselves, emphasizing the premature nature of impeachment discussions. Trump, however, embraced the topic, claiming Democrats were plotting against him. Pelosi and other Democratic leaders cautioned against rushing into impeachment, fearing political backlash. Tlaib stood by her remarks, framing them as a form of “truth to power.” Meanwhile, other Democrats, like Brad Sherman and Al Green, introduced impeachment articles, focusing on obstruction of justice. The article highlights the growing divide between Democrats eager to impeach Trump and party leaders who prioritize caution. Republicans, meanwhile, criticized Tlaib and warned of Democratic overreach. The situation underscores the delicate balance between pursuing justice and avoiding political martyrdom for Trump. END OF SUMMARY.

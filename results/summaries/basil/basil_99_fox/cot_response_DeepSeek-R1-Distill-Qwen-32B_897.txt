@@ -1,0 +1,29 @@
+Okay, I need to help the user by summarizing the given news article while preserving the moral framing. The user has specified a two-step process: first, identify all the single words that are morally framed, and second, write a concise summary using those words. 
+
+Starting with STEP 1, I'll go through the article to find words that carry moral connotations. Words like "demanded," "slammed," "incompatible," "urged," "immediately," "lying," "leaking," "outrageous," "conspiracy," "false," "undermining," "faith," "attack," "intimidated," and "distracted" stand out as they imply blame, wrongdoing, or strong criticism.
+
+Now, for the summary, I need to incorporate these words while keeping it under 200 words. I'll structure it to highlight the Republicans' demand for Schiff's resignation, their criticism of his claims despite Mueller's findings, and Schiff's defense. I'll also include Pelosi's support for Schiff and the focus on releasing the Mueller report. 
+
+I should ensure that the summary flows naturally and includes the key points: the Republicans' actions, Schiff's defense, the Mueller report's conclusion, and the political implications. I'll make sure to use the morally framed words to maintain the original tone.
+</think>
+
+**STEP 1:**  
+* demanded  
+* slammed  
+* incompatible  
+* urged  
+* immediately  
+* lying  
+* leaking  
+* outrageous  
+* conspiracy  
+* false  
+* undermining  
+* faith  
+* attack  
+* intimidated  
+* distracted  
+
+**SUMMARY:**  
+Every Republican on the House Intelligence Committee demanded Rep. Adam Schiff step down as chairman, citing his claims of Trump-Russia collusion as incompatible with his duties. They accused him of lying and leaking, urging his immediate resignation. President Trump and Sen. Lindsey Graham also criticized Schiff, with Graham comparing him to Oliver Stone. Schiff defended his stance, pointing to Russian interference in the 2016 election, despite Mueller's findings of no collusion. Democrats, led by Nancy Pelosi, dismissed calls for Schiff's removal, calling them "absolutely ridiculous," and emphasized their commitment to securing the full Mueller report. The conflict highlights the ongoing political divide over the Russia investigation.  
+**END OF SUMMARY.**

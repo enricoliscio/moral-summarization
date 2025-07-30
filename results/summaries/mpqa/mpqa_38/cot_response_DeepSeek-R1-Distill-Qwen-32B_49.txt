@@ -1,0 +1,39 @@
+Okay, so I need to help the user with their query. They provided a news article and want me to act as a news summarizer and moral expert. The task has two parts: first, identify all the morally framed single words, and second, write a summary preserving those moral framings.
+
+Starting with the first step, I need to go through the article and pick out words that carry moral connotations. The article is critical of the US, comparing their actions to those of Iran, so I should look for words that express judgment or moral evaluation.
+
+Reading through the article, I see words like "assassinate," "opponents," "terrorism," "protest," "crushed," "honest," "cruelty," "inhuman," "silence," "cries," "noise," "oppression," "unjust," "hypocrisy," "oppression," "injustice," "wrongdoing," "oppression," "injustice," "wrongdoing," "oppression," "injustice," "wrongdoing." Each of these words carries a negative moral charge, highlighting the author's disapproval of the US actions and support for Iran's stance.
+
+Now, for the summary. I need to condense the article while keeping the moral framing intact. The key points are Bush's assassination order, the contrast with Iran's fatwa, the hypocrisy of the US and Europe, and the call for Islamic countries to withdraw ambassadors. I should make sure to include the morally charged words identified earlier to maintain the author's perspective.
+
+I'll structure the summary to highlight the moral inconsistency: the US condemning Iran for a fatwa but then issuing its own assassination directive. Emphasize the hypocrisy and the call for action from Islamic countries. Keep it concise, under 200 words, and ensure it flows logically.
+
+I should also make sure the summary starts with the "SUMMARY:" token and ends with "END OF SUMMARY." to meet the user's formatting requirements. Let me draft that, ensuring all the key moral points are included without making it too lengthy.
+
+Double-checking the word count to stay within limits. Maybe combine some sentences to keep it tight. Ensure that the moral framing words are present to reflect the author's viewpoint accurately.
+</think>
+
+**STEP 1:**  
+* Assassinate  
+* Opponents  
+* Terrorism  
+* Protested  
+* Crushed  
+* Human rights principles  
+* Pressure  
+* Fatwa  
+* Violating  
+* Cruelty  
+* Inhuman  
+* Silenced  
+* Justice-seeking  
+* Oppression  
+* Hypocrisy  
+* Injustices  
+* Wrongdoing  
+* Oppression  
+* Injustices  
+* Wrongdoing  
+
+**SUMMARY:**  
+US President Bush has ordered the CIA to assassinate America's opponents globally, a move criticized as hypocritical given the US's claim to lead the fight against terrorism. The article draws a parallel with Iran's fatwa against Salman Rushdie, which was widely condemned by Western countries as a violation of human rights. The author argues that the US's assassination directive, targeting millions without evidence, is a far greater violation of human rights than Iran's fatwa. The article condemns the US for its inhuman behavior and calls for Islamic countries to withdraw ambassadors from the US, mirroring the European response to Iran. The author criticizes the US for resorting to pre-historic justice and warns against wasting the progress made in human rights. The US's actions are seen as an attempt to silence global justice-seeking cries through violence, highlighting the hypocrisy of its stance on human rights. END OF SUMMARY.

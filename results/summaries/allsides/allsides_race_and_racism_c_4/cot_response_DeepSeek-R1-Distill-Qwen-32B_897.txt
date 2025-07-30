@@ -1,0 +1,75 @@
+<think>
+Okay, I need to help the user with their query. They want me to act as a news summarizer and a moral expert. The task is to summarize a given news article while preserving the moral framing. 
+
+First, I should understand the structure they want. They mentioned two steps: Step 1 is identifying morally framed words, and Step 2 is writing the summary. 
+
+Looking at the article, it's about the Tulsa race massacre. The moral framing here involves words that evoke strong emotions or ethical issues. I'll go through the text to find words like "mass graves," "violence," "oppression," etc. These words carry moral weight because they highlight the injustice and suffering.
+
+Next, for the summary, I need to condense the article into 200 words. I should include the key points: the discovery of mass graves, the historical context of the massacre, the initial and revised death tolls, the historical erasure, and the ongoing efforts to uncover the truth. I must ensure that the morally charged words are retained to preserve the author's framing.
+
+I should also mention the cultural impact, like the HBO show and the upcoming films, as they highlight the resurgence of awareness about the event. It's important to note the systematic effort to erase the massacre from history and the implications of that erasure on American narratives.
+
+I need to make sure the summary flows logically, starting with the discovery, moving through the historical context, the reasons for the event being forgotten, and ending with current efforts to remember it. This structure will help convey the moral implications effectively.
+
+Finally, I'll double-check that the summary doesn't exceed 200 words and that all key points are covered with the appropriate moral language. This should meet the user's requirements and provide a clear, concise summary that reflects the article's moral framing.
+</think>
+
+**STEP 1:**  
+* Mass graves  
+* Racial violence  
+* Forgotten  
+* Vibrant  
+* Successful  
+* Deadly  
+* Assault  
+* White resentment  
+* Violence  
+* Killed  
+* Destroyed  
+* Homeless  
+* Deaths  
+* Historians  
+* Scale  
+* Unknown  
+* Hush-hush  
+* Law enforcement  
+* Insurance companies  
+* Paper trail  
+* Euphemism  
+* Minimized  
+* Widespread racial violence  
+* Omitted  
+* Preferred narrative  
+* Black progress  
+* Whitewashed  
+* Sanitized  
+* American history  
+* Massacre  
+* Riot  
+* Targeting  
+* Victim  
+* Perpetrator  
+* Blamed  
+* Absolved  
+* Common knowledge  
+* Bombing  
+* Black Wall Street  
+* Oklahoma public schools  
+* Curriculum  
+* American-history textbooks  
+* Systematic effort  
+* Erase  
+* Dead  
+* Arkansas River  
+* Unmarked graves  
+* News accounts  
+* Whitewashed  
+* Sanitized  
+* Accepted timeline  
+* Passive victims  
+* Church-bombing extremists  
+* Scrambled timeline  
+* Easier to forget  
+
+**SUMMARY:**  
+Scientists in Tulsa discovered evidence of mass graves linked to the 1921 race massacre, a forgotten chapter of racial violence in U.S. history. The Greenwood District, known as "Black Wall Street," was thriving until white mobs destroyed it, killing hundreds and leaving thousands homeless. The official death toll was 36, but historians estimate up to 300 deaths. The massacre was long buried due to systemic erasure, with the event mislabeled as a "riot" to minimize its impact. Efforts to excavate and identify remains are underway, with hopes to uncover the truth before the 100th anniversary. The massacre challenges the narrative of black progress in America, highlighting the targeting of black success and the whitewashing of history. END OF SUMMARY.

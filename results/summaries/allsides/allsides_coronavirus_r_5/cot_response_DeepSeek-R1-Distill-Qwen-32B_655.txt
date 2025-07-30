@@ -1,0 +1,23 @@
+Okay, so I need to help the user by summarizing this news article while preserving the moral framing. The user has given me a specific structure to follow: first, identify the morally framed words, then write a concise summary. 
+
+Starting with STEP 1, I have to find all the single words in the article that carry a moral connotation. The article talks about reopening the economy, contrasting it with health issues. Words like "devastate," "suffering," "crisis," "disparity," "privilege," "risk," "sympathy," "respect," and "stake" stand out as they carry moral weight. These words highlight the ethical concerns about health, inequality, and the impact on workers.
+
+Now, for the summary, I need to condense the article into 200 words or less, keeping those moral terms. The main points are that the lockdown isn't just about health vs. economy but health vs. health. There are negative health outcomes from the lockdown, like mental health issues, delayed treatments, and economic inequality leading to more deaths. The author argues that with resources like hospital beds and tests, it's safe to reopen, and that local areas vary in risk. The moral argument is about fairness and giving workers the choice to work safely. 
+
+I'll make sure to include the moral words and present the argument that reopening is necessary to prevent further health and economic harm, emphasizing the workers' plight and the need for a responsible approach.
+</think>
+
+**STEP 1:**  
+* Devastate  
+* Suffering  
+* Crisis  
+* Disparity  
+* Privilege  
+* Risk  
+* Sympathy  
+* Respect  
+* Stake  
+
+**SUMMARY:**  
+The article argues that the coronavirus lockdown is not just a health versus economy issue but also a health versus health issue. Keeping the economy shut down has led to serious health consequences, such as rising suicide rates, delayed cancer screenings, and missed vaccinations, while exacerbating economic inequality. The author highlights the moral obligation to reopen the economy responsibly, emphasizing that low-income workers disproportionately bear the brunt of lockdowns. With adequate resources like hospital beds and testing, the risks of reopening can be managed. The author criticizes the "one-size-fits-all" approach to lockdowns, noting that many areas are safe to reopen. They call for empathy and respect for workers who face personal and economic risks, urging policymakers to prioritize their well-being. The moral framing underscores the need to balance health and economic livelihoods to prevent further suffering.  
+**END OF SUMMARY.**

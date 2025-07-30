@@ -1,0 +1,27 @@
+Alright, I need to tackle this user query. They provided a news article about the Cheney sisters and their differing views on same-sex marriage. The task is to first identify all morally framed words and then summarize the article while preserving those moral terms.
+
+First, I'll read through the article to understand the context. Mary Cheney supports same-sex marriage and criticizes her sister Elizabeth for opposing it. Elizabeth believes it's a state decision, while Mary argues for universal rights.
+
+For STEP 1, I need to pick out words that carry moral weight. Words like "blast," "wrong," "freedom," "rights," "pro-gay marriage," "decided," "show of hands," "support," and "oppose" all have moral connotations. These words reflect the sisters' stances and the ethical implications of their positions.
+
+Moving on to the summary, I need to condense the article into 200 words, keeping the moral terms. I'll start by introducing the sisters and their conflict. Then, I'll outline their respective arguments, making sure to include the moral words. I'll also mention their father's stance to add context. I'll ensure the summary flows logically and stays within the word limit.
+
+I should double-check that I haven't missed any morally framed words and that the summary accurately reflects both sisters' viewpoints. It's important to maintain the moral framing to preserve the author's original stance as per the user's instructions.
+</think>
+
+### STEP 1:
+* Blast  
+* Wrong  
+* Freedom  
+* Rights  
+* Pro-gay marriage  
+* Decided  
+* Show of hands  
+* Support  
+* Oppose  
+
+---
+
+### SUMMARY:
+Mary Cheney, an openly lesbian daughter of former Vice President Dick Cheney, has criticized her sister Elizabeth on Facebook for her stance on same-sex marriage. Mary, who is married to Heather Poe, argued that "freedom means freedom for everyone" and that all families deserve equal rights. In contrast, Elizabeth, a Republican Senate candidate in Wyoming, believes the issue should be decided by voters on a state-by-state basis, not by judges or legislators. She explicitly stated she is "not pro-gay marriage." Mary responded by calling her sister's position "dead wrong" and emphasizing that the issue should not be subject to a "show of hands." Elizabeth is running against incumbent Senator Mike Enzi in the 2014 Republican primary. Their father, Dick Cheney, has also expressed support for same-sex marriage but echoed Elizabeth's belief in state-level decision-making.  
+END OF SUMMARY.

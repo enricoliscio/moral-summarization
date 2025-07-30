@@ -1,0 +1,14 @@
+Okay, so the user has provided a query where they want me to act as a news summarizer and moral expert. They've given a news article about Lebanon's reaction to a US human rights report. The task is to summarize the article while preserving the moral framing words the author used. The key here is to identify those specific morally charged words and ensure they're included in the summary.
+
+First, I'll read through the article to understand the main points. The article talks about how Lebanese officials are upset with the US report, which criticizes Lebanon's human rights situation. They mention the report's focus on weakening government, undemocratic practices, and other issues like tapping phones and judicial pressure.
+
+Next, I need to identify the morally framed words: weakening, undemocratic, uncivilized, abusing, subjected, tapping. I should make sure these words are included in the summary. I'll structure the summary to highlight the Lebanese officials' dissatisfaction, the specific criticisms from the report, and their reactions.
+
+I also need to keep the summary concise, under 200 words, and make sure it starts with "SUMMARY:" and ends with "END OF SUMMARY." I'll avoid any markdown formatting as per the instructions. 
+
+I'll start by stating the officials' dissatisfaction, mention the report's focus on weakening government and undemocratic practices, include the tapping of phones, and the judiciary under pressure. I'll also note their criticism of the report's portrayal and the positive mention of the press. Finally, I'll add that Lebanon plans to respond, emphasizing the issues they disagree with.
+
+I should ensure the summary flows well, includes all the key points, and maintains the moral tone by using the specified words. I'll double-check the word count to make sure it's within the limit and that all important details are covered without being too verbose.
+</think>
+
+SUMMARY: Lebanese officials expressed dissatisfaction with the US State Department's annual human rights report, which criticized Lebanon for the weakening of its central government and portrayed the country as undemocratic or uncivilized. The report also accused the judiciary of being subjected to political pressure and intelligence agents of tapping phones of opposition politicians and government leaders, which officials deemed harmful to Lebanon's democratic image. While the report praised the Lebanese press for its critical role, the Foreign Ministry plans to respond by highlighting factors beyond the government's control. The officials conveyed their concerns to US Ambassador Vincent Battle, emphasizing that the criticism, while annual, discredits Lebanon's progress. The most serious points included the judiciary's independence being questioned and the tapping allegations, which officials argued undermine Lebanon's reputation. END OF SUMMARY.

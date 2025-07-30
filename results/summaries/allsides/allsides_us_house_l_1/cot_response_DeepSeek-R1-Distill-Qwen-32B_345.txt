@@ -1,0 +1,42 @@
+Okay, so I'm trying to help this user who wants me to summarize a news article while preserving the moral framing. The user provided specific instructions, so I need to make sure I follow them closely.
+
+First, I need to identify the morally framed words in the text. The user mentioned that these are single words, so I'll go through the article and pick out words that carry moral connotations. Words like "excoriates," "unsubstantiated," "conspiracy theories," "perpetrated," "propagated," "refuse," "legitimize," "alternative narrative," "adversary," "attacked," "interfered," "undercut," "question," "conspiracy theory," "hacks," "inside job," "absurd," "politically driven," "falsehoods," "subvert," "national security," "undermined," "politicized." I should list each of these with a * and make sure they're all relevant.
+
+Next, I need to write a summary that includes as many of these words as possible without making it too long. The summary should be under 200 words and capture the essence of Fiona Hill's testimony, highlighting the moral aspects she emphasized. I'll make sure to mention her criticism of Republicans, the Russian interference, the quid pro quo, and the ongoing issues with truth and national security.
+
+I should also ensure that the summary flows naturally and doesn't just list the words. It needs to convey the moral stance she took against the conspiracy theories and the implications for national security. I'll structure it to first introduce her role, then her criticisms, the specifics of the testimony, and the broader implications she highlighted.
+
+I need to be careful not to include any markdown or extra formatting beyond what's specified. The user wants the summary after the "SUMMARY:" token and ending with "END OF SUMMARY." So I'll make sure to follow that structure precisely.
+
+Lastly, I'll review the summary to ensure it's concise and that all key points are covered, including the ongoing Russian interference and the undermining of US institutions. I'll check the word count to stay within the limit and adjust if necessary.
+</think>
+
+**STEP 1:**
+
+\*excoriates  
+\*unsubstantiated  
+\*conspiracy theories  
+\*perpetrated  
+\*propagated  
+\*refuse  
+\*legitimize  
+\*alternative narrative  
+\*adversary  
+\*attacked  
+\*interfered  
+\*undercut  
+\*question  
+\*conspiracy theory  
+\*hacks  
+\*inside job  
+\*absurd  
+\*politically driven  
+\*falsehoods  
+\*subvert  
+\*national security  
+\*undermined  
+\*politicized  
+
+**SUMMARY:**  
+Fiona Hill, a former National Security Council official, strongly criticized Republicans for promoting unsubstantiated conspiracy theories about Ukrainian interference in the 2016 election, which she called a "fictional narrative" perpetuated by Russian security services. She emphasized that the US intelligence community and Robert Mueller's investigation concluded Russia interfered in 2016, not Ukraine. Hill rejected President Trump's efforts to undercut this consensus by spreading an "inside job" conspiracy theory. She detailed a July 10 meeting where Ambassador Gordon Sondland implied a quid pro quo, linking Ukraine's investigation into Biden's son's company and the 2016 election interference narrative to a White House visit. Hill warned against promoting politically driven falsehoods that advance Russian interests and urged attention to actions that subvert national security. She highlighted the ongoing impact of Russian interference, stating it undermines US institutions and truth, and criticized the politicization of Ukraine support.  
+END OF SUMMARY.

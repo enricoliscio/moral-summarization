@@ -1,0 +1,32 @@
+Okay, so I need to help the user by summarizing this news article while preserving the moral framing. Let me start by understanding the task. The user provided an article about Michael Bloomberg and Donald Trump's relationship and interactions. The user wants me to first identify all the single words that are morally framed in the article. Then, I need to write a summary that includes as many of these morally framed words as possible, keeping it under 200 words.
+
+First, I'll go through the article and pick out the words that carry a moral connotation. Words like "menace," "sane," "generous," "philanthropist," "crude," "ostentatious," "deference," "great," "crazy," "vulnerable," "siphon," "fix," "skepticism," "friends," and "vulnerable." These words seem to carry judgments or evaluations about the characters or actions of Bloomberg and Trump.
+
+Next, I'll structure the summary. I need to include these words while concisely covering the main points: their limited but cordial interactions, their contrasting profiles, their occasional meetings, Bloomberg's opposition to Trump, and Trump's counterattacks. I should make sure the summary flows well and stays within the word limit.
+
+I should start by mentioning Bloomberg's criticism of Trump as a public menace and hinting at his sanity. Then, contrast their backgrounds and interactions. Mention their meetings on the golf course and TV show appearances. Highlight Bloomberg's support for Trump's projects and Trump's compliments. Then, explain how their cordiality ended when Bloomberg considered running against Trump. Finally, note Trump's counterattacks questioning Bloomberg's wealth and company.
+
+I need to ensure that the summary includes all the morally framed words and accurately reflects the article's content without adding personal opinions. I should also make sure the summary is clear and concise, sticking to the key points without unnecessary details.
+
+Let me draft the summary step by step, making sure each morally framed word is included where appropriate. I'll check the word count to ensure it's under 200 words. Once done, I'll present the summary as per the user's instructions, starting with "SUMMARY:" and ending with "END OF SUMMARY."
+</think>
+
+**STEP 1:**  
+* menace  
+* sane  
+* generous  
+* philanthropist  
+* crude  
+* ostentatious  
+* deference  
+* great  
+* crazy  
+* vulnerable  
+* siphon  
+* fix  
+* skepticism  
+* friends  
+* vulnerable  
+
+**SUMMARY:**  
+Michael Bloomberg criticized Donald Trump at the Democratic National Convention, calling him a "public menace" and questioning his sanity. Despite their limited interactions, their relationship has been cordial yet marked by contrasts: Bloomberg is a generous philanthropist, while Trump is seen as less charitable and more ostentatious. They occasionally met on golf courses and in TV appearances, with Trump showing deference to Bloomberg. Trump even praised Bloomberg’s work as mayor. However, their cordiality faded after Trump announced his candidacy. Bloomberg explored an independent presidential bid to block Trump, ultimately deciding not to run to avoid siphoning votes. Trump countered by questioning Bloomberg’s wealth and business, stating, "We used to be friends, I guess we’re not friends anymore." END OF SUMMARY.

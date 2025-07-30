@@ -1,0 +1,15 @@
+Alright, I need to help the user by summarizing the given news article while preserving the moral framing. The user has provided a list of morally framed words that the author used, so I should make sure to include as many of those as possible in the summary.
+
+First, I'll read through the article to understand the main points. It's about the Obama administration allowing same-sex spouses of federal employees to access benefits like health insurance and retirement accounts after the Supreme Court overturned part of DOMA. The Office of Personnel Management issued a memo, and the President and other officials are supporting this change.
+
+Now, I need to identify the key morally framed words from the list provided. Words like "available," "access," "married," "equally," "deserve," "respect," "protection," "implement," "entitled," "extend," "promise," "changes," "meaningful," "positive," etc., are important here.
+
+I should structure the summary to highlight the administration's actions and the moral implications. I'll start by stating that same-sex spouses now have access to benefits, referencing the overturning of DOMA. Then, mention the memo from OPM and the administration's stance on state laws. Include the President's support and the positive impact on families.
+
+I need to keep it concise, under 200 words, and ensure it flows naturally while incorporating the moral language. I'll make sure to use words like "available," "access," "married," "equally," "deserve," "respect," "protection," and "positive" to maintain the moral framing.
+
+Let me draft the summary, ensuring all key points are covered and the moral words are included. I'll check the word count to stay within the limit. Once done, I'll present it after the "SUMMARY:" token and end with "END OF SUMMARY." as instructed.
+</think>
+
+SUMMARY:  
+Same-sex spouses of federal employees now have access to benefits such as health insurance and retirement accounts, following the Obama administration's decision after the Supreme Court overturned a key provision of the Defense of Marriage Act (DOMA). The Office of Personnel Management (OPM) issued guidance, ensuring legally married same-sex couples receive the same benefits as heterosexual couples, including health, vision, and long-term care insurance. While the memo does not explicitly address state laws, it emphasizes that benefits are available to all legally married couples, regardless of their state of residence. President Obama expressed support for treating married couples equally under federal law, calling it a critical step toward equality. Attorney General Eric Holder praised the expansion of benefits, stating that same-sex couples are entitled to equal treatment and respect. The administration is working to implement the repeal of DOMA's Section 3, with the Department of Justice leading efforts to ensure swift and smooth implementation. These changes are expected to make a meaningful, positive difference in the lives of many families. END OF SUMMARY.

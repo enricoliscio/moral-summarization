@@ -1,0 +1,83 @@
+Okay, so I need to help the user by summarizing the given news article while preserving the moral framing. First, I should understand the task properly. The user wants me to act as a news summarizer and a moral expert. They provided an article about Rep. Ocasio-Cortez supporting Rep. Tlaib after Tlaib made some controversial remarks about impeaching Trump. 
+
+The user has specified two steps. The first step is to identify all single words that are morally framed. I need to go through the article and pick out words that carry moral connotations. These words often express judgment, approval, or disapproval. For example, words like "hypocrisy," "scandalizing," "outrage," "apologize," "disgraceful," "dishonor," "unapologetically," "constitutional crisis," "truth," "power," "censorship," "generational," "disgraceful," "dishonor," "unapologetically," "constitutional crisis," "truth," "power," "censorship," "generational," "hypocrisy," "scandalizing," "outrage," "apologize," "disgraceful," "dishonor," "unapologetically," "constitutional crisis," "truth," "power," "censorship," "generational." 
+
+Wait, I think I need to list each word only once, so I should make sure not to repeat them. Let me go through the article again and pick out each morally charged word one by one. 
+
+Next, the second step is to write a summary that includes as many of these morally framed words as possible. The summary should be concise, no more than 200 words, and should reflect the moral perspectives presented in the article. I need to make sure the summary flows well and accurately represents the key points while preserving the moral framing.
+
+I should start by identifying the main events: Ocasio-Cortez supporting Tlaib after her remarks, the context of Trump's past comments, the reactions from Republicans and Pelosi, and Tlaib's defense. I need to incorporate the moral words into the summary naturally, ensuring that the summary captures the essence of the moral arguments made by each side.
+
+I also need to be careful with the structure. The user wants the summary after the "SUMMARY:" token and ending with "END OF SUMMARY." I should make sure the summary is clear and concise, hitting all the key points without exceeding the word limit.
+
+Let me start by listing the morally framed words. I'll go through the article sentence by sentence.
+
+1. "Rep. Alexandria Ocasio-Cortez took a stand for fellow House freshman Rep. Rashida Tlaib on Saturday after the latter’s expletive-laced comments in favor of impeaching President Trump." - "stand" (positive), "expletive-laced" (negative), "impeaching" (neutral but implies judgment).
+
+2. "Ocasio-Cortez...accusing the GOP of a having a double standard." - "hypocrisy" (negative), "double standard" (negative).
+
+3. "saying that Trump admitting to sexual assault on tape is just ‘locker room talk,’ but scandalizing themselves into faux-outrage when my sis says a curse word in a bar." - "hypocrisy," "scandalizing," "faux-outrage."
+
+4. "GOP lost entitlement to policing women’s behavior a long time ago." - "entitlement" (negative), "policing" (neutral but implies control).
+
+5. "Trump issued an apology at the time..." - "apology" (neutral but implies wrongdoing).
+
+6. "House Republicans fumed over the comments..." - "fumed" (negative).
+
+7. "Kevin McCarthy, R-Calif., prodding Speaker Nancy Pelosi to act." - "prodding" (neutral but implies pressure).
+
+8. "Pelosi, D-Calif., downplayed Tlaib’s remarks, expressing distaste for the language..." - "downplayed" (neutral), "distaste" (negative).
+
+9. "I’m not in the censorship business." - "censorship" (negative).
+
+10. "Trump said he found Tlaib’s comments “disgraceful” and thought she “dishonored herself” as well as “her family.”" - "disgraceful," "dishonored."
+
+11. "Tlaib, doubling down on her comments, tweeted on Friday that she “will always speak truth to power. #unapologeticallyMe.”" - "truth," "power," "unapologetically."
+
+12. "This is about all of us. In the face of this constitutional crisis, we must rise," she tweeted." - "constitutional crisis," "rise."
+
+So compiling all these, the morally framed words are: stand, expletive-laced, impeaching, hypocrisy, double standard, scandalizing, faux-outrage, entitlement, apology, fumed, distaste, censorship, disgraceful, dishonored, truth, power, unapologetically, constitutional crisis.
+
+Now, for the summary, I need to include these words where appropriate. I'll start by mentioning Ocasio-Cortez taking a stand, her accusation of hypocrisy and double standard, the comparison to Trump's locker room talk, the GOP's entitlement, the apology, Republicans fuming, Pelosi's distaste and mention of censorship, Trump's disgraceful and dishonored remarks, Tlaib's unapologetic stance, constitutional crisis, truth to power.
+
+I should structure it to flow logically: Ocasio-Cortez supports Tlaib, criticizes GOP's hypocrisy, compares to Trump's past, Tlaib's comments, reactions from Republicans and Pelosi, Trump's response, Tlaib's defense, and the constitutional crisis.
+
+I need to make sure the summary is concise and under 200 words. Let me draft it step by step, incorporating the moral words.
+
+First sentence: Ocasio-Cortez took a stand supporting Tlaib after her expletive-laced comments about impeaching Trump.
+
+Next: Accused GOP of hypocrisy and double standard, comparing Trump's locker room talk to Tlaib's curse word.
+
+Then: GOP lost entitlement to police women's behavior.
+
+Then: Tlaib's comments, Pelosi's downplay, mentioning censorship.
+
+Then: Trump called Tlaib's comments disgraceful and dishonored.
+
+Finally: Tlaib's unapologetic stance, constitutional crisis, truth to power.
+
+Putting it all together, making sure it's under 200 words and includes as many moral words as possible without sounding forced.
+</think>
+
+**STEP 1:**  
+* stand  
+* expletive-laced  
+* impeaching  
+* hypocrisy  
+* double standard  
+* scandalizing  
+* faux-outrage  
+* entitlement  
+* apology  
+* fumed  
+* distaste  
+* censorship  
+* disgraceful  
+* dishonored  
+* truth  
+* power  
+* unapologetically  
+* constitutional crisis  
+
+**SUMMARY:**  
+Rep. Alexandria Ocasio-Cortez took a stand supporting Rep. Rashida Tlaib after Tlaib made expletive-laced comments in favor of impeaching President Trump. Ocasio-Cortez accused the GOP of hypocrisy and a double standard, comparing Trump’s “locker room talk” to the faux-outrage over Tlaib’s curse word. She argued the GOP has lost entitlement to policing women’s behavior. Tlaib, in a videotaped statement, vowed to impeach Trump, saying, “we’re gonna go in there and we’re gonna impeach the motherf***er.” House Republicans fumed, while Speaker Nancy Pelosi downplayed the remarks, expressing distaste for the language but noting Trump’s own rhetoric. Trump called Tlaib’s comments “disgraceful” and said she dishonored herself and her family. Tlaib doubled down, tweeting she would always speak truth to power, unapologetically. She emphasized the constitutional crisis and the need to rise against bullies. END OF SUMMARY.

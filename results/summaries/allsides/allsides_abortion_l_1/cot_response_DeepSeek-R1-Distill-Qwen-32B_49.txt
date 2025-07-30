@@ -1,0 +1,25 @@
+Alright, I need to help the user by summarizing a news article while preserving the moral framing. The user has given a detailed query with specific steps, so I should follow those carefully.
+
+First, the user wants me to identify all the single words that are morally framed. I'll go through the article and pick out words that carry a strong moral connotation. Words like "ban," "rights," "unconstitutional," "exploit," "disproportionately," "harm," "extreme," "oppose," "protests," and "agenda" stand out as they imply moral judgment.
+
+Next, I need to write a summary using as many of these words as possible. The summary should be concise, no longer than 200 words, and include the key points from the article. I'll make sure to mention the lawsuit, the specifics of Alabama's law, the ACLU and Planned Parenthood's arguments, the impact on marginalized groups, and the broader context of state abortion restrictions.
+
+I should also ensure that the summary reflects the moral stance presented in the article, highlighting the opposition to the ban and the implications for reproductive rights. Keeping the summary clear and within the word limit is important, so I'll focus on the essential elements without going into too much detail.
+
+Finally, I'll structure the response with the two steps as specified, making sure to list the moral words first and then provide the concise summary. This approach should meet the user's requirements effectively.
+</think>
+
+**STEP 1:**  
+* Ban  
+* Rights  
+* Unconstitutional  
+* Exploit  
+* Disproportionately  
+* Harm  
+* Extreme  
+* Oppose  
+* Protests  
+* Agenda  
+
+**SUMMARY:**  
+Planned Parenthood and the ACLU filed a lawsuit against Alabama over its near-total abortion ban, which Republicans designed to challenge Roe v. Wade. The law allows abortions only in cases of serious health risks, with no exceptions for rape or incest, and imposes severe penalties on providers. Critics argue it is unconstitutionally severe and disproportionately harms Black and low-income communities, who make up a majority of abortion seekers in Alabama. The lawsuit highlights Alabama's long history of politically motivated restrictions and the moral implications of banning abortion. Similar restrictive laws have been introduced in other states, sparking nationwide protests. Advocates stress the need to fight for reproductive rights through legal and political channels, emphasizing the importance of protecting patients' lives and health. END OF SUMMARY.

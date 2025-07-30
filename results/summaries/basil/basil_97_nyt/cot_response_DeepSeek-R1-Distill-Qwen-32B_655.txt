@@ -1,0 +1,31 @@
+Okay, so I need to help the user by summarizing a news article while preserving the moral framing. The user has given specific instructions, so I should follow them step by step.
+
+First, the user wants me to identify all the single words that are morally framed in the article. I'll need to read through the text carefully and pick out words that carry moral connotations. Words like "anti-corruption," "voting rights," "barriers," "big money," "ethics," "power grab," "integrity," "dark-money," "disclose," "undue influence," "special interests," "First Amendment," "ethics violations," "devalues," and "diminishes" seem to fit. These words are used to convey moral judgments, so I'll list them in step 1.
+
+Next, the user wants a summary of the article that includes as many of these morally framed words as possible. The summary should be concise, around 200 words. I'll need to capture the main points: the House passing the legislation, its goals, Republican opposition, key provisions, and the moral arguments on both sides. I'll make sure to include the identified words to maintain the moral framing.
+
+I should structure the summary to highlight the Democrats' intentions, the opposition from Republicans, and the implications of the bill. I'll also mention the ACLU's concern about First Amendment rights and the focus on ethics in the White House. Keeping the summary tight and focused on the moral aspects is key here.
+
+Finally, I'll format the response as specified: starting with "STEP 1:" listing each word with a bullet point, followed by the "SUMMARY:" section, and ending with "END OF SUMMARY." I need to ensure the summary doesn't exceed 200 words and accurately reflects the moral perspectives presented in the article.
+</think>
+
+**STEP 1:**  
+* anti-corruption  
+* voting rights  
+* barriers  
+* big money  
+* ethics  
+* power grab  
+* integrity  
+* dark-money  
+* disclose  
+* undue influence  
+* special interests  
+* First Amendment  
+* ethics violations  
+* devalues  
+* diminishes  
+
+**SUMMARY:**  
+The House passed the Democrats’ anti-corruption and voting rights legislation, H.R. 1, aiming to dismantle barriers to voting, reduce big money in politics, and strengthen ethics rules. Republicans criticized it as a power grab and a federal takeover, with Senator McConnell branding it the "Democrat Politician Protection Act." The bill includes provisions like Election Day as a federal holiday, automatic voter registration, restoring voting rights to felons, and a six-to-one donation matching system. It also targets dark-money groups by requiring super PACs and nonprofits to disclose donors. Democrats argue this is broadly popular, but critics, including the ACLU, warn it may infringe on First Amendment rights. The legislation also focuses on ethics in the White House, requiring presidents to release tax returns and banning federal funds for businesses owned by officials. Republicans oppose the bill, accusing it of devaluing the franchise and diminishing citizens’ voting power. Despite opposition, Democrats remain united in their push for ethical reforms.  
+**END OF SUMMARY.**

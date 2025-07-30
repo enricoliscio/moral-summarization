@@ -1,0 +1,28 @@
+Okay, so the user wants me to summarize a news article while preserving the moral framing. First, I need to understand what moral framing means here. It refers to words or phrases that carry a moral judgment or implication. 
+
+The user provided a detailed news article about a school shooting. My task is twofold: first, identify all the single words that are morally framed, and second, write a concise summary that includes as many of these words as possible.
+
+Starting with the first step, I'll go through the article and pick out words that convey moral judgment. Words like "tragedy," "critical," "bravery," "crisis," "unconscionable," etc., stand out as they carry emotional or moral weight.
+
+Next, for the summary, I need to condense the article into about 200 words, making sure to include the morally framed words. I should highlight the key events: the shooting, the injured, the suspect, the heroic teacher, the community's response, and the broader implications.
+
+I also need to ensure the summary flows well and covers all essential points without being too verbose. I'll structure it by mentioning the incident, the victims, the suspect, the heroic actions, the community's reaction, and the calls for action to prevent future incidents.
+
+Finally, I'll make sure to end the summary with the specified tokens and keep the language clear and concise, preserving the moral elements as instructed.
+</think>
+
+**STEP 1:**  
+* Tragedy  
+* Critically  
+* Injured  
+* Suspect  
+* Threat  
+* Bravery  
+* Heroism  
+* Crisis  
+* Unconscionable  
+* Enough  
+
+**SUMMARY:**  
+A tragic shooting occurred at Noblesville West Middle School in Indiana, leaving a teacher and student critically injured. A male student was detained as the suspected shooter. The situation unfolded quickly, with a teacher heroically tackling the suspect, likely preventing further harm. Authorities, including the FBI and ATF, are investigating. The school, which lacks metal detectors, had a resource officer present. The injured teacher, Jason Seaman, was shot multiple times and underwent surgery. Community members, including politicians and the Indianapolis Colts, expressed support and prayers for the victims and their families. Indiana Governor Eric Holcomb and state leaders are monitoring the situation. The incident has sparked calls for action to prevent future school violence, with the Indiana State Teachers Association asking, “When is enough, enough?” The community remains shaken as they grapple with this heartbreaking event.  
+**END OF SUMMARY.**

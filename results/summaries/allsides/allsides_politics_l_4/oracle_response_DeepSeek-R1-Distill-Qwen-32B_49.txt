@@ -1,0 +1,13 @@
+<think>
+Okay, so I need to summarize this news article while preserving the moral framing the author used. The user has already provided a summary, but I should make sure it includes as many of the specified moral words as possible. Let me look at the article again.
+
+The article talks about an attempt to create fake sexual misconduct allegations against Robert Mueller. It mentions Jacob Wohl and Jack Burkman being involved in a plot or scam. The key moral words used are: drum, allegations, offered, claims, investigation, operation, attempt, making, made, plot, scam, convince, smear, debunk, steal.
+
+I need to make sure these words are included in the summary. The summary should be concise, under 200 words, and end with the specified tokens. Let me check the provided summary:
+
+It starts by mentioning an attempt to drum up phony allegations, uses 'allegations,' 'claims,' 'operation,' 'plot,''scam,''smear,' 'convince,' 'debunk,''steal.' It also mentions the FBI's investigation. Looks like it covers most of the moral words. I think it's good, but maybe I can tweak it a bit to include all words without making it too long.
+
+Wait, the user's example summary is already using most of the words. I don't see any missing ones, so I think that's acceptable. Maybe I can just ensure that each word is present and the summary flows well.
+</think>
+
+SUMMARY: An attempt to drum up phony sexual misconduct allegations against Robert Mueller collapsed, potentially involving conservative activists Jacob Wohl and Jack Burkman. The operation, which seemed like a smear campaign, involved offering money to make false claims. Mueller's office referred the matter to the FBI for investigation. Wohl and Burkman were linked to a scam involving a fake intelligence company, Surefire, used to convince others of the allegations. Journalists debunked the claims, but the operation may have succeeded in diverting attention and stealing media focus. Burkman still plans to reveal Mueller's alleged victims, but past attempts have been discredited. The FBI is now handling the case. END OF SUMMARY.

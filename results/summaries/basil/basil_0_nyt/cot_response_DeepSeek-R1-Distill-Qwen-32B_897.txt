@@ -1,0 +1,32 @@
+Okay, so I need to help the user by summarizing a news article while preserving the moral framing. The user provided a detailed query, so I should make sure I follow each step carefully.
+
+First, I need to identify the morally framed words. The user mentioned that I should list each word in a new line with a star. I'll go through the article and pick out words that carry moral connotations. Words like "progressivism," "cancer," "addicted," "spend," "tax," "spend," "believe," "vomit," "disease," "happiness," "demonized," "penalized," "mistakes," and "applause" seem to fit. These words carry strong moral or evaluative meanings in the context of the article.
+
+Next, I have to write a concise summary of the article, making sure to include as many of these moral words as possible. The summary should be under 200 words and start with "SUMMARY:" and end with "END OF SUMMARY." I need to capture the essence of Beck's speech, his criticism of both parties, and his emphasis on personal responsibility and the disease of progressivism. I should structure it to flow well, highlighting his main points and the reactions from the audience.
+
+I should also ensure that the summary reflects Beck's strong language and the moral framing he used. It's important to convey his message accurately while keeping it within the word limit. I'll make sure each point is clear and that the moral terms are appropriately included to maintain the original tone and message.
+
+Finally, I'll review both the list of words and the summary to ensure they meet the user's requirements. I need to make sure I didn't miss any morally framed words and that the summary is both accurate and concise. This way, the user gets exactly what they asked for in a clear and organized manner.
+</think>
+
+### STEP 1:  
+* Progressivism  
+* Cancer  
+* Addicted  
+* Spend  
+* Tax  
+* Spend  
+* Believe  
+* Vomit  
+* Disease  
+* Happiness  
+* Demonized  
+* Penalized  
+* Mistakes  
+* Applause  
+
+---
+
+### SUMMARY:  
+Glenn Beck, a prominent conservative figure, delivered a fiery speech at the Conservative Political Action Conference (CPAC), criticizing progressivism as a destructive force in America. He likened it to a "cancer" that must be removed, while also condemning both political parties for their failures. Beck accused Republicans of being "addicted to spending and big government" and Democrats of "tax and spend" policies. He emphasized that people are losing faith in the future, describing the current state of America as a "head-pounding, hung-over, vomiting-for-four-hours kind of morning." Beck also criticized President Obama as a "too simple an answer" to the nation's problems, pinpointing progressivism as the root cause. Drawing from his personal experiences, he stressed personal responsibility and the importance of not demonizing financial success. He concluded by rejecting the idea of mutual blame for mistakes, sparking wild applause from the audience.  
+END OF SUMMARY.

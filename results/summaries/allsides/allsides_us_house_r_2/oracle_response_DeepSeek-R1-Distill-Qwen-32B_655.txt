@@ -1,0 +1,16 @@
+Alright, so the user has given me a query where I need to act as a news summarizer and moral expert. The task is to summarize a news article while preserving the moral framing used by the author. The article is about the U.S. House impeachment hearing of Donald Trump.
+
+First, I need to understand the user's requirements. They want a summary that includes the morally framed words the author used, such as "used," "pressure," "misconduct," etc. The summary should be concise, under 200 words, and start after "SUMMARY:" and end with "END OF SUMMARY."
+
+I'll start by reading the article to grasp the main points. The key elements are the impeachment hearing, the focus on Trump's actions towards Ukraine, the use of office for personal gain, the witnesses, and the constitutional implications.
+
+Next, I need to identify the morally charged words and ensure they're included in the summary. Words like "used," "pressure," "misconduct," "actions," "offenses," "using," "crimes," "misdemeanors" should be preserved.
+
+I'll structure the summary to include the essential details: the hearing's purpose, the accusation of using office for personal gain, the witnesses, the constitutional bar for impeachment, Trump's response, and the comparison to past impeachments.
+
+I need to make sure the summary flows logically and stays within the word limit. I'll avoid adding any personal opinions or extra details beyond what's necessary to convey the moral framing.
+
+Finally, I'll review the summary to ensure it meets all the user's requirements, including the inclusion of the specified moral terms and the correct formatting with the start and end tokens.
+</think>
+
+SUMMARY: The U.S. House held its first public impeachment hearing for Donald Trump, focusing on whether the president used his office to pressure Ukraine for personal political gain. Rep. Adam Schiff emphasized the gravity of the inquiry, stating it could set a precedent for future presidential conduct. Witnesses, including diplomats William Taylor and George Kent, are expected to testify about Trump's alleged misuse of foreign policy ahead of the 2020 election. The Constitution's vague standard for impeachment—"high crimes and misdemeanors"—has not yet been clearly met, with Trump dismissing the process as a "witch hunt." The inquiry stems from Trump's July 25 phone call with Ukraine's president, where he requested an investigation into Democrats, including Joe Biden, while withholding military aid. A whistleblower's complaint prompted the formal investigation, despite initial reluctance from House Speaker Nancy Pelosi. Trump has criticized witnesses, but they are career diplomats with no evident partisan ties. The proceedings mark a significant moment in U.S. constitutional history, though it remains unclear whether they will lead to Trump's removal or solidify his position. END OF SUMMARY.

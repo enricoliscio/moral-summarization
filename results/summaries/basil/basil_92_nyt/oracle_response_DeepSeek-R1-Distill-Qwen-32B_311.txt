@@ -1,0 +1,16 @@
+Alright, so I need to help the user by summarizing a news article while preserving the moral framing. Let me start by understanding the task. The user provided a detailed article about the Mueller investigation,BuzzFeed's report, and the implications for Trump. They want a summary that includes as many of the morally charged words as possible.
+
+First, I'll read through the article to get the main points. The key elements are the BuzzFeed report alleging Trump pressured Cohen to lie to Congress about the Moscow deal. Mueller's office disputed this, calling it inaccurate. The White House denied it, and some Congress members are considering impeachment if true.
+
+Next, I need to identify the morally framed words from the author's list. Words like "investigating," "report," "pressure," "perjury," "sabotage," "subornation," "obstruction," "justice," "impeached," "conceal," "lied," etc., are important. I should make sure to include these in the summary.
+
+I'll structure the summary to cover the main events: the report's claims, Mueller's response, the political reactions, and the potential legal implications. I need to keep it concise, under 200 words, so I'll focus on the most impactful points.
+
+I'll start with the BuzzFeed report's allegations, then mention Mueller's denial. Then, touch on the congressional reactions and the possible impeachment talk. I'll also include the context about Cohen's previous lies and the ongoing investigation.
+
+I should ensure that the summary flows well and includes the necessary moral terms without making it too verbose. I'll check the word count to stay within the limit.
+
+Finally, I'll make sure the summary ends with the specified tokens and that it accurately reflects the moral framing present in the original article.
+</think>
+
+SUMMARY: The special counsel investigating Russian interference in the 2016 election, Robert S. Mueller III, disputed a BuzzFeed News report alleging that President Trump pressured his lawyer, Michael Cohen, to lie to Congress about the Trump Tower Moscow deal. The report claimed Cohen told prosecutors he was pressured by Trump before his congressional testimony. Mueller’s spokesman, Peter Carr, stated that BuzzFeed’s description of Cohen’s testimony and related documents was inaccurate. Senior members of Congress, including Representative Adam Schiff, indicated that if the allegations were true, they could constitute subornation of perjury and obstruction of justice, potentially leading to impeachment proceedings. The White House and Trump’s lawyers denied the report, calling it “categorically false.” BuzzFeed maintained its reporting was accurate. Cohen, who pleaded guilty to lying to Congress, initially concealed his interactions with Russian officials but later provided truthful information to Mueller’s office. The investigation into Trump’s potential obstruction of justice and Cohen’s role in advancing Trump’s business interests while running for president remains ongoing. END OF SUMMARY.

@@ -1,0 +1,41 @@
+Okay, so I need to help the user by summarizing a news article while preserving the moral framing. Let me first read the query carefully. The user wants me to act as a news summarizer and a moral expert. They provided a news article about Sen. Ted Cruz accusing Donald Trump of influencing the National Enquirer's story about his affairs. 
+
+First, I need to identify all the single words that are morally framed. The user specified that this should be labeled as "STEP 1:" and each word should be listed with a * at the beginning. I'll go through the article and pick out words that carry moral connotations.
+
+Looking at the article, I see words like "lashed out," "enlisting," "friends," "henchmen," "bidding," "garbage," "surreal," "accused," "affairs," "denied," "reputation," "tabloid," "scandals," "integrity," "coverage," "committed," "important." These words seem to carry moral weight, so I'll list them each with a *.
+
+Next, I need to write a summary that includes as many of these morally framed words as possible. The summary should be concise, under 200 words. I'll start by outlining the main points: Cruz accuses Trump, the Enquirer's story, Cruz's denial, the exchange on CNN, Trump's response, and the Enquirer's defense.
+
+I should ensure that the summary flows naturally while incorporating the moral words. For example, mentioning Cruz "lashed out" and Trump's "absolutely nothing to do with it" while highlighting the integrity of the Enquirer's coverage.
+
+I also need to make sure the summary is clear and captures the essence of the article without adding any personal opinions. It's important to stick to the facts while preserving the moral framing as the author intended.
+
+After drafting the summary, I'll review it to ensure it's within the word limit and that all key points are covered. I'll also check that the morally framed words are included appropriately without forcing them in awkwardly.
+
+Finally, I'll format the response with the "STEP 1:" section listing the words and then the "SUMMARY:" followed by the concise summary ending with "END OF SUMMARY." to meet the user's requirements precisely.
+</think>
+
+### STEP 1:
+* lashed out
+* enlisting
+* friends
+* henchmen
+* bidding
+* garbage
+* surreal
+* accused
+* affairs
+* denied
+* reputation
+* tabloid
+* scandals
+* integrity
+* coverage
+* committed
+* important
+
+---
+
+### SUMMARY:
+Sen. Ted Cruz (R-Texas) accused Donald Trump of using "his friends at the National Enquirer and his political henchmen" to spread false claims about extramarital affairs. Cruz denied the allegations, calling them "garbage." The story, published by the tabloid, sparked a surreal exchange on CNN, where Cruz's former director was accused of having an affair with him. Trump denied involvement, stating, "I had absolutely nothing to do with it," while criticizing Cruz for surrounding himself with "political hacks." The National Enquirer defended its integrity, claiming its reporting was independent. The Enquirer has a history of breaking major sex scandals, though its credibility is often questioned.  
+END OF SUMMARY.

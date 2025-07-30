@@ -1,0 +1,14 @@
+Okay, I need to help the user by summarizing the given news article. The user has specified that the summary should be after the "SUMMARY:" token and end with "END OF SUMMARY." It should be concise, no longer than 200 words.
+
+First, I'll read through the article to understand the main points. The article is about Donald Trump announcing he's stepping down as the moderator for a Republican debate because most candidates aren't attending. He wants to avoid a conflict of interest in case he runs as a third-party candidate next year. He's considering an independent bid if the economy remains bad and the Republicans choose a wrong candidate. Despite this, he still plans to endorse a Republican candidate. The debate was sponsored by Newsmax, but without Trump, it might not happen. Trump expressed confidence in the debate's success and praised Gingrich and Santorum for attending.
+
+Now, I need to condense this information into a summary. I should include Trump's decision, the reason (conflict of interest), his consideration of a third-party run, his endorsement plan, the impact on the debate, and his praise for Gingrich and Santorum.
+
+I'll structure it to start with Trump's announcement, his reasons, his possible third-party run, his endorsement, the debate's status, and the praise. I'll keep each sentence brief and ensure the total is under 200 words.
+
+Let me check the word count as I draft. I'll make sure to include all key points without unnecessary details. Also, I need to ensure clarity and that the summary flows logically.
+
+Finally, I'll format it correctly with the tokens as specified.
+</think>
+
+SUMMARY: Donald Trump has announced he will not moderate the upcoming Republican presidential debate on December 27, citing a potential "conflict of interest" if he decides to run as a third-party candidate next year. Trump, who is considering an independent bid, stated he wants to keep his options open, especially if the Republican field selects a candidate he deems unsuitable. Despite his decision, Trump plans to endorse a Republican candidate. The debate, sponsored by Newsmax, had seen limited participation, with only Newt Gingrich and Rick Santorum agreeing to attend. Trump expressed confidence in the event's success but now doubts it will proceed without him. He praised Gingrich and Santorum for their willingness to participate, highlighting their "courage, conviction, and confidence." Trump emphasized his commitment to ensuring the "right" Republican candidate is chosen to oppose the Obama administration, while also prioritizing his goal of "making America great again." END OF SUMMARY.

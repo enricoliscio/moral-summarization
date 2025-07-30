@@ -1,0 +1,18 @@
+Okay, I need to help the user by summarizing the provided news article while preserving the moral framing. The user is a news summarizer assistant and a moral expert, so they want the summary to include as many of the morally charged words as possible. 
+
+First, I'll read through the article to understand the main points. It's about President Khatami congratulating Venezuela on the return of President Chavez after a failed coup. The key moral terms used are coup, justice, freedom, difficult, attempts, topple, reestablishment, collapsed, ouster, force, method, conformity, detained, forced, deaths, violent.
+
+I need to make sure these words are included in the summary. I'll start by identifying the main events: the coup attempt, Chavez's return, Khatami's congratulations, the failed coup's objectives, and the support for Chavez.
+
+I should structure the summary to highlight the moral aspects, such as the illegitimacy of the coup, the support for justice and freedom, and the failed attempts to topple the government. I'll also mention the impact on OPEC, as that's part of the context.
+
+I need to keep the summary under 200 words. I'll make sure each sentence includes the necessary moral terms without making it too verbose. For example, mentioning the coup, the failed attempts, the restoration of justice and freedom, and the support from Iran.
+
+I should also include details about the failed coup's objectives, like wanting Venezuela to leave OPEC, and the violent protests leading to deaths. This adds depth to the moral framing.
+
+Finally, I'll conclude with the mutual desire to meet and the summary of the situation, ensuring all key moral terms are included coherently.
+</think>
+
+SUMMARY:  
+President Mohammad Khatami of Iran congratulated President Hugo Chavez of Venezuela for the restoration of his government after a failed coup. Khatami described the return of Chavez as a victory for justice and freedom, expressing hope for Venezuela's future under his leadership. Chavez, who had been detained, thanked Khatami and detailed the challenges faced during the coup, emphasizing the role of the people and divine intervention in resisting anti-democratic attempts to topple his government. The coup, which aimed to force Venezuela out of OPEC and increase oil production, failed, and Chavez resumed his presidency. Iran condemned the ouster of a democratically elected leader, stating that coups and force are unacceptable methods of political change. The two leaders also expressed a desire to meet soon. The situation underscored the importance of legal order, justice, and the rejection of violent methods in upholding democratic principles.  
+END OF SUMMARY.

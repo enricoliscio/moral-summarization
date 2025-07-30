@@ -1,0 +1,37 @@
+Okay, so the user has given me a query where they want me to act as a news summarizer and a moral expert. They provided a news article about Republican senators pressuring Michael Steele to apologize for his comments on Afghanistan. The task is to first identify all the morally framed words and then summarize the article while preserving those moral framings.
+
+First, I need to understand what morally framed words are. These are words that carry a strong moral connotation, like "pressure," "backlash," "apologize," etc. They often relate to right/wrong, good/bad, or responsibility.
+
+Looking at the article, I'll go through each sentence and pick out words that have a moral angle. For example, "pressure" is used when the senators are pushing Steele. "Backlash" shows the negative reaction. "Apologize" is a direct moral action. "War of Obama's choosing" implies blame. "Unwinnable" suggests criticism. "Supporting" shows approval. "Unacceptable" and "inaccurate" are criticisms. "Refocus" is about correcting behavior. "Wildly inaccurate" again is a criticism. "Quell the furor" is about calming down anger. "Support necessary" is about responsibility. "Clear up any confusion" is about correcting a mistake. "Charge" and "step down" imply leadership failure. "Better if he went" is a call for resignation.
+
+Next, I need to summarize the article, making sure to include as many of these moral words as possible. The summary should be concise, under 200 words. I'll start by stating the pressure on Steele, mention the backlash, the demand for an apology, the quotes from DeMint and McCain, Steele's attempt to clarify, and the ongoing calls for his resignation.
+
+I have to ensure the summary flows well and includes all the key points with the moral language intact. I'll check the word count to make sure it's within the limit. Also, I need to structure the summary after the "SUMMARY:" token and end with "END OF SUMMARY."
+
+I think I've covered all the necessary points and included the morally framed words. Let me put it all together to make sure it's coherent and meets the user's requirements.
+</think>
+
+**STEP 1:**  
+* Pressure  
+* Backlash  
+* Apologize  
+* War  
+* Choosing  
+* Unwinnable  
+* Support  
+* Inaccurate  
+* Refocus  
+* Unacceptable  
+* Assess  
+* Future  
+* Quell  
+* Furor  
+* Support  
+* Clear  
+* Confusion  
+* Charge  
+* Step down  
+* Better  
+
+**SUMMARY:**  
+Republican senators pressured RNC Chairman Michael Steele to apologize for his controversial remarks that labeled Afghanistan as "Obama's war" and questioned its winnability. Prominent conservatives, including Sen. Jim DeMint, criticized Steele's comments as "unacceptable" and "inaccurate," calling for him to refocus on the election and apologize to the troops. Sen. John McCain echoed the criticism, describing Steele's statements as "wildly inaccurate." Steele attempted to quell the furor by issuing a statement reaffirming the importance of winning the war on terror and supporting the troops, but his efforts did little to calm the controversy. Conservative leaders like Bill Kristol continued to call for Steele's resignation, asserting that his continued leadership was inappropriate. END OF SUMMARY.

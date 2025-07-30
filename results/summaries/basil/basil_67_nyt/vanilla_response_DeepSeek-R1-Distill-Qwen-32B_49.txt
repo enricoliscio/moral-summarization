@@ -1,0 +1,14 @@
+Alright, so the user has given me a query where they want me to act as a news summarizer assistant. They provided a news article about Donald Trump meeting with the Mexican president, Enrique Peña Nieto, and Vicente Fox's reactions. My task is to summarize this article concisely, within 200 words, and format it with "SUMMARY:" at the start and "END OF SUMMARY." at the end.
+
+First, I need to read the article carefully to understand the main points. The key elements are Trump's visit to Mexico, Fox's opposition to it, his criticism of Trump's policies, and the back-and-forth between Trump and Fox on social media.
+
+I should identify the main actors: Trump, Peña Nieto, and Fox. The main events are Trump's invitation, Fox's criticism, their Twitter exchange, and Fox's doubts about Trump's intentions.
+
+Next, I need to condense this information into a summary that's under 200 words. I should focus on the most important details: Fox's rejection of Trump's visit, his criticism of Trump's policies, Trump's response, and the context of their public feud.
+
+I also need to ensure the summary flows logically, starting with Trump's visit, Fox's opposition, the reasons behind it, and the subsequent social media exchange. I should avoid including too much background or secondary details to keep it concise.
+
+Finally, I'll structure the summary to include all key points without exceeding the word limit, making sure it's clear and captures the essence of the article.
+</think>
+
+SUMMARY: Donald Trump is set to meet with Mexican President Enrique Peña Nieto on Wednesday, but former Mexican President Vicente Fox has strongly criticized the invitation, calling it a mistake. Fox stated that Trump is not welcome in Mexico due to his demonization of Mexicans and his volatile policy positions, including his border wall plan. He accused Trump of being untrustworthy and criticized his shifting stance on deporting undocumented immigrants. Fox also dismissed Trump's claims that Mexico would pay for the wall, calling him a "false prophet." Fox believes Trump's visit is a desperate attempt to boost his declining poll numbers and urged Americans not to vote for him. Trump responded on Twitter, referencing Fox's past suggestion for him to visit Mexico. Fox fired back, demanding Trump apologize to Mexicans and accusing him of lying. The two have been locked in a public feud, with Fox expressing doubt about Trump's ability to govern. END OF SUMMARY.

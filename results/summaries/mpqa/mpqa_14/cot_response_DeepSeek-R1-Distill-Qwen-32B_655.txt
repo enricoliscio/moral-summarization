@@ -1,0 +1,30 @@
+Alright, so I need to help the user with this query. They provided a news article and specific instructions on how to process it. First, I have to identify the morally framed words in the article. Then, I need to summarize the article while preserving those moral terms. 
+
+Let me start by reading the article carefully. The main points are about a Russian supply ship docking to the International Space Station, potential issues with the docking, and the impact on the planned shuttle launch. 
+
+Now, for the first step, I need to find words that carry moral implications. Words like "missed," "proper," "delay," "damage," "concern," "problem," "securely," and "assess." These words suggest issues, concerns, and potential negative outcomes, which are the moral framing elements.
+
+Next, I have to summarize the article, making sure to include these morally framed words. The summary should be concise, under 200 words, and include all the key points: the docking issue, the potential delay, the concern about damage, the actions taken by Russian controllers, and the resolution.
+
+I need to ensure that the summary flows naturally and maintains the original message while highlighting the moral aspects. I'll structure it to mention the docking problem first, then the potential delay, the concern for damage, the steps taken by the controllers, and finally the resolution that everything was secure enough.
+
+I should also keep the summary clear and straightforward, avoiding any unnecessary details. It's important to stay within the word limit, so I'll make each sentence count by combining related points where possible.
+
+After drafting the summary, I'll review it to ensure all morally framed words are included and that the summary accurately reflects the article's content without adding any personal opinions or extra information.
+
+I think that's a solid approach. Now, I'll proceed to create the step-by-step response as per the user's instructions.
+</think>
+
+**STEP 1:**  
+* missed  
+* proper  
+* delay  
+* damage  
+* concern  
+* problem  
+* securely  
+* assess  
+
+**SUMMARY:**  
+A Russian supply ship docked with the International Space Station on Wednesday, but there were concerns it may not have latched properly. NASA officials were unsure if this issue could delay the planned launch of the space shuttle Endeavour. The concern was that a loose fit might damage the space station due to the force from a docking shuttle. The Progress ship, carrying over a ton of supplies, docked on time, but Russian controllers did not receive confirmation that the hooks had closed and latched. The station's steering system was turned off for an extra three hours to allow Russian engineers to assess the problem. Some equipment was powered down to conserve energy, but everything was later restored after determining the ship was securely attached. Russian Mission Control worked overnight to address the issue.  
+**END OF SUMMARY.**

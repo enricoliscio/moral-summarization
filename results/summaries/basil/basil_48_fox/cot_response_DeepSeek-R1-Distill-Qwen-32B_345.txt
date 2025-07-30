@@ -1,0 +1,27 @@
+Alright, so I need to help the user with their query. They want me to act as a news summarizer and moral expert. The task involves two steps: first, identifying morally framed words from the given article, and then summarizing the article while preserving those moral terms.
+
+Okay, let me start by reading the article carefully. It's about Elizabeth Lauten, a communications director for a Republican Congressman, who posted a critical Facebook comment about the Obama daughters. She criticized their outfits and behavior, implying they lacked class and weren't good role models. She later apologized, acknowledging her judgment was hurtful.
+
+For the first step, I need to find all the single words that carry a moral framing. Words like "critical," "class," "respect," "good role model," "judged," "hurtful," and "apologized." These words convey judgment or evaluation, so they're morally charged.
+
+Next, I have to summarize the article, making sure to include these moral terms. The summary should be concise, under 200 words. I need to highlight the key points: who Lauten is, her criticism, the content of her post, the apology, and the context of the Thanksgiving event.
+
+I should structure the summary to flow logically, starting with her position, her action, the content of her post, the apology, and the lack of response from others. I'll make sure to include the morally framed words to preserve the author's original framing.
+
+Let me piece this together. Start by introducing Lauten and her role, mention her Facebook post, detail her criticisms, include her apology with the specific words she used, and note the lack of response from the White House and Fincher. Keep it clear and within the word limit.
+
+I think that's a solid approach. I'll make sure each part is covered succinctly, preserving the moral elements as required.
+</think>
+
+**STEP 1:**  
+* Critical  
+* Class  
+* Respect  
+* Good role model  
+* Judged  
+* Hurtful  
+* Apologized  
+
+**SUMMARY:**  
+Elizabeth Lauten, the communications director for Rep. Stephen Fincher, apologized after posting a critical Facebook comment about Malia and Sasha Obama during President Obama's Thanksgiving address. She criticized their outfits, suggesting they lacked "class" and should "dress like they deserve respect." Lauten also criticized the first family, implying they were poor role models. The post, which was later deleted, sparked controversy, and Lauten apologized, acknowledging her judgment was "hurtful" and vowing to learn from the experience. The White House and Fincher did not respond publicly. Lauten's comments highlighted the moral framing of respect, class, and role modeling in public discourse.  
+**END OF SUMMARY.**

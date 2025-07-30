@@ -1,0 +1,31 @@
+Okay, so I need to help the user summarize this news article while preserving the moral framing. First, I'll read through the query again to understand exactly what's needed. The user wants me to act as a news summarizer and moral expert. My tasks are two-fold: first, identify all single words in the article that carry moral framing, and second, write a concise summary that includes as many of those morally charged words as possible.
+
+Starting with the first step, I need to go through the article and pick out words that have a moral connotation. These words often express approval or disapproval, so I'll look for adjectives or verbs that carry such meanings. For example, words like "hostage," "chaos," "untenable," "pointless," "unacceptable," "senseless," "unfair," "good faith," "reasonable," and "strength" come to mind. Each of these words is used in a way that conveys a moral judgment, either positive or negative.
+
+Now, moving on to the summary. I need to condense the article into 200 words or less, making sure to include those morally framed words. The article is about President Trump's immigration compromise, the reactions from both Democrats and Republicans, and the ongoing government shutdown. The key points are Trump offering a three-year DACA extension in exchange for border wall funding, the Democratic criticism of this as hostage-taking, the Republican support for the compromise, and the ongoing shutdown affecting federal workers.
+
+I'll structure the summary by first stating Trump's proposal, then the Democratic reaction using terms like "hostage," "chaos," and "untenable." Next, I'll mention Republican support with words like "compromise," "fair," and "strength." Finally, I'll note the shutdown's impact and the call for reopening to negotiate further. I'll ensure the summary flows logically and includes the necessary morally framed words without making it too verbose.
+
+I should also make sure that the summary doesn't include any markdown or special formatting, just plain text. I'll keep each sentence concise and focused on the main points, ensuring that the moral framing is preserved as per the user's instructions. Let me put it all together, making sure it's under 200 words and hits all the key points with the appropriate moral language.
+</think>
+
+**STEP 1:**
+
+* Hostage  
+* Chaos  
+* Untenable  
+* Pointless  
+* Unacceptable  
+* Senseless  
+* Unfair  
+* Good faith  
+* Reasonable  
+* Strength  
+
+---
+
+**SUMMARY:**  
+
+President Trump proposed a three-year DACA extension and $5.7 billion for a border wall to end the government shutdown, but Democrats criticized the deal as "hostage-taking" and "untenable." They accused Trump of exploiting federal workers and creating "chaos." Senate Minority Leader Chuck Schumer called the proposal "one-sided and ineffective," while House Speaker Nancy Pelosi dismissed it as a "non-starter." Democrats argued that Dreamers and TPS recipients should not be "bargaining chips" and demanded the government reopen before negotiations. Republicans, however, praised Trump's "good faith" effort, with Senate Majority Leader McConnell calling it a "fair compromise." GOP lawmakers urged Democrats to stop obstructing and accept the deal, emphasizing the need for "strength" in resolving the stalemate. The shutdown, now affecting 800,000 federal workers, was described as "senseless" and "unfair" by both parties. Republicans like Sen. Romney and Sen. Rubio supported the deal, calling it "reasonable" and urged Democrats to negotiate. The impasse continued as Democrats insisted on reopening the government first.  
+
+END OF SUMMARY.

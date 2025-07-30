@@ -1,0 +1,50 @@
+Okay, so the user has given me a query where they want me to act as a news summarizer assistant and a moral expert. They provided a news article about Rep. Justin Amash launching an exploratory committee for the Libertarian Party's presidential nomination. The task is to first identify all the single words that are morally framed and then write a summary preserving those moral framings.
+
+First, I need to understand what morally framed words are. These are words that carry a moral judgment or implication, such as "respect," "honesty," "integrity," etc. They convey values or ethical stances.
+
+Looking at the article, I'll go through each sentence to pick out these words. For example, "respect" appears when Amash talks about restoring respect for the Constitution. "Honesty" and "integrity" might come up in the context of his stance against Trump. Words like "frustration," "pressure," "tipping point," and "relevance" also carry moral connotations in this context.
+
+Next, I need to summarize the article, making sure to include as many of these morally framed words as possible. The summary should be concise, under 200 words, and capture the essence of Amash's decision, his motivations, and the potential impact on the election.
+
+I should start by introducing Amash's announcement, mention his reasons for running as a third-party candidate, his focus on Libertarian values, and the reactions from both Libertarians and Republicans. I'll also touch on the potential effect his candidacy might have on the election dynamics between Trump and Biden.
+
+I need to ensure that the summary flows well and maintains the moral framing without being too verbose. It's important to highlight his commitment to practical approaches, humility, and trust, as well as the broader implications for the political landscape.
+
+Finally, I'll structure the summary to include all key points: the announcement, his motivations, his political stance, the pressure from Libertarians, his past actions against Trump, and the potential impact on the election. I'll make sure to keep it within the word limit and end with the specified tokens.
+</think>
+
+**STEP 1:**  
+* respect  
+* practical  
+* humility  
+* trust  
+* restore  
+* together  
+* serve  
+* background  
+* ready  
+* campaign  
+* pressure  
+* acceptable  
+* Republicans  
+* Never Trump  
+* tipping point  
+* relevant  
+* impact  
+* intervention  
+* federal spending  
+* exploding deficit  
+* fiscal conservatism  
+* misbehavior  
+* impeachment  
+* disingenuous  
+* frivolous  
+* false defenses  
+* history  
+* noise  
+* attractive  
+* option  
+
+**SUMMARY:**  
+Rep. Justin Amash has launched an exploratory committee to seek the Libertarian Party’s presidential nomination, signaling his intent to run as a third-party candidate. Amash emphasized his commitment to practical approaches rooted in humility and trust, aiming to restore respect for the Constitution and unite Americans. His decision comes amid pressure from Libertarians and "Never Trump" Republicans, who view him as a potential game-changer. Amash, a former Republican, has long advocated for libertarian values, including less government intervention and reduced federal spending. His national profile rose under President Trump, as he criticized the administration and supported impeachment. Amash’s candidacy could draw support from disenchanted Republicans, creating a third-party option that might impact the race between Trump and Biden. His campaign highlights a desire to bring honesty and integrity back to politics, offering an alternative to the polarized political landscape.  
+**END OF SUMMARY.**

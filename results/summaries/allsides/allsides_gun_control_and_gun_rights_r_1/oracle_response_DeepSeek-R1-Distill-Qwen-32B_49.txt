@@ -1,0 +1,14 @@
+Okay, so I need to help this user by summarizing a news article while preserving the moral framing. The user is acting as a news summarizer and a moral expert. They provided the article and the specific morally framed words to include. 
+
+First, I'll read through the article to understand the main points. It's about Maryland Democrats rejecting a bill aimed at combating gun violence. The context is the Baltimore mayor urging residents to stop shooting each other to free up hospital beds for COVID-19 patients. The bill, proposed by Republican Governor Hogan, would increase penalties for violent criminals. Democrats removed mandatory minimums, which led to the bill's passage but with some opposition.
+
+The user wants a summary that includes the morally charged words like "violence," "shooting," "treat," etc. I need to make sure these words are present. The summary should be concise, under 200 words, and end with the specified tokens.
+
+I'll start by identifying the key events: the bill's rejection, the mayor's plea, the specifics of the bill, the Democrats' amendments, the reactions from both sides, and public support for the bill.
+
+I'll structure the summary to flow logically: mention the rejection, the mayor's appeal, the bill's details, the Democrats' actions, the outcomes, and the public sentiment. I'll ensure to use the moral terms where appropriate.
+
+Now, I'll draft the summary, making sure to include all the necessary elements and the specified words. I'll check the word count to stay within the limit and ensure clarity and coherence.
+</think>
+
+SUMMARY: Maryland Democrats rejected a bill aimed at combating gun violence, even as Baltimore Mayor Jack Young pleaded with residents to stop shooting each other to free up hospital beds for coronavirus patients. The bill, pushed by Republican Governor Larry Hogan, sought to strengthen penalties for violent criminals by making firearm theft a felony and increasing penalties for those carrying illegal guns or using them in drug dealing. However, Democrats removed mandatory minimum sentencing increases, arguing the penalties were too severe. Despite its passage in the state Senate, the bill ultimately failed in the House. GOP senators accused Democrats of undermining public safety by gutting the legislation, while Hogan's internal poll showed strong public support for the bill, with 85% of Baltimore residents and 84% of African Americans statewide backing it. Violent crime has surged in Baltimore, with the mayor urging residents to stop the violence to allow hospitals to focus on the pandemic. END OF SUMMARY.

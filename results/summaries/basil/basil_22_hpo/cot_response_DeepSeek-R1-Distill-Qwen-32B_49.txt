@@ -1,0 +1,25 @@
+Okay, so I need to help the user with their query. They provided a news article about Georgetown faculty criticizing Paul Ryan's budget using Catholic social teaching. The task is to first identify all the morally framed single words and then write a summary preserving those moral terms.
+
+First, I'll read through the article carefully to spot the moral framing words. Words like "misuse," "hurts," "objecting," "nonsense," "devastating," "fails," "critique," "values," "compassion," "love," "gutting," "subsidium," and "Compendium" stand out. These words carry moral weight, indicating approval or disapproval.
+
+Next, I need to summarize the article, making sure to include these moral terms. The summary should be concise, around 200 words, and capture the essence of the criticism against Ryan's budget from a Catholic social justice perspective. I'll structure it to mention the faculty's action, their objections, the impact on the poor, and the misuse of Catholic teachings, including the specific moral terms identified.
+
+I should ensure the summary flows logically, starting with the faculty's action, their reasons, the specific criticisms, and the call for Ryan to correct his understanding. This way, the moral framing is preserved, and the key points are highlighted without exceeding the word limit.
+</think>
+
+**STEP 1:**  
+* misuse  
+* objecting  
+* nonsense  
+* devastating  
+* fails  
+* critique  
+* values  
+* compassion  
+* love  
+* gutting  
+* subsidium  
+* Compendium  
+
+**SUMMARY:**  
+Nearly 90 Georgetown University faculty and administrators have criticized Representative Paul Ryan for his misuse of Catholic social teaching to defend his budget, which they argue hurts the poor. In a letter to Ryan, the scholars objected to his claim that his budget aligns with Catholic teachings, calling it "nonsense." They highlighted the devastating impact of his budget on programs for the poor, such as food assistance and Pell Grants, which would make it difficult for low-income students to pursue higher education. The scholars emphasized that Ryan's use of the Catholic principle of "subsidiarity" to justify cuts in government programs is incorrect, as it demands higher levels of government to provide support when local communities cannot address issues like poverty and unemployment. They also pointed out that Ryan's budget reflects Ayn Rand's philosophy rather than the gospel of compassion and love. The scholars urged Ryan to read "The Compendium of the Social Doctrine of the Church" to better understand Catholic social teaching. END OF SUMMARY.

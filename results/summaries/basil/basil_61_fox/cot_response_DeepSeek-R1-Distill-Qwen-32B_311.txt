@@ -1,0 +1,31 @@
+<think>
+Okay, so I need to help the user by summarizing the news article they provided. They mentioned that I should act as a news summarizer and a moral expert, preserving the moral framing. The user also provided a specific structure for the response, which includes two steps: identifying morally framed words and then writing the summary.
+
+First, I'll start by reading the article carefully to understand the context and the moral implications. The article talks about the conflict between Ted Cruz and Donald Trump, focusing on personal attacks and the use of media to smear each other. There are several moral terms used here, like "smear," "attack," "liar," "coward," and "classless." These words carry strong moral connotations, indicating negative actions or traits.
+
+Next, I need to extract all the single words that are morally framed. I'll go through the article again, looking for words that convey judgment or moral evaluation. Words like "smear," "attack," "liar," "coward," "classless," "false," "garbage," "lies," "spill the beans," and "endorse" stand out. I'll list these under STEP 1, each on a new line starting with an asterisk.
+
+Now, for the summary, I have to condense the article while keeping the moral framing intact. I need to mention the main points: Cruz's accusations against Trump, Trump's attacks on Heidi, the National Enquirer story, the super PAC ad, and the broader implications of their feud. I should use the identified moral words to maintain the original tone.
+
+I'll start by stating that Cruz accused Trump of orchestrating the smear campaign. Then, I'll mention Trump's threats against Heidi, using "liar" and "coward." I'll include the details about the National Enquirer story, the ad with Melania, and the response from the anti-Trump PAC. Finally, I'll note the impact on the Republican campaign and the moral issues involved.
+
+I need to ensure the summary is concise, under 200 words, and flows naturally while preserving the moral elements. I'll make sure each key point is covered without going into too much detail, focusing on the conflict and the moral terms used.
+
+Putting it all together, I'll structure the response with STEP 1 listing the moral words and then the SUMMARY section, ending with the specified tokens. I should double-check that I haven't missed any important details and that the summary accurately reflects the article's content and moral framing.
+</think>
+
+**STEP 1:**  
+* Smear  
+* Attack  
+* Lies  
+* Garbage  
+* False  
+* Spill the beans  
+* Endorse  
+* Liar  
+* Coward  
+* Classless  
+
+**SUMMARY:**  
+Sen. Ted Cruz accused Donald Trump of orchestrating a smear campaign after the National Enquirer published false allegations of extramarital affairs. Cruz criticized Trump for attacking his wife and family, stating he would not support Trump if he becomes the GOP nominee. Trump, in turn, threatened to expose details about Cruz's wife, Heidi, calling Cruz a liar. A super PAC opposing Trump released an ad featuring Melania Trump from a past photoshoot, sparking Trump's愤怒. Cruz denied involvement and called Trump a coward for threatening his family. The feud highlights the personal and unethical tactics in the race, with Trump leading in delegates while Cruz faces challenges. The moral stakes are high, with both candidates resorting to attacking each other's families and credibility.  
+**END OF SUMMARY.**

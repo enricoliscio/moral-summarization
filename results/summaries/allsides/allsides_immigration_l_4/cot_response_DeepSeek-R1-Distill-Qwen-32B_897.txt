@@ -1,0 +1,45 @@
+Okay, so I need to help the user by summarizing a news article while preserving the moral framing. Let me start by understanding the task. The user wants me to first identify all the single words that are morally framed in the article. Then, I need to write a summary that includes as many of those words as possible, keeping it under 200 words.
+
+First, I'll read through the article carefully to spot words that carry moral connotations. Words like "woes," "disappointment," "anti-terrorist," "criminals," "famine," "chaotic," "outrage," "muted," "fanfare," "desperate," "pressure," "retaliatory," "humanitarian," "exemplifying," "gold standard," "vulnerable," "protection," "anguish," "crucial," "exemplifying," "highest," "humane," "abdicating," "unnecessary," "divisive," and "wrong." These words seem to carry moral weight and are used to frame the situation negatively or positively.
+
+Now, for the summary, I need to include these words while condensing the article. The main points are the UN's criticism of Trump's revised travel ban, the impact on refugees, the muted reaction compared to the first ban, and the various responses from different countries. I should make sure to highlight the moral implications, like the UN's concern for refugees' suffering and the criticism of the ban as unnecessary and wrong.
+
+I'll structure the summary to start with the UN's stance, mention the affected countries, the revised order's specifics, the muted reaction, and then touch on the international responses and criticisms. I'll ensure that the morally framed words are integrated naturally to preserve the original tone.
+
+Let me check the word count to make sure it's under 200. I'll draft the summary, then count the words. If it's over, I'll trim it down without losing essential points. Also, I need to end with the specified tokens, so I'll make sure to include "SUMMARY:" and "END OF SUMMARY." correctly.
+
+I think I've covered all the necessary elements. Time to put it all together concisely while keeping the moral framing intact.
+</think>
+
+**STEP 1:**
+
+* Woes
+* Disappointment
+* Anti-terrorist
+* Criminals
+* Famine
+* Chaotic
+* Outrage
+* Muted
+* Fanfare
+* Desperate
+* Pressure
+* Retaliatory
+* Humanitarian
+* Exemplifying
+* Gold standard
+* Vulnerable
+* Protection
+* Anguish
+* Crucial
+* Exemplifying
+* Highest
+* Humane
+* Abdicating
+* Unnecessary
+* Divisive
+* Wrong
+
+**SUMMARY:**
+
+The United Nations has criticized Donald Trump's revised travel ban, stating it will increase the woes of refugees. The ban blocks entry from six Muslim-majority countries for 90 days and suspends the US refugee program for 120 days. UN officials emphasized that refugees are not criminals but ordinary people fleeing war and persecution. The revised order, less chaotic than the original, has drawn a muted response, though some countries expressed disappointment. Iran and Sudan criticized the ban, while Iraq avoided reciprocal action. The UN remains concerned, warning the decision may compound the anguish of refugees, particularly Somalis in Kenya hoping to resettle in the US. Critics, including the UK and OIC, called the ban unnecessary and divisive, arguing it abdicates international responsibilities. The revised order includes some legal safeguards but fails to address humanitarian concerns. END OF SUMMARY.

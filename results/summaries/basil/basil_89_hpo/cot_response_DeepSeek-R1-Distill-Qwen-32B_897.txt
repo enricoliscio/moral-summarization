@@ -1,0 +1,31 @@
+Alright, I need to help the user by summarizing the given news article while preserving the moral framing. The user has specified two steps: first, identifying all single words that are morally framed, and then writing a concise summary using those words.
+
+Starting with Step 1, I should go through the article and pick out words that carry moral connotations. Words like "strength," "readiness," "lethality," "reform," "prevail," "influence," "aligned," "withdraw," "undermine," "compromise," "ideals," "expel," "ban," "torture," "departure," "fired," "short tenure," and "ethics" come to mind. These words reflect judgments or evaluations in the context of the article.
+
+For the summary, I need to condense the article into 200 words, keeping as many of these moral terms as possible. The key points are Mattis's resignation, his reasons related to differing views on Russia and China, the military spending increase, conflicts over Syria and Iran, opposition to Trump's policies, and the broader context of leadership changes in the administration. I'll structure the summary to highlight these points, ensuring the moral framing is maintained.
+
+I should also make sure the summary flows well and covers all essential aspects without being too verbose. It's important to mention Mattis's contributions, the disagreements with Trump, and the implications of his departure, all while using the identified moral words to convey the necessary tone.
+</think>
+
+**STEP 1:**  
+* Strength  
+* readiness  
+* lethality  
+* reform  
+* prevail  
+* influence  
+* aligned  
+* withdraw  
+* undermine  
+* compromise  
+* ideals  
+* expel  
+* ban  
+* torture  
+* departure  
+* fired  
+* short tenure  
+* ethics  
+
+**SUMMARY:**  
+Defense Secretary Jim Mattis announced his resignation, citing differing views with President Trump on Russian and Chinese authoritarianism. Mattis praised the progress in military strength, readiness, and reform but stepped down due to misalignment with Trump’s policies. Trump increased military spending to $700 billion, but Mattis opposed Trump’s decision to withdraw troops from Syria and his praise for Russian President Putin. Mattis also opposed Trump’s withdrawal from the Iran nuclear deal, ban on transgender service members, and use of torture. Mattis’ departure follows a series of high-profile exits in Trump’s administration, highlighting tensions between Trump’s leadership style and his Cabinet’s priorities. END OF SUMMARY.

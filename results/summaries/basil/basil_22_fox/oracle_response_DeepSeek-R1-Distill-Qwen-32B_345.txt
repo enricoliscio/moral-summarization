@@ -1,0 +1,17 @@
+Okay, so the user has provided a news article about Paul Ryan and a response that's a summary of it. They want me to act as a news summarizer assistant and a moral expert, ensuring that the summary preserves the moral framing the author used. The user has already included the summary, but they might be looking for feedback or further refinement. 
+
+First, I need to understand the original article. It's about how Georgetown University professors and administrators sent a letter criticizing Paul Ryan for misusing Catholic doctrine to support his budget. Ryan uses the concept of subsidiarity, which they argue he's misapplying to justify cutting government programs. The summary provided does capture the main points, but I should check if it includes all the morally framed words the user listed.
+
+Looking at the summary, it uses words like "misused," "misappropriated," "gutting," "decimates," "weakens," "protections," "govern," and "crisis." It seems to cover most of the moral terms. However, I should ensure that the summary doesn't omit any key points or the moral perspective. 
+
+I also need to make sure the summary is concise, under 200 words, and flows well. The current summary is 180 words, so it's within the limit. It accurately reflects the criticism from Georgetown and Ryan's defense, including his reference to subsidiarity and the bishops' conference. 
+
+I think the summary is good, but maybe I can tweak it for clarity or to include more of the moral language without making it too verbose. For example, ensuring that words like "preferential option for the poor" are included, as that's a key moral point Ryan mentions. 
+
+Also, I should check if the summary maintains the balance between Ryan's arguments and the criticism. It does mention that Ryan says the letters don't represent all bishops, which is important. 
+
+In conclusion, the summary provided is effective, but I can enhance it slightly by ensuring all moral terms are included and the flow is smooth. Maybe rephrase a sentence or two for better clarity while keeping the moral framing intact.
+</think>
+
+SUMMARY:  
+GOP Rep. Paul Ryan is facing criticism from Georgetown University professors and administrators for allegedly misusing Catholic doctrine to justify his deficit-reducing budget. The group accused Ryan of misappropriating the principle of subsidiarity, arguing it does not serve as a rationale for gutting government programs but instead requires higher levels of government involvement. They claim his budget decimates food programs for struggling families, weakens protections for the elderly and sick, and gives tax breaks to the wealthiest. Ryan defended his approach, stating it aligns with Catholic social teaching's "preferential option for the poor" but not for bigger government. He emphasized subsidiarity as a call for local-level solutions and federalism. The bishops' conference, however, disagrees, stating budgets must not disproportionately cut essential services for the poor. Ryan's lecture at Georgetown remains scheduled, with his team affirming his commitment to addressing the debt crisis to avert harm to vulnerable populations. END OF SUMMARY.

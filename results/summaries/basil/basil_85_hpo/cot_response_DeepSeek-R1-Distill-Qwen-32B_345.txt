@@ -1,0 +1,28 @@
+Alright, I need to tackle this query where the user wants me to summarize a news article while preserving the moral framing. Let me break down what they're asking for.
+
+First, they mentioned that I should identify all the single words that are morally framed. They labeled this as STEP 1 and want each word listed with a *. So I'll go through the article and pick out words that carry a moral connotation. Words like "discriminating," "destroyed," "censorship," "dangerous," "fake news," "salt," "banned," "conspiracy," and "theorist" come to mind. These words have clear moral implications in the context of the article.
+
+Next, they want a summary that includes as many of these morally framed words as possible. The summary should be concise, under 200 words, and start after a "SUMMARY:" token. I need to ensure that the summary captures Trump's main points: his accusation against social media companies for discrimination, his solution of letting everyone participate, and his mention of fake news and banned individuals like Alex Jones.
+
+I should structure the summary to first state Trump's accusation, then his proposed solution, and finally touch on the implications like censorship and the banning of certain figures. I'll make sure to include the morally charged words to maintain the author's framing.
+
+I also need to be careful with the word count, so I'll keep each sentence tight and focused on the key points. The summary should flow logically, starting with the accusation, moving to the solution, and ending with the broader implications.
+
+Let me double-check that I've included all the necessary morally framed words without making the summary too lengthy. It's important to balance conciseness with completeness, ensuring that the moral aspects are clearly represented.
+
+Finally, I'll format the response as per the user's instructions, separating STEP 1 and the SUMMARY with clear tokens. I'll make sure each part is correctly labeled and that the summary ends with "END OF SUMMARY." to meet their formatting requirements.
+</think>
+
+**STEP 1:**  
+* Discriminating  
+* Destroyed  
+* Censorship  
+* Dangerous  
+* Fake news  
+* Salt  
+* Banned  
+* Conspiracy  
+* Theorist  
+
+**SUMMARY:**  
+President Donald Trump criticized social media companies on Twitter, accusing them of "totally discriminating against Republican/Conservative voices." He argued that "too many voices are being destroyed, some good and some bad," and called for allowing everyone to participate, regardless of the quality of their content. Trump criticized the tech giants for "closing down the opinions of many people on the RIGHT," while accusing them of "doing nothing to others." He warned that "censorship is a very dangerous thing & impossible to police," and launched into a familiar rant about "fake news" outlets like CNN and MSNBC, which he admitted to watching "just with a grain of salt." Trump did not mention any specific individuals but his comments came amid recent bans of conspiracy theorist Alex Jones and his website Infowars by several platforms. END OF SUMMARY.

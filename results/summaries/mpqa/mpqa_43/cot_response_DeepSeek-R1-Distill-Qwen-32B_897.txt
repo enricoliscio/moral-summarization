@@ -1,0 +1,37 @@
+Okay, so I'm trying to help the user with this query. They provided a news article and specific instructions on how to process it. The task has two parts: first, identifying morally framed words, and second, summarizing the article while preserving those moral terms.
+
+Starting with the first step, I need to read through the article carefully. The article talks about the US State Department's human rights report on China, which the Chinese experts are criticizing. I should look for words that carry a moral judgment. Words like "absurdities," "exaggerations," "fabrications," "tarnish," "slandering," "false," "violate," "interfere," "procedural mistake," "incorrect," "slur," "restrict," "ban," "smuggle," "heresy," "crackdown," "legitimize," "secede," and "terrorists." These words are used to convey moral judgment against the US report.
+
+Next, for the summary, I need to condense the article into 200 words, keeping those moral terms. The summary should highlight the main points: the US report's inaccuracies, China's rebuttal with evidence from experts and international figures, and the refutation of specific claims about Tibet and Xinjiang. I should ensure the moral framing is preserved, so I'll include terms like "false," "fabrications," "slandering," "restrict," "ban," "smuggle," "crackdown," etc.
+
+I also need to make sure the summary flows well and covers all key points without being too detailed. I'll start by stating the US report's purpose, then the Chinese experts' criticism, followed by examples from Tibet and Xinjiang, and conclude with the experts' arguments against the US claims.
+
+I should check that the summary doesn't exceed 200 words and that it accurately reflects the article's content while maintaining the moral perspective presented. Also, I need to present the summary after the "SUMMARY:" token and end with "END OF SUMMARY.".
+
+I think I've covered all the steps. Now, I'll format the response as per the user's instructions, listing the morally framed words first and then the summary.
+</think>
+
+**STEP 1:**  
+* absurdities  
+* exaggerations  
+* fabrications  
+* tarnish  
+* slandering  
+* false  
+* violate  
+* interfere  
+* procedural mistake  
+* incorrect  
+* slur  
+* restrict  
+* ban  
+* smuggle  
+* heresy  
+* crackdown  
+* legitimize  
+* secede  
+* terrorists  
+
+**SUMMARY:**  
+The US State Department's annual human rights report on China was criticized for containing absurdities, exaggerations, and fabrications, aimed at tarnishing China's image. Experts argued that the report slanders China and violates the UN Charter by interfering in internal affairs. The report was accused of using false claims to restrict religious freedom in Tibet, such as banning the "Shouters" sect, which was deemed heresy. It also alleged that China uses anti-terrorism campaigns to crackdown on Uighurs in Xinjiang, a claim dismissed as illegitimate. International figures, including Italian senator Renzo Gubert, praised China's efforts to protect cultural heritage and religious freedom in Tibet. Experts emphasized that terrorism, not ethnicity, should determine justice, comparing China's actions to the US's counterterrorism efforts in Afghanistan. The report's unsubstantiated claims were deemed a procedural mistake, with China's human rights record far exceeding Western media portrayals.  
+**END OF SUMMARY.**

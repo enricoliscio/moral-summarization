@@ -1,0 +1,11 @@
+Alright, I need to help the user by summarizing this news article while preserving the moral framing. The user is a news summarizer and a moral expert, so they want the summary to reflect the ethical implications as the original article did.
+
+First, I'll read through the article to understand the main points. Reddit is shutting down 2,000 communities for hate speech, especially targeting ones like "The_Donald" and "Gender Critical." They mention brands boycotting Facebook over hate speech, which adds context. The article uses specific moral terms like "hosted," "promoted," "spews," etc.
+
+I need to make sure the summary includes these terms to maintain the moral tone. I'll start by stating Reddit's action, then mention the specific communities and why they were banned. I'll include the rules they broke, like promoting hate speech and antagonizing others. Also, I should note the company's responsibility and their efforts to mitigate hate.
+
+I'll keep the summary concise, under 200 words, and ensure it flows logically. I'll avoid technical jargon and stick to the moral framing words provided. Finally, I'll make sure to end with the required tokens.
+</think>
+
+SUMMARY:  
+Reddit has taken action to curb hate speech by banning over 2,000 communities, including "The_Donald," "Gender Critical," and "CapoTrapHouse," which have consistently hosted rule-breaking content and promoted hate speech. These communities were banned for breaking rules, such as antagonizing others, promoting hate, and failing to meet basic expectations. "The_Donald," for instance, has long been a hub for extreme political ideas, including discussions on "white genocide" and ethnic cleansing. "Gender Critical," a radical feminist forum, has spewed anti-trans rhetoric, denying trans women's identities and supporting hate-filled discussions. Reddit emphasized its responsibility to mitigate hate and support its communities by enforcing stricter policies. The purge of these communities is part of a broader effort to combat hate speech, following brands' boycotts of Facebook over similar issues. The company stressed that this action is just the beginning of its mission to strengthen rules against hate. END OF SUMMARY.

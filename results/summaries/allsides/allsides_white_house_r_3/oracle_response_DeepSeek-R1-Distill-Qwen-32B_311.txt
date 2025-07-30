@@ -1,0 +1,16 @@
+Alright, so the user has given me a query where they want a news summary that preserves the moral framing of the original article. They've provided the article and a list of morally framed words. My task is to create a concise summary using as many of those words as possible without exceeding 200 words.
+
+First, I need to understand the key points of the article. The main events are the terrorist attacks in Paris by ISIS, which happened shortly after President Obama claimed ISIS was contained. The attacks resulted in many casualties, and Hollande called it an act of war. Obama's statements about containment and the progress made against ISIS are important. There's also the mention of the downing of the Russian plane and the leaders' commitment to fight terrorism.
+
+Next, I need to identify the morally charged words from the article: attacks, shootings, bombings, dead, wounded, war, contained, gained, march, fighting, reduce, referring, killings, attack, downing, killing, investigation, defeat, terrorism.
+
+I should structure the summary to include these words while keeping it under 200 words. I'll start by mentioning the attacks, the casualties, and Hollande's statement. Then, I'll address Obama's claim of containment and the criticism. I'll include the downing of the plane and the leaders' commitments. Finally, I'll note the cancellation of Hollande's trip and Obama's plans.
+
+I need to ensure that each sentence flows logically and that the moral framing is clear. I'll avoid adding any extra information not present in the article. Let me draft the summary, making sure to include as many of the listed words as possible without making it sound forced.
+
+After drafting, I'll review to ensure it's under 200 words and that all key points are covered with the moral language intact. I'll also check that the summary accurately reflects the article's content and maintains the intended moral perspective.
+</think>
+
+SUMMARY:  
+The Islamic State carried out terrorist attacks in Paris, including shootings and bombings, resulting in at least 127 dead and many wounded, just hours after President Obama declared the group "contained." French President Hollande labeled the attacks "an act of war," while Obama maintained that ISIS had not gained strength and was "contained" by the U.S.-led coalition in Syria and Iraq. Critics pointed to Obama's earlier dismissal of ISIS as a "jayvee team." The Paris killings followed the Islamic State's claimed responsibility for the downing of a Russian passenger plane, killing all 224 aboard. Obama offered condolences to France and reaffirmed support for the French investigation and the fight against terrorism. Hollande canceled his trip to the G-20 summit to focus on the attacks, while Obama planned to convene his National Security Council to review intelligence. The leaders pledged to work together to defeat terrorism.  
+END OF SUMMARY.

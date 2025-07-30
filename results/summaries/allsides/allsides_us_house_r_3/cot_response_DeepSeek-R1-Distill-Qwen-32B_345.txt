@@ -1,0 +1,66 @@
+Alright, so I need to help the user by summarizing the given news article while preserving the moral framing. First, I'll read through the article carefully to understand the context and identify the key points. 
+
+The article is about House Republicans storming a secure room during the impeachment probe against President Trump. They disrupted a deposition, which upset Democrats. The Republicans brought electronics into a secure area, which could be a security risk. Democrats are accusing them of ethics violations, while Republicans argue that the process isn't fair and lacks transparency. They mention that the impeachment isn't following precedents and that Trump's lawyers haven't been given access to evidence or witnesses. 
+
+I need to make sure I capture the moral elements. The user wants me to first list all the single words that are morally framed. So, I'll go through the article and pick out words that carry moral connotations. Words like "stormed," "upended," "demanded," "enraged," "protest," "complaints," "ethics charges," "unconstitutional," "unfair," "outrage," "obsession," "justice," "below it," "precedents," "denied," "transparency," "due process," "bypassing," "standards," "contradicted," "quid pro quo," "second-hand," "third-hand," "fairness," "rules," "probing," "security lapse," "access," "transcripts," "information," "banned," "unauthorized," "Russian," "Chinese," "sit-in," "testify," "mum," "contingent," "probe," "interference," "backchannel," "documents," "memos," "FOIA," "judge," "ordered," "releasing," "communications," "appointee," "left-leaning," "watchdog."
+
+Next, I need to write a concise summary that includes as many of these moral words as possible without exceeding 200 words. I'll structure the summary to highlight the conflict between Republicans and Democrats, the security breach, the accusations of unfairness, and the ongoing probe with new document demands. I'll make sure to include the key points about the disrupted deposition, the ethics charges, the accusations of bypassing due process, the fairness issues, and the subsequent actions taken by Democrats and the judge.
+
+I should also ensure that the summary flows logically, starting with the protest, moving to the accusations and counterarguments, and ending with the ongoing developments in the impeachment inquiry. This way, the moral framing is preserved throughout the summary, reflecting the tensions and accusations from both sides.
+</think>
+
+**STEP 1:**  
+* stormed  
+* upended  
+* demanded  
+* enraged  
+* protest  
+* complaints  
+* ethics charges  
+* unconstitutional  
+* unfair  
+* outrage  
+* obsession  
+* justice  
+* below it  
+* precedents  
+* denied  
+* transparency  
+* due process  
+* bypassing  
+* standards  
+* contradicted  
+* quid pro quo  
+* second-hand  
+* third-hand  
+* fairness  
+* rules  
+* probing  
+* security lapse  
+* access  
+* transcripts  
+* information  
+* banned  
+* unauthorized  
+* Russian  
+* Chinese  
+* sit-in  
+* testify  
+* mum  
+* contingent  
+* probe  
+* interference  
+* backchannel  
+* documents  
+* memos  
+* FOIA  
+* judge  
+* ordered  
+* releasing  
+* communications  
+* appointee  
+* left-leaning  
+* watchdog  
+
+**SUMMARY:**  
+House Republicans stormed a secure room during the impeachment probe against President Trump, disrupting a deposition and demanding fairness. Democrats accused them of creating a security lapse by bringing electronics into the restricted area and called for ethics charges. Republicans argued the process was unfair, claiming Democrats bypassed constitutional norms and denied them subpoena power. They accused the investigation of lacking transparency and due process. The protest turned into a sit-in, delaying testimony from Laura Cooper, though she eventually testified. Meanwhile, Democrats countered that Republicans on the committees had access to transcripts and could participate. The impeachment inquiry continued, with new demands for State Department documents and a federal judge ordering the release of Ukraine-related communications. Republicans criticized witness testimony as second-hand and third-hand, while Democrats pushed for transparency. END OF SUMMARY.

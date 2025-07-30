@@ -1,0 +1,16 @@
+Alright, I need to summarize the given news article while preserving the moral framing the author used. The user provided a list of morally framed words, so I should make sure to include as many as possible.
+
+First, I'll read through the article to understand the main points. It's about reopening schools during COVID-19, emphasizing community control of the virus. The author mentions that severe illness in children is rare, similar to influenza, which doesn't close schools. The key is controlling the virus through the three W's and other measures.
+
+I should start by highlighting the rarity of severe COVID-19 in kids and compare it to influenza. Then, stress the importance of community control using the specified moral words like "control," "testing," "isolation," etc. The article also outlines eight safety measures, so I'll need to mention those briefly, focusing on shielding vulnerable groups and reducing risks.
+
+I need to keep the summary under 200 words and ensure it flows naturally. I'll structure it by first addressing the comparison with influenza, then the community efforts, followed by the specific measures for schools. I'll make sure to use the moral terms provided without forcing them in awkwardly.
+
+Let me draft a few sentences and check if I'm including the key points and moral words. I'll also ensure that the summary doesn't lose the author's emphasis on community responsibility and the practical steps for schools. 
+
+After drafting, I'll review to make sure all the important points are covered and that the moral framing is maintained. If I notice any missing terms or points, I'll adjust accordingly. Finally, I'll ensure the summary starts with "SUMMARY:" and ends with "END OF SUMMARY." as per the instructions.
+</think>
+
+SUMMARY:  
+The article emphasizes that severe COVID-19 illness in children is rare, with death risk hundreds of times lower than for older adults. While rare, serious complications like the inflammatory syndrome do occur, similar to influenza, which kills many children annually, including those in schools. Despite this, schools remain open for influenza, suggesting a similar approach for COVID-19. The key to keeping schools safe lies in community control of the virus through the three W’s—wear masks, wash hands, watch distance—and measures like testing, isolation, tracing, and quarantine, which require providing services and support. The CDC offers guidelines for reopening schools, tailored to local contexts. In areas with explosive virus spread, in-person schooling may be challenging, but in most cases, schools should reopen with eight basic safety measures: shielding vulnerable individuals, reducing risks (e.g., avoiding large gatherings, modifying cafeteria use), and minimizing surface contact. Essential services like school meals should continue, while others may need adjustments. Group singing and team sports may be too risky, but outdoor activities with masks and distancing are possible. The focus remains on controlling the virus and reopening schools safely.  
+END OF SUMMARY.

@@ -1,0 +1,52 @@
+Okay, so the user has given me a query where I need to act as a news summarizer and a moral expert. The task involves two steps: first, identifying morally framed words from the provided news article, and second, summarizing the article while preserving those moral terms. 
+
+I need to start by understanding the article. It's about Reddit shutting down 2,000 communities due to hate speech, particularly focusing on subreddits like "The_Donald" and "Gender Critical." The article mentions the impact of these communities on gender, racial, and LGBTQ+ equality. 
+
+For the first step, I have to find all the single words that carry moral connotations. I'll go through the article and pick out words that imply judgment or value, like "hate," "curtail," "protests," "equality," "ban," "advertisements," "purging," "TERF," "pro-Trump," "radical," "banning," "host," "antagonize," "refuse," "extreme," "paranoia," "ethnic cleansing," "anti-trans," "deny," "vocally support," "blasted," "deny access," "hate," "weaponize," "mitigate," "rules," "mission," "craft," "policies," "enforcement." Each of these words carries a moral judgment, either positive or negative.
+
+Next, I need to write a concise summary (under 200 words) that includes as many of these moral terms as possible. I'll start by stating Reddit's action, the number of communities affected, and the reasons behind it. I'll mention the specific subreddits and their issues, like promoting hate speech and anti-trans rhetoric. I'll also include the company's justification, such as breaking rules and the responsibility to support communities by enforcing policies. Finally, I'll note that this is just the beginning of their efforts against hate speech.
+
+I need to make sure the summary flows well and covers all key points while preserving the moral framing. I should avoid adding any personal opinions and stick strictly to the information provided in the article. Also, I must adhere to the word limit, so I'll be concise but comprehensive.
+
+After completing the summary, I'll format it as per the user's instructions, starting with "SUMMARY:" and ending with "END OF SUMMARY." I'll ensure that each step is clearly labeled and that the summary is within the specified word count.
+</think>
+
+**STEP 1:**
+
+Here are the single words that are morally framed in the text:
+
+* hate  
+* curtail  
+* protests  
+* equality  
+* ban  
+* advertisements  
+* purging  
+* TERF  
+* pro-Trump  
+* radical  
+* banning  
+* host  
+* antagonize  
+* refuse  
+* extreme  
+* paranoia  
+* ethnic cleansing  
+* anti-trans  
+* deny  
+* vocally support  
+* blasted  
+* deny access  
+* hate  
+* weaponize  
+* mitigate  
+* rules  
+* mission  
+* craft  
+* policies  
+* enforcement  
+
+---
+
+**SUMMARY:**  
+Reddit has shut down over 2,000 communities, including "The_Donald" and "Gender Critical," for violating its content policies and promoting hate speech. These communities were accused of hosting rule-breaking content, antagonizing others, and refusing to meet basic expectations. "The_Donald," a pro-Trump forum, was banned for promoting extreme political ideas, including "white genocide" and ethnic cleansing. "Gender Critical," a radical feminist community, was banned for anti-trans rhetoric, denying trans women's identities, and opposing trans-inclusive language. Reddit emphasized its responsibility to combat hate speech and support inclusive communities, stating that this purge is just the beginning of stricter enforcement. The move follows brands boycotting Facebook over hate speech, led by civil rights groups. END OF SUMMARY.

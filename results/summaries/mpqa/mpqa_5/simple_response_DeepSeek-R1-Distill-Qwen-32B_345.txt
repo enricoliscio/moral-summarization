@@ -1,0 +1,16 @@
+Alright, so I need to summarize this news article while preserving the moral framing the author gave. Let me read through the query again to make sure I understand it correctly.
+
+The user provided a news article about Taro Kono, a Japanese politician, who criticized President Bush's speech. The article includes some excerpts from Kono's email magazine where he questions the US stance on various treaties and policies. The user wants a summary that maintains the moral perspective the original author presented.
+
+First, I should identify the key points in the article. Taro Kono, son of a former Foreign Minister, wrote a critical comment about Bush's speech. He mentions wanting to heckle but refrained. He talks about 'value sharing' instead of burden or power sharing in the US-Japan relationship. He lists several US policies he disagrees with, like the CTBT, BWC, Kyoto Protocol, gun rights, land mines, SOFA, and the Iraq attack. Middle Eastern ambassadors approached him after the speech.
+
+Now, the moral framing here is about the US-Japan relationship and the ethical implications of the US's policies. Kono is criticizing the US for not sharing values and for disregarding international treaties, which is a moral stance on global cooperation and responsibility.
+
+I need to condense this into a summary under 200 words. I'll start by introducing Kono and his criticism. Then mention the specific points he raised, highlighting the moral concerns. Finally, note the reaction from Middle Eastern ambassadors to emphasize the impact of his critique.
+
+I should ensure the summary flows well and captures the essence without losing the moral angle. Also, I need to end with the specified tokens, "SUMMARY:" and "END OF SUMMARY."
+
+Let me draft the summary, making sure it's concise and includes all key elements while maintaining the moral perspective.
+</think>
+
+SUMMARY: Taro Kono, a Japanese politician and son of former Foreign Minister Yohei Kono, criticized President Bush's speech before the Japanese Diet in a commentary published in his email magazine. Kono expressed frustration with the U.S. stance on several international issues, including the Kyoto Protocol, the Comprehensive Test Ban Treaty (CTBT), and the Biological Weapons Convention (BWC), arguing that the U.S. approach undermines global cooperation. He emphasized the need for "value sharing" between Japan and the U.S., rather than just burden or power sharing, and criticized the U.S. for disregarding international norms, such as the right to own handguns, the use of land mines, and the lack of SOFA revisions. Kono also questioned the rationale for attacking Iraq alongside the U.S. His critique drew attention, as Middle Eastern ambassadors sought his opinion on the President's speech. Kono's commentary highlights the moral and diplomatic tensions in the U.S.-Japan relationship. END OF SUMMARY.

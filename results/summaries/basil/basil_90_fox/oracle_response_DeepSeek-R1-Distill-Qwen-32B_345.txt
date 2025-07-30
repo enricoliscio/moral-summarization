@@ -1,0 +1,14 @@
+Alright, I need to help the user by summarizing the provided news article while preserving the moral framing words. The user is a news summarizer and a moral expert, so they want the summary to reflect the original article's tone and key moral points.
+
+First, I'll read through the article to understand the main points. Rep. Ocasio-Cortez defended Rep. Tlaib after her comments about impeaching Trump. She accused Republicans of hypocrisy, pointing out their double standards regarding Trump's past remarks versus Tlaib's language. The article also mentions Pelosi's reaction, Trump's response, and Tlaib's unwavering stance.
+
+Next, I'll identify the morally framed words the author used: hypocrisy, assault, scandalizing, faux-outrage, impeachment, censorship, dishonored, speak, crisis. I need to include these in the summary.
+
+I'll structure the summary to highlight the key events and the moral arguments. Start with Ocasio-Cortez's defense, mention the hypocrisy accusation, reference Trump's past comments, and include Pelosi's downplay of Tlaib's language. Then, touch on Trump's reaction and Tlaib's commitment to impeachment. Conclude with the constitutional crisis aspect.
+
+I need to keep the summary concise, under 200 words, and ensure it flows naturally while including all necessary moral terms. I'll make sure each sentence ties back to the moral framing without losing the essence of the events.
+
+Let me draft the summary, ensuring each point is covered and the moral language is preserved. I'll check the word count to stay within limits. Finally, I'll make sure it starts with "SUMMARY:" and ends with "END OF SUMMARY."
+</think>
+
+SUMMARY: Rep. Alexandria Ocasio-Cortez defended Rep. Rashida Tlaib after Tlaib’s expletive-laced comments in favor of impeaching President Trump, accusing Republicans of hypocrisy. Ocasio-Cortez highlighted the double standard, pointing out that Trump’s own scandalous remarks about sexual assault were dismissed as “locker room talk,” while Tlaib’s language was met with faux-outrage. She emphasized that the GOP has lost the entitlement to police women’s behavior. Tlaib, a freshman congressmember, had vowed to impeach Trump, drawing criticism from House Republicans. Speaker Nancy Pelosi downplayed the comments, noting that Trump’s own language had set the tone for the heated rhetoric. Trump called Tlaib’s remarks “disgraceful,” while Tlaib doubled down, vowing to “speak truth to power” and address the constitutional crisis. END OF SUMMARY.

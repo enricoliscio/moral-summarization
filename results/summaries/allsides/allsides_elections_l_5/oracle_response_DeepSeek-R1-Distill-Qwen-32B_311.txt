@@ -1,0 +1,16 @@
+Okay, so I'm trying to figure out how to approach this query. The user has given me a news article and specific instructions on how to summarize it. They want me to act as a news summarizer and a moral expert, preserving the moral framing the author used. The article is about the Republican National Convention and how it affected Obama's campaign. 
+
+First, I need to understand the key points of the article. It talks about how Obama's team felt the RNC was a miss, but actually, the Republicans shifted their strategy to focus on disappointment, highlighting unfulfilled potential and contrasting it with Obama's 2008 image. They used morally framed words like "help" and "protect" in their messaging.
+
+The user wants the summary to include as many of these morally framed words as possible. So, I need to identify those words in the article and make sure they're included in the summary. The summary should be concise, no longer than 200 words, and start with "SUMMARY:" and end with "END OF SUMMARY."
+
+I should structure the summary to first mention Obama's team's view of the convention as a miss, then explain the Republican strategy of using disappointment and their shift in tone. I'll include the specific examples like Romney's promise to help and Ryan's commitment to protect Medicare. Also, I need to highlight the contrast between the Republican convention and the Democratic one, emphasizing the moral framing.
+
+I need to ensure that the summary flows well and covers all the main points without being too lengthy. I should also make sure to use the morally framed words naturally within the context of the summary.
+
+Let me start drafting the summary. I'll mention Obama's team's perception, the Republican strategy focusing on disappointment, the specific examples from Romney and Ryan, and the overall shift in tone. I'll make sure to include "help" and "protect" where appropriate.
+
+I think that's a solid approach. Now, I'll put it all together in a concise manner, keeping an eye on the word count to stay under 200 words.
+</think>
+
+SUMMARY: Obama's team dismissed the Republican National Convention in Tampa as a "complete miss," but the GOP shifted its strategy to focus on disappointment, subtly attacking Obama's unfulfilled potential. Republicans portrayed themselves as Obama 2008 supporters, lamenting his failure to deliver on promises to "help" and "protect" the country. Mitt Romney contrasted Obama's vague promises with his own commitment to aid families, while Paul Ryan vowed to "protect" Medicare. This strategic approach aimed to shift momentum and soften Obama's image, avoiding direct attacks in favor of a more nuanced critique. The convention also showcased a toned-down tone, with Republicans emphasizing opportunity and unity, even featuring speeches by Rubio and Martinez that echoed Democratic themes. While Obama's team downplayed the impact, the GOP's focus on disappointment posed a significant challenge to his campaign. END OF SUMMARY.

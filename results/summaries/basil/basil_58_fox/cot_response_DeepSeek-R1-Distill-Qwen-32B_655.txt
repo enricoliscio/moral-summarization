@@ -1,0 +1,58 @@
+<think>
+Okay, so I need to help the user by summarizing a news article about Chris Christie announcing his candidacy. The user wants me to first identify all the morally framed words and then write a summary preserving those frames. Let me start by reading the article carefully.
+
+The article mentions that Chris Christie is expected to run for the White House. He's facing an uphill climb with low poll numbers and a fundraising deficit. The Washington Post reporter Robert Costa points out that his status as the establishment favorite has vanished due to scandals and low popularity. Mega-donors are moving to other candidates like Jeb Bush. However, Maggie Haberman from the New York Times notes that Christie is using his brash and combative personality as an asset, excelling in town hall meetings where he engages with people, causing some to be enraged but others to laugh, cry, or hope for a handshake.
+
+Now, for the first step, I need to identify all single words that are morally framed. These are words that carry a positive or negative connotation related to morality or ethics. Let me go through the article again:
+
+- "Scandals" is definitely a negative moral term.
+- "Plummeting popularity" isn't a single word, but "plummeting" is a negative indicator.
+- "Mega-donors" are involved in fundraising, which can have a moral angle if it's about money in politics.
+- "Rivals" could imply competition, but not inherently moral.
+- "Brash," "challenging," and "combative" are personality traits that can be seen as morally framed, especially in a political context.
+- "Maestro" is a positive term, suggesting skill or mastery.
+- "Town hall meetings" are a positive engagement tool.
+- "Residents" are the people he's engaging with, which is neutral.
+- "Enraged" is a negative emotion.
+- "Laughing," "weeping," "hoping" are emotional states, which can carry moral connotations.
+- "Clasp their hand" is a positive gesture.
+
+Wait, the user specified single words, so I should list each one separately. Let me compile them:
+
+Scandals, Plummeting, Mega-donors, Rivals, Brash, Challenging, Combative, Maestro, Town, Hall, Meetings, Residents, Enraged, Laughing, Weeping, Hoping, Clasp, Hand.
+
+Wait, "town hall meetings" is three words, so each word individually: Town, Hall, Meetings. Similarly, "clasp their hand" is three words: Clasp, Their, Hand. But "their" is a pronoun, not a moral frame. So I think I should include each single word that carries a moral connotation, regardless of being part of a phrase.
+
+Now, moving on to the summary. I need to preserve as many morally framed words as possible. The summary should be concise, under 200 words, and include the key points: Christie announcing candidacy, his uphill climb, low polls, fundraising issues, scandals, loss of establishment support, mega-donors moving to Bush, and his personality-driven campaign with town halls causing mixed reactions.
+
+I should structure it to include all these elements, making sure to use the morally framed words identified. Let me draft that.
+
+Chris Christie is set to announce his candidacy for the 2016 presidency, but faces challenges like low poll numbers and fundraising deficits. His status as the GOP favorite has declined due to scandals and waning popularity. Mega-donors are shifting to rivals like Jeb Bush. However, Christie's brash and combative personality could be his asset, as he excels in town hall meetings, leaving some enraged and others hopeful.
+
+That should cover the main points while preserving the moral framing words.
+</think>
+
+**STEP 1:**  
+* Scandals  
+* Plummeting  
+* Mega-donors  
+* Rivals  
+* Brash  
+* Challenging  
+* Combative  
+* Maestro  
+* Town  
+* Hall  
+* Meetings  
+* Residents  
+* Enraged  
+* Laughing  
+* Weeping  
+* Hoping  
+* Clasp  
+* Hand  
+
+**SUMMARY:**  
+New Jersey Governor Chris Christie is expected to announce his candidacy for the 2016 presidency, but faces an uphill climb due to low poll numbers and a fundraising deficit. His status as the establishment favorite for the GOP nomination has vanished amid scandals and plummeting popularity in his home state, with mega-donors drifting toward rivals like Jeb Bush. However, Christie’s brash, challenging, and combative personality could be his main asset. He excels in town hall meetings, engaging with residents and leaving some enraged while others laugh, weep, or hope for a handshake.  
+
+**END OF SUMMARY.**

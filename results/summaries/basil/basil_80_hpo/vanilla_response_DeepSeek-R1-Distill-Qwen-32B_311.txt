@@ -1,0 +1,19 @@
+<think>
+Alright, so the user has given me a query where they want a summary of a news article. The article is about Trump attacking the Justice Department and calling for jailing a Clinton aide. 
+
+First, I need to understand the key points of the article. Trump is criticizing the Justice Department as the "deep state," which I know is a term he uses to refer to government institutions that he doesn't control. He's specifically targeting Huma Abedin, a top aide to Hillary Clinton, because some emails were released. These emails were part of the FBI's investigation into Clinton's use of a private email server. 
+
+I also notice that Trump mentions James Comey, the former FBI Director, and his firing. Trump is trying to undermine the Justice Department and FBI, especially regarding the Russia probe. He's criticized Jeff Sessions for recusing himself and believes he has the right to direct investigations himself.
+
+The user wants the summary to start with "SUMMARY:" and end with "END OF SUMMARY." It should be concise, under 200 words. I need to make sure I include all the main points: Trump's criticism of the Justice Department, the emails of Huma Abedin, the connection to the FBI investigation, Trump's stance on the Russia probe, and his criticism of Comey and Sessions.
+
+I should structure the summary to flow logically, starting with Trump's attack, then the specifics about Abedin, the reference to Comey, and his broader criticism of the Justice Department. I need to keep it clear and within the word limit.
+
+Let me draft this step by step. Start with Trump attacking the Justice Department, mention the "deep state," then the emails of Abedin. Then connect it to the FBI probe, mention Comey, and conclude with Trump's criticism of the Justice Department and his claims about his authority.
+
+I should also make sure the summary is neutral and factual, avoiding any bias. It's important to highlight the key actions and statements without adding personal opinions.
+
+Now, putting it all together, making sure each sentence is concise and covers the essential information without exceeding the word limit.
+</think>
+
+SUMMARY: President Donald Trump has criticized the Justice Department as the "deep state" and called for the jailing of Huma Abedin, a top aide to Hillary Clinton. Trump's tweet followed the release of Abedin's emails, which were part of the FBI's investigation into Clinton's use of a private email server as secretary of state. The emails, obtained through a Freedom of Information Act request, showed Abedin forwarding State Department emails, including some with passwords, to a personal account. Trump also referenced former FBI Director James Comey, who led the Russia investigation before being fired by Trump. Trump has repeatedly criticized the Justice Department and FBI, particularly Attorney General Jeff Sessions, for their handling of the Russia probe. He has claimed the right to direct government investigations, asserting his authority over the Justice Department. END OF SUMMARY.

@@ -1,0 +1,33 @@
+<think>
+Okay, I need to help the user by summarizing a news article while preserving the moral framing. The user has specified a two-step process: first, identify all single words with moral connotations, and second, write a concise summary using those words.
+
+Starting with STEP 1, I'll read through the article carefully to spot words that carry moral weight. Words like "betrayal," "unstable," "opportunistic," "sarcasm," "harsh," "inhumane," "golden," "competent," "honest," "sensible," "trust," and "praise" stand out as they convey judgments or evaluations.
+
+Next, for the summary, I need to encapsulate the main points while including these moral terms. The article discusses the mixed reactions to Brian Tobin's departure and the debate over al-Qaeda prisoners. I'll structure the summary to highlight the moral perspectives on both issues, ensuring the key points are covered concisely.
+
+I should make sure the summary doesn't exceed 200 words and flows naturally, reflecting the moral stances presented in the original text. I'll start by addressing the al-Qaeda debate, then move on to Tobin's criticism and Manley's praise, wrapping it up neatly.
+
+Finally, I'll double-check that all the identified moral words are included and that the summary accurately reflects the original article's moral framing without adding any personal opinions.
+</think>
+
+**STEP 1:**
+
+* Betrayal  
+* Unstable  
+* Opportunistic  
+* Sarcasm  
+* Harsh  
+* Inhumane  
+* Golden  
+* Competent  
+* Honest  
+* Sensible  
+* Trust  
+* Praise  
+
+---
+
+**SUMMARY:**  
+
+The article discusses the moral and political implications of two main issues: the treatment of al-Qaeda fighters at Guantanamo Bay and the political fallout surrounding Brian Tobin's departure from Canadian politics. Editorial writers debate whether the U.S. is treating the detainees humanely, with some arguing for a tribunal under the Geneva Convention to determine their legal status, while others support the U.S. military's approach, fearing it might endanger American lives. Meanwhile, Tobin's sudden exit is met with criticism, with pundits accusing him of betrayal, instability, and opportunism. His claims of leaving for family reasons are met with sarcasm, as his career is described as "rough" and "unstable." In contrast, John Manley, the new Deputy Prime Minister, is praised as competent, honest, and sensible, emerging as a trusted leader during the Sept. 11 crisis. The article highlights the moral dilemmas surrounding both the treatment of prisoners and the behavior of politicians.  
+**END OF SUMMARY.**

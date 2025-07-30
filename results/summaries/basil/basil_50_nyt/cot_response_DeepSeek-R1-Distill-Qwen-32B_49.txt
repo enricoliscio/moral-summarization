@@ -1,0 +1,58 @@
+Okay, so I need to help the user by summarizing the news article while preserving the moral framing. Let me start by understanding what the user is asking for. They provided a detailed news article about Susan Rice criticizing Netanyahu's decision to speak before Congress. The user wants me to first identify all the morally framed words and then create a summary that includes as many of those words as possible.
+
+First, I'll read through the article to get a sense of the main points. It seems to be about the strained relationship between the U.S. and Israel due to Netanyahu's speech. Susan Rice is criticizing this move, saying it's introducing partisanship, which is harmful to the relationship. The White House is upset because they weren't consulted, and Obama won't meet with Netanyahu to avoid influencing the elections. There's also mention of other officials not attending the speech or events, which adds to the tension.
+
+Now, for the first part, I need to identify all the single words that carry a moral connotation. I'll go through the article again and pick out words that express approval, disapproval, or ethical implications. Words like "criticized," "hurt," "injected," "partisanship," "unfortunate," "destructive," "damage," "breach," "protocol," "displeasure," "weakens," "disappointing," "strong," "immutable," "obligation," "prevent," "compound," "misperception," "balance," "divisive," "committed," "strong," "final," "brake," "obligation," "prevent," "unquestionably," "strong," "immutable," "hard," "maintain."
+
+Next, I'll write a summary that includes as many of these words as possible without making it too long. I need to ensure the summary is concise, under 200 words, and captures the essence of the article while preserving the moral framing. I'll start by outlining the key points: Rice's criticism, the impact on the U.S.-Israel relationship, the breach of protocol, the White House's response, Netanyahu's reasons, and the broader implications of partisanship affecting the relationship.
+
+I should make sure the summary flows well and includes the morally charged words to convey the tension and disapproval expressed in the article. I'll structure it by first stating Rice's criticism, then the consequences, followed by the White House's stance, Netanyahu's reasoning, and the administration's commitment to a strong relationship despite the issues.
+
+I also need to ensure that the summary doesn't include any made-up words or phrases, just the ones present in the article. I'll check the word count to make sure it's within the limit. Let me put it all together, making sure each sentence includes the necessary moral terms and that the summary accurately reflects the article's content and tone.
+</think>
+
+**STEP 1:**
+
+Here are the morally framed words identified in the text:
+
+* Criticized  
+* Hurt  
+* Injected  
+* Partisanship  
+* Unfortunate  
+* Destructive  
+* Damage  
+* Breach  
+* Protocol  
+* Displeasure  
+* Weakens  
+* Disappointing  
+* Strong  
+* Immutable  
+* Hard  
+* Maintain  
+* Obligation  
+* Prevent  
+* Compound  
+* Misperception  
+* Balance  
+* Divisive  
+* Committed  
+* Strong  
+* Final  
+* Brake  
+* Obligation  
+* Prevent  
+* Unquestionably  
+* Strong  
+* Immutable  
+* Hard  
+* Maintain  
+
+---
+
+**SUMMARY:**
+
+Susan E. Rice, President Obama’s national security adviser, criticized Prime Minister Benjamin Netanyahu of Israel for his plan to address Congress, stating that his actions have hurt the U.S.-Israel relationship by injecting partisanship. Rice described the decision as unfortunate and destructive, acknowledging the damage to the relationship. The speech, arranged without consulting the White House, was seen as a breach of protocol. President Obama will not meet with Netanyahu during his visit to avoid influencing the Israeli elections. The administration has expressed displeasure, with Rice emphasizing that allowing partisanship to weaken the relationship is harmful. Netanyahu, however, insists on speaking to prevent a nuclear deal with Iran, arguing it is his obligation. Rice refrained from ascribing motives to Netanyahu but stressed the need for an immutable, strong relationship between the U.S. and Israel, regardless of political seasons. The White House has also distanced itself from Netanyahu’s visit, with Biden and Kerry absenting themselves from the event. The episode highlights the tension between Obama and Netanyahu, with the administration committed to maintaining a bipartisan, strong relationship despite the controversy.  
+
+**END OF SUMMARY.**

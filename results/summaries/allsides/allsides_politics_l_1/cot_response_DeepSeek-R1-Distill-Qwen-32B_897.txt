@@ -1,0 +1,32 @@
+Alright, I need to help the user with their query. They provided a news article and specific instructions on how to process it. Let me break down what they need.
+
+First, they want me to act as a news summarizer and moral expert. My task is to summarize the article while preserving the moral framing. The article is about Mattis criticizing Trump's leadership and actions.
+
+The user has two main steps. Step 1 is to identify all single words that are morally framed. I need to go through the article and pick out words that carry moral connotations. Words like "unite," "divide," "mature," "owe," "pledge," "betray," "defend," "protect," "erode," "trust," "honor," and "integrity" stand out. These words reflect the moral stance taken by Mattis.
+
+Next, in Step 2, I have to write a concise summary of the article, making sure to include as many of these morally framed words as possible. The summary should be under 200 words and start with "SUMMARY:" and end with "END OF SUMMARY."
+
+I need to ensure that the summary captures the essence of Mattis's criticism, his reasons for speaking out, and the moral implications he highlights. I'll structure the summary to include his main points: Trump's divisive leadership, the threat to unity, the inappropriate use of military, and Mattis's personal oath to the Constitution.
+
+I should also make sure the summary flows well and maintains the moral tone without adding any personal opinions. Keeping it clear and within the word limit is crucial.
+
+Let me put this together. I'll list the morally framed words first, each on a new line with an asterisk. Then, I'll craft the summary, ensuring it's concise and includes the key moral points from the article.
+</think>
+
+**STEP 1:**  
+* Unite  
+* Divide  
+* Mature  
+* Owe  
+* Pledge  
+* Betray  
+* Defend  
+* Protect  
+* Erode  
+* Trust  
+* Honor  
+* Integrity  
+
+**SUMMARY:**  
+General Mattis criticizes Donald Trump for failing to unite the American people, instead dividing the nation. He warns that Trump's leadership has weakened the country's unity, which is essential to overcoming crises. Mattis contrasts the American ethos of unity with Nazi ideology, emphasizing the importance of "In Union there is Strength." He expresses his frustration with Trump's response to the George Floyd protests, stating that using troops for a "photo op" violates constitutional rights and militarizes domestic responses. Mattis condemns the idea of treating cities as "battlespaces" and warns that such actions erode trust between the military and civilians. He argues that maintaining public order is the responsibility of state and local leaders, not the military. Mattis's decision to speak out reflects his belief that the silence period has ended, as the American experiment is now threatened by Trump's actions.  
+END OF SUMMARY.

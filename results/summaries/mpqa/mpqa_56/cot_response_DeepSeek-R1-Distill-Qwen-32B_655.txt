@@ -1,0 +1,46 @@
+Okay, I need to help the user by summarizing a news article while preserving the moral framing. Let me start by understanding the query. The user wants me to act as a news summarizer and a moral expert. They provided a news article about Jordan signing the Kyoto Protocol. My task is to first identify all the morally framed single words and then write a concise summary using those words.
+
+First, I'll read through the article to grasp the content. It's about Jordan's decision to sign the Kyoto Protocol, a UN agreement to reduce greenhouse gas emissions. The article mentions other countries' reactions, like the US opposing it and Canada's reluctance. It also talks about the moral commitment and funding aspects.
+
+Now, for STEP 1, I need to identify the morally framed words. These are words that carry a moral or ethical connotation. Let me go through the article again:
+
+- "impeding" (slowing down, which is a positive action)
+- "commitment" (shows dedication, positive)
+- "attract" (seeking funds, positive)
+- "efforts" (putting in work, positive)
+- "slammed" (criticized, negative)
+- "contravenes" (opposes, negative)
+- "reluctance" (hesitation, negative)
+- "economic damage" (negative impact, negative)
+
+I think these words carry the moral weight in the article. Each of them reflects either a positive action or a negative consequence, which is important for the moral framing.
+
+Next, I need to write a summary that includes these words. The summary should be under 200 words, so I'll have to be concise. I'll start by stating Jordan's decision, mention the commitment and funding aspect. Then, I'll include the EU's agreement and the US and Canada's negative reactions, using the identified words.
+
+I should make sure the summary flows well and includes all the key points without being too lengthy. I'll structure it to first talk about Jordan's action, then the reasons, followed by other countries' reactions, and end with the implications.
+
+Let me draft the summary:
+
+"Jordan has decided to sign the Kyoto Protocol, a UN agreement to impede global greenhouse gas emissions, demonstrating its commitment to international environmental conventions. The General Corporation for Environment Protection (GCEP) aims to attract funding to support global efforts in reducing emissions, which contribute to climate change. Meanwhile, the 15 EU member states have agreed to be formally bound to the Kyoto accord by June 1, 2001. In contrast, the US opposed the protocol, claiming it contravenes US economic interests, while Canada showed reluctance, citing potential economic damage."
+
+I think this captures all the morally framed words and the essence of the article. I'll check the word count to ensure it's under 200. It looks good, around 100 words. I'll make sure to end with the specified tokens.
+</think>
+
+**STEP 1:**
+
+* Impeding  
+* Commitment  
+* Attract  
+* Efforts  
+* Slammed  
+* Contravenes  
+* Reluctance  
+* Economic damage  
+
+---
+
+**SUMMARY:**
+
+Jordan has decided to sign the Kyoto Protocol, a UN agreement aimed at impeding global greenhouse gas emissions, as a demonstration of its commitment to international environmental conventions. The General Corporation for Environment Protection (GCEP) hopes the decision will attract funding to support global efforts in reducing emissions, which contribute to climate change. Meanwhile, the 15 European Union member states have agreed to be formally bound to the Kyoto accord by June 1, 2001. In contrast, the United States opposed the protocol, arguing it contravenes US economic interests, while Canada has shown reluctance, citing potential economic damage.  
+
+**END OF SUMMARY.**

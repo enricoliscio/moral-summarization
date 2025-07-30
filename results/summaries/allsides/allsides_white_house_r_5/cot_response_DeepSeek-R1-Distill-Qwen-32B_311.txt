@@ -1,0 +1,51 @@
+Okay, so I need to help this user who provided a news article and wants a summary that preserves the moral framing. The user also wants me to first identify all the morally framed words. Let me start by understanding what the user is asking for.
+
+First, I should read the news article carefully. It's about the Obama administration, particularly focusing on the Benghazi incident and the moral failings of the administration. The article uses strong language to criticize the officials involved.
+
+The user's instructions are in two parts. Step 1 is to identify all single words that are morally framed. I need to go through the article and pick out words that carry a moral judgment. Words like "spoiled," "greedy," "self-centered," "contempt," "betrayed," "dishonest," "deceit," etc., seem to fit.
+
+Next, I have to write a summary of the article, making sure to include as many of these morally framed words as possible. The summary needs to be concise, under 200 words, and should end with the specified tokens.
+
+I should ensure that the summary captures the main points: the criticism of the Obama administration, the Benghazi incident, the lies told, and the moral failings of the officials. I'll need to weave in the identified moral words naturally into the summary without making it forced.
+
+I also need to be careful to preserve the original moral framing, so the summary should reflect the negative tone and specific criticisms from the article. I'll structure the summary to first mention the administration's issues, then the Benghazi incident, the lies, and the lack of concern from the officials.
+
+Let me start by listing the morally framed words. I'll go through the article paragraph by paragraph, noting each word that conveys a moral judgment. Then, I'll make sure the summary includes these words where appropriate.
+
+Once I have the list, I'll draft the summary, ensuring it's within the word limit and flows naturally while incorporating the moral terms. I'll check the word count to make sure it's under 200 words.
+
+Finally, I'll format the response as per the user's instructions, starting with STEP 1, listing each word with a bullet, then the SUMMARY section with the tokens at the beginning and end.
+
+I think that's a solid plan. Now, I'll proceed to execute it step by step.
+</think>
+
+**STEP 1:**  
+* Spoiled  
+* Greedy  
+* Self-centered  
+* Contempt  
+* Betrayed  
+* Lies  
+* Evasions  
+* Prevarication  
+* Hoax  
+* Disinformation  
+* Fakery  
+* Flimflam  
+* Honeyfuggle  
+* Squalid  
+* Muck  
+* Undercuts  
+* Rescue  
+* Begging  
+* Ferocious  
+* Firefight  
+* Misleading  
+* Hoax  
+* Deceit  
+* Indifference  
+* Chilling  
+* Nonchalance  
+
+**SUMMARY:**  
+The article criticizes the Obama administration, particularly Hillary Clinton and Barack Obama, for their moral failings during the Benghazi incident. The author accuses them of contempt for military personnel, dishonesty, and betrayal of trust. The administration allegedly peddled lies and deceptions to cover up their negligence, including withholding rescue operations for the besieged CIA annex. The article highlights the administration's lack of concern for the lives lost, with Hillary Clinton dismissively asking, "What difference, at this point, does it make?" The moral framing emphasizes greed, self-centeredness, and a lack of accountability, painting the administration as untrustworthy and indifferent to sacrifice. END OF SUMMARY.

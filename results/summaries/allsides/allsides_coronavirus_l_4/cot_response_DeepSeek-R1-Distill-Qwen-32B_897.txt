@@ -1,0 +1,29 @@
+Alright, so I need to help the user with their query. They want me to act as a news summarizer and moral expert. The task is to summarize a given news article while preserving the moral framing. 
+
+First, the user has specified two steps. Step 1 is to identify all single words that are morally framed. I should list each of these words with a bullet point. Then, in Step 2, I need to write a concise summary that includes as many of these morally charged words as possible, keeping it under 200 words.
+
+Looking at the article, it's about the handling of the COVID-19 pandemic by different leaders, particularly focusing on Cuomo, Trump, and others. The morally framed words are likely to be terms that carry judgment or evaluation, such as "failures," "barred," "catastrophe," "hypocritical," "paranoia," "resentment," "lost," etc.
+
+I need to make sure I capture all these words accurately. Then, in the summary, I should weave these words in a way that reflects the original article's tone and message without making the summary too long.
+
+I should also be careful to maintain the moral perspective the author presented, highlighting the failures and negative actions of certain leaders, while contrasting with others who handled the situation better. 
+
+Finally, the summary should conclude with the ongoing impact of the pandemic under Trump's leadership, emphasizing the loss and the failure to control the virus.
+
+I need to structure the response clearly, starting with the STEP 1 list, followed by the SUMMARY, making sure to adhere to the word limit and formatting instructions provided.
+</think>
+
+**STEP 1:**  
+* failures  
+* forced  
+* barred  
+* devastated  
+* catastrophe  
+* hypocrisical  
+* paranoia  
+* resentment  
+* lost  
+
+**SUMMARY:**  
+When COVID-19 cases surged in March, Democratic leaders like New York’s Governor Andrew Cuomo made morally questionable decisions, such as forcing nursing homes to accept infected residents without testing, leading to over 6,000 deaths in New York nursing homes. In contrast, Florida, which prohibited such transfers, saw fewer deaths. Cuomo’s initial failures overshadowed his later efforts to impose lockdowns. Meanwhile, Republican governors in Arizona, Florida, and Texas refused to mandate masks, even blocking cities from doing so. The pandemic has deepened divisions, with conservatives accusing liberals of using social distancing as a tool of control. Public health workers face threats and harassment, while Trump and his allies downplay the severity, with Trump’s supporter Lindsey Graham calling 120,000 deaths a “limited” loss. As other countries recover, the U.S. continues to struggle under Trump’s leadership, who has effectively “lost” the pandemic war.  
+**END OF SUMMARY.**

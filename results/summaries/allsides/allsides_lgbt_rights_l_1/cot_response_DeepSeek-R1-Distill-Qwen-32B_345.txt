@@ -1,0 +1,57 @@
+Okay, so I need to help the user with their query about summarizing a news article while preserving the moral framing. They provided a detailed article about Reddit shutting down communities due to hate speech. The user wants me to first identify all the morally framed single words and then write a summary that includes as many of these words as possible.
+
+First, I'll go through the article to find words that carry moral connotations. Words like "curtail," "hate speech," "protests," "equality," "shutdown," "history," "TERF," "pro-Trump," "radical," "ban," "advertisements," "civil rights," "purging," "user-run," "rules," "breaking," "antagonized," "expectations," "preserve," "space," "users," "warnings," "quarantining," "extreme," "complained," "visible," "upvote," "influence," "front page," "fix," "isolating," "short-lived," "paranoia," "white genocide," "ethnic cleansing," "support," "weaponize," "product work," "moderate," "mitigate," "mission," "craft," "policies," "enforcement."
+
+Next, I'll craft a concise summary using these words. The summary should be under 200 words and include the key points: Reddit's action against hate speech, the communities shut down, the reasons, and the broader context of brands and civil rights groups' actions. I need to make sure the moral framing is preserved, so I'll use words like "curtail," "hate speech," "shutdown," "TERF," "pro-Trump," "radical," "ban," "advertisements," "civil rights," "purging," "breaking," "antagonized," "expectations," "preserve," "warnings," "quarantining," "extreme," "complained," "visible," "upvote," "influence," "front page," "fix," "isolating," "short-lived," "paranoia," "white genocide," "ethnic cleansing," "support," "weaponize," "product work," "moderate," "mitigate," "mission," "craft," "policies," "enforcement."
+
+I'll structure the summary to first mention Reddit's action, the communities affected, the reasons for shutdown, the rules broken, and the broader implications. I'll ensure that each sentence flows logically and includes the morally framed words where appropriate. I'll also check the word count to make sure it's under 200 words.
+</think>
+
+**STEP 1:**  
+* curtail  
+* hate speech  
+* protests  
+* equality  
+* shutdown  
+* history  
+* TERF  
+* pro-Trump  
+* radical  
+* ban  
+* advertisements  
+* civil rights  
+* purging  
+* user-run  
+* rules  
+* breaking  
+* antagonized  
+* expectations  
+* preserve  
+* space  
+* users  
+* warnings  
+* quarantining  
+* extreme  
+* complained  
+* visible  
+* upvote  
+* influence  
+* front page  
+* fix  
+* isolating  
+* short-lived  
+* paranoia  
+* white genocide  
+* ethnic cleansing  
+* support  
+* weaponize  
+* product work  
+* moderate  
+* mitigate  
+* mission  
+* craft  
+* policies  
+* enforcement  
+
+**SUMMARY:**  
+Reddit has shut down over 2,000 communities, including "The_Donald," "Gender Critical," and "CapoTrapHouse," to curtail hate speech amid protests for gender, racial, and LGBTQ+ equality. These communities were banned for breaking rules, such as promoting hate speech, antagonizing others, and failing to meet basic expectations. "The_Donald," a pro-Trump forum, was singled out for hosting extreme political ideas and hate speech, including discussions of "white genocide" and ethnic cleansing. "Gender Critical," a TERF forum, was also banned for anti-trans rhetoric and denying trans women's rights. Reddit emphasized its responsibility to combat hate speech and support its communities, stating that this purge is just the start of stricter enforcement. The move follows brands banning ads on Facebook over hate speech, led by civil rights groups. Reddit's action reflects its commitment to enforcing policies and mitigating hate, though some argue it risks overstepping into censorship. END OF SUMMARY.

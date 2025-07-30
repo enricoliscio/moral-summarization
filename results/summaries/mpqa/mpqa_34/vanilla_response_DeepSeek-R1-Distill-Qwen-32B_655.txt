@@ -1,0 +1,17 @@
+<think>
+Okay, I need to help the user by summarizing the given news article. The user provided the article and specified that the summary should be after a "SUMMARY:" token and end with "END OF SUMMARY." Also, it should be no longer than 200 words. 
+
+First, I'll read the article to understand the main points. The article talks about China criticizing the US human rights report. China's report accuses the US of ignoring its own human rights issues while criticizing others. It lists issues like police abuses, poverty, racial discrimination, and lack of personal safety in the US. Additionally, China accuses the US of infringing on other nations' sovereignty through military actions and for withdrawing from the Kyoto Protocol. The report is an annual response to the US State Department's report, which usually accuses China.
+
+I need to condense this information into a concise summary. I should mention that China published a report criticizing the US for focusing on others' issues while ignoring their own. Include the specific criticisms: police abuses, poverty, racial discrimination, lack of personal safety, military actions, and Kyoto withdrawal. Also, note that this is an annual response to the US report that accuses China.
+
+I'll structure the summary to start with the main action (China criticizing the US report), then list the main points, and conclude with the annual response aspect. I need to keep it under 200 words, so I'll be brief but include all key elements.
+
+Let me draft the summary: China published a report criticizing the US for ignoring its own human rights issues while accusing others. The report highlights police abuses, poverty, racial discrimination, and lack of personal safety in the US. It also accuses the US of infringing on other nations' sovereignty through military actions and for withdrawing from the Kyoto Protocol. This is an annual response to the US report that typically accuses China of human rights abuses.
+
+I should check the word count. The draft is concise and within the limit. I'll make sure it starts with "SUMMARY:" and ends with "END OF SUMMARY." Also, ensure it's clear and covers all main points without being too verbose.
+</think>
+
+SUMMARY:  
+China has released its annual report criticizing the United States for hypocrisy in human rights, accusing the U.S. of ignoring its own issues while criticizing others. The report, published by China's State Council, highlights police abuses, poverty, racial discrimination, and lack of personal safety in the U.S. It also accuses the U.S. of infringing on other nations' sovereignty through military actions and withdrawing from the Kyoto Protocol. This report is an annual response to the U.S. State Department's global human rights report, which often criticizes China. China accuses the U.S. of acting as a "world judge of human rights" while neglecting its own problems.  
+END OF SUMMARY.

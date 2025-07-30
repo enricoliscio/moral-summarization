@@ -1,0 +1,32 @@
+Okay, I need to help the user by summarizing the news article while preserving the moral framing. The user has given specific instructions, so I should follow them step by step.
+
+First, I have to identify all the single words that are morally framed in the article. I'll go through the text and pick out words that carry a moral connotation. Words like "lash out," "assailed," "castigated," "protests," "apologize," "disturbing," "sanity," "atrocities," "wrong," "mental health," "crossed the line," "offends," "witch hunt," "squash," "false," "misleading," "clear," "collusion." I should list each of these with an asterisk.
+
+Next, I need to write a summary that includes as many of these words as possible. The summary should be concise, under 200 words, and capture the main points. I'll start by mentioning Trump's tweets, the Kathy Griffin incident, her apology, and CNN's response. Then, I'll touch on Trump's accusations against Democrats, the witch hunt narrative, and Carter Page's claims. I'll make sure to include the morally charged words to reflect the original framing.
+
+I should ensure the summary flows well and accurately represents the article's content without adding personal opinions. I'll also keep the language clear and straightforward, sticking to the facts while highlighting the moral aspects as per the user's request.
+</think>
+
+**STEP 1:**  
+\*lash out  
+\*assailed  
+\*castigated  
+\*protests  
+\*apologize  
+\*disturbing  
+\*sanity  
+\*atrocities  
+\*wrong  
+\*mental health  
+\*crossed the line  
+\*offends  
+\*witch hunt  
+\*squash  
+\*false  
+\*misleading  
+\*clear  
+\*collusion  
+
+**SUMMARY:**  
+President Trump criticized Democrats and comedian Kathy Griffin on Twitter after her controversial video depicting a bloodied Trump head sparked widespread outrage. Griffin apologized, admitting she crossed the line and apologized for the offensive image. CNN fired her from its New Year’s Eve show. Trump also accused Democrats of trying to squash testimony in the Russia investigation, calling it a "witch hunt." Carter Page, a former Trump adviser, claimed his testimony would expose false or misleading statements by James Comey and John Brennan. Trump’s allies supported his narrative, while Griffin’s apology failed to address Trump directly. The incident highlights tensions between political satire and public decency, as well as ongoing divisions over the Russia probe.  
+**END OF SUMMARY.**

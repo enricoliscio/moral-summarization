@@ -1,0 +1,17 @@
+<think>
+Alright, I need to help the user by summarizing the given news article while preserving the moral framing. The user mentioned that they are a news summarizer assistant and a moral expert, so I should focus on the key points and the moral language used.
+
+First, I'll read through the article to understand the main points. It's about House Democrats introducing a bill to protect Dreamers, but the Senate Republicans are hesitant. The article talks about the shift in the Republican party's stance on the DREAM Act over the years, from supporting it as a compassionate measure to opposing it as amnesty.
+
+I need to identify the morally framed words the author used: unfair, end, protected, intensified, exchange, allowed, ravaged, war, disasters, blocked, killed, beating, embrace, protect, becomes, use, fall. I should include as many of these as possible in the summary.
+
+The summary should be concise, under 200 words, and start with "SUMMARY:" and end with "END OF SUMMARY." I'll structure it to highlight the shift in Republican stance, the impact on Dreamers, and the current political deadlock.
+
+I'll start by mentioning the bill introduced by House Democrats and the challenges in the Senate. Then, I'll note the historical support from Republicans and how it diminished due to the conservative wing's opposition. I'll include the moral terms like "unfair," "protected," and "blocked" to convey the compassion vs. amnesty debate.
+
+I'll also mention the DACA program and its legal issues, using terms like "ravaged" and "disasters" to describe the countries affected by TPS. Finally, I'll touch on the political gridlock and the difficulty in passing the bill through the Senate, using words like "killed" and "fall apart."
+
+Putting it all together, I'll ensure the summary flows logically, preserving the moral framing while being concise. I'll avoid any markdown and keep the language clear and straightforward.
+</think>
+
+SUMMARY: House Democrats introduced a bill to grant permanent protections to undocumented immigrants brought to the U.S. as children, known as Dreamers, but its fate hinges on Senate Republicans, who have grown increasingly opposed to such measures. Once widely supported by Republicans as an act of compassion, the DREAM Act has become a politically fraught issue, with conservatives framing it as "amnesty." Over the years, Republican support for the bill has dwindled, from 12 co-sponsors in 2003 to none in 2011. The Trump administration's decision to end DACA, which protected over 800,000 Dreamers, was blocked by courts, leaving them in legal limbo. Senate Republicans now view the issue as politically risky, with many prioritizing border security or systemic immigration changes over standalone Dreamer protections. Sen. Lindsey Graham emphasized the need for a "more comprehensive solution," while others, like Sen. Marco Rubio, argue that a stand-alone bill would fail due to amendments. The House bill, the Dream and Promise Act, would create a citizenship pathway for Dreamers and TPS recipients, but its chances in the Senate are slim. The shift reflects intensified polarization and a reluctance to "bleed and die" on the issue. END OF SUMMARY.

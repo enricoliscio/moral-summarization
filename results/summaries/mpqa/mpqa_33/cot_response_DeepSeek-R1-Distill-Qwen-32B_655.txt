@@ -1,0 +1,44 @@
+Okay, so I need to help the user with their query. They provided a news article and specific instructions. Let me read through their query again to make sure I understand what they need.
+
+The user wants me to act as a news summarizer and moral expert. They provided an article about the US State Department's Annual Human Rights Report being criticized by many countries. The task has two parts: first, identify all single words that are morally framed, and second, write a summary preserving those moral framings.
+
+Starting with STEP 1, I need to go through the article and pick out words that carry moral connotations. Words like "criticized," "condemned," "inaccurate," "lacking good will," etc. These are words that convey judgment or evaluation, so they're morally framed.
+
+Next, for the summary, I have to condense the article into 200 words or less, making sure to include as many of those morally framed words as possible. The summary should reflect the author's perspective, which is critical of the US report.
+
+I should ensure that the summary highlights the main points: the report's inaccuracies, countries rejecting it, the US hypocrisy by criticizing others while ignoring its own issues, and the lack of credibility in the report. Also, mentioning specific examples like the murder rate, torture, poverty, and the treatment of detainees will strengthen the moral framing.
+
+I need to make sure the summary flows well and stays within the word limit. I'll structure it by first introducing the criticism, then detailing the issues with the US report, followed by the hypocrisy and selective criticism, and finally the lack of credibility and the counterarguments from other sources.
+
+Let me also check if I included all the key morally framed words from STEP 1. I should make sure each of those words is present in the summary to meet the user's requirements.
+
+Finally, I'll format the response as per the user's instructions, starting with STEP 1, listing each word with a star, then the SUMMARY section, and ending with the specified tokens.
+
+I think that's all. Time to put it together.
+</think>
+
+**STEP 1:**  
+* Criticized  
+* Condemned  
+* Inaccurate  
+* Lacking good will  
+* Rejected  
+* Brazen distortion  
+* Wrongful  
+* Illegitimate  
+* Interference  
+* Violations  
+* Torture  
+* Pressure  
+* Unjust  
+* Poverty  
+* Ignored  
+* Hypocrisy  
+* Malicious goals  
+* Protest  
+* Wrong judgment  
+* Fabricated  
+
+**SUMMARY:**  
+The US State Department's Annual Human Rights Report has faced strong criticism and condemnation from many countries, accused of being inaccurate and lacking goodwill. Nations across Asia, Europe, Africa, and Latin America have rejected its content, calling it a brazen distortion and interference in internal affairs. Meanwhile, China released a report highlighting human rights violations in the US, such as high murder rates, torture, and poverty. Critics argue the US hypocritically ignores its own issues while judging others, with its reports often reflecting political interests. For instance, Egypt was criticized in 2000 but not in 2001 due to shifting US priorities. The report's credibility is further undermined by fabricated claims, with even American sources rejecting its allegations against countries like Vietnam. The US's Annual Human Rights Report is widely seen as lacking integrity and facing global protest.  
+**END OF SUMMARY.**

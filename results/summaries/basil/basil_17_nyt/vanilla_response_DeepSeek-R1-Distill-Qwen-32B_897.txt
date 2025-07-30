@@ -1,0 +1,15 @@
+Alright, so the user has given me a query where they want me to act as a news summarizer assistant. They provided a detailed news article about Gov. Rick Perry's stance on immigration, his endorsement by Sheriff Joe Arpaio, and some context about the political implications. The task is to summarize this article concisely, keeping it under 200 words and formatting it with the specified tokens.
+
+First, I need to understand the key points of the article. The main elements are Perry's support for deporting undocumented immigrants after apprehension, his contrast with the Obama administration's policies, the endorsement by Arpaio, the criticism Perry received for his tuition policy, and the mention of Arpaio's controversial actions and the lawsuit against him.
+
+I should start by identifying the main actors: Perry, Arpaio, and the context of the New Hampshire primary. Then, outline Perry's immigration stance, the contrast with Obama's policies, and the endorsement as a political move. I also need to touch upon the criticism Perry faced and the broader implications of immigration being a less critical issue in the primary.
+
+Next, I'll structure the summary to include these elements, ensuring it's concise and flows logically. I should avoid jargon and keep the language clear. It's important to highlight that while Arpaio's endorsement might help Perry, immigration isn't the top issue for voters, and Arpaio's controversial status could be a double-edged sword.
+
+I also need to make sure the summary doesn't exceed 200 words. I'll check the word count after drafting to ensure compliance. Additionally, I should format the summary correctly, starting with "SUMMARY:" and ending with "END OF SUMMARY."
+
+Finally, I'll review the summary to ensure it captures all critical points without unnecessary details, maintaining clarity and coherence.
+</think>
+
+SUMMARY:  
+Gov. Rick Perry of Texas has emphasized his support for deporting undocumented immigrants after apprehension, contrasting it with the Obama administration's "catch-and-release" policy. He clarified that his stance does not involve rounding up immigrants but rather deporting those found undocumented after arrest. Perry, seeking to strengthen his immigration credentials ahead of the New Hampshire primary, received an endorsement from Sheriff Joe Arpaio of Arizona, known for his tough immigration enforcement. However, Perry has faced criticism for backing a state policy offering in-state tuition to some children of undocumented immigrants. He apologized for previously dismissing critics as "heartless." While Arpaio's endorsement may help Perry, immigration ranks low as a priority for Republican voters in New Hampshire. Arpaio, a polarizing figure, is under federal investigation for potential rights violations against Hispanics. Despite his popularity in Arizona, some allies, like Sen. Russell Pearce, have faced backlash for strict immigration policies. Perry also indicated he would not support federal lawsuits against states for immigration-related decisions. END OF SUMMARY.

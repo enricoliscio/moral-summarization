@@ -1,0 +1,17 @@
+<think>
+Alright, I need to help the user by summarizing the given news article while preserving the moral framing. The user has specified that I should focus on the morally framed words they listed. Let me first read through the article to understand the main points.
+
+The article discusses two main topics: the treatment of al-Qaeda prisoners in Guantanamo Bay and the political shuffle involving Brian Tobin and John Manley. The author uses several moral terms like humane, treatment, conflict, overreacting, etc., which I need to include in the summary.
+
+I should start by addressing the al-Qaeda prisoners' situation. The Ottawa Citizen and Sudbury Star emphasize the need for humane treatment and a tribunal, highlighting the moral obligation to follow laws. On the other hand, The Daily Press supports the U.S. approach, suggesting that any leniency could endanger lives, which touches on the conflict between security and human rights.
+
+Next, the article shifts to Brian Tobin's departure, which is criticized as a betrayal by pundits. They use terms like betrayal and ridiculing, showing disapproval. In contrast, John Manley is praised as honest and competent, contrasting Tobin's negative image.
+
+I need to ensure that the summary includes all the key moral terms without exceeding 200 words. I'll structure it to first cover the al-Qaeda issue, then Tobin's departure, and finally Manley's reception. I'll make sure each point incorporates the moral language appropriately.
+
+Let me draft the summary, keeping it concise and ensuring all the moral terms are included. I'll check the word count to stay within limits. Once done, I'll present it after the "SUMMARY:" token and end with "END OF SUMMARY."
+
+I think this approach covers all the user's requirements and preserves the moral framing as specified.
+</think>
+
+SUMMARY: The article highlights the moral debate over the treatment of al-Qaeda prisoners at Guantanamo Bay, emphasizing the need for humane conditions and adherence to the Geneva Convention. Critics argue that Canada should push for a tribunal to determine their legal status, while others claim the U.S. is overreacting and risking lives by being lenient. Meanwhile, Brian Tobin's abrupt departure from politics has drawn sharp criticism, with pundits accusing him of betrayal and ridiculing his claims of leaving for family reasons. In contrast, John Manley, the new Deputy Prime Minister, has been praised as competent and honest, emerging as a trusted leader during the Sept. 11 crisis. The moral framing underscores the tension between treating prisoners humanely and ensuring national security, while Tobin's actions are condemned as a betrayal of public trust. END OF SUMMARY.

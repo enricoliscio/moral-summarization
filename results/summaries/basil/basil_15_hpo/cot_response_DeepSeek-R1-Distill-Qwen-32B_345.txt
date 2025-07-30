@@ -1,0 +1,24 @@
+Alright, so the user has provided a query where they want me to act as a news summarizer and a moral expert. The task is to summarize a given news article while preserving the moral framing. They've also specified two steps: first, identifying morally framed words, and then writing the summary. 
+
+First, I need to understand the article. It's about Newsweek's cover featuring Michele Bachmann with the headline "THE QUEEN OF RAGE." The article mentions that while the word "rage" isn't in the actual profile, the author criticizes Bachmann's support for the Tea Party as "radical." Conservatives are upset, calling the cover biased and making Bachmann look "crazy." Newsweek has had similar issues before with covers of Romney and Palin.
+
+Now, for step one, I need to identify all single words that are morally framed. That means words that carry a judgment or value. Looking through the article, words like "controversy," "stark," "radical," "crazy," "biased," "backlash," "infamous," and "crosses a line" stand out. Each of these carries a moral judgment or implication.
+
+Next, the summary needs to include as many of these words as possible while being concise. I should make sure the summary reflects the moral framing without losing the essence of the article. I'll start by mentioning the cover and the headline, then note the absence of "rage" in the article. I'll include the criticism from the author and the conservative reaction, using the identified words. Finally, I'll reference Newsweek's past controversial covers to show a pattern.
+
+I need to keep the summary under 200 words, so I'll be concise but include all key points. I'll make sure to use the morally framed words to preserve the author's tone and intent. Let me structure it step by step, ensuring each part flows logically and covers all necessary points without unnecessary details.
+
+After drafting, I'll review to ensure all morally framed words are included and that the summary accurately reflects the article's moral perspective. It's important that the summary not only informs but also conveys the underlying judgments and criticisms present in the original text.
+</think>
+
+**STEP 1:**  
+* Controversy  
+* Radical  
+* Crazy  
+* Biased  
+* Backlash  
+* Infamous  
+* Crosses a line  
+
+**SUMMARY:**  
+Newsweek's latest cover features Michele Bachmann with the headline "THE QUEEN OF RAGE," sparking controversy. While the word "rage" isn't in the article, author Lois Romano criticizes Bachmann's support for the "radical" Tea Party. Conservative critics argue the cover makes Bachmann look "crazy" and claim the media is "biased" against conservatives. This isn't the first time Newsweek has faced backlash; past covers of Mitt Romney and Sarah Palin also drew criticism. The争议 over the Bachmann cover highlights ongoing tensions between media portrayal and conservative perceptions. Does it "cross a line"? END OF SUMMARY.

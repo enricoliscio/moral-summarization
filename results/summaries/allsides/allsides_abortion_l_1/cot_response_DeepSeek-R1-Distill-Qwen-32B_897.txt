@@ -1,0 +1,31 @@
+Okay, I need to help the user by summarizing the given news article while preserving the moral framing. Let me start by understanding the task. The user provided an article about Planned Parenthood and the ACLU suing Alabama over a near-total abortion ban. They want me to first identify all the morally framed words and then write a summary using those words.
+
+First, I'll go through the article and pick out the words that carry moral connotations. Words like "ban," "anti-abortion," "exploit," "unconstitutional," "unjust," "oppress," "discriminatory," "coercion," "deprive," "opportunity," "equality," "deprived," "harm," "injustices," "oppression," "oppressed," "equality," "fairness," "justice," "oppression," and "deprived" stand out as they carry strong moral implications.
+
+Next, I'll summarize the article, making sure to include these words to maintain the original moral framing. I need to keep the summary under 200 words, so I'll focus on the key points: the lawsuit, the law's strictness, the intention to challenge Roe v. Wade, the impact on marginalized groups, and the broader context of abortion restrictions across states.
+
+I should structure the summary to highlight the legal battle, the moral arguments against the law, and the consequences for vulnerable populations. I'll ensure that each morally framed word is included where appropriate to convey the article's tone and message effectively.
+
+Let me draft the summary, making sure it flows well and covers all essential aspects without exceeding the word limit. I'll check each sentence to ensure it's concise and that the moral framing is preserved throughout.
+</think>
+
+**STEP 1:**
+
+* Ban  
+* Anti-abortion  
+* Exploit  
+* Unconstitutional  
+* Unjust  
+* Oppress  
+* Discriminatory  
+* Coercion  
+* Deprive  
+* Opportunity  
+* Equality  
+* Deprived  
+
+**SUMMARY:**  
+
+Planned Parenthood and the ACLU filed a lawsuit against Alabama over its near-total abortion ban, which severely restricts access to abortion except in cases of serious health risk, with no exceptions for rape or incest. The law, designed to challenge Roe v. Wade, criminalizes abortion providers with up to 99 years in prison. Critics argue it is unconstitutional and unjust, disproportionately harming Black and low-income communities, who make up a majority of abortion seekers in Alabama. The lawsuit highlights the state’s anti-abortion agenda, which exploits health and lives for political gain. Similar restrictive laws have been introduced in other states, but none are currently in effect. The fight for reproductive rights continues through legal battles, as advocates emphasize the moral imperative to protect patients’ lives and uphold equality.  
+
+**END OF SUMMARY.**

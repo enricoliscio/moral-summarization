@@ -1,0 +1,17 @@
+<think>
+Alright, I need to help the user by summarizing the provided news article while preserving the moral framing words. The user is a news summarizer assistant and a moral expert, so they likely need a concise summary that maintains the ethical implications presented in the original text.
+
+First, I'll read through the article to understand the main points. It's about senior White House officials pressuring Democrats to pass Bush tax cuts, warning that inaction could lead to a double dip recession. They emphasize the risks and consequences of not acting quickly, while also acknowledging that the deal isn't perfect but better than the alternatives.
+
+Next, I need to identify the morally framed words the author used: increase, stall, help, dipping, stabilize, fails, facing. I should make sure these words are included in the summary to maintain the moral tone.
+
+I'll start by outlining the key points: the warning about the risk of a double dip recession, Larry Summers' dire assessment, the debate over the effectiveness of the tax cuts, the consequences of delay, and the administration's push to get the deal passed.
+
+I should structure the summary to include these points, using the moral words where appropriate. For example, "significantly increase the risk," "help the economy," "stabilize the housing market," and "facing a really difficult situation."
+
+I need to keep the summary under 200 words, so I'll be concise but make sure all important aspects are covered. I'll also ensure the summary flows logically, connecting the warnings, the analysis, and the administration's push for the deal.
+
+Finally, I'll review the summary to ensure it captures the moral framing and stays within the word limit. I'll make sure the key points are clear and that the moral words are appropriately integrated.
+</think>
+
+SUMMARY: Senior White House officials have warned that inaction on the Bush tax cuts significantly increases the risk of a double dip recession, urging congressional Democrats to pass the deal. Larry Summers emphasized that failing to act would "materially increase the risk" of the economy stalling, while others argued the deal, though stimulative, may not be sufficient to stabilize the economy. Critics noted the lack of measures to stabilize housing prices, a key factor in avoiding a downturn. The administration stressed the real consequences of delay, including tax hikes and loss of unemployment insurance, urging Democrats to accept the package to avoid being blamed for an economic downturn. The deal, while not ideal, was presented as the best available option to help the economy, with officials cautioning against the risks of further delay. END OF SUMMARY.

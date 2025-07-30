@@ -1,0 +1,44 @@
+Okay, I need to help the user by summarizing the given news article while preserving the moral framing. Let me break down the steps as per the user's instructions.
+
+First, I should identify all the single words that are morally framed. These are words that carry a moral judgment or connotation. I'll go through the article and pick out each word that fits this criterion.
+
+Looking at the article, words like "mass shooting," "dead," "capital murder," "indicted," "execution," "division," "invasion," "blame," "violence," "hate-crime," "suicide watch," "anger," "gun control," "advocates," "political blowback," "mistakes," "take matters into our own hands," "DEFEND," "insufficient," "inadequate," and "failure" stand out as having moral connotations. I'll list each of these with a star.
+
+Next, I need to write a concise summary of the article, making sure to include as many of these morally framed words as possible. The summary should be no longer than 200 words and should capture the main points: the indictment, the moral implications of the attack, the political reactions, and the broader context of recent shootings and debates.
+
+I'll start by mentioning the indictment and the charges, then touch on the manifesto and its connection to Trump's rhetoric. I'll include the impact on the community and the subsequent shootings. Finally, I'll address the political reactions and the criticism of the governor's inaction on gun control.
+
+I need to ensure the summary flows well and stays within the word limit. I'll make sure each morally framed word is included where appropriate without making the summary feel forced.
+
+After drafting, I'll review to ensure all steps are followed and that the summary accurately reflects the moral framing of the original article.
+</think>
+
+**STEP 1:**
+
+* Mass shooting  
+* Dead  
+* Capital murder  
+* Indicted  
+* Execution  
+* Division  
+* Invasion  
+* Blame  
+* Violence  
+* Hate-crime  
+* Suicide watch  
+* Anger  
+* Gun control  
+* Advocates  
+* Political blowback  
+* Mistakes  
+* Take matters into our own hands  
+* DEFEND  
+* Insufficient  
+* Inadequate  
+* Failure  
+
+**SUMMARY:**  
+
+A 21-year-old man, Patrick Crusius, was indicted for capital murder in connection with the El Paso mass shooting that left 22 dead. Prosecutors seek the death penalty, while his defense aims to prevent execution. Crusius allegedly targeted Mexicans, as indicated by a manifesto blaming the "Hispanic invasion of Texas," mirroring President Trump's rhetoric. Survivors held vigils, while Crusius remained isolated on suicide watch. The shooting sparked national debate over gun control and immigration, with critics accusing Trump of inflaming tensions. Less than 24 hours later, a Dayton shooting killed nine, followed by another in Texas weeks later. Texas Gov. Greg Abbott faced criticism for resisting stricter gun laws, releasing inadequate recommendations. Democrats and gun-control advocates condemned his inaction, highlighting the failure to address the root causes of violence.  
+
+**END OF SUMMARY.**

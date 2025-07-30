@@ -1,0 +1,16 @@
+Alright, so I need to help the user by summarizing this news article while preserving the moral framing. The user provided a detailed article and a list of morally charged words. My task is to create a concise summary, under 200 words, using as many of those words as possible. 
+
+First, I'll read through the article to understand the main points. It's about Donald Trump's continued denial of collusion with Russia, even as his associates face legal issues. The author criticizes Trump's behavior, highlighting his lies, obstruction, and disregard for the law. 
+
+I need to identify the key events: Trump's rally comments, Cohen's guilty plea, Manafort's conviction, and the implications of Trump's actions. Also, the moral words like denial, evasion, fraud, lying, etc., need to be included.
+
+I'll start by outlining the structure: mention Trump's denial at the rally, the recent legal actions against Cohen and Manafort, Trump's lies and obstruction, and the overall assessment of his character. 
+
+I should ensure that each paragraph in the summary includes several moral terms. For example, in the first part, I can use "deny," "collusion," "fraud," "evasion," etc. In the second part, focus on his lying, obstruction, and the impact on trust in leadership.
+
+I also need to keep the language clear and concise, making sure the summary flows well while hitting all the key points. I'll check the word count to stay under 200 words. 
+
+Finally, I'll make sure to end with the specified tokens, "SUMMARY:" and "END OF SUMMARY." to meet the user's formatting requirements.
+</think>
+
+SUMMARY: The article highlights Donald Trump's persistent denial of collusion with Russia, even as his associates face legal consequences for fraud, evasion, and illegal campaign contributions. Trump's former attorney, Michael Cohen, pleaded guilty to crimes including tax evasion and bank fraud, admitting to making payments to silence women, as ordered by Trump, to circumvent campaign finance laws. Simultaneously, Trump's former campaign manager, Paul Manafort, was found guilty of tax and bank fraud. Despite these developments, Trump continues to deny collusion, a charge that has become secondary to his overall unfitness for office. The article underscores Trump's mendacity, lying about his involvement in the Trump Tower meeting, his payments to Stormy Daniels, and his attempts to undermine investigations. Trump's behavior, including bullying law enforcement and groveling to Russian leader Vladimir Putin, further erodes trust in his character. While it may be difficult to prove collusion, Trump's transgressions—such as lying, fraud, and obstruction—paint a clear picture of his unfitness for leadership. The real scandal, the author argues, is not collusion but Trump himself, whose actions set a dangerous example of mendacity and disregard for the rule of law. END OF SUMMARY.

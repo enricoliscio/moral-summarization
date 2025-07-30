@@ -1,0 +1,28 @@
+Okay, I need to help the user by summarizing a news article while preserving the moral framing. The user provided a detailed query with specific steps. First, I should identify all the single words that carry moral connotations. Let me read through the article carefully.
+
+The article talks about Netanyahu's ad in Florida, targeting the election. Words like "frosty," "failure," "frustration," "closer," "nuclear bomb," "strength," "apologies," "influence," "swing," "erosion," "disillusioned," "buyer's remorse," and "doubts" stand out as morally charged. These words convey judgment or evaluation, which is essential for the moral framing.
+
+Next, I need to summarize the article, making sure to include these morally framed words. The summary should be concise, under 200 words, and include the key points: Netanyahu's ad, the group behind it, the message, the potential influence, and the context of Jewish voters' shift towards Romney.
+
+I should structure the summary to highlight the moral aspects, such as the frustration with Obama's policies, the need for strength, and the doubts among Jewish voters. This way, the summary preserves the author's moral perspective while being clear and concise.
+
+Let me draft the summary, ensuring all the key points are covered and the moral words are included. I'll start with Netanyahu's ad, mention the group, the message, the target states, the potential influence, and conclude with the broader context of Jewish voters' disillusionment and the ads' impact.
+</think>
+
+**STEP 1:**  
+* Frosty  
+* Failure  
+* Frustration  
+* Closer  
+* Nuclear bomb  
+* Strength  
+* Apologies  
+* Influence  
+* Swing  
+* Erosion  
+* Disillusioned  
+* Buyer's remorse  
+* Doubts  
+
+**SUMMARY:**  
+Israeli Prime Minister Benjamin Netanyahu, known for his frosty relationship with President Obama, is featured in a new ad targeting Florida, a key battleground state. The ad, funded by the conservative group Secure America Now, uses Netanyahu's recent statements expressing frustration over the Obama administration's failure to establish "red lines" against Iran's nuclear program. Netanyahu warns that Iran is getting closer to a nuclear bomb and criticizes the world's inaction, emphasizing the need for American strength rather than apologies. The ad aims to influence heavily Jewish markets, including Miami, where Florida's 29 electoral votes could swing the election. Polls show strong support for Israel among Jewish voters, with many feeling disillusioned by Obama's policies. Meanwhile, the Republican Jewish Coalition is running a $5 million ad campaign in swing states, highlighting "buyer's remorse" among Jewish voters who supported Obama in 2008 but now doubt his leadership. Netanyahu's message aligns with calls for tougher action against Iran, as polls indicate growing erosion of Jewish support for Obama. END OF SUMMARY.

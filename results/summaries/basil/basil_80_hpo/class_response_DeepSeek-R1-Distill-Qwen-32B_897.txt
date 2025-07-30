@@ -1,0 +1,15 @@
+<think>
+Alright, I need to help the user by summarizing the given news article while preserving the moral framing. The user specified that I should focus on the morally charged words: 'jailed', 'forwarded', 'investigation', 'colluded', and 'undermine'. 
+
+First, I'll read through the article to understand the main points. Trump is attacking the Justice Department as the 'deep state' and wants Huma Abedin jailed. The article mentions that her emails were part of the FBI's investigation into Clinton's private email server. Trump also criticizes the Justice Department and FBI, especially Comey, and claims he has the right to control the investigations.
+
+Now, I need to ensure that the summary includes those specific moral terms. I'll structure the summary to highlight Trump's accusations, the forwarded emails, the ongoing investigation, the collusion angle, and his attempts to undermine the Justice Department.
+
+I should keep the summary concise, under 200 words, and make sure it flows naturally while including all the key points and moral framing words. I'll start by mentioning Trump's attack on the Justice Department, then move to Abedin's forwarded emails, the investigation, the collusion reference, and finally his undermining of the Justice Department.
+
+I also need to make sure the summary is clear and sticks to the facts without adding any extra information. I'll avoid any markdown and keep the language straightforward.
+
+Let me put it all together, ensuring each morally framed word is included where appropriate. I'll check the word count to stay within the limit. Once done, I'll present it after the "SUMMARY:" token and end with "END OF SUMMARY.".
+</think>
+
+SUMMARY: President Donald Trump has renewed his criticism of the Justice Department, labeling it the "deep state," and called for the jailing of Huma Abedin, a top aide to Hillary Clinton. Trump's tweet followed the release of Abedin's emails, which were forwarded from a State Department account to a personal account, including sensitive information like passwords. These emails were part of the FBI's investigation into Clinton's use of a private email server during her tenure as Secretary of State. Trump also criticized former FBI Director James Comey, referencing the investigation into potential collusion between Trump's campaign and Russia. Trump has repeatedly sought to undermine the Justice Department and FBI, particularly as the Russia probe intensifies. He has criticized Attorney General Jeff Sessions for recusing himself from the investigation and claimed he has the right to direct government investigations, asserting his "absolute right" to control the Justice Department. END OF SUMMARY.

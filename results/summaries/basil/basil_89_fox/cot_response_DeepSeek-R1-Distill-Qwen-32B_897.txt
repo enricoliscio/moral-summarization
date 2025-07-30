@@ -1,0 +1,31 @@
+Okay, so I need to help this user who's asking for a news summary with a moral framing. They provided a detailed article about President Trump, Mattis, and other resignations. First, I have to identify all the morally framed single words. Let me read through the article again to spot those words.
+
+Looking at the text, words like "pleased," "talented," "great," "accomplishments," "protest," "blowback," "grandstander," "nothing event," "popular hero," "fake news," "sacrifice," "decimating," "happy," "healthy," "rely heavily," and "troop deaths" stand out as having moral connotations. These words carry judgments or evaluations, so they fit the moral framing.
+
+Next, I need to summarize the article, making sure to include as many of these morally framed words as possible. The summary should be concise, no more than 200 words. I'll start by noting Trump's announcement of Mattis's early departure, the reasons behind it, and the implications. I'll mention Mattis's resignation due to policy disagreements, the criticism from military leaders, and the subsequent resignations of McGurk and others. I'll also touch on Trump's dismissal of the resignations and his stance on troop withdrawals. Finally, I'll include the moral implications of these actions, such as the impact on national security and the perception of leadership.
+
+I should ensure the summary flows well and covers all key points without being too lengthy. I'll make sure to preserve the moral framing by using the identified words where appropriate. Let me put it all together, keeping it under 200 words and ending with the required tokens.
+</think>
+
+**STEP 1:**
+
+* pleased  
+* talented  
+* great  
+* accomplishments  
+* protest  
+* blowback  
+* grandstander  
+* nothing event  
+* popular hero  
+* fake news  
+* sacrifice  
+* decimating  
+* happy  
+* healthy  
+* rely heavily  
+* troop deaths  
+
+---
+
+**SUMMARY:** President Trump announced that Defense Secretary James Mattis will leave the administration on January 1, weeks earlier than the previously stated February 28 departure. Mattis had resigned in protest over Trump's national security policies, including plans to withdraw troops from Syria and Afghanistan. Trump praised Deputy Secretary Patrick Shanahan, a former Boeing executive, as "great" and "talented," to serve as Acting Secretary. Mattis' abrupt departure and Trump's decision to pull troops out of Syria have sparked criticism, with military leaders warning of ISIS resurgence and abandoning Kurdish allies. Trump dismissed the resignations of Mattis and Brett McGurk, the U.S. envoy to the coalition against ISIS, as a "nothing event," accusing the media of exaggerating the situation. Trump emphasized his campaign promises to end America's role as the "Policeman of the Middle East," while downplaying the significance of troop withdrawals. The article highlights the moral and political tensions surrounding Trump's national security decisions, including the impact on U.S. allies and the perception of leadership in the region. END OF SUMMARY.

@@ -1,0 +1,27 @@
+Okay, I need to help the user with their query. They want me to act as a news summarizer and a moral expert. The task is to first identify all the single words that are morally framed in the given news article. Then, I have to write a summary preserving those moral framings.
+
+First, I'll read through the article carefully. The user provided a news article about Washington Governor Jay Inslee banning state-funded travel to Indiana due to a controversial law. The law allows businesses to deny service to gay and lesbian individuals for religious reasons. 
+
+I'll start by identifying morally framed words. These are words that carry a moral connotation, such as "ban," "discriminate," "equality," "opportunity," "backlash," "license," "abhor," "Golden Rule," "fix," etc. I'll list each of these words, each on a new line starting with an asterisk.
+
+Next, I need to write a concise summary of the article, making sure to include as many of these morally framed words as possible. The summary should be no longer than 200 words. I'll structure it to include the main points: Inslee's action, the reaction from other states and businesses, Pence's defense, and the concerns expressed by business leaders in Indiana.
+
+I'll make sure the summary flows logically, starting with Inslee's announcement, the reasons behind it, the reactions from others, and the ongoing debate. I'll keep the language clear and direct, ensuring that the moral framing is preserved.
+
+Finally, I'll review the summary to ensure it meets the word limit and that all key points are covered. I'll make sure the morally framed words are included and that the summary accurately reflects the article's content and moral perspective.
+</think>
+
+**STEP 1:**  
+* Ban  
+* disturb  
+* civil rights  
+* equality  
+* opportunity  
+* discrimination  
+* license  
+* abhor  
+* Golden Rule  
+* fix  
+
+**SUMMARY:**  
+Washington Gov. Jay Inslee announced a ban on state-funded travel to Indiana due to a controversial law allowing businesses to deny service to gay and lesbian individuals for religious reasons. Inslee criticized the law, calling it a step backward in the fight for civil rights and equality. He highlighted a Washington florist who faced fines for discriminating against a gay couple. Inslee invited businesses and organizations to consider Washington, which promotes equality and opportunity. Connecticut, San Francisco, and Seattle have also banned state-funded travel to Indiana, joining the backlash against the law. Business leaders, including Apple's Tim Cook and Salesforce's Marc Benioff, have condemned the law, while Indiana Gov. Mike Pence defended it, claiming it was "grossly misconstrued" and does not legalize discrimination. Pence and legislative leaders aim to clarify the law to ensure it does not enable discrimination. END OF SUMMARY.

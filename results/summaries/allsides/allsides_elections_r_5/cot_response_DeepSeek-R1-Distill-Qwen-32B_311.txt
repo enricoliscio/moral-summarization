@@ -1,0 +1,37 @@
+Okay, so I'm trying to help the user with their query. They provided a news article and asked me to act as a news summarizer and moral expert. My task is to summarize the article while preserving the moral framing. 
+
+First, I need to understand the structure of their request. They want me to perform two steps: STEP 1 is identifying all single words that are morally framed. These are words that carry a strong moral judgment, like "deception" or "failure." I should list each of these words, each on a new line starting with an asterisk.
+
+Then, in STEP 2, I need to write a summary of the article. The summary should be concise, no longer than 200 words, and include as many of the morally framed words as possible. The summary should start after a "SUMMARY:" token and end with "END OF SUMMARY."
+
+Looking at the article, it's critical of Obama's handling of the Benghazi attack. The moral framing is strong, using words like "deception," "failure," "betrayal," and "blood on his hands." I need to make sure these words are included in the summary to maintain the original moral tone.
+
+I should start by identifying each morally charged word. Let me go through the article paragraph by paragraph. Words like "deception," "failure," "betrayal," "atrocity," "sacrificed," "disgrace," "murdered," "butchered," "unfit" stand out. Each of these carries a strong negative connotation, so they fit the moral framing.
+
+Next, for the summary, I need to condense the article's main points while incorporating these words. The key points are: Obama's administration misled the public about the attack, knowing it was a terrorist act. They covered up the truth to protect their political narrative. The attack was preventable, with military assets nearby but not deployed. The administration's actions led to the deaths of diplomatic personnel, and the failure to respond was seen as a betrayal.
+
+I should structure the summary to highlight Obama's knowledge of the attack's nature, the cover-up, the preventable loss of lives, and the moral failure in not responding. I need to ensure that the summary flows well and includes the key morally framed words without making it too verbose.
+
+I also need to make sure the summary is under 200 words. Let me check the word count as I draft it. Starting with the deception, then the cover-up, the preventable deaths, and the betrayal. Each sentence should encapsulate these points concisely.
+
+Finally, I'll review the summary to ensure it includes all the necessary morally framed words and accurately reflects the article's critical stance towards Obama's handling of the Benghazi attack.
+</think>
+
+**STEP 1:**
+
+* Deception  
+* Failure  
+* Betrayal  
+* Atrocity  
+* Sacrificed  
+* Disgrace  
+* Murdered  
+* Butchered  
+* Unfit  
+
+---
+
+**SUMMARY:**  
+President Obama is accused of deception and failure in his handling of the 2012 Benghazi attack. Emails and cables reveal the administration knew it was a terrorist act but falsely blamed it on protests. The State Department and CIA identified Ansar al-Sharia, an al-Qaeda affiliate, as responsible, yet Obama misled the public to protect his narrative of defeating al-Qaeda. Libya, under Obama’s intervention, became a safe haven for jihadists, leading to the attack. Security requests were ignored, and a U.S. drone and jets were nearby but not deployed due to Obama’s focus on Libyan sovereignty. The attack, an act of war, left Ambassador Stevens and three others dead. Obama’s cover-up and inaction are seen as a betrayal, making him unfit for office. The tragedy could have been prevented, but the administration’s willful blindness and political ambitions led to American blood being shed.  
+
+**END OF SUMMARY.**

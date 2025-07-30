@@ -1,0 +1,31 @@
+Okay, so I'm trying to help this user who wants a news summary with a focus on moral framing. They provided a detailed news article about Vicente Fox criticizing Enrique Peña Nieto for meeting Donald Trump. The user's query has two parts: first, identifying morally framed words, and second, summarizing the article while preserving those words.
+
+First, I need to understand what morally framed words are. These are words that carry strong moral connotations, indicating approval or disapproval. Words like "harshly criticized," "rejected," "traitor," " Opportunistic," etc., are likely candidates.
+
+Looking at the article, I'll go through each sentence to pick out these words. For example, "harshly criticized" is definitely a moral judgment. Then "rejected" shows disapproval. "Traitor" is a strong negative term. "Opportunistic" and "desperate" are also negative. Words like "offended" and "false prophet" carry moral weight. "Cheating," "lying," "respect," "dignity," and "honor" are all moral terms. "Flooded," "fear-mongering," and "deportation" also have moral implications.
+
+Once I've listed all these words, the next step is to write a concise summary. I need to include as many of these moral terms as possible without making the summary too long. I'll focus on the key points: Fox's criticism, Trump's invitation, the political risks, and Fox's accusations against Trump and Peña Nieto.
+
+I should structure the summary to highlight the moral framing, showing Fox's disapproval and the implications for both Peña Nieto and Trump. I'll make sure to mention the risks Peña Nieto faces and Fox's warnings about Trump's motives. Keeping it under 200 words is crucial, so I'll be concise but include all the essential moral elements.
+
+I think I've got all the morally framed words and can now craft a summary that reflects the author's moral stance. Let me put it all together, ensuring it's clear and within the word limit.
+</think>
+
+**STEP 1:**  
+* harshly criticized  
+* rejected  
+* traitor  
+* Opportunistic  
+* desperate  
+* cheating  
+* lying  
+* respect  
+* dignity  
+* honor  
+* flooded  
+* fear-mongering  
+* deportation  
+
+**SUMMARY:**  
+Former Mexican President Vicente Fox strongly condemned President Enrique Peña Nieto for inviting Donald Trump to meet in Mexico, calling it a "desperate" and "opportunistic" move. Fox criticized Trump for his "false prophet" image and accused him of using Mexico to boost his sinking poll numbers. He warned that Peña Nieto risks being seen as a "traitor" for not standing up to Trump, whose rhetoric has included "fear-mongering" about Mexicans and promises to build a wall funded by Mexico. Fox also accused Trump of "cheating" and "lying," urging U.S. citizens to see through his "false prophet" act. Peña Nieto's invitation to Trump, who has "flooded" the U.S. with negative rhetoric, comes amid his own political struggles, including low approval ratings. Fox emphasized that Mexico's "dignity" and "honor" are at stake, and urged Trump to "show some respect" for the country.  
+**END OF SUMMARY.**

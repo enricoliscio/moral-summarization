@@ -1,0 +1,24 @@
+<think>
+Alright, so the user has provided a news article and wants a summary. They specified that the summary should be after a "SUMMARY:" token and end with "END OF SUMMARY." Also, it needs to be under 200 words. 
+
+First, I need to read through the article carefully. It's about Hameed Gul, a Pakistani defense analyst, criticizing the US State Department's human rights report. He calls it lies and propaganda. He's talking about American hegemony and how the US is using human rights as a tool to dominate other countries. 
+
+He mentions the US not respecting religion, culture, and human rights. He brings up examples like Afghanistan, India, and Palestine. He's saying that the US is selective in when it cares about human rights, only when it serves their interests. 
+
+I should make sure to include the main points: his rejection of the report, the US's hegemonic designs, examples of US actions in different regions, and his call for Muslim unity against US influence. 
+
+I need to condense this into a concise summary without going over 200 words. I'll start by introducing Gul and his stance, then outline the US's actions, and conclude with his advice to Muslim leaders. 
+
+I should avoid jargon and keep it clear and straightforward. Also, ensure that each sentence captures a key point without unnecessary details. 
+
+Let me structure it: 
+1. Introduction of Gul and his rejection of the report.
+2. Critique of US hegemony and selective human rights stance.
+3. Examples from Afghanistan, India, and Palestine.
+4. Call for Muslim unity and resistance.
+
+I'll make sure each part is brief and flows logically. Now, I'll draft the summary accordingly, keeping an eye on the word count.
+</think>
+
+SUMMARY:  
+Leading Pakistani defense analyst Hameed Gul has strongly criticized the US State Department's human rights report, calling it "blatant lies and propaganda." Gul, a former ISI director-general, accused the US of using human rights as a tool to justify its hegemonic ambitions, targeting countries that resist American dominance. He criticized the US for its hypocrisy, citing its silence on human rights abuses in India, where over 600 Muslims were reportedly killed by extremists, and in Palestine, where Israel's actions against Muslims are ignored. Gul argued that the US only highlights human rights issues when they obstruct its interests, while ignoring its own violations, such as those in Afghanistan. He emphasized the need for Muslim unity and moral resistance against US influence, warning that inaction would lead to further oppression. END OF SUMMARY.

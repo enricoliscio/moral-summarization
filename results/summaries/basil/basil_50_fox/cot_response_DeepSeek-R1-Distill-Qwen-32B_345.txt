@@ -1,0 +1,72 @@
+Okay, so the user wants me to act as a news summarizer and a moral expert. They provided a news article about Susan Rice's warning regarding Netanyahu's visit. The task is to first identify all the morally framed words and then summarize the article while preserving those moral framings.
+
+First, I need to read through the article carefully. I should look for words that carry moral connotations, like "destructive," "controversial," or "disrespect." These words indicate the author's judgment on the actions or events described.
+
+Once I've listed all those words, I'll move on to summarizing the article. The summary needs to be concise, around 200 words, and include as many of those moral terms as possible. I should focus on the key points: Rice's warning, Netanyahu's invitation without consulting the White House, the impact on U.S.-Israel relations, the nuclear negotiations with Iran, and the political reactions from both sides.
+
+I also need to make sure the summary flows well and accurately reflects the article's content while highlighting the moral aspects. It's important to capture the tension between the Obama administration and Netanyahu, as well as the differing political stances within Congress.
+
+I should avoid adding my own opinions and stick to the facts presented, but emphasize the moral framing as per the instructions. Let me start by identifying the morally charged words first.
+</think>
+
+### STEP 1:
+* Destructive
+* Controversial
+* Political acrimony
+* No-no
+* Strained relationship
+* Bipartisan
+* Fabric
+* Challenge
+* Tensions
+* Rising
+* Partisanship
+* Misconception
+* Grave concerns
+* Derail
+* Signature
+* Skeptical
+* Concessions
+* Brink
+* Build
+* Nuclear weapon
+* Progress
+* Clamp down
+* Restriction
+* Nuclear threshold state
+* Affront
+* Disrespect
+* Politics
+* Common threat
+* Disappointing
+* Regret
+* Opportunity
+* Balance
+* Politically divisive
+* Refusal
+* Disappointment
+* Stand by
+* Decades
+* Appalling
+* Unacceptable
+* More important
+* Chamber
+* Ally
+* Biggest threat
+* Nuclear-armed Iran
+* Complete disrespect
+* Worried
+* Information
+* Common threat
+* Regretted
+* Prime minister
+* Opportunity
+* Balance
+* Politically divisive
+* Refusal
+* Disappointing
+* Stand by
+* Decades
+
+### SUMMARY:
+National Security Adviser Susan Rice criticized Israeli Prime Minister Benjamin Netanyahu's upcoming Capitol Hill address, calling it a "destructive" force in U.S.-Israel relations. Netanyahu, invited by House Speaker John Boehner without consulting the White House, aims to address Iran's nuclear threat. However, this move has strained the relationship between President Obama and Netanyahu. Rice emphasized the need to maintain bipartisan support for the U.S.-Israel alliance. Netanyahu declined to meet with Senate Democrats, fearing perceptions of partisanship, but assured them his focus was on Israel's concerns over a potential nuclear deal with Iran. U.S. officials suspect Netanyahu's visit is aimed at derailing the nuclear negotiations, a key Obama administration priority. Netanyahu's opposition stems from his belief that Obama's concessions could allow Iran to develop a nuclear weapon. Netanyahu's speech has sparked political divisions, with Vice President Biden and several Democrats skipping the event, while Republicans like Lindsey Graham criticized Biden's absence as disrespectful. The visit has deepened tensions, with Netanyahu's refusal to meet Democrats disappointing those who have long supported Israel. END OF SUMMARY.

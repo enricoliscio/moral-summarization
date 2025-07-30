@@ -1,0 +1,10 @@
+Okay, so the user has provided a news article and wants a summary. They specified that the summary should be after a "SUMMARY:" token and end with "END OF SUMMARY." Also, it needs to be under 200 words. 
+
+First, I need to read the article carefully. It's about Taro Kono, a Japanese politician, who criticized President Bush's speech in the Diet. Kono wrote in his email magazine about feeling the urge to heckle but refrained. He lists several points where he disagrees with the US, like the CTBT, BWC, Kyoto Protocol, gun rights, land mines, SOFA, and Iraq. Ambassadors from Middle Eastern countries even asked him about his thoughts.
+
+I should make sure the summary captures all these key points concisely. I'll need to mention Kono's background, his criticism, the specific issues he brought up, and the reaction from the ambassadors. Also, the note at the end about the document's basis is important to include.
+
+I need to structure this clearly, keeping each point brief. Let me check the word count to ensure it's under 200. I'll start by introducing Kono, then his criticism, list the main issues, mention the ambassadors, and conclude with the document's note. That should cover everything succinctly.
+</think>
+
+SUMMARY: Taro Kono, a Japanese politician and son of former Foreign Minister Yohei Kono, criticized U.S. President George W. Bush's speech before the Japanese Diet on February 19. In his email magazine, Kono expressed frustration with Bush's emphasis on "common values," arguing that "value sharing" was more important than "burden sharing" or "power sharing" in the U.S.-Japan relationship. Kono listed several U.S. policies he opposed, including rejection of the CTBT, disregard for the BWC, opposition to the Kyoto Protocol, support for gun rights, use of land mines, and refusal to revise the SOFA. He also criticized the U.S. stance on attacking Iraq. Middle Eastern ambassadors reportedly sought his reaction to the speech. The document is based solely on foreign media content. END OF SUMMARY.

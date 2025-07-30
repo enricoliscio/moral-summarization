@@ -1,0 +1,108 @@
+<think>
+Okay, so I need to help the user by summarizing a news article while preserving the moral framing. Let me break down the steps they've outlined. 
+
+First, I have to identify all the single words that are morally framed in the article. The user has already done this in their example, so I need to understand what counts as a morally framed word. These are words that carry a moral connotation, like "unrealistic," "suffering," "human rights," etc. I should go through each sentence and pick out these words, listing them each on a new line with a star.
+
+Next, I have to write a summary of the news article. The summary needs to be concise, no more than 200 words, and it should include as many of those morally framed words as possible. I need to make sure the summary captures the main points of the article, which seems to be about how human rights are tied to development, peace, and security, and how issues like globalization, terrorism, and poverty impact these rights.
+
+I should start by reading the article carefully to understand the key arguments. Delegations at the UN are emphasizing that without development, people can't fully enjoy their rights. They mention the right to development and international peace as crucial elements. Thailand's representative talks about human rights and development being two sides of the same coin. Eritrea and China point out how globalization is marginalizing developing countries and hindering their rights. The US mentions that protecting human rights is essential in the fight against terrorism.
+
+I need to ensure that the summary includes these points and uses the morally charged words identified. I'll structure the summary to first state the main issue, then mention the key points from different countries, and conclude with the ongoing debate.
+
+I should also keep the summary clear and within the word limit. Maybe start with the UN debate, then the main arguments about development and peace, followed by the impact of globalization and terrorism, and end with the ongoing discussions. That should cover all the important aspects while preserving the moral framing.
+</think>
+
+**STEP 1:**
+
+* Unrealistic  
+* Suffering  
+* Lack  
+* Development  
+* Poverty  
+* Hunger  
+* Poor  
+* Health  
+* Enjoy  
+* Human  
+* Rights  
+* Preconditions  
+* Universal  
+* Protection  
+* Promotion  
+* Maintain  
+* International  
+* Peace  
+* Security  
+* Emphasized  
+* Alternative  
+* Approaches  
+* Effective  
+* Enjoyment  
+* Fundamental  
+* Freedoms  
+* Address  
+* Tandem  
+* Center  
+* Social  
+* Economic  
+* Protected  
+* Scourges  
+* Social  
+* Ills  
+* Disease  
+* Narcotic  
+* Drugs  
+* Armed  
+* Conflicts  
+* Terrorism  
+* Transnational  
+* Organized  
+* Crime  
+* Globalization  
+* Marginalize  
+* Developing  
+* World  
+* Alienate  
+* Masses  
+* Ability  
+* Exercise  
+* Enshrined  
+* International  
+* Human  
+* Instruments  
+* Narrowing  
+* Development  
+* Gap  
+* Crucial  
+* Realization  
+* Underdevelopment  
+* Capacity  
+* Protect  
+* Promote  
+* Rapid  
+* Spread  
+* Economic  
+* Expansion  
+* Situation  
+* Poor  
+* Countries  
+* Deteriorating  
+* Horrors  
+* Terrorist  
+* Attack  
+* International  
+* Community  
+* Truly  
+* Win  
+* War  
+* Expediency  
+* Compromise  
+* Lapse  
+* Vigilance  
+* Promoting  
+* Strengthening  
+* Democracy  
+* Multilateral  
+
+**SUMMARY:**  
+At the UN General Assembly's Third Committee, delegations emphasized that human rights could not be fully enjoyed without addressing development, poverty, and health. The right to development and international peace were deemed crucial for universal human rights. Thailand highlighted the interconnectedness of human rights and development, while Eritrea and China warned that globalization was marginalizing the developing world and hindering rights. The U.S. stressed that protecting human rights was essential in the fight against terrorism. Delegates from multiple countries discussed how underdevelopment, armed conflicts, and transnational crime impede progress. The debate underscored the need for global cooperation to address these challenges and promote human rights and democracy. END OF SUMMARY.

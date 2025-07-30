@@ -1,0 +1,16 @@
+Okay, I need to help the user by summarizing the given news article while preserving the moral framing. The user provided the article and a list of morally framed words. My task is to create a concise summary using as many of those words as possible.
+
+First, I'll read through the article to understand the main points. It's about the U.S. State Department's human rights report, specifically targeting Iran. The article criticizes the U.S. for making unfounded allegations against Iran without evidence. It mentions Iran's popularity based on high participation in their revolution anniversary. The U.S. is also accused of hypocrisy because of their own human rights issues, like the treatment of prisoners in Guantanamo and police violence against minorities leading to riots.
+
+Now, I need to identify the key points and the moral terms used. The article uses words like "failed," "charges," "allegations," "violations," "threats," etc. I should incorporate these into the summary to maintain the moral tone.
+
+I'll structure the summary to first mention the U.S. report and its unfounded claims about Iran. Then, I'll highlight the contradiction with Iran's public support and the U.S.'s own human rights issues. I'll make sure to include the morally charged words to emphasize the critique of the U.S.'s hypocrisy.
+
+I should keep the summary under 200 words, so I'll need to be concise but include all critical points. I'll start by stating the report's issuance, the baseless allegations against Iran, the lack of evidence, and the public support Iran has. Then, I'll contrast that with the U.S.'s own violations, such as the killing in Afghanistan and Guantanamo, and domestic issues like police mistreatment causing riots.
+
+Finally, I'll conclude by stating that the U.S.'s claims are empty rhetoric, highlighting the moral framing throughout. I'll make sure each sentence flows logically and includes the necessary moral terms without making it too verbose.
+
+Let me draft the summary, ensuring it's within the word limit and includes all the key points and moral language. I'll check each sentence to see if it's clear and effectively conveys the criticism towards the U.S. while supporting Iran's stance.
+</think>
+
+SUMMARY: The U.S. State Department's 2001 human rights report accused Iran of baseless violations, failing to provide evidence for its allegations. These charges, such as Iran's unpopularity due to human rights abuses, were disproven by the massive public support shown during Iran's Islamic Revolution anniversary. The article highlights the hypocrisy of the U.S., which criticizes others while committing its own atrocities, like the killing of civilians in Afghanistan and the torture of prisoners at Guantanamo Bay. The U.S. claims to advocate for human rights but condones crimes against inmates and mistreats ethnic minorities, leading to riots, such as the one in Cincinnati after an unarmed Black youth was shot dead. The report's timing, amid global criticism of U.S. human rights violations, underscores its empty rhetoric, as the U.S. prioritizes hegemony over justice. END OF SUMMARY.

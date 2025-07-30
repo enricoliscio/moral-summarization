@@ -1,0 +1,20 @@
+Okay, so the user has given me a query where they want me to summarize a news article about Guantanamo Bay being used as a prison for terrorists. They provided the article and specific instructions on how the summary should be formatted. 
+
+First, I need to understand the main points of the article. It talks about the Pentagon planning to use Guantanamo as a detention center for al-Qaeda and Taliban fighters. The article mentions logistical challenges, the base's location, and the political implications. 
+
+I should identify the key elements: who, what, where, when, why. The who is the Pentagon and Defense Secretary Rumsfeld. The what is establishing a detention center. Where is Guantanamo Bay, Cuba. When is soon, and why is because it's seen as a strategic location despite the distance.
+
+I also notice that the article mentions the base's history with Cuban and Haitian refugees, which is relevant because it shows the base has been used for detentions before. That context might be important for the summary.
+
+The user wants the summary to be concise, no longer than 200 words, and to include specific tokens at the start and end. So I need to make sure I capture all the essential information without going over the word limit.
+
+I should structure the summary to first state the main action (Pentagon planning to use Guantanamo), then mention the types of prisoners, the location's strategic importance, logistical challenges, historical context, and the political stance from both the U.S. and Cuba.
+
+I also need to include the reasoning behind choosing Guantanamo, like it's not U.S. soil, so detainees don't get residency rights. Plus, mention the logistical challenges of moving prisoners from South Asia to the Caribbean.
+
+I should also touch on the political implications, such as Rep. Ros-Lehtinen's support and the U.S. government's lease agreement with Cuba, as well as Castro's opposition.
+
+Finally, I need to ensure the summary flows well and covers all these points succinctly. Let me put it all together, making sure to stay within the word limit and include all necessary details without being too verbose.
+</think>
+
+SUMMARY: The U.S. naval base at Guantanamo Bay, Cuba, is set to become a detention center for captured al-Qaeda and Taliban fighters, according to Defense Secretary Donald Rumsfeld. Despite logistical challenges of transporting prisoners from Afghanistan, Rumsfeld deemed the location "the least worst place." The base, not on U.S. soil, has previously housed Cuban and Haitian refugees. Rep. Ileana Ros-Lehtinen supports the plan, emphasizing its strategic importance. Prisoners are unlikely to receive American residency or citizenship, and no trials are planned at the base. Guantanamo's isolation and infrastructure, including facilities for up to 100 detainees, make it a viable option. The base, often called "Gitmo," is a unique U.S. outpost in the Caribbean, with amenities like a movie theater and McDonald's. Cuban leader Fidel Castro opposes the U.S. presence, but Rumsfeld downplayed concerns. END OF SUMMARY.

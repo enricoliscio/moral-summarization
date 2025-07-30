@@ -1,0 +1,33 @@
+<think>
+Alright, so I need to help the user with their query. They provided a news article about Bruce Braley and Chuck Grassley, and they want me to act as a news summarizer assistant and a moral expert. The task has two parts: first, identify all the morally framed single words, and second, write a summary preserving those moral frames.
+
+Starting with STEP 1, I need to go through the article and pick out words that carry moral connotations. I should look for words that imply judgment, value, or evaluation. For example, words like "mocking," "apologized," "respect," "support," "tremendous respect," "grateful," "background," "experience," "voice," "fighting," "ineligible," "strong record," "common sense," "works for." These words are used to convey approval or disapproval, so they fit the moral framing.
+
+Now, moving on to the summary. I need to condense the article into 200 words, making sure to include as many of those morally framed words as possible. The summary should capture the key points: Braley's remarks, his apology, Grassley's response, and the underlying conflict over qualifications and representation.
+
+I'll start by stating that Braley mocked Grassley, then mention his apology and support for farmers. I'll include Grassley's spokesperson's counterpoint about Braley's eligibility and highlight Grassley's background and record. Finally, I'll note the ongoing tension in the campaign.
+
+I need to ensure the summary flows well and stays within the word limit. I'll check each sentence to make sure it's concise and includes the necessary moral terms without being too verbose.
+
+I think that's a solid approach. Now, I'll structure the response with the identified words first, then the summary, making sure to follow the user's formatting instructions precisely.
+</think>
+
+**STEP 1:**  
+* Mocking  
+* Apologized  
+* Respect  
+* Support  
+* Tremendous respect  
+* Grateful  
+* Background  
+* Experience  
+* Voice  
+* Fighting  
+* Ineligible  
+* Strong record  
+* Common sense  
+* Works for  
+
+**SUMMARY:**  
+Iowa Democratic Rep. Bruce Braley faced criticism after a video emerged of him mocking Sen. Chuck Grassley, a Republican, as a "farmer from Iowa who never went to law school" during his Senate campaign. Braley apologized, stating he "respects" Grassley and supports Iowa’s farmers. The video, released by a conservative PAC, showed Braley speaking at a Texas fundraiser, contrasting his qualifications with Grassley’s lack of legal experience. Braley emphasized his background in fighting tort reform, while Grassley’s spokesperson countered, questioning Braley’s eligibility to speak on policy issues and highlighting Grassley’s "strong record" and "Iowa common sense" on various issues. The exchange underscores the ongoing tension between the candidates over qualifications and representation in the agricultural state.  
+**END OF SUMMARY.**

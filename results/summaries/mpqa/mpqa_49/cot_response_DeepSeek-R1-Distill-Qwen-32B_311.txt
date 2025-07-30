@@ -1,0 +1,19 @@
+Okay, so the user has given me a query where they want me to act as a news summarizer and a moral expert. The task involves two main steps: first, identifying morally framed words in a news article, and second, summarizing the article while preserving those moral framings.
+
+Looking at the article, I need to parse through it to find words that carry moral connotations. Words like "positive," "important," "hope," and "adhering" stand out because they imply approval or a favorable stance. These words are used to convey the moral evaluation of the US's decision.
+
+Next, I have to write a concise summary that includes these morally framed words. The summary should be under 200 words and should capture the essence of the article, emphasizing the positive view of the US's actions despite not ratifying the Kyoto Protocol. I need to make sure the summary flows naturally while highlighting the moral aspects.
+
+I should also structure my response clearly, starting with the step where I list the morally framed words and then moving on to the summary. Keeping the language straightforward and the summary tight is crucial here to meet the user's requirements effectively.
+</think>
+
+**STEP 1:**  
+* Positive  
+* Important  
+* Hope  
+* Adhering  
+
+**SUMMARY:**  
+President Fernando Henrique Cardoso has expressed a positive view of the U.S. decision to implement measures to control greenhouse gases, despite its formal decision not to ratify the Kyoto Protocol. He emphasized that the United States is an important party to the convention and expressed hope that the domestically adopted measures will have the same effect as adhering to the Kyoto Protocol. Cardoso's statement highlights the significance of the U.S. action in addressing climate change, even without formal ratification of the international agreement.  
+
+**END OF SUMMARY.**

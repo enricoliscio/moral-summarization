@@ -1,0 +1,26 @@
+Alright, I need to help the user by summarizing the given news article while preserving the moral framing. The user has specified two steps: first, identifying all the single words that are morally framed, and second, writing a concise summary that includes as many of those words as possible.
+
+Starting with the first step, I'll go through the article to pick out words that carry moral connotations. Words like "killed," "randomly," "bravery," "heroic," "sorrow," "grateful," "courage," "surreal," "normal," "provoke," "investigating," and "grieving" stand out because they convey emotions, actions, or situations with moral implications.
+
+For the second step, I need to create a summary that's under 200 words. I'll start by outlining the main events: the shooting incident, the gunman's actions, the casualties, the officers' bravery, and the community's reaction. I'll make sure to include the morally framed words identified earlier to maintain the original tone and emphasis.
+
+I should structure the summary to highlight the tragedy, the heroic actions of the officers, and the impact on the community. I'll mention the gunman's unclear motives, the victims, the injured officer, and the community's gratitude. Keeping the language clear and concise while incorporating the moral terms will help convey the gravity of the situation effectively.
+</think>
+
+**STEP 1:**  
+* killed  
+* randomly  
+* bravery  
+* heroic  
+* sorrow  
+* grateful  
+* courage  
+* surreal  
+* normal  
+* provoke  
+* investigating  
+* grieving  
+
+**SUMMARY:**  
+A gunman opened fire randomly from his vehicle in Springfield, Mo, killing five people, including a police officer and himself. The shooter, Joaquin S. Roman, 31, targeted a convenience store, leaving three citizens dead and two others injured. Police described the incident as a roving active shooter, with multiple calls reporting shootings across the city. Officer Christopher Walsh, 32, was killed while trying to rescue a victim, showcasing his bravery and heroism. Another officer, Josiah Overton, was injured but is expected to recover. The community expressed sorrow and gratitude for the first responders' courage. The gunman's motives remain unclear, and the investigation is ongoing. The incident left the department and community grieving.  
+**END OF SUMMARY.**

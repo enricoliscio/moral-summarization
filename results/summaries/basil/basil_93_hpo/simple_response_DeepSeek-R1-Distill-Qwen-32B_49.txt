@@ -1,0 +1,20 @@
+Okay, so I need to summarize this news article while preserving the moral framing the author used. The user wants a news summarizer assistant and a moral expert, so I have to make sure the summary captures the ethical implications as presented.
+
+First, I'll read through the article to understand the main points. It's about Trump's offer to Democrats to extend protections for some immigrants in exchange for border wall funding. Some outlets called it a compromise, but the bill introduced by Senate Republicans includes harsh measures that make it seem more like a hard-line wishlist.
+
+The offer includes a three-year DACA extension and similar for other immigrants. But Democrats rejected it, saying it's insufficient and the government shutdown should end first. The GOP bill includes measures like banning asylum for minors, capping asylum applications, and expanding detention, which are seen as poison pills to make the bill fail.
+
+The article also mentions legal challenges against Trump's asylum restrictions and the Supreme Court's inaction on DACA, which keeps protections in place for now. The author's moral framing is clear: Trump's offer is not a genuine compromise but a way to shift blame, with the bill's harsh measures alienating both parties and failing morally.
+
+I need to condense this into a 200-word summary. I'll start by stating Trump's offer and the initial positive coverage. Then, explain the bill's harsher measures, the Democratic rejection, and the moral criticism. Mention the legal challenges and the Supreme Court's action. Conclude with the assessment that the offer is a political ploy, not a compromise.
+
+I'll make sure to highlight the moral aspects, like the bill being a poison pill and the criticism from activists. Keep the summary concise, sticking to the main points without getting too detailed.
+
+Let me structure it: Introduction of the offer, the contents of the bill, Democratic response, the poison pills, legal challenges, Supreme Court action, and the moral assessment.
+
+I should avoid jargon and keep it clear. Also, ensure that the moral framing is evident, showing that the offer is not a compromise but a political move with harmful measures.
+
+Now, putting it all together in a coherent summary, making sure it's under 200 words and ends with the required tokens.
+</think>
+
+SUMMARY: President Trump offered a three-year extension for DACA and temporary protected status for some immigrants, initially framed as a compromise. However, the Senate Republicans' bill revealed harsh measures, such as banning asylum for Central American minors, capping asylum applications, and expanding detention, which critics view as "poison pills" aimed at immigration hard-liners. Democrats rejected the offer, citing its insufficiency and the need to end the government shutdown first. Activists and some conservatives criticized the bill as extreme and morally flawed. The Supreme Court's inaction on DACA kept protections in place, reducing Democratic incentive to accept Trump's offer. The bill, requiring 60 Senate votes, is seen as a political ploy rather than a genuine compromise, with its measures likely to fail. END OF SUMMARY.

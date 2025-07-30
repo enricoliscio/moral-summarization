@@ -1,0 +1,135 @@
+Okay, so the user has given me a query where I need to summarize a news article while preserving the moral framing. They also want me to first identify all the single words that are morally framed. Let me break this down.
+
+First, I need to understand what "morally framed" words mean. These are words that carry a moral judgment or implication, such as "egocentric," "false prophet," or "dangerous." They convey a value judgment rather than just factual information.
+
+Looking at the article, I'll go through each sentence and pick out words that have a moral connotation. For example, "f***ing" is a strong term, but since it's an expletive, maybe it's more emotional than moral. "Egocentric" definitely fits because it's about self-centeredness. "False prophet" implies deception. "Stupid" is a negative judgment. "Dangerous" is another clear moral word. "Crazy" also carries a negative connotation. "Host" might not be moral, but "hosting" in the context of nation is more about support. "Immigrant" is neutral, but in context, it's about rights, which is a moral issue. "Damage" is negative. "Ill-advised" is a judgment on the action's wisdom. "Vast majority" is more descriptive but could imply correctness. "Represent" is neutral. "View" is neutral. "Vast" is descriptive. "Correctness" is moral.
+
+Wait, maybe I should focus on words that explicitly carry moral judgment. So, "f***ing" is more of an expletive, but in the context, it's an emotional response. "Egocentric" is definitely a moral term. "False prophet" is a strong moral statement. "Stupid" is a negative judgment. "Dangerous" is a clear moral term. "Crazy" is a negative judgment. "Host" isn't moral. "Immigrant" is neutral, but in the context of rights, it's moral. "Damage" is negative. "Ill-advised" is a moral judgment. "Vast majority" is descriptive but implies correctness. "Represent" is neutral. "View" is neutral. "Vast" is descriptive. "Correctness" is a moral term.
+
+So, compiling the list, I think the key morally framed words are: egocentric, false prophet, stupid, dangerous, crazy, immigrant, damage, ill-advised, vast, represent, view, vast, correctness.
+
+Wait, maybe I'm overcomplicating. Let me go through the article again.
+
+"Former Mexican President Vincente Fox made it loud and clear that he won’t be chipping in for any part of Donald Trump’s proposed wall... 'I’m not going to pay for that f***ing wall!’ Fox told Jorge Ramos... 'He should pay for it. He’s got the money.' While Fox said that he believes that Americans will not elect the real estate tycoon to the White House, he is concerned about the results of the Nevada caucus, in which, according to entrance polls, Trump won 44 percent of the Hispanic vote. 'I would like to know who those Hispanics are, because they are followers of a false prophet,' Fox said. 'He’s going to take them to the desert, and if they think that they will benefit with an administration led by Donald Trump, they’re wrong. They must open their eyes. Please, you Hispanics in the U.S. – open your eyes.' Fox added, 'It is not to defend our race, it is not to defend our creed, but to defend the same nation that is hosting you. This nation is going to fail if it falls into the hands of a crazy man.' The former Mexican president... also questioned Trump’s allegiance to the Republican party... 'He’s not a Republican. Absolutely not,’ Fox said. ‘Those are not Republican principles. He is not a Democrat. He is just himself. He is egocentric.' The comments from Fox echo those of his successor, Felipe Calderón, who a week ago asserted that Mexico will not pay for a border wall. 'Mexican people, we are not going to pay a single cent for such a stupid wall! And it's going to be completely useless,’ Calderón told CNBC. For months, Trump has stood by his initial comments about building a border wall and getting Mexico to pay for it... 'I heard the head of Mexico said ‘no way,’ and I said, ‘Now the wall just got taller,’ Trump said. Fox’s interview on Fusion comes about 6 months after Ramos had his own very public skirmish with Trump... Ramos later returned and Trump took several of his questions. 'He tried to silence me,' the Mexican-born journalist told Fox News’ Megyn Kelly in August. 'And in this country, you cannot do that. I’m a citizen. I’m an immigrant. I’m a reporter. And I have the right in this country to ask any question I want, to whomever I want.' Ramos’ interview with Fox also occurred as U.S. Vice President Joe Biden paid a visit to Mexico for an economic summit. Biden made a thinly-veiled attack on Trump on Thursday, decrying the reality TV star’s "dangerous" rhetoric. "Some of the rhetoric coming from some presidential candidates of the other team are, I think, dangerous, damaging and incredibly ill-advised," Biden said... "I'm here to tell you: They do not, they do not, they do not represent the view of the vast majority of the American people.”
+
+So, the morally framed words are:
+
+- f***ing (though it's an expletive, it's used to express strong disapproval)
+- egocentric
+- false prophet
+- stupid
+- crazy
+- dangerous
+- damaging
+- ill-advised
+- vast
+- represent
+- view
+- vast majority
+- correctness
+
+Wait, "correctness" isn't in the article. Maybe I misread. Let me check. No, the article doesn't mention "correctness." So, the list should exclude that.
+
+So, the list is:
+
+- f***ing
+- egocentric
+- false prophet
+- stupid
+- crazy
+- dangerous
+- damaging
+- ill-advised
+- vast
+- represent
+- view
+- vast majority
+
+But "f***ing" is an expletive, so maybe it's more about emotion than morality. The user might not want that. So, I'll exclude it.
+
+Now, compiling the list without "f***ing":
+
+* egocentric
+* false prophet
+* stupid
+* crazy
+* dangerous
+* damaging
+* ill-advised
+* vast
+* represent
+* view
+* vast majority
+
+Wait, "vast majority" is two words, but the user said single words. So, "vast" is one word, "majority" is another. But the user wants single words, so "vast" and "majority" separately. But in the article, it's "vast majority" as a phrase. So, maybe "vast" and "majority" are separate, but in the context, "vast majority" is a single concept. However, the user specified single words, so I should list each word individually.
+
+So, the list would be:
+
+* egocentric
+* false
+* prophet
+* stupid
+* crazy
+* dangerous
+* damaging
+* ill
+* advised
+* vast
+* represent
+* view
+* vast
+* majority
+
+Wait, but "false prophet" is two words, so each word is "false" and "prophet." Similarly, "ill-advised" is two words: "ill" and "advised." So, each of these would be separate.
+
+But the user's instruction was to identify all the single words that are morally framed. So, each word individually, even if part of a phrase.
+
+So, the list would be:
+
+* egocentric
+* false
+* prophet
+* stupid
+* crazy
+* dangerous
+* damaging
+* ill
+* advised
+* vast
+* represent
+* view
+* vast
+* majority
+
+Wait, but "prophet" alone isn't necessarily moral, but in the context of "false prophet," it's a moral term. Similarly, "advised" alone isn't moral, but "ill-advised" is. So, perhaps only the phrases are moral, but the user wants single words. So, maybe "false," "prophet," "ill," "advised" are separate.
+
+But I think the user wants the words that are part of the moral framing, even if they are part of a phrase. So, I'll include them as separate entries.
+
+Now, moving on to the summary. I need to preserve as many morally framed words as possible. The summary should be concise, under 200 words, and include the key points: Fox's refusal to pay for the wall, his criticism of Trump, the Hispanic vote, Biden's criticism, and the ongoing debate.
+
+I'll structure the summary to include Fox's strong language, the concern about the Hispanic vote, the characterization of Trump as a false prophet and egocentric, Calderón's statement, Trump's response, Ramos's experience, and Biden's attack on Trump's rhetoric.
+
+I need to make sure to include the morally framed words like egocentric, false prophet, stupid, crazy, dangerous, damaging, ill-advised, vast, represent, view, vast majority.
+
+Putting it all together, the summary should flow naturally while incorporating these terms.
+</think>
+
+**STEP 1:**  
+* egocentric  
+* false  
+* prophet  
+* stupid  
+* crazy  
+* dangerous  
+* damaging  
+* ill  
+* advised  
+* vast  
+* represent  
+* view  
+* vast  
+* majority  
+
+**SUMMARY:**  
+Former Mexican President Vicente Fox firmly opposes Donald Trump's proposed border wall, calling it "stupid" and refusing to contribute funds. Fox criticized Trump, labeling him an "egocentric" and "false prophet," warning Hispanics not to support him, as Trump's administration would harm the nation. Fox also accused Trump of lacking Republican principles and being unfit for leadership. His successor, Felipe Calderón, echoed this stance, stating Mexico would not pay for the wall, calling it "useless." Trump responded by doubling down on his plan. Meanwhile, journalist Jorge Ramos recounted his confrontation with Trump, emphasizing the importance of press freedom. U.S. Vice President Joe Biden condemned Trump's "dangerous" rhetoric, asserting it does not represent the "vast majority" of Americans. The debate over the wall and Trump's leadership continues to divide opinions.  
+**END OF SUMMARY.**

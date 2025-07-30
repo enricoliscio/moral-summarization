@@ -1,0 +1,16 @@
+<think>
+Okay, so I need to help the user by summarizing a news article while preserving the moral framing. The user provided the article and a list of morally framed words. My task is to create a concise summary, up to 200 words, using as many of those words as possible.
+
+First, I'll read through the article to understand the main points. The article is about Devin Kelley, a former Air Force serviceman who committed a mass shooting in Texas. He had a history of domestic violence, escaped from a mental hospital, and had a troubled background. The key moral issues are his violent past, the failure of the system to prevent him from purchasing guns, and the tragic consequences of the shooting.
+
+I need to make sure to include the morally charged words like "shooting," "violence," "convicted," "sneaking," "threats," etc. I should structure the summary to highlight Kelley's background, the system's failure, and the resulting tragedy.
+
+I'll start by introducing Kelley as the gunman, mention his escape from the mental hospital, his violent past, and the failed background checks. Then, I'll note the consequences of the shooting and the legislative response. I'll end with the debate over gun laws and the system's weaknesses.
+
+I need to keep it under 200 words, so I'll be concise but make sure all key moral points are covered. I'll check each sentence to see if it includes the necessary words and conveys the moral framing effectively.
+
+Finally, I'll review the summary to ensure it flows well and accurately reflects the article's content while emphasizing the moral aspects.
+</think>
+
+SUMMARY:  
+Devin Kelley, the gunman responsible for the deadliest mass shooting in Texas history, had a violent past marked by domestic violence convictions, mental disorders, and behavioral issues. He escaped from a mental hospital in 2012, where he was flagged as a danger to others for sneaking firearms and making death threats. Despite his criminal record, Kelley legally purchased firearms after passing background checks, due to a failure by the Air Force to report his conviction to a federal database. Kelley killed 26 people, including an unborn child, and wounded 20 others during the attack on a church in Sutherland Springs. His troubled history included suspensions for drugs, insubordination, and dishonesty, as well as threatening text messages to his mother-in-law. The case has reignited debates over gun ownership, stricter background checks, and legislative efforts to block domestic violence offenders from purchasing firearms. Kelley’s rampage exposed weaknesses in the system, highlighting the need for improved screening and accountability. END OF SUMMARY.

@@ -1,0 +1,63 @@
+Okay, I need to help the user by summarizing a news article while preserving the moral framing. The user provided a detailed article about ICE's Priority Enforcement Program (PEP) and its issues. 
+
+First, I'll tackle Step 1: Identifying morally framed words. I'll go through the article and pick out words that carry a moral connotation. Words like 'holds', 'expedite', 'deportation', 'criminal aliens', 'target','missing', 'priority', 'expedited', 'worst of the worst', 'deportations', 'humanitarian crisis', 'arrested', 'convictions', 'dropped', 'deportation proceedings', 'federal', 'detention', 'felonies','misdemeanor','resources', 'public safety', 'national security', 'community', 'policing','secure', 'victims','report', 'picked up', 'declined','sanctuary city','separate', 'net immigration', 'working', 'executive orders', 'deportations', 'protections','sued', 'details', 'differ', 'predecessor', 'name change','request', 'custody', 'illegal', 'convicted','security risk', 'joke'.
+
+Next, I'll write the summary. I need to keep it under 200 words and include as many of those moral terms as possible. The summary should highlight the main issues: the program's failure to target only serious criminals, ICE detaining people without convictions, the humanitarian impact, and the criticism from advocates.
+
+I'll start by mentioning the report's findings about the holds on people without convictions. Then, I'll note the most common offenses and ICE's claims versus the reality. I'll include the impact on communities, the example of Maria Sotomayor, the sanctuary cities, and the legal challenges. Finally, I'll conclude with the criticism that PEP hasn't changed much from the previous program.
+
+I need to ensure the summary flows well and covers all key points while using the moral language from the article. I'll make sure each sentence conveys the intended moral judgment without adding my own opinions.
+</think>
+
+**STEP 1:**  
+* holds  
+* expedite  
+* deportation  
+* criminal aliens  
+* target  
+* missing  
+* priority  
+* expedited  
+* worst of the worst  
+* deportations  
+* humanitarian crisis  
+* arrested  
+* convictions  
+* dropped  
+* deportation proceedings  
+* federal  
+* detention  
+* felonies  
+* misdemeanor  
+* resources  
+* public safety  
+* national security  
+* community  
+* policing  
+* secure  
+* victims  
+* report  
+* picked up  
+* declined  
+* sanctuary city  
+* separate  
+* net immigration  
+* working  
+* executive orders  
+* deportations  
+* protections  
+* sued  
+* details  
+* differ  
+* predecessor  
+* name change  
+* request  
+* custody  
+* illegal  
+* convicted  
+* security risk  
+* joke  
+
+**SUMMARY:**  
+A report reveals that the Priority Enforcement Program (PEP), intended to expedite the deportation of "criminal aliens," is failing to target only the "worst of the worst." Half of the "holds" placed on immigrants were for individuals arrested but without criminal convictions, including those with dropped charges or minor offenses like drunk driving or traffic violations. Despite ICE claiming PEP focuses on public safety and national security, data shows it now targets people without criminal records at a higher rate. Critics argue the program undermines community trust, as immigrants may avoid reporting crimes due to fear of detention. Sanctuary cities, which refuse to cooperate with ICE, highlight the tension between immigration enforcement and public safety. Advocates suspect PEP is merely a rebranded version of its predecessor, with new detainer forms allowing ICE to detain non-convicted immigrants, raising concerns about fairness and effectiveness. The program's humanitarian impact and failure to prioritize serious offenders have sparked legal challenges and criticism.  
+**END OF SUMMARY.**

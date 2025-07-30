@@ -1,0 +1,22 @@
+Okay, so I need to help the user with their query. They provided a news article about same-sex couples being allowed to file joint federal tax returns. The task is to first identify all the morally framed words and then write a summary preserving those moral frames.
+
+First, I'll read through the article carefully to spot any words that carry moral connotations. Words like "allowed," "benefits," "discriminatory," "equality," "lawlessness," "discrimination," and "justice" come to mind. These words are used to convey the moral stance of the parties involved.
+
+Next, I need to summarize the article. I'll make sure to include the key points: the IRS and Treasury's announcement, the Supreme Court's decision, the impact on same-sex couples regardless of their state, the benefits they now have, and the reactions from different groups. I'll also incorporate the morally framed words to maintain the original tone.
+
+I should keep the summary concise, under 200 words, and structure it clearly. I'll start with the main announcement, then mention the Supreme Court ruling, followed by the implications and reactions. Ending with the positive outcome for equality ties it all together.
+
+I need to ensure that the summary flows well and accurately reflects the moral perspectives presented in the article. I'll avoid any technical jargon and keep it straightforward, making sure it's easy to understand while preserving the moral framing.
+</think>
+
+**STEP 1:**  
+* Allowed  
+* Benefits  
+* Discriminatory  
+* Equality  
+* Lawlessness  
+* Discrimination  
+* Justice  
+
+**SUMMARY:**  
+The IRS and Treasury Department have announced that legally married same-sex couples can now file federal joint tax returns, granting them the same benefits as heterosexual couples. This decision follows the U.S. Supreme Court’s overturning of part of the Defense of Marriage Act. The new rules apply to all legally married same-sex couples, regardless of their state of residence, though they do not extend to domestic partnerships or civil unions. Treasury Secretary Jacob Lew and Human Rights Campaign President Chad Griffin praised the ruling, stating it ensures equality and access to crucial tax benefits for same-sex couples nationwide. However, critics like Brian Brown of the National Organization of Marriage argue the decision promotes "lawlessness" and forces same-sex marriage on the public, claiming only Congress should determine federal tax law. The ruling marks a significant step toward equality, though opposition persists. END OF SUMMARY.

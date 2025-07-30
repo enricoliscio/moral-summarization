@@ -1,0 +1,18 @@
+Alright, I need to help the user by summarizing the given news article while preserving the moral framing, especially focusing on the word "stolen." Let me start by reading the article carefully.
+
+The article is about Donald Trump's inauguration, detailing his journey from announcing his candidacy to becoming president. It mentions his background as a real estate developer and TV star, his primary wins against experienced candidates, and his general election strategy.
+
+I notice the author uses "stolen" to describe the Democratic emails hacked by Russians. This word carries a negative moral connotation, so I must include it in the summary.
+
+Next, I'll outline the key points: Trump's inauguration, his background, primary victory, general election challenges, the role of stolen emails, Comey's action, and the narrow wins in key states.
+
+I need to condense this into a concise summary, ensuring it's under 200 words. I'll start by stating Trump became president, mention his background, his primary win, the stolen emails, Comey's role, and the election results.
+
+I should make sure the summary flows logically and includes all important details without losing the moral aspect. Also, I need to end with the specified tokens.
+
+Let me draft the summary, making sure it's clear and meets the word limit. I'll check to ensure "stolen" is included and that the moral framing is preserved.
+</think>
+
+SUMMARY:  
+Donald Trump became the 45th U.S. president on Friday, 584 days after announcing his candidacy. His journey from a New York real estate developer and reality TV star to the nation's highest office was marked by an unlikely rise. Trump won the Republican nomination over 16 other candidates, capitalizing on a primary base angered at the GOP establishment's failure to oppose President Barack Obama's policies. In the general election, he trailed Democratic nominee Hillary Clinton but benefited from the near-daily release of stolen Democratic Party emails by Russian hackers and FBI Director James Comey's decision to reopen the investigation into Clinton's private email server. Trump narrowly won Wisconsin, Michigan, and Pennsylvania by a combined 78,000 votes, defying Clinton's expectations.  
+END OF SUMMARY.

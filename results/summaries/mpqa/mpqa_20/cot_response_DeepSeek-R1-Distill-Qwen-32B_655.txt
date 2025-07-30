@@ -1,0 +1,37 @@
+Okay, so the user has given me a query where I need to act as a news summarizer assistant and a moral expert. They provided a news article about Zimbabwe's election and the response from South Africa and Nigeria. The task is to first identify all the single words that are morally framed and then write a summary preserving those moral framings.
+
+First, I need to understand what morally framed words are. These are words that carry a moral judgment, like "punish," "courageous," or "desperation." They indicate approval or disapproval.
+
+Looking at the article, I'll go through each sentence to spot these words. For example, "punish" is used when South Africa and Nigeria decide to isolate Zimbabwe. "Courageous" describes their stand. "Promise" is about the commitment to aid. "Flawed" refers to the election, which is a negative judgment. "Fair" is used in the context of elections and compensation. "Isolation" is a negative action. "Initiated" shows leadership. "Model" implies a good example. "Poverty-reducing" is positive. "Hope" is optimistic. "Repression" is negative. "Desperation" is a negative state. "Condoned" relates to disapproval. "Stature" shows respect. "Despair" is negative. "Opprobrium" is a strong disapproval. "Lashed out" is aggressive. "Compromise" is positive. "Disgust" is negative.
+
+Next, I need to write a summary that includes as many of these words as possible without exceeding 200 words. The summary should reflect the moral framing, so I'll highlight the actions and judgments made by the leaders and the international community.
+
+I'll start by mentioning the rigged election and the actions taken by South Africa and Nigeria. Then, I'll talk about the grand bargain and the importance of governance. I'll include Mbeki's hope for compromise and the criticism of Mugabe's actions. I'll also note the trade unions' strike and Mugabe's desperation. Finally, I'll conclude with the hope for economic renewal and democracy.
+
+I need to ensure the summary flows well and includes all key points while preserving the moral tone. I'll make sure each sentence reflects the positive or negative judgments from the original text.
+</think>
+
+**STEP 1:**  
+* Punish  
+* Courageous  
+* Promise  
+* Flawed  
+* Fair  
+* Isolation  
+* Initiated  
+* Model  
+* Poverty-reducing  
+* Hope  
+* Repression  
+* Desperation  
+* Condoned  
+* Stature  
+* Despair  
+* Opprobrium  
+* Lashed out  
+* Compromise  
+* Disgust  
+
+**SUMMARY:**  
+Zimbabwe's rigged election last week highlighted the need for better governance and democracy in Africa. South Africa and Nigeria, Africa's richest nations, courageously decided to isolate Zimbabwe for its flawed election, renewing a grand bargain where aid and investment depend on improved governance. This move, led by South Africa's President Thabo Mbeki and Nigeria's President Olusegun Obasanjo, aligns with the New Partnership for Africa's Development, a model for poverty reduction. Without fair elections and the rule of law, aid alone cannot help Africa. Mbeki hopes to work with Zimbabwe to prevent violence and find political compromise, while pressing Mugabe to stop repression and provide just compensation for land seizures. Zimbabwe's opposition demands a new election for a unity government, reflecting widespread disgust with Mugabe's tactics. Mugabe's desperation, including charging opposition leader Morgan Tsvangirai, should not be condoned. Mbeki's stand brings hope for African economic renewal and greater democracy.  
+**END OF SUMMARY.**

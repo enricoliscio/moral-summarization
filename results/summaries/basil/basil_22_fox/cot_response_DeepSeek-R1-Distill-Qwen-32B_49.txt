@@ -1,0 +1,22 @@
+Okay, I need to help the user by summarizing the news article while preserving the moral framing. Let me break down the steps they've asked for.
+
+First, I should identify all the single words that are morally framed in the article. I'll go through the text and look for words that carry a strong moral connotation. Words like "misused," "decimates," "weakens," "gut," "preferential," "protection," "justice," and "opportunity" stand out because they relate to moral judgments or principles.
+
+Next, I need to write a concise summary that includes as many of these morally framed words as possible. The summary should be under 200 words and capture the essence of the article. I'll start by stating that Georgetown professors are criticizing Ryan for misusing Catholic doctrine. Then, I'll mention the specific criticisms about the budget cutting programs and giving tax breaks to the wealthy. I'll include Ryan's defense using subsidiarity and his response to the criticism. Finally, I'll note that the event is still scheduled.
+
+I should ensure the summary flows well and includes all key points while maintaining the moral tone. Let me put it all together, making sure it's within the word limit and properly formatted with the tokens as specified.
+</think>
+
+**STEP 1:**  
+* Misused  
+* Decimates  
+* Weakens  
+* Gut  
+* Preferential  
+* Protection  
+* Justice  
+* Opportunity  
+
+**SUMMARY:**  
+GOP Rep. Paul Ryan faces criticism from Georgetown University professors for allegedly misusing Catholic doctrine to support his budget plan. The letter accuses Ryan of misappropriating the principle of subsidiarity, arguing it does not justify gutting government programs that protect the poor. Ryan defends his budget, emphasizing subsidiarity as a call for local solutions and rejecting claims of misusing Catholic teachings. The professors argue that higher levels of government are required to ensure justice for the vulnerable. Ryan maintains the event is still scheduled, reiterating his commitment to a preferential option for the poor, though not for bigger government. The debate highlights tensions over balancing fiscal responsibility with social justice.  
+**END OF SUMMARY.**

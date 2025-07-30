@@ -1,0 +1,19 @@
+Okay, so I'm trying to help the user with their query. They want a summary of a news article that's been provided, but with a specific focus on preserving the moral framing the author used. The user also provided a list of morally framed words that should be included in the summary.
+
+First, I need to read the article carefully. The article discusses the importance of law enforcement in maintaining civilization and legality. It uses examples like migrant caravans, campus protests, celebrity threats, and political disruptions to argue that when laws aren't enforced, it leads to chaos and sets a bad precedent.
+
+The user wants the summary to include as many of the specified morally framed words as possible. I need to make sure I incorporate words like enforcement, civilization, legality, obey, comply, stealing, unpunished, greenlights, etc. The summary should be concise, under 200 words, and end with the specified tokens.
+
+I should structure the summary by highlighting the main points: the role of law enforcement, the consequences of not enforcing laws, examples given, and the potential for anarchy if laws are ignored. I'll need to ensure each point uses the moral terms effectively.
+
+Let me start by outlining the key points:
+1. Law enforcement is crucial for civilization and legality.
+2. Examples of unenforced laws leading to problems (migrant caravans, protests, celebrity threats).
+3. Consequences of ignoring laws (weakened legal system, sanctuary cities, etc.).
+4. The importance of deterrence and the role of law enforcement in maintaining order.
+
+Now, I'll draft the summary, making sure to include the moral terms and keep it within the word limit. I'll check each sentence to ensure it captures the essence while using the specified words.
+</think>
+
+SUMMARY:  
+The article emphasizes the importance of law enforcement in maintaining civilization and legality. It argues that fear of punishment, not just moral character, ensures compliance with laws. Unpunished violations, such as those in "sanctuary cities" or the presence of undocumented immigrants, weaken the rule of law and greenlight further illegal actions, like the Central American migrant caravan. Similarly, campus protests turning violent and going unpunished set a dangerous precedent, as do celebrities fantasizing about harming the president without consequences. The author warns that ignoring laws, even for high-profile figures, erodes deterrence and fosters anarchy. They stress that without enforcement, the Bill of Rights and other legal protections mean little. The article highlights how legal laxity, driven by political polarization, risks creating a culture where laws are selectively enforced or ignored, leading to chaos and illegality. END OF SUMMARY.

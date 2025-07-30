@@ -1,0 +1,18 @@
+Alright, so I need to help the user by summarizing this news article while preserving the moral framing. Let me read through the query again to make sure I understand it correctly. The user provided a news article about Rick Santorum's comments regarding President Obama's policies and theology. They want a summary that's under 200 words, starts with "SUMMARY:" and ends with "END OF SUMMARY." Also, it's important to keep the moral framing as the author presented it.
+
+First, I'll break down the key points from the article. Santorum criticized Obama's environmental policies, calling them a "phony theology." He clarified he wasn't questioning Obama's Christianity but rather the policies that prioritize the Earth over people. The Obama campaign responded, calling his remarks an affront and urging a focus on policy debates without attacking character or faith.
+
+I need to make sure the summary captures Santorum's argument about environmental policies, his clarification on Obama's faith, and the Obama campaign's strong response. It's also important to note the context of the Republican primary and the tone of the campaign.
+
+I should structure the summary to first state Santorum's criticism, then his clarification, followed by the Obama campaign's reaction. I'll keep each sentence concise to stay within the word limit. I'll avoid adding my own opinions and stick to the facts presented.
+
+Let me draft a few sentences. Santorum criticized Obama's policies, not his faith. He argued against prioritizing Earth over humans. The Obama campaign called his remarks inappropriate and urged a focus on policy. They emphasized the contrast between Santorum's approach and Obama's focus on jobs and economy.
+
+I need to ensure that the moral framing is preserved, so I'll highlight the debate over policy versus personal attacks. Also, mention that Santorum's comments were part of a negative and divisive primary race.
+
+I should check the word count to make sure it's under 200. Let me count the words in my draft. It seems to fit. I'll make sure the summary flows logically and covers all key points without being too verbose.
+
+Finally, I'll format it correctly with the "SUMMARY:" and "END OF SUMMARY." tokens. I think that covers everything the user asked for. Time to put it all together.
+</think>
+
+SUMMARY: Rick Santorum criticized President Obama's environmental policies, calling them a "phony theology," but clarified he was not questioning Obama's Christianity. Instead, he argued against the idea that humans should prioritize the Earth over their own welfare, labeling it a radical environmentalist worldview. Santorum accused Obama of advancing policies that centralize government power under the guise of environmentalism, not biblical principles. The Obama campaign strongly condemned Santorum's remarks, calling them a personal affront and urging a focus on policy debates rather than attacking faith or character. Santorum's comments were part of a broader Republican primary race marked by negativity and divisiveness, according to the Obama campaign. Santorum maintained he was targeting Obama's worldview, not his faith, but his rhetoric highlighted a growing ideological divide in the race. END OF SUMMARY.

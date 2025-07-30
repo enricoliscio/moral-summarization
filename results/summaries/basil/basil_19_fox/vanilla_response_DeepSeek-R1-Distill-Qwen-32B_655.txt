@@ -1,0 +1,14 @@
+Alright, so the user has provided a news article about Donald Trump stepping down as a moderator for a Republican debate. They want me to summarize it, but they've given specific instructions. Let me break this down.
+
+First, the user is acting as a news summarizer assistant. Their main goal is to condense the article into a concise summary. The article is quite detailed, so I need to identify the key points.
+
+The main points are Trump's decision to step down as moderator, his reason being a potential third-party run, the candidates' concerns, and the impact on the debate. I should include that he's considering an independent bid if the economy is bad and Republicans pick a wrong candidate. Also, mention that some candidates withdrew, and Trump praised Gingrich and Santorum for attending.
+
+I need to keep it under 200 words and structure it with the "SUMMARY:" and "END OF SUMMARY." tokens. I should make sure the summary is clear and captures all essential details without being too verbose.
+
+Let me start by outlining the key elements: Trump's withdrawal, his reason for no conflict, candidates' concerns, the debate's sponsorship, and his future plans. I'll ensure each point is succinctly covered.
+
+Now, putting it all together in a coherent summary, making sure it flows well and meets the word limit. I'll check each sentence to ensure it's necessary and concise. Once done, I'll review to make sure it's within the word count and properly formatted with the tokens.
+</think>
+
+SUMMARY: Donald Trump has withdrawn as moderator for a Republican presidential debate on December 27, citing a potential conflict of interest if he decides to run as a third-party candidate next year. Trump, who is considering an independent bid, stated that he wants to keep his options open, especially if the Republicans choose what he deems the "wrong candidate." Despite his decision, Trump emphasized his desire for Republicans to select the "right" candidate to defeat the Obama administration. Several Republican candidates initially agreed to attend the debate, but others withdrew due to concerns about Trump's potential third-party run. Trump praised Newt Gingrich and Rick Santorum for their courage in attending the debate. He also expressed confidence that the debate would have been successful, but now doubts it will proceed without his involvement. Trump remains undecided on his political future, signaling his intent to evaluate the situation further. END OF SUMMARY.

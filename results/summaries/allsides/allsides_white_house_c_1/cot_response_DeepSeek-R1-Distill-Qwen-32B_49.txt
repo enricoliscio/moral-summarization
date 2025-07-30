@@ -1,0 +1,41 @@
+Alright, so the user has given me a task to summarize a news article while preserving the moral framing. They also want me to identify all the morally framed words first. Let me break this down.
+
+First, I need to read the article carefully. It's about President Trump's comments regarding immigration, specifically using a vulgar term to describe certain countries. The article mentions criticism from lawmakers, human rights officials, and other countries. There are quotes from various politicians denouncing his remarks as racist and shameful.
+
+For step one, I need to identify single words that carry a moral judgment. Words like "vulgar," "derogatory," "shameful," "abhorrent," "unpresidential," "condemnation," "ignorance," "prejudice," "racism," "unkind," "divisive," "elitist," "shocking," "chain migration," "oppose," "fair," "sweetheart deal," "ire," "abhorrent," "repulsive." These words are used to convey negative moral assessments.
+
+Next, I have to summarize the article, making sure to include as many of these morally charged words as possible. The summary should be concise, under 200 words, and highlight the key points: Trump's denial, the criticism from various groups, the impact on immigration negotiations, and the reactions from lawmakers and international figures.
+
+I should structure the summary to flow logically: start with Trump's comments, move to the reactions, then the implications for DACA and immigration policies, and end with the political fallout and internal Republican responses.
+
+I need to ensure that the moral framing is preserved, so using words like "shameful," "racist," "condemnation," etc., will be crucial. Also, mentioning the specific criticisms from lawmakers and the UN will add depth to the summary.
+
+I should avoid adding any personal opinions and stick strictly to summarizing the article's content, making sure to capture the essence of the moral arguments presented by different parties.
+
+Finally, I'll present the summary after the "SUMMARY:" token, keeping it clear and within the word limit.
+</think>
+
+**STEP 1:**  
+* Vulgar  
+* Derogatory  
+* Shameful  
+* Abhorrent  
+* Unpresidential  
+* Condemnation  
+* Ignorance  
+* Prejudice  
+* Racism  
+* Unkind  
+* Divisive  
+* Elitist  
+* Shocking  
+* Chain migration  
+* Oppose  
+* Fair  
+* Sweetheart deal  
+* Ire  
+* Abhorrent  
+* Repulsive  
+
+**SUMMARY:**  
+President Trump faced widespread criticism after reports emerged that he used a vulgar term to describe Haiti, El Salvador, and African countries during a DACA meeting. Trump denied using derogatory language, redirecting focus to what he called "outlandish" Democratic proposals on immigration. Critics, including lawmakers and human rights officials, condemned his comments as shameful, abhorrent, and racist. Rep. Mia Love, a daughter of Haitian immigrants, called his remarks unkind, divisive, and elitist. The governments of Haiti and El Salvador demanded explanations, while the UN labeled the comments shocking and racist. Trump rejected a bipartisan DACA proposal, blaming Democrats for blocking a merit-based immigration system. Some Democrats accused him of opposing legal immigration from predominantly black and brown countries. Republicans were divided, with Sen. Rubio highlighting contributions from Haitian immigrants and Sen. Flake denouncing Trump's language as abhorrent. The political fallout overshadowed negotiations, risking a government shutdown. END OF SUMMARY.

@@ -1,0 +1,33 @@
+Okay, I need to tackle this query. The user wants me to act as a news summarizer and moral expert. They provided a news article about Obama's team reacting to the Republican National Convention. The task has two parts: first, identify all the morally framed single words, and second, summarize the article while preserving those moral terms.
+
+Starting with the first step, I need to read through the article and pick out words that carry a moral connotation. Words like "disappointment," "spinning," "mock," "berth certificate," "European socialist," "nightmare," "unfulfilled potential," "shiver," "strategic," "body blow," "momentum," "softening," "appealing," "role model," "protect," "unique opportunities," "afforded." I'll list these each on a new line with an asterisk.
+
+For the summary, I need to condense the article, making sure to include these moral terms. The key points are Obama's team dismissing the convention, the Republicans shifting their strategy to focus on disappointment, using Romney and Rubio's statements, and highlighting their candidates' positive attributes. I'll structure the summary to show the strategic shift and its impact on Obama's campaign.
+
+I should keep the summary under 200 words, ensuring it's concise yet comprehensive. I'll start by stating Obama's team's dismissal, then explain the GOP's new approach, include the quotes, and conclude with the convention's overall effect on the campaign dynamics.
+
+Let me make sure I include all the morally framed words without making the summary too wordy. I'll check each sentence to ensure it flows naturally and stays within the word limit. Once done, I'll present the summary after the specified tokens.
+</think>
+
+**STEP 1:**  
+* disappointment  
+* spinning  
+* mock  
+* birth certificate  
+* European socialist  
+* nightmare  
+* unfulfilled potential  
+* shiver  
+* strategic  
+* body blow  
+* momentum  
+* softening  
+* appealing  
+* role model  
+* protect  
+* unique opportunities  
+* afforded  
+
+**SUMMARY:**  
+Obama’s team dismissed the Republican National Convention in Tampa as a failure, arguing that Republicans failed to make an impact. However, the GOP shifted their strategy to focus on disappointment, suggesting that Obama had not fulfilled his 2008 promises. Mitt Romney and Marco Rubio criticized Obama’s record, with Romney highlighting his lack of progress on key issues and Rubio emphasizing that the problem was not Obama’s character but his presidency. The Republicans avoided direct attacks and instead adopted a more subtle, strategic approach, aiming to shift momentum and soften Obama’s image. The convention also featured positive messages, such as Paul Ryan’s appeal to protect Medicare and Rubio’s emphasis on the opportunities America provides. While the GOP’s tone was more restrained, their focus on disappointment posed a significant challenge to Obama’s campaign.  
+**END OF SUMMARY.**

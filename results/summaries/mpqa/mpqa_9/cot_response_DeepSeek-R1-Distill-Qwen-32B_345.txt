@@ -1,0 +1,32 @@
+Alright, I need to help the user by summarizing a news article while preserving the moral framing. First, I should understand the task. The user wants me to act as a news summarizer and a moral expert. They provided a news article about US and EU climate policies, specifically comparing the US proposals to the Kyoto Protocol.
+
+The user has given specific instructions: first, identify all morally framed words in the article, each on a new line starting with a star. Then, write a concise summary using those words, keeping it under 200 words.
+
+Looking at the article, I notice several words that carry moral connotations. Words like "domestic," "concerned," "sufficient," "effective," "voluntary," "mandatory," "flexibility," "determined," "optimistic," and "examine" stand out. These words frame the actions and policies in a moral context, indicating approval or disapproval.
+
+Next, I need to summarize the article. I should start by stating that the US proposals are domestic, which the EU is concerned about. Highlight that the EU prefers the Kyoto Protocol's approach, which requires absolute reductions. Mention the US's 1992 Convention commitment and how their new plan doesn't meet that. Note the EU's criticism of the voluntary nature and lack of early review. Also, point out the EU's use of cap-and-trade and their determination to ratify Kyoto. Conclude with the EU's willingness to continue dialogue with the US.
+
+I need to ensure the summary includes as many of the identified moral words as possible without making it too long. I'll structure it to flow logically, starting with the US proposals, EU concerns, comparison to Kyoto, US commitments, EU's approach, and their determination and optimism. I'll end by mentioning the ongoing dialogue.
+
+I should double-check that each step is followed: first, list the moral words, then write the summary. Make sure the summary is concise and within the word limit. Also, ensure that the moral framing is preserved, using words like "concerned," "sufficient," "voluntary," etc., to maintain the original tone.
+
+Finally, I'll format the response as per the user's instructions, starting with STEP 1, listing the words, then the SUMMARY section, and ending with the tokens as specified. I need to make sure the summary is clear and captures the essence of the article while adhering to the moral framing.
+</think>
+
+### STEP 1:  
+* domestic  
+* concerned  
+* sufficient  
+* effective  
+* voluntary  
+* mandatory  
+* flexibility  
+* determined  
+* optimistic  
+* examine  
+
+---
+
+### SUMMARY:  
+The US proposals for climate action are domestic, but the EU is concerned they are insufficient to reduce emissions effectively. The US plan allows for increased absolute emissions, unlike the Kyoto Protocol, which requires industrialized countries to achieve absolute reductions. The 1992 Climate Change Convention, which the US has signed, mandates stabilizing greenhouse gas emissions at 1990 levels, a goal the US plan does not meet. The EU criticizes the voluntary nature of the US measures and the lack of early review. The EU prefers a cap-and-trade system, which it deems cost-effective and environmentally guaranteed, and plans to implement one covering 46% of its CO2 emissions by 2005. While the EU welcomes the US policy review, it remains skeptical about whether the proposals match the effort required under the Kyoto Protocol. The EU is determined to ratify the Kyoto Protocol by June 2002 and hopes other major players like Japan and Russia will join its efforts. The EU will continue to assess the US proposals and engage in dialogue.  
+END OF SUMMARY.

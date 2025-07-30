@@ -1,0 +1,18 @@
+<think>
+Okay, so I need to help the user by summarizing the given news article while preserving the moral framing. The user is a news summarizer assistant and a moral expert, so they want the summary to reflect the ethical concerns presented in the original text. 
+
+First, I'll read through the article to understand the main points. It's about the Zimbabwean elections, the fear of violence, and the potential for rigging. Mugabe is the incumbent, and Tsvangirai is the challenger. There's a lot of tension, with fears of civil war, violence, and political manipulation.
+
+The user provided a list of morally charged words that need to be included. Words like "violence," "war," "rig," "died," "violations," etc. I need to make sure these are included in the summary.
+
+I'll start by identifying the key events: the elections, the fear of violence, the accusations of rigging, the military's stance, the deaths, human rights violations, the changes in election laws, and the potential for civil war.
+
+I should structure the summary to cover the main points succinctly. I'll mention the elections, the fear of civil war, the challenger's lead, the government's actions to rig the vote, the violence, the military's threat, the election law changes, and the overall tension.
+
+I need to keep it under 200 words, so I'll be concise but make sure to include all the morally framed words. I'll also ensure that the summary flows logically, connecting each point without being too verbose.
+
+Let me draft the summary step by step, making sure each key point is covered and the moral framing is preserved.
+</think>
+
+SUMMARY:  
+Zimbabweans fear violence and civil war as they prepare for elections to re-elect or oust President Robert Mugabe. Morgan Tsvangirai, the opposition leader, is ahead in surveys, but concerns over political violence, election rigging, and refusal to accept results are widespread. Senior government officials and military leaders have threatened to oppose Tsvangirai's rule, with one stating support for a coup if needed. At least 34 people have died in political violence this year, mostly MDC supporters. Mugabe's government has been accused of human rights violations, and ZANU-PF has allegedly revised election laws to rig the vote. Changes include increasing polling stations in rural areas and reducing them in urban areas, potentially disenfranchising young opposition supporters. Independent monitors are barred from key election processes. Tsvangirai has been charged with high treason, based on an edited videotape, and faces possible jailing if Mugabe loses. The election is seen as a contest between Mugabe's autocratic rule and the opposition's desire for change. Violence, corruption, and unemployment are key issues, with fears of martial law or mass protests if results are contested. Mugabe's government has also recalled soldiers from Congo, raising concerns about military involvement. The moral framing highlights violence, rigging, corruption, and the potential for civil war. END OF SUMMARY.

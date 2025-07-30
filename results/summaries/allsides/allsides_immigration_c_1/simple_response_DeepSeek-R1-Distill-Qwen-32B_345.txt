@@ -1,0 +1,14 @@
+Alright, so the user has given me a query where they want a summary of a news article. They specified that the summary should preserve the moral framing the author used. The article is about the Trump administration's new visa rules targeting "birth tourism." 
+
+First, I need to understand the key points of the article. It talks about the new rules making it harder for women to get tourist visas if their main purpose is to give birth in the U.S. for citizenship. The rules require proof of medical necessity and financial means. The administration's reasoning is about protecting national security, taxpayer money, and the integrity of citizenship. 
+
+I also notice that the article mentions the industry's lucrative nature and some critics' concerns about putting pregnant women at risk. There are no exact numbers on how many women are involved, but some estimates are provided.
+
+Now, the user wants a summary that's no longer than 200 words, starting with "SUMMARY:" and ending with "END OF SUMMARY." They also want the moral framing preserved. So, I should highlight the administration's stance on protecting citizenship integrity and national security, while also noting the industry's profitability and critics' concerns.
+
+I need to make sure the summary is concise, includes the main points, and reflects the moral perspective presented in the article. I'll structure it by first stating the new rules, then the administration's reasons, followed by the industry's context and critics' viewpoints.
+
+Let me draft this, keeping it within the word limit and ensuring clarity. I'll make sure to include all the essential elements without getting too detailed. Once done, I'll check the word count to ensure it's under 200 words.
+</think>
+
+SUMMARY: The Trump administration has introduced new visa rules targeting "birth tourism," where foreign women travel to the U.S. to give birth, granting their children U.S. citizenship. Under the rules, tourist visas will be denied if consular officers determine the primary purpose of the visit is childbirth. Applicants must prove a legitimate medical need and financial capacity to cover expenses. The administration argues this closes an immigration loophole, protecting national security and taxpayer funds. Critics warn the policy could put pregnant women at risk, as consular officers cannot inquire about pregnancy but must assess intent. Birth tourism, a profitable industry, involves companies charging up to $80,000 to facilitate citizenship for children. While the practice is legal, it has faced scrutiny for visa fraud and tax evasion. The rules aim to combat criminal activity linked to the industry, though scholars note birthright citizenship is constitutionally protected. END OF SUMMARY.

@@ -1,0 +1,42 @@
+Okay, I need to help the user by summarizing the news article they provided, focusing on the moral framing. First, I should understand what the user is asking for. They want me to act as a news summarizer assistant and a moral expert. My task is to summarize the article while preserving the moral framing the author used.
+
+The user has given specific instructions. They want me to first identify all the single words that are morally framed. Then, I need to write a summary that includes as many of those morally charged words as possible. The summary should be concise, no longer than 200 words, and structured with specific tokens like "SUMMARY:" and "END OF SUMMARY."
+
+Looking at the article, it's about Nebraska and Oklahoma filing a lawsuit against Colorado over marijuana legalization. The moral framing here likely involves terms like "unconstitutional," "prohibits," "undermined," "without merit," "premised on," "infringe," "consequences," "violation," "vacuous," "bullies," "interfere," "dictate," "waste," "pick up the bill," "outrageous," "federalist," "benefit," "interference," "criminal organizations," and "wrong side of history."
+
+I need to make sure these words are included in the summary. The summary should capture the conflict between states, the legal arguments based on the Supremacy Clause, the reactions from different groups, and the broader implications of the lawsuit.
+
+I'll start by outlining the main points: the lawsuit, the arguments from both sides, the implications of the Supreme Court's potential ruling, and the reactions from various stakeholders. Then, I'll weave in the morally framed words to highlight the ethical and legal tensions.
+
+I should ensure the summary flows logically, starting with the lawsuit, the arguments presented by each side, the consequences if the lawsuit succeeds, and the reactions from supporters and opponents of legalization. This structure will help maintain clarity while incorporating the necessary moral language.
+
+I also need to keep an eye on the word count to stay within 200 words. I'll make sure each sentence is concise and that each morally framed word is appropriately placed to convey the intended sentiment.
+
+Finally, I'll review the summary to ensure it accurately reflects the article's content and maintains the moral framing as required. This should meet the user's needs by providing a clear, concise, and morally charged summary of the news article.
+</think>
+
+**STEP 1:**
+
+* unconstitutional  
+* prohibits  
+* undermined  
+* without merit  
+* premised on  
+* infringe  
+* consequences  
+* violation  
+* vacuous  
+* bullies  
+* interfere  
+* dictate  
+* waste  
+* pick up the bill  
+* outrageous  
+* federalist  
+* benefit  
+* interference  
+* criminal organizations  
+* wrong side of history  
+
+**SUMMARY:**  
+Nebraska and Oklahoma filed a federal lawsuit against Colorado, arguing that Colorado's legalization of recreational marijuana is unconstitutional under federal law. They claim it violates the Supremacy Clause, as federal law prohibits marijuana. Colorado defends its laws, stating the suit is without merit and focuses on federal non-enforcement rather than state choices. Critics argue that Colorado's actions have consequences for neighboring states, while supporters view the lawsuit as an overreach. The case highlights tensions between state sovereignty and federal law, with implications for all state marijuana laws. If the Supreme Court rules against Colorado, it could unravel state legalization efforts. Proponents of reform argue that federal inaction has allowed states to legalize marijuana, but a new administration could change that. The debate reflects broader moral and legal disputes over marijuana policy, with opponents calling the lawsuit "outrageous" and supporters defending federal authority. END OF SUMMARY.

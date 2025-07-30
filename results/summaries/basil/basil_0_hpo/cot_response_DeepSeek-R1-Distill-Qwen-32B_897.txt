@@ -1,0 +1,26 @@
+Okay, I need to help the user by summarizing the given news article while preserving the moral framing. Let me start by understanding the task. The user wants me to first identify all the morally framed single words in the text, each on a new line with an asterisk. Then, I have to write a concise summary that includes as many of those moral terms as possible, keeping it under 200 words.
+
+Looking at the article, Glenn Beck's speech at CPAC 2010 is the focus. He's emphasizing the need for Republicans to maintain ideological purity. Words like "purity," "success," "failure," "addiction," "problem," "failure," "big tent," "clown show," and "circus" stand out as morally charged terms. These words carry strong connotations about right and wrong actions or states.
+
+Now, for the summary, I need to encapsulate Beck's main points. He's criticizing the GOP for not admitting their issues and advocating for a return to conservative principles. The summary should include the key moral words to maintain the author's framing. I'll structure it to highlight his call for purity, the 12-step analogy, and the rejection of a big tent strategy, all while contrasting with the Democrats.
+
+I should ensure the summary is clear and concise, not exceeding 200 words. I'll start by mentioning Beck's demand for Republicans to get their house in order, then touch on the purity and success themes. I'll include the 12-step analogy and his rejection of the big tent approach, ending with the idea that America is about freedom, not a circus. This should effectively convey the moral framing as per the user's request.
+</think>
+
+**STEP 1:**
+
+* Purity  
+* Success  
+* Failure  
+* Addiction  
+* Problem  
+* Failure  
+* Big tent  
+* Clown show  
+* Circus  
+
+---
+
+**SUMMARY:**  
+Glenn Beck, in his 2010 CPAC speech, demanded Republicans prioritize ideological purity and reject the Democratic agenda. He criticized the GOP for failing to admit their problems and urged them to embrace a 12-step recovery program, likening their addiction to spending and big government to his own struggle with alcoholism. Beck mocked the idea of a "big tent" strategy, calling it a circus, and emphasized that America is an idea of freedom, not a clown show. He contrasted the GOP's need for redemption with the Democrats' progressive policies, which he accused of eroding the Constitution. Beck's speech focused on conservative success, not just defeating the other side, and called for a return to core principles.  
+**END OF SUMMARY.**

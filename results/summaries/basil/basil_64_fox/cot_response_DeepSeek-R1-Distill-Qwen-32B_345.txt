@@ -1,0 +1,39 @@
+Okay, I need to help the user with their query. They provided a news article and specific instructions on how to process it. Let me break it down.
+
+First, the user wants me to act as a news summarizer and a moral expert. My task is to summarize the article while preserving the moral framing. They also gave a two-step process: identify morally framed words and then write a summary using those words.
+
+Looking at the article, it's about Justice Ginsburg criticizing Trump, leading to backlash. The user wants me to find all single words that carry moral connotations. I'll go through the text and pick out words like "backlash," "bipartisan," "faker," "unqualified," "embarrassed," "dumb," "shot," "apologize," "inappropriate," "disgrace," "skepticism," "objective," "biased," "unusual," "endorse," "oppose," "partisan," "spectacle," "flinging," "mosh pit," "opportunist," "lies."
+
+Next, I need to summarize the article, keeping these words. The summary should be concise, under 200 words, and include as many of the identified words as possible. I'll structure it by mentioning the backlash, Ginsburg's comments, Trump's and others' reactions, and the criticism from various quarters, including Democrats and media. I'll end with Sanders' support.
+
+I should make sure the summary flows naturally while incorporating the moral terms. Let me check the word count to ensure it's within the limit. Also, I need to present the summary clearly, starting with "SUMMARY:" and ending with "END OF SUMMARY."
+
+I think that's all. Time to put it together.
+</think>
+
+**STEP 1:**  
+* Backlash  
+* Bipartisan  
+* Faker  
+* Unqualified  
+* Embarrassed  
+* Dumb  
+* Shot  
+* Apologize  
+* Inappropriate  
+* Disgrace  
+* Skepticism  
+* Objective  
+* Biased  
+* Unusual  
+* Endorse  
+* Oppose  
+* Partisan  
+* Spectacle  
+* Flinging  
+* Mosh pit  
+* Opportunist  
+* Lies  
+
+**SUMMARY:**  
+Supreme Court Justice Ruth Bader Ginsburg faced bipartisan backlash after criticizing Donald Trump, calling him a "faker" and questioning his qualifications. Trump and Republican leaders, including Senate Majority Leader Mitch McConnell and House Speaker Paul Ryan, criticized her comments as inappropriate and biased, arguing they undermine the court's impartiality. Even some Democrats, like Sen. Chris Murphy, expressed concern that her remarks were overly political. Media outlets, including The Washington Post and The New York Times, echoed criticism, emphasizing the importance of judicial impartiality. While most criticized her actions, Vermont Sen. Bernie Sanders offered qualified support, agreeing with her assessment of Trump as an "opportunist" who "lies a lot." END OF SUMMARY.

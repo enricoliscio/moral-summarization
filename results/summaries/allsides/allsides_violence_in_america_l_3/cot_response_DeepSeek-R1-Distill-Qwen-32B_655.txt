@@ -1,0 +1,27 @@
+<think>
+Okay, I need to help the user with their query. They provided a news article and specific instructions on how to process it. The task is to first identify all single words that are morally framed and then write a summary preserving those moral terms. 
+
+First, I'll read the article carefully. The article talks about Chicago's high homicide rate, gun violence, police actions, and community reactions. I need to pick out words that carry moral connotations. Words like "sobering," "staggering," "flood," "emboldened," "deterrent," "joke," "scrambled," "protests," "weakened," "reluctant," "nefarious," and "opportunity" come to mind. These words imply judgment or evaluation, so they're morally framed.
+
+Next, I have to write a concise summary using these words. I'll start by highlighting the record homicide rate and the spike in shootings. Then, I'll mention the factors like illegal guns and the impact of the police shooting video. I'll include the police superintendent's comments about the lack of deterrent and the challenges they face. Finally, I'll note the community's loss of trust and the resulting surge in violence. I need to keep the summary under 200 words, so I'll make sure each point is brief but covers all key aspects.
+
+I should structure the summary to flow logically, starting with the problem, then the causes, the response from authorities, and the community's reaction. Using the morally framed words will help maintain the original tone and emphasis of the article. I'll double-check that I haven't missed any important details and that the summary accurately reflects the article's content while preserving the moral framing.
+</think>
+
+**STEP 1:**  
+* Sobering  
+* Bloodshed  
+* Flood  
+* Emboldened  
+* Deterrent  
+* Joke  
+* Scrambled  
+* Protests  
+* Weakened  
+* Reluctant  
+* Nefarious  
+* Opportunity  
+
+**SUMMARY:**  
+Chicago experienced its most violent year in two decades, with 762 homicides and 3,550 shooting incidents, surpassing New York and Los Angeles combined. The surge in violence, driven by illegal guns and emboldened criminals, has left the city grappling with a lack of deterrents. Police Superintendent Eddie Johnson highlighted the flood of illegal firearms and the perception among criminals that the justice system is a "joke." The spike in violence coincided with the release of a controversial police shooting video, which weakened public trust in law enforcement and led to fewer arrests. Critics argue that officers have become more cautious, fearing scrutiny and viral videos, while criminals exploit the situation to commit nefarious acts. The city is scrambling to address the crisis with new initiatives, but the moral and social fabric of Chicago remains strained.  
+**END OF SUMMARY.**

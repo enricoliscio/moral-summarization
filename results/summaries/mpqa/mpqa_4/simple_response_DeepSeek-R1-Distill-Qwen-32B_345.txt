@@ -1,0 +1,14 @@
+Okay, so the user has given me a query where they want a summary of a news article, preserving the moral framing. The article is about Rumsfeld defending the treatment of detainees in Guantanamo. 
+
+First, I need to understand the main points. Rumsfeld is responding to international criticism, saying the treatment is humane. There are photos showing prisoners restrained, which has led to accusations of using psychological tactics. Organizations like the Red Cross and Amnesty International are criticizing the US for violating Geneva Conventions. Some countries support the US, while others don't. Rumsfeld argues that restraints are necessary for safety, and the legal status of the detainees is unclear.
+
+Now, the user wants the summary to preserve the moral framing. So I need to highlight the ethical issues involved, like human rights concerns, the use of psychological tactics, and the debate over prisoner of war status. I should mention the support and criticism from different countries and organizations to show the moral divide.
+
+I should keep the summary concise, under 200 words. I'll start by stating Rumsfeld's defense, then move to the criticisms, including the release of photos and the accusations. I'll note the support from some countries and the legal issues surrounding the detainees' status. Finally, I'll touch on the debate over values versus security.
+
+I need to make sure the summary flows logically, covering all key points without getting too detailed. I'll avoid technical jargon and keep it clear and straightforward, ensuring that the moral aspects are emphasized as per the user's request.
+</think>
+
+SUMMARY:  
+Secretary of Defense Donald Rumsfeld defended U.S. treatment of detainees in Guantanamo Bay, Cuba, dismissing international criticism as "hyperbole." He claimed prisoners were treated humanely, though photos showing restrained and hooded detainees sparked accusations of sensory deprivation and psychological control. The International Committee of the Red Cross and Amnesty International criticized the U.S. for violating Geneva Convention rules and called for prisoner of war status and legal access for detainees. Some countries, like the Netherlands and EU, urged adherence to human rights standards, while Britain and Spain supported the U.S. Rumsfeld argued restraints were necessary for safety, but the legal status of detainees remained unclear, with critics questioning delays in classification. The debate highlighted tensions between security concerns and the upholding of moral and legal standards in the treatment of prisoners.  
+END OF SUMMARY.

@@ -1,0 +1,46 @@
+Okay, so I'm trying to help this user who wants a news summary with moral framing preserved. They provided a detailed article about the U.S. Congress reading the Constitution. The user has specific steps: first, identify morally framed words, then write a concise summary using those words.
+
+First, I need to understand what morally framed words are. These are words that carry ethical or value-based connotations. In the article, I see words like "sacred," "imperfect," "justice," "equality," etc. These words reflect the moral perspectives of the lawmakers and the debate around the Constitution reading.
+
+Next, I need to extract these words. I'll go through the article and pick out each word that conveys a moral stance. For example, "sacred" is used by some to describe the Constitution, while others call it "imperfect." These words show the differing moral views on the document.
+
+Once I have all the morally framed words, I need to craft a summary that includes as many of them as possible. The summary should be under 200 words and capture the essence of the debate. I'll focus on the conflict between Republicans skipping parts and Democrats arguing for reading the full document, emphasizing the moral implications each side presents.
+
+I should ensure the summary flows logically, highlighting the key points: the skipped amendments, the emotional and symbolic aspects, the cost, and the differing views on the Constitution's nature. Using the identified words will help maintain the moral framing as intended.
+
+Finally, I'll make sure the summary is concise and clear, accurately reflecting the article's content while preserving the moral language used by the participants. This way, the summary will effectively convey the debate's moral dimensions to the reader.
+</think>
+
+**STEP 1:**
+
+* sacred  
+* imperfect  
+* justice  
+* equality  
+* amendment  
+* slavery  
+* freedom  
+* government  
+* propaganda  
+* foundation  
+* democracy  
+* rights  
+* amendments  
+* imperfect beginnings  
+* imperfect history  
+* imperfect government  
+* imperfect document  
+* sacred text  
+* worship  
+* governance  
+* limited government  
+* fluid advice  
+* blank slate  
+* transient majorities  
+* sacred, perfect document  
+
+---
+
+**SUMMARY:**  
+
+The U.S. House of Representatives recently read the U.S. Constitution aloud, but Republicans omitted parts deemed obsolete, such as the 18th Amendment (prohibition) and the three-fifths compromise. Democrats criticized this, arguing it undermines the document's sacred nature and fails to acknowledge the nation's imperfect beginnings and ongoing struggle for justice and equality. Rep. Jesse Jackson Jr. emphasized the emotional and symbolic importance of the full text, while Rep. Jay Inslee questioned the selective reading. Some lawmakers, like Rep. Jerrold Nadler, called the exercise "propaganda," arguing the Constitution is a living document that should not be worshipped but used to govern. Supporters, however, saw it as a symbolic reminder of the Constitution's foundation for laws and a chance to aspire to the Founding Fathers' ideals. The debate highlighted differing views on whether the Constitution is a sacred, perfect document or an imperfect, evolving framework. END OF SUMMARY.

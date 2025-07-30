@@ -1,0 +1,12 @@
+Okay, I need to help the user by summarizing a news article while preserving the moral framing. The user provided the article and specified that the summary should include certain morally charged words. 
+
+First, I'll read the article carefully to understand the context. It's about Republican senators pressuring Michael Steele to apologize for his remarks on Afghanistan. The key points are Steele's comments, the backlash from conservatives, and the calls for his resignation.
+
+I need to identify the morally framed words: war, fighting, remarks, win, unacceptable, inaccurate, terror, remark. I should make sure these are included in the summary.
+
+I'll start by noting the main event: senators pressuring Steele. Then, mention the specific remarks he made and the reactions. DeMint's comments about apologizing to troops and the nature of the war. McCain's view on the remarks being inaccurate. Steele's attempt to clarify, but the issue not being resolved. Finally, Kristol's call for resignation.
+
+I'll structure the summary to include all these points, ensuring the moral words are present. I'll keep it concise, under 200 words, and end with the required tokens.
+</think>
+
+SUMMARY: Republican senators pressed party Chairman Michael Steele to apologize for his remarks that labeled Afghanistan as "Obama's war" and questioned its winnability. Prominent conservatives, including Sen. Jim DeMint, criticized Steele's comments as "unacceptable" and "inaccurate," emphasizing that the war is "America's war" and must be won. Sen. John McCain also deemed Steele's remarks "wildly inaccurate," urging him to assess his ability to continue in his role. Steele attempted to quell the controversy by issuing a statement reaffirming the need to "win the war on terror" and support troops, but his efforts did not ease the backlash. Conservatives like Weekly Standard Editor Bill Kristol continued to call for Steele's resignation, deeming his leadership inadequate. END OF SUMMARY.

@@ -1,0 +1,32 @@
+<think>
+Okay, so I'm trying to help the user by summarizing this news article while preserving the moral framing. First, I need to understand the task. They want me to identify morally framed words and then write a concise summary using those words. 
+
+Looking at the article, it's about President Trump choosing a new FBI director. The key points are the candidates, internal conflicts, and the implications of the choice. I need to spot words that carry moral connotations. Words like "alarm," "fluid," "endemic," "special," "damage," "integrity," "reputation," "credibility," "conflict-of-interest," "problematic," "controversial," and "scandal" stand out as they imply judgment or evaluation.
+
+Next, I'll summarize the article. I should mention Trump's finalists, the concerns from his staff, the potential candidates, and the implications of each choice. I'll need to keep it under 200 words, so I'll focus on the main points without getting too detailed.
+
+I also need to make sure the summary includes the morally framed words identified earlier. For example, talking about the "alarm" from staff, the "fluid" process, and the "damage" to morale. I'll also mention the "controversy" surrounding Lieberman and the potential "conflict-of-interest."
+
+I should structure the summary to flow logically: start with Trump's finalists, mention the concerns, discuss the candidates, and conclude with the implications of the choice. This way, the summary is clear and maintains the moral aspects from the original text.
+
+Finally, I'll ensure that the summary is concise and sticks to the key points without unnecessary details. I'll double-check the word count to make sure it's within the limit. That should cover everything the user asked for.
+</think>
+
+### STEP 1:
+* Alarm
+* Fluid
+* Endemic
+* Special
+* Damage
+* Integrity
+* Reputation
+* Credibility
+* Conflict-of-interest
+* Problematic
+* Controversial
+* Scandal
+
+---
+
+### SUMMARY:
+President Trump is nearing his self-imposed deadline to select a new F.B.I. director, with Joseph I. Lieberman, a former Democratic senator, emerging as a top finalist. However, his staff has expressed alarm over the rapid embrace of Lieberman, a political operator with no federal law enforcement experience. The search process has been described as fluid, with the administration keeping details closely held to avoid leaks, which Trump believes are endemic in the West Wing. Lieberman, a 75-year-old with a bipartisan reputation, is seen as a controversial choice due to his age and potential conflict-of-interest concerns, as he is employed by a firm linked to Trump’s lawyer. Other candidates include F.B.I. insiders like Andrew G. McCabe, Richard A. McFeely, and Adam S. Lee, who have experience within the agency. Trump’s aides are divided, with some questioning Lieberman’s suitability for a 10-year term. The decision could impact the bureau’s integrity and reputation, especially after the turmoil surrounding James Comey’s firing. Democrats have criticized Lieberman, while Republicans like John McCain have expressed support. The choice is seen as critical for restoring the F.B.I.’s credibility and avoiding a scandal akin to Watergate. END OF SUMMARY.

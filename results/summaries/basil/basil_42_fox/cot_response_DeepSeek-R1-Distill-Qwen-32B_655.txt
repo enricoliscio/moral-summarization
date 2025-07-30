@@ -1,0 +1,37 @@
+Okay, I need to help the user by summarizing the news article they provided, making sure to preserve the moral framing. The user has given specific instructions, so I should follow them carefully.
+
+First, the user wants me to identify all the single words that are morally framed. I'll go through the article and pick out words that carry moral connotations. Words like "veto," "deny," "discrimination," "opposition," "uproar," "boycott," "toxic," "liberty," "oppress," "intimidate," "deceive," "manipulate," "falsehoods," "polarize," "hasty," "misleading," "unjust," "unfair," "proponents," "opponents," "deliberate," "fairness," "equality," "rights," "freedom," "justice," "discriminate," "protect," "oppress," "intimidate," "deceive," "manipulate," "falsehoods," "polarize," "hasty," "misleading," "unjust," "unfair." I'll list each of these with a star.
+
+Next, I need to write a summary of the article, keeping as many of these moral words as possible. The summary should be concise, no more than 200 words. I'll start by outlining the main points: the bill in Arizona, the reactions from prominent Republicans, the opposition from various groups, the arguments from both sides, and the political dynamics.
+
+I'll make sure to include terms like "veto," "discrimination," "uproar," "boycott," "toxic," and others to maintain the moral framing. I'll structure the summary to show the conflict between protecting religious beliefs and preventing discrimination, highlighting the key players and their arguments.
+
+I should also mention the political implications, such as the potential boycotts and the impact on the state's image, especially with the Super Bowl. Including the perspectives of both supporters and opponents will provide a balanced view, emphasizing the moral stakes involved.
+
+Finally, I'll ensure the summary is clear and concise, capturing the essence of the article while preserving the moral language to reflect the author's framing.
+</think>
+
+### STEP 1:
+* Veto  
+* Deny  
+* Discrimination  
+* Opposition  
+* Uproar  
+* Boycott  
+* Toxic  
+* Liberty  
+* Oppress  
+* Intimidate  
+* Deceive  
+* Manipulate  
+* Falsehoods  
+* Polarize  
+* Hasty  
+* Misleading  
+* Unjust  
+* Unfair  
+
+---
+
+### SUMMARY:
+Prominent Republicans are urging Arizona Governor Jan Brewer to veto Senate Bill 1062, which allows businesses to deny service based on religious beliefs. The bill, passed by the Arizona Legislature, has sparked national uproar, with critics arguing it enables discrimination against LGBTQ+ individuals. Business leaders, civil rights groups, and even Republican senators are calling for a veto, while supporters claim it protects religious freedom. Governor Brewer is deliberating the decision, with speculation that she may veto the bill. Proponents argue the legislation is necessary to shield business owners with strong religious beliefs from discrimination lawsuits, while opponents label it "toxic" and harmful. The bill's supporters, including the Center for Arizona Policy, claim it clarifies existing law and is not as extreme as portrayed, while critics accuse them of fear-mongering and misleading the public. The debate highlights tensions over religious liberty versus fairness and equality, with both sides presenting strong moral arguments. END OF SUMMARY.

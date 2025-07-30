@@ -1,0 +1,35 @@
+Okay, so I'm trying to help this user who wants a news summary with moral framing. They provided an article and specific instructions. Let me break this down.
+
+First, the user wants me to identify morally framed words. I need to go through the article and pick out words that have a moral connotation. Words like "prisoners," "detainees," " Geneva Convention," "protections," "cruel," "inhuman," "degrading," "interrogation," "trial," "violations," "defended," "uprisings," "snipers," "hostages," "aid," "intelligence," "spending," and "resources." These words carry moral weight because they relate to human rights, treatment of prisoners, and military actions.
+
+Next, I need to summarize the article, making sure to include as many of these morally framed words as possible. The summary should be concise, under 200 words. I should focus on the key points: the airlift of prisoners to Guantanamo, the conditions they're held in, the Pentagon's stance, international criticism, and related military actions.
+
+I also need to structure the response with STEP 1 listing the words and then the SUMMARY. I should ensure the summary flows well and includes the moral elements without getting bogged down in details.
+
+I should avoid markdown and keep the summary clear and to the point, preserving the moral framing as the user requested. Let me make sure I cover all the main events: the airlift, the treatment of prisoners, the Pentagon's defense, the crash in Pakistan, the involvement in the Philippines, and the military spending.
+
+I think that's a solid approach. Now, I'll put it all together, making sure each part is addressed properly.
+</think>
+
+**STEP 1:**  
+* prisoners  
+* detainees  
+* Geneva Convention  
+* protections  
+* cruel  
+* inhuman  
+* degrading  
+* interrogation  
+* trial  
+* violations  
+* defended  
+* uprisings  
+* snipers  
+* hostages  
+* aid  
+* intelligence  
+* spending  
+* resources  
+
+**SUMMARY:**  
+The U.S. began airlifting Taliban and Al Qaeda prisoners from Afghanistan to Guantanamo Bay, Cuba, with the first flight carrying 20 prisoners. The Pentagon emphasized that while the detainees were not classified as prisoners of war, they would receive Geneva Convention protections. However, Amnesty International criticized the use of shackles and sedation during the flight as violating international standards against cruel or degrading treatment. The prisoners will be held in Camp X-Ray, where they face interrogation and potential trial before military tribunals. Meanwhile, the U.S. is also preparing to send forces to the Philippines to assist in combating Abu Sayyaf militants linked to Al Qaeda. Secretary of Defense Rumsfeld defended the strong measures used to transport the prisoners, citing past uprisings. Additionally, U.S. military spending increased to $318 billion to maintain readiness against enemies relying on surprise and deception. END OF SUMMARY.

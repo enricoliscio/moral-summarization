@@ -1,0 +1,8 @@
+Alright, the user wants me to summarize a news article about US-Japan climate talks. Let me read through the article first. It mentions that representatives from both countries met in Tokyo for two days to discuss climate change cooperation, specifically in science and tech. The US has a new plan with voluntary limits based on economic growth, unlike the mandatory targets in the Kyoto Protocol. Japan still plans to ratify Kyoto, which caused some international backlash when the US rejected it.
+
+I need to make sure the summary is concise, under 200 words. I'll start by stating the meeting's conclusion, then mention the topics discussed. I should highlight the US's new approach and Japan's stance on Kyoto. Also, include the US's commitment to R&D and the context of Bush's decision. Keep it clear and to the point, ending with the specified tokens.
+</think>
+
+SUMMARY:  
+US and Japanese representatives concluded two days of climate talks in Tokyo, focusing on cooperation in science and technology to address global warming. The discussions followed President George Bush's announcement of a new US plan, which emphasizes voluntary limits on greenhouse gas emissions tied to economic growth, rather than mandatory targets. The US stated it would promote research and development in climate change, while Japan reaffirmed its intention to ratify the Kyoto Protocol. Bush's rejection of the Kyoto Protocol last year sparked international criticism, as it was seen as hindering US economic growth. The meeting marked the first bilateral climate talks since the US unveiled its new approach.  
+END OF SUMMARY.

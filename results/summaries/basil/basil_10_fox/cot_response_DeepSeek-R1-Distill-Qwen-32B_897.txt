@@ -1,0 +1,33 @@
+Alright, so the user has given me a query where I need to act as a news summarizer and a moral expert. They provided a detailed news article about the U.S. Congress reading the Constitution, and they want me to first identify all the morally framed single words, then summarize the article preserving those moral framings.
+
+First, I need to understand what constitutes a morally framed word. These are words that carry strong positive or negative connotations related to ethics, values, or principles. Examples might include words like "sacred," "imperfect," "equality," etc.
+
+Looking at the article, I'll go through each paragraph and pick out words that fit this criterion. For instance, "sacred" is used when referring to the Constitution, which carries a strong moral value. "Imperfect" is used to describe the document, highlighting its flaws from a moral standpoint. "Equality" and "justice" are also key moral concepts.
+
+After identifying these words, I need to ensure that the summary includes as many of them as possible while staying within the 200-word limit. The summary should capture the essence of the debate: Republicans skipping parts of the Constitution, Democrats arguing against it, the moral implications of the document's imperfections, and the broader discussion about the nature of the Constitution as a living document versus a rigid one.
+
+I also need to make sure the summary reflects the moral framing by using the identified words appropriately. For example, emphasizing how the Constitution is seen as "sacred" by some and "imperfect" by others, and how this debate touches on "equality" and "justice."
+
+I'll structure the summary to first outline the event, then the opposing viewpoints, and conclude with the implications of the debate. This way, I preserve the moral framing while keeping the summary concise and informative.
+
+Finally, I'll double-check to ensure that all the morally framed words are included and that the summary flows naturally, capturing the key points without exceeding the word limit.
+</think>
+
+**STEP 1:**  
+* sacred  
+* imperfect  
+* struggle  
+* improve  
+* amendments  
+* justice  
+* equality  
+* imperfect  
+* blessings  
+* propaganda  
+* govern  
+* sacred  
+* amendments  
+* equality  
+
+**SUMMARY:**  
+The U.S. House of Representatives recently read portions of the Constitution, but Republicans omitted outdated sections, such as the 18th Amendment (prohibition) and the three-fifths compromise regarding slaves and Native Americans. Democrats criticized this decision, arguing it undermines the document's historical and moral significance. Rep. Jesse Jackson Jr. emphasized the struggle for equality and justice, while Rep. Jay Inslee questioned the selection process. Rep. Elijah Cummings argued that omitting parts fails to acknowledge the nation's imperfect beginnings and ongoing efforts to improve. Some lawmakers, like Rep. Jerrold Nadler, dismissed the exercise as "propaganda," criticizing the idea of worshiping the Constitution as a sacred text. Others, including Rep. Steve Israel, defended the reading as a symbolic reminder of the government's foundation. Historians and political commentators debated whether the Constitution should be viewed as a rigid framework or a living document. Meanwhile, advocates outside the Capitol pushed for the Equal Rights Amendment, highlighting the Constitution's imperfections and its failure to guarantee women's equality. END OF SUMMARY.

@@ -1,0 +1,21 @@
+<think>
+Okay, so I need to help the user summarize this news article while preserving the moral framing. Let me read through the query again to make sure I understand all the requirements.
+
+The user provided a news article about Donald Trump's campaign, focusing on his statements on immigration, crime, and unemployment. They also listed specific morally framed words that should be included in the summary. The task is to create a concise summary (under 200 words) using as many of those words as possible.
+
+First, I should identify the main points of the article. Trump softened his stance on immigration, which was a key part of his campaign. He mentioned deportations but later talked about a path to legalization, which might be a way to court Hispanic voters. However, this was criticized as a flip-flop. He also discussed African American unemployment, using a high statistic that was later found to be misleading. Additionally, he claimed that inner cities are unsafe, which contradicts crime statistics showing a decline.
+
+Now, I need to incorporate the morally framed words: lies, work, opposing, undocumented, legalized, deported, failed, hurting, failure, crime, war, safer, he’s, using, offensive, crime-ridden, manipulation, suffering, unemployed, misleading.
+
+I should structure the summary to cover each main point, using these words where appropriate. I'll start by mentioning Trump softening his stance on immigration, using " undocumented" and "deported." Then, I'll note the criticism about flip-flopping. Next, I'll address his claims about inner cities being unsafe, using "crime," "war," "safer," and "offensive." Finally, I'll discuss the unemployment statistics, highlighting "misleading" and "suffering."
+
+I need to keep each section brief to stay within 200 words. I'll make sure each sentence includes the relevant moral terms without making it sound forced. Also, I should maintain a neutral tone while reflecting the author's framing.
+
+Let me draft the summary, ensuring all key points are covered and the moral terms are included. I'll check the word count to make sure it's concise. Once done, I'll place it after the "SUMMARY:" token and end with "END OF SUMMARY."
+
+I think that covers everything. Time to put it all together.
+</think>
+
+SUMMARY:  
+The article highlights Donald Trump's shifting stance on immigration, a key issue of his campaign, as he softened his hardline approach to appeal to non-white voters. Trump initially promised to deport undocumented immigrants but later suggested they could pay taxes and work toward legalization, denying accusations of flip-flopping. His campaign also faced criticism for misleading claims about African American unemployment, using inflated statistics to suggest 58% of young black individuals are unemployed, which economists deemed misleading. Trump further claimed inner cities under Democratic control are crime-ridden and unsafe, even comparing them to war zones, a claim contradicted by declining crime trends. His efforts to court African American and Hispanic voters have been met with skepticism, as polls show he trails significantly among non-white voters. Trump's statements on immigration, crime, and unemployment reflect his campaign's focus on polarizing issues, while his claims have been criticized for manipulation and offensiveness.  
+END OF SUMMARY.

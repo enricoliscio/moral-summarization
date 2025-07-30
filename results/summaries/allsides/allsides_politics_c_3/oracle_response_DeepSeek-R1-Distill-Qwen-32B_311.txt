@@ -1,0 +1,16 @@
+Okay, so I need to help the user by summarizing a news article while preserving the moral framing. The user has provided the article and a list of morally framed words. My task is to create a concise summary using as many of those words as possible, without exceeding 200 words. 
+
+First, I'll read through the article to understand the main points. It's about President Trump's controversial tweets targeting four Democratic congresswomen, leading to a political and moral backlash. The key elements include Trump's comments, the reactions from Democrats and some Republicans, and the moral terms used.
+
+Next, I'll identify the morally charged words from the list that are present in the article. Words like racism, hate, xenophobic, divide, disgusting, etc., are central to the narrative. I need to make sure these are included in the summary.
+
+I should structure the summary to highlight Trump's actions, the responses from Pelosi and the Squad, and the growing criticism from both parties. I'll need to mention the accusations of racism and xenophobia, the call for a resolution, and the international and Republican reactions.
+
+I also need to keep the summary under 200 words, so I'll have to be concise. I'll start by stating Trump's tweets, then the Democrats' reaction, followed by the Republican responses, and end with the broader implications of his comments.
+
+I should avoid adding any new information not present in the article and stick strictly to summarizing the provided text. I'll make sure the moral framing is clear by using the specified terms appropriately.
+
+Finally, I'll review the summary to ensure it captures all essential points and maintains the moral perspective as presented in the original article. I'll check the word count to make sure it's within the limit and that the summary flows logically from one point to the next.
+</think>
+
+SUMMARY: President Trump faced backlash for tweets suggesting four Democratic congresswomen, known as "The Squad," should "go back" to their countries, despite most being U.S.-born. Trump denied racism, saying, "if you hate our country, you can leave," but critics accused him of xenophobia and racism. House Speaker Nancy Pelosi called for a resolution condemning his remarks, stating his "Make America Great Again" plan seemed to aim for a "white America." The congresswomen, including Alexandria Ocasio-Cortez, Ayanna Pressley, Rashida Tlaib, and Ilhan Omar, responded by highlighting their dedication to fighting corruption and unity. Some Republicans, like Rep. Will Hurd and Sen. Pat Toomey, also criticized Trump's comments as racist and xenophobic, urging unity instead of division. Trump's tweets drew international criticism and united Democrats against his racial tactics, with many labeling his language as "disgusting" and "racist." END OF SUMMARY.

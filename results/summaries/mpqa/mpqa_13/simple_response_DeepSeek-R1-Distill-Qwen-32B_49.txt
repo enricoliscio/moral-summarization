@@ -1,0 +1,12 @@
+Okay, so I'm trying to help this user who wants a summary of a news article. They mentioned that I should act as a news summarizer assistant and a moral expert. The key is to preserve the moral framing the author gave. 
+
+First, I'll read the article carefully. It's about US-Japan climate talks ending after two days in Tokyo. They focused on science and tech cooperation to prevent global warming. The US mentioned promoting R&D, while Japan plans to ratify the Kyoto Protocol. The article also notes that Bush rejected Kyoto last year, causing international outcry, saying it hindered US growth.
+
+Now, I need to summarize this, keeping the moral elements. The US's approach is voluntary limits based on economic growth, which might be seen as less committed. Japan is more committed by ratifying Kyoto. The moral framing here is about responsibility and commitment to climate action.
+
+I should make sure the summary highlights the differing approaches and the moral implications. The US's stance is criticized for being less proactive, while Japan is more aligned with international efforts. I'll keep it under 200 words, starting with SUMMARY and ending with END OF SUMMARY.
+
+Let me draft that, ensuring all key points are included without losing the moral perspective.
+</think>
+
+SUMMARY: US-Japan climate talks concluded in Tokyo, with representatives discussing cooperation in science and technology to address global warming. The US emphasized promoting research and development, while Japan reaffirmed its intent to ratify the Kyoto Protocol. The talks marked the first since President George Bush introduced a new US plan favoring voluntary limits on greenhouse gas emissions tied to economic growth, rather than mandatory targets. Bush's rejection of the Kyoto Protocol last year sparked international criticism, with critics arguing it prioritized economic growth over climate action. The differing approaches highlight contrasting visions on climate responsibility. END OF SUMMARY.

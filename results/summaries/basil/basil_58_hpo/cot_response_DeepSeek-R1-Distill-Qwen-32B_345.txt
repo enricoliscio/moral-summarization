@@ -1,0 +1,36 @@
+Alright, I need to help the user by summarizing the given news article while preserving the moral framing. The user has specified two main steps: first, identifying morally framed single words, and second, writing a concise summary.
+
+Starting with STEP 1, I'll go through the article to pick out words that carry moral connotations. Words like "fight," "inspired," "failed," "anxiety," "compromise," "courage," "stand up," "enough," "bullying," "catastrophic," "visible," "job," "prom king," "lead," "controversy," "negatives," "criticism," "reversing," "standards," and "middle" seem to fit. These words reflect Christie's actions and the moral judgments associated with them.
+
+For the summary, I need to condense the article into under 200 words, keeping the moral elements. I'll start by stating Christie's announcement, mention his background, his criticism of Congress, and his focus on compromise. I'll include the Bridgegate scandal, his leadership during Hurricane Sandy, his shift on Common Core, and his standing in the polls. I'll make sure to use the morally framed words identified earlier to maintain the original tone.
+
+I should ensure the summary flows logically, covering his motivations, criticisms, controversies, leadership, and current political position. Keeping it concise while retaining key moral points is crucial. I'll avoid unnecessary details to stay within the word limit.
+
+Finally, I'll format the response as per the user's instructions, starting with STEP 1 listing each moral word, followed by the SUMMARY section. Making sure to end with the specified tokens to indicate the conclusion.
+</think>
+
+**STEP 1:**  
+* fight  
+* inspired  
+* failed  
+* anxiety  
+* compromise  
+* courage  
+* stand up  
+* enough  
+* bullying  
+* catastrophic  
+* visible  
+* job  
+* prom king  
+* lead  
+* controversy  
+* negatives  
+* criticism  
+* reversing  
+* standards  
+* middle  
+
+**SUMMARY:**  
+Chris Christie, the New Jersey governor, announced his candidacy for the 2016 presidency, vowing to "fight for the people of the United States." He criticized Congress and President Obama for failing to compromise, calling for courage to address the nation's challenges. Christie, known for his tough, blunt style, has faced criticism for political bullying, notably in the George Washington Bridge scandal. However, his leadership during Hurricane Sandy boosted his popularity. He initially focused on state recovery over politics, even declining a Romney event. Christie later chaired the Republican Governors Association, preparing for a potential presidency. Despite his leadership, his reputation suffered due to the Bridgegate scandal and criticism for reversing his stance on Common Core. Christie remains a moderate contender in the GOP field.  
+**END OF SUMMARY.**

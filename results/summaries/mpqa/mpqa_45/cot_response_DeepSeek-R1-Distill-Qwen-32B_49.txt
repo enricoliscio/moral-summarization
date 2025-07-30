@@ -1,0 +1,47 @@
+Okay, so I need to help the user with their query. They provided a news article and specific instructions. Let me break it down.
+
+First, the user wants me to act as a news summarizer and a moral expert. My task is to summarize the article while preserving the moral framing. The user also specified two steps: identifying morally framed words and then writing the summary.
+
+Starting with STEP 1, I need to find all single words in the article that carry moral connotations. I'll go through the text and pick out words like "suspended," "protest," "ignored," "disdain," "wrath," "excessive force," "detained," "restrictions," "denied," "commitment," "respect," "ratifying," "controversial," "independence," "public relations tool," "eroded," "objectively assess," "critique," "monitor," "performance," "promise," "unfair," "self-interest," "championing," "acknowledge," and "work." These words seem to carry moral weight as they relate to human rights, government actions, and NGO reactions.
+
+Next, for the summary, I need to condense the article into 200 words, keeping those moral terms. The main points are the NGOs suspending their work with Suhakam, their reasons including government neglect of reports, the appointment of commissioners, and the impact on human rights. I should highlight the NGOs' concerns about Suhakam's independence and the government's failure to respect human rights principles. Also, mention the response from Suhakam's commissioner who felt the boycott was unfair.
+
+I need to ensure the summary flows well, includes all key points, and retains the moral framing. I'll structure it by first stating the suspension, then the reasons, followed by the implications of the new appointments, and end with the NGOs' intentions and Suhakam's response.
+
+Let me make sure I don't exceed 200 words and that all important details are covered without being too verbose. I should also check that the morally framed words are included where appropriate to maintain the article's original tone.
+</think>
+
+**STEP 1:**
+
+\*suspended  
+\*protest  
+\*ignored  
+\*disdain  
+\*wrath  
+\*excessive force  
+\*detained  
+\*restrictions  
+\*denied  
+\*commitment  
+\*respect  
+\*ratifying  
+\*controversial  
+\*independence  
+\*public relations tool  
+\*eroded  
+\*objectively assess  
+\*critique  
+\*monitor  
+\*performance  
+\*promise  
+\*unfair  
+\*self-interest  
+\*championing  
+\*acknowledge  
+\*work  
+
+**SUMMARY:**  
+
+Thirty-two NGOs have suspended all engagements with the Malaysian Human Rights Commission (Suhakam) for 100 days, protesting the government's neglect of Suhakam's recommendations and its decline in human rights standards. The NGOs criticized the government for ignoring reports, including the Kesas report, which found excessive police force during a 2000 anti-government rally. They also highlighted increasing detentions without trial, restrictions on free speech, and undemocratic laws. The NGOs expressed concern over Suhakam's independence after controversial appointments, including former attorney-general Abu Talib Othman as chairperson, and the removal of three commissioners linked to the Kesas report. They questioned whether retired civil servants could objectively critique government policies. The NGOs vowed to monitor Suhakam's performance and judge it by human rights improvements, not just reports. Suhakam commissioner Prof Hamdan Adnan called the boycott "unfair," urging NGOs to collaborate instead.  
+
+END OF SUMMARY.

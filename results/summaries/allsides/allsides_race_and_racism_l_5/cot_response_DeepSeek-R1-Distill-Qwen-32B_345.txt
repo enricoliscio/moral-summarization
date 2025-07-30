@@ -1,0 +1,25 @@
+Okay, I need to help the user by summarizing the given news article while preserving the moral framing. The user provided a specific structure for the response, so I should follow that. First, I need to identify all the single words that are morally framed. Then, I'll write a concise summary using those words where appropriate.
+
+Starting with STEP 1, I'll go through the article and pick out words that carry a moral connotation. Words like "protests," "prominence," "attention," "unfairly," "unjust," "senseless," "accountable," "reform," and "systemic" stand out. These words highlight the moral issues discussed in the article.
+
+Next, for the summary, I need to condense the article into 200 words or less. I should mention the Black Lives Matter movement's impact, the increased awareness of systemic racism, the actions of prosecutors and lawmakers, and the challenges still faced. I'll make sure to include the morally framed words to maintain the original tone.
+
+I'll structure the summary to show progress made, like more people recognizing unfair treatment and racism, the media's role, and specific actions by prosecutors and politicians. However, I'll also note that the fight isn't over, as some still doubt the issue and political changes are slow.
+
+Putting it all together, I'll ensure the summary is clear, concise, and reflects the moral framing from the original text. I'll keep each part within the word limit and end with the specified tokens.
+</think>
+
+**STEP 1:**  
+* Protests  
+* Prominence  
+* Attention  
+* Unfairly  
+* Unjust  
+* Senseless  
+* Accountable  
+* Reform  
+* Systemic  
+
+**SUMMARY:**  
+A year after the Ferguson protests, the Black Lives Matter movement has made significant strides in raising awareness about systemic racism in the criminal justice system. Americans are increasingly recognizing unfair treatment of Black people, with surveys showing higher acknowledgment of racism as a "big problem." Media outlets like the Washington Post and the Guardian are now tracking police shootings, highlighting the issue's growing public interest. Prosecutors are taking police misconduct more seriously, with several high-profile cases resulting in charges against officers. Lawmakers, including President Obama and Hillary Clinton, are advocating for police accountability through body cameras and better data tracking. However, the fight is far from over, as skepticism persists among Republicans and white Americans. Despite challenges, the movement's impact is evident, signaling progress toward addressing systemic injustice.  
+**END OF SUMMARY.**

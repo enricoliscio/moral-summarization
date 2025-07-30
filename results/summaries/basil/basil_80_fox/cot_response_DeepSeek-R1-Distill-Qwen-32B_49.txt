@@ -1,0 +1,25 @@
+Okay, so the user wants me to summarize a news article while preserving the moral framing. They provided a specific structure with two steps: first, identifying morally framed words, and then writing a concise summary.
+
+First, I need to read the article carefully. It's about Trump criticizing Huma Abedin, an aide to Hillary Clinton, for handling classified information improperly. He's using terms like "crooked" and "jail," which are definitely morally charged. I should note all such words.
+
+Next, I have to make sure the summary includes these terms to maintain the author's moral stance. The summary needs to be under 200 words, so I'll have to be concise but include key points: Trump's accusations, the security issues, the comparison to the sailor, and the implications for the 2016 election.
+
+I should structure the summary to highlight Trump's calls for action, the specifics of Abedin's actions, and the political context. I need to ensure that the moral framing is clear, so words like "crooked," "disregarding," "jail," and "double standard" should be included.
+
+Finally, I'll format the response with the two steps as specified, making sure each part is clear and meets the user's requirements.
+</think>
+
+**STEP 1:**  
+* Crooked  
+* Jail  
+* Disregarding  
+* Classified  
+* Foreign agents  
+* Unauthorized  
+* Punishment  
+* Hacked  
+* Extremely careless  
+
+**SUMMARY:**  
+President Trump criticized Hillary Clinton's aide, Huma Abedin, accusing her of disregarding security protocols by handling classified material improperly. He called for the "Deep State" Justice Department to act, comparing her actions to the punishment faced by a Navy sailor who took unauthorized photos inside a nuclear submarine. Trump's tweet followed the release of classified emails from Abedin's account, which were found on her estranged husband Anthony Weiner's laptop. The emails included sensitive State Department information and classified passwords sent to her personal Yahoo account, which was later hacked. Former FBI Director James Comey previously described Abedin's actions as "extremely careless" and linked them to the 2016 Clinton email scandal. Trump's comments highlight a perceived double standard in accountability, with Abedin and Clinton facing no charges despite potential security breaches.  
+**END OF SUMMARY.**

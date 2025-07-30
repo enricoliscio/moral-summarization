@@ -1,0 +1,56 @@
+Okay, so the user has given me a query where I need to act as a news summarizer assistant and a moral expert. The task is to summarize a given news article while preserving the moral framing. The user has specified two steps: first, identifying all single words that are morally framed, and second, writing a summary that includes as many of those words as possible.
+
+First, I need to understand what "morally framed" words mean. These are words that carry a positive or negative moral connotation. For example, words like "disappointment," "cooperated," "woes," "persecution," etc., which imply some moral judgment or value.
+
+Looking at the provided article, I'll go through each sentence and pick out the words that have a moral connotation. I'll list them under STEP 1, each on a new line with a *.
+
+Next, for the summary, I need to condense the article into 200 words or less. The summary must include as many of the identified morally framed words as possible. I should focus on the main points: the UN's criticism, the impact on refugees, the countries affected, reactions from different nations, and the moral implications of the travel ban.
+
+I should ensure the summary flows logically, starting with the UN's stance, moving to the reactions from affected countries, and ending with the broader implications and criticisms. I'll make sure to include words like "woes," "disappointment," "persecution," "emergency," "dignity," "wrong," etc., to maintain the moral framing.
+
+I also need to be concise, so I'll avoid unnecessary details and focus on the key moral arguments presented in the article. The summary should reflect the UN's concerns, the countries' disappointments, the humanitarian impact, and the criticism of the ban as unnecessary and divisive.
+
+Finally, I'll structure the response with STEP 1 listing the words and then the SUMMARY section, making sure it's within the word limit and properly formatted.
+</think>
+
+**STEP 1:**  
+* Woes  
+* Disappointment  
+* Cooperated  
+* Criminals  
+* Flee  
+* Violence  
+* Persecution  
+* Emergency  
+* Died  
+* Muted  
+* Fanfare  
+* Desperate  
+* Retaliatory  
+* Excluded  
+* Crucial  
+* Promoting  
+* Global stability  
+* Humanitarian ideals  
+* Support  
+* Refugee emergencies  
+* Welcoming  
+* Vulnerable  
+* Rebuild  
+* Safety  
+* Freedom  
+* Dignity  
+* Gold standard  
+* Humane leadership  
+* Complicate  
+* Grave  
+* Abdicating  
+* International law  
+* Terrible message  
+* Unnecessary  
+* Divisive  
+* Wrong  
+
+**SUMMARY:**  
+The UN has criticized Donald Trump’s revised travel ban, stating it will increase the woes of refugees and deepen their suffering. Countries like Iran, Sudan, and Libya expressed disappointment, claiming they had fully cooperated with US anti-terrorism efforts. The ban blocks entry from six Muslim-majority countries for 90 days and suspends the US refugee program for 120 days. UN officials highlighted the humanitarian crisis, emphasizing that refugees are ordinary people fleeing war, violence, and persecution. The revised ban excludes Iraq, a key ally in fighting ISIS, and includes small changes to reduce legal challenges. However, the UN remains concerned, warning that the temporary measures may compound the anguish of those affected. The Somali president called for the ban to be lifted, while Britain and other nations criticized the move as unnecessary and divisive. The revised order, though less chaotic than the original, continues to draw criticism for its moral and humanitarian implications.  
+**END OF SUMMARY.**

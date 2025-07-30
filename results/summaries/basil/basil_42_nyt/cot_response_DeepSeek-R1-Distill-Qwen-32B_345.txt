@@ -1,0 +1,35 @@
+Okay, so I need to help the user by summarizing a news article while preserving the moral framing. The user has given specific instructions: first, identify all the single words that are morally framed, and then write a summary using those words. 
+
+First, I'll read through the article to understand the context. It's about Arizona's legislation allowing businesses to refuse service based on religious beliefs, with Governor Brewer under pressure to veto it. There are mentions of opposition from various groups, including business leaders and politicians, as well as the impact on Arizona's image and economy.
+
+For the first step, I need to find all the morally framed words. These are words that carry a positive or negative connotation related to ethics or values. I'll go through the article and pick out words like "pressure," "oppose," "veto," "jeopardize," "concern," "harm," "intolerance," "mischaracterized," "lies," "attacks," "irresponsible," "scarred," "discriminate," "carte blanche," "forge consensus," and "boycotts." These words all carry moral weight, indicating support, opposition, harm, or ethical concerns.
+
+Next, I'll write a concise summary. I need to include these moral terms to preserve the author's framing. The summary should be under 200 words. I'll structure it to mention the bill, the pressure on the governor, the opposition from various groups, the potential economic impact, and the moral arguments on both sides. I'll make sure to include the key moral words to reflect the article's tone.
+
+I should also ensure that the summary flows well and covers all the main points without being too verbose. It's important to highlight the conflict between protecting religious freedom and preventing discrimination, as well as the economic implications for Arizona.
+
+I think I've got all the necessary elements. Now, I'll put it all together, making sure to use the identified moral words and keep the summary within the word limit.
+</think>
+
+**STEP 1:**
+
+* Pressure  
+* Oppose  
+* Veto  
+* Jeopardize  
+* Concern  
+* Harm  
+* Intolerance  
+* Mischaracterized  
+* Lies  
+* Attacks  
+* Irresponsible  
+* Scarred  
+* Discriminate  
+* Carte blanche  
+* Forge consensus  
+* Boycotts  
+
+**SUMMARY:**  
+
+Gov. Jan Brewer of Arizona faced intense pressure to veto a bill allowing businesses to refuse service to gays and others based on religious beliefs. The measure, which passed the legislature, drew opposition from elected officials, business leaders, and civic groups, who warned it could jeopardize the state’s economic comeback and national image. Arizona’s senators, John McCain and Jeff Flake, urged Brewer to veto the bill, while Apple and American Airlines executives also expressed concern. Three Republican senators who supported the bill admitted it had caused harm to the state. Supporters, including Cathi Herrod of the Center for Arizona Policy, accused opponents of mischaracterizing the legislation as promoting intolerance. Brewer, who received over 10,000 calls and emails, was set to decide by week’s end. The bill, which expands the definition of religious exercise, has sparked debate over religious liberty vs. discrimination, with some candidates for governor, like Scott Smith and Doug Ducey, opposing it. The state’s image, already scarred by a controversial 2010 immigration law, could suffer further if the bill becomes law. END OF SUMMARY.

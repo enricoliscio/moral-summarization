@@ -1,0 +1,56 @@
+Alright, I need to help the user by summarizing the given news article while preserving the moral framing. First, I'll read through the query carefully to understand the requirements. The user wants me to act as a news summarizer and a moral expert. They provided a specific structure: first, identify morally framed words, then write a summary that includes as many of those words as possible.
+
+Looking at the article, it's about Governor Rick Perry's campaign ad targeting hard-right conservatives. The ad contrasts Christianity with homosexuality, criticizes Obama's policies, and targets areas with Christian evangelicals. There are mentions of opposition from Log Cabin Republicans and a defense of gay rights.
+
+For the first step, I need to extract all single words that carry moral connotations. Words like "appeal," "hard-right," "conservatives," "contrasts," "Christianity," "homosexuality," "war," "religion," "end," "overturning," "don’t ask, don’t tell," "gays," "ashamed," "Christian," "pew," "wrong," "country," "serve openly," "celebrate Christmas," "pray," "school," "criticizing," "administration," "elements of diplomacy," "foreign aid," "gay rights," "criminalize," "homosexual conduct," "war on religion," "liberal attacks," "religious heritage," "Faith," "strong," "equality," "theocrat-in-chief," "individual liberty," "individual responsibility," "open service," "founding fathers."
+
+Next, I'll craft a concise summary that includes these words. The summary should highlight Perry's ad targeting conservatives, his contrast between Christianity and homosexuality, his criticism of Obama's policies, and the opposition from the LGBTQ+ group. I'll make sure to preserve the moral framing by using the identified words where appropriate.
+
+I need to keep the summary under 200 words, so I'll focus on the key points: Perry's ad, its moral framing, the target audience, the criticism of Obama's policies, and the opposing viewpoints. I'll ensure that the summary flows logically and includes the necessary moral terms without being too verbose.
+
+Finally, I'll review the summary to make sure it meets all the user's requirements and accurately reflects the article's content while maintaining the moral perspective presented.
+</think>
+
+**STEP 1:**  
+* appeal  
+* hard-right  
+* conservatives  
+* contrasts  
+* Christianity  
+* homosexuality  
+* war  
+* religion  
+* end  
+* overturning  
+* don’t ask, don’t tell  
+* gays  
+* ashamed  
+* Christian  
+* pew  
+* wrong  
+* country  
+* serve openly  
+* celebrate Christmas  
+* pray  
+* school  
+* criticizing  
+* administration  
+* elements of diplomacy  
+* foreign aid  
+* gay rights  
+* criminalize  
+* homosexual conduct  
+* war on religion  
+* liberal attacks  
+* religious heritage  
+* Faith  
+* strong  
+* equality  
+* theocrat-in-chief  
+* individual liberty  
+* individual responsibility  
+* open service  
+* founding fathers  
+
+**SUMMARY:**  
+Gov. Rick Perry of Texas released a campaign ad targeting hard-right conservatives, contrasting Christianity with homosexuality and criticizing Obama’s policies. The ad vows to end what Perry calls “Obama’s war on religion” and opposes overturning the “don’t ask, don’t tell” policy for gays in the military. Perry emphasizes his Christian faith, claiming it’s wrong that gays can serve openly in the military while kids can’t celebrate Christmas or pray in school. The ad focuses on Iowa, where many Republican caucusgoers are Christian evangelicals. Perry also criticized Obama’s promotion of gay rights globally, asserting faith made America strong. However, Log Cabin Republicans denounced the ad, arguing Perry wrongly assumes faith precludes support for equality. They criticized his focus on religion over individual liberty, emphasizing open service by LGBTQ+ military members aligns with founding principles. END OF SUMMARY.

@@ -1,0 +1,25 @@
+Alright, let's tackle this query. The user wants me to act as a news summarizer and a moral expert. They provided a news article about Rep. Michael Grimm facing indictment. My task is to first identify all the morally framed words and then summarize the article preserving those moral terms.
+
+First, I'll read through the article to understand the context. The article discusses Grimm's expected indictment, his lawyer's statement, the charges, and his background. 
+
+For STEP 1, I need to find single words that carry moral implications. Words like "indicted," "wrongdoing," "vendetta," "erroneous," "improper," "threatened," "secretly," and "unsealed" seem to have moral connotations. These words frame the situation in a negative light towards Grimm.
+
+Next, for the summary, I have to condense the article while keeping these moral terms. I'll start by mentioning the indictment, Grimm's assertion of innocence, the lawyer's claim of a politically driven vendetta, the specific charges, and the background of the investigation. I'll also include the recent incident with the reporter and the expected unsealing of the indictment.
+
+I need to make sure the summary is concise, under 200 words, and includes all the identified moral words. I'll structure it to flow logically, starting with the indictment, the lawyer's response, the charges, the investigation details, the recent event, and the current status of the case.
+
+I should avoid any markdown and keep the summary clear and factual while preserving the moral framing. Let me put it all together now.
+</think>
+
+**STEP 1:**  
+* Indicted  
+* Wrongdoing  
+* Vendetta  
+* Erroneous  
+* Improper  
+* Threatened  
+* Secretly  
+* Unsealed  
+
+**SUMMARY:**  
+Rep. Michael Grimm (R-N.Y.) is expected to be indicted by the U.S. attorney for the Eastern District of New York, according to his lawyer, William McGinley. Grimm's legal team claims the government has pursued a politically driven vendetta against him, asserting his innocence of any wrongdoing. The charges are expected to include mail fraud and wire fraud, focusing on his conduct related to a health food restaurant he owned after leaving the FBI in 2006. The Justice Department began investigating Grimm two years ago over allegations of erroneous campaign finance reports and improper donations during his first congressional campaign. Recently, Grimm was involved in an incident where he physically threatened a reporter in the Capitol. Grimm is likely to turn himself in once the indictment is unsealed, which is expected to happen soon. END OF SUMMARY.

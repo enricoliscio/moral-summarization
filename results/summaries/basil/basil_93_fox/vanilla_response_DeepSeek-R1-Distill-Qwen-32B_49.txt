@@ -1,0 +1,21 @@
+Okay, so the user wants me to summarize a news article about President Trump's immigration compromise. They provided the article and specified the summary should be after a "SUMMARY:" token and end with "END OF SUMMARY." Also, it needs to be under 200 words.
+
+First, I need to read through the article to understand the main points. The article talks about Trump offering a three-year DACA extension and $5.7 billion for the border wall, which led to reactions from both parties.
+
+I should note that Democrats were critical, calling it hostage-taking, while Republicans praised the proposal as a good step. Key points include Pelosi and Schumer's criticism, and McConnell's support. Also, the impact on federal workers and the shutdown's duration are important.
+
+I need to condense this into a concise summary, making sure to include Trump's offer, the Democratic and Republican reactions, and the implications for the shutdown. Keeping it under 200 words is crucial, so I'll focus on the main reactions and the outcome.
+
+Let me structure it: start with Trump's proposal, then Democratic criticism, followed by Republican support, and the ongoing shutdown's impact. Make sure to mention the key figures and their positions briefly.
+
+I should avoid getting too detailed on each individual's statements but capture the general sentiment from both sides. Also, highlight the shutdown's effect on workers and the economy as a consequence of the impasse.
+
+Finally, ensure the summary flows logically, starting with the proposal, followed by reactions, and ending with the current state of the shutdown.
+</think>
+
+SUMMARY:  
+President Trump proposed a three-year DACA extension and $5.7 billion for a border wall to end the government shutdown, sparking strong reactions. Democrats criticized the offer as "hostage-taking," with Nancy Pelosi and Chuck Schumer calling it insufficient and ineffective. Pelosi accused Trump of ignoring federal workers' struggles, while Schumer emphasized the need for a permanent solution for Dreamers and TPS recipients. Democrats, including Sen. Bob Menendez, condemned the proposal as unfair and demanded an end to the shutdown before negotiations.  
+
+Meanwhile, Republicans praised Trump's willingness to compromise, with Senate Majority Leader McConnell calling it a "fair compromise" and House Leader McCarthy labeling it "reasonable." Sen. Mitt Romney also supported the deal, urging Democrats to negotiate. Despite bipartisan reactions, the shutdown continued, affecting 800,000 federal workers and highlighting the political stalemate over immigration and border security.  
+
+END OF SUMMARY.

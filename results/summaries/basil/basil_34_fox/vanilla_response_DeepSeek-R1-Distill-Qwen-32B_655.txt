@@ -1,0 +1,20 @@
+Alright, so the user has given me a task where I need to act as a news summarizer. They provided an article about the NRA's recommendations following the Newtown shooting. My job is to summarize this article concisely, within 200 words, starting with "SUMMARY:" and ending with "END OF SUMMARY."
+
+First, I should read the article carefully to understand the key points. The NRA is pushing for more armed personnel in schools after the Newtown incident. They want states to allow trained school staff to carry guns. This is part of a review they conducted following the shooting.
+
+The article mentions criticism from Democrats, especially regarding the focus on school security over gun control. The NRA's CEO, Wayne LaPierre, suggested having armed officers in every school. However, Asa Hutchinson, who led the review, softened this stance a bit, saying each school should have at least one armed officer, but decisions are local based on budgets. He also proposed a training program and a model law for states.
+
+Additionally, the report suggests safety assessments and a pilot program for mental health. Mark Mattioli, a Newtown victim's father, supports the review. Meanwhile, Congress and states are focusing on gun control measures like assault weapon bans and background checks. Connecticut is advancing a gun control proposal, but LaPierre emphasizes school security as the top priority.
+
+Now, I need to condense all this into a summary. I should include the main points: NRA's call for armed personnel, the review's recommendations, the training program, the model law, the criticism, the support from a victim's family, and the contrast with other gun control efforts.
+
+I need to make sure the summary is clear and within the word limit. I'll structure it by mentioning the NRA's push, the specifics of their recommendations, the response from critics and supporters, and the broader context of gun control measures.
+
+Let me draft the summary, making sure to cover all key points without going over 200 words. I'll start with the main action (NRA urging states), then details on the recommendations, mention the training and model law, note the criticism and support, and conclude with the broader legislative context.
+
+I should also ensure that the summary flows logically, starting with the main recommendation, followed by specifics, responses, and the current legislative landscape. That should cover everything succinctly.
+</think>
+
+SUMMARY: The National Rifle Association (NRA) has urged states to allow more school personnel to carry weapons on school grounds after extensive training, following a weeks-long review prompted by the Newtown mass shooting. While NRA CEO Wayne LaPierre initially called for armed officers in every school, former Arkansas Rep. Asa Hutchinson, who led the review, softened the stance, emphasizing at least one armed officer per school, with decisions made locally. The NRA proposed a 40-60 hour training program and a model state law to enable trained personnel to carry weapons, though not all teachers. The 225-page report also recommended safety assessments and a pilot program to assess mental health as a violence indicator. Mark Mattioli, father of a Newtown victim, praised the review. Meanwhile, Congress and states are focusing on gun control measures, including assault weapons bans and background checks. Connecticut is advancing a sweeping gun control proposal, but LaPierre maintains school security is paramount, arguing that schools deserve the same protection as banks and Congress.  
+
+END OF SUMMARY.

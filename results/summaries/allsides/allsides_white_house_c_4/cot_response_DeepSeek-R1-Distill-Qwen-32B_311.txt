@@ -1,0 +1,61 @@
+Alright, I need to help the user by summarizing a news article while preserving the moral framing. First, I should understand what the user is asking for. They provided a detailed query with specific steps: identifying morally framed words and then writing a summary that includes as many of those words as possible.
+
+I'll start by reading the article to get a sense of its content. It's about the White House seeking emergency funds after Hurricane Sandy, focusing on the damages and the need for future storm prevention. The article mentions several key points: the amount of funding requested, the impact on different states, the focus on rebuilding stronger, and the political discussions about funding sources.
+
+Next, I need to identify the morally framed words. These are words that carry a positive or negative connotation related to ethics or values. I'll go through the article and pick out words like "Emergency," "Billions," "damages," "bank account," "federal," "Capitol Hill," "Sandy," "devastation," "preventing," "conservative," "humanity," "suffering," "hardships," "resources," "waiting," "rebuild," "stronger," "smarter," "safer," "resiliently," "response," "decisions," "design," "materials," "rebuild," "generator-capable," "areas," "power grid," "bury," "underground," "problems," "down payment," "available," "waiting," "get on with their lives," "cuts," "Democrats," "Republicans," "budget," "disaster aid," "offset," "cuts," "budget," "Democrats," "Republicans," "budget," "disaster aid," "offset," "cuts."
+
+Now, I need to write a summary that includes as many of these words as possible. The summary should be concise, around 200 words, and capture the essence of the article while highlighting the moral aspects. I'll structure it by mentioning the funding request, the impact of the storm, the focus on future resilience, the political discussions, and the concerns about delays and budget offsets.
+
+I should ensure that the summary flows naturally and doesn't just list the words. It needs to convey the urgency and the moral imperative to act, the necessity of rebuilding stronger, and the political challenges involved.
+
+Finally, I'll make sure to start the summary after the "SUMMARY:" token and end with "END OF SUMMARY." I'll check the word count to stay within the limit and ensure clarity.
+</think>
+
+**STEP 1:**
+
+* Emergency  
+* Billions  
+* damages  
+* bank account  
+* federal  
+* Capitol Hill  
+* Sandy  
+* devastation  
+* preventing  
+* conservative  
+* humanity  
+* suffering  
+* hardships  
+* resources  
+* waiting  
+* rebuild  
+* stronger  
+* smarter  
+* safer  
+* resiliently  
+* response  
+* decisions  
+* design  
+* materials  
+* rebuild  
+* generator-capable  
+* areas  
+* power grid  
+* bury  
+* underground  
+* problems  
+* down payment  
+* available  
+* waiting  
+* get on with their lives  
+* cuts  
+* Democrats  
+* Republicans  
+* budget  
+* disaster aid  
+* offset  
+* cuts  
+
+**SUMMARY:**
+
+The White House plans to request $50 billion to $60 billion in emergency funding for Hurricane Sandy recovery, emphasizing the need to rebuild stronger and smarter to prevent future devastation. States like New York and New Jersey are seeking federal aid to address billions in damages, including destroyed homes, businesses, and infrastructure. Federal officials stress the importance of using funds to enhance resilience against future storms, such as burying power lines or improving building designs. However, some senators warn that delaying funding could cause hardships for families and communities waiting for resources. The administration opposes offsetting disaster aid with budget cuts, a stance supported by Democrats but uncertain among Republicans. The focus remains on ensuring a swift and effective response to Sandy's impact while preparing for future challenges. END OF SUMMARY.

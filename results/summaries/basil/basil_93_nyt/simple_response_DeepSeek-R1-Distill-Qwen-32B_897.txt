@@ -1,0 +1,13 @@
+Alright, so the user has provided a news article about the government shutdown and Trump's proposal. They want a summary that preserves the moral framing the author used. Hmm, I need to make sure I capture the key points without adding my own bias.
+
+First, I should read through the article to understand the main events. Trump offers a deal to Democrats, but it's rejected. Pelosi and Schumer are against it. The shutdown is in its fifth week, and public opinion is against Trump. He's trying to compromise on DACA and TPS for wall funding. Democrats don't want to negotiate until the government reopens. There's a mention of previous failed negotiations, so Democrats are skeptical.
+
+I need to highlight the moral aspects. The author seems critical of Trump's approach, pointing out that his proposal didn't offer permanent protections and was seen as a political move. The Democrats are portrayed as wanting a better deal, while Trump is trying to shift blame.
+
+I should structure the summary to include Trump's offer, the rejection, the political dynamics, and the implications of the shutdown. Keep it concise, under 200 words, and end with the summary tokens as specified.
+
+Let me draft the summary, making sure to include all these elements without losing the moral framing. I'll focus on Trump's proposal, the lack of permanent solutions, Democratic skepticism, and the ongoing shutdown's impact.
+</think>
+
+SUMMARY:  
+President Trump offered Democrats a deal to end the government shutdown, proposing temporary protections for 700,000 undocumented young immigrants (Dreamers) and 300,000 TPS recipients in exchange for $5.7 billion for a border barrier. The proposal, rejected by Democrats, was seen as a political move, not a compromise. Trump softened his tone, using "barrier" instead of "wall," and highlighted legal immigration by hosting a naturalization ceremony. Democrats criticized the plan for not offering permanent protections and accused Trump of reviving fake promises. The shutdown, now in its fifth week, has drawn public blame on Trump, with Democrats refusing to negotiate until the government reopens. Trump's advisers sought an exit strategy, but the proposal faced skepticism from both parties. The standoff highlights Trump's struggle to balance immigration enforcement with political pressure, as the shutdown continues to strain Capitol Hill. END OF SUMMARY.

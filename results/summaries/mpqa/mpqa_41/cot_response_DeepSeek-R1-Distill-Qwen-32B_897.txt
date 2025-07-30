@@ -1,0 +1,86 @@
+<think>
+Okay, so I need to help the user with their query. They provided a news article and specific instructions on how to process it. Let me break down what they're asking for.
+
+First, they want me to act as a news summarizer assistant and a moral expert. My tasks are two-fold: identify morally framed words and then write a summary preserving those moral framings.
+
+Looking at the article, it's about a UN debate on human rights, focusing on how development, peace, and other factors relate to human rights. The delegations are discussing the right to development and the impact of globalization.
+
+For STEP 1, I need to extract all single words that carry moral connotations. I'll go through the article and pick out words like "unrealistic," "suffering," "lack," "poverty," "hunger," "poor," "enjoy," "human rights," "preconditions," "universal," "protection," "promotion," "crucial," "maintaining," "peace," "security," "scourges," "ills," "disease," "narcotic drugs," "armed conflicts," "terrorism," "transnational organized crime," "marginalize," "alienate," "duties," "enshrined," "right," "narrowing," "realization," "underdevelopment," "hindered," "capacity," "deteriorating," "horrors," "terrorist attack," "protection," "expediency," "compromise," "lapse," "vigilance," "promoting," "strengthening," "integral," "multilateral," "war," "terrorism."
+
+Now, for the summary, I need to condense the article into 200 words, keeping as many of these moral words as possible. I'll focus on the main points: the debate in the UN, the emphasis on development and peace as crucial for human rights, the impact of globalization, and the role of protecting human rights in fighting terrorism. I'll ensure the summary flows logically, highlighting each delegation's key points without going into too much detail.
+
+I should make sure the summary is concise but comprehensive, capturing the essence of the debate. I'll start by mentioning the UN debate, then the key points about development and peace, followed by the effects of globalization, and finally the stance on terrorism and human rights. I'll end with the ongoing discussions in the committee.
+
+I need to check the word count to stay under 200 words. Let me draft the summary and count the words to ensure compliance. Also, I must use the morally framed words identified earlier to maintain the author's original moral framing.
+
+Once the summary is ready, I'll present it after the "SUMMARY:" token and end with "END OF SUMMARY." as per the instructions. I should avoid any markdown and keep the formatting simple.
+
+I think that's all. Let me put it all together now.
+</think>
+
+**STEP 1:**  
+* unrealistic  
+* suffering  
+* lack  
+* development  
+* poverty  
+* hunger  
+* poor  
+* enjoy  
+* human rights  
+* preconditions  
+* universal  
+* protection  
+* promotion  
+* right  
+* development  
+* crucial  
+* maintaining  
+* international  
+* peace  
+* security  
+* emphasized  
+* human rights  
+* fundamental freedoms  
+* two sides  
+* coin  
+* tandem  
+* center  
+* social  
+* economic  
+* protected  
+* scourges  
+* ills  
+* disease  
+* narcotic drugs  
+* armed conflicts  
+* terrorism  
+* transnational organized crime  
+* globalization  
+* marginalize  
+* alienate  
+* duties  
+* enshrined  
+* right  
+* narrowing  
+* realization  
+* underdevelopment  
+* hindered  
+* capacity  
+* deteriorating  
+* horrors  
+* terrorist attack  
+* protection  
+* expediency  
+* compromise  
+* lapse  
+* vigilance  
+* promoting  
+* strengthening  
+* integral  
+* multilateral  
+* war  
+
+**SUMMARY:**  
+Delegations at the UN General Assembly's Third Committee emphasized that human rights cannot be fully enjoyed without addressing development, poverty, hunger, and poor health. They stressed that the right to development and maintaining international peace and security are crucial for universal human rights. Thailand highlighted that human rights and development are interconnected, while Eritrea and China warned that globalization risks marginalizing the developing world and widening the development gap, hindering human rights. The U.S. delegation added that protecting human rights is essential in the fight against terrorism. The debate continued with representatives from multiple countries, focusing on the need to prioritize people in development efforts and address global challenges like disease, terrorism, and transnational crime. The committee will meet again to further discuss human rights.  
+**END OF SUMMARY.**

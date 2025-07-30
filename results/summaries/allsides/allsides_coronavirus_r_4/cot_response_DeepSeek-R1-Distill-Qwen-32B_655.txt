@@ -1,0 +1,43 @@
+<think>
+Alright, I need to help the user by summarizing the news article while preserving the moral framing. Let me start by understanding the task. The user wants me to first identify all the morally framed single words in the article. Then, I have to write a concise summary that includes as many of those moral terms as possible.
+
+Looking at the article, I'll go through each sentence to pick out words that carry moral connotations. Words like "protestors," "effigy," "unconstitutional," "shutdown," "celebrate," "freedom," "unconstitutional," "shutdown," "Second Amendment," "against," "coronavirus," "restrictions," "shouting," "effigy," "message," "tyrannies," "condemned," "unacceptable," "hate," "disgusting," "condemn," "vile," "science," "healthy," "safe," "freedom," "reprehensible." These all carry some moral weight.
+
+Now, for the summary. I need to include these words while keeping it under 200 words. I'll start by stating the protest, mention the effigy, the reasons behind it, the rally turning against restrictions, the governor's house visit, the effigy details, and the backlash from both parties. I'll make sure to include McConnell's and others' condemnations, emphasizing the moral issues they pointed out.
+
+I should structure it so that each point flows logically, maintaining the moral framing. I'll ensure that the summary is clear and concise, capturing the key events and the reactions without adding my own opinions. Let me piece it together, making sure each sentence includes the necessary moral terms and stays within the word limit.
+</think>
+
+**STEP 1:**  
+* Protestors  
+* Effigy  
+* Unconstitutional  
+* Shutdown  
+* Celebrate  
+* Freedom  
+* Unconstitutional  
+* Shutdown  
+* Second Amendment  
+* Against  
+* Coronavirus  
+* Restrictions  
+* Shouting  
+* Effigy  
+* Message  
+* Tyrannies  
+* Condemned  
+* Unacceptable  
+* Hate  
+* Disgusting  
+* Condemn  
+* Vile  
+* Science  
+* Healthy  
+* Safe  
+* Freedom  
+* Reprehensible  
+
+**SUMMARY:**  
+Protestors in Kentucky hung an effigy of Gov. Andy Beshear outside the state capitol, denouncing his coronavirus restrictions as unconstitutional. The protest, organized by Take Back Kentucky, began as a celebration of the Second Amendment but escalated into a rally against pandemic measures. Protestors marched to Beshear’s home, shouting for him to come out, and later returned to the capitol to hang the effigy, which bore a message condemning tyranny. The action sparked widespread condemnation, with Republican Sen. Mitch McConnell calling it unacceptable and rejecting hate in Kentucky. Other officials, including Democratic Mayor Greg Fischer, condemned the act as vile and urged unity in following science to protect public health. Kentucky House Democrats also strongly condemned the effigy, calling it reprehensible.  
+
+**END OF SUMMARY.**

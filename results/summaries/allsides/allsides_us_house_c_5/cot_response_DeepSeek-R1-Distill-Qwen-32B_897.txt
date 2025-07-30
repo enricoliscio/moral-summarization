@@ -1,0 +1,38 @@
+<think>
+Okay, I need to help the user by summarizing the given news article while preserving the moral framing. Let me start by understanding the task. The user wants two things: first, to identify all the single words that are morally framed, and second, to write a concise summary that includes as many of these words as possible.
+
+Looking at the article, I see it's about the House Intelligence Committee Chairman Adam Schiff facing calls to step down from Republicans. The moral framing here is crucial because the language used by both sides carries strong implications. 
+
+For the first step, I need to extract all the single words that carry a moral connotation. I'll go through the article and pick out words that express approval, disapproval, or judgment. Words like "aggressively," "defending," "lighting into," "not OK," "dramatic effect," "demonstrably false," "damage," "integrity," "exonerates," "lying," "leaking," "abuse," "misrepresenting," "ambush," and "cheap-shot" stand out as they carry moral weight.
+
+Now, for the summary. I need to condense the article into 200 words, making sure to include these moral terms. I'll structure it by highlighting Schiff's defense, the accusations from Republicans, the context of Mueller's report, and the partisan conflict. It's important to show both sides' perspectives and the underlying moral judgments they're making.
+
+I should start by stating Schiff's defense against the calls for his resignation, using terms like "aggressively" and "not OK." Then, mention Conaway's accusation of a "demonstrably false" narrative and the impact on the committee's "integrity." Include the Mueller report's exoneration and Trump's accusations of "lying" and "leaking." Also, note Turner's comparison to McCarthy, implying "abuse" and "misrepresentation." Finally, show Democratic support, calling the attacks an "ambush" and "cheap-shot."
+
+I need to ensure the summary flows logically, keeping each point concise and including as many moral words as possible without making it too lengthy. Let me piece this together step by step, making sure each sentence captures the essence and the moral framing.
+</think>
+
+**STEP 1:**  
+* aggressively  
+* defending  
+* lighting into  
+* not OK  
+* dramatic effect  
+* think  
+* OK  
+* rising  
+* lost confidence  
+* demonstrably false  
+* narrative  
+* integrity  
+* exonerates  
+* lying  
+* leaking  
+* abuse  
+* misrepresenting  
+* ambush  
+* cheap-shot  
+
+**SUMMARY:**  
+House Intelligence Committee Chairman Adam Schiff aggressively defended his stance against calls for his resignation, criticizing President Trump and his campaign's contacts with Russia as "not OK." Schiff accused his colleagues of thinking it was "OK" for Trump's son to receive "dirt" from Russia, while Republicans like Rep. Mike Conaway argued Schiff had lost confidence by promoting a "demonstrably false" narrative, damaging the committee's "integrity." Attorney General William Barr's notification that Mueller's investigation found no collusion between Trump's campaign and Russia was seized upon by Trump and Republicans to claim exoneration, accusing Schiff of "lying" and "leaking." Schiff, however, plans to continue his investigation into Trump's ties with Russia. During the hearing, Rep. Michael Turner likened Schiff to Joseph McCarthy, accusing him of advancing Putin's work and "abusing" his power, while Democrats defended Schiff, calling the GOP attacks an "ambush" and "cheap-shot." The hearing highlighted the partisan divisions within the committee.  
+**END OF SUMMARY.**

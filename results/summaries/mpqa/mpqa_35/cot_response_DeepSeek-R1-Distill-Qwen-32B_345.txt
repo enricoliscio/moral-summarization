@@ -1,0 +1,32 @@
+Alright, I need to help the user by summarizing a news article while preserving the moral framing. Let me start by understanding the user's query. They provided a detailed article and specific instructions on how to process it.
+
+First, I have to identify all the morally framed single words in the article. These are words that carry a strong ethical or moral connotation. I'll go through the article and pick out words like "abuse," "counter-terrorism," "restrictions," "curbing," "ignoring," "suppression," "injustice," "legitimacy," "evil," "orthodoxy," "unorthodoxy," "peace," "terrorism," "compromise," and "diversity." Each of these words has a clear moral weight, so I'll list them under STEP 1.
+
+Next, I need to write a concise summary of the article. The summary should be no more than 200 words and include as many of the identified morally framed words as possible. I'll focus on the main points: the US State Department's report, the criticism of human rights abuses in certain countries, the double standards in the anti-terrorism alliance, and the implications for international cooperation. I'll make sure to highlight the moral issues and the critique of US policies without using markdown, keeping the language clear and direct.
+
+I also need to ensure that the summary starts with "SUMMARY:" and ends with "END OF SUMMARY." I'll keep each paragraph short for clarity. Let me check the word count to make sure it's within the limit. I think I've covered all the key points and maintained the moral framing as required. Time to put it all together.
+</think>
+
+**STEP 1:**
+
+* Abuse  
+* Counter-terrorism  
+* Restrictions  
+* Curbing  
+* Ignoring  
+* Suppression  
+* Injustice  
+* Legitimacy  
+* Evil  
+* Orthodoxy  
+* Unorthodoxy  
+* Peace  
+* Terrorism  
+* Compromise  
+* Diversity  
+
+---
+
+**SUMMARY:**  
+
+The US State Department's annual human rights report criticizes countries like Israel, Russia, China, and others for human rights abuses, while overlooking similar issues within the anti-terrorism alliance. The report highlights Israel's counter-terrorism measures but fails to address US post-Sept. 11 restrictions on civil liberties. The focus on consolidating the anti-terrorism alliance overshadows concerns about human rights, with the US tacitly ignoring abuses by alliance members. The report challenges the US interpretation of good versus evil, revealing a naked pursuit of US interests. The article argues that human rights are crucial in the fight against terrorism, but the US's failure to promote universal values like democracy, human rights, and peace undermines its legitimacy. The author suggests the international community should reconsider the role of the UN and adopt a more balanced approach, emphasizing compromise and diversity over single-country dominance. END OF SUMMARY.

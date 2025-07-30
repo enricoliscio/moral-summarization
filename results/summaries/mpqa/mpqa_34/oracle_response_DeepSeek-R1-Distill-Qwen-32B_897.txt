@@ -1,0 +1,14 @@
+<think>
+Okay, I need to help the user by summarizing the news article while preserving the moral framing. The user is a news summarizer assistant and a moral expert, so they want a concise summary that includes the key morally charged words from the article.
+
+First, I'll read through the article to understand the main points. China is criticizing the US human rights report, pointing out issues like police abuses, poverty, racial discrimination, and lack of personal safety. They also mention the US military operations and stationing forces, which infringe on other nations' sovereignty. Plus, China criticizes the US for withdrawing from the Kyoto Protocol.
+
+I need to make sure I include all the morally framed words: turning, abuses, poverty, discrimination, lack, infringing, operations, stationing, withdrawing, distorted, violations. I should structure the summary to show China's response to the US report, highlighting the accusations and the moral judgment against the US.
+
+I'll start by stating that China issued a report criticizing the US. Then list the issues they pointed out, using the moral terms. I'll mention the military actions and the Kyoto withdrawal. Finally, I'll note that China does this annually in response to the US report, emphasizing the hypocrisy of the US acting as a judge.
+
+I should keep the summary under 200 words, so I'll be concise but include all necessary points. I'll ensure the moral framing is clear, using the specified words to convey the criticism effectively.
+</think>
+
+SUMMARY:  
+China has criticized the United States in its annual human rights report, accusing Washington of turning a blind eye to domestic abuses while condemning other countries. The report, published by the Information Office of the State Council, highlighted police abuses, poverty, racial discrimination, and a lack of personal safety in the United States. It also accused the U.S. of wantonly infringing on the sovereignty of other nations through military operations and the stationing of forces overseas. Additionally, China condemned the Bush administration for withdrawing from the Kyoto Protocol. The report criticized the U.S. for distorting human rights conditions globally, including in China, while ignoring its own violations. China releases this report annually in response to the U.S. State Department's human rights report, which often accuses China of widespread abuses. END OF SUMMARY.

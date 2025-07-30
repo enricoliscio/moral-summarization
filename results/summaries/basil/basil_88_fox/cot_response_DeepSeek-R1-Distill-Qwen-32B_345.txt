@@ -1,0 +1,44 @@
+Okay, I need to help the user by summarizing the news article while preserving the moral framing. The user has specified two steps: first, identifying all the single words that are morally framed, and then writing a summary that includes as many of those words as possible. 
+
+Starting with the first step, I'll go through the article and pick out words that carry moral connotations. Words like "unfair," "costs," "billions," "illegal," "crime," "insane," "reward," "sane," "break," "laws," "benefits," "controversial," "citizenship," "rights," "opportunity," "encourage," "illegal immigration," "constitutional," "amendment," "authority," "unconstitutional," "abide," "precedent," "deprived," "opportunity," "equal," "rights," "opportunity," "encourage," "illegal immigration," "authority," "unconstitutional," "abide," "precedent," "deprived," "opportunity," "equal," "rights," "opportunity," "encourage," "illegal immigration," "authority," "unconstitutional," "abide," "precedent," "deprived," "opportunity," "equal," "rights," "opportunity," "encourage," "illegal immigration," "authority," "unconstitutional," "abide," "precedent," "deprived," "opportunity," "equal," "rights." 
+
+Now, for the summary, I need to condense the article into 200 words, keeping the moral framing intact. I'll focus on Trump's stance, the 14th Amendment, the criticism, and the legislative responses. I'll make sure to include words like "unfair," "illegal," "crime," "insane," "reward," "sane," "break," "laws," "benefits," "controversial," "citizenship," "rights," "opportunity," "encourage," "illegal immigration," "constitutional," "amendment," "authority," "unconstitutional," "abide," "precedent," "deprived," "opportunity," "equal," "rights." 
+
+I need to ensure the summary flows well and covers all key points without being too lengthy. I'll start by stating Trump's vow, mention the 14th Amendment, the criticism from both parties, the legislative actions, and the Supreme Court angle. I'll wrap it up with the Democrats' reaction. 
+
+I should double-check that all the moral words are included and that the summary accurately reflects the article's content. Also, I need to keep the language clear and concise, avoiding any markdown or formatting as per the user's request.
+</think>
+
+**STEP 1:**
+
+* unfair  
+* billions  
+* illegal  
+* crime  
+* insane  
+* reward  
+* sane  
+* break  
+* laws  
+* benefits  
+* controversial  
+* citizenship  
+* rights  
+* opportunity  
+* encourage  
+* illegal immigration  
+* constitutional  
+* amendment  
+* authority  
+* unconstitutional  
+* abide  
+* precedent  
+* deprived  
+* opportunity  
+* equal  
+* rights  
+
+---
+
+**SUMMARY:**  
+President Trump vowed to end birthright citizenship, arguing it is "very unfair" and costs the country billions. He claimed the 14th Amendment does not apply to children of non-citizens or illegal immigrants, sparking controversy. Critics, including former Senate Democratic Leader Harry Reid, have condemned the practice, though Reid later reversed his stance. Trump's proposal to end the policy via executive order drew mixed reactions: some Republicans, like Lindsey Graham, supported legislation to address the issue, while others, like Paul Ryan, argued the 14th Amendment is "pretty clear" and cannot be changed by executive order. Democrats, including Nancy Pelosi, condemned Trump's move, calling it beyond his authority. The issue remains contentious, with many scholars asserting a constitutional amendment is needed to change the policy. Trump acknowledged the Supreme Court may ultimately settle the matter. END OF SUMMARY.

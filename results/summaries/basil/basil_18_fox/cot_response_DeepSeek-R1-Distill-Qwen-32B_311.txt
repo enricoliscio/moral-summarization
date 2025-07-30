@@ -1,0 +1,30 @@
+<think>
+Okay, I need to help the user by summarizing the news article they provided. They mentioned that I should act as a news summarizer and a moral expert, preserving the moral framing from the article. 
+
+First, the user has given me a specific task: identify all the single words that are morally framed and then write a summary using those words. They also provided an example of how to structure the response. 
+
+So, starting with Step 1, I need to go through the article and pick out words that carry moral connotations. Words like "attack," "war," "ashamed," "wrong," "liberal," "attack," "fundamentals," "out of touch," "wrong," "objectionable," "strong." These words are used to convey moral judgments, so they should be listed each on a new line with an asterisk.
+
+Next, for the summary, I need to condense the article while keeping as many of these moral words as possible. The summary should be concise, under 200 words. I should mention Perry's claims about Obama's "War on Religion," his Christian identity, the examples he uses like gays in the military and Christmas celebrations, his ad in Iowa, and his stance on social issues. I also need to include the memorandum about promoting gay rights, which Perry opposes, and his Methodist background and appeal to evangelicals.
+
+I should ensure that the summary flows naturally and includes the key points without being too detailed. I'll start by stating Perry's attack on Obama, then outline his arguments, the ad details, and conclude with his message about faith making America strong.
+
+I need to make sure I don't miss any morally framed words and that the summary accurately reflects the article's content while preserving the moral framing.
+</think>
+
+**STEP 1:**  
+* Attack  
+* War  
+* Ashamed  
+* Wrong  
+* Liberal  
+* Attack  
+* Fundamentals  
+* Out of touch  
+* Wrong  
+* Objectionable  
+* Strong  
+
+**SUMMARY:**  
+Texas Gov. Rick Perry is criticizing President Obama for waging a "War on Religion," claiming Obama is attacking traditional American values. In a new ad titled "Strong," Perry emphasizes his Christian faith and argues that Obama's policies, such as promoting gay rights in foreign aid, are at odds with religious heritage. Perry highlights examples like gays serving openly in the military but kids not celebrating Christmas or praying in school, asserting that Obama is out of touch with American values. He vows to defend faith in America and end the "war on religion." The ad targets Iowa voters, and Perry has consistently tied his faith to conservative social stances, including opposition to gay marriage. He accuses Obama of investing tax dollars in promoting a lifestyle many Americans of faith find objectionable. Perry, a Methodist, appeals to evangelical voters, emphasizing that faith made America strong and can do so again.  
+**END OF SUMMARY.**

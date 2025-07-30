@@ -1,0 +1,86 @@
+Okay, so I need to help the user by summarizing a news article while preserving the moral framing. Let me start by understanding the task. The user provided a news article about Trump's executive order creating a National Garden of American Heroes. They want me to first identify all the morally framed single words, then write a summary using those words.
+
+First, I'll read through the article to find words that carry moral connotations. Words like "unveiled," "create," "statues," "prominent," "Fourth of July," "grapples," "tear down," "racist," "iconography," "silent teachers," "preserve," "memory," "American story," "stir," "spirit," "responsibility," "chapters," "gratitude," "exceptional," "flaws," "virtues," "talents," "sacrifices," "service," "Nation," "Task Force," "funding," "submitted," "report," "options," "collection," "temporary display," "accessible," "open," "anniversary," "proclamation," "Declaration of Independence," "address," "dismantling," "monuments," "vandalized," "destroyed," "inflamed," "political passions," "common inheritance," "protests," "censored," "banished," "blacklisted," "persecuted," "punished," "fascism," "absolute allegiance," "language," "rituals," "mantras," "commandments," "revolution," "civilization," "rescued," "poverty," "disease," "violence," "hunger," "achievement," "discovery," "progress," "tear down," "statues," "symbols," "memories," "national heritage."
+
+Now, I need to write a concise summary using these words. The summary should highlight the moral aspects, like preserving heritage, opposing statue removal, and the implications of such actions. I'll structure it to show Trump's stance on maintaining statues as part of American identity and the opposition to removing Confederate statues.
+
+I should make sure the summary is under 200 words and includes the key morally framed words. Let me start drafting: Trump's order to create a garden with statues of heroes, opposing the removal of Confederate statues, emphasizing preservation of national heritage, criticizing those who vandalize statues, and warning against a left-wing cultural revolution that aims to erase history. I'll ensure all the key points are covered and the moral framing is preserved.
+</think>
+
+**STEP 1:**
+
+* unveiled  
+* create  
+* statues  
+* prominent  
+* grapples  
+* tear down  
+* racist  
+* iconography  
+* silent teachers  
+* preserve  
+* memory  
+* American story  
+* stir  
+* spirit  
+* responsibility  
+* chapters  
+* gratitude  
+* exceptional  
+* flaws  
+* virtues  
+* talents  
+* sacrifices  
+* service  
+* Nation  
+* Task Force  
+* funding  
+* submitted  
+* report  
+* options  
+* collection  
+* temporary display  
+* accessible  
+* open  
+* anniversary  
+* proclamation  
+* Declaration of Independence  
+* address  
+* dismantling  
+* monuments  
+* vandalized  
+* destroyed  
+* inflamed  
+* political passions  
+* common inheritance  
+* protests  
+* censored  
+* banished  
+* blacklisted  
+* persecuted  
+* punished  
+* fascism  
+* absolute allegiance  
+* language  
+* rituals  
+* mantras  
+* commandments  
+* revolution  
+* civilization  
+* rescued  
+* poverty  
+* disease  
+* violence  
+* hunger  
+* achievement  
+* discovery  
+* progress  
+* tear down  
+* statues  
+* symbols  
+* memories  
+* national heritage  
+
+**SUMMARY:**  
+The White House has unveiled an executive order to create a "National Garden of American Heroes," featuring statues of prominent Americans like John Adams, Susan B. Anthony, and Martin Luther King Jr. This initiative comes amid calls to tear down Confederate statues and address racist iconography. The order emphasizes preserving the American story and stirring gratitude for the virtues and sacrifices of national heroes. It criticizes the destruction of monuments, calling it a desecration of the nation's common inheritance. President Trump opposes the removal of statues, arguing that it reflects a left-wing cultural revolution aiming to erase history and undermine the American identity. The garden, set to open by 2026, will honor heroes while maintaining a collection for temporary display. Trump warns against a "new far-left fascism" that seeks to censor and persecute those who do not conform to its ideology, asserting that the garden will safeguard the nation's heritage.  
+**END OF SUMMARY.**

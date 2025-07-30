@@ -1,0 +1,14 @@
+Alright, I need to help the user by summarizing the given news article while preserving the moral framing. The user provided a detailed article and a list of morally framed words. My task is to create a concise summary, up to 200 words, using as many of those words as possible. 
+
+First, I'll read through the article to understand the main points. It's about Rep. Ilhan Omar's comments on Israel, the controversy surrounding them, and the broader implications for U.S. foreign policy. The author discusses the moral implications, like anti-Semitism, justice for Palestinians, and the impact on the Democratic Party.
+
+Next, I'll identify key events and moral terms. The article mentions Omar's tweets about allegiance and dual loyalty, which are problematic. The Democratic leadership's response is also a point of contention. There's a discussion about the breakdown of the two-party consensus on Israel and the rise of progressive criticism.
+
+I'll need to include morally charged words like "influence," "condemn," "justice," "oppressed," "attacks," "outrage," "crimes," "genocide," "transgressions," "predicament," "split," and "stance." 
+
+I'll structure the summary to cover Omar's remarks, the Democratic reaction, the broader context of U.S. policy, and the moral implications. I'll ensure the summary is clear and within the word limit, using the provided words to maintain the moral framing.
+
+Now, I'll draft the summary, making sure to include the key points and the moral terms. I'll check the word count to stay under 200 words and ensure it flows logically.
+</think>
+
+SUMMARY: The controversy over Rep. Ilhan Omar's remarks on Israel's political influence and dual loyalty has sparked moral and political debates. Omar's comments, which some interpreted as anti-Semitic, led to a rare floor vote by Democratic leadership to condemn dual-loyalty smears, though not naming her. Critics argue this move risks alienating Jewish allies and divides the party, especially as support for Israel among younger Democrats wanes. The article highlights the moral imperative to avoid language that can be read as anti-Semitic, even as progressive criticism of U.S. policy in Israel grows. The breakdown of the two-party consensus on Israel's policy is evident, with Omar and Rep. Rashida Tlaib becoming prominent critics. However, their remarks are often smeared as anti-Semitic, diverting attention from Israel's occupation of the West Bank and crimes against Palestinians. The article underscores the need for careful language to avoid reinforcing anti-Semitic tropes while advocating for justice for Palestinians. Democrats must balance internal divisions and external criticism, ensuring their stance aligns with justice and morality, rather than pandering to anti-Semitic narratives. END OF SUMMARY.

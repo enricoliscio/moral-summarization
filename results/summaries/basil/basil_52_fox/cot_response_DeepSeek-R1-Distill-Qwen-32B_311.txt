@@ -1,0 +1,35 @@
+Okay, so I need to help the user with their query. They provided a news article and specific instructions on how to process it. First, I should read through the article carefully to understand the content and the moral framing involved.
+
+The article is about Indiana's new religious freedom law and the backlash it's receiving. There are mentions of discrimination against gays, boycotts, and various statements from government officials and business leaders. The user wants me to identify morally framed words and then summarize the article while preserving those moral terms.
+
+Starting with STEP 1, I need to extract all single words that carry moral connotations. Words like "backlash," "discriminate," "ban," "boycott," "oppose," "disturbing," "discrimination," "equality," "deny," "discriminate," "boycott," "opposition," "concerned," "ban," and "outrage" stand out as they relate to moral or ethical issues.
+
+Next, for the summary, I have to condense the article into 200 words or less, making sure to include these moral terms. I'll structure it by mentioning the backlash, the actions taken by Washington and Seattle, the concerns about discrimination, the defense from Indiana lawmakers, the clarification efforts, and the broader implications like the NCAA's concerns and the boycott calls.
+
+I should ensure the summary flows logically, highlighting the conflict between religious freedom and anti-discrimination, and the various reactions from different stakeholders. It's important to keep the moral framing intact to reflect the author's perspective accurately.
+
+I also need to be concise, so I'll focus on the key points: the backlash, the specific actions taken by Inslee and Murray, the defense by Indiana officials, the clarification attempts, and the broader context of other states and organizations reacting. This should cover the main moral arguments presented in the article.
+
+Finally, I'll make sure the summary starts with "SUMMARY:" and ends with "END OF SUMMARY." as per the instructions. I'll avoid any markdown and keep the language clear and straightforward, preserving the moral terms identified earlier.
+</think>
+
+**STEP 1:**  
+* Backlash  
+* Discriminate  
+* Ban  
+* Boycott  
+* Oppose  
+* Disturbing  
+* Discrimination  
+* Equality  
+* Deny  
+* Discriminate  
+* Boycott  
+* Opposition  
+* Concerned  
+* Ban  
+* Outrage  
+
+**SUMMARY:**  
+Indiana's new Religious Freedom Restoration Act has sparked significant backlash, with accusations that it could enable discrimination against gays and others. Washington Governor Jay Inslee and Seattle Mayor Ed Murray have banned state-funded travel to Indiana, joining a growing wave of opposition. Inslee called the law "disturbing" at a time when civil rights are increasingly embraced nationwide. Murray emphasized that discrimination has no place in Seattle, urging a review of city contracts with Indiana-based companies. Critics fear the law could allow businesses to refuse services to gay individuals, such as a baker denying a wedding cake to a gay couple. Indiana lawmakers, including Senate President Pro Tem David Long and House Speaker Brian Bosma, have defended the law, claiming it does not discriminate and will be clarified. However, concerns persist that the law could permit businesses to deny services based on religious beliefs. The NCAA and companies like Angie’s List have expressed concern, while figures like actor George Takei are calling for a boycott. The situation highlights tensions between religious freedom and anti-discrimination principles.  
+**END OF SUMMARY.**

@@ -1,0 +1,13 @@
+<think>
+Okay, so the user wants me to summarize a news article while preserving the moral framing. They provided the article and a list of morally framed words. I need to make sure the summary includes as many of those words as possible. The summary should be concise, under 200 words, and placed between "SUMMARY:" and "END OF SUMMARY.".
+
+First, I'll read through the article to understand the main points. It's about a hearing in the House Intelligence Committee where Republicans demand Schiff's resignation, accusing him of McCarthyism. Schiff counters by highlighting the unethical conduct of Trump's associates. The article also mentions the Mueller report, the ongoing Senate investigation, and the broader implications of the conflict.
+
+Now, I need to identify the key moral terms from the list. Words like "investigation," "chasing," "immoral," "unethical," "corrupt," "wrongdoing," "compromise," "destabilize," etc., are central. I should weave these into the summary.
+
+I'll start by setting the scene: the hearing, the demand for Schiff's resignation, and the accusations of McCarthyism. Then, mention Schiff's response about the unethical conduct and the Mueller report. Highlight the partisanship and the contrast between House and Senate actions. Conclude with the ongoing threat from Russia.
+
+I need to keep it under 200 words, so I'll be concise but include the moral framing words. Let me draft that.
+</think>
+
+SUMMARY: The House Intelligence Committee hearing, following the release of Robert Mueller's report, highlighted deep partisan divisions. Republicans demanded Chairman Adam Schiff's resignation, accusing him of McCarthyism and unethical conduct, while Schiff criticized the Trump administration for immoral and corrupt actions, such as seeking Russian collusion and lying to the FBI. Democrats, led by Schiff, continue to investigate potential wrongdoing, while Republicans argue Mueller exonerated Trump. The hearing also revealed the ongoing threat of Russian interference, with experts warning of increased efforts to destabilize Western democracies. Meanwhile, the Senate Intelligence Committee quietly continues its own investigation. The clash underscored the moral and political stakes, with accusations of compromised integrity and the promotion of false information. END OF SUMMARY.

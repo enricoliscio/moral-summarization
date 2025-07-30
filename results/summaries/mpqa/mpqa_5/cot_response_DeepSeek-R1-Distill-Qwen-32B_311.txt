@@ -1,0 +1,23 @@
+Alright, I need to help the user by summarizing the given news article while preserving the moral framing. The user has specific instructions, so I should follow them carefully.
+
+First, I'll read the article to understand the context. Taro Kono, a Japanese politician, wrote a critical comment on President Bush's speech. He mentions several points about US policies on treaties and military actions, which he finds unacceptable.
+
+The user wants me to identify all single words that are morally framed. I'll go through the article and pick out words that carry moral connotations. Words like 'critical,' 'heckling,' 'unacceptable,' 'necessary,' 'right,' and 'attack' seem to fit. I'll list these under STEP 1.
+
+Next, I need to write a concise summary of 200 words or less. I should include as many of these morally framed words as possible. I'll start by introducing Kono and his criticism, then outline the main points he made about the US policies. I'll mention the treaties, the right to own handguns, land mines, SOFA, and the Iraq attack. I'll also note the reaction from Middle Eastern ambassadors to emphasize the international concern.
+
+I should make sure the summary flows well and accurately reflects Kono's stance. I'll avoid adding any personal opinions and stick strictly to the content provided. Finally, I'll end with the required tokens to indicate the end of the summary.
+
+Let me structure this step by step to ensure all points are covered without exceeding the word limit. I'll keep sentences clear and direct, focusing on the moral aspects highlighted in the original text.
+</think>
+
+**STEP 1:**  
+* Critical  
+* Heckling  
+* Unacceptable  
+* Necessary  
+* Right  
+* Attack  
+
+**SUMMARY:**  
+Taro Kono, a Japanese politician and son of former Foreign Minister Yohei Kono, criticized President Bush's speech before the Japanese Diet on February 19. In his email magazine, Kono expressed frustration over the US stance on key issues, such as the Kyoto Protocol, CTBT, and the SOFA, calling these policies "unacceptable." He emphasized the need for "value sharing" rather than "burden sharing" in the US-Japan relationship. Kono questioned the US's disregard for international treaties and its push for military action in Iraq, stating that such actions are not justifiable. His critique sparked immediate interest from Middle Eastern ambassadors, who sought his opinion on the President's speech. Kono's comments highlight his concern over the moral and diplomatic implications of US policies, particularly in areas like disarmament, environmental agreements, and military alliances. END OF SUMMARY.

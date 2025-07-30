@@ -1,0 +1,33 @@
+Okay, so I need to help the user by summarizing the news article while preserving the moral framing. The user has given specific instructions, so I should follow them step by step.
+
+First, I need to identify all the single words that are morally framed in the article. The user mentioned to label this as STEP 1 and list each word with a * at the beginning of each line. I should go through the article and pick out words that carry moral connotations. Words like "reduce," "expand," "ban," "restrict," "abuse," "impeachment," "opposition," "advocates," "crisis," "opportunity," "viable," "impact," "pressure," "curb," "dominate," and "separate." These words seem to carry moral weight in the context of the article.
+
+Next, I need to write a summary that includes as many of these morally framed words as possible. The summary should be concise, no more than 200 words, and start after the SUMMARY: token, ending with END OF SUMMARY. I'll need to condense the article, focusing on Obama's plan to reduce gun violence using executive orders and legislation. I should mention the key points: the 19 actions, background checks, banning assault weapons, the opposition from gun rights groups, the political challenges, and the strategy to address mental health and enforcement.
+
+I need to ensure the summary flows well and includes the moral framing words without making it sound forced. I'll structure it to highlight Obama's proactive approach, the opposition, and the broader context of gun politics in America. I should also mention the task force led by Biden and the legislative efforts expected in the Senate.
+
+Let me check the word count to make sure it's under 200. I'll draft the summary, then count the words. If it's over, I'll trim some details but keep the essential points. I need to balance being concise with including all necessary elements of the article.
+
+Finally, I'll make sure the summary starts correctly with SUMMARY: and ends with END OF SUMMARY. I should also ensure that the morally framed words are naturally integrated into the summary without disrupting the flow.
+</think>
+
+**STEP 1:**  
+* reduce  
+* expand  
+* ban  
+* restrict  
+* abuse  
+* impeachment  
+* opposition  
+* advocates  
+* crisis  
+* opportunity  
+* viable  
+* impact  
+* pressure  
+* curb  
+* dominate  
+* separate  
+
+**SUMMARY:**  
+President Obama plans to address gun violence through a comprehensive strategy, including 19 executive actions and legislative efforts to expand background checks and ban assault weapons. The plan aims to reduce gun violence by improving mental health record sharing, enhancing enforcement, and conducting research on gun violence. However, it faces intense opposition from gun rights groups and lawmakers, with some threatening impeachment if Obama oversteps his authority. While the administration sees a rare opportunity to push for stricter gun laws, political challenges remain, particularly in a divided Congress. The focus on universal background checks is seen as the most viable path to reducing gun violence, with efforts likely to begin in the Senate. The administration will maintain pressure on lawmakers to act, but fiscal issues may delay progress. END OF SUMMARY.

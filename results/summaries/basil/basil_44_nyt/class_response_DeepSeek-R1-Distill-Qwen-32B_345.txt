@@ -1,0 +1,16 @@
+<think>
+Okay, so I need to help the user summarize a news article while preserving the moral framing. The user provided the article and the list of morally framed words. My task is to create a concise summary using as many of those words as possible without exceeding 200 words.
+
+First, I'll read through the article to understand the main points. Michael Grimm, a Republican Congressman, is expected to be indicted on fraud charges. The investigation involves his restaurant, Healthalicious, and includes mail fraud, wire fraud, and obstruction of justice. He allegedly lied under oath in a lawsuit. His lawyers claim it's a politically driven vendetta. There are mentions of campaign finance issues but no charges there yet. He's facing re-election and had some controversial behavior, like threatening a reporter.
+
+Now, I need to include the morally charged words: indicted, fraud, investigation, obstruction, lying, illegally, funneling, misused, innocence, vendetta, leaks, violations, tactics, vindicated, serve, carrying, paid, pay, evade, misbehavior, threat, break.
+
+I'll structure the summary to highlight Grimm's indictment, the nature of the charges, the investigation details, his response, and the political context. I'll make sure to incorporate the moral words naturally without forcing them.
+
+Let me start drafting: Grimm is expected to be indicted on fraud charges... investigation into his restaurant... charges include mail fraud, wire fraud, obstruction... lying under oath... investigation began with fundraising... no campaign finance charges yet... lawyer claims politically driven vendetta... investigation involved leaks and violations... Grimm threatens reporter... restaurant didn't carry insurance, paid less than minimum wage, evaded scrutiny... dissolved the company... lawsuit filed.
+
+I need to keep it under 200 words, so I'll be concise but include all key points with the moral terms. Let me count the words to ensure it's within the limit.
+</think>
+
+SUMMARY:  
+Representative Michael G. Grimm, a Republican Congressman from New York, is expected to be indicted on federal fraud charges, including mail fraud, wire fraud, and obstruction of justice, following a lengthy investigation into his conduct. The probe focuses on his ownership of a health food restaurant, Healthalicious, which allegedly failed to carry workers’ compensation insurance and paid employees less than minimum wage, evading scrutiny. Grimm is also accused of lying under oath in a federal lawsuit. His lawyer claims the investigation is a politically driven vendetta, asserting Grimm’s innocence and vowing his vindication. While no campaign finance charges have been filed, the investigation into his 2010 fundraising efforts continues. Grimm, known for his hot temper, recently threatened a reporter during an interview, adding to his reputation for congressional misbehavior. He is up for re-election in November. END OF SUMMARY.

@@ -1,0 +1,38 @@
+<think>
+Okay, so I'm trying to help the user with their query. They want me to act as a news summarizer and a moral expert. The task is to first identify all the morally framed single words in the given news article and then write a summary preserving those moral frames. 
+
+First, I need to understand what morally framed words are. These are words that carry a moral judgment, like "fraud," "corruption," "lying," etc. I'll go through the article and pick out each word that has a moral connotation.
+
+Looking at the article, the first morally framed word I see is "fraud." The article mentions "federal fraud charges," so that's one. Then, "corruption" is another. There's also "lying under oath," so "lying" is a moral term. "Obstruction of justice" is another, so "obstruction" and "justice" are involved, but "obstruction" is the key here.
+
+Next, "funneling" money illegally is another moral term. "Visa fraud" is mentioned, so "fraud" again. "Misuse" of office is a moral issue. "Politically driven vendetta" includes "vendetta," which is a moral term. "Malicious leaks" and "violations" of grand jury secrecy are also moral. "Strong-arm tactics" is another moral term. "Vindicated" implies innocence, so that's a positive moral frame. "Hot-tempered" is a character flaw, so that's moral. "Bizarre threat" and "intimidation" are moral issues. "Manipulation" of the legal system is another.
+
+Now, I need to write a summary that includes as many of these words as possible. The summary should be concise, under 200 words, and capture the essence of the article while highlighting the moral aspects.
+
+I'll start by mentioning Grimm's expected indictment on fraud and corruption charges. Then, I'll note the focus on his restaurant and lying under oath. Mention the investigation started with fundraising, including funneling money and visa fraud. Include that campaign finance charges aren't part of the indictment yet. Note Grimm's lawyer calling it a politically driven vendetta and his claims of innocence. Then, mention his reputation for being hot-tempered and the threat he made to the reporter. Finally, mention the restaurant's issues with workers' compensation and wage violations.
+
+I need to make sure each morally framed word is included without making the summary too long. I'll structure it to flow naturally, ensuring each point is clear and concise.
+</think>
+
+**STEP 1:**  
+* Fraud  
+* Corruption  
+* Lying  
+* Obstruction  
+* Funneling  
+* Fraud  
+* Misuse  
+* Vendetta  
+* Malicious  
+* Violations  
+* Strong-arm  
+* Vindicated  
+* Hot-tempered  
+* Bizarre  
+* Threat  
+* Intimidation  
+* Manipulation  
+
+**SUMMARY:**  
+Representative Michael G. Grimm, a former F.B.I. agent and Marine, is expected to face federal fraud and corruption charges following a lengthy investigation into his conduct. The charges are reportedly linked to his ownership of a health food restaurant and include allegations of lying under oath, mail fraud, wire fraud, and obstruction of justice. The investigation, led by the F.B.I. and Brooklyn U.S. attorney’s office, began with an examination of Grimm’s 2010 campaign fundraising, which involved funneling illegal contributions and visa fraud. While no campaign finance charges are expected, the probe continues. Grimm’s lawyer claims the case is a politically driven vendetta and insists his client is innocent. Grimm, known for a hot-tempered reputation, recently made a bizarre threat to a reporter during an interview. His restaurant, Healthalicious, faced accusations of workers’ compensation violations and underpayment of employees, leading to its dissolution. Grimm is up for re-election in November.  
+**END OF SUMMARY.**

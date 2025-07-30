@@ -1,0 +1,14 @@
+Alright, I need to help the user by summarizing the given news article while preserving the moral framing. First, I should understand the article's content. It's about the NRA's report advocating for arming schools, the debate around it, and the reactions from different groups.
+
+The user wants a summary that includes as many of the morally framed words as possible. I should identify those words in the article: safety, armed, security, diminishes, shooting, killed, massacre, tragedy, plan, put, continuation, prey, saturate, turn, name-calling, safer, efforts, prevent, respond, attacks, plans.
+
+I need to make sure the summary includes these terms without making it too long. The summary should be concise, under 200 words. I'll start by outlining the main points: the NRA's report, the recommendations, the criticism, the support from a Newtown parent, and the legislative context.
+
+I'll structure the summary to include the key elements: the report's call for armed personnel, the criticism from gun control advocates, the support from a parent, and the legislative backdrop. I'll use the moral terms where appropriate, like "safety," "armed," "security," "massacre," "tragedy," "continuation," "prey," "saturate," "safer," "prevent," "attacks," "plans."
+
+I should ensure the summary flows logically, starting with the report's recommendations, then the criticism, the support, and the legislative actions. I'll check that I'm not adding any new information beyond what's in the article and that I'm preserving the moral framing by using those specific words.
+
+Finally, I'll make sure the summary is under 200 words and ends with the specified tokens. I'll review it to ensure clarity and that all key points are covered while maintaining the moral perspective.
+</think>
+
+SUMMARY: A National Rifle Association (NRA) task force has released a report advocating for armed police, guards, or staff in every U.S. school to enhance safety and security. The report, unveiled with heavy security, argues that armed personnel can diminish response times during shootings, referencing a 1997 Mississippi case where an armed assistant principal subdued a gunman. Critics, including gun control advocates and Democrats, argue that arming teachers is a flawed response to tragedies like the Sandy Hook massacre, urging broader solutions instead of saturating schools with guns. The NRA’s plan, though technically independent, faces accusations of preying on fears and turning schools into armed fortresses. However, some Newtown parents, like Mark Mattioli, whose son was killed, support the report as offering real solutions for safer schools. Indiana is considering armed officers in schools, while Congress debates new gun legislation, including mandatory background checks. The report’s recommendations, including training and security plans, aim to prevent and respond to attacks, but their implementation and costs remain unclear. END OF SUMMARY.

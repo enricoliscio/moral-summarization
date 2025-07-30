@@ -1,0 +1,37 @@
+Okay, so I need to help the user by summarizing the given news article while preserving the moral framing. First, I should understand what the user is asking for. They provided a detailed article about Elizabeth Lauten's resignation after a Facebook post about the Obama daughters. They want me to identify morally framed words and then write a summary using those words.
+
+Hmm, the user is probably a student or someone working on a project where they need to analyze moral language in media. They might be looking to understand how certain words carry moral weight and how that affects the narrative. 
+
+Alright, step one is to find all the single words that are morally framed. I'll go through the article and pick out words that have a clear moral connotation. Words like "berating," "class," "respect," "sniping," "dignity," "disdain," "criticized," "judgment," "condemned," "condescending," "condescension," "disgrace," "scorn," "condemned," "condescending," "condescension," "disgrace," "scorn," "condemned," "condescending," "condescension," "disgrace," "scorn." I should make sure each of these words is indeed carrying a moral judgment.
+
+Next, the summary needs to include as many of these words as possible without making it too long. I should capture the main points: Lauten's post, the reaction, her resignation, and the broader implications about social media and public scrutiny. I need to make sure the summary flows naturally and stays within 200 words.
+
+I think I should start by introducing Lauten and her action, then move to the consequences, including the reactions and her apology. Finally, touch on the broader lesson about social media and public figures. I'll need to weave in the morally framed words to maintain the original tone.
+
+Wait, did I miss any words in the first step? Let me double-check. The article mentions "berating," "class," "respect," "sniping," "dignity," "disdain," "criticized," "judgment," "condemned," "condescending," "condescension," "disgrace," "scorn." I think that's all. 
+
+For the summary, I'll structure it to include her resignation, the content of her post, the public reaction, her apology, the White House's response, and the broader context of public scrutiny. I'll make sure each paragraph isn't too long and that the morally framed words are included where appropriate.
+
+I should also keep the language clear and concise, avoiding any markdown as per the instructions. Let me draft the summary, making sure it's under 200 words and includes all the key points with the moral framing intact.
+</think>
+
+### STEP 1:
+* berating  
+* class  
+* respect  
+* sniping  
+* dignity  
+* disdain  
+* criticized  
+* judgment  
+* condemned  
+* condescending  
+* condescension  
+* disgrace  
+* scorn  
+
+---
+
+### SUMMARY:
+A young Republican congressional aide, Elizabeth Lauten, resigned after her Facebook post berating President Obama’s daughters for their attitude and outfits during the White House turkey pardon went viral. Lauten criticized the girls for lacking "class" and "respect," suggesting they should dress more appropriately. Her comments were widely condemned as condescending and disrespectful, sparking outrage online. Lauten later apologized, acknowledging her judgment of the teenagers. The incident highlights the dangers of social media sniping and the intense scrutiny faced by public figures' children. The White House press secretary condemned the attack, and Patti Davis, Ronald Reagan's daughter, empathized with the Obama girls, noting the unfairness of public judgment. The episode underscores the challenges of balancing public expectations with personal dignity.  
+END OF SUMMARY.

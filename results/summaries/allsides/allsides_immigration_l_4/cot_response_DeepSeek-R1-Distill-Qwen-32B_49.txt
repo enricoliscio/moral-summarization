@@ -1,0 +1,40 @@
+Alright, so I'm trying to help the user with their query. They want me to act as a news summarizer and a moral expert. The task is to summarize a given news article while preserving the moral framing. 
+
+First, I need to understand what the user is asking for. They provided a news article about Donald Trump's revised travel ban and its impact, along with specific instructions on how to process it. The user wants me to identify morally framed words and then write a summary using those terms.
+
+Okay, so the first step is to identify all the single words that are morally framed in the article. I should go through the text and pick out words that carry moral connotations. Words like "woes," "disappointment," "criminals," "famine," "chaotic," "desperate," "unjust," "discriminatory," "wrong," "unnecessary," "divisive," "exemplifying," "humanitarian," "gold standard," "complicate," "abdicating," "terrible message," "wrong," "unnecessary," "divisive," and "exemplifying." These words carry moral weight and reflect the author's framing.
+
+Next, I need to write a concise summary of the article, making sure to include as many of these morally framed words as possible. The summary should be under 200 words. I'll start by outlining the main points: the UN's criticism, the impact on refugees, the revised ban's details, reactions from affected countries, and the moral implications.
+
+I should ensure that the summary flows well and captures the essence of the article while emphasizing the moral aspects. I'll mention the UN's concerns, the specific countries affected, the suspension of the refugee program, and the reactions from various countries and organizations. I'll also highlight the moral criticism, such as the ban being unnecessary, divisive, and wrong, as well as the positive moral standards the US has upheld before.
+
+I need to be careful to include all the morally framed words without making the summary too cluttered. I'll structure it to first present the UN's stance, then the details of the ban, followed by reactions and criticisms, and conclude with the broader implications.
+
+Finally, I'll make sure the summary starts with "SUMMARY:" and ends with "END OF SUMMARY." while keeping it within the word limit. I'll review the summary to ensure it accurately reflects the article's content and maintains the moral framing as required.
+</think>
+
+**STEP 1:**  
+* Woes  
+* Disappointment  
+* Criminals  
+* Famine  
+* Chaotic  
+* Desperate  
+* Unjust  
+* Discriminatory  
+* Wrong  
+* Unnecessary  
+* Divisive  
+* Exemplifying  
+* Humanitarian  
+* Gold standard  
+* Complicate  
+* Abdicate  
+* Terrible message  
+* Wrong  
+* Unnecessary  
+* Divisive  
+* Exemplifying  
+
+**SUMMARY:**  
+The UN has criticized Donald Trump’s revised travel ban, stating it will increase the woes of refugees and deepen their suffering. The ban blocks entry from six Muslim-majority countries and suspends the US refugee program, despite some countries’ cooperation in anti-terrorism efforts. UN officials highlighted the plight of refugees, calling them ordinary people fleeing war and persecution, and criticized the revised order as unnecessary and divisive. Some affected countries expressed disappointment, while others, like Iran, maintained retaliatory measures. The revised ban excludes Iraq, a key ally in the fight against ISIS. The UN urged the US to uphold its humanitarian ideals and global leadership in refugee protection, emphasizing the moral imperative to assist those fleeing violence. Critics, including Britain’s shadow foreign secretary, condemned the ban as a retrograde step, abdicating international responsibilities. The revised order includes minor changes to address legal challenges but remains morally contentious. END OF SUMMARY.

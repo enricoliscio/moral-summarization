@@ -1,0 +1,68 @@
+<think>
+Okay, I need to help the user by summarizing a news article while preserving the moral framing. First, I'll read through the article to understand the context. It's about a UN meeting discussing human rights, specifically how development and peace are crucial for human rights. Delegations from various countries are emphasizing these points.
+
+The user wants me to identify all single words that are morally framed. So, I'll go through the article and pick out words that carry moral connotations. Words like "unrealistic," "suffering," "lack," "poverty," "hunger," "poor health," "human rights," "right," "preconditions," "universal," "protection," "promotion," "international," "peace," "security," "scourges," "ills," "disease," "narcotic drugs," "armed conflicts," "terrorism," "transnational organized crime," "globalization," "marginalize," "alienate," "rights," "duties," "instruments," "development gap," "realization," "underdevelopment," "capacity," "expediency," "compromise," "lapse," "vigilance," "promoting," "strengthening," "terrorism," "multilateral," "war," "discussions," "prioritize," "address," "global challenges," "collaboration," "international cooperation," "equality," "equity," "solidarity," "progress," "peace," "prosperity."
+
+Next, I need to write a concise summary, keeping these moral words. The summary should be under 200 words. I'll start by stating the main topic: the UN debate on human rights, emphasizing development and peace. Then, mention how delegates highlighted the importance of development and peace for human rights. Include points about the interconnectedness of rights and development, the role of people in development, the impact of globalization on developing countries, and the US's stance on human rights in fighting terrorism. Finally, note that the debate continued with other countries and the committee's next meeting.
+
+I need to ensure the summary flows well and includes as many moral terms as possible without making it too long. I'll structure it to cover all key points succinctly, making sure each sentence conveys the moral framing effectively.
+</think>
+
+**STEP 1:**  
+* unrealistic  
+* suffering  
+* lack  
+* poverty  
+* hunger  
+* poor health  
+* human rights  
+* right  
+* preconditions  
+* universal  
+* protection  
+* promotion  
+* international  
+* peace  
+* security  
+* scourges  
+* ills  
+* disease  
+* narcotic drugs  
+* armed conflicts  
+* terrorism  
+* transnational organized crime  
+* globalization  
+* marginalize  
+* alienate  
+* rights  
+* duties  
+* instruments  
+* development gap  
+* realization  
+* underdevelopment  
+* capacity  
+* expediency  
+* compromise  
+* lapse  
+* vigilance  
+* promoting  
+* strengthening  
+* terrorism  
+* multilateral  
+* war  
+* discussions  
+* prioritize  
+* address  
+* global challenges  
+* collaboration  
+* international cooperation  
+* equality  
+* equity  
+* solidarity  
+* progress  
+* peace  
+* prosperity  
+
+**SUMMARY:**  
+At the UN General Assembly's Third Committee, delegates emphasized that human rights could not be fully enjoyed without addressing development, poverty, hunger, and poor health. They stressed that the right to development and international peace and security are crucial preconditions for universal human rights. Thailand highlighted the interconnectedness of human rights and development, advocating for people-centered social and economic efforts to combat disease, terrorism, and other ills. Eritrea and China warned that globalization risks marginalizing developing countries and hindering their ability to exercise rights, including the right to development. The U.S. delegate stated that protecting human rights is essential to winning the fight against terrorism, emphasizing no compromise or expediency. The debate continued with representatives from multiple countries, underscoring the need for global collaboration to address these challenges. The committee will meet again to further discuss human rights.  
+**END OF SUMMARY.**

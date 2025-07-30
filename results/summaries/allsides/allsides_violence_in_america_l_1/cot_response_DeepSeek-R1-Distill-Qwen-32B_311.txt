@@ -1,0 +1,33 @@
+Alright, I need to tackle this query step by step. The user has provided a news article and wants me to summarize it while preserving the moral framing. They've also specified two main tasks: identifying morally framed words and writing a concise summary.
+
+First, I'll read through the article to understand the context. It's about a violent confrontation in Louisville where a man was killed by police and the National Guard. The incident happened during protests over Breonna Taylor's death. The moral framing is crucial here, so I need to pick out words that carry moral connotations.
+
+For STEP 1, I'll go through each sentence and note words that imply judgment or moral evaluation. Words like "killed," "violent," "opened fire," "protests," "unarmed," "justice," "trust," "assaulted," "inflame," "innocent," "unjust," "accountability," and "reform" stand out. These words carry moral weight and reflect the author's framing.
+
+Next, for the summary, I need to condense the article while keeping these moral terms. I'll start by stating the incident, then mention the protests and the context of Breonna Taylor's death. I'll include the Governor's investigation and the police chief's comments about distrust and the need for reform. I'll also note the impact on tensions and the call for justice. I need to keep it under 200 words, so I'll be concise but include all key points.
+
+I should ensure that the summary flows well and maintains the moral perspective. It's important to highlight the key events and the underlying issues of trust and justice. I'll make sure to include the fact that Taylor was unarmed and the failure to hold officers accountable, as these are central to the moral framing.
+
+Finally, I'll review both the identified words and the summary to ensure accuracy and that the moral elements are preserved. This way, the user gets a clear, concise summary that reflects the article's moral stance.
+</think>
+
+### STEP 1:  
+* killed  
+* violent  
+* opened fire  
+* protests  
+* unarmed  
+* justice  
+* trust  
+* assaulted  
+* inflame  
+* innocent  
+* unjust  
+* accountability  
+* reform  
+
+---
+
+### SUMMARY:  
+A man was killed when police and the National Guard opened fire in Louisville during a violent confrontation with a crowd. The incident occurred after nights of destructive protests over the fatal police shooting of Breonna Taylor, an unarmed African American EMT, and the death of George Floyd. Gov. Andy Beshear authorized an independent investigation into the fatal shooting, while Metro Police Chief Steve Conrad stated that someone in the crowd fired at officers, leading to the return of fire. Conrad acknowledged the lack of trust in police and emphasized the need to address the issue. The shooting is likely to further inflame tensions in Louisville, where protesters demand justice for Taylor, whose death has sparked widespread outrage over police violence and the failure to hold officers accountable. The incident underscores the ongoing struggle for trust, justice, and reform in law enforcement.  
+END OF SUMMARY.

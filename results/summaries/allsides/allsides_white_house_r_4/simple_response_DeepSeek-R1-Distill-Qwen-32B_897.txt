@@ -1,0 +1,12 @@
+Alright, I need to help the user by summarizing the given news article while preserving the moral framing. Let me read through the article first to understand the main points.
+
+The article talks about the Obama Doctrine, which is a set of foreign policies under President Obama. The author is critical, arguing that Obama's approach is more about appearances than real action. He mentions examples like Libya, Israel, Syria, Ukraine, Iran, and Nigeria where Obama's policies seemed inconsistent or ineffective. The author claims Obama uses emotional appeals but doesn't commit to long-term solutions, leading to more casualties.
+
+I need to capture this critical perspective in the summary. I should highlight the key points: the inconsistency in Obama's policies, the focus on short-term actions, and the moral failure in not addressing global issues effectively. I'll make sure to mention the examples given to support the argument without going into too much detail.
+
+Also, the user specified that the summary should be concise, no longer than 200 words, and start with "SUMMARY:" and end with "END OF SUMMARY." I'll structure it to include the main criticism and the examples, keeping the moral framing intact.
+
+Let me draft it now, ensuring it's within the word limit and conveys the author's critical stance clearly.
+</think>
+
+SUMMARY: The article critiques the Obama Doctrine, arguing that it is characterized by a focus on appearances over substance. President Obama, according to the author, often uses emotional appeals and short-term actions to address global crises but fails to commit to sustained efforts that could lead to real change. Examples include Libya, where he supported intervention, and Syria, where his red line on chemical weapons was not enforced. The author accuses Obama of prioritizing popularity and media optics over meaningful action, leaving innocent people to suffer. In cases like Egypt, Iran, Ukraine, and Nigeria, Obama expressed concern but took minimal or ineffective steps. The article concludes that Obama’s approach is dangerous, as it creates the illusion of caring without addressing the root causes of conflicts, leading to increased casualties and instability. END OF SUMMARY.

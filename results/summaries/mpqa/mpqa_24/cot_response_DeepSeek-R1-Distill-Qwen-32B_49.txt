@@ -1,0 +1,58 @@
+Alright, I need to help the user with their query. They provided a news article about NASA's new administrator and want a summary that preserves the moral framing. 
+
+First, I should understand the task. They want me to identify morally framed single words and then write a summary using those words. 
+
+Looking at the article, I need to find words that carry moral implications. Words like "soaring," "dysfunctional," "credibility," "bloat," "morass," "scalped," "credible," "defy," "close off," "visionary," "mandate," "clean up," "neat," "recover," "disaster," "cut," "fiscal," "sleight," "diplomacy," "opposition," "agreements," "close off," "message," "reform," "priorities," "public," "good," "balance," "stewardship," "future," "value," "integrity," "vision," "public," "good," "balance," "stewardship," "future," "value," "integrity," "vision," "public," "good," "balance," "stewardship," "future," "value," "integrity," "vision."
+
+Now, I need to write a concise summary (under 200 words) that includes these words, preserving the moral tone. I'll focus on the key points: Goldin's legacy, O'Keefe's background, the issues with the space station costs, the administration's message, and the potential impact on NASA's future.
+
+I'll structure the summary to highlight the shift from exploration to cost-cutting, the credibility issues, and the challenges O'Keefe faces. I'll make sure to include the morally framed words to maintain the author's perspective.
+
+Let me draft the summary, ensuring it's clear and within the word limit. I'll check each sentence to include the necessary moral terms without making it too verbose.
+</think>
+
+**STEP 1:**  
+* soaring  
+* dysfunctional  
+* credibility  
+* bloated  
+* morass  
+* red-penciled  
+* credible  
+* defy  
+* close off  
+* visionary  
+* mandate  
+* clean up  
+* neat  
+* recover  
+* disaster  
+* cut  
+* fiscal  
+* sleight  
+* diplomacy  
+* opposition  
+* agreements  
+* close off  
+* message  
+* reform  
+* priorities  
+* public  
+* good  
+* balance  
+* stewardship  
+* future  
+* value  
+* integrity  
+* vision  
+* public  
+* good  
+* balance  
+* stewardship  
+* future  
+* value  
+* integrity  
+* vision  
+
+**SUMMARY:**  
+NASA faces a new era as President Bush appoints Sean O'Keefe, a fiscal expert, to replace Daniel Goldin, known for his "faster, better, cheaper" approach. Goldin's tenure saw successes like finding water on the moon and exploring Mars but also credibility issues in manned spaceflight, particularly with the bloated costs of the International Space Station, which escalated from $17.4 billion to over $30 billion. O'Keefe's appointment signals a shift from exploration to cost-cutting, with the agency needing to clean up its act and restore credibility. The new administrator must navigate a fiscal morass, balancing international agreements and defying opposition from partners. Critics argue that scaling back the station violates commitments, but O'Keefe's background in budgeting may help reform NASA's priorities. His mandate is to fix the space station and restore fiscal integrity, potentially paving the way for future visionary missions. END OF SUMMARY.

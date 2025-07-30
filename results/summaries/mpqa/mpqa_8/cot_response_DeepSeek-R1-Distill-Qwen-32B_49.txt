@@ -1,0 +1,28 @@
+Alright, so I've got this query where I need to act as a news summarizer assistant and a moral expert. The user provided a news article and specific instructions on how to process it. Let me break down what they're asking for.
+
+First, the user wants me to identify all the single words that are morally framed in the text. They mentioned that this step should be labeled as "STEP 1:" and each word listed with a * at the beginning on a new line. I need to make sure I pick up on words that carry moral connotations, like "challenge," "normalcy," "opening," "communication," "harmony," "revenge," "failed," "support," "promise," "dialogue," and "visit." These words seem to carry the author's moral perspective.
+
+Next, I have to summarize the article, preserving as many of these morally framed words as possible. The summary needs to be concise, under 200 words, and should follow the "SUMMARY:" token, ending with "END OF SUMMARY." I should ensure the summary captures the key points: Cardoso's view on Chavez's challenge, Chavez's stance on revenge, and Carter's support.
+
+I also need to make sure that the summary flows naturally and maintains the moral framing. I should avoid introducing new information not present in the original text. Let me check each point again to ensure I haven't missed anything.
+
+Wait, the user mentioned that the assistant should not use markdown and keep the thinking in English. I should make sure my response adheres to that. Also, the initial response provided by the user seems to have a clear structure, so I should follow that format closely.
+
+I think I've covered all the steps. I'll proceed to list the morally framed words and then craft a concise summary that includes them. I'll double-check the word count to stay within the limit. Okay, time to put it all together.
+</think>
+
+**STEP 1:**  
+* challenge  
+* normalcy  
+* opening  
+* communication  
+* harmony  
+* revenge  
+* failed  
+* support  
+* promise  
+* dialogue  
+* visit  
+
+**SUMMARY:**  
+President Fernando Henrique Cardoso has stated that Hugo Chavez's main challenge is reestablishing normalcy in Venezuela after last week's conflicts. Cardoso emphasized the importance of opening communication channels and achieving social harmony. Chavez assured Cardoso he has no intention of seeking revenge against military personnel involved in the failed coup attempt. Former U.S. President Jimmy Carter has expressed support for Chavez's commitment to setting up dialogue tables and is planning a visit to Venezuela soon. END OF SUMMARY.

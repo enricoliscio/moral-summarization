@@ -1,0 +1,14 @@
+Alright, I need to help the user by summarizing the given news article. The user specified that the summary should be under 200 words, start with "SUMMARY:" and end with "END OF SUMMARY." They also mentioned that I'm a news summarizer assistant, so my goal is to provide a concise and accurate summary.
+
+First, I'll read through the article to understand the main points. The article is about the U.S. House Judiciary Committee subpoenaing Rob Porter, a former White House aide, to testify about President Trump's alleged efforts to impede the Russian interference investigation. It mentions that this is the third subpoena in two weeks, with others being Corey Lewandowski and Rick Dearborn. Their testimony is scheduled for September 17.
+
+The key points include the committee's aim to determine if Trump should be impeached, Rob Porter's role as a witness in the Mueller report, the specific instances of obstruction of justice, and Trump's interactions with Don McGahn and Rachel Brand. Also, it's noted that Porter left the White House in 2018 due to domestic abuse allegations.
+
+I need to condense all this information into a summary that's clear and within the word limit. I'll start by identifying the main actors and their roles, the purpose of the subpoenas, and the implications for the impeachment inquiry. I'll make sure to include the significant details from the Mueller report and the potential consequences for Trump.
+
+I should also keep the language concise and avoid any unnecessary details. The summary should flow logically, starting with the subpoena, the purpose, the individuals involved, the key events from the Mueller report, and the implications for the ongoing investigation.
+
+Finally, I'll structure the summary to fit within the specified tokens, ensuring it's under 200 words and covers all essential points without being too verbose.
+</think>
+
+SUMMARY: The U.S. House Judiciary Committee has subpoenaed former White House aide Rob Porter to testify about President Donald Trump's alleged efforts to impede the federal probe into Russian interference in the 2016 election. Porter, along with former campaign manager Corey Lewandowski and former White House Deputy Chief of Staff Rick Dearborn, is set to appear before the committee on Sept. 17. The aim is to determine whether to recommend Trump's impeachment. Porter was a key figure in former Special Counsel Robert Mueller's report, which detailed Trump's efforts to obstruct justice, including pressuring former White House Counsel Don McGahn to fire Mueller and lie about it. Democrats also want Lewandowski and Dearborn to testify about Trump's alleged pressure on former Attorney General Jeff Sessions to influence the Russia investigation. Porter left the White House in 2018 amid domestic abuse allegations. END OF SUMMARY.

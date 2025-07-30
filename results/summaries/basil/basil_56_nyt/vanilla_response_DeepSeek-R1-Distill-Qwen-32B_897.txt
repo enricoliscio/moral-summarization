@@ -1,0 +1,12 @@
+Alright, so the user wants me to summarize a news article about Senator Marco Rubio's foreign policy speech. I need to make sure the summary is concise, under 200 words, and follows the specific format they mentioned.
+
+First, I'll read through the article to understand the key points. The article compares Rubio's approach to the Obama and Bush doctrines. Rubio's speech has three main pillars: military strength, economic protection, and moral values. He emphasizes funding the military even in peace, opposing violations in international spaces, and promoting freedom and alliances.
+
+I should start the summary by introducing Rubio and his speech. Then, outline his three pillars clearly. Mention his priorities like funding the military and opposing violations. Also, include his broader vision about spreading freedom and supporting vulnerable groups.
+
+I need to keep the language clear and straightforward, avoiding any jargon. Make sure the summary flows well and covers all the main points without going into too much detail. Finally, end with the required tokens as specified.
+</think>
+
+SUMMARY:  
+Senator Marco Rubio, a 2016 Republican presidential candidate, will outline his foreign policy approach in a speech at the Council on Foreign Relations. His strategy, which he describes as having three pillars, focuses on ensuring American strength, protecting the economy in a globalized world, and preserving the moral clarity of U.S. core values. Rubio emphasizes the need to "adequately fund" the military, even in times of peace, and opposes violations of international waters, airspace, cyberspace, and outer space. He also vows to counter economic disruptions caused by invasions and promote the spread of economic and political freedom. Rubio’s vision includes reinforcing alliances, resisting large powers’ subjugation of smaller neighbors, and advancing the rights of vulnerable groups, such as women and religious minorities. His speech aims to position him as a defense hawk and differentiate him in a crowded primary field.  
+END OF SUMMARY.

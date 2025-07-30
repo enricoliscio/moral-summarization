@@ -1,0 +1,14 @@
+Alright, so the user has given me a task to summarize a news article while preserving the moral framing. They also want the summary to be under 200 words, starting with "SUMMARY:" and ending with "END OF SUMMARY." 
+
+First, I need to read through the provided news article to understand the main points. The article is about Elizabeth Lauten, a communications director for a Republican congressman, who made a critical Facebook post about the Obama daughters. She criticized their outfits and behavior during the Thanksgiving address, implying they weren't good role models. She later apologized, acknowledging her judgmental approach and the hurt caused.
+
+Now, I should focus on the moral aspects. The original text frames the situation with a moral critique, highlighting the insensitivity of the comments and the subsequent apology. It's important to capture that Lauten's remarks were not just critical but also made without understanding the context, and that her apology reflects a moral lesson about empathy and respect.
+
+I need to make sure the summary includes all key elements: who Lauten is, her criticism, the specifics of her comments, the context of the Thanksgiving event, her apology, and the lack of response from the White House and Fincher. I should keep it concise, under 200 words, and ensure the moral framing is clear.
+
+I'll start by introducing Lauten and her role, then move to her critical post, the specifics of her critique, the event context, her apology, and the aftermath. I need to ensure the summary flows logically and sticks to the main points without unnecessary details.
+
+Also, I should avoid any markdown and keep the language clear and straightforward. Let me draft the summary, making sure it's within the word limit and properly framed.
+</think>
+
+SUMMARY: Elizabeth Lauten, a communications director for Republican Rep. Stephen Fincher, apologized after posting a critical Facebook comment about Malia and Sasha Obama during President Barack Obama's Thanksgiving address. Lauten criticized the first daughters' outfits, suggesting they lacked class and respect, and implied they were poor role models due to their parents' behavior. The post, made during the traditional turkey pardoning ceremony, was later deleted. Lauten apologized, acknowledging her judgmental tone and the hurt caused, stating she had grown from the experience. Neither the White House nor Fincher responded publicly to the incident. The incident highlights the tension between public scrutiny of political figures' families and the importance of empathy and respect in public discourse. END OF SUMMARY.

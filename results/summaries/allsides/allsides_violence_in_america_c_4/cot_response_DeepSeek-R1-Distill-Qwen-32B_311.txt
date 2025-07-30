@@ -1,0 +1,64 @@
+Okay, I need to help the user by summarizing a news article while preserving the moral framing. First, I should understand what the user is asking for. They want me to act as a news summarizer and a moral expert. The task has two parts: first, identifying all single words that are morally framed in the article, and second, writing a concise summary that includes as many of these morally charged words as possible.
+
+Starting with STEP 1, I need to go through the article and pick out words that carry moral connotations. These words often express approval, disapproval, or have a strong emotional impact. For example, words like "arrested," "protests," "acquittal," "violent," "peaceful," "disorder," "smashed," "block," "agitated," "control," "protect," "acquittal," "murder," "shooting," "evoked," "riots," "confiscating," "weapons," "chemical," "decontaminated," "peaceful protest," "protesters," "riot gear," "force," "assignment," "handcuffs," "released," "violence," "flared," "bats," "hammers," "shattered," "skirmished," "injuries," "acquitted," "killing," "indicted," "Black Lives Matter," "institutional racism," "cleared," "unarmed," "planted," "weapon," "believed," "gun," "chased," "drug deal."
+
+Now, for the summary, I need to condense the article into 200 words or less, making sure to include as many of these moral words as possible. The summary should capture the key events: the protests in St. Louis after the acquittal of a police officer, the violent turn, arrests, the mayor's statement, the police's response, comparisons to past riots, and the underlying issues like institutional racism and the Black Lives Matter movement.
+
+I'll structure the summary by starting with the acquittal and the resulting protests, then describe the violent actions, police response, and the moral implications. I'll include quotes to highlight the emotions and the issues at stake, like the fear for lives and the comparison between replacing windows and saving lives.
+
+I need to ensure that the summary flows well, is concise, and retains the moral framing from the original article. I should avoid adding any personal opinions but stick to the facts and the moral language used.
+
+Let me draft the summary, making sure to include all key points and as many morally framed words as possible without exceeding the word limit.
+</think>
+
+**STEP 1:**
+* arrested
+* protests
+* acquittal
+* violent
+* peaceful
+* disorder
+* smashed
+* block
+* agitators
+* control
+* protect
+* acquittal
+* murder
+* shooting
+* evoked
+* riots
+* confiscating
+* weapons
+* chemical
+* decontaminated
+* peaceful protest
+* protesters
+* riot gear
+* force
+* assignment
+* handcuffs
+* released
+* violence
+* flared
+* bats
+* hammers
+* shattered
+* skirmished
+* injuries
+* acquitted
+* killing
+* indicted
+* Black Lives Matter
+* institutional racism
+* cleared
+* unarmed
+* planted
+* weapon
+* believed
+* gun
+* chased
+* drug deal
+
+**SUMMARY:**
+Following the acquittal of former St. Louis police officer Jason Stockley in the 2011 shooting death of Anthony Lamar Smith, protests turned violent for three consecutive nights. On Sunday, over 80 people were arrested as police in riot gear used pepper spray to disperse the crowd. Mayor Lyda Krewson condemned the violence, attributing it to "a group of agitators," while police Commissioner Lawrence O’Toole emphasized control and protection of the city. The protests mirrored the 2014 Ferguson riots, with windows smashed, highways blocked, and weapons confiscated. Police faced chemical attacks, requiring decontamination. A peaceful protest earlier in the day gave way to chaos, with some photographers detained. The violence evoked fears for lives, as one protester noted, "Windows can be replaced. Lives can’t." The acquittal reignited debates over institutional racism and police accountability, echoing the Black Lives Matter movement. The protests highlight ongoing tensions over systemic issues in law enforcement. END OF SUMMARY.

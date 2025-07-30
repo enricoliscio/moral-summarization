@@ -1,0 +1,26 @@
+Okay, so I need to help the user by summarizing a news article while preserving the moral framing. The user provided a detailed query with specific steps. Let me break it down.
+
+First, I should identify all the single words that are morally framed. These are words that carry a positive or negative moral connotation. Looking through the article, I spot words like "unique," "complex," "hostile," "pivotal," "flawlessly," "smoothly," "flawlessly," "bound to occur," "normal," "smoothly," "flawlessly." These words highlight the complexity, success, and challenges involved, which are key to the moral framing.
+
+Next, I need to write a concise summary. I'll start by mentioning the installation of the space railway by Canadarm2, emphasizing its complexity and hostile environment. I'll note the successful operation despite challenges, like the joint anomaly, and the smooth performance. I'll also mention the future additions, like the handcar, to show ongoing progress.
+
+I must ensure the summary is under 200 words and includes the morally framed words. I'll structure it to first introduce Canadarm2, then its role, the successful operation, and future plans, all while highlighting the positive and challenging aspects.
+
+Finally, I'll make sure to use the specified tokens, starting with "SUMMARY:" and ending with "END OF SUMMARY." I'll keep each section clear and separate as per the instructions.
+</think>
+
+**STEP 1:**  
+* unique  
+* complex  
+* hostile  
+* pivotal  
+* flawlessly  
+* smoothly  
+* flawlessly  
+* bound to occur  
+* normal  
+* smoothly  
+* flawlessly  
+
+**SUMMARY:**  
+Canadarm2, a unique and highly complex robot, has successfully laid the groundwork for a space railway on the International Space Station. Operating in an extremely hostile environment, the Mobile Transporter, or rail car, was prepared by astronauts from Atlantis for its first test. Despite its slow speed of just three centimeters per second, the rail car is a critical component of a 120-meter girder that will support solar panels generating power for the station. Canadarm2, Canada's contribution to the space station, flawlessly installed the S-0 truss segment and moved astronauts during spacewalks. Although a minor anomaly was detected in one of its joints, Canadian engineers resolved the issue, ensuring Canadarm2's operations remained smooth and flawless. The arm's ability to draw power through the new truss and its pivotal role in future construction highlight its importance. Future missions will add more truss segments and a handcar to improve astronaut mobility. END OF SUMMARY.

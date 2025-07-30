@@ -1,0 +1,26 @@
+Alright, so the user has given me a query where they want me to summarize a news article. Let me read through the article first. It's about President Cardoso's reaction to the US decision on greenhouse gases. 
+
+Okay, the article says that Cardoso believes the US decision is positive even though they didn't ratify the Kyoto Protocol. He hopes their domestic measures will have the same effect as the protocol. 
+
+I need to create a summary that's concise, no more than 200 words. The summary should start with "SUMMARY:" and end with "END OF SUMMARY." 
+
+First, I'll identify the key points: who, what, where, when. President Cardoso from Brazil, his opinion on the US's decision, the context of the Kyoto Protocol. 
+
+I should make sure to mention that the US didn't ratify the protocol but took other measures. Also, include Cardoso's hope that these measures will be as effective as the protocol. 
+
+I need to keep the language clear and straightforward. Maybe start with the location and date, then the main statement. 
+
+Let me structure it: Location and date, Cardoso's statement, the US's action, and his hope. 
+
+I should avoid any unnecessary details to keep it under 200 words. 
+
+Wait, the user also mentioned that the summary should be after "SUMMARY:" and end with "END OF SUMMARY." So I'll make sure to format it correctly without any markdown.
+
+Let me put it all together: Start with the location and date, then Cardoso's comment on the US decision, mention the US not ratifying Kyoto, and his hope for the measures' effectiveness. 
+
+I think that covers all the necessary points. Let me check the word count to ensure it's within the limit. 
+
+Yes, that should be concise enough. I'll make sure it flows well and is easy to understand.
+</think>
+
+SUMMARY: President Fernando Henrique Cardoso of Brazil has expressed a positive view of the United States' decision to implement measures to control greenhouse gases, despite the U.S. not ratifying the Kyoto Protocol. Speaking in Brasilia, Cardoso acknowledged the U.S.'s importance in global climate efforts and expressed hope that its domestic actions would achieve the same impact as adhering to the Kyoto Protocol. END OF SUMMARY.

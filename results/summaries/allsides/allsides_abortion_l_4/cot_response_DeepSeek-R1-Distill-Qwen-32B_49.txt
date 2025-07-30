@@ -1,0 +1,45 @@
+Alright, I need to help the user with their query. They want me to act as a news summarizer assistant and a moral expert. The task is to summarize a given news article while preserving the moral framing. 
+
+First, I should understand the article. It's about Wendy Davis's stance on abortion, where she mentions wanting zero abortions. The author argues that this is unrealistic and harmful because abortion is necessary and a safe medical procedure. They criticize the framing as it stigmatizes women and ignores real-life situations.
+
+The user has two steps: first, identify all single words that are morally framed, each on a new line with a *. Second, write a summary preserving those moral terms, under 200 words, starting with SUMMARY: and ending with END OF SUMMARY.
+
+For the first step, I'll go through the article and pick out words that carry moral weight. Words like "extreme," "deny," "saves," "stigma," "lies," "sacrifices," "erases," "autonomy," "coercion," "calamity," "unique," "thoughtful," "support," "empowered," "best," "realities," "stigma," "eradicated," "common," "deny," "basic," "unique," "circumstances," "best," "support," "empowered," "best," "realities," "stigma," "eradicated," "common," "deny," "basic," "unique," "circumstances," "best," "support," "empowered."
+
+Now, for the summary, I need to condense the article, keeping the moral terms. I'll start by mentioning Wendy Davis's goal of zero abortions and the criticism that it's unrealistic. Highlight the medical necessity, the need for access, and the negative impact of stigmatizing abortion. Emphasize that policies should focus on women's health and circumstances, not numbers.
+
+I need to make sure the summary is concise, under 200 words, and includes as many moral terms as possible without making it too long. I'll structure it to first state the criticism, then explain why abortion is necessary, the real-life situations, and the call for supportive policies.
+
+Finally, I'll ensure the summary starts with SUMMARY: and ends with END OF SUMMARY. I'll check the word count to stay within the limit.
+</think>
+
+**STEP 1:**  
+* extreme  
+* deny  
+* saves  
+* stigma  
+* lies  
+* sacrifices  
+* erases  
+* autonomy  
+* coercion  
+* calamity  
+* unique  
+* thoughtful  
+* support  
+* empowered  
+* best  
+* realities  
+* stigma  
+* eradicated  
+* common  
+* deny  
+* basic  
+* unique  
+* circumstances  
+* best  
+* support  
+* empowered  
+
+**SUMMARY:**  
+Wendy Davis recently stated that the goal should be "zero abortions," a stance often used by politicians to appear moderate and avoid being labeled "extreme." However, this framing denies reality, as abortion is a necessary medical procedure that saves women's lives and protects their autonomy. Dr. Anne Davis and Dr. Lin-Fan Wang emphasize that abortion is essential in various circumstances, including life-threatening situations, financial hardship, and failed contraception. Claiming a "world without abortion" is unrealistic and stigmatizing. Instead, policymakers should focus on removing barriers to contraception and supporting women's health, ensuring they can make informed decisions. The article argues that framing abortion as a problem to be eradinated is harmful and echoes anti-abortion rhetoric. The focus should be on women's unique circumstances and empowering them, rather than reducing the number of abortions. END OF SUMMARY.

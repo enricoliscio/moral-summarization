@@ -1,0 +1,16 @@
+Okay, so the user has given me a query where I need to act as a news summarizer and a moral expert. They provided a news article about Marco Rubio's foreign policy speech and want a summary that preserves the moral framing the author used. The summary needs to be concise, no more than 200 words, and follow specific tokens.
+
+First, I need to read through the article carefully to understand the key points. Rubio is criticizing Obama's foreign policy, saying it's too cautious and has weakened the US's moral and military standing. He emphasizes the need for a strong military, aggressive steps against nations undermining global commerce, and being a world moral leader.
+
+I should note the main arguments: Rubio's priorities, his criticism of Obama, the comparison to Hillary Clinton, the stance on Cuba and Iran, and the response from the DNC. The moral framing here is about the US's role as a global leader and protector of principles, which Rubio believes Obama neglected.
+
+I need to make sure the summary captures Rubio's hawkish approach, his focus on military strength, and his moral stance against Obama's policies. Also, including the DNC's criticism adds context. I should keep the language clear and concise, sticking to the key points without getting too detailed.
+
+I'll structure the summary by first introducing Rubio's speech and his main priorities. Then, I'll address his criticism of Obama, followed by specific examples like Cuba and Iran. Finally, I'll mention the DNC's response to provide a balanced view. I'll ensure it's under 200 words and ends with the specified tokens.
+
+I should avoid any markdown and keep the summary straightforward, making sure it reflects the moral perspective as presented in the article. Let me check the word count to make sure it's within the limit. Once done, I'll present it clearly between the tokens as instructed.
+</think>
+
+SUMMARY:  
+U.S. Sen. Marco Rubio, in his first major foreign policy speech since launching his presidential campaign, emphasized restoring American strength as a global military and moral leader. He criticized the Obama administration for overly cautious responses to international crises, arguing that the U.S. has lost its standing as a world power. Rubio vowed to prioritize a strong military, take aggressive steps against nations undermining global commerce, and uphold American principles. He accused Obama of neglecting the U.S.'s moral purpose, citing policies like the reset with Russia, engagement with Iran, and Cuba. Rubio also opposed Obama's approach to diplomacy, advocating for a tougher stance on adversaries like China, Iran, and Russia. He criticized Hillary Clinton as a key architect of Obama's foreign policy, which he deemed ineffective. Rubio defended hawkish policies, such as maintaining the Cuba embargo and opposing nuclear talks with Iran, while the DNC dismissed his approach as outdated and counterproductive. Rubio's speech highlighted his belief that a strong America fosters global peace and stability.  
+END OF SUMMARY.

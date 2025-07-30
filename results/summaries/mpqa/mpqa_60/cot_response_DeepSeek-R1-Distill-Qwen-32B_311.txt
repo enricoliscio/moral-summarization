@@ -1,0 +1,39 @@
+<think>
+Okay, so the user has given me a query where I need to act as a news summarizer and a moral expert. They want me to summarize a news article while preserving the moral framing. The article is about the Zimbabwean elections and the fears of violence and rigging. 
+
+First, I need to understand the structure of the query. They want two steps: first, identifying morally framed single words, and then a summary preserving those words. The summary should be concise, up to 200 words, and include the morally framed terms.
+
+Looking at the article, I should scan through it to pick out words that carry moral implications. Words like "violence," "fear," "ouster," "rig," "intolerable," "oppression," "corruption," "desperation," "distrust," "unrest," "oppression," "treason," "desperation," "oppression," "intimidation," "disenfranchisement," "steal," "brutality," "injustices," and "repression" stand out. These words convey the moral concerns in the article.
+
+Next, I need to write the summary. I'll start by mentioning the fears of violence and civil war. Then, I'll note the election context, Mugabe's rule, and Tsvangirai's challenge. I'll include the violence, Mugabe's tactics like rigging and intimidation, the concerns about election integrity, and the potential for unrest. I'll also touch on Mugabe's past brutality and the opposition's stance on not prosecuting him. Finally, I'll conclude with the uncertain outcome and the moral implications of the election.
+
+I have to make sure the summary is within 200 words and includes as many of the identified moral terms as possible. I'll structure it to flow logically, covering the main points without getting too detailed. It's important to highlight the moral issues like violence, corruption, and repression to maintain the framing the author intended.
+</think>
+
+### STEP 1:
+* violence  
+* fear  
+* ouster  
+* rig  
+* intolerable  
+* oppression  
+* corruption  
+* desperation  
+* distrust  
+* unrest  
+* oppression  
+* treason  
+* desperation  
+* oppression  
+* intimidation  
+* disenfranchisement  
+* steal  
+* brutality  
+* injustices  
+* repression  
+
+---
+
+### SUMMARY:
+The article highlights fears of violence and civil war in Zimbabwe as the country prepares for its election, with many questioning whether the results will be accepted peacefully. Robert Mugabe, the long-serving leader, faces a challenge from Morgan Tsvangirai, but concerns about political violence, election rigging, and Mugabe's refusal to accept defeat dominate the discourse. Senior officials and military leaders have threatened to support a coup if Tsvangirai wins, while Mugabe's government has been accused of human rights violations and altering election laws to ensure his victory. Tsvangirai's supporters fear repression, while Mugabe's supporters view his leadership as indispensable. The election is seen as a clash between an aging autocrat and a restless opposition, with both sides poised for conflict. Mugabe's past brutality, including the Matabeleland massacres, looms over the election, and Tsvangirai's promise not to prosecute Mugabe if he wins adds to the tension. The outcome remains uncertain, with fears of widespread unrest and repression.  
+END OF SUMMARY.

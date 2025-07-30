@@ -1,0 +1,17 @@
+<think>
+Alright, so I've got this query where the user wants a summary of a news article, but with a focus on preserving the moral framing used by the author. They've provided the article and a list of morally charged words. My task is to create a concise summary that includes as many of those words as possible without exceeding 200 words. 
+
+First, I need to read through the article carefully to understand the main points. Hameed Gul, a Pakistani analyst, is criticizing the US State Department's human rights report, calling it lies and propaganda. He's arguing that the US is using human rights as a tool for hegemony, targeting countries that resist American influence. He mentions examples like Afghanistan, India, and Palestine to highlight US hypocrisy and oppression.
+
+Next, I should identify the key morally framed words from the list that are used in the article. Words like "lies," "subjugate," "oppression," "barbarities," "violations," "murdered," "fraudulent," "crushed," "resistance," etc., are central to the moral arguments made.
+
+I need to structure the summary to include these words while maintaining the flow. Start by introducing Gul's rejection of the report as lies and propaganda. Then, explain his view that the US uses human rights as a tool for hegemony, leading to subjugation. Include examples of US actions in Afghanistan and India, using terms like oppression, barbarities, and murdered. Also, touch on the Palestinian issue, highlighting US silence on Israeli abuses and the call for resistance.
+
+I must ensure the summary doesn't exceed 200 words. I'll have to be concise but include all the key points and moral terms. Let me draft a version, making sure each sentence incorporates the necessary moral framing without being too wordy.
+
+Wait, I should also check that the summary flows logically, starting with Gul's criticism, then the US's actions, examples, and the call for resistance. Make sure each sentence transitions smoothly to the next, maintaining the moral perspective throughout.
+
+Finally, I'll review the summary to ensure it meets all the criteria: correct inclusion of morally framed words, within 200 words, and proper structure. I think that's a solid approach to crafting the required summary.
+</think>
+
+SUMMARY: Pakistani defense analyst Hameed Gul strongly condemned the US State Department's human rights report, calling it "a pack of blatant lies and propaganda." He accused the US of using human rights as a tool to subjugate nations resisting its hegemony, forcing countries to abandon their religious and cultural values. Gul criticized the US for its hypocrisy, citing its silence on the oppression of Afghan civilians, the brutal killings of Indian Muslims, and Israeli abuses in Palestine. He described the US as fraudulent, extremist, and responsible for barbarities against innocent people. Gul emphasized that the US only recognizes human rights violations when they hinder its interests, while remaining silent on its allies' actions. He urged Muslim scholars and leaders to resist US influence through moral unity, warning that inaction would lead to their crushing by imperialist forces. The situation, he said, demands a concerted resistance to uphold human rights and dignity. END OF SUMMARY.

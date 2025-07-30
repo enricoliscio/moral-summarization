@@ -1,0 +1,36 @@
+Okay, so I need to help the user by summarizing a news article while preserving the moral framing. The user provided a detailed article and specific instructions. First, I should understand what the user is asking for. They want me to act as a news summarizer and a moral expert, so I need to identify the morally charged words and then craft a summary that includes those terms.
+
+Looking at the article, I see several key points: the U.S. airlifting prisoners, the conditions they're held in, the use of sedation, the Geneva Convention, the setup at Guantanamo Bay, the crash of a Marine plane, involvement in the Philippines, and military spending. 
+
+For the first step, I need to extract all the single words that carry moral implications. Words like "prisoners," "detainees," " Geneva Convention," "protections," "sedated," "cruel," "inhuman," "degrading," "interrogation," "trial," "violations," "rights," "restraint," "uprisings," "hostages," "aid," "deception," "readiness." These words are framed morally because they relate to treatment, rights, and international standards.
+
+Next, I have to write a concise summary. I should include the main events: the airlift, the conditions, the Pentagon's stance, the Geneva Convention, the setup at Guantanamo, the crash, the Philippines involvement, and the military spending. I need to make sure to include the morally framed words without making the summary too long. I should also mention the criticism from Amnesty International and Rumsfeld's defense.
+
+I need to ensure the summary is under 200 words. I'll start by stating the airlift, mention the prisoners' treatment, the Pentagon's reasoning, the Geneva Convention, the conditions at Guantanamo, the crash, the Philippines mission, the hostages, and the military spending. I'll end with Rumsfeld's comments on the measures taken.
+
+I should check that all the morally framed words are included and that the summary flows naturally while preserving the original moral framing. I need to avoid adding any personal opinions and stick strictly to the facts presented in the article, highlighting the moral aspects as they were framed.
+</think>
+
+**STEP 1:**
+
+* Prisoners  
+* Detainees  
+* Geneva Convention  
+* Protections  
+* Sedated  
+* Cruel  
+* Inhuman  
+* Degrading  
+* Interrogation  
+* Trial  
+* Violations  
+* Rights  
+* Restraint  
+* Uprisings  
+* Hostages  
+* Aid  
+* Deception  
+* Readiness  
+
+**SUMMARY:**  
+The U.S. began airlifting Taliban and Al Qaeda prisoners from Afghanistan to Guantanamo Bay, Cuba, under heavy guard. The prisoners were shackled, hooded, and possibly sedated during the flight, despite Pentagon claims they were not prisoners of war but still afforded Geneva Convention protections. At Guantanamo, they will be held in 6x8-foot cages for interrogation. Amnesty International criticized the treatment as violating international standards. Meanwhile, the U.S. is preparing to send forces to the Philippines to assist in combating Abu Sayyaf militants. A Marine Corps plane crashed in Pakistan, killing seven marines, with no evidence of hostile fire. The U.S. also escalated airstrikes on Al Qaeda camps in Afghanistan. Secretary of Defense Rumsfeld defended the treatment of prisoners, citing past uprisings, and signed a $318 billion military spending bill. END OF SUMMARY.

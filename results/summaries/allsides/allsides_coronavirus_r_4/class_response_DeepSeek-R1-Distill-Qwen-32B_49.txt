@@ -1,0 +1,19 @@
+<think>
+Alright, so the user has given me a query where I need to act as a news summarizer assistant and a moral expert. They provided a news article about a protest in Kentucky and want a summary that preserves the moral framing the author used. The user also specified certain words that should be included, like "fight," "shutdown," "marched," etc.
+
+First, I need to understand the main points of the article. The protest was organized by Take Back Kentucky, around 100 people, against coronavirus restrictions. They celebrated the Second Amendment, then turned to抗议 against the shutdown. They marched to the governor's house, hung an effigy with a Latin phrase, and this caused backlash from both parties.
+
+Next, I need to identify the morally framed words the author used. They listed words like "fight," "shutdown," "marched," "shouting," "hanging," "effigy," "protest," "unacceptable," "hate," "disgusting," "gave," "protect," "act," "safe," "freedom," "beyond." I should make sure to include these in the summary.
+
+I should start by summarizing the event, mentioning the protest, the number of people, the purpose, and the actions taken. Then, I'll note the backlash from political figures, using the moral words they used like "unacceptable," "hate," "disgusting," etc.
+
+I need to keep the summary under 200 words, so I'll be concise but include all key points and the moral language. I'll structure it to first describe the protest, then the reactions, ensuring that the moral framing is preserved.
+
+Also, I should end the summary with the required tokens: starting with "SUMMARY:" and ending with "END OF SUMMARY.".
+
+I'll make sure to include the specific details like the effigy's message, the participants' actions, and the condemnations from McConnell, Adams, Fischer, and the Kentucky House Democrats. Each of their statements uses strong moral language, so I'll incorporate that to maintain the framing.
+
+Finally, I'll review the summary to ensure it's within the word limit and that all the key morally charged words are included without making the summary too lengthy.
+</think>
+
+SUMMARY: Protestors in Kentucky hung an effigy of Gov. Andy Beshear outside the state capitol during a demonstration organized by Take Back Kentucky to "fight" against coronavirus restrictions. Around 100 people celebrated the Second Amendment before marching to the governor’s house, shouting "Come out Andy." They returned to the capitol, where they hung the effigy with the message "sic temper tyrannies," translating to "thus always to tyrants." The act sparked widespread backlash. Senate Majority Leader Mitch McConnell condemned the protest, calling it "unacceptable" and stating that "there is no place for hate in Kentucky." Republican Secretary of State Michael G. Adams called the act "disgusting," while Democratic Louisville Mayor Greg Fischer condemned it as a "vile act," emphasizing the need to "protect" the community. Kentucky House Democrats also issued a statement, labeling the protest "beyond reprehensible." The event highlighted tensions over freedom, safety, and the "shutdown" of constitutional rights during the pandemic. END OF SUMMARY.

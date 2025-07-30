@@ -1,0 +1,35 @@
+Alright, I need to help the user by summarizing the provided news article while preserving the moral framing. First, I should understand the user's request. They want me to act as a news summarizer and a moral expert, so I need to identify the morally charged words and then create a concise summary that includes these terms.
+
+Looking at the article, it's about the events in Venezuela leading to Hugo Chavez's resignation. There are several emotionally charged words that convey the moral stance of the author. I'll start by reading through the article carefully to pick out these words.
+
+I notice words like "transformed," "dramatic," "violent," "dead," "injured," "general strike," "cripple," "new president," "new name," "heroes," "oppression," "filled," "defenceless," "horrible," "not tolerable," "resignation," "fallen," "uncertainty," and "problems." These words carry strong moral connotations, indicating the author's perspective on the events.
+
+Next, I need to write a summary that includes as many of these words as possible without exceeding 200 words. The summary should capture the key events: the violent protests, the name change, Chavez's actions, the military's role, and the resulting uncertainty in Venezuela.
+
+I'll structure the summary to highlight the transformation of the country, the violent events, the new leadership, and the ongoing challenges. I'll make sure to include the morally framed words to maintain the author's tone.
+
+Finally, I'll ensure the summary flows logically, starting with the events leading up to Chavez's resignation, the changes made by the new government, and the aftermath. This way, the summary preserves the moral framing while being concise and informative.
+</think>
+
+**STEP 1:**  
+* transformed  
+* violent  
+* dead  
+* injured  
+* general strike  
+* cripple  
+* new president  
+* new name  
+* heroes  
+* oppression  
+* filled  
+* defenceless  
+* horrible  
+* not tolerable  
+* resignation  
+* fallen  
+* uncertainty  
+* problems  
+
+**SUMMARY:**  
+Venezuela experienced a dramatic and violent transformation as protests and a general strike led to the resignation of President Hugo Chavez. At least 11 were killed and 80 injured during clashes, with armed groups linked to Chavez firing on defenseless protesters. The military intervened, demanding Chavez's resignation, which he accepted. A new president, Pedro Carmona, took power, renaming the country to the Republic of Venezuela, symbolizing a break from Chavez's legacy. Despite the end of the strike, the nation remains in shock, with deep social divisions and uncertainty about the future. Many celebrated Chavez's fall, but concerns persist about solving the country's problems. END OF SUMMARY.

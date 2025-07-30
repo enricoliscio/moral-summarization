@@ -1,0 +1,39 @@
+Okay, I need to help the user by summarizing a news article while preserving the moral framing. The user has given specific instructions, so I should follow them step by step.
+
+First, I need to identify all the single words that are morally framed in the article. Morally framed words are those that carry a value judgment or ethical implication. Let me read through the article again to pick these out.
+
+The article talks about Russia passing a law banning promotion of gay relationships to minors. Words like "criticized," "banning," "promotion," "violence," "rights," "discrimination," "boycott," "penalize," "offended," "anti-gay," " lesbian," "asylum," "blocking," "abuses," "equality," "solidarity," "crackdown," "awards," and "normal" seem to carry moral connotations. I'll list these as STEP 1.
+
+Next, I need to write a summary that includes as many of these morally framed words as possible. The summary should be concise, no more than 200 words. I should make sure to include the key points: Obama meeting with LGBT groups, Russia's laws, international criticism, violence against LGBT community, the boycott call, Obama's stance on the Olympics, the canceled meeting with Putin, and the response from Human Rights First.
+
+I should structure the summary to highlight the moral issues, such as the banning of promotion, increased violence, human rights abuses, and the solidarity with affected groups. I'll make sure to include Obama's criticism and the broader context of international relations, like the Snowden asylum and Syria issues.
+
+Let me draft the summary, ensuring it flows well and covers all the main points without exceeding the word limit. I'll check that I've included the morally framed words and that the summary accurately reflects the article's content and tone.
+
+Finally, I'll make sure the summary starts with "SUMMARY:" and ends with "END OF SUMMARY." as instructed. I should avoid any markdown and keep the language clear and straightforward.
+</think>
+
+**STEP 1:**  
+* Criticized  
+* Banning  
+* Promotion  
+* Violence  
+* Rights  
+* Discrimination  
+* Boycott  
+* Penalize  
+* Offended  
+* Anti-gay  
+* Lesbian  
+* Asylum  
+* Blocking  
+* Abuses  
+* Equality  
+* Solidarity  
+* Crackdown  
+* Awards  
+* Normal  
+
+**SUMMARY:**  
+President Obama will meet with Lesbian, Gay, Bisexual, and Transgender (LGBT) rights activists in Russia during the G-20 summit, following international criticism of Russia's law banning the promotion of gay relationships to minors. Human rights groups report increased violence against Russia's LGBT community since the law was passed, leading to calls for a boycott of the 2014 Winter Olympics in Sochi. While Obama opposes boycotting the games, he has strongly condemned Russia's laws, stating he is deeply offended by the anti-LGBT legislation. The meeting with activists is seen as a show of solidarity with those targeted by Russia's crackdown on civil society and LGBT rights. The meeting comes after Obama canceled a planned meeting with Russian President Vladimir Putin due to disputes, including Russia's asylum for Edward Snowden and its blocking of UN Security Council action on Syria. Human Rights First praised Obama's decision to meet with activists, urging him to also speak out against Russia's human rights abuses. Putin, meanwhile, claimed that Russia has normal relations with its LGBT community, despite the criticism.  
+**END OF SUMMARY.**

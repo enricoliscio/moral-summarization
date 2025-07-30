@@ -1,0 +1,31 @@
+Okay, so I'm trying to figure out how to approach this query. The user has given me a news article and wants me to summarize it while preserving the moral framing. They also want me to identify all the single words that are morally framed in the article.
+
+First, I need to understand what morally framed words mean. I think these are words that carry a moral judgment, like "unfair," "lied," "ruined," etc. So, I'll go through the article and pick out each word that has a moral connotation.
+
+Next, I have to summarize the article, making sure to include as many of these morally framed words as possible. The summary should be concise, no more than 200 words. I need to capture the main points: Trump's comments about Flynn's case, the comparison to Hillary Clinton, the legal implications, and the ongoing investigations.
+
+I should structure the summary to include Trump's statements, the double standard he mentions, the legal issues arising from his tweets, and the involvement of Mueller's investigation. I need to ensure that the moral framing is evident in the summary by using words like "unfair," "lied," "ruined," "double standard," etc.
+
+I also need to make sure that the summary flows well and covers all the key points without getting bogged down in too much detail. It should be clear and to the point, highlighting the moral aspects as per the original article.
+
+Alright, let me start by identifying the morally framed words. I'll go through each sentence and pick out any words that imply a moral judgment. Then, I'll craft a summary that weaves these words into a coherent overview of the article, ensuring it's within the word limit and captures the essence of the moral framing presented by the author.
+</think>
+
+**STEP 1:**  
+* unfair  
+* lied  
+* destroyed  
+* double standard  
+* extremely careless  
+* peril  
+* obstruction of justice  
+* lied  
+* lawful  
+* nothing to hide  
+* confusion  
+* accused  
+* obstruction of justice  
+
+**SUMMARY:**  
+President Trump criticized the criminal case against Michael Flynn, calling it "very unfair" and comparing it to Hillary Clinton's FBI interview, where she "lied many times" but faced no consequences. Trump claimed Flynn's life was "destroyed" for his false statements, suggesting a "double standard." Legal experts warned that Trump's tweets could expose him to "obstruction of justice" allegations, as they implied he knew Flynn had lied. Trump denied asking FBI Director Comey to stop investigating Flynn, but Sen. Dianne Feinstein hinted that Mueller's investigation might build a case of "obstruction of justice" against Trump. Flynn is now cooperating with Mueller's probe, though his potential revelations remain unclear.  
+**END OF SUMMARY.**

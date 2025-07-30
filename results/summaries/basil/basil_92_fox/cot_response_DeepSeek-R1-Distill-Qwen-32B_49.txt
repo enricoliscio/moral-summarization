@@ -1,0 +1,37 @@
+Okay, so I'm trying to help this user who wants me to summarize a news article while preserving the moral framing. They provided a detailed article about President Trump, Robert Mueller, and the Buzzfeed story. The user's query is a bit complex, so I need to break it down.
+
+First, they want me to identify all the single words that are morally framed. That means I need to look for words that carry a positive or negative moral connotation. Words like "appreciates," "disgrace," "phony," "disgraceful," etc. I should list each of these words with a star.
+
+Next, I have to write a concise summary of the article, making sure to include as many of those morally charged words as possible. The summary needs to be under 200 words and should reflect the original moral framing from the text.
+
+I should start by reading the article carefully to understand the key points. President Trump is criticizing Buzzfeed and the mainstream media, calling their story phony and a disgrace. Mueller's office disputed the report, which is unusual. Buzzfeed stands by their reporting, and Trump's team denies the claims. The article also mentions the impact on media credibility.
+
+I need to make sure the summary captures Trump's strong negative feelings towards Buzzfeed and the media, Mueller's rare public response, and the ongoing tension between the two sides. Including words like "phony," "disgrace," "lost credibility," and "false story" will help maintain the moral framing.
+
+I also need to keep the summary clear and concise, ensuring it's under 200 words. I'll structure it to first mention Trump's appreciation for Mueller's statement, then his criticism of Buzzfeed and media, followed by Mueller's response, Buzzfeed's defense, and the implications for media credibility.
+
+I should double-check that I've included all the key morally framed words and that the summary accurately reflects the article's content without adding any new information. Making sure the summary flows well and stays within the word limit is important too.
+
+Overall, the goal is to provide a summary that not only captures the main events but also preserves the moral judgments expressed in the original text. This will help the user understand the article's tone and the underlying moral perspectives involved.
+</think>
+
+**STEP 1:**
+
+* Appreciates  
+* Disgrace  
+* Phony  
+* Disgraceful  
+* Lost  
+* False  
+* Destroy  
+* Hysterical  
+* False  
+* Accurate  
+
+---
+
+**SUMMARY:**  
+
+President Trump expressed appreciation for FBI Special Counsel Robert Mueller's statement disputing a Buzzfeed article claiming Trump directed Michael Cohen to lie to Congress about the Moscow Trump Tower project. Trump called the Buzzfeed piece and media coverage "a disgrace to our country and journalism," stating the mainstream media had lost credibility. Buzzfeed reported Cohen admitted to Mueller's office that Trump told him to mislead Congress about the project's timeline, marking the first known instance of Trump explicitly instructing a subordinate to lie about his dealings with Russia. Mueller's office, which rarely comments, disputed Buzzfeed's account, calling it inaccurate. Buzzfeed defended its reporting, while Trump's team denied the claims. Trump and his lawyer Rudy Giuliani criticized the media for their "hysterical" desire to destroy him. The controversy highlighted tensions between the administration and the press, with Buzzfeed standing by its reporting and calling for Mueller to clarify his objections.  
+
+**END OF SUMMARY.**

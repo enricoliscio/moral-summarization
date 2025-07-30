@@ -1,0 +1,42 @@
+Okay, so I need to help the user with their query. They want me to act as a news summarizer assistant and a moral expert. The task is to summarize a given news article while preserving the moral framing. 
+
+First, I need to understand the article. It's about President Trump's reactions to leaks and the moral implications involved. The article discusses classified information leaks, the duty of spies to report, and the role of the media. 
+
+The user has specified two main steps. Step 1 is to identify all single words that are morally framed. I should go through the article and pick out words that carry moral connotations. Words like "fury," "embarrass," "intimidate," "felony," "loyalty," "interference," "perilous," "corruption," "transparency," "accountability," "integrity," and "unconstitutional" come to mind. These words are used to convey the moral issues at play.
+
+Next, in Step 2, I need to write a summary that includes as many of these morally framed words as possible. The summary should be concise, under 200 words, and highlight the key moral points. I should mention Trump's anger over leaks, the legal and moral implications of leaking classified info, the duty to report, media freedom, and the tension between government control and constitutional rights.
+
+I need to ensure the summary flows well and captures the essence of the article while emphasizing the moral aspects. I should avoid technical jargon and keep it clear and direct. Also, I must remember to start the summary with "SUMMARY:" and end with "END OF SUMMARY."
+
+Let me structure this. Start by introducing Trump's reaction, then discuss the leaks and their implications, mention the media's role, and conclude with the balance between government actions and constitutional principles. I'll make sure to include the morally framed words identified earlier to maintain the article's original moral framing.
+
+I should also check the word count to ensure it's within the limit. Maybe around 150-200 words. I'll draft the summary, then review it to include the necessary moral terms and ensure it's concise.
+
+Finally, I'll present the two steps as specified, with the identified words in Step 1 and the summary in Step 2, each clearly marked. This should meet the user's requirements effectively.
+</think>
+
+**STEP 1:**
+
+* Fury  
+* Embarrass  
+* Control  
+* Intimidate  
+* Felony  
+* Leak  
+* Conceal  
+* Manipulate  
+* Interfere  
+* Perilous  
+* Unconstitutional  
+* Loyalty  
+* Transparency  
+* Accountability  
+* Integrity  
+
+---
+
+**SUMMARY:**  
+
+President Trump faced intense moral and legal dilemmas last week due to a series of leaks exposing classified information and Oval Office gossip. The leaks, which included allegations about his behavior and discrepancies in intelligence reports, were seen as attempts to embarrass or manipulate his judgment. While revealing classified information is a felony, the duty of intelligence officials to report all material information creates a moral conflict when selective concealment occurs. Trump’s administration also grappled with leaks from within the White House, leading to the seizure of staffers’ cellphones, a move that raised Fourth Amendment concerns. Meanwhile, the media’s publication of leaked material, protected by the First Amendment, has further fueled tensions. Trump’s anger at the press is understandable, but his oath to uphold the Constitution, which safeguards a free press, complicates the situation. The article highlights the moral and legal challenges of balancing transparency, accountability, and national security in a democracy.  
+
+**END OF SUMMARY.**

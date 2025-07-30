@@ -1,0 +1,15 @@
+<think>
+Alright, I need to help the user by summarizing the given news article while preserving the moral framing. The user specified that the summary should include as many of the morally charged words as possible and be under 200 words. 
+
+First, I'll read through the article to understand the main points. It's about the Zimbabwean election, the fear of violence, and concerns about election rigging. Mugabe is the incumbent, and Tsvangirai is the challenger. There's political violence, accusations of human rights violations, and changes in election laws that could favor Mugabe. The fear is that neither side will accept the results, leading to chaos.
+
+I need to identify the key morally framed words: violence, civil war, rig, died, violations, corruption, unemployment, jail, abducted, surge, attacks, revised, change, bar, disenfranchise, steal, attack, killed. I should make sure these words are included in the summary.
+
+I'll structure the summary to highlight the main issues: the fear of violence, the election rigging allegations, the impact on voters, and the potential for conflict. I'll mention Mugabe's actions, the opposition's concerns, and the international perspective.
+
+I need to keep it concise, so I'll focus on the most impactful points. I'll start by stating the fear of violence and civil war, then move to the election concerns, including the changes in laws and the potential disenfranchisement. I'll mention the violence against MDC supporters and the international criticism. Finally, I'll conclude with the fear of a contested result leading to chaos.
+
+I'll make sure each sentence includes the moral terms without making the summary too long. I'll check the word count to ensure it's under 200 words.
+</think>
+
+SUMMARY: Zimbabweans fear violence and civil war as they prepare for the weekend's election, with concerns that neither Robert Mugabe nor Morgan Tsvangirai will accept the results. Mugabe, the country's long-ruling leader, faces accusations of rigging the vote through revised election laws, including increasing polling stations in rural areas and reducing them in urban areas, which could disenfranchise young opposition supporters. At least 34 people have died in political violence this year, mostly MDC supporters, amid allegations of human rights violations by Mugabe's government. Senior officials and military leaders have hinted at supporting a coup if Tsvangirai wins, while Mugabe's party has charged Tsvangirai with high treason based on an edited videotape. Tsvangirai has vowed not to prosecute Mugabe if he wins, but fears persist that Mugabe will announce martial law or jail Tsvangirai. The election is seen as a clash between Mugabe's autocratic rule and the opposition's push for change amid corruption, food shortages, and unemployment. Observers warn of potential chaos if the results are contested, with fears of rioters or the military taking to the streets. END OF SUMMARY.

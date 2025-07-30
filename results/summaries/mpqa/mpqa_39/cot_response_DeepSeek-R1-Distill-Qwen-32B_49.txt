@@ -1,0 +1,41 @@
+<think>
+Okay, so the user has given me a query where they want me to act as a news summarizer assistant and a moral expert. They provided a news article from Tehran about the Islamic Human Rights Commission expressing concerns over human rights issues. My task is to first identify all the morally framed single words and then summarize the article while preserving those moral framings.
+
+First, I need to understand what morally framed words are. These are words that carry a strong moral connotation, such as 'concern', 'discrimination', 'torture', etc. I should go through the article and pick out each word that fits this category. I'll list them each on a new line with an asterisk.
+
+Next, I have to summarize the article. The summary needs to be concise, no more than 200 words, and include as many of the identified moral terms as possible. I should ensure that the moral framing is preserved, so the summary reflects the original article's emphasis on human rights, justice, and the issues being highlighted.
+
+I'll start by reading the article carefully. The IHRC is concerned about the return of force in international relations. They mention the International Day for Human Rights and the numerous documents signed to promote human rights. They regret that these haven't been materialized. They call for the prohibition of discrimination, torture, etc., and mention the Durban conference as a turning point. They deplore injustice against Palestinians and others, and note the international condemnation of 9/11 but criticize the use of military power. Mary Robinson from the UN calls for Israel to stop bombing and allow monitors.
+
+Now, I'll list the moral words first. Then, I'll craft the summary, making sure to include these words and maintain the moral tone. I'll structure the summary to cover the main points: IHRC's concern, the state of human rights, the call for prohibition of rights violations, the Durban conference, the situation in Palestine, the call for peace through respecting human rights, and Mary Robinson's appeal.
+
+I need to ensure the summary flows well and stays within the word limit. I'll check each sentence to see if it captures the essence without being too verbose. Also, I'll make sure that the moral terms are included where appropriate to preserve the framing.
+
+Finally, I'll review the summary to ensure it meets all the requirements: correct inclusion of moral words, concise summary, and preservation of the original's moral stance. Once done, I'll present the step-by-step process and the final summary as per the user's instructions.
+</think>
+
+### STEP 1:
+* Concern  
+* Force  
+* Weapon  
+* Human rights  
+* Discrimination  
+* Torture  
+* Arbitrary detention  
+* Honor  
+* Women's rights  
+* International declaration  
+* Divine religions  
+* Injustice  
+* Violation  
+* Terrorism  
+* Peace  
+* Security  
+* Solidarity  
+* Targeted killing  
+
+---
+
+### SUMMARY:
+The Tehran-based Islamic Human Rights Commission (IHRC) expressed concern over the resurgence of force and weapons in international relations, marking the International Day for Human Rights. Despite numerous documents and efforts to promote human rights, the IHRC regrets that the provisions of the international declaration remain unfulfilled. It calls for the prohibition of discrimination, torture, and arbitrary detention, emphasizing the importance of honoring human rights, including women's rights and those enshrined in divine religions. The IHRC deplores injustice against the Palestinian nation and violations of human rights against political activists, journalists, religious minorities, children, and women. While the international community condemned the September 11 attacks, the IHRC criticizes the use of military power, urging respect for human rights as a foundation for peace. Meanwhile, UN High Commissioner Mary Robinson called on Israel to stop bombing Palestinian targets and allow international monitors, denouncing targeted killings of Palestinians.  
+END OF SUMMARY.

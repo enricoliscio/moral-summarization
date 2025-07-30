@@ -1,0 +1,14 @@
+Okay, so I'm trying to help the user with their query. They want me to summarize a news article while preserving the moral framing that the author used. The article is about the Korean government's response to the US's new climate policy and the Kyoto Protocol. 
+
+First, I need to identify the morally framed words the author used: challenges, approach, attacks, rejecting. I should make sure to include these in the summary.
+
+I'll start by reading through the article to understand the main points. The government appreciates the US's interest in climate change and their new initiative. They mention it's a challenge for humankind. The US's approach is flexible and gradual, considering developing countries. The Korean government thinks more details are needed for international discussion. They support the Kyoto Protocol, which over 180 countries are preparing to ratify. The US rejected Kyoto before and now has a new policy. The article also mentions that before 9/11, the US was blamed for rejecting Kyoto. Other countries like Japan and Germany have different reactions.
+
+Now, I'll structure the summary. I need to include the key points: appreciation for the US's initiative, the challenge, the approach, the need for elaboration, support for Kyoto, the US's rejection, and the context of 9/11. I'll make sure to use the moral words: challenges, approach, attacks, rejecting.
+
+I should keep it concise, under 200 words. Let me draft it step by step, ensuring all points are covered and the moral framing is preserved. I'll check the word count to make sure it's within the limit. 
+
+Finally, I'll present the summary after the "SUMMARY:" token and end with "END OF SUMMARY." as instructed. I need to make sure the summary flows well and accurately reflects the article's content with the specified moral terms.
+</think>
+
+SUMMARY: The government has expressed appreciation for the U.S. initiative to address climate change, acknowledging it as a significant challenge for humanity in the 21st century. The Korean government recognizes the U.S. approach as flexible and gradual, taking into account the concerns of developing countries. However, it emphasizes the need for greater elaboration, particularly regarding concrete methods to establish greenhouse gas intensity levels. The statement also highlights the importance of international consultations to build understanding of the U.S. initiative. Meanwhile, over 180 countries, including the U.S., are preparing to ratify the Kyoto Protocol, which requires signatories to reduce greenhouse gas emissions. The Bush administration rejected the Kyoto Protocol last year, and its new policy aims to reduce emissions relative to GDP. The article notes that before the September 11 attacks, the U.S. faced international criticism for rejecting the Protocol. Other countries, such as Japan and Germany, have responded to Bush's new policy with differing tones. END OF SUMMARY.

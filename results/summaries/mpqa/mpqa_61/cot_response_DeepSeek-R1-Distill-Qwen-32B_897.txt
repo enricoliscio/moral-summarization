@@ -1,0 +1,36 @@
+Alright, I need to help the user with their query. They want me to act as a news summarizer and moral expert. The task is to summarize a given article while preserving the moral framing. 
+
+First, I should read the article carefully. It's about the Kyoto Protocol and its economic impacts, particularly on Canada. The author argues that implementing Kyoto would cost jobs and money, and that the benefits are minimal. They also suggest alternative approaches.
+
+The user has two main steps. Step 1 is to identify all the morally framed single words. I need to look for words that carry moral connotations, like "rip-off," "frightening," "sacrifice," etc. I'll list each with an asterisk.
+
+Next, I have to write a concise summary, under 200 words, preserving those moral terms. I should highlight the costs, the government's stance, the minimal global impact, and the alternative solutions proposed. I need to ensure the summary reflects the original moral perspective without adding my own opinions.
+
+I should make sure the summary starts with "SUMMARY:" and ends with "END OF SUMMARY." Also, keep each section clear and separate as per the instructions. 
+
+I think I've covered all the points. Time to put it together.
+</think>
+
+### STEP 1:  
+* Rip-off  
+* Frightening  
+* Sacrifice  
+* Protect  
+* Crucial  
+* Threat  
+* Benefit  
+* Profit  
+* Implement  
+* Reduction  
+* Burden  
+* Abate  
+* Threaten  
+* Assist  
+* Costly  
+* Fraction  
+
+---
+
+### SUMMARY:  
+The article argues that implementing the Kyoto Protocol would be a rip-off for Canada, costing 450,000 jobs and $40 billion in economic output. Prime Minister Jean Chrétien dismisses these figures, but government reports confirm the potential economic sacrifice. The author contends that Canada's national economy should be protected unless crucial national interests are at stake, such as fighting terrorism. Rising temperatures pose little threat to Canada, with farmers and non-farmers alike potentially benefiting from warmer weather. The global benefits of Kyoto are minimal, as Canada's $40 billion sacrifice would reduce emissions by just 1/200th of the world's total. Even if all signatories ratified Kyoto, emissions would still rise due to increasing energy consumption in developing nations. The worldwide cost of Kyoto's modest impact would be $2 trillion in lost GDP, making it a costly burden. Instead, the author suggests focusing on abating global warming's damage in at-risk nations through Western assistance, which would likely cost far less than Kyoto's price tag.  
+END OF SUMMARY.

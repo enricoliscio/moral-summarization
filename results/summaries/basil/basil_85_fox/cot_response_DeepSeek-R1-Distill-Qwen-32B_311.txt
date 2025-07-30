@@ -1,0 +1,36 @@
+Okay, so I need to help this user by summarizing a news article while preserving the moral framing. The user has given me a detailed query, so I should start by understanding exactly what they need.
+
+First, they want me to act as a news summarizer and a moral expert. That means I need to not only condense the article but also keep the moral implications intact. The article is about President Trump criticizing social media giants for discrimination against Republicans and conservatives. He's accusing them of suppressing voices, which he sees as a form of censorship. 
+
+The user has specified two main steps. The first is to identify all the single words that are morally framed in the article. I need to go through the text and pick out words that carry moral connotations. Words like "discriminating," "destroyed," "discriminatory," "illegal," "shadow banning," "censoring," "manipulate," "healthy," "mishandled," "bad-faith," "closing down," "dangerous," "fake," "sick," "grain of salt." These words are used to convey the moral stance of the article, so I should list them each on a new line with an asterisk.
+
+Next, the user wants a summary that includes as many of these morally framed words as possible. The summary should be concise, under 200 words, and end with specific tokens. I need to ensure that the summary captures Trump's accusations, the tech companies' responses, and the ongoing controversy. I should maintain the tone and moral framing by using words like "discriminating," "destroyed," "censoring," etc.
+
+I also need to make sure the summary flows well and covers all key points: Trump's claims, the companies' denials, the examples of Diamond and Silk, and the mention of CNN and MSNBC. It's important to highlight the tension between Trump and the social media platforms, emphasizing his argument that their actions are harmful and undemocratic.
+
+I should avoid adding any personal opinions or extra information not present in the article. The focus is on summarizing while preserving the moral framing, so I'll stick strictly to the content provided. I'll structure the summary to first state Trump's accusations, then the companies' responses, and finally the broader implications and his criticism of media outlets.
+
+Let me draft the summary, ensuring it's within the word limit and includes the key morally charged words. I'll start by mentioning Trump's accusations, then the companies' denials, the examples of specific individuals, and end with his comments about the media. This should cover all necessary points while maintaining the moral tone.
+
+Finally, I'll review the summary to make sure it's clear, concise, and meets the user's requirements. I'll check that all the morally framed words are included and that the summary accurately reflects the article's content and tone.
+</think>
+
+**STEP 1:**  
+* Discriminating  
+* Destroyed  
+* Discriminatory  
+* Illegal  
+* Shadow banning  
+* Censoring  
+* Manipulate  
+* Healthy  
+* Mishandled  
+* Bad-faith  
+* Closing down  
+* Dangerous  
+* Fake  
+* Sick  
+* Grain of salt  
+
+**SUMMARY:**  
+President Trump accused social media giants like Facebook and Twitter of "discriminating" against Republicans and conservatives, claiming "too many voices are being destroyed." He argued that platforms are making choices that silence conservative opinions, while failing to address "bad-faith actors" on other sides. Twitter and Facebook denied accusations of "shadow banning" or bias, attributing issues to algorithmic glitches or ranking systems aimed at relevance. However, Trump and conservatives continue to allege censorship, citing examples like GOP Chairwoman Ronna McDaniel and personalities Diamond and Silk. Trump criticized the platforms for "closing down the opinions of many people on the right," while accusing CNN and MSNBC of being "fake" yet not demanding their removal. He emphasized that censorship is "a dangerous thing" and called for equal treatment of all voices. END OF SUMMARY.

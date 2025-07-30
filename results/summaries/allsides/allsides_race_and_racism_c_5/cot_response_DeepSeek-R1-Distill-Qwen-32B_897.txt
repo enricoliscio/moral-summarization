@@ -1,0 +1,36 @@
+Alright, so I need to help the user by summarizing a news article while preserving the moral framing. Let me start by understanding the query.
+
+The user provided a news article about Joe Biden and Cory Booker's responses to Trump's rhetoric in the context of recent mass shootings. They want a summary that includes the morally framed words identified in the first step. 
+
+First, I'll go through the article to identify all the single words that carry moral connotations. Words like "fueled," "white supremacy," "condemn," "bigotry," "hatred," "invasion," "condemnation," "toxic," "hate," "racism," and "division" stand out. These words are crucial because they convey the moral judgment in the article.
+
+Next, I need to write a concise summary of the article, making sure to include these morally framed words. The summary should be under 200 words and capture the main points: Biden and Booker's accusations against Trump, the shootings, Trump's response, and the political implications.
+
+I'll structure the summary to first mention Biden's accusation, then Booker's speech, the details of the shootings, Trump's rhetoric and response, and the political stance of the Democrats. I'll ensure that the morally charged words are included to reflect the author's framing.
+
+I should also make sure the summary flows logically, connecting each point without getting too detailed. It's important to highlight the key arguments from both Biden and Booker, as well as Trump's defense and his proposed measures. Finally, I'll note the Democrats' call for stricter gun laws to show the ongoing debate.
+
+Let me put it all together, keeping each sentence focused and within the word limit. I'll double-check to include all the identified moral words and ensure the summary accurately reflects the article's content and moral perspective.
+</think>
+
+**STEP 1:**  
+* fueled  
+* white supremacy  
+* hatred  
+* vacuum  
+* planted  
+* harvested  
+* incendiary  
+* racism  
+* bigotry  
+* Hispanic  
+* invasion  
+* condemnation  
+* toxic  
+* hate  
+* racism  
+* division  
+
+**SUMMARY:**  
+Joe Biden accused Donald Trump of fueling white supremacy, linking the president's rhetoric to recent mass shootings. Trump visited El Paso and Dayton after 31 people were killed in back-to-back attacks, with the El Paso shooter reportedly motivated by anti-Hispanic hatred. Biden criticized Trump's "toxic" language, comparing it to the shooter's "Hispanic invasion" narrative. Cory Booker, another Democratic candidate, focused on addressing racism and white nationalism, emphasizing action over blame. Trump denied responsibility, proposing mental health reforms and social media monitoring but avoiding gun law changes. Democrats, including Biden and Booker, called for stricter gun laws, while Trump faced protests during his visits. The article highlights the moral divide over Trump's rhetoric and its impact on national unity and safety.  
+**END OF SUMMARY.**

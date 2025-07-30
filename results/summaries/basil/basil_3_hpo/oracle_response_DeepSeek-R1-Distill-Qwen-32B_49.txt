@@ -1,0 +1,14 @@
+Okay, so the user has given me a query where they want me to summarize a news article while preserving the moral framing. They provided the article and a list of morally framed words that the author used. My task is to create a summary using as many of those words as possible without exceeding 200 words.
+
+First, I need to understand the article. It's about Rep. Bob Etheridge reacting aggressively to an anonymous reporter. The article includes quotes from different sources, including Big Government and Mediaite, and mentions the DNC's response. The moral framing is important, so I should focus on words like "grabbed," "knocking," "assault," etc.
+
+I should start by identifying the key events: the congressman grabbed the reporter, knocked the camera, and later apologized. The context is the political climate and the DNC's accusation that it's a Republican operation.
+
+I need to include the morally charged words. I'll structure the summary to include the incident, the reactions from different sides, and the apology. I'll make sure to use words like "captured," "forced," "recession," "spike," "maxed," "succeeded," "hit," "assault," "blurred," "operation," "hidden," "job," "service," "treat," "partisan," "work," and "promote."
+
+I'll make sure the summary flows logically, starting with the incident, then the political context, the DNC's accusations, and ending with the congressman's apology. I should keep it concise, within 200 words, and ensure all key points are covered without losing the moral tone.
+
+Now, putting it all together, I'll draft the summary, ensuring each sentence incorporates the necessary morally framed words and maintains the structure of the original article's framing.
+</think>
+
+SUMMARY: Rep. Bob Etheridge (D-N.C.) was captured on video grabbing and knocking a student reporter's camera after being asked if he "fully supported the Obama agenda." The lawmaker's aggressive behavior included grabbing the reporter's wrist and repeatedly demanding identification. The reporter, who claimed to be working on a project, had his face blurred in the video, raising suspicions of a Republican operation. Big Government criticized Etheridge's actions, framing the incident as a reflection of the progressive left's failure to govern responsibly. Mediaite questioned the legitimacy of the interview, suggesting it was part of a partisan tactic. DNC spokesman Brad Woodhouse accused the Republican Party of orchestrating the encounter, noting the blurred faces and hidden motives. Etheridge later apologized, acknowledging his poor response and vowing to promote civil discourse. The incident highlights tensions between politics, media, and public service, with accusations of partisanship and hidden agendas. END OF SUMMARY.

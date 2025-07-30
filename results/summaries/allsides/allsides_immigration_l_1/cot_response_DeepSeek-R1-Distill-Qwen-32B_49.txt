@@ -1,0 +1,49 @@
+<think>
+Alright, I need to help the user by summarizing a news article while preserving the moral framing. The user has given specific instructions, so I should follow them step by step.
+
+First, I'll read the article carefully to understand its main points. The article talks about the importance of immigrants to America's success, countering anti-immigrant rhetoric, especially from Trump. It mentions how immigrants have built and sustained the country, citing examples like Budweiser and McDonald's. It also provides statistics about Fortune 500 companies and the economic contributions of immigrants. The article addresses critics who argue about social program abuse and crime, providing counterarguments with studies. It criticizes the current citizenship process as bureaucratic, leading to negative outcomes, and warns against impractical solutions like building a wall.
+
+Now, for step one, I need to identify all the single words that are morally framed. These are words that carry a positive or negative moral connotation. I'll go through the article and pick out words like "greatness," "common denominator," "anti-immigrant," "bluster," "sustained," "specialized skills," "profitable," "celebrated," "venturing," "surplus," "deficit," "desperate alternatives," "underground economies," "unintended social consequences," "public safety," "health risks," "impractical," "irresponsible," "drowning in debt," "pointless," "taxpayer subsidized," "opportunity," "freedom," "American dream," "welcome," "disparage," "greatness," "great again."
+
+Next, I need to write a summary that includes as many of these morally framed words as possible. The summary should be concise, around 200 words, and capture the essence of the article. I'll start by stating the main argument about immigrants being key to America's greatness, counter Trump's rhetoric, mention the economic contributions, address the critics with the studies, and conclude with the need for a better immigration system.
+
+I should ensure the summary flows well and includes the key points without getting too bogged down in details. I'll make sure to use the morally framed words to maintain the author's perspective. Let me structure this step by step, ensuring each main point is covered succinctly.
+</think>
+
+**STEP 1:**
+
+* greatness  
+* common denominator  
+* anti-immigrant  
+* bluster  
+* sustained  
+* specialized skills  
+* profitable  
+* celebrated  
+* venturing  
+* surplus  
+* deficit  
+* desperate alternatives  
+* underground economies  
+* unintended social consequences  
+* public safety  
+* health risks  
+* impractical  
+* irresponsible  
+* drowning in debt  
+* pointless  
+* taxpayer subsidized  
+* opportunity  
+* freedom  
+* American dream  
+* welcome  
+* disparage  
+* greatness  
+* great again  
+
+---
+
+**SUMMARY:**  
+
+The article argues that immigrants are the cornerstone of America's greatness, countering anti-immigrant rhetoric by highlighting their essential role in building and sustaining the nation. Immigrants bring specialized skills, founding many of America's most profitable companies, including Budweiser and McDonald’s, and contributing to 40% of Fortune 500 businesses. They generate billions in revenue and employ millions, while undocumented immigrants even contribute more to Medicare than they receive. Critics who link immigration to crime or social program abuse are refuted by studies showing native-born citizens are more likely to commit crimes and drain social programs. The article condemns the bureaucratic and convoluted U.S. citizenship process, which encourages unlawful alternatives and risks public safety and health. Building a wall is deemed impractical and wasteful, as most immigrants seek freedom and opportunity. The article calls for welcoming immigrants, recognizing their vital role in making America great now and in the future.  
+**END OF SUMMARY.**

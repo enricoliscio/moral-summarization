@@ -1,0 +1,28 @@
+Alright, so the user has given me a query where I need to act as a news summarizer and moral expert. They provided a news article about Democrats' efforts to keep abortion access prominent. My task is to first identify all the morally framed words and then write a summary preserving those moral framings.
+
+First, I need to understand what morally framed words are. These are words that carry a strong moral connotation, often indicating right or wrong, good or bad. In the context of the article, terms like "restrict," "erode," "control," "pro-choice," "tenant," "imposing," "command," "urgency," and "risk" stand out. These words are used to convey the moral stance of the Democrats against restrictive abortion laws.
+
+Next, I should extract each of these words, making sure they're all listed as per the user's instructions. I'll go through the article sentence by sentence, noting each word that carries a moral charge.
+
+Once I have all the morally framed words, the next step is to write a concise summary. The summary needs to be under 200 words and include as many of those moral terms as possible. I'll structure the summary to highlight the main points: the Democrats' actions, the specific candidates' plans, and the moral arguments they're making.
+
+I should ensure that the summary flows naturally, maintaining the moral framing without making it too verbose. It's important to capture the urgency and the various strategies the Democrats are employing, such as legislative actions, funding, and moral arguments against restrictive laws.
+
+Finally, I'll review the summary to make sure it's within the word limit and that all key points are included. I need to preserve the moral tone set by the original article, emphasizing the protection of reproductive rights and the opposition to restrictive state laws.
+
+I think I've covered all the necessary steps. Now, I'll present the identified words and the summary as per the user's instructions.
+</think>
+
+**STEP 1:**  
+* restrict  
+* erode  
+* control  
+* pro-choice  
+* tenant  
+* imposing  
+* command  
+* urgency  
+* risk  
+
+**SUMMARY:**  
+Democrats are intensifying their efforts to protect abortion access amid state-level restrictions, with several 2020 presidential candidates proposing bold measures. Sen. Cory Booker has vowed to establish a "White House Office of Reproductive Freedom" and codify Roe v. Wade into federal law, emphasizing the need for a "coordinated response" to counter state restrictions. Sen. Kristen Gillibrand argues that anti-abortion laws are "against Christian faith," highlighting the separation of church and state. Other candidates, including frontrunner Joe Biden, support enshrining abortion rights in federal law. Meanwhile, Democratic lawmakers are reintroducing the "Women's Health Protection Act" to safeguard Roe v. Wade, with Sen. Richard Blumenthal warning of an "urgent" threat to women's rights. END OF SUMMARY.

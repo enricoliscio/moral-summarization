@@ -1,0 +1,33 @@
+<think>
+Okay, so I'm trying to help this user who's asking me to summarize a news article while preserving the moral framing. They also want me to identify the morally framed words first. Let me break this down.
+
+First, I need to read the article carefully. It's about Senator Lindsey Graham holding up Obama's nominees until more information is given about the Benghazi attacks. There's a lot of political tension here.
+
+The user wants me to identify all single words that are morally framed. That means I should look for words that carry a moral judgment, like "criticized," "delayed," "deceived," etc. I'll go through the article and pick out each of these words, listing them with asterisks.
+
+Next, I need to summarize the article. The summary should be concise, under 200 words, and include as many of those morally framed words as possible. I should make sure the summary reflects the moral stance taken by the author, which seems critical of the Obama administration's handling of the situation.
+
+I also notice that the user provided an example response, which I can use as a guide. They listed the morally framed words first and then wrote a summary that included those words. I should follow that structure.
+
+I need to make sure I don't miss any morally charged words. For example, "stonewalled," "accountability," "unprecedented," etc. Each of these carries a specific moral judgment.
+
+In the summary, I'll start by stating Graham's actions, then mention the criticism from Democrats, and include the key points like the phone call and the 30-minute conversation. I'll also note the opposition from other Republicans and the demand for 60 votes.
+
+I should keep the summary clear and to the point, ensuring that it captures the essence of the article while highlighting the moral elements. I'll make sure to end with the required tokens and keep the word count in check.
+
+Overall, the key is to accurately identify the morally framed words and then craft a summary that reflects the article's moral perspective without adding personal opinions.
+</think>
+
+**STEP 1:**  
+* Criticized  
+* Delayed  
+* Denied  
+* Deceived  
+* Stonewalled  
+* Accountability  
+* Leadership  
+* Unprecedented  
+* Appropriate  
+
+**SUMMARY:**  
+Republican Sen. Lindsey Graham has criticized President Obama’s handling of the Benghazi attacks, demanding more details about the administration’s actions during the crisis. Graham has vowed to delay the confirmation of Defense Secretary nominee Chuck Hagel and CIA nominee John Brennan until the White House provides an accounting of its response. He accused the administration of stonewalling and demanded accountability for Obama’s leadership during the attacks. Graham also questioned whether the White House contacted the Libyan government for assistance and whether the president pressed Libya to allow a response team to reach the outpost. Democrats, including Sen. Jack Reed, have called Graham’s actions unprecedented and inappropriate, arguing that he is using the tragedy to block nominations. Meanwhile, Sen. James Inhofe threatened to filibuster Hagel’s nomination, requiring 60 votes for confirmation. Republicans oppose Hagel over concerns about his support for Israel and military action against Iran. END OF SUMMARY.

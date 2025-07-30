@@ -1,0 +1,40 @@
+Alright, let's tackle this query. The user wants me to act as a news summarizer and a moral expert. They provided a news article and specific instructions on how to process it.
+
+First, I need to understand the article. It's about Donald Trump and his legal issues, comparing him to a corrupt tree. The author uses a lot of moral language, so I have to identify those words.
+
+The user's first step is to list all single words that are morally framed. I'll go through the article and pick out words like "indict," "corrupt," "felonious," etc. Each gets a bullet point.
+
+Next, I have to summarize the article, keeping as many of those moral terms as possible. The summary needs to be concise, under 200 words, and start with "SUMMARY:" and end with "END OF SUMMARY."
+
+I should ensure the summary captures the main points: Trump's legal situation, the moral implications, his associates' crimes, and the contrast with Obama's presidency. I'll make sure to include the moral framing words to maintain the author's tone.
+
+I'll structure the summary to first mention Trump's exemption from indictment, then the crimes of his associates, his discomfort with honest people, and the ongoing legal issues. I'll end with the idea that worse is yet to come.
+
+Double-checking to make sure I don't exceed 200 words and that all key moral points are included. That should meet the user's requirements.
+</think>
+
+**STEP 1:**  
+* Indict  
+* corrupt  
+* exempt  
+* guilty  
+* implicated  
+* felonies  
+* co-conspirator  
+* slavish  
+* cultlike  
+* fervent  
+* foul  
+* criminals  
+* felonious  
+* probity  
+* scandalmongers  
+* animus  
+* hush money  
+* lies  
+* exposed  
+* noxious  
+
+**SUMMARY:**  
+The article discusses the moral implications of President Donald Trump's legal situation, particularly his exemption from indictment while in office. It highlights how Trump's associates, such as Michael Cohen and Paul Manafort, have been implicated in crimes, raising questions about Trump's own involvement. The author criticizes Trump's tendency to surround himself with individuals of "felonious character" and contrasts this with his discomfort around people of "firm probity," like James Comey and Robert Mueller. The article also condemns Trump's defenders for their cultlike loyalty, despite evidence of his questionable actions, such as paying hush money to silence Stormy Daniels. The piece concludes by suggesting that the worst may still be coming for Trump and the nation, emphasizing the moral decay of his administration.  
+**END OF SUMMARY.**

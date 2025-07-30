@@ -1,0 +1,34 @@
+Okay, so I need to help the user summarize a news article while preserving the moral framing. The user provided specific instructions: first, identify all single words that are morally framed, then write a concise summary using those terms. 
+
+First, I'll read through the article to understand the context. It's about Trump responding to Obama's statement regarding mass shootings and the moral implications of their statements. 
+
+For STEP 1, I need to find words that carry moral connotations. I'll go through each sentence and pick out words that imply judgment or evaluation. Words like "condemn," "fierce criticism," "emboldening," "racist," "hatred," "tragedy," "injustice," "division," "heal," "demonize," "subhuman," "bigotry," "white supremacy," "racism," "stoking," and "infested mess." These words all carry strong moral or ethical implications.
+
+Next, for the summary, I need to condense the article into under 200 words, making sure to include as many of these moral terms as possible. I'll start by outlining the main points: Trump's response to Obama, the criticism of Trump's focus on video games instead of guns, the El Paso attack's connection to Trump's rhetoric, the political divide, and the broader implications of their statements on morality and responsibility.
+
+I'll make sure to include the key events: the mass shootings, Obama's call to reject fear and hatred, Trump's counter with Fox & Friends, the criticism of his approach, the link between his statements and the attack, the political opposition to Trump's visit, and the moral implications of their rhetoric on national unity and violence.
+
+I need to ensure the summary flows well and covers all critical points without being too lengthy. I'll structure it to highlight the moral framing, emphasizing how both politicians are being judged for their words and actions regarding violence, racism, and national unity.
+</think>
+
+**STEP 1:**  
+* Condemn  
+* Fierce criticism  
+* Emboldening  
+* Racist  
+* Hatred  
+* Tragedy  
+* Injustice  
+* Division  
+* Heal  
+* Demonize  
+* Subhuman  
+* Bigotry  
+* White supremacy  
+* Racism  
+* Stoking  
+* Infested mess  
+
+**SUMMARY:**  
+Donald Trump responded to Barack Obama's call to reject "language that feeds fear and hatred" by citing Fox & Friends, claiming Obama had 32 mass shootings during his presidency. Trump has been criticized for blaming video games and mental illness instead of gun laws, while also accused of emboldening white nationalists through racist rhetoric. The El Paso shooter reportedly used Trump's language in his anti-immigrant manifesto. Obama warned against leaders who demonize others or suggest immigrants threaten the nation, linking such language to historical tragedies. Trump has been accused of stoking racial resentments, including tweets targeting congresswomen of color and denigrating African American communities. Both politicians' statements highlight the moral divide over responsibility for violence, unity, and justice.  
+**END OF SUMMARY.**

@@ -1,0 +1,27 @@
+Alright, so I need to help the user by summarizing a news article while preserving the moral framing. Let me break down what they're asking for. 
+
+First, the user provided a news article about President Trump discussing the F.B.I.'s treatment of Michael Flynn and comparing it to Hillary Clinton's situation. They want me to identify all the morally framed words and then write a concise summary using those words.
+
+I'll start by reading the article carefully. The key points are Trump's criticism of the F.B.I. for ruining Flynn's life, his comparison to Hillary Clinton not facing consequences for lying, and the context of Flynn's guilty plea and the Mueller investigation.
+
+For the first step, I need to extract single words that carry moral implications. Words like "ruined," "lied," "suffered," "consequences," "destroyed," "strong," and "nothing" stand out because they imply judgment or evaluation of actions.
+
+Next, the summary needs to include these words while being concise. I should mention Trump's statements, Flynn's situation, the comparison to Clinton, and the context of the investigation. I'll make sure to keep it under 200 words and preserve the moral framing by using those identified words.
+
+I should also structure the response as per the user's instructions, starting with STEP 1 and then the SUMMARY section. Making sure each part is clear and follows the format they provided.
+
+I think I've covered all the points. Let me put it together.
+</think>
+
+**STEP 1:**  
+* Ruined  
+* Lied  
+* Suffered  
+* Consequences  
+* Destroyed  
+* Strong  
+* Nothing  
+
+**SUMMARY:**  
+President Trump criticized the F.B.I. for ruining the life of his former national security adviser, Michael Flynn, who pleaded guilty to lying to the agency. Trump contrasted Flynn’s fate with Hillary Clinton, who, he claimed, lied "many times" to the F.B.I. but suffered no consequences. Flynn, who was fired after lying to the vice president, has had his life destroyed, according to Trump. The president expressed deep sympathy for Flynn, while noting that Clinton’s voluntary interview in 2016 led to no charges. Trump’s comments come amid the ongoing Mueller investigation into Russian interference in the 2016 election and ties to his associates.  
+**END OF SUMMARY.**

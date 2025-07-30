@@ -1,0 +1,40 @@
+Okay, so the user has given me a query where I need to act as a news summarizer assistant and a moral expert. The task is to summarize a news article while preserving the moral framing the author used. They've provided specific steps: first, identify all single words that are morally framed, and then write a concise summary using those words.
+
+First, I need to understand what morally framed words are. These are words that carry a positive or negative connotation, indicating approval or disapproval. For example, words like "pleased," "great," "protest," "controversial," etc.
+
+Looking at the article, I'll go through each sentence and pick out these words. I'll list them under STEP 1, each on a new line starting with an asterisk. Then, I'll craft a summary that includes as many of these words as possible without exceeding 200 words.
+
+I should ensure that the summary captures the key points: Mattis's early departure, Trump's announcement, the reasons behind Mattis's resignation, the impact on national security policies, and the reactions from Trump and others. I need to maintain the moral tone by using the identified words appropriately.
+
+I'll make sure the summary is clear and concise, highlighting the main events and the moral implications as presented in the article. I'll also check that the summary flows well and stays within the word limit.
+</think>
+
+### STEP 1:
+* pleased  
+* great  
+* bombshell  
+* disagreements  
+* announced  
+* protest  
+* escalated  
+* sacrifice  
+* decimating  
+* happy & healthy  
+* hit hard  
+* grandstander  
+* fake news  
+* making a big deal  
+* nothing event  
+* most popular hero  
+* crazy  
+* controversial  
+* reliant  
+* died  
+* on my mind  
+
+---
+
+### SUMMARY:
+President Trump announced that Defense Secretary James Mattis will leave the administration on January 1, weeks earlier than the previously stated February 28 departure. Mattis, who had planned to stay until February, reportedly resigned in protest over Trump's national security policies. Trump praised Deputy Secretary Patrick Shanahan, a former Boeing executive, to take over as Acting Secretary. Meanwhile, Brett McGurk, the U.S. envoy to the coalition against ISIS, also resigned, citing that the mission in Syria was not yet complete. Trump downplayed McGurk's resignation, calling it a "nothing event" and criticized the media for exaggerating the situation. Trump's decision to withdraw troops from Syria and Afghanistan has been controversial, with concerns about ISIS resurgence and abandoning allies. The president defended his actions, emphasizing his campaign promises and the cost of maintaining a presence in the Middle East.  
+
+END OF SUMMARY.

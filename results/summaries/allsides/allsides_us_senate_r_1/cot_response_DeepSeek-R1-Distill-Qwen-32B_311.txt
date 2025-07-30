@@ -1,0 +1,166 @@
+Alright, let's tackle this query. The user wants me to act as a news summarizer assistant and a moral expert. They provided a news article and specific instructions on how to process it. 
+
+First, I need to understand the task. They want me to identify all the morally framed single words in the article. That means I should look for words that carry strong moral connotations, like "exposes," "commitment," "unlimited," "protection," etc. I'll go through the article and list each of these words, each on a new line starting with an asterisk.
+
+Next, I have to summarize the article while preserving the moral framing. The summary should be concise, no more than 200 words, and include as many of the identified morally charged words as possible. I need to make sure the summary reflects the author's perspective and the moral arguments presented.
+
+I should start by reading the article carefully. It's about the Senate considering a bill that requires medical care for infants born alive after an abortion. The author is critical of Democrats, accusing them of supporting unlimited abortion and dehumanizing newborns. The article mentions specific instances, like Governor Northam's comments and the repeal of New York's protections.
+
+For the summary, I'll need to highlight the key points: the bill's purpose, the Democratic opposition, their rationales, and the moral implications. I'll make sure to include terms like "exposes," "commitment," "protection," "infanticide," "dehumanizing," etc., to maintain the moral framing.
+
+I also need to structure the summary logically, starting with the bill's introduction, the context of Governor Northam's comments, the Democratic response, the flaws in their arguments, and the underlying moral conflict. The conclusion should tie back to the dehumanizing rationale of abortion rights.
+
+I should double-check that I'm not introducing any new information and that the summary stays within the word limit. Also, ensuring that the moral tone is preserved throughout, as per the user's instructions.
+
+Finally, I'll format the response with the identified words first, each on a new line with an asterisk, followed by the summary after the "SUMMARY:" token, ending with "END OF SUMMARY." I need to make sure everything is clear and meets the user's requirements precisely.
+</think>
+
+### STEP 1:  
+* Exposes  
+* Commitment  
+* Unlimited  
+* Legal  
+* Protection  
+* Require  
+* Provide  
+* Ordinary  
+* Medical  
+* Care  
+* Infants  
+* Born  
+* Alive  
+* Attempted  
+* Abortion  
+* Suggests  
+* Determine  
+* Leave  
+* Die  
+* Lack  
+* Care  
+* Circumstances  
+* Tacitly  
+* Agreed  
+* Block  
+* Afforded  
+* Same  
+* Degree  
+* Other  
+* Child  
+* Born  
+* Alive  
+* Gestational  
+* Age  
+* Rationales  
+* Flimsy  
+* Oppose  
+* Claim  
+* Exist  
+* Attempted  
+* Abortion  
+* Produce  
+* Living  
+* Infants  
+* Woeful  
+* Tale  
+* Abortionist  
+* Murderous  
+* Crimes  
+* Newborns  
+* Illegal  
+* Federal  
+* Law  
+* Spotty  
+* Anecdotal  
+* Reported  
+* Evidence  
+* Survive  
+* Late-term  
+* Abortion  
+* Procedures  
+* Regularity  
+* Proven  
+* Wrong  
+* Pivot  
+* Assert  
+* Laws  
+* Prevent  
+* Infanticide  
+* Context  
+* False  
+* Federal  
+* Require  
+* Doctors  
+* Life-saving  
+* Care  
+* Infants  
+* Survive  
+* Abortions  
+* States  
+* Protections  
+* Repeal  
+* Last-ditch  
+* Ploy  
+* Consistently  
+* Refer  
+* Anti-abortion  
+* Regulate  
+* Government  
+* Women  
+* Doctors  
+* Limit  
+* Health-care  
+* Options  
+* Treat  
+* Newborns  
+* Survive  
+* Abortion  
+* Same  
+* Other  
+* Newborn  
+* Infant  
+* Deem  
+* Willfully  
+* Misrepresent  
+* Provisions  
+* Sincerely  
+* Believe  
+* Right  
+* Abortion  
+* Deny  
+* Medical  
+* Care  
+* Newborn  
+* Infant  
+* Targeted  
+* Kill  
+* Crucial  
+* Decency  
+* Demands  
+* Arbitrary  
+* Nature  
+* Deny  
+* Rights  
+* Human  
+* Mother  
+* Grant  
+* Rights  
+* Arbitrary  
+* Nature  
+* Oppose  
+* Bill  
+* Maintain  
+* Right  
+* Abortion  
+* Includes  
+* Right  
+* Let  
+* Infant  
+* Die  
+* Neglect  
+* Planned  
+* Killed  
+
+---
+
+### SUMMARY:  
+The Senate is considering the Born-Alive Abortion Survivors Protection Act, which exposes Democrats' commitment to unlimited legal abortion. The bill mandates that doctors provide ordinary medical care to infants born alive after an attempted abortion. Senator Ben Sasse reintroduced the legislation following Virginia Governor Ralph Northam's controversial remarks about allowing newborns to die in some cases. Democrats have opposed the bill, presenting flimsy rationales, such as claiming "born-alive" infants don't exist or asserting that existing laws already prevent infanticide. However, no federal law requires doctors to provide life-saving care to infants who survive abortions, and only 33 states have such protections. Democrats also label the bill as "anti-abortion," despite it not regulating abortion access but merely requiring medical care for newborns. This framing reveals the dehumanizing rationale behind abortion rights, as opposing the bill implies supporting the right to let an infant die if they were targeted for abortion. The legislation highlights the moral conflict between denying rights to a fetus and granting them to a newborn. END OF SUMMARY.

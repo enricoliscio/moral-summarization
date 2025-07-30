@@ -1,0 +1,34 @@
+Okay, I need to help the user by summarizing the given news article while preserving the moral framing. The user has specified two main steps: first, identifying all the morally framed single words, and then writing a summary that includes as many of these words as possible. 
+
+Starting with STEP 1, I'll go through the article to find words that carry moral connotations. Words like "destructive," "acrimony," "no-no," "challenged," "strained," "partisan," "derailing," "skepticism," "concessions," "affront," "disrespect," "divisive," "compromised," and "opposition" stand out as they imply judgment or evaluation.
+
+Now, for the summary, I need to condense the article into 200 words, making sure to include these morally charged words. I'll structure it by highlighting the key points: Susan Rice's warning, Netanyahu's invitation by Boehner, the impact on U.S.-Israel relations, the political implications, and the reactions from both sides. I'll ensure the summary flows logically, connecting each point with the moral framing words identified.
+
+I should also pay attention to the balance between the administration's stance and Netanyahu's intentions, as well as the reactions from Congress. Including how Biden and other Democrats are opting out, while Republicans like Graham are criticizing, adds depth to the moral perspective. 
+
+I need to make sure the summary is concise but comprehensive, capturing the essence of the conflict and the underlying tensions without going into too much detail. Each sentence should reflect the moral evaluation present in the original article, ensuring that the summary remains aligned with the author's framing.
+
+Finally, I'll review the summary to ensure it meets the word limit and that all key points are covered, maintaining the moral perspective throughout. This way, the user gets a clear, concise summary that preserves the article's moral framing as required.
+</think>
+
+**STEP 1:**
+
+* destructive  
+* acrimony  
+* no-no  
+* challenged  
+* strained  
+* partisan  
+* derailing  
+* skepticism  
+* concessions  
+* affront  
+* disrespect  
+* divisive  
+* compromised  
+* opposition  
+
+---
+
+**SUMMARY:**  
+National Security Adviser Susan Rice criticized Israeli Prime Minister Benjamin Netanyahu's upcoming Capitol Hill speech, calling it a "destructive" force in U.S.-Israel relations. Netanyahu, invited by House Speaker John Boehner without consulting the White House, aims to address concerns about Iran's nuclear threat. Rice warned that the visit risks "partisan" divisions, as Netanyahu's speech could "derail" U.S.-Iran nuclear negotiations. Tensions are rising, with Netanyahu refusing to meet Senate Democrats, citing concerns about being seen as "partisan." U.S. officials view the visit as an attempt to "oppose" Obama's nuclear deal with Iran, which Netanyahu believes could leave Iran on the brink of building a nuclear weapon. Netanyahu insists his goal is to voice Israel's "grave concerns." Meanwhile, Vice President Biden and several Democrats are skipping the event, calling it an "affront" to the administration, while Republicans like Lindsey Graham criticize Biden's absence as "disrespectful." The visit has deepened the "strained" relationship between Obama and Netanyahu, with Rice emphasizing the need to maintain bipartisan support for the U.S.-Israel alliance. END OF SUMMARY.

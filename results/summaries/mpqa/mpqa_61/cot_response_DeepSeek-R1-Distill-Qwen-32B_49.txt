@@ -1,0 +1,45 @@
+Okay, I need to help the user with their query. They provided a news article and specific instructions. Let me break it down.
+
+First, the user wants me to act as a news summarizer and moral expert. My tasks are two-fold: identify morally framed words and then summarize the article while preserving those moral terms.
+
+Looking at the article, it's about the Kyoto Protocol and its costs. The user provided an example response, so I can use that as a guide.
+
+For STEP 1, I need to find all single words that carry moral framing. Words like "rip-off," "cost," "sacrifice," "frightening," "protect," "mission," "stake," "threat," "benefit," "sacrifice," "yield," "reduction," "output," "soar," "cost," "burden," "focus," "abate," "help," "assistance," "costly," "price," "better," "likely," "fraction." These words seem to carry moral implications, indicating value judgments.
+
+Next, the summary needs to be concise, under 200 words, using as many of these moral terms as possible. I should capture the main points: the study's findings, the Prime Minister's dismissal, the government's own report, the minimal impact on global emissions, the costs, and the alternative approach suggested.
+
+I need to ensure the summary flows logically, highlighting the moral arguments against the Kyoto Protocol's costs and the suggestion for a better approach. I'll make sure to include terms like "rip-off," "cost," "sacrifice," "protect," "mission," "stake," "threat," "benefit," "sacrifice," "yield," "reduction," "output," "soar," "cost," "burden," "focus," "abate," "help," "assistance," "costly," "price," "better," "likely," "fraction."
+
+I'll structure the summary to first present the economic costs, then the Prime Minister's dismissal, followed by the government's own report, the minimal global impact, and the alternative approach. This should effectively convey the moral framing as per the user's request.
+</think>
+
+**STEP 1:**  
+* rip-off  
+* cost  
+* sacrifice  
+* frightening  
+* protect  
+* mission  
+* stake  
+* threat  
+* benefit  
+* sacrifice  
+* yield  
+* reduction  
+* output  
+* soar  
+* cost  
+* burden  
+* focus  
+* abate  
+* help  
+* assistance  
+* costly  
+* price  
+* better  
+* likely  
+* fraction  
+
+**SUMMARY:**  
+The article argues that implementing the Kyoto Protocol would be a rip-off for Canada, costing 450,000 jobs and $40 billion, which represents a significant sacrifice for the economy. Prime Minister Jean Chrétien dismisses these figures, but government reports confirm the potential economic loss. The article questions the necessity of such a sacrifice, as rising temperatures pose little threat to Canada and may even benefit farmers and non-farmers alike. Globally, Canada's efforts would yield only a minor reduction in emissions, with the treaty's impact being negligible due to the expected surge in emissions from developing nations. The cost of Kyoto, estimated at $2 trillion in lost GDP worldwide, is deemed excessive. Instead, the article suggests focusing on abating the damage of global warming in vulnerable nations through assistance, which would likely be far less costly than Kyoto's 13-digit price tag.  
+**END OF SUMMARY.**

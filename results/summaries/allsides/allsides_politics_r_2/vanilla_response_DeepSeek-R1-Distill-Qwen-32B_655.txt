@@ -1,0 +1,18 @@
+Okay, so the user has given me a query where they want me to act as a news summarizer. They provided an article about an incident where Maryland Governor Martin O'Malley confronted Ken Cuccinelli at a bar. The task is to summarize this article in 200 words or less, starting with "SUMMARY:" and ending with "END OF SUMMARY."
+
+First, I need to understand the main points of the article. The key elements are: who was involved (Cuccinelli and O'Malley), where it happened (The Dubliner bar in DC), what happened (O'Malley confronted Cuccinelli over immigration policies), and the consequences (Cuccinelli left, others reacted, including support from the left).
+
+I should identify the main events in chronological order. The confrontation started when they met at the bar, O'Malley started a tirade, Cuccinelli tried to de-escalate, O'Malley followed him, and the situation was eventually calmed down by a mutual friend. O'Malley's comments were about the Trump administration's immigration policies, specifically the caging of children. 
+
+I also need to note the reactions: Cuccinelli described the behavior as sad and shocking, and O'Malley defended his actions, which were supported by some Democrats. 
+
+Now, I'll structure the summary to include all these points concisely. I should ensure that it's clear, factual, and within the word limit. I'll start by stating the incident, then the confrontation details, the de-escalation, and the aftermath with reactions from both sides.
+
+I need to avoid any personal opinions and stick to the facts presented in the article. Also, I should make sure that the summary flows logically, starting from the incident, the confrontation, the resolution, and the reactions.
+
+I'll check the word count to ensure it's under 200 words. Let me draft it step by step, making sure each sentence adds necessary information without being redundant.
+
+Finally, I'll review the summary to ensure it captures all key points and adheres to the user's formatting instructions.
+</think>
+
+SUMMARY: Maryland Gov. Martin O’Malley confronted Acting Homeland Security Deputy Secretary Ken Cuccinelli at an Irish pub in Washington, D.C., during a Gonzaga College High School event. O’Malley launched a heated tirade against Cuccinelli, criticizing the Trump administration’s immigration policies, including the separation of immigrant children from their parents. Cuccinelli described the encounter as a “passion-laced and shame-invoking tirade,” noting that O’Malley’s anger was so intense that his neck veins were bulging. Cuccinelli attempted to de-escalate the situation but was followed by O’Malley, who continued to骂 and even invited a confrontation. A mutual friend intervened, calming the situation. Cuccinelli later criticized O’Malley’s behavior as shocking, while O’Malley defended his actions, stating he was expressing outrage over the administration’s policies. The incident has sparked debate, with some on the left supporting O’Malley’s confrontation. END OF SUMMARY.

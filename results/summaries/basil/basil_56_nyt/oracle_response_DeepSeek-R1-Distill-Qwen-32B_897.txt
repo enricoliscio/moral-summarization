@@ -1,0 +1,15 @@
+Okay, I need to summarize the given news article while preserving the moral framing. The user wants a concise summary under 200 words, using as many of the specified morally framed words as possible.
+
+First, I'll read through the article to understand the main points. It's about Senator Marco Rubio outlining his foreign policy approach with three pillars: military strength, protecting the economy, and preserving American values. He emphasizes funding the military, opposing violations in various domains, and spreading freedom.
+
+Next, I'll identify the morally framed words from the article: preserving, fund, oppose, violations, invades, freedom, reinforce, resist, subjugate, persecuted, hear, cries, see, suffering, desire. I need to include these in the summary.
+
+I'll structure the summary to highlight Rubio's priorities, his stance on military funding, opposition to violations, and his vision for spreading freedom. I'll make sure to use the moral terms to convey the ethical aspects of his policy.
+
+I should keep the summary clear and within the word limit. I'll start by mentioning Rubio's speech and his three pillars, then delve into each point, using the moral words to emphasize his stance. Finally, I'll conclude with his broader vision, ensuring all key points are covered concisely.
+
+Let me draft this, making sure each sentence includes the necessary moral terms without making it sound forced. I'll check the word count to ensure it's under 200 words. Once done, I'll present it after the "SUMMARY:" token and end with "END OF SUMMARY."
+</think>
+
+SUMMARY:  
+Senator Marco Rubio, a 2016 presidential candidate, will outline his foreign policy approach in a speech, emphasizing three pillars: ensuring American strength, protecting the economy in a globalized world, and preserving the moral clarity of America’s core values. Rubio’s first priority is to "adequately fund" the military, even in times of peace. He will oppose violations of international waters, airspace, cyberspace, or outer space, including economic disruptions caused by invasions. Rubio’s vision includes spreading economic and political freedom, reinforcing alliances, resisting efforts by large powers to subjugate smaller neighbors, and advancing the rights of vulnerable groups, such as women and religious minorities. He aims to ensure the afflicted peoples of the world know that the American people hear their cries, see their suffering, and desire their freedom. END OF SUMMARY.

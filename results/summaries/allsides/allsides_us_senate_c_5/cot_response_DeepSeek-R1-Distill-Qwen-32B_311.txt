@@ -1,0 +1,32 @@
+Okay, I need to help the user by summarizing the news article while preserving the moral framing. The user has specified a two-step process. First, I need to identify all the single words that are morally framed in the text. Then, I have to write a concise summary using those words where appropriate.
+
+Starting with STEP 1, I'll go through the article and pick out words that carry moral connotations. Words like "disturbing," "dismissing," "capable," "complete," "ideal," " phantom," "irresponsible," "illegal," "partisan," "delegitimize," "ridiculous," and "conspiracy" stand out as they imply judgment or evaluation.
+
+Now, for the summary, I need to condense the article, keeping it under 200 words. I'll focus on the main points: McConnell's stance on using the Intelligence Committee instead of a special committee, his dismissal of McCain's suggestion, his caution against leaks, the mention of the CIA findings, Trump's dismissal, and the political implications. I should include the morally framed words to maintain the original tone.
+
+I should ensure that the summary flows logically, covering McConnell's arguments, the context of Russian interference, the political motivations, and the reactions from both sides. I'll make sure each sentence is clear and concise, avoiding unnecessary details while preserving the essential information and the moral framing.
+
+Let me structure the summary: start with McConnell's position, mention the Intelligence Committee's capability, his dismissal of McCain's idea, caution against leaks, the CIA's findings, Trump's dismissal, and the political angle. I'll also include the spokesperson's comments about the narrative being an attempt to delegitimize Trump's win.
+
+I need to keep each sentence tight and make sure the summary doesn't exceed 200 words. I'll check the word count after drafting to ensure compliance. Also, I should maintain the order of events as presented in the article to keep the summary accurate and coherent.
+
+Finally, I'll review the summary to ensure it includes all key points and the morally framed words, providing a clear and concise overview of the article's content and the underlying moral perspectives.
+</think>
+
+**STEP 1:**  
+* disturbing  
+* dismissing  
+* capable  
+* complete  
+* ideal  
+* phantom  
+* irresponsible  
+* illegal  
+* partisan  
+* delegitimize  
+* ridiculous  
+* conspiracy  
+
+**SUMMARY:**  
+Senate Majority Leader Mitch McConnell called the allegations of Russian meddling in the U.S. election "disturbing" and emphasized that the Senate Intelligence Committee is "more than capable" of conducting a review. He dismissed calls for a special select committee, stating that the Intelligence Committee should handle the matter on a bipartisan basis. McConnell criticized leaks about U.S. intelligence findings, calling them "irresponsible" and potentially "illegal," while cautioning against a "partisan" lens. Meanwhile, Sen. John McCain advocated for a special committee, and McConnell acknowledged McCain's role in reviewing cybersecurity threats. McConnell also criticized Russian President Vladimir Putin, describing him as an "adversary," and warned against assuming Russia wishes the U.S. well. Trump's spokesperson dismissed the investigation as an attempt to "delegitimize" Trump's win, while Trump himself called the CIA report "ridiculous." McConnell declined to comment on Tillerson's nomination but stressed the need to "wait until we get nominees." The article highlights the political and moral implications of Russian interference and the divide over how to address it.  
+**END OF SUMMARY.**

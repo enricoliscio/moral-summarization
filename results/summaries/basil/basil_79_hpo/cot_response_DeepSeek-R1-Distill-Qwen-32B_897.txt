@@ -1,0 +1,34 @@
+Alright, so I'm trying to help the user by summarizing a news article while preserving the moral framing. First, I need to understand the task. The user wants me to act as a news summarizer and a moral expert. They provided a news article and specific instructions on how to process it.
+
+The first step is to identify all the single words that are morally framed. I remember from the previous response that words like "defended," "ruined," "lied," "unfair," "guilty," "collusion," "obstructed," "justice," "dishonesty," "hypocrisy," and "fairness" were used. I should go through the article again to make sure I didn't miss any. 
+
+Looking at the article, Trump talks about Flynn's situation, comparing it to Hillary Clinton's. He uses words like "ruined" and "lied." He also mentions that Flynn's life was destroyed, which is a strong moral statement. When talking about Clinton, he says she lied but nothing happened, implying a double standard, which is a moral point. 
+
+Then, the article discusses Flynn's guilty plea and the implications for Trump's involvement. Terms like "indictment," "collusion," and "obstructed justice" come into play. Trump's lawyer brings up constitutional arguments, which is a legal and moral point about the president's role. 
+
+I think I have all the morally charged words. Now, moving on to the summary. I need to condense the article into 200 words, keeping those moral terms. I should start by stating Trump's defense of Flynn, mention the comparison to Clinton, and the implications for the investigation. Then, touch on the legal and moral questions surrounding Trump's actions and his lawyer's defense. 
+
+I need to make sure the summary flows well and covers all key points without being too lengthy. Let me structure it: Trump defends Flynn, compares to Clinton, Flynn's guilty plea, the impact on Trump's distancing, the lawyer's argument, and the moral implications. 
+
+I should avoid adding any personal opinions, just stick to the facts and the moral framing as presented. Let me check the word count to ensure it's under 200. 
+
+Wait, in the previous response, the summary was 172 words. I need to make sure mine is concise but comprehensive. I'll make sure each sentence adds value and includes the necessary moral terms without redundancy.
+
+I think I've covered all the points. Let me put it all together, making sure each sentence transitions smoothly and the moral framing is preserved.
+</think>
+
+**STEP 1:**  
+* defended  
+* ruined  
+* lied  
+* unfair  
+* guilty  
+* collusion  
+* obstructed  
+* justice  
+* dishonesty  
+* hypocrisy  
+* fairness  
+
+**SUMMARY:**  
+President Donald Trump defended former national security adviser Michael Flynn, stating that Flynn’s life was “ruined” after pleading guilty to lying to the FBI. Trump compared Flynn’s situation to Hillary Clinton, who lied to the FBI about her private email server but faced no consequences, while Flynn’s actions led to his downfall. Trump and his lawyer, John Dowd, argued that the president cannot obstruct justice as the chief law enforcement officer under the Constitution. Flynn’s indictment has made it harder for Trump to distance himself from the Russia collusion probe, as Flynn’s lies about contacts with Russian officials and the creation of a backchannel with the Kremlin have raised questions about Trump’s potential involvement. The comparison to Clinton highlights a perceived double standard, with Trump framing the situation as “unfair” and emphasizing the moral and legal implications of Flynn’s actions versus Clinton’s. END OF SUMMARY.

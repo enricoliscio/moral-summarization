@@ -1,0 +1,33 @@
+Okay, so I'm trying to figure out how to approach this query. The user wants me to act as a news summarizer and a moral expert. They provided a news article about President Trump's comments on Michael Flynn's case and the moral framing within it. 
+
+First, I need to identify the morally framed words in the article. The user specified that I should list each word with a * and in a new line under STEP 1. I'll go through the article and pick out words that carry moral connotations. Words like "unfair," "lied," "ruined," "double standard," "careless," "peril," "shame," "lawful," "nothing to hide," "expose," "obstruction of justice," "deny," "accusing," "cooperating," "truth," "allegations," and "case." These words are used to convey judgment or moral evaluation.
+
+Next, I need to summarize the article, preserving the moral framing. The summary should be concise, around 200 words, and include as many of those moral words as possible. I'll start by noting Trump's criticism of the Flynn case as unfair, comparing it to Clinton's case. Then, I'll mention the legal implications of Trump's tweets, the involvement of his lawyer, and the ongoing obstruction of justice allegations. I'll also include Flynn's cooperation with Mueller's investigation. I need to ensure the summary flows well and includes the key points with the moral terms highlighted.
+
+I should make sure the summary doesn't exceed 200 words and that it accurately reflects the article's content while emphasizing the moral aspects. I'll structure it by first stating Trump's unfairness claim, then his comparison with Clinton, followed by the legal implications of his tweets, the lawyer's explanation, and the ongoing investigation. Ending with Flynn's cooperation ties it all together.
+
+I need to double-check that all the morally framed words are included and that the summary is coherent and within the word limit. I should also ensure that the moral framing is preserved, so the summary reflects the author's original perspective on the issue.
+</think>
+
+**STEP 1:**  
+* unfair  
+* lied  
+* destroyed  
+* double standard  
+* careless  
+* peril  
+* shame  
+* lawful  
+* nothing to hide  
+* exposed  
+* obstruction of justice  
+* deny  
+* accusing  
+* cooperating  
+* truth  
+* allegations  
+* case  
+
+**SUMMARY:**  
+President Trump criticized the criminal case against Michael Flynn as "very unfair," claiming Flynn was treated differently from Hillary Clinton, who also "lied" to the FBI but faced no consequences. Trump expressed sympathy for Flynn, whose life was "ruined" after pleading guilty to lying about his Russia contacts. Trump suggested a "double standard" and pointed out that Clinton’s interview with the FBI did not result in charges, unlike Flynn’s case. However, Trump’s recent tweets about Flynn’s case have raised concerns of "obstruction of justice," as they implied Trump knew Flynn lied to the FBI before firing him. Trump denied asking FBI Director James Comey to stop investigating Flynn. Meanwhile, Sen. Lindsey Graham warned Trump about commenting on ongoing investigations, and Sen. Dianne Feinstein hinted that the Senate Judiciary Committee is considering "obstruction of justice" charges against Trump. Flynn is now "cooperating" with Robert Mueller’s investigation, though it remains unclear what he might reveal about Trump or his associates.  
+**END OF SUMMARY.**

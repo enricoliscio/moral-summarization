@@ -1,0 +1,34 @@
+Okay, I need to help the user by summarizing the given news article while preserving the moral framing. The user has specified two steps: first, identify all the morally framed words, and then write a summary that includes as many of those words as possible.
+
+Starting with STEP 1, I'll go through the article to find words that carry moral connotations. Words like "symbolic," "difficult," "unconstitutional discrimination," "fundamental right," "defend," "ban," "equal," "discrimination," "constitutional right," "basic constitutional right," "equality," "equality under the law," "moral," "pressure," "statement," "morally right," and "wrong" come to mind. I'll list each of these with an asterisk.
+
+Next, for the summary, I need to condense the article into 200 words or less. I'll focus on the key points: the Obama administration's decision on Proposition 8, the moral and legal implications, the shift in Obama's stance, and the potential impact on same-sex marriage laws. I'll make sure to include the morally framed words to maintain the original tone.
+
+I should structure the summary to highlight the administration's dilemma, the legal arguments, and the broader moral implications. It's important to mention the potential far-reaching effects of the Supreme Court's decision and how the administration's stance could influence public perception and the outcome.
+
+I'll start by stating the administration's upcoming decision, then outline the background of Proposition 8, the legal challenges, and the moral shift in Obama's position. I'll conclude by emphasizing the symbolic importance and the anticipation from both sides of the issue.
+
+Making sure the summary is concise and includes all the key morally framed words without making it too verbose. I'll check the word count to ensure it's under 200 words and that the moral framing is preserved throughout.
+</think>
+
+**STEP 1:**  
+* symbolic  
+* difficult  
+* unconstitutional discrimination  
+* fundamental right  
+* defend  
+* ban  
+* equal  
+* discrimination  
+* constitutional right  
+* basic constitutional right  
+* equality  
+* equality under the law  
+* moral  
+* pressure  
+* statement  
+* morally right  
+* wrong  
+
+**SUMMARY:**  
+The Obama administration faces a morally charged decision on same-sex marriage as it prepares to file briefs in the Proposition 8 case before the U.S. Supreme Court. Proposition 8, a California ballot initiative banning same-sex marriage, was deemed unconstitutional by a federal court. The administration must decide whether to argue for a broad constitutional right to marry or take a narrower stance, such as challenging California's reversal of marriage rights for gay couples. President Obama's evolving position—from supporting state-level decisions to advocating for equality under the law—adds complexity. The case has profound moral and legal implications, potentially invalidating same-sex marriage bans in 30 states. Advocates and opponents see the administration's stance as a symbolic statement on equality and justice. While legal experts debate the impact of the brief, its moral framing could resonate deeply with the public. END OF SUMMARY.

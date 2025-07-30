@@ -1,0 +1,42 @@
+Okay, I need to help the user by summarizing a news article while preserving the moral framing. The user has given specific instructions: first, identify all the morally framed single words, then write a concise summary.
+
+Starting with STEP 1, I'll go through the article to find words that carry moral connotations. Words like "praised," "condemned," "free," "fair," "transparent," "credible," "tragedy," "consistent," "defending," "inalienable," "freedom," "democratic," "sovereign," "confidence," "esteem," "legitimate," "flawed," "violence," "intimidation," "stolen," "sanctions," "aid," and "controversial" stand out. These words reflect the differing moral perspectives between African and Western countries.
+
+Next, for the summary, I need to condense the article, keeping the moral framing intact. I'll mention the praise from African organizations and countries, the condemnation from Western nations, the election results, and the implications of the election on international relations and sanctions. I'll make sure to include the morally charged words to convey the opposing viewpoints clearly.
+
+I need to keep the summary under 200 words, so I'll focus on the key points: Mugabe's reelection, reactions from OAU, African leaders, SADC, and Western countries, the election results, and the consequences like sanctions and aid cuts. This should provide a comprehensive yet concise summary that reflects the moral framing as per the user's request.
+</think>
+
+**STEP 1:**
+
+* praised
+* condemned
+* free
+* fair
+* transparent
+* credible
+* tragedy
+* consistent
+* defending
+* inalienable
+* freedom
+* democratic
+* sovereign
+* confidence
+* esteem
+* legitimate
+* flawed
+* violence
+* intimidation
+* stolen
+* sanctions
+* aid
+* controversial
+
+---
+
+**SUMMARY:**  
+
+Zimbabwean President Robert Mugabe's reelection was praised by African organizations and countries, including the Organization of African Unity (OAU) and Tanzanian President Benjamin Mkapa, who called him a "champion of democracy." The OAU observer team deemed the election "free and fair," while the Southern African Development Community (SADC) described it as a "true reflection" of the people's will. However, Western countries condemned the election, with the U.S., UK, France, Germany, and Denmark accusing it of being flawed, marred by violence, and "stolen." The EU and Denmark announced sanctions and aid cuts. Mugabe secured 56.2% of the vote, defeating opposition leader Morgan Tsvangirai. The election was described as Zimbabwe's most contested since independence, with 3.4 million of 5.6 million registered voters participating.  
+
+**END OF SUMMARY.**

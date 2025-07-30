@@ -1,0 +1,15 @@
+Okay, so the user has provided a query where they want me to summarize a news article about Nancy Pelosi's reaction to Rashida Tlaib's comment. They also included an example of how the summary should look, which ends with "SUMMARY:" and "END OF SUMMARY." tokens.
+
+First, I need to understand the article content. It's about Pelosi not being upset with Tlaib's use of vulgar language regarding impeachment. Pelosi mentions it's a free speech issue and compares it to Trump's comments. Tlaib made the comment at an event, and Pelosi doesn't see it affecting House business.
+
+Next, the user wants the summary to be concise, under 200 words. I should extract the main points: Pelosi's stance on free speech, her comparison to Trump's remarks, Tlaib's comment, and the context of the event. Also, mention Trump's Twitter response.
+
+I need to structure the summary clearly, starting with Pelosi's reaction, then Tlaib's statement, Pelosi's comparison, and end with Trump's response. Keeping it within the word limit is crucial.
+
+I should avoid any markdown and ensure the summary is in plain text. Also, make sure to include all key elements without unnecessary details. Double-checking the word count to stay under 200 words is important.
+
+Finally, I'll format the summary with the specified tokens at the beginning and end, ensuring it's clear and meets the user's requirements.
+</think>
+
+SUMMARY: House Speaker Nancy Pelosi dismissed concerns over Michigan Rep. Rashida Tlaib’s use of vulgar language when referring to impeaching President Donald Trump. Tlaib, one of the first Muslim women in Congress, vowed to “impeach that motherfucker” during a victory speech. Pelosi defended Tlaib’s free speech, stating she doesn’t censor her colleagues and compared the remark to Trump’s own controversial comments, such as his infamous remarks about women and calling countries “shithole.” Pelosi emphasized that Tlaib’s comment doesn’t impact House business but could energize Trump’s base. Trump responded on Twitter, accusing Democrats of impeachment attempts due to their inability to win in 2020.  
+END OF SUMMARY.

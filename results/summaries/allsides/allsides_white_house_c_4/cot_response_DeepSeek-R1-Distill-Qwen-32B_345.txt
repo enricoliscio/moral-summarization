@@ -1,0 +1,28 @@
+Alright, so I need to help the user with their query. They provided a news article and specific instructions on how to process it. Let me break this down.
+
+First, the user wants me to act as a news summarizer and a moral expert. My task is to summarize the article while preserving the moral framing. They've given two steps: identifying morally framed words and then writing a summary using those words.
+
+Looking at the article, it's about the White House seeking emergency funds after Hurricane Sandy. The key points are the damage, the request for $50-60 billion, the focus on future prevention, the impact on communities, and the debate on funding allocation.
+
+For STEP 1, I need to extract single words that carry moral implications. Words like "devastation," "emergency," "conservative," "resilience," "hardships," "resources," "down payment," "offset," and "fairly" come to mind. These words reflect the moral considerations around aid, responsibility, and fairness.
+
+Now, for the summary. I have to keep it under 200 words and include as many of the identified words as possible. I'll start by mentioning the White House's request and the focus on future prevention. Then, I'll note the estimated damages and the need for rebuilding. I should highlight the moral aspects like ensuring communities are made whole, the debate over underground power lines, and the concerns about delayed aid causing hardships. Also, I'll include the opposition to offsetting aid with budget cuts, emphasizing fairness.
+
+I need to make sure the summary flows naturally while incorporating the moral language. Let me structure it to first present the funding request, then the damages, followed by the future planning, and finally the debates and concerns. This should cover all key points and maintain the moral framing.
+
+I think that's a solid approach. Now, I'll put it all together, making sure each part is concise and within the word limit.
+</think>
+
+**STEP 1:**  
+* Devastation  
+* Emergency  
+* Conservative  
+* Resilience  
+* Hardships  
+* Resources  
+* Down payment  
+* Offset  
+* Fairly  
+
+**SUMMARY:**  
+The White House is seeking an emergency funding request of $50 to $60 billion for Hurricane Sandy recovery, emphasizing the need to rebuild stronger and smarter to prevent future devastation. The storm caused $32.8 billion in damages in New York alone, with over 300,000 homes and 265,000 businesses impacted. Federal officials stress the importance of investing in resilience, such as burying power lines or using generator-capable infrastructure, to protect communities from future superstorms. However, HUD Secretary Shaun Donovan warns that delaying aid with a "down payment" would cause hardships for families and businesses waiting to rebuild. The administration opposes offsetting disaster aid with budget cuts, highlighting the moral imperative to provide full support for affected communities. END OF SUMMARY.

@@ -1,0 +1,94 @@
+Okay, so the user has given me a query where they want to summarize a news article, but with a focus on preserving the moral framing. They've also provided specific steps: first, identify all single words that are morally framed, and then write a summary using those words.
+
+Hmm, I need to make sure I understand what "morally framed" means. It probably refers to words that carry a moral connotation, like "injustice," "equality," "rights," etc. The user wants these words highlighted in the summary to maintain the article's ethical perspective.
+
+First, I should go through the article and pick out each morally charged word. I'll list them, each on a new line starting with an asterisk. Then, I'll craft a concise summary that includes as many of these words as possible without exceeding 200 words.
+
+I need to ensure the summary captures the key points: the historical context, the current movement, the challenges, and the hope for change. Including words like "protesting," "racial injustice," "change," "segregation," etc., will help maintain the moral tone.
+
+Wait, the user also mentioned being a news summarizer and a moral expert. So, I should not only summarize but also highlight the ethical implications. Maybe I should emphasize the struggle against systemic issues and the hope for a better future.
+
+I'll start by identifying all the moral words. Then, I'll structure the summary to flow from past movements to the current situation, highlighting the resistance and the potential for change. I need to make sure it's clear that while progress has been made, there's still a long way to go, and this new generation is taking up the mantle.
+
+Also, the summary needs to end with a call to action, encouraging people to join the movement. That should tie back to the moral framing, emphasizing conscience and the importance of the struggle.
+
+I think I've covered all the steps. Let me put it all together, making sure the summary is within the word limit and includes the necessary moral terms.
+</think>
+
+**STEP 1:**  
+* racial injustice  
+* civil rights movement  
+* segregation  
+* arrest  
+* violate  
+* lie  
+* constitutional  
+* bubble  
+* limited  
+* apply  
+* scholarship  
+* assignments  
+* Blacks-only  
+* vowed  
+* protests  
+* spread  
+* agitators  
+* tarred  
+* socialists  
+* communists  
+* violent opposition  
+* vigilantes  
+* police officers  
+* movement  
+* Public Accommodations Act  
+* Voting Rights Act  
+* Edmund Pettus Bridge  
+* Selma  
+* King  
+* barriers  
+* legal apartheid  
+* industries  
+* CNN  
+* desegregated  
+* athletic fields  
+* Atlanta Braves  
+* African Americans  
+* elections  
+* state  
+* local  
+* national  
+* racism  
+* biased  
+* institutional structures  
+* red-lined neighborhoods  
+* unequal schools  
+* wage discrimination  
+* hiring discrimination  
+* criminal justice system  
+* economic equality  
+* assassination  
+* generation  
+* demonstrations  
+* Black lives  
+* opinion surveys  
+* participate  
+* counties  
+* protests  
+* white participation  
+* reforming  
+* police practices  
+* choke holds  
+* Mississippi  
+* Confederate battle emblem  
+* resist  
+* privileged  
+* powerful  
+* criminal injustice  
+* economic inequalities  
+* basic economic and political rights  
+* conscience  
+* pulse  
+* extraordinary movement  
+
+**SUMMARY:**  
+The article reflects on the inspiring rise of a new generation protesting racial injustice, drawing parallels to the civil rights movement of the 1960s. The author recounts their personal experience of being arrested for violating segregation laws in 1960, highlighting the persistence of systemic racism despite legal progress. The movement faced fierce resistance, including violence and opposition, but ultimately led to significant reforms like the Public Accommodations Act and Voting Rights Act. However, racism and biased institutional structures remain, perpetuating inequality in education, employment, and the criminal justice system. Dr. King’s vision for economic equality was cut short, but a new generation is now challenging these injustices, with unprecedented protests and widespread participation. Politicians are beginning to respond, but entrenched interests will resist change. The movement’s focus on criminal injustice, economic inequalities, and basic rights threatens the privileged, yet history shows that collective action can drive meaningful change. This generation has the opportunity to make America better, and millions of lives depend on their struggle. END OF SUMMARY.

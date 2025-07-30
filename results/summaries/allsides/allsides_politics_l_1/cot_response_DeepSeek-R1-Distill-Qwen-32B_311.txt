@@ -1,0 +1,38 @@
+Okay, so the user has given me a query where they want me to act as a news summarizer assistant and a moral expert. They provided a news article about Mattis criticizing Trump and have specific instructions on how to process it. 
+
+First, I need to understand the task. They want me to perform two steps. The first is to identify all single words that are morally framed in the article. The second is to write a summary preserving those moral framings. 
+
+I should start by reading the article carefully. Mattis is criticizing Trump for dividing the country, which is a moral issue about unity. He contrasts this with Nazi ideology, which is a strong moral statement. He also talks about constitutional rights and the role of the military, which ties into moral principles like trust and the rule of law.
+
+Next, I need to extract all the morally framed words. Words like "unite," "divide," "mature leadership," "owe," "pledge," "strength," "conquer," "crisis," "experiment," "constitutional rights," "oath," "trust," "bond," "society," "public order," and "answerable." These words carry moral weight and are central to the article's framing.
+
+For the summary, I have to condense the article while keeping these moral terms. I need to highlight Mattis's criticism of Trump's divisiveness, his reference to the military's role, and the implications for the nation's unity and constitutional integrity. The summary should be concise, around 200 words, and maintain the moral tone set by Mattis.
+
+I also need to ensure that the summary flows well and accurately represents Mattis's main points without adding any personal opinions. It's important to stick to the facts and the moral framing provided in the original text.
+
+Finally, I'll structure the response with STEP 1 listing all the moral words and then the SUMMARY section. I'll make sure to end with the specified tokens as per the user's instructions.
+</think>
+
+### STEP 1:  
+* unite  
+* divide  
+* mature leadership  
+* owe  
+* pledge  
+* strength  
+* conquer  
+* crisis  
+* experiment  
+* constitutional rights  
+* oath  
+* trust  
+* bond  
+* society  
+* public order  
+* answerable  
+
+---
+
+### SUMMARY:  
+General Mattis criticizes President Trump for failing to unite the American people, instead dividing the nation. He contrasts Trump's leadership with the American ethos of unity, referencing the military's role in the Normandy invasion, where the American answer to "Divide and Conquer" was "In Union there is Strength." Mattis condemns the use of military forces in domestic protests, arguing it undermines the trust between the military and civilians. He explicitly criticizes Trump's response to the George Floyd protests, stating that ordering troops to violate constitutional rights for a "photo op" is unacceptable. Mattis also implicitly faults the current Secretary of Defense, Mark Esper, for militarizing domestic responses. He emphasizes that maintaining public order is the responsibility of civilian leaders, not the military, and warns that such actions erode the moral bond between the military and society. Mattis concludes that Trump's actions directly threaten the American experiment, marking a definitive end to his silence on criticizing the president.  
+END OF SUMMARY.

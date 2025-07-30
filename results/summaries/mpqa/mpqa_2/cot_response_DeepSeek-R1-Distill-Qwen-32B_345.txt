@@ -1,0 +1,33 @@
+Alright, I need to help the user with their query. They provided a news article and specific instructions. Let me break it down.
+
+First, the user wants me to act as a news summarizer and moral expert. My task is to summarize the article while preserving the moral framing. They also asked for two steps: identifying morally framed words and then writing the summary.
+
+Looking at the article, I should start by identifying the single words that carry moral connotations. Words like "disapproves," "evil," "anti-terrorism," "evidence," "expanded," "arbitrarily," "equal," "peaceful," "safeguarding," "long-term," "peace," "stability," "principles," "equality," "cooperation," and "harmony" stand out. These words convey moral judgments or principles.
+
+Next, I need to write a concise summary. I should include the main points: China's disapproval of the term "axis of evil," their emphasis on evidence-based anti-terrorism, adherence to UN principles, and the importance of equality and peaceful coexistence. I must keep the summary under 200 words and make sure it reflects the moral framing.
+
+I should ensure the summary flows well and includes all key points without being too verbose. Also, I need to end with the specified tokens to meet the user's formatting requirements.
+
+Finally, I'll review the summary to make sure it captures the essence of the article and maintains the moral perspective presented by the author.
+</think>
+
+**STEP 1:**  
+* Disapproves  
+* Evil  
+* Anti-terrorism  
+* Evidence  
+* Expanded  
+* Arbitrarily  
+* Equal  
+* Peaceful  
+* Safeguarding  
+* Long-term  
+* Peace  
+* Stability  
+* Principles  
+* Equality  
+* Cooperation  
+* Harmony  
+
+**SUMMARY:**  
+China has expressed strong disapproval of the use of the term "axis of evil" in international relations, as it risks escalating tensions and undermining peace. Spokesman Kong Quan emphasized that anti-terrorism efforts must be grounded in concrete evidence and should not be arbitrarily expanded, as this could lead to serious consequences. He stressed the importance of adhering to the principles of the United Nations Charter, the Five Principles of Peaceful Co-existence, and treating all nations equally. China advocates for a diplomatic approach that prioritizes equality, cooperation, and harmony to ensure global and regional stability. END OF SUMMARY.

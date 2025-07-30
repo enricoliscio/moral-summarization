@@ -1,0 +1,14 @@
+Alright, so I need to help the user summarize a news article while preserving the moral framing. Let me read through the query again to make sure I understand what's needed.
+
+The user provided a news article about Donald Trump visiting Mexico and the reactions from Vicente Fox. They want a summary that keeps the moral words the author used, like "invitation," "mistake," "demonized," etc. The summary should be concise, under 200 words, and end with specific tokens.
+
+First, I'll identify the key points. Trump is going to Mexico, Fox criticizes the invitation, calling it a mistake. Fox mentions Trump demonizing Mexicans, his wall plan, and changing deportation plans. He also labels Trump as a false prophet and accuses him of lying.
+
+I need to include the morally charged words without losing the essence. I'll structure the summary to highlight Fox's main criticisms: the invitation was a mistake, Trump's demonization, broken promises, and the untrustworthy nature. Also, mention Trump's response and Fox's call to not vote for him.
+
+I should keep it clear and within the word limit. Let me draft it, making sure to include all the necessary moral terms and maintain the critical tone towards Trump.
+</think>
+
+SUMMARY:  
+Vicente Fox, Mexico’s former president, has condemned Donald Trump’s upcoming visit to Mexico, calling the invitation a "mistake" and stating Trump is "not welcome" due to his history of demonizing Mexicans. Fox criticized Trump’s border wall plan and his shifting stance on deporting undocumented immigrants, asserting that Trump cannot be trusted. He labeled Trump a "false prophet" for misleading his followers and accused him of disregarding both Americans and Mexicans. Fox also dismissed Trump’s claim that Mexico will pay for the wall, vowing it will never happen. He accused Trump of lying and urged Americans not to vote for him, questioning Trump’s ability to lead a nation or even run a business. Trump responded by noting Fox once invited him to visit Mexico, but Fox fired back, demanding Trump apologize to Mexicans and stop "lying." The moral framing highlights Trump’s untrustworthiness, divisiveness, and disregard for Mexicans, while Fox emphasizes the need for respect and integrity in leadership.  
+END OF SUMMARY.

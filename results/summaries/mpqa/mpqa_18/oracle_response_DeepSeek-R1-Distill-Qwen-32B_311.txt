@@ -1,0 +1,18 @@
+Alright, I need to help the user by summarizing the given news article while preserving the moral framing. Let me first understand the task.
+
+The user provided a news article about the new crew settling into the International Space Station. They mentioned that the assistant should be a news summarizer and a moral expert, so I need to focus on the moral elements in the article. The user also listed some morally framed words, but they're not provided here, so I'll have to identify them myself.
+
+Looking at the article, I see words like "settled in," "half-year stay," "trade places," "form-fitting seat liners," "couldn't wait," "peeking," "commander," "reflected their hobbies," and "psychological support device." These words carry a sense of duty, patience, eagerness, and personal touches, which are the moral elements.
+
+I need to create a summary that's concise, no more than 200 words, and include as many of these moral words as possible. I should structure the summary to highlight the crew's responsibilities, their eagerness to take over, and the personal aspects they brought to the station.
+
+I'll start by mentioning the arrival of the new crew, their eagerness to take command, the tasks they had to do before settling in, and their personal touches. I'll make sure to include the morally framed words to maintain the author's original tone.
+
+Let me draft the summary, ensuring it's within the word limit and flows naturally. I'll check each sentence to see if it includes the moral elements without making it sound forced.
+
+After writing, I'll review to make sure all key points are covered and that the moral framing is preserved. This should meet the user's requirements effectively.
+</think>
+
+SUMMARY:  
+Two American astronauts and one Russian cosmonaut have settled into the International Space Station for a half-year mission, replacing the previous crew that has been on board since August. The new crew, consisting of Yuri Onufrienko, Daniel Bursch, and Carl Walz, had to wait for their lifeboat seat liners and space suits to be installed before officially taking over. Onufrienko, eager to assume command, couldn’t wait for the hatch to open. Meanwhile, the departing crew, led by Frank Culbertson, will return to Earth in a week after 128 days in space. The new crew brought personal items reflecting their hobbies: Onufrienko brought fishing gear, Bursch weaving materials, and Walz a five-octave keyboard for psychological support. The shuttle also delivered a cargo carrier filled with supplies and will return with trash and used equipment. The transition highlights the crew’s dedication and the station’s ongoing operations.  
+END OF SUMMARY.

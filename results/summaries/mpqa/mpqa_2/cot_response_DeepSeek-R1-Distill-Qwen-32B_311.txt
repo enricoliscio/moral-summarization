@@ -1,0 +1,26 @@
+Okay, so the user has given me a query where I need to act as a news summarizer and a moral expert. They provided a news article about China disapproving the use of "Axis of Evil" in international relations. The task has two parts: first, identify all the morally framed single words, and second, write a summary preserving the moral framing.
+
+First, I need to understand what morally framed words are. These are words that carry a strong moral connotation, often indicating approval or disapproval. In the article, the key terms seem to be "disapproves," "evil," "anti-terrorism," "evidence," "expanded arbitrarily," "purposes and principles," "peaceful co-existence," "equality," "peace and stability," "long-term," and "safeguarding." These words reflect the moral stance of the Chinese government against the use of such terms and their support for peaceful and evidence-based approaches.
+
+Next, for the summary, I need to condense the article while keeping these moral terms intact. I should start by stating China's disapproval, mention the specific term "axis of evil," note the U.S. leader's statement, and then outline China's stance on evidence-based anti-terrorism, not expanding attacks, and adherence to UN principles and peaceful co-existence. I also need to highlight the potential negative consequences of using such terms and the importance of equality in international relations.
+
+I should ensure the summary is concise, under 200 words, and flows naturally while retaining the moral framing. I'll structure it to first state the disapproval, then the context, followed by the reasons and implications, and conclude with the emphasis on equality and long-term stability.
+
+I need to make sure that all the key points are covered without being too verbose. Let me piece it together step by step, checking each sentence to ensure it's clear and within the word limit.
+</think>
+
+**STEP 1:**  
+* Disapproves  
+* Evil  
+* Anti-terrorism  
+* Evidence  
+* Expanded arbitrarily  
+* Purposes and principles  
+* Peaceful co-existence  
+* Equality  
+* Peace and stability  
+* Long-term  
+* Safeguarding  
+
+**SUMMARY:**  
+China strongly disapproves of the use of terms like "axis of evil" in international relations, as it risks causing serious consequences. Chinese Foreign Ministry spokesman Kong Quan emphasized that anti-terrorism efforts must be based on irrefutable evidence and should not be expanded arbitrarily. He stressed the importance of adhering to the purposes and principles of the United Nations Charter, the Five Principles of Peaceful Co-existence, and the principle of equality among nations. Kong noted that U.S. public opinion generally opposes such labeling, and China believes that handling international relations with these principles is the only way to ensure long-term peace and stability globally. END OF SUMMARY.

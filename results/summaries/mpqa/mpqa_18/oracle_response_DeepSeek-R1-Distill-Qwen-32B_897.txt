@@ -1,0 +1,14 @@
+Alright, so I'm trying to figure out how to approach this query. The user wants me to act as a news summarizer assistant and a moral expert. They provided a news article and asked me to summarize it while preserving the moral framing the author used. The summary needs to be concise, under 200 words, and include as many of the author's morally framed words as possible.
+
+First, I need to understand what the morally framed words are. The user mentioned that the author used certain words, but in the query, they didn't list them. However, in the response, they included words like "settled in," "half-year stay," "couldn't wait," "peeking," "threshold," "reflecting," "personal items," "hobbies," and "psychological support device." These seem to carry a positive or humanizing tone.
+
+Next, I'll read through the article to identify the key points. The main events are the arrival of the new crew, the transition of command, the transfer of equipment, and the personal touches each astronaut brought. I need to capture these elements while keeping the summary within 200 words.
+
+I should start by mentioning the arrival of the crew and their mission duration. Then, note the transition of command and the eagerness of Onufrienko. Highlighting the transfer of the cargo carrier, Raffaello, and its contents is important. Finally, include the personal items each astronaut brought to add a human element, which also ties into the moral framing.
+
+I need to ensure that the summary flows well and includes all necessary details without being too lengthy. I'll make sure to use the morally framed words where appropriate to maintain the author's tone. Let me structure this step by step to cover all points succinctly.
+</think>
+
+SUMMARY:  
+Two American astronauts and one Russian cosmonaut arrived at the International Space Station (ISS) aboard the space shuttle Endeavour, settling in for a half-year stay. The new crew, including Russian cosmonaut Yuri Onufrienko, couldn’t wait to take over command from the outgoing crew led by Frank Culbertson. Onufrienko eagerly awaited the hatch opening between the spacecraft. The crew spent their first day transferring gear, installing seat liners, and stowing space suits. They also used the shuttle’s robot arm to attach the Italian-built cargo carrier Raffaello, loaded with three tons of supplies, to the station. Once emptied, Raffaello will return to Earth with trash and used equipment. The new residents personalized their stay, with Onufrienko bringing fishing materials, Daniel Bursch weaving supplies, and Carl Walz a five-octave keyboard for psychological support. The outgoing crew, who have spent 128 days in space, will return to Earth in a week.  
+END OF SUMMARY.

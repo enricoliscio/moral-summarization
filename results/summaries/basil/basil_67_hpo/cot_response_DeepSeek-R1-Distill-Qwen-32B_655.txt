@@ -1,0 +1,25 @@
+Okay, I need to help the user by summarizing the given news article while preserving the moral framing. First, I should identify the morally framed words as per the instructions. Let me go through the article again.
+
+The article talks about Vicente Fox criticizing Enrique Peña Nieto for inviting Donald Trump. Fox uses strong language like "not welcome," "reject," "traitor," "opportunistic," "false prophet," "cheating," "desperate," "f bomb," and "respect." These words carry moral judgments, so I'll list them in step one.
+
+Next, I need to write a concise summary that includes these moral terms. The summary should be under 200 words and capture the essence of the article, highlighting Fox's criticism, Trump's invitation, the political risks involved, and Fox's warning about Trump's manipulation. I'll make sure to include the key points: Fox's disapproval, the risk Peña Nieto faces, Trump's tactics, and Fox's call for respect and unity.
+
+I should structure the summary to flow logically, starting with Fox's criticism, then Trump's invitation, followed by the political implications, and ending with Fox's warnings and his call for respect. I'll ensure that the moral framing words are included to reflect the original article's tone.
+
+Let me draft the summary, keeping it clear and within the word limit. I'll check each sentence to make sure it's concise and includes the necessary moral terms without being too verbose. After drafting, I'll review it to ensure it meets all the user's requirements and accurately reflects the article's content and tone.
+</think>
+
+**STEP 1:**  
+* not welcome  
+* reject  
+* traitor  
+* opportunistic  
+* false prophet  
+* cheating  
+* desperate  
+* f bomb  
+* respect  
+
+**SUMMARY:**  
+Former Mexican President Vicente Fox strongly condemned current President Enrique Peña Nieto for inviting Republican presidential candidate Donald Trump to meet in Mexico, just hours before Trump's anticipated immigration speech in Arizona. Fox stated, "He is not welcome to Mexico," emphasizing that 130 million Mexicans reject Trump's message. Trump, who has spent over a year criticizing Mexico and its leaders, accepted Peña Nieto's invitation, while Hillary Clinton declined. Fox warned that Peña Nieto risks being seen as a "traitor" if he doesn't stand up to Trump, accusing Trump of using Mexico to boost his sinking poll numbers. Fox criticized Trump as a "false prophet" and a "cheating" opportunist, calling the meeting a "desperate" move. Earlier, Fox had apologized for using profanity when railing against Trump but still invited him to learn about the "real Mexico." Trump responded, highlighting Fox's contradictory statements. Fox retorted, urging Trump to "stop lying" and show respect for Mexico. The meeting poses political risks for both Trump and Peña Nieto, with Fox warning that Mexico should not be "played with" and demanding respect.  
+**END OF SUMMARY.**

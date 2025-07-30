@@ -1,0 +1,16 @@
+Okay, so I'm trying to figure out how to approach this query. The user has given me a news article about US and EU climate policies and wants a summary that preserves the moral framing. They've also provided a list of morally framed words that need to be included. 
+
+First, I need to read the article carefully to understand the main points. It seems the EU is critical of the US's climate proposals because they don't reduce emissions enough. The US plan uses an intensity target, which allows emissions to increase, while the EU's Kyoto Protocol requires absolute reductions. The article mentions the 1992 Climate Change Convention, which the US is part of, but their new plan doesn't meet the required emission levels.
+
+Next, I should identify the key morally framed words the author used: reduce, allows, fight, requires, prevent, lead, increase, take, extended, implement, step, ratification. I need to make sure these are included in the summary without changing the meaning.
+
+I'll start by outlining the main points: US proposals are domestic, EU concerns about insufficient reduction, comparison between US intensity target and Kyoto's absolute reductions, the US's failure to meet 1990 levels, projected emissions increase, EU's cap-and-trade system, and their commitment to Kyoto.
+
+Now, I need to craft a summary that's concise (under 200 words) and includes as many of the moral words as possible. I'll structure it to first state the EU's concern, then contrast the US and EU approaches, mention the projected emissions, the EU's cap-and-trade, and their determination to proceed with Kyoto.
+
+I should check that each sentence includes the moral terms appropriately. For example, "allows" when talking about the US target, "requires" for the Kyoto Protocol, "prevent" for the Convention's goal, and "ratification" for the EU's action.
+
+Finally, I'll ensure the summary flows logically, starting from the EU's perspective, the comparison, the US's shortcomings, and the EU's commitments. I'll avoid any markdown and keep it in plain text as per the instructions.
+</think>
+
+SUMMARY: The EU expresses concern over the US's climate change proposals, arguing they are insufficient to reduce emissions and fail to meet the goals of the 1992 Climate Change Convention, which requires industrialized countries to stabilize greenhouse gas emissions at 1990 levels to prevent dangerous climate change. The US plan, based on an "intensity target," allows for increased absolute emissions, unlike the Kyoto Protocol, which mandates absolute reductions. Current projections show US emissions rising by 33-39% above 1990 levels by 2012. The EU criticizes the voluntary nature of the US plan and the lack of mandatory monitoring and reporting. It highlights the effectiveness of cap-and-trade systems, which it plans to implement by 2005, covering 46% of its CO2 emissions. While the EU welcomes the US's domestic efforts, it emphasizes the need for comparable action to the Kyoto Protocol. The EU remains committed to ratifying the Protocol by June 2002 and hopes other major players, like Japan and Russia, will join its efforts. It will continue to assess the US plan and engage in dialogue. END OF SUMMARY.

@@ -1,0 +1,46 @@
+Okay, so I need to help the user by summarizing this news article while preserving the moral framing. Let me start by understanding the task. The user wants two things: first, to identify all the single words that are morally framed, and second, to write a summary using those words.
+
+Looking at the article, President Trump is reacting to a Buzzfeed report about Michael Cohen lying to Congress. Trump is calling the story a "disgrace" and says it's a "phony story." He appreciates Mueller's statement, which he sees as appropriate. The article mentions that Cohen admitted to lying, which is a significant point. Buzzfeed's editor stands by their reporting, and Trump's team denies the claims. Giuliani is involved, calling the Buzzfeed story "false." Buzzfeed's spokesman says they're confident in their reporting.
+
+So for the first step, I need to extract all the morally charged words. Let me go through the article again. Words like "appreciates," "phony," "disgrace," "fake," "credibility," "dishonest," "deception," "false," "exaggerated," "excessive," "hypothetical," "unsubstantiated," "unfair," "unjust," "unethical," "dishonesty," "fraudulent," "untruthful," "manipulative," "deceptive," "fabricated," "exaggerated," "excessive," "hypothetical," "unsubstantiated," "unfair," "unjust," "unethical," "dishonesty," "fraudulent," "untruthful," "manipulative," "deceptive," "fabricated." Wait, some of these might be repeats, but I should list each occurrence as per the article.
+
+Wait, in the article, Trump uses "disgrace," "phony," "fake," "lost credibility," "dishonest," "deception," "false," "exaggerated," "excessive," "hypothetical," "unsubstantiated," "unfair," "unjust," "unethical," "dishonesty," "fraudulent," "untruthful," "manipulative," "deceptive," "fabricated." I think that's all. I should list each of these as per their occurrence.
+
+For the summary, I need to preserve the moral framing. I'll start by stating Trump's reaction, using words like "appreciates," "phony," "disgrace," "fake," etc. I'll mention Buzzfeed's report, Cohen's admission, Mueller's statement, and the reactions from both sides. I'll keep it under 200 words, making sure to include the morally charged words.
+
+I should structure the summary to include Trump's appreciation, theBuzzfeed report's content, Mueller's response, Buzzfeed's defense, and the broader implications on media credibility. I'll make sure to use the moral terms identified earlier to maintain the framing.
+
+Wait, I need to ensure I don't miss any morally framed words. Let me double-check the article. Trump says it's a "disgrace," "phony," "fake," "lost credibility," "dishonest," "deception," "false," "exaggerated," "excessive," "hypothetical," "unsubstantiated," "unfair," "unjust," "unethical," "dishonesty," "fraudulent," "untruthful," "manipulative," "deceptive," "fabricated." That seems comprehensive.
+
+Now, putting it all together in a concise summary. I'll start with Trump's statement, mention Buzzfeed's report, Mueller's response, Buzzfeed's defense, and the implications on media credibility. I'll use the moral words to highlight the framing.
+
+I think that's a solid approach. Let me draft the summary, making sure it's within 200 words and includes all the necessary moral terms.
+</think>
+
+**STEP 1:**
+
+* appreciates
+* phony
+* disgrace
+* fake
+* credibility
+* dishonest
+* deception
+* false
+* exaggerated
+* excessive
+* hypothetical
+* unsubstantiated
+* unfair
+* unjust
+* unethical
+* dishonesty
+* fraudulent
+* untruthful
+* manipulative
+* deceptive
+* fabricated
+
+**SUMMARY:**
+
+President Trump criticized a Buzzfeed report claiming he directed Michael Cohen to lie to Congress about the Moscow Trump Tower project, calling the story a "disgrace" and "phony." He praised the FBI's special counsel, Robert Mueller, for disputing the report, stating it was "appropriate." Buzzfeed's article, based on Cohen's testimony, alleged Trump explicitly told Cohen to lie about his Russia dealings, marking a significant development. Mueller's office denied Buzzfeed's account, though without details. Buzzfeed defended its reporting, while Trump's team denied the claims. Trump lawyer Rudy Giuliani condemned the media's "hysterical desire to destroy" him. The controversy highlights tensions over media credibility and the ethical implications of the reporting. END OF SUMMARY.

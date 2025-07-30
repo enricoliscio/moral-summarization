@@ -1,0 +1,31 @@
+Okay, so I'm trying to figure out how to approach this query. The user wants me to act as a news summarizer and a moral expert. They provided a news article about the Trump administration's new visa rules targeting birth tourism. My task is to first identify all the single words that are morally framed in the article. Then, I need to write a summary preserving those moral framings, keeping it under 200 words.
+
+First, I'll read through the article to understand the context. It's about the U.S. government cracking down on birth tourism, where foreign women come to the U.S. to give birth so their children can get citizenship. The new rules make it harder for these women to get visas unless they have a medical need. The article mentions national security risks, taxpayer money being drained, and the integrity of citizenship. There's also criticism about putting pregnant women at risk and the lucrative nature of the birth tourism industry.
+
+Now, for STEP 1, I need to identify the morally framed words. I'll go through the article and pick out words that carry moral connotations. Words like "restrict," "abuses," "protect," "siphoned," "integrity," "loophole," "endemic," "exploitation," "vulnerable," "plague," "lucrative," "criminal," "lied," "indictments." These words are used to convey the administration's stance against birth tourism, highlighting issues like exploitation, fraud, and the need to protect national interests.
+
+Next, for the summary, I need to condense the article, making sure to include as many of these moral terms as possible. I'll start by stating the administration's action, the purpose of the new rules, the concerns they address, and the criticisms. I'll mention the medical necessity requirement, the protection of citizenship integrity, the economic impact on taxpayers, and the potential risks to women. I'll also touch on the industry's profitability and the legal issues involved.
+
+I need to ensure the summary flows well and stays within 200 words. I'll make sure each sentence incorporates the moral framing without making it too verbose. I'll check that all key points are covered: the rules, the reasons behind them, the criticisms, and the industry context.
+
+Finally, I'll structure the summary to start with the administration's action, explain the rules, mention the justifications, then the criticisms, and conclude with the broader context of the industry and legal actions. This way, the summary captures the moral dimensions presented in the original article.
+</think>
+
+**STEP 1:**  
+* restrict  
+* abuses  
+* protect  
+* siphoned  
+* integrity  
+* loophole  
+* endemic  
+* exploitation  
+* vulnerable  
+* plague  
+* lucrative  
+* criminal  
+* lied  
+* indictments  
+
+**SUMMARY:**  
+The Trump administration has introduced new visa rules to restrict "birth tourism," where foreign women travel to the U.S. to give birth and secure citizenship for their children. Under the rules, tourist visas will be denied if consular officers determine the primary purpose of the visit is childbirth. Applicants must prove they have a medical need and the financial means to cover all expenses. The administration claims this will protect U.S. citizenship integrity, prevent taxpayer funds from being siphoned, and combat national security risks. Critics argue the policy could put pregnant women at risk, as consular officers cannot directly ask about pregnancy but must still assess intent. Birth tourism, a lucrative industry, involves companies charging up to $80,000 to facilitate the practice, often targeting women from Russia and China. The rules aim to eliminate criminal activity linked to birth tourism, including visa fraud and misrepresentation. END OF SUMMARY.

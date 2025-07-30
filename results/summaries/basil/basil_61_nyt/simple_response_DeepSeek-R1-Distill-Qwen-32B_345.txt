@@ -1,0 +1,14 @@
+Okay, so the user has given me a query where they want a news summary that preserves the moral framing from the original article. They provided an example response, which I can use as a reference. My task is to understand the user's requirements and figure out how to approach this.
+
+First, the user wants me to act as a news summarizer and a moral expert. That means I need to not only condense the article but also highlight the ethical or moral implications as presented by the author. The summary should be concise, under 200 words, and structured with "SUMMARY:" and "END OF SUMMARY." tokens.
+
+Looking at the example response, it starts by identifying the main actors, Donald Trump and Ted Cruz, and the controversy. It mentions the ad with Melania's photo and Trump's response, including his tweets about Heidi Cruz. It also draws a moral comparison to the Todd Akin incident, showing the media's muted reaction this time. The summary effectively captures the moral framing by emphasizing the targeting of spouses and the contrast in media reaction.
+
+I need to ensure that my summary includes these elements: Trump's actions, the ad, his tweets about Cruz's wife, the moral comparison, and the media's subdued response. I should keep the language clear and direct, sticking to the key points without unnecessary details.
+
+I should also be careful to maintain the original article's moral perspective, highlighting how Trump's behavior is seen as unethical, especially in targeting spouses, and contrasting it with past incidents where similar actions led to more significant consequences. This will ensure the summary preserves the author's framing.
+
+Now, putting it all together, I'll craft a summary that's concise, includes all necessary points, and emphasizes the moral aspects as in the example. I'll make sure it starts and ends with the required tokens and stays within the word limit.
+</think>
+
+SUMMARY: Donald Trump has sparked controversy in the Republican primary by escalating a Twitter war against Ted Cruz, targeting Cruz's wife, Heidi, after an ad by a "super PAC" featured Melania Trump in a nude photo shoot. Despite Cruz's disassociation from the ad, Trump has continued to attack Heidi, even sharing a photo comparison that critics view as offensive. Cruz, referencing the movie *The American President*, called Trump a "sniveling coward" and demanded he stop targeting Heidi. The incident has raised concerns among party leaders that Trump's tactics could alienate women voters. This contrasts with the media's muted reaction compared to the 2012 backlash against Todd Akin, who made offensive remarks about rape. The targeting of spouses in political campaigns is widely seen as unethical, and Trump's actions have drawn criticism for crossing a moral line. END OF SUMMARY.

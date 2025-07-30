@@ -1,0 +1,14 @@
+Alright, I need to help the user by summarizing a news article while preserving the moral framing. The user is a news summarizer assistant and a moral expert, so the summary should reflect the author's perspective on the issue.
+
+First, I'll read the article carefully. It's about the Namibian government dismissing a US human rights report. The report accuses Namibia's security forces of various human rights violations, including extra-judicial killings, torture, arbitrary arrests, and more. The government's response is to criticize the US, pointing out their own human rights issues like Guantanamo Bay.
+
+The user provided a list of morally charged words that should be included. I need to make sure these words are present in the summary. Words like "trashed," "violations," "killings," "tortured," etc., are crucial for maintaining the moral tone.
+
+I should structure the summary to first mention the dismissal of the report, then outline the violations listed, followed by the government's counterarguments. I'll need to keep it concise, under 200 words, so I'll focus on the main points without going into too much detail.
+
+I also need to ensure that the summary starts with "SUMMARY:" and ends with "END OF SUMMARY." The tone should be formal but clear, reflecting the moral implications as presented in the original article.
+
+Let me draft this step by step, making sure each key point is covered and the moral framing is preserved. I'll check the word count to stay within limits and ensure all important details are included without unnecessary fluff.
+</think>
+
+SUMMARY: The Namibian government dismissed a US human rights report that accused its security forces of numerous violations, including extra-judicial killings, deaths in custody, torture, arbitrary arrests, and denial of fair trials. The report highlighted abuses by the Special Field Force (SFF) during operations in the Kavango and Caprivi regions, where suspects linked to UNITA or the Caprivi Liberation Army (CLA) were detained, tortured, or disappeared without trace. The government, however, criticized the US for hypocrisy, citing its own human rights violations, such as detaining individuals at Guantanamo Bay without trial. Information Permanent Secretary Mocks Shivute argued that the US report contained factual inaccuracies, such as misclassifying media affiliations and historical data, and dismissed it as unreliable. He questioned whether similar actions by the US would be labeled as human rights abuses or accepted due to the country's status. Namibia, he said, attached "little value" to the report, emphasizing its lack of credibility. END OF SUMMARY.

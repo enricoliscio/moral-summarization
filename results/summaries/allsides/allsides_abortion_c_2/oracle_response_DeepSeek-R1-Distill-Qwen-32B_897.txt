@@ -1,0 +1,13 @@
+<think>
+Okay, I need to help the user by summarizing the given news article while preserving the moral framing. The user is a news summarizer assistant and a moral expert, so I should focus on the key points and the moral language used.
+
+First, I'll read through the article to understand the main points. Over 180 CEOs have signed a letter opposing restrictive abortion laws. The letter is in The New York Times, titled "Don't Ban Equality." It mentions Alabama's strict law, which has no exceptions for rape or incest. Other states have similar laws. The CEOs argue that such legislation goes against their values and is bad for business, affecting workforce diversity and talent recruitment. They emphasize reproductive rights as a human right and women's empowerment. The letter was spearheaded by several organizations, and there's a website for others to join.
+
+Now, I need to identify the morally framed words: restrict, ban, legislation, banning, punishable, rape, incest, restricting, against, protect, access, equality, empowerment, stand, join, speak, inclusive, abortion, effect, use, rights. I should include as many of these as possible.
+
+I'll structure the summary to highlight the CEOs' opposition, the impact on business, the moral stance on reproductive rights, and the call to action. I'll make sure to keep it under 200 words and end with the specified tokens.
+
+Let me draft the summary, ensuring it's concise and includes the key moral terms. I'll check the word count and adjust if necessary.
+</think>
+
+SUMMARY: Over 180 CEOs have signed a letter opposing laws that restrict women's access to reproductive healthcare, including abortion, published as a full-page ad in *The New York Times* under the heading "Don't Ban Equality." The letter comes amid restrictive abortion legislation in states like Alabama, Georgia, and Arkansas, which ban abortion at any stage of pregnancy, with no exceptions for rape or incest. The CEOs argue that such legislation is "against our values" and "bad for business," as it restricts access to reproductive care, hinders workforce diversity, and undermines the well-being of employees. They emphasize that access to reproductive healthcare is a human right, critical for women's autonomy, economic success, and empowerment. The letter, spearheaded by organizations like the ACLU and Planned Parenthood, calls on business leaders to stand against these bans and protect women's rights. The CEOs stress the importance of using their voice to advocate for equality and inclusive social change, reflecting a growing belief among millennials, Gen Xers, and Boomers that CEOs have a responsibility to address societal issues. END OF SUMMARY.

@@ -1,0 +1,30 @@
+Okay, so I need to help the user by summarizing the given news article while preserving the moral framing. First, I should understand what the user is asking for. They provided a detailed news article about Michael Bloomberg endorsing Hillary Clinton and criticizing Donald Trump. The task is twofold: first, identify all the morally framed single words, and then write a concise summary that includes as many of those words as possible.
+
+Starting with the first step, I'll go through the article to find words that carry moral connotations. Words like "imperative," "good," "dangerous," "hypocrisy," "con," "disaster," "cheated," "ripped off," "cordial," "alienated," "open," and "needed." These words are used to convey judgments or evaluations, so they fit the moral framing.
+
+Now, moving on to the summary. I need to condense the article into 200 words or less, making sure to include the identified moral terms. I'll start by noting Bloomberg's endorsement of Clinton and his reasons. I'll mention his criticism of Trump, using the terms like "dangerous demagogue" and "hypocrisy." I'll also include his contrast between their business backgrounds and his assessment of Trump's economic plan as a "con" and "disaster." Additionally, I'll touch on his past relationship with Clinton and Trump, and how Trump's immigration stance alienated him.
+
+I need to ensure the summary flows well and covers all key points without being too lengthy. I should also maintain the moral tone by using the identified words appropriately. Let me structure the summary step by step, making sure each sentence contributes to the overall message and includes the necessary moral framing.
+
+I should also double-check that I'm not missing any important details, like Bloomberg's decision not to run as a third-party candidate to avoid helping Trump. Including that shows his strategic thinking and concern for the election's outcome. Lastly, I'll make sure the summary ends with the "END OF SUMMARY." token as instructed.
+
+Overall, the goal is to create a clear, concise summary that reflects the moral judgments present in the original article, using the identified words to maintain the author's framing.
+</think>
+
+**STEP 1:**  
+* imperative  
+* good  
+* dangerous  
+* hypocrisy  
+* con  
+* disaster  
+* cheated  
+* ripped off  
+* cordial  
+* alienated  
+* open  
+* needed  
+
+**SUMMARY:**  
+Former New York City Mayor Michael Bloomberg endorsed Hillary Clinton at the Democratic National Convention, calling it "imperative" to support her over Donald Trump for the "good" of the country. While acknowledging disagreements with Clinton, Bloomberg emphasized setting aside differences to oppose Trump, whom he labeled a "dangerous demagogue" and "hypocrite." Bloomberg criticized Trump's business record, contrasting it with his own, and accused Trump of leaving behind a trail of "bankruptcies" and "angry shareholders." He warned that Trump's economic plan was a "con" and a "disaster in the making." Bloomberg, who considered a third-party run but ultimately supported Clinton, also criticized Trump's immigration policies, which he said alienated him. The summary highlights Bloomberg's moral framing of the election as a critical choice for the nation.  
+**END OF SUMMARY.**

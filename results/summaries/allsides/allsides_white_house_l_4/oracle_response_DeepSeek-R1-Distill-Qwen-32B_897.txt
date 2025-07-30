@@ -1,0 +1,16 @@
+Alright, so I've got this query where the user wants me to summarize a news article while preserving the moral framing. They provided the article and a list of morally framed words. The user is acting as a news summarizer and a moral expert. 
+
+First, I need to understand the article's main points. It's about U.S. foreign policy post-9/11, criticizing both Bush and Obama's approaches. The author uses specific moral terms, so I should include as many as possible in the summary.
+
+I should start by identifying the key events and criticisms. The article mentions Bush's invasion of Iraq and Obama's disengagement. It also talks about Bush's later changes, like the surge in Iraq, and compares it to Obama's approach. The moral words like "invasion," "disengagement," "dithering," and "eavesdropping" are crucial to highlight the negative actions.
+
+Next, I need to condense the information without losing the moral tone. I'll mention the flawed policies, the mistakes made, and how Bush attempted to correct them by reordering his administration. It's important to note the contrast between Bush and Obama's leadership styles, especially regarding admitting mistakes and involving the Cabinet.
+
+I'll structure the summary to first outline the problems under both presidents, then discuss Bush's corrective actions, and finally compare that to Obama's current situation, suggesting he could learn from Bush's approach despite their differences.
+
+I should keep the summary under 200 words, using the provided moral terms to maintain the framing. I'll ensure that each sentence captures a key point without unnecessary details. 
+
+Let me check the word count as I draft. I'll make sure to include all the important moral words and maintain a clear, concise summary that reflects the article's critical perspective on U.S. foreign policy.
+</think>
+
+SUMMARY: Since September 11, 2001, U.S. foreign policy has been marked by flawed decisions and moral failures. The Bush administration's unilateral invasion of Iraq and Obama's disengagement and dithering have led to crises in Syria, Iraq, Libya, Egypt, Israel, Ukraine, and Africa, as well as strained relations with allies over NSA eavesdropping. Both leaders made mistakes, but Bush, in his second term, recognized errors and instituted sweeping changes, replacing key officials and modifying policies like the Iraq surge and "light footprint" counterterrorism approach. Obama, in contrast, has been seen as aloof, sidelining his Cabinet and failing to embrace change. Bush's ability to admit mistakes and lead from within offers a moral lesson for Obama, who must confront his own foreign policy strains and dysfunctions. END OF SUMMARY.

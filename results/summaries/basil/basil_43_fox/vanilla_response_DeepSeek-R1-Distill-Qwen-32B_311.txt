@@ -1,0 +1,27 @@
+<think>
+Alright, I need to help the user by summarizing the provided news article. The user has specified that the summary should be returned after a "SUMMARY:" token and end with "END OF SUMMARY." It should be concise, no longer than 200 words.
+
+First, I'll read through the article to understand the main points. The article is about Iowa Democratic Rep. Bruce Braley facing criticism after a video where he mocks Sen. Chuck Grassley. Braley refers to Grassley as a "farmer from Iowa who never went to law school" during his Senate campaign. The video was released by a conservative PAC, America Rising, and it shows Braley speaking at a fundraiser in Texas.
+
+Braley apologized, stating he respects Grassley and supports Iowa's farmers. He also mentioned his desire to serve on the Senate Judiciary Committee, contrasting his background with Grassley's. Grassley's spokesperson responded, pointing out that if Braley's logic holds, he wouldn't be eligible to speak on certain policy issues. They also highlighted Grassley's experience and his role as a working farmer in the Senate.
+
+I need to condense this into a summary. I'll start by identifying the key elements: who, what, when, where, why. The main actors are Braley and Grassley. The event is Braley's mocking remark in a video, his apology, and the subsequent response from Grassley's team.
+
+I should ensure the summary is clear and concise, hitting all the important points without going into too much detail. I'll structure it to first mention Braley's remarks, his apology, the context of the video, and then Grassley's response.
+
+I also need to keep the language neutral and factual, avoiding any bias. The summary should be around 200 words, so I'll have to be selective about which details to include.
+
+Let me draft the summary step by step:
+
+1. Introduce the situation: Braley mocked Grassley in a video during his campaign.
+2. Mention the context of the video: fundraiser in Texas, speaking to lawyers.
+3. Include Braley's apology and his stance on supporting farmers.
+4. Highlight his campaign promise regarding the Judiciary Committee.
+5. Note Grassley's spokesperson's response and their defense of Grassley's qualifications.
+
+I'll make sure each point is brief and flows logically. I'll check the word count to ensure it's under 200 words.
+
+After drafting, I'll review to make sure it's accurate and covers all necessary points without unnecessary details. I'll also ensure it starts with "SUMMARY:" and ends with "END OF SUMMARY."
+</think>
+
+SUMMARY: Iowa Democratic Rep. Bruce Braley has come under criticism after a video surfaced of him mocking Sen. Chuck Grassley, a Republican, during his Senate campaign. Braley referred to Grassley as a "farmer from Iowa who never went to law school," a remark made during a fundraiser in Texas. Braley later apologized, stating he respects Grassley and supports Iowa’s farmers. He also expressed his desire to serve on the Senate Judiciary Committee, contrasting his background with Grassley’s. Grassley’s spokesperson responded, questioning Braley’s logic and highlighting Grassley’s extensive record on the Judiciary Committee, as well as his role as a working family farmer in the Senate. END OF SUMMARY.

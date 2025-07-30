@@ -1,0 +1,40 @@
+<think>
+Okay, so I'm trying to help this user who wants a news summary that preserves the moral framing from the original article. First, I need to understand what they're asking for. They provided a detailed news article about Zimbabwe's elections and the fears of violence. They want me to summarize it but keep the moral aspects intact. 
+
+The user also gave specific instructions: first, identify all the single words that are morally framed, each on a new line with an asterisk. Then, write a summary using those words. The summary needs to be under 200 words and end with specific tokens.
+
+I should start by reading the article carefully. The key points are the fear of civil war, Mugabe's attempt to rig the election, violence against MDC supporters, and the potential for martial law. The moral words here are things like "violence," "ousted," "corruption," "unemployment," "riot," "coup," "intolerable," "rights violations," "high alert," "abducted," "disenfranchise," "steal," "prosecute," and "kill."
+
+Now, for the summary, I need to weave these words into a concise narrative that highlights the moral issues. I'll mention the fear of civil war, the election concerns, Mugabe's tactics, the violence, and the implications of the election outcome. I should ensure the summary flows well and stays within the word limit.
+
+I also need to make sure I follow the formatting exactly: STEP 1 with each word on a new line starting with *, then the SUMMARY section with the tokens at the start and end. I have to avoid markdown and keep it plain text.
+
+I think I've covered all the points. Let me put it together, making sure each moral word is included and the summary accurately reflects the article's concerns.
+</think>
+
+**STEP 1:**
+
+* violence  
+* fear  
+* oust  
+* re-elect  
+* civil war  
+* corruption  
+* food shortages  
+* unemployment  
+* rioters  
+* military  
+* coup  
+* intolerable  
+* human rights violations  
+* high alert  
+* abduct  
+* disenfranchise  
+* steal  
+* prosecute  
+* kill  
+
+---
+
+**SUMMARY:**  
+The fear of violence looms over Zimbabwe as the country prepares for its election, with many fearing civil war if the results are contested. Robert Mugabe, the long-standing leader, faces Morgan Tsvangirai, who is ahead in surveys but has faced political violence and accusations of election rigging. Senior government officials have hinted at supporting a coup if Tsvangirai wins, while Mugabe has put the military on "high alert." At least 34 MDC supporters have died in violence, and Mugabe's government has been accused of human rights violations. The opposition fears voter suppression tactics, such as reducing polling stations in urban areas and banning independent monitors. Analysts warn Mugabe may jail Tsvangirai to cling to power. Tsvangirai has pledged not to prosecute Mugabe, easing pressure but raising concerns about justice for past atrocities. The election is seen as a clash between Mugabe's autocracy and the opposition's desire for change, with fears of widespread violence if the results are contested. END OF SUMMARY.

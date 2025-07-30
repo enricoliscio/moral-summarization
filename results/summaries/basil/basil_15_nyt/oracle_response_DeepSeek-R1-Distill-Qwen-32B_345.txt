@@ -1,0 +1,12 @@
+Okay, so the user has provided a news article and wants a summary that preserves the moral framing. They've also specified certain morally framed words to include. First, I need to understand the article's content. It's about Newsweek's cover featuring Michele Bachmann, with reactions from conservatives and feminists. The key points are the cover image, the reactions, and the moral terms used.
+
+I should start by identifying the main elements: the cover image, the description, the reactions from different groups, and the comparison to past covers. The moral words to include are "puts," "crazy," "biased," "disrespectful," "sexist," "done," and "creepy."
+
+I need to make sure the summary is concise, under 200 words, and includes as many of these words as possible. I'll structure it by first introducing the cover, then the reactions, and finally mention the past covers to show a pattern.
+
+I should also make sure the summary flows naturally and accurately reflects the article's tone and content. I'll check for word count to ensure it's within the limit. Finally, I'll format it correctly with the "SUMMARY:" and "END OF SUMMARY." tokens as specified.
+</think>
+
+SUMMARY:  
+This week’s Newsweek cover features Republican presidential candidate Michele Bachmann with wide, intense eyes, labeled “The Queen of Rage.” Conservative bloggers and feminists alike criticize the image, calling it disrespectful and sexist. Critics argue that such a portrayal would never be done to a male politician. Newsweek defended itself by releasing outtakes, showing Bachmann in more neutral settings, but the cover has sparked outrage. The article inside, about Bachmann’s role in the Tea Party movement, has not caused similar backlash. This is not the first time Newsweek has faced criticism for its cover choices, with past examples including a controversial image of Sarah Palin and a eerie depiction of Princess Diana. The cover has reignited debates about media bias and respectful representation of political figures.  
+END OF SUMMARY.

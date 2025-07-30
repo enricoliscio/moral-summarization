@@ -1,0 +1,47 @@
+Okay, so the user has given me a query where they want me to act as a news summarizer and a moral expert. They provided a news article about changing support for gun rights in the US, specifically after the Newtown shooting. The task is to first identify all the morally framed words and then write a summary preserving those moral framings.
+
+First, I need to understand what morally framed words are. These are words that carry a value judgment or imply a moral stance. For example, words like "support," "rights," "control," "protection," "commitment," etc. They are used to convey approval or disapproval, which is crucial for the moral framing.
+
+Looking at the article, I'll go through each sentence and pick out the words that carry such moral weight. I'll list them all, each on a new line with a star. It's important to be thorough here to ensure I capture all the relevant terms.
+
+Next, I need to summarize the article. The summary should be concise, no more than 200 words, and include as many of the identified morally framed words as possible. I should structure it to reflect the main points: the increase in support for gun rights, the shift in attitudes among different demographics, the political responses, and the implications of the survey's wording.
+
+I should start by stating the main finding from Pew Research, then discuss the demographic shifts, mention the political actions and reactions, and touch on the survey's wording impact. I'll make sure to use the morally framed words to maintain the author's original stance.
+
+I also need to be careful with the structure, ensuring that each part of the summary flows logically. I'll check the word count to stay within the limit and make sure the summary accurately reflects the article's content while preserving the moral framing.
+
+Finally, I'll present the summary after the specified tokens, making sure it's clear and meets all the user's requirements. I'll review everything to ensure accuracy and completeness before finalizing the response.
+</think>
+
+**STEP 1:**  
+* Support  
+* gun rights  
+* Second Amendment rights  
+* gun control  
+* public safety  
+* firearms  
+* public safety risk  
+* victims of crimes  
+* major new restrictions  
+* background checks  
+* high-capacity ammunition magazines  
+* military-style rifles  
+* imperative  
+* act  
+* stick with this  
+* specific changes  
+* universal background checks  
+* sensible gun legislation  
+* rights  
+* controlled  
+* communities  
+* enactment  
+* shift  
+* peaked  
+* dropped  
+* preference  
+* trumps  
+
+**SUMMARY:**  
+Support for gun rights has reached its highest level in two decades, according to Pew Research, with 52% of Americans prioritizing Second Amendment rights over gun control. This shift is driven by changing attitudes, particularly among black Americans, with 54% now viewing firearms as protective against crime. Gun control advocates, including President Obama, have pushed for stricter laws, but efforts have stalled in Congress. Despite this, specific measures like universal background checks remain widely supported. The survey highlights a partisan divide, with Republicans and independents favoring gun rights, while Democrats lean toward control. The wording of the survey, emphasizing "rights" over "control," may influence results. Over time, support for gun control has declined, with increases across demographics, except for Hispanics. The moral framing underscores the tension between protecting rights and ensuring public safety.  
+**END OF SUMMARY.**

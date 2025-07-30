@@ -1,0 +1,15 @@
+<think>
+Alright, I need to help the user by summarizing the given news article. The user has specified that the summary should be returned after a "SUMMARY:" token and end with "END OF SUMMARY." Also, it should be no longer than 200 words. 
+
+First, I'll read through the article to understand the main points. It's about the conflict between Ted Cruz and Donald Trump, specifically regarding their spouses and the National Enquirer story. Cruz is upset because Trump's campaign attacked his wife, Heidi, and he's backing away from supporting Trump if he wins the nomination. The article mentions the National Enquirer story about Cruz's alleged affairs, which Cruz denies. Trump's spokeswoman, Katrina Pierson, dismisses the claims. There's also a part about a super PAC using a meme-style ad featuring Melania Trump, which led to Trump threatening to reveal information about Heidi Cruz. The ad was not from Cruz's campaign, and he accused Trump of cowardice. The article also notes that Trump is leading in delegates, making it tough for Cruz to catch up.
+
+I should structure the summary to include the key elements: the conflict, the National Enquirer story, Cruz's response, Trump's threats, the super PAC ad, and the delegate situation. I need to keep it concise, under 200 words. I'll make sure to mention both candidates' reactions and the implications for the race.
+
+I should avoid getting bogged down in too many details and focus on the main developments. Also, I need to ensure that the summary is clear and flows well, ending with the delegate situation to show the stakes.
+
+Let me draft the summary, making sure it's within the word limit and includes all necessary points without being too verbose. I'll start with the conflict, move to the story and responses, then the ad and threats, and conclude with the delegate status. That should cover the essential information succinctly.
+</think>
+
+SUMMARY:  
+Sen. Ted Cruz has escalated tensions with Donald Trump over personal attacks involving their families. Cruz accused Trump of orchestrating a National Enquirer story alleging extramarital affairs, which he denied as false. Trump’s campaign had previously criticized Cruz’s wife, Heidi, leading Cruz to distance himself from supporting Trump if he wins the GOP nomination. Cruz stated, “I don’t make a habit out of supporting people who attack my wife and attack my family.” Trump, meanwhile, threatened to reveal information about Heidi Cruz after a super PAC used a meme-style ad featuring Melania Trump, which Cruz denied involvement in. The feud highlights the personal nature of the campaign, as Trump maintains a delegate lead, making it difficult for Cruz to secure the nomination.  
+END OF SUMMARY.

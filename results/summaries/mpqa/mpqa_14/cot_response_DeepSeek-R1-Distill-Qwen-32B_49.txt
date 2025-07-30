@@ -1,0 +1,30 @@
+Okay, so the user has given me a query where I need to summarize a news article while preserving the moral framing. They also want me to first identify the morally framed words. Let me break this down.
+
+First, I need to understand what morally framed words mean. These are words that carry a moral judgment or implication, like "problem," "damage," "delay," etc. I should go through the article and pick out these words.
+
+Looking at the article, the key events are the Russian supply ship docking, potential issues with the latching, and the impact on the shuttle launch. The morally framed words here would include "problem," "damage," "delay," "loose fit," "safely," "securely," "extraordinary measures," and "resilient." These words convey concerns, risks, and the efforts taken to mitigate them.
+
+Next, I need to summarize the article, making sure to include these morally framed words. The summary should be concise, around 200 words, and highlight the main points: the docking issue, potential consequences, the extra time taken, and the resolution.
+
+I should structure the summary to first mention the docking and the potential problem, then the uncertainty about the shuttle launch, the risks involved, the steps taken to address the issue, and the outcome. I'll ensure that the moral implications are clear, showing the concern for safety and the proactive measures taken.
+
+I also need to make sure the summary flows well and is easy to understand, capturing the essence of the article without unnecessary details. I'll check the word count to stay within the limit.
+
+Finally, I'll format the response as per the instructions: first listing the morally framed words, then the summary with the appropriate tokens. I'll make sure each step is clearly marked and the summary ends correctly.
+</think>
+
+### STEP 1:
+* Problem  
+* Damage  
+* Delay  
+* Loose fit  
+* Safely  
+* Securely  
+* Extraordinary measures  
+* Resilient  
+
+---
+
+### SUMMARY:
+A Russian supply ship docked to the International Space Station (ISS) on Wednesday, but there were concerns it may not have latched properly. NASA officials expressed uncertainty about whether this issue could delay the planned launch of the space shuttle Endeavour. The concern was that a loose fit might damage the ISS due to the force of a docking shuttle. The Progress ship, carrying over a ton of supplies, docked on time, but Russian controllers did not receive confirmation that the hooks had closed. The ISS's steering system was turned off for an extra three hours to allow Russian engineers to assess the problem. Some equipment was shut off to conserve power, but everything was later restored after engineers determined the ship was securely attached. Russian Mission Control worked extensively to resolve the issue, demonstrating the resilience of the space program.  
+END OF SUMMARY.

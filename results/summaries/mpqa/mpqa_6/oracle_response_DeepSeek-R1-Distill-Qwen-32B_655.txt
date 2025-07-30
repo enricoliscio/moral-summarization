@@ -1,0 +1,14 @@
+Okay, so the user has given me a query where I need to act as a news summarizer assistant and a moral expert. The task is to summarize a news article while preserving the moral framing that the author used, specifically using the words "development" and "protection." 
+
+First, I need to understand the content of the article. It's about Brazil and Germany calling for the implementation of the Kyoto Protocol by September, as part of the Rio+10 summit in South Africa. They also want other countries to ratify the protocol and expand environmental cooperation. Additionally, they mention the Pilot Program for Protection of Tropical Forests (PPG-7) and German participation.
+
+Next, I should identify the morally framed words. The user mentioned "development" and "protection," which are both present in the article. I need to ensure these words are included in the summary to maintain the moral framing.
+
+I'll start by summarizing the main points: Brazil and Germany's joint effort, the call for the Kyoto Protocol implementation, urging other countries to ratify, expanding environmental cooperation, and their stance on the PPG-7 program. I'll make sure to use "development" and "protection" where appropriate.
+
+I should keep the summary concise, under 200 words, and structure it clearly. I'll also need to place it after the "SUMMARY:" token and end with "END OF SUMMARY."
+
+Let me draft it, ensuring the moral terms are preserved and the summary is accurate and within the word limit. I'll check that all key points are covered and that the language reflects the original moral framing.
+</think>
+
+SUMMARY: Brazil and Germany have issued a joint document, the Partnership Brasil-Germany: Action Plan, emphasizing their commitment to advancing sustainable development and environmental protection. The countries call for the implementation of the Kyoto Protocol by the Rio+10 Sustainable Development Summit in September, urging other nations to ratify and enforce the agreement. They also aim to strengthen cooperation in environmental initiatives and present unified positions at the summit. Additionally, the document highlights the importance of the Pilot Program for Protection of Tropical Forests (PPG-7), with Germany set to participate actively. This collaboration underscores their shared dedication to fostering sustainable development and protecting the environment. END OF SUMMARY.

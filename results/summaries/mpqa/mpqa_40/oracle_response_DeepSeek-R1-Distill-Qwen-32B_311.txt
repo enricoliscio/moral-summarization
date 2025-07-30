@@ -1,0 +1,10 @@
+Okay, so I need to help the user by summarizing a news article while preserving the moral framing. The user provided the article and a list of morally framed words. First, I should read the article carefully to understand the main points. Pakistan is rejecting a US human rights report, calling it inaccurate. They list several initiatives they've taken, like laws and policies to protect human rights. The US report ignored these, so Pakistan feels it's a misstatement.
+
+Next, I need to identify the key morally framed words: fails, protect, ignored, amended, enable, remuneration, elimination, labour, respecting, states, misstatement, sit, protecting. I should make sure these words are included in the summary.
+
+I should start by stating Pakistan's rejection of the report, using "fails" and "unwarranted." Then mention the initiatives, using "ignored," "amended," "enable," "elimination," "labour," "respecting." Highlight the US report's misstatement and Pakistan's stance on cooperation.
+
+I need to keep the summary under 200 words, so I'll be concise. Make sure to include all the key points and the moral framing words without making it too lengthy. Finally, end with the required tokens.
+</think>
+
+SUMMARY: Pakistan has rejected the US State Department's human rights report, labeling it "factually inaccurate and unwarranted." A Foreign Office spokesman criticized the report for failing to acknowledge Pakistan's efforts to protect human rights, including initiatives like the Juvenile Justice System Ordinance, police reforms, and measures to eliminate child labor. The report was accused of ignoring Pakistan's progress, such as amending the Pakistan Citizenship Act to enable women to claim nationality for their children and ratifying international labor conventions. The spokesman emphasized that despite these efforts, the report misstated Pakistan's human rights record as "poor," calling this unacceptable. Pakistan stressed its commitment to protecting human rights and urged states to cooperate rather than sit in judgment over others. The government welcomed assistance from friendly countries to address remaining challenges. END OF SUMMARY.

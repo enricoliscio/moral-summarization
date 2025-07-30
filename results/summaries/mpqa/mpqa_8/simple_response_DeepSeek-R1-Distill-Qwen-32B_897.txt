@@ -1,0 +1,10 @@
+Okay, so I need to help the user by summarizing the given news article. They mentioned that I should preserve the moral framing the author gave. Let me read the article carefully.
+
+The article talks about President Cardoso of Brazil addressing the challenges facing Hugo Chavez in Venezuela. The main point is that Chavez's biggest challenge is restoring normalcy after last week's conflicts. Cardoso emphasizes opening communication channels and achieving social harmony. Chavez has stated he doesn't want revenge against the military involved in the failed coup. Also, Jimmy Carter supports Chavez's dialogue initiative and plans to visit Venezuela.
+
+I need to make sure the summary captures these points concisely. The moral framing here is about peace, dialogue, and forgiveness, so I should highlight that. I should keep it under 200 words, starting with "SUMMARY:" and ending with "END OF SUMMARY."
+
+Let me structure it: mention Cardoso's advice, Chavez's commitment, Carter's support, and the purpose of the visit. Make sure it's clear and flows well. Avoid any markdown, just plain text. I'll check the word count to ensure it's within the limit.
+</think>
+
+SUMMARY: Brazilian President Fernando Henrique Cardoso has emphasized that Hugo Chavez, the Venezuelan leader, faces the primary challenge of restoring normalcy in his country following last week's conflicts. Cardoso stressed the importance of opening communication channels and fostering social harmony. Chavez assured Cardoso that he has no intention of seeking revenge against military personnel involved in the failed coup attempt. Former U.S. President Jimmy Carter has expressed support for Chavez's commitment to dialogue and is set to visit Venezuela soon, signaling international backing for peaceful resolution and reconciliation. END OF SUMMARY.

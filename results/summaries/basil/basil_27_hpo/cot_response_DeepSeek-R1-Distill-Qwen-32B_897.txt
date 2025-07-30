@@ -1,0 +1,32 @@
+Alright, let me try to figure out how to approach this query. The user is asking me to act as a news summarizer and moral expert. They provided a news article and specific instructions on how to process it. 
+
+First, I need to understand the structure of the query. They want two steps: Step 1 is to identify all the single words that are morally framed, and Step 2 is to write a summary preserving those moral frames. The summary should be concise, up to 200 words, and use the identified moral words.
+
+Looking at the article, I'll start by reading through it to grasp the main points. It's about Bibi Netanyahu and an ad by Secure America Now targeting Obama's foreign policy, especially regarding Israel and Iran. The ad is part of election-year politicking, which is a moral frame because it's about influencing politics for a cause.
+
+Next, I need to identify the morally framed words. These are words that carry a judgment or evaluation. Words like "decried," "influence," "attack," "criticized," "dismissive," "embarrassing," "apology tour," and "undermining" come to mind. Each of these carries a negative connotation towards Obama's policies.
+
+Now, for the summary, I should include these words while condensing the article. I'll mention Netanyahu's criticism, the ad's purpose, the markets targeted, the connection to Romney's attacks, Netanyahu's pushback, and the previous ad about the apology tour. I need to ensure the summary flows naturally and stays within 200 words.
+
+I also need to make sure the summary starts after the "SUMMARY:" token and ends with "END OF SUMMARY." I should avoid markdown and keep it in plain text. Let me draft the summary, making sure to include all key points and the moral words identified.
+
+Wait, I should double-check the word count. The summary I have is concise, but I'll count the words to ensure it's under 200. Also, I need to make sure each morally framed word is included as per the instructions.
+
+I think I've covered all the necessary points. The summary should reflect the moral framing accurately, showing the criticism and the political strategies involved without taking sides. It's important to present the facts while highlighting the moral aspects as per the article.
+
+Finally, I'll format the response as per the user's instructions, starting with STEP 1, listing each moral word, then the summary. I'll make sure there are no markdown elements and that it's clear and concise.
+</think>
+
+**STEP 1:**  
+* decried  
+* influence  
+* attack  
+* criticized  
+* dismissive  
+* embarrassing  
+* apology tour  
+* undermining  
+
+**SUMMARY:**  
+Bibi Netanyahu criticized the use of his name in U.S. election-year politicking, yet a neoconservative group, Secure America Now, aired an ad featuring him discussing Israel’s security concerns about Iran’s nuclear program. The ad, costing up to $1 million, targets Jewish communities in Florida. Republicans, including Mitt Romney, have used Netanyahu’s comments to criticize President Obama’s stance on Iran, accusing him of “throwing Israel under a bus.” Netanyahu denied being drawn into the election and rejected claims Obama dismissed Israel, emphasizing his appreciation for Obama’s commitment to preventing Iran from obtaining nuclear weapons. The ad is part of a broader effort by Secure America Now to attack Obama’s foreign policy, previously running an ad accusing him of an “apology tour.” While the latest ad does not mention Obama by name, it aligns with the GOP narrative of Obama’s weak relationship with Israel.  
+**END OF SUMMARY.**

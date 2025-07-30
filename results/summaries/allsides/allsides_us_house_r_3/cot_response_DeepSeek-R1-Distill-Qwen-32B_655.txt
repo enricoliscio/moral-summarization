@@ -1,0 +1,41 @@
+Alright, I need to handle this user's query. They provided a news article and want a summary that preserves the moral framing. They also want me to first list all the single words with moral connotations and then write the summary.
+
+First, I'll read through the article to identify the morally charged words. Words like "stormed," "upending," "enraged," "complaints," "ethics charges," "outrage," "bypassing," "obsession," "justice," "below it," "precedents," "denied," "subpoena power," "restricted," "protest," "sit-in," "contradicted," "quid pro quo," "second-hand," "third-hand," "left-leaning," "watchdog," "ruling," "ordered," "released." I'll list these each with a *.
+
+Next, I'll summarize the article. I need to keep it under 200 words and include as many of those moral words as possible. The summary should cover the key events: Republicans storming the secure room, the security lapse, ethics charges, the protest over fairness, the testimony of Laura Cooper and William Taylor, the subpoenas, and the legal actions. I'll make sure to highlight the moral perspectives from both parties, like Democrats accusing Republicans of security breaches and Republicans claiming procedural unfairness.
+
+I should structure the summary to flow logically, starting with the protest, moving to the reactions, the testimonies, and the subsequent actions. I'll ensure that each morally framed word is appropriately placed to convey the original article's tone and arguments from both sides.
+
+Finally, I'll double-check that the summary is concise and within the word limit, preserving the moral framing as per the user's instructions.
+</think>
+
+**STEP 1:**  
+* stormed  
+* upending  
+* enraged  
+* complaints  
+* ethics charges  
+* outrage  
+* bypassing  
+* obsession  
+* justice  
+* below it  
+* precedents  
+* denied  
+* subpoena power  
+* restricted  
+* protest  
+* sit-in  
+* contradicted  
+* quid pro quo  
+* second-hand  
+* third-hand  
+* left-leaning  
+* watchdog  
+* ruling  
+* ordered  
+* released  
+
+**SUMMARY:**  
+House Republicans stormed a secure room during the impeachment probe, disrupting a deposition and demanding fairness. Democrats accused them of creating a security lapse by bringing electronics into the restricted area and called for ethics charges. Republicans countered that the process was unfair, claiming Democrats bypassed constitutional norms and denied them subpoena power. The protest turned into a sit-in, delaying Laura Cooper's testimony. William Taylor's testimony, which described Trump's alleged quid pro quo with Ukraine, was contradicted by Republicans, who argued it was based on second- and third-hand information. Democrats continued their investigation, issuing new subpoenas for State Department documents, while a federal judge ordered the release of Ukraine-related files. A left-leaning watchdog group filed a FOIA request for Giuliani-Pompeo communications. The moral framing highlighted divisions over fairness, security, and procedural integrity in the impeachment process.  
+**END OF SUMMARY.**

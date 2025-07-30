@@ -1,0 +1,30 @@
+Okay, I need to help the user by summarizing the news article while preserving the moral framing. Let me start by understanding the task. The user wants me to first identify all the single words that are morally framed in the text. Then, I have to write a concise summary that includes as many of those words as possible without exceeding 200 words.
+
+Looking at the article, I'll go through each paragraph and pick out words that carry moral connotations. Words like "ridiculous," "citizenship," "illegal," "absurdity," "discourage," "outrage," "ethnic cleansing," "unconstitutional," "polarization," "equality," "diversity," "compassionate," "illegal immigration," and "common sense" stand out as they convey moral judgments or principles.
+
+Now, for the summary. I need to capture the main points: Trump's proposal to end birthright citizenship, the legal and constitutional challenges, the pushback from within his party, the moral arguments against it, and the implications. I'll make sure to include the morally framed words to maintain the author's tone.
+
+I'll structure the summary by introducing Trump's plan, mention the 14th Amendment, the opposition from Ryan and others, the arguments about the amendment's intent, the legal and moral criticisms, and the political context. I'll keep each sentence focused and concise to stay within the word limit.
+
+Let me check if I've included all the key points and the moral words. Yes, I think that covers it. Now, I'll write the summary, making sure it flows naturally and stays within 200 words.
+</think>
+
+**STEP 1:**  
+* ridiculous  
+* citizenship  
+* illegal  
+* absurdity  
+* discourage  
+* outrage  
+* ethnic cleansing  
+* unconstitutional  
+* polarization  
+* equality  
+* diversity  
+* compassionate  
+* illegal immigration  
+* common sense  
+
+**SUMMARY:**  
+President Trump proposed an executive order to end birthright citizenship, claiming the U.S. is unique in granting citizenship to children of undocumented immigrants. However, at least 30 other countries, including Canada and Mexico, do the same. Trump's plan faced immediate criticism, with House Speaker Paul Ryan stating it would require a constitutional amendment, not an executive order. Legal scholars and conservatives argue the 14th Amendment's wording is unclear on whether it applies to undocumented immigrants. Trump's allies, like Vice President Pence, suggest testing the idea in court. Critics, including civil rights groups, denounced the plan as unconstitutional and divisive, calling it "ethnic cleansing" and a threat to equality. Some Republicans also rejected the idea, highlighting its political risks. The proposal comes amid election-year efforts to energize Trump's anti-immigrant base, despite its legal and moral controversies.  
+**END OF SUMMARY.**

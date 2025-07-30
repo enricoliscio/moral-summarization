@@ -1,0 +1,16 @@
+Alright, so I need to summarize this news article about John Lewis while preserving the moral framing. The user is asking for a concise summary, no more than 200 words, and they want it after a "SUMMARY:" token and ending with "END OF SUMMARY.".
+
+First, I'll read through the article to get the main points. It's about John Lewis's role in the 1965 Selma march, the violent confrontation, and the impact it had on the Voting Rights Act. The article also mentions his later life and legacy.
+
+I should highlight his leadership, the brutality faced, and the eventual success leading to the Voting Rights Act. It's important to mention his famous quote about "good trouble" to capture the moral aspect.
+
+I need to keep the summary under 200 words, so I'll focus on key events: the march, the attack, the consequences, and his legacy. I'll make sure to include that he was a moral leader and how his actions inspired others.
+
+Let me structure it: start with his leadership in the march, the confrontation, the outcome, his later life, and his enduring message. That should cover the moral framing effectively without getting too detailed.
+
+I'll draft it, then check the word count to ensure it's within the limit. Make sure to include all necessary elements without unnecessary details.
+</think>
+
+SUMMARY:  
+John Lewis, a civil rights icon, led a peaceful march in Selma, Alabama, on March 7, 1965, to demand voting rights for Black Americans. Confronted by state troopers under Governor George C. Wallace's orders, the marchers were met with brutal violence, an event that became known as "Bloody Sunday." Lewis, then 25, was beaten and suffered a fractured skull, but his unwavering commitment to justice helped galvanize support for the federal Voting Rights Act of 1965. Decades later, Lewis remained a moral leader, advocating for equality and urging others to "get in good trouble, necessary trouble" to redeem America's soul. His legacy as a hero of the civil rights movement endures, inspiring future generations to fight for justice and equality.  
+END OF SUMMARY.

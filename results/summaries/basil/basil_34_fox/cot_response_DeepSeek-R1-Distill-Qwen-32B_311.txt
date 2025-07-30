@@ -1,0 +1,31 @@
+Alright, so the user has given me a query where I need to act as a news summarizer and a moral expert. They provided a news article about the NRA's recommendations following the Newtown shooting. The task is to first identify all the morally framed single words and then summarize the article while preserving those moral framings.
+
+First, I need to understand what morally framed words are. These are words that carry a positive or negative connotation, influencing how the reader perceives the situation. For example, words like "urges," "allow," "protect," "responsible" might be framed morally.
+
+Looking at the article, the NRA is pushing for more armed officers in schools. The moral framing here could be about security, protection, responsibility, and control. I'll go through the text and pick out words that have such connotations.
+
+Next, I have to summarize the article, making sure to include as many of these morally framed words as possible. The summary should be concise, under 200 words, and clearly reflect the moral stance presented in the original text.
+
+I'll start by identifying the key points: NRA's recommendations, the Newtown shooting, criticism from Democrats, training programs, state laws, mental health assessments, and the debate over gun control versus school security.
+
+Now, I'll list the morally framed words. Words like "urges," "allow," "protect," "responsible," "control," "monster," "good," "bad" stand out as they carry specific moral weight.
+
+For the summary, I'll structure it to highlight the NRA's stance, the reactions, and the broader context of the gun control debate. I'll ensure that the moral terms are included to preserve the original framing.
+
+Finally, I'll make sure the summary is clear, concise, and within the word limit. I'll check that all key points are covered and that the moral elements are well-represented.
+</think>
+
+### STEP 1:  
+* Urges  
+* Allow  
+* Protect  
+* Responsible  
+* Control  
+* Monster  
+* Good  
+* Bad  
+
+---
+
+### SUMMARY:  
+The National Rifle Association (NRA) has urged states to allow more armed officers in schools, emphasizing the importance of protection and responsibility following the Newtown mass shooting. The NRA proposed a 40-60 hour training program for armed personnel and a model state law enabling trained individuals to carry weapons on school grounds. While the NRA advocates for armed security, critics argue that teachers should focus on teaching, not carrying guns. The NRA's recommendations also include school safety assessments and mental health pilot programs. Meanwhile, states like Connecticut are advancing gun control measures, such as assault weapons bans and background checks. NRA CEO Wayne LaPierre maintains that schools deserve the same protection as banks and Congress, stating, "The only thing that stops a bad guy with a gun is a good guy with a gun." END OF SUMMARY.

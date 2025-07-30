@@ -1,0 +1,30 @@
+Okay, so I need to help the user with their query. They provided a news article and specific instructions. Let me break it down.
+
+First, the user wants me to act as a news summarizer and a moral expert. My tasks are two-fold: identify morally framed words and then summarize the article preserving those words.
+
+Starting with STEP 1: I need to find all single words in the article that carry moral connotations. I'll go through the text and pick out words that express approval, disapproval, or ethical implications. Words like "lawless," "brutal," "violent," "unlawful," "right," "peaceful," "justice," "brutality," "domestic terrorists," "resistance," "revolution," "fund," "amnesty," "justice," and "matter." These words are key because they frame the events in moral terms.
+
+Next, for the summary, I have to condense the article into 200 words while keeping those moral words. I'll start by outlining the main events: Seattle authorities dismantling the protest zone, arrests, the mayor's declaration, the police chief's statement, Trump's involvement, and the protesters' reactions. I need to include the morally charged words to maintain the original framing. I'll make sure each sentence flows logically, covering the actions, reactions, and the broader context of the protests against racial injustice.
+
+I also need to ensure that the summary is concise and captures the essence without losing the moral perspective. I'll check the word count to stay within the limit. Finally, I'll present the summary after the specified tokens, making sure it's clear and meets all the user's requirements.
+</think>
+
+**STEP 1:**  
+* lawless  
+* brutal  
+* violent  
+* unlawful  
+* right  
+* peaceful  
+* justice  
+* brutality  
+* domestic terrorists  
+* resistance  
+* revolution  
+* fund  
+* amnesty  
+* justice  
+* matter  
+
+**SUMMARY:**  
+Seattle authorities dismantled a protest zone, arresting 31 people for failing to disperse and other crimes. The zone, declared an "unlawful assembly" by Mayor Jenny Durkan, had become "lawless and brutal," with shootings, robberies, and violence reported. Police Chief Carmen Best commended the move to restore "the rule of law," while Attorney General William Barr praised her for distinguishing between protest rights and violent crime. Protesters like Harry "Rick" Hearns supported the crackdown, blaming outsiders for violence. The zone, born from protests against racial injustice following George Floyd's death, had seen peaceful demonstrations but became less active before the raid. Businesses and attorneys pushed for stronger action, with lawsuits filed to prevent future "lawless autonomous zones." Protesters vowed to regroup, emphasizing that the movement could not be stopped. END OF SUMMARY.

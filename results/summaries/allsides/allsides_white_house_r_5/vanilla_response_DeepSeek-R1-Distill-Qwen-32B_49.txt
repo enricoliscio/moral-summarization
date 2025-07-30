@@ -1,0 +1,16 @@
+Okay, so the user has provided a query where they want me to summarize a news article. The article is pretty detailed and seems to be critical of the Obama administration, particularly regarding the Benghazi incident. The user has specified that the summary should start with "SUMMARY:" and end with "END OF SUMMARY." Also, it should be no longer than 200 words.
+
+First, I need to read through the article carefully. It's quite lengthy and filled with a lot of specific details and opinions. The main points seem to be about the Obama administration's handling of the Benghazi attack, the lies and cover-ups, and the involvement of Hillary Clinton. The article is quite critical, using terms like "60s disease" and blaming the administration's background for their decisions.
+
+I should identify the key events: the attack on the U.S. mission in Benghazi, the administration's initial false claims about the cause, the delay in sending rescue forces, the medals awarded, and the ongoing fallout from these actions. Also, the article mentions the Clintons' past contempt for the military, which is tied into the narrative.
+
+I need to condense all this into a concise summary. I'll start by stating that the article criticizes the Obama administration for their handling of the Benghazi attack, highlighting the lies and cover-ups. Then, I'll mention the Clintons' background and their attitude towards the military. Next, I'll outline the specific actions during the attack, like the delayed rescue mission and the medals awarded. Finally, I'll note the ongoing consequences and Hillary's dismissive attitude.
+
+I should make sure the summary is under 200 words, so I'll focus on the most impactful points without getting bogged down in every detail. Also, I need to maintain a neutral tone, even though the article is critical, to provide a fair summary.
+
+Let me structure it: Start with the criticism of the administration, mention the 60s disease, then the Benghazi incident, the lies, the rescue mission details, the medals, and the political fallout. Conclude with the ongoing issues and Hillary's response.
+
+I should check the word count as I go to ensure it's within the limit. Also, make sure to use clear and concise language without any markdown or extra formatting, just plain text between the specified tokens.
+</think>
+
+SUMMARY: The article criticizes the Obama administration for its handling of the 2012 Benghazi attack, accusing it of lying and covering up the incident. It claims the administration, influenced by the "60s disease," was marked by a disregard for national institutions and the military. The piece alleges that President Obama and his team, including Hillary Clinton, propagated false narratives, such as blaming the attack on an anti-Islam video, to avoid accountability. It also accuses the administration of withholding rescue forces and later admitting their stories were misleading. The article highlights the Clintons' contempt for the military and suggests their actions in Benghazi reflected a broader disregard for duty and sacrifice. END OF SUMMARY.

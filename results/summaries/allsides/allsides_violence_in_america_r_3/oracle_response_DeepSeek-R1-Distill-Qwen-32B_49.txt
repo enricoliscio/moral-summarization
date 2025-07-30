@@ -1,0 +1,17 @@
+Okay, so I need to help the user by summarizing a news article while preserving the moral framing. The user is a news summarizer assistant and a moral expert. They provided the article and a list of morally framed words. My task is to create a concise summary using as many of those words as possible.
+
+First, I'll read through the article to understand the main points. President Trump addresses the Las Vegas attack, calls it an act of pure evil, mentions the death toll, his visit to Las Vegas, lowering the flag, his prayers, and the suspect's identity. He also talks about unity and faith. The article includes quotes from Trump and mentions the suspect's roommate and the law enforcement's condition.
+
+Next, I'll identify the key morally charged words from the list provided. Words like attack, evil, shooting, dead, hospitalized, died, praying, ask, crushed, shattered, broken, violence, chaos, pray, safe, hatred, fear, condolences, killed, located, wounded, fearing, prayers.
+
+I need to structure the summary to include these words. Start with Trump's address, the attack's impact, his response, the suspect, and the moral themes he emphasizes.
+
+I should make sure the summary is under 200 words, so I'll be concise but include all necessary details. I'll use the morally framed words to highlight the emotional and ethical aspects of the situation.
+
+Putting it all together, I'll mention the attack, death toll, Trump's address, his call for unity, the suspect, and the moral language used. I'll ensure the summary flows naturally while incorporating as many of the specified words as possible without making it sound forced.
+
+Let me draft the summary, making sure each sentence includes relevant moral terms and stays within the word limit. I'll check each sentence to ensure it's concise and captures the essence of Trump's message and the attack's impact.
+</think>
+
+SUMMARY:  
+President Trump condemned the Las Vegas attack as an "act of pure evil," expressing deep sorrow for the 58 dead and 515 hospitalized. He vowed to visit Las Vegas to honor victims, lower flags to half-staff, and offered prayers for those "crushed in spirit." Trump emphasized unity, stating that evil cannot "shatter" the bonds of faith, family, and shared values. He acknowledged the "chaos" and "darkness" but urged hope, calling for the nation to "pray" for safety and an end to "hatred and fear." The suspect, Stephen Paddock, was killed, and authorities are locating his roommate, Marilou Danley. Two police officers were killed, and others were wounded. Trump and Melania Trump shared condolences, with the president praying for a future where evil is "banished." The attack, involving automatic weapons, was described as "well-planned" and "well-trained," leaving the nation "fearing" such violence. END OF SUMMARY.

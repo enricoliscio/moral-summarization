@@ -1,0 +1,14 @@
+Okay, so I need to help the user by summarizing a news article while preserving the moral framing. Let me read through the article first to understand the context. The article is about Brazil's stance on greenhouse gas negotiations and the US's role. President Cardoso is hopeful that the US won't interfere and believes the US is committed to fighting the problem despite renouncing the Kyoto Protocol. He's pushing for Brazil to ratify the protocol and reduce emissions by 5.2% by 2012. The article also lists the top greenhouse gas emitters, with the US leading at 36%.
+
+The user wants a summary that's no longer than 200 words, ending with "END OF SUMMARY." and starting after "SUMMARY:". I should make sure to include the key points: Brazil's hope for US non-interference, Cardoso's message to congress, Brazil's commitment to the Kyoto Protocol, and the US's stance despite renouncing it. Also, the statistics about the top emitters are important to highlight the severity and the US's significant contribution.
+
+I need to structure this clearly, making sure each point flows logically. I should mention the moral framing, which in this case is the commitment to environmental responsibility despite the US's formal withdrawal. I'll keep the language concise and ensure all main points are covered without exceeding the word limit.
+
+Let me draft the summary step by step. Start with Brazil's hope regarding the US. Then mention Cardoso's message to congress about ratifying the Kyoto Protocol and the emission reduction target. Include the US's commitment despite renouncing the protocol. Finally, list the top emitters to emphasize the global issue and the US's role.
+
+I should check the word count to make sure it's under 200. Also, ensure that the summary flows well and captures the essence of the article without adding personal opinions. I'll avoid any markdown and keep it in plain text as per the instructions.
+
+Alright, putting it all together, making sure each sentence is clear and concise. Let me make sure I didn't miss any key details. Yes, I think that covers all the necessary points while preserving the moral framing about environmental responsibility.
+</think>
+
+SUMMARY: Brazil's President Fernando Henrique Cardoso expressed confidence that the United States will not interfere in international negotiations to control greenhouse gas emissions. He believes the US remains committed to addressing the issue, despite formally renouncing the Kyoto Protocol, and will take domestic actions to combat climate change. Cardoso emphasized this while urging Brazil's Congress to ratify the Kyoto Protocol and commit to reducing the country's greenhouse gas emissions by 5.2% by 2012. The US, as the world's largest emitter of greenhouse gases (36%), plays a critical role in global efforts to address climate change, alongside other major contributors like Russia (17.4%), Japan (8.5%), and Germany (7.4%). END OF SUMMARY.

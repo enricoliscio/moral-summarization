@@ -1,0 +1,20 @@
+Okay, so the user has given me a news article about John Lewis and wants a summary. They specified that the summary should start with "SUMMARY:" and end with "END OF SUMMARY." Also, it should be no longer than 200 words. 
+
+First, I need to read through the article to understand the main points. The article is about John Lewis's role in the civil rights movement, specifically the march in Selma, Alabama in 1965. He was a key figure there, leading the march that faced violent opposition from state troopers. This event became known as Bloody Sunday and led to the Voting Rights Act. 
+
+I should highlight his leadership, the confrontation with the troopers, the impact of that event, and his later life. Also, mention his death at age 80 and the legacy he left behind. 
+
+I need to keep it concise, so I'll focus on the most important details: his age during the march, the outcome of the confrontation, his survival despite severe injuries, and his continued activism. 
+
+I should also include that he addressed the bridge on the 55th anniversary, showing his enduring commitment. 
+
+Now, I'll structure the summary to cover these points within the word limit. Make sure to start and end with the specified tokens. 
+
+Let me draft a few sentences, making sure each sentence covers a key point without going into too much detail. Avoiding any unnecessary information to stay within 200 words. 
+
+Check the word count as I go to ensure compliance. 
+
+Finally, review to ensure clarity and that all main points are included.
+</think>
+
+SUMMARY: John Lewis, a civil rights icon who played a pivotal role in the 1965 Selma march, passed away at age 80. On March 7, 1965, Lewis led hundreds of marchers across the Edmund Pettus Bridge in Selma, Alabama, advocating for voting rights. Confronted by state troopers under Governor George C. Wallace's orders, the peaceful demonstration turned violent. Lewis was severely beaten, sustaining a fractured skull, while others were tear-gassed and clubbed. This event, known as Bloody Sunday, shocked the nation and led to the passage of the Voting Rights Act. Lewis later became a prominent congressman and continued to champion civil rights. Despite facing violence, he remained a symbol of nonviolent resistance and advocacy for justice. His legacy endures as a testament to the power of peaceful protest and the fight for equality. END OF SUMMARY.

@@ -1,0 +1,31 @@
+Alright, I need to help the user by summarizing the given news article while preserving the moral framing. The user provided a specific structure, so I should follow that closely. First, I have to identify all the morally framed single words in the text. Let me read through the article again to spot those words.
+
+Looking at the article, words like "discriminating," "destroyed," "choices," "figure it out," "censoring," "shadow banning," "discriminatory," "illegal," "mishandled," "closing down," "censorship," "dangerous," "fake," "sick behavior," and "grain of salt" stand out as having moral connotations. These words are used to convey judgment or ethical concerns.
+
+Next, I need to write a concise summary, keeping these moral terms intact. The summary should be under 200 words and follow the structure provided. I'll start by stating Trump's accusation against the tech giants, then mention the companies' responses. I'll include the examples of Diamond and Silk, the algorithmic glitch explanation, and Trump's criticism of media bias. I'll make sure to include the moral words to maintain the original framing.
+
+I should ensure the summary flows logically, covering all key points without getting too detailed. I'll check the word count to stay within the limit. Also, I need to present the summary after the "SUMMARY:" token and end with "END OF SUMMARY." as specified.
+
+I think I've covered all the necessary points. Let me put it all together, making sure each moral word is included and the summary is clear and concise.
+</think>
+
+**STEP 1:**  
+* Discriminating  
+* Destroyed  
+* Choices  
+* Figure it out  
+* Censoring  
+* Shadow banning  
+* Discriminatory  
+* Illegal  
+* Mistreated  
+* Closing down  
+* Censorship  
+* Dangerous  
+* Fake  
+* Sick behavior  
+* Grain of salt  
+
+**SUMMARY:**  
+President Trump accused social media giants of "discriminating" against Republicans and conservatives, claiming "too many voices are being destroyed." He criticized platforms for "closing down the opinions of many people on the right," while accusing them of failing to address issues with other users. Trump emphasized that "censorship is a dangerous thing" and accused tech companies of "shadow banning," which he called "discriminatory and illegal." Both Facebook and Twitter denied bias, with Twitter attributing issues to an "algorithmic glitch" and Facebook apologizing for "mishandling" communications with pro-Trump personalities like Diamond and Silk. Trump also criticized media outlets like CNN and MSNBC, calling them "fake," while asserting he does not demand their content be removed. He urged platforms to allow all voices, "good & bad," to participate, stating, "we will all just have to figure it out!"  
+END OF SUMMARY.

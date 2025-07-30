@@ -1,0 +1,27 @@
+Okay, so I need to help this user by summarizing a news article while preserving the moral framing. Let me start by understanding what the user is asking for. They want me to act as a news summarizer and a moral expert. The task has two steps: first, identify all the single words that are morally framed, and then write a concise summary that includes as many of those words as possible.
+
+Looking at the provided news article, the main points are about the NAACP passing a resolution targeting Tea Party groups for racists, the response from Tea Party supporters, and the accusations of racism within the movement. The user wants me to extract the morally charged words first. I'll go through the article and pick out words that carry moral implications. Words like "racist," "weeding," "hate," "silence," "violence," "bigots," "partisan," "attack dog," "allegations," "racism," and "spitting" stand out as they carry strong moral connotations.
+
+Next, I need to write a summary that includes these words. The summary should be under 200 words, so I'll need to be concise. I'll start by stating the NAACP's action, their reasoning, the response from Tea Party supporters, and the accusations of racism. I'll make sure to include the morally framed words to maintain the original article's tone.
+
+I should also ensure that the summary flows well and accurately represents the article's content. I'll check that all key points are covered without going into too much detail. It's important to preserve the moral framing, so I'll use the identified words appropriately in the summary.
+
+Finally, I'll format the response as specified: first list the morally framed words under STEP 1, then provide the summary after the SUMMARY token, ending with END OF SUMMARY. I'll make sure the summary is clear and within the word limit.
+</think>
+
+**STEP 1:**  
+* racist  
+* weeding  
+* hate  
+* silence  
+* violence  
+* bigots  
+* partisan  
+* attack dog  
+* allegations  
+* racism  
+* spitting  
+
+**SUMMARY:**  
+The NAACP passed a resolution urging Tea Party groups to "weed out racist elements" amid concerns about ties to hate groups. NAACP President Benjamin Todd Jealous emphasized that the resolution was not to label the entire Tea Party movement as racist but to hold it accountable for distancing itself from bigotry. He warned that silence could lead to violence and called on the movement to reject racists. Tea Party supporters, including Sarah Palin, criticized the NAACP, accusing it of acting as a "partisan political attack dog." Some Tea Party groups even called for an IRS review of the NAACP's tax-exempt status. The resolution comes amid allegations of racism within the Tea Party, following incidents where protesters hurled racial epithets and spit at a congressman. Tea Party leaders deny any racism in their movement.  
+**END OF SUMMARY.**

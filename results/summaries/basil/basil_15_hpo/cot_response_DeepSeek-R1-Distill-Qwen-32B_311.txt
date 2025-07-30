@@ -1,0 +1,21 @@
+Okay, so I've got this query where the user wants me to act as a news summarizer and moral expert. They provided a specific news article and instructions on how to process it. Let me break this down step by step.
+
+First, the user wants me to identify all the single words that are morally framed in the article. They mentioned this as STEP 1 and specified that each word should be listed with a * before it. I need to read through the article carefully to spot these words. From the article, words like "controversy," "crazy," "biased," "backlash," "infamous," and "crosses a line" stand out as having moral connotations. These words carry judgments or evaluations, so they fit the criteria.
+
+Next, the user wants a summary that preserves the moral framing. I have to make sure to include as many of those identified words as possible without making the summary too long—no more than 200 words. The summary should start with "SUMMARY:" and end with "END OF SUMMARY." I'll need to condense the article, focusing on the key points: the cover of Michele Bachmann, the reaction from conservatives, the comparison to past covers, and the question of bias. I'll also ensure that the morally framed words are included to maintain the author's original tone.
+
+I should also consider the user's deeper needs. They might be looking for a concise yet comprehensive summary that highlights the ethical or judgmental aspects of the news. This could be for analysis, reporting, or understanding media bias. By preserving the moral framing, the summary will reflect the author's perspective accurately, which is crucial for the user's intended use.
+
+Now, putting it all together, I'll list the morally framed words first, then craft a concise summary that includes them, ensuring it's under 200 words and captures the essence of the article's争议 and reactions.
+</think>
+
+**STEP 1:**  
+* Controversy  
+* Crazy  
+* Biased  
+* Backlash  
+* Infamous  
+* Crosses a line  
+
+**SUMMARY:**  
+Newsweek's latest cover featuring Michele Bachmann has sparked controversy, with the headline "THE QUEEN OF RAGE." While the article by Lois Romano criticizes Bachmann's support for the "radical" Tea Party, the word "rage" is absent from the story. Conservative critics argue the cover makes Bachmann look "crazy" and accuse the media of being "totally biased" against conservatives. This isn't the first time Newsweek has faced backlash; past covers of Mitt Romney and Sarah Palin also drew criticism. The争议 over Bachmann's cover highlights ongoing debates about media bias and whether such imagery crosses a line. END OF SUMMARY.

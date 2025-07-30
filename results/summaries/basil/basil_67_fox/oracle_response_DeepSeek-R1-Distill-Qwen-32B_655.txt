@@ -1,0 +1,23 @@
+Okay, so the user wants me to act as a news summarizer and moral expert. They provided a news article and specific instructions on how to summarize it. Let me break this down.
+
+First, I need to read the article carefully. It's about Donald Trump and former Mexican President Vicente Fox having a Twitter war. Fox criticized Trump, saying he's not welcome in Mexico and called Trump's visit a mistake. Trump responded by bringing up a past incident where Fox used a swear word about the wall.
+
+The user emphasized preserving the moral framing. They listed specific words: hosting, offended, mistake, railing, lying. I need to make sure these words are included in the summary.
+
+I should start by identifying the main points: Fox's criticism, Trump's response, and the context of their conflict. Then, I'll craft a summary that includes those moral terms. It needs to be concise, under 200 words, and start after "SUMMARY:" and end with "END OF SUMMARY."
+
+I should make sure the summary flows naturally, using the moral words where appropriate. For example, Fox is "railing against" Trump's visit, which is a strong term. Trump is accused of "lying," which adds to the moral judgment.
+
+I also need to mention the political risk Fox believes Pena Nieto is taking by hosting Trump. This ties into the moral framing of the situation.
+
+Putting it all together, I'll structure the summary to first introduce the conflict, then Fox's criticism, Trump's response, and the implications of their exchange. I'll ensure each morally framed word is included without making the summary too wordy.
+
+Let me check the word count. I'll aim for around 150-200 words, making sure each key point is covered succinctly. I'll avoid adding extra details beyond what's necessary to preserve the moral elements.
+
+Finally, I'll review the summary to ensure it meets all the user's requirements: correct inclusion of moral terms, proper structure, and conciseness.
+</think>
+
+SUMMARY:  
+Former Mexican President Vicente Fox and Donald Trump engaged in a heated Twitter exchange over Trump's planned visit to Mexico. Fox criticized Trump, calling him "not welcome" and accusing President Enrique Peña Nieto of taking a "political risk" by hosting Trump. He labeled the visit a "big mistake" and accused Trump of offending Mexico. Trump countered by referencing Fox's past use of profanity regarding the border wall, suggesting Fox's criticism was hypocritical. Fox fired back, demanding Trump apologize and "stop lying." The exchange highlights the ongoing tension between Trump and Mexican leaders, with Fox framing Trump's visit as offensive and politically damaging.  
+
+END OF SUMMARY.

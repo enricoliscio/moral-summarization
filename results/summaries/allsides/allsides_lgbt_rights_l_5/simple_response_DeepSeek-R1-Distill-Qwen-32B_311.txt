@@ -1,0 +1,24 @@
+Okay, so I'm trying to figure out how to approach this query. The user has given me a news article about same-sex spouses now being able to access federal benefits, and they want a summary that preserves the moral framing the author used. They also specified that the summary should be under 200 words, start with "SUMMARY:" and end with "END OF SUMMARY."
+
+First, I need to understand the main points of the article. The key information is that the Obama administration has allowed same-sex spouses of federal employees to access benefits like health insurance and retirement accounts. This change came after the Supreme Court overturned part of DOMA. The Office of Personnel Management (OPM) sent out a memo detailing these benefits, which include health, life, dental, vision, and long-term care insurance. They didn't specify state laws, implying that legally married couples can access benefits regardless of their state of residence. President Obama and other officials like Eric Holder and Chuck Hagel supported this move, emphasizing equality and respect for all families.
+
+Now, the user wants the summary to preserve the moral framing. The original article highlights the administration's commitment to equality and justice, so I should make sure to include that. I need to mention the benefits, the Supreme Court decision, the administration's support, and the positive impact on families.
+
+I should structure the summary to first state the main action (Obama administration allowing benefits), then the reason (Supreme Court ruling), followed by the details of the benefits and the implications regarding state laws. Then, include the president's and other officials' statements about equality and justice. Finally, mention the positive impact on families.
+
+I need to keep it concise, so I'll avoid listing all the benefits unless necessary. Also, I should ensure that the moral aspect is clear, like how this decision promotes equality and respect for same-sex couples.
+
+Let me draft this step by step:
+
+1. Start with the administration's action and the reason.
+2. Mention the benefits available.
+3. Note that state laws aren't a barrier.
+4. Include Obama's and Holder's comments on equality.
+5. End with the positive impact.
+
+I'll make sure each sentence is clear and concise, avoiding unnecessary details to stay under 200 words. Also, I'll check that the moral framing is evident, emphasizing justice and equality.
+
+Now, putting it all together in a coherent summary that flows well and meets all the user's requirements.
+</think>
+
+SUMMARY: The Obama administration has expanded federal benefits to same-sex spouses of federal employees, following the Supreme Court's overturning of a key provision of the Defense of Marriage Act (DOMA). Benefits now include health, life, dental, vision, and long-term care insurance, as well as retirement accounts, mirroring those available to heterosexual couples. The Office of Personnel Management (OPM) clarified that legally married same-sex couples can access these benefits regardless of their state of residence, though details on state-specific laws were not provided. President Obama and Attorney General Eric Holder praised the move, emphasizing equality and justice for same-sex couples. The administration is working to implement the ruling swiftly, with Defense Secretary Chuck Hagel also committing to expanding benefits for same-sex couples in the military. This decision marks a significant step toward ensuring equal treatment under federal law for all married couples. END OF SUMMARY.

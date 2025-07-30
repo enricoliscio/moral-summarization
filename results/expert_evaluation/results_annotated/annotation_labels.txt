@@ -1,0 +1,26 @@
+moral framing alignment
+moral framing loss
+examples omission
+examples inclusion
+similarity
+moral framing modification (something is added and something is missing)
+moral framing addition
+quote preservation
+quote omission
+
+
+
+POSITIVE
+moral framing alignment
+examples inclusion
+quote preservation
+
+NEGATIVE
+moral framing loss
+examples omission
+moral framing modification
+moral framing addition
+quote omission
+
+NEUTRAL
+similarity

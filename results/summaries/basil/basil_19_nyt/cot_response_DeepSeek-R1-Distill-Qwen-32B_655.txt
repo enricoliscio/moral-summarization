@@ -1,0 +1,26 @@
+Okay, I need to help the user by summarizing the given news article while preserving the moral framing. The user has specified two steps: first, identifying all the morally framed words, and second, writing a summary that includes as many of those words as possible. 
+
+Starting with the first step, I'll read through the article to spot words that carry moral connotations. Words like "failed," "destructive," "right," "criticism," "shunning," "flirted," "opportunity," "dent," and "kingmaker" stand out. These words imply judgment or evaluation, so they fit the moral framing.
+
+Now, moving on to the summary. I need to condense the article into 200 words or less, making sure to include the identified morally framed words. The main points are Trump dropping out of moderating the debate, his potential run as an independent, the criticism from Republicans, and the low turnout for the debate which undermines his influence. I'll structure the summary to highlight Trump's actions, the reactions, and the implications for his political role.
+
+I should ensure that the summary flows naturally while incorporating the moral terms. It's important to maintain the original tone and the key points without adding any personal opinions. I'll make sure each sentence is concise and directly relates to the main events and their moral implications as presented in the article.
+
+Finally, I'll review the summary to confirm it meets the word limit and that all morally framed words are appropriately included. This way, the summary not only captures the essence of the article but also retains the author's intended moral perspective.
+</think>
+
+**STEP 1:**
+
+* failed  
+* destructive  
+* right  
+* criticism  
+* shunning  
+* flirted  
+* opportunity  
+* dent  
+* kingmaker  
+
+**SUMMARY:**  
+Donald Trump has withdrawn from moderating a Republican presidential debate, sparking speculation about his potential independent candidacy. Trump emphasized his commitment to defeating the "failed and destructive" Obama administration but reserved the right to run independently if he deems the Republican nominee unfit. His decision to drop out of the debate, which only Newt Gingrich and Rick Santorum agreed to attend, has drawn criticism from the Republican establishment. Trump's actions highlight his ongoing influence and his "kingmaker" status, despite the low turnout for the event. His refusal to commit fully to the Republican process has created an opportunity for him to reassert his political presence, leaving the party's future direction uncertain.  
+END OF SUMMARY.

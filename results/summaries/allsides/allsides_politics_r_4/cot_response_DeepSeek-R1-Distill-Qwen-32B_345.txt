@@ -1,0 +1,37 @@
+Okay, so I need to help the user by summarizing this news article while preserving the moral framing. First, I should understand the article's content and the moral implications. The article discusses the legal issues surrounding Donald Trump, particularly focusing on his associates' indictments and his own immunity as president. It uses metaphors like "good tree" and "corrupt tree" to frame Trump's administration negatively.
+
+The user wants me to identify all the morally framed single words first. I'll go through the article and pick out words that carry moral connotations. Words like "corrupt," "evil," "exempt," "indicted," "crimes," "felonies," "vindication," "slavish," "cultlike," "foul," "criminals," "probity," "animus," "scandal," "misdemeanor," "hush money," "lies," "convictions," "collusion," "leverage," and "noxious" stand out. These words carry strong moral judgments, either positive or negative.
+
+Next, I need to write a concise summary that includes as many of these words as possible without exceeding 200 words. The summary should highlight the moral framing, emphasizing Trump's administration as corrupt, his associates' crimes, and the implications for the country. I'll mention the legal immunity, the guilty pleas, the defenders' loyalty, and the overall negative impact on governance.
+
+I should ensure the summary flows logically, starting with the legal context, moving to the moral critique, and concluding with the implications. I'll avoid introducing new information not present in the article and stick to the key points: Trump's immunity, associates' crimes, defenders' loyalty, and the corrupt environment.
+
+Finally, I'll make sure the summary is clear and concise, preserving the moral tone without being overly verbose. I'll check the word count to ensure it's under 200 words and that all key moral terms are included where appropriate.
+</think>
+
+**STEP 1:**  
+* corrupt  
+* evil  
+* exempt  
+* indicted  
+* crimes  
+* felonies  
+* vindication  
+* slavish  
+* cultlike  
+* foul  
+* criminals  
+* probity  
+* animus  
+* scandal  
+* misdemeanor  
+* hush money  
+* lies  
+* convictions  
+* collusion  
+* leverage  
+* noxious  
+
+**SUMMARY:**  
+The article discusses the moral and legal implications of Donald Trump's presidency, particularly in light of his associates' guilty pleas and the ongoing specter of potential indictment. It highlights the moral framing of Trump's administration as a "corrupt tree" that produces "evil fruit," emphasizing his association with individuals of "felonious character." Trump's defenders are criticized for their cultlike loyalty, even in the face of evidence implicating him in "hush money" schemes and other crimes. The article underscores the moral failing of a president who surrounds himself with "criminals" and discomforts those of "firm probity." It also contrasts Trump's administration with Barack Obama's, which lacked credible corruption allegations. The summary concludes that Trump's actions and associations raise serious moral and legal questions, suggesting that the worst may yet come for the nation under his leadership.  
+**END OF SUMMARY.**

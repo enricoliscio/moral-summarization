@@ -1,0 +1,14 @@
+Alright, so the user has provided a news article and wants a summary that preserves the moral framing. They also mentioned that I'm a news summarizer and a moral expert. Hmm, I need to make sure the summary captures the essence of the article, especially the moral aspects.
+
+First, I'll read through the article to understand the main points. It's about the rise of a new generation protesting against racial injustice, drawing parallels to the civil rights movement of the 60s. The author shares personal experiences, like being arrested for entering a whites-only library. They also talk about the progress made, like the Civil Rights Act and Voting Rights Act, but note that racism hasn't ended—just the structures have changed.
+
+The user wants the summary to be under 200 words, so I need to be concise. I should highlight the comparison between the past and present movements, the author's personal involvement, the successes, and the ongoing issues. Also, emphasizing the moral drive and the potential for change is crucial.
+
+I'll start by introducing the new generation's movement, link it to the past, mention the author's experience, the victories achieved, and the remaining challenges. Then, I'll conclude with the hope for the future, tying in the moral imperative.
+
+Let me structure it: opening with the new movement, historical context, personal anecdote, legislative successes, current issues, and the call to action. I need to ensure it flows well and stays within the word limit. Also, keeping the language clear and impactful to reflect the moral framing.
+</think>
+
+SUMMARY:  
+A new generation is leading a movement against racial injustice in America, reminiscent of the civil rights era of the 1960s. The author reflects on their own experience in the 1960s, including being arrested for integrating a whites-only library in South Carolina, highlighting the persistence of segregation despite legal rulings like *Brown v. Board*. The civil rights movement achieved significant victories, such as the Civil Rights Act of 1964 and the Voting Rights Act of 1965, but systemic racism persists in areas like housing, education, employment, and criminal justice. The author notes that Dr. Martin Luther King Jr.'s push for economic equality was cut short, but a new generation is now challenging these injustices. The protests following George Floyd’s murder have been the largest in U.S. history, with widespread participation, including unprecedented white involvement. While resistance from powerful interests remains, the author emphasizes that change is possible when people unite against injustice. This new movement holds the potential to transform America, but it faces significant challenges. The author calls on all who share a moral conscience to join the fight for equality and justice.  
+END OF SUMMARY.

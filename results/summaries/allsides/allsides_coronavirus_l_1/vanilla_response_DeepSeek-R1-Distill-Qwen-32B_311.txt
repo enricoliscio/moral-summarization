@@ -1,0 +1,18 @@
+Alright, so the user wants me to summarize a news article. They provided the article and specified the format: after "SUMMARY:" and ending with "END OF SUMMARY." They also mentioned it should be no longer than 200 words. 
+
+First, I need to read through the article carefully to understand the main points. The article talks about how Donald Trump's actions, like trying to pull the U.S. out of the WHO, have made the country more vulnerable to another pandemic. It discusses the impact on international cooperation and how this could affect the U.S.'s ability to handle a new crisis. 
+
+I should note the key points: Trump's failure to manage the first pandemic, the U.S. pulling out of WHO, the potential consequences like diminished international standing, and the possibility of a second virus emerging. Also, the article mentions how some countries have handled COVID-19 well, making a second virus less likely there, but in countries struggling like the U.S., it's more probable. 
+
+I need to make sure the summary is concise, hitting all these points without going over 200 words. I'll structure it to first mention Trump's actions, then the impact on international relations and the U.S.'s standing, followed by the potential for a second virus, and finally the contrast between well-managed countries and those struggling. 
+
+I should also include the part about diagnostic tests and vaccines, as that's an important point about preparedness. And mention the resource strain in the U.S., which makes detecting a new virus harder. 
+
+Putting it all together, I'll craft a summary that flows logically, covering each main point succinctly. Making sure to use clear and concise language so the summary is easy to understand. 
+
+Double-checking the word count to ensure it's under 200. Maybe I can combine some sentences to save space without losing meaning. Also, ensuring that the summary starts with "SUMMARY:" and ends correctly as specified. 
+
+Alright, I think I've got a good structure. Time to write it out clearly.
+</think>
+
+SUMMARY: Donald Trump's mishandling of the COVID-19 pandemic has left the U.S. more vulnerable to a future crisis. His attempt to withdraw from the World Health Organization (WHO) has strained international cooperation, potentially harming global health efforts. The U.S.'s damaged international standing and its failure to manage its own outbreak could hinder its ability to receive warnings or support in a new crisis. A second virus could spread undetected in countries struggling with COVID-19, like the U.S., Brazil, Russia, and India, due to strained resources. However, countries like South Korea, New Zealand, and Germany, which have controlled COVID-19, are better prepared. Diagnostic tests and vaccines could be adapted to detect or protect against a new pathogen, but the U.S.'s current resource shortages make early detection harder. END OF SUMMARY.

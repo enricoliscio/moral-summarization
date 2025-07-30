@@ -1,0 +1,36 @@
+Okay, I need to help the user by summarizing a news article while preserving the moral framing. Let me first read through the article to understand the context. It's about President Trump threatening to shut down social media companies because he claims they're silencing conservative voices. The article mentions an executive order, Twitter tagging his tweets, a court case, and reactions from tech companies and lawmakers.
+
+The user wants me to first identify all the morally framed single words. I'll go through the text and pick out words that carry moral connotations. Words like "stifling," "fact-check," "censor," "reflex," "silence," "strongly," "freedom," "backlash," "anti-conservative," "bias," "editorialize," "anti-competitive," "privacy," "exempting," "immunity," "immoral," "abuse," "oppression," "fairness," "transparency," "justice," and "oppression" come to mind. These words reflect the moral arguments from both sides.
+
+Next, I need to write a concise summary of the article, keeping these moral terms intact. The summary should be under 200 words. I'll start by outlining the main points: Trump's threat, the executive order, Twitter's fact-checking, the court decision, Zuckerberg's comment, tech companies' responses, and the political implications. I'll ensure to include the morally charged words to maintain the original framing.
+
+I should also make sure the summary flows well and covers all key aspects without getting too detailed. I'll check the word count to stay within the limit. Finally, I'll format it as per the user's instructions, starting with "SUMMARY:" and ending with "END OF SUMMARY."
+</think>
+
+**STEP 1:**  
+* Stifling  
+* Fact-check  
+* Censor  
+* Reflex  
+* Silence  
+* Strongly  
+* Freedom  
+* Backlash  
+* Anti-conservative  
+* Bias  
+* Editorialize  
+* Anti-competitive  
+* Privacy  
+* Exempting  
+* Immunity  
+* Immoral  
+* Abuse  
+* Oppression  
+* Fairness  
+* Transparency  
+* Justice  
+* Oppression  
+
+**SUMMARY:**  
+President Trump threatened to shut down social media companies like Twitter, accusing them of silencing conservative voices. He plans to sign an executive order, though it’s unclear how he can enforce such action against private firms. The dispute arose after Twitter added fact-check labels to Trump’s tweets about mail-in voting fraud. A court upheld the dismissal of a lawsuit against tech giants, accusing them of conspiring to suppress conservative views. Facebook’s CEO, Mark Zuckerberg, argued against government censorship, while the ACLU emphasized First Amendment protections. Trump’s strong rhetoric reflects broader conservative backlash against Big Tech, with shares of Twitter and Facebook falling. Tech companies deny bias, claiming they provide a platform for free expression. Changes to Section 230 of the Communications Decency Act could expose them to more lawsuits. Republican Senator Josh Hawley criticized Twitter’s editorializing, questioning its legal immunity. The debate highlights tensions over freedom, fairness, and transparency in the digital age.  
+**END OF SUMMARY.**

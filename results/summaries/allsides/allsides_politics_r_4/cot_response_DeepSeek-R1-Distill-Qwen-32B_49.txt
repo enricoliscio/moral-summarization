@@ -1,0 +1,49 @@
+Okay, so I need to help this user who's asking for a news summary while preserving the moral framing. The user is a news summarizer and a moral expert, so they want the summary to reflect the original article's ethical tone. 
+
+First, I should read the article carefully. It's about the moral implications of Trump's situation, using metaphors like "good tree" and "corrupt tree." The article talks about how Trump's associates have been involved in crimes, and he's not being indicted while in office. There's a lot of moral judgment here, so I need to capture that.
+
+The user wants two steps. Step 1 is to list all the morally framed single words. I'll go through the article and pick out words that carry moral connotations. Words like "good," "evil," "exempt," "implicated," etc. I need to make sure each is on a new line with an asterisk.
+
+Then, for the summary, I need to condense the article into 200 words, keeping as many of those moral words as possible. The summary should reflect the original's tone, emphasizing the moral issues, like the corrupt tree metaphor and the implications of Trump's associates' actions.
+
+I should also make sure the summary flows well and covers the key points: Trump not being indicted, the implications of his associates' crimes, the contrast with Obama's administration, and the overall moral judgment against Trump.
+
+I need to avoid any markdown in the thinking process, just plain English. Let me start by identifying the morally framed words first, then structure the summary accordingly.
+</think>
+
+**STEP 1:**  
+* Good  
+* Evil  
+* Indicted  
+* Guilty  
+* Exempt  
+* Prosecutors  
+* Criminal  
+* Felonies  
+* Co-conspirator  
+* Defenders  
+* Slavish  
+* Cultlike  
+* Foul  
+* Fruit  
+* Criminals  
+* Felonious  
+* Probity  
+* Scandal  
+* Animus  
+* Corruption  
+* Misdemeanor  
+* Hush money  
+* Lies  
+* Admit  
+* Sacrifices  
+* Devotion  
+* Convictions  
+* Collusion  
+* Leverage  
+* Noxious  
+* Corrupt  
+
+**SUMMARY:**  
+The article discusses the moral implications of the U.S. Justice Department's policy of not indicting a sitting president, allowing Donald Trump to remain in office despite being implicated in criminal activity by his associates. It highlights Trump's association with individuals of "felonious character," such as Michael Cohen and Paul Manafort, who have pleaded guilty or been convicted of crimes. Trump's defenders are criticized for their cultlike loyalty, ignoring the "foul fruit" of his administration. The article contrasts Trump's governance with Barack Obama's, who served without credible corruption allegations. Trump's lies and financial dealings, including hush money payments, are emphasized, suggesting he has not earned the benefit of doubt. The piece concludes that the worst may still be ahead, as Trump's corrupt tree continues to bear noxious fruit.  
+**END OF SUMMARY.**

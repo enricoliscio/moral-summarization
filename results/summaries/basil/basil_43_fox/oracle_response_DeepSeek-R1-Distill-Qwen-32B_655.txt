@@ -1,0 +1,13 @@
+<think>
+Alright, so I need to help the user summarize a news article while preserving the moral framing. The user has specified that the summary should include as many of the morally framed words as possible. The words listed are: respects, respect, appreciate, grateful, support, help, fighting, work, works.
+
+First, I'll read the article to understand the context. It's about Bruce Braley, a Democratic Representative, who made remarks mocking Chuck Grassley, a Republican Senator, during a campaign event. Braley later apologized, emphasizing his respect for Iowa farmers and his support for them. The article also mentions Grassley's spokesperson countering Braley's claims, highlighting Grassley's background and work in the Senate.
+
+Now, I need to identify where the morally framed words are used in the article. Braley uses "respects," "appreciate," "grateful," and "support." He also mentions "fighting" tort reform. The spokesperson uses "work" and "works" in describing Grassley's contributions.
+
+I should structure the summary to include these words. I'll start by stating that Braley is under fire for mocking Grassley, then mention his apology and the use of the moral words. I'll include his support for farmers and his campaign for the Senate. Then, I'll explain the context of the fundraiser and his comments about the Judiciary Committee. Next, I'll mention Grassley's spokesperson's response, using "work" and "works" to highlight Grassley's background and contributions.
+
+I need to keep the summary concise, under 200 words, and make sure it flows naturally while preserving the moral framing. I'll ensure that each of the specified words is included where appropriate. Let me draft the summary accordingly, making sure it's clear and includes all necessary points without exceeding the word limit.
+</think>
+
+SUMMARY: Iowa Democratic Rep. Bruce Braley faced criticism after a video surfaced where he mocked Sen. Chuck Grassley, a Republican, as a "farmer from Iowa who never went to law school" during his Senate campaign. Braley apologized, stating he "respects" Grassley and "appreciates" Iowa farmers, expressing gratitude for their support. The video, released by a conservative PAC, showed Braley speaking to lawyers in Texas, where he emphasized his background in fighting tort reform and contrasted it with Grassley's lack of legal experience. Grassley's spokesperson countered, arguing that Braley's logic would disqualify him from speaking on key issues and highlighted Grassley's "strong record" on the Judiciary Committee, as well as his role as a working farmer bringing "Iowa common sense" to policy matters. Braley's remarks sparked debate over qualifications and representation in the Senate. END OF SUMMARY.

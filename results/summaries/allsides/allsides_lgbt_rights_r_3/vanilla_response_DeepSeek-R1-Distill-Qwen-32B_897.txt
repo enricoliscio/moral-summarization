@@ -1,0 +1,12 @@
+Okay, so the user has given me a query where I need to summarize a news article about Drew Brees. They provided the article, which is about Brees supporting a Bible program and facing backlash from the LGBTQ community. The user wants the summary to start with "SUMMARY:" and end with "END OF SUMMARY." Also, it should be no longer than 200 words.
+
+First, I need to read through the article carefully. It mentions that Brees supports a program where kids bring Bibles to school. He made a video encouraging them to share their faith. Then, the LGBTQ lobby criticized him, calling him a bigot and associating him with a group that supports conversion therapy. Brees responded by clarifying his stance, saying he supports love and respect for all and doesn't back discriminatory groups.
+
+I should structure the summary to include the main points: Brees' support of the program, the backlash, and his response. I need to keep it concise, under 200 words, so I'll have to be brief but comprehensive.
+
+I'll start by stating that Brees faced backlash for supporting the program. Then mention the critics' accusations, including the use of terms like "racist" and "conversion therapy." Next, I'll include Brees' response where he clarifies his support for inclusivity and denies backing any discriminatory groups. Finally, I'll note that he hopes to move past the controversy.
+
+I should make sure the summary flows well and covers all key points without getting too detailed. Also, I need to ensure it starts and ends with the specified tokens. Let me put it all together, keeping an eye on the word count.
+</think>
+
+SUMMARY: NFL quarterback Drew Brees faced backlash from the LGBTQ community for supporting a program encouraging children to bring Bibles to school and share their Christian faith. Brees, an outspoken Christian, promoted the initiative in a video, emphasizing love and support for others. Critics accused him of associating with a "racist" and "anti-gay" group linked to conversion therapy and discrimination. Deadspin and others called him a bigot. Brees responded on Instagram, denying ties to discriminatory groups and reiterating his commitment to "love all, respect all, and accept all." He clarified his support was solely for the Bible program and hoped to move past the controversy. END OF SUMMARY.

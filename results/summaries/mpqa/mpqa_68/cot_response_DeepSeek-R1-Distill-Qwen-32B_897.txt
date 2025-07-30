@@ -1,0 +1,41 @@
+Alright, so I need to help the user with their query. They provided a news article about Japan and the U.S. differing on global warming issues, specifically regarding the Kyoto Protocol. The user wants me to act as a news summarizer and a moral expert, summarizing the article while preserving the moral framing. 
+
+First, I should break down the task. The user has two main steps: identifying morally framed words and then writing a summary. 
+
+For step one, I need to go through the article and pick out single words that carry moral connotations. Words like "rejected," "hurt," "voluntary," "mandatory," "effective," "ineffective," "hope," "continue," "improve," "further," "cooperate," "volunteer," "criticized," "ineffective," "hurt," "voluntary," "mandatory," "effective," "ineffective," "hope," "continue," "improve," "further," "cooperate." These words imply judgment or evaluation, so they're morally framed.
+
+Next, the summary. I need to condense the article, keeping it under 200 words. I should include the key points: the leaders' differing views, Bush rejecting Kyoto, his alternative plan, Koizumi's support for Kyoto but acknowledging the U.S. plan as constructive, the criticism from environmentalists, and their agreement to cooperate on new technologies. I must preserve the moral framing words identified earlier to maintain the original tone.
+
+I should start by stating the leaders' differing views on the Kyoto Protocol. Then, mention Bush's rejection and his alternative plan, highlighting that it's voluntary. Koizumi's stance on Kyoto and his hope for U.S. efforts. Environmentalists' criticism of the plan as ineffective. Finally, their agreement to cooperate on new technologies for mutual benefits.
+
+I need to make sure the summary flows well, is concise, and includes all the necessary morally framed words without making it too wordy. Let me structure it step by step, ensuring each key point is covered succinctly.
+</think>
+
+**STEP 1:**  
+* Rejected  
+* Hurt  
+* Voluntary  
+* Mandatory  
+* Effective  
+* Ineffective  
+* Hope  
+* Continue  
+* Improve  
+* Further  
+* Cooperate  
+* Volunteer  
+* Criticized  
+* Ineffective  
+* Hurt  
+* Voluntary  
+* Mandatory  
+* Effective  
+* Ineffective  
+* Hope  
+* Continue  
+* Improve  
+* Further  
+* Cooperate  
+
+**SUMMARY:**  
+Japanese Prime Minister Junichiro Koizumi and U.S. President George W. Bush differed over the Kyoto Protocol during their summit, with Bush rejecting the agreement and proposing an alternative plan. Koizumi expressed hope for U.S. cooperation, calling the new plan "constructive" but emphasizing the need for further efforts. Bush's alternative, which relies on voluntary limits on greenhouse gas emissions tied to economic growth, has been criticized as ineffective by environmentalists. Despite their differences, both leaders agreed to cooperate on global warming initiatives, including working with developing nations and advancing new technologies to benefit both the environment and economies. END OF SUMMARY.

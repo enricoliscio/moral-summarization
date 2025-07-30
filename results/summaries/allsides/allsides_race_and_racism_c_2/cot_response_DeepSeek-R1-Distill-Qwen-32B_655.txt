@@ -1,0 +1,71 @@
+Alright, so the user has provided a query where they want me to act as a news summarizer assistant and a moral expert. They've given a specific news article and instructions on how to process it. Let me break down what they need.
+
+First, the user wants me to identify all the single words that are morally framed in the article. They mentioned to label this step as "STEP 1:" and list each word with a bullet point starting with *. I need to go through the article and pick out words that carry moral connotations. Words like "unveiled," "prominent," "exceptional," "gratitude," "sacrifices," "virtues," "desecrate," "fashionable," "banished," "persecuted," "revolution," "civilization," "poverty," "disease," "violence," "hunger," "achievement," "discovery," "progress," "symbol," "heritage," "destruction," "preservation," "service," "sacrifice," "gratitude," "respect," "appreciation," "honor," "remembrance," "accountability," "shared," "identity," "common," "inheritance," "wisdom," "history," "ideals," "values," "pride," "hope," "future," "unity," "division," "freedom," "oppression," "equality," "justice," "integrity," "courage," "loyalty," "patriotism," "loyalty," "service," "sacrifice," "gratitude," "respect," "appreciation," "honor," "remembrance," "accountability," "shared," "identity," "common," "inheritance," "wisdom," "history," "ideals," "values," "pride," "hope," "future," "unity," "division," "freedom," "oppression," "equality," "justice," "integrity," "courage," "loyalty," "patriotism."
+
+Next, the user wants a summary of the news article that preserves the moral framing. The summary should start with "SUMMARY:" and end with "END OF SUMMARY." It should be concise, no longer than 200 words. I need to ensure that the morally framed words are included as much as possible.
+
+I should also note that the user provided an example response, which I can use as a reference to ensure I'm following the correct format. They emphasized the importance of preserving the moral framing, so I need to focus on the key points where the article discusses the creation of the National Garden, the inclusion of various statues, the criticism of removing Confederate statues, and the broader moral arguments presented.
+
+I'll start by summarizing the main points: the creation of the National Garden, the list of figures included, the task force's role, the timeline, and the response to the removal of Confederate statues. I'll make sure to incorporate the morally charged words to reflect the article's tone and arguments.
+
+I also need to ensure that the summary flows well and stays within the word limit. I'll check each sentence to make sure it's concise and captures the essence of the article without unnecessary details.
+
+Finally, I'll review the summary to ensure it accurately reflects the moral framing, highlighting the preservation of heritage, the rejection of destruction, and the celebration of American heroes. I'll make sure all the key points are covered and that the summary remains within the specified word count.
+</think>
+
+**STEP 1:**  
+* Unveiled  
+* Prominent  
+* Exceptional  
+* Gratitude  
+* Sacrifices  
+* Virtues  
+* Desecrate  
+* Fashionable  
+* Banished  
+* Persecuted  
+* Revolution  
+* Civilization  
+* Poverty  
+* Disease  
+* Violence  
+* Hunger  
+* Achievement  
+* Discovery  
+* Progress  
+* Symbol  
+* Heritage  
+* Destruction  
+* Preservation  
+* Service  
+* Sacrifice  
+* Gratitude  
+* Respect  
+* Appreciation  
+* Honor  
+* Remembrance  
+* Accountability  
+* Shared  
+* Identity  
+* Common  
+* Inheritance  
+* Wisdom  
+* History  
+* Ideals  
+* Values  
+* Pride  
+* Hope  
+* Future  
+* Unity  
+* Division  
+* Freedom  
+* Oppression  
+* Equality  
+* Justice  
+* Integrity  
+* Courage  
+* Loyalty  
+* Patriotism  
+
+**SUMMARY:**  
+The White House has unveiled an executive order to create a "National Garden of American Heroes," featuring statues of prominent figures like John Adams, Susan B. Anthony, and Martin Luther King Jr. The order emphasizes the importance of preserving historical monuments as "silent teachers" that reflect the nation's values and heritage. It criticizes the recent trend of removing Confederate statues, arguing that such destruction desecrates the "common inheritance" of future generations. President Trump condemned the "new far-left fascism" for seeking to erase historical symbols, claiming it aims to overthrow the American Revolution and erase the civilization that brought progress and prosperity. The garden, set to open by July 4, 2026, will honor heroes who contributed to the nation, while also addressing calls to remove statues tied to slavery and racism. The executive order highlights the need to balance historical preservation with accountability, ensuring that the nation's shared identity and values are upheld. END OF SUMMARY.

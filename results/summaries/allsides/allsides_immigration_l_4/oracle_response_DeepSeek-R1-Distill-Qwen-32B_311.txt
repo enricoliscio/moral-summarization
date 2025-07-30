@@ -1,0 +1,17 @@
+Okay, so I need to help the user by summarizing a news article while preserving the moral framing. The user provided the article and a list of morally framed words that the author used. My task is to create a concise summary, under 200 words, using as many of those words as possible.
+
+First, I'll read through the article to understand the main points. The article discusses Donald Trump's revised travel ban, its impact on refugees, reactions from affected countries, and the UN's response. The moral framing is evident in words like "ban," "violence," "persecution," and "leadership."
+
+I need to identify key events: the UN's criticism, the exclusion of Iraq, the muted response compared to the original ban, and the legal clarifications. Also, the emotional impact on refugees and the UN's call for humanitarian leadership are important.
+
+I should structure the summary to include the UN's concerns, the affected countries' reactions, and the implications of the revised order. I'll make sure to incorporate words like "ban," "suspends," "persecution," "dying," "protection," and "leadership."
+
+I'll start by mentioning the UN's criticism, then the countries' disappointment, the details of the revised order, the UN's emphasis on humanitarian ideals, and the potential consequences for refugees. I'll end with the call for global leadership and the impact on vulnerable populations.
+
+I need to keep it concise, so I'll focus on the most impactful points without getting bogged down in details. Ensuring that the moral words are included naturally within the summary is crucial. I'll avoid any markdown and keep the language clear and direct.
+
+Let me draft the summary, making sure to include all necessary elements and the specified words. I'll check the word count to ensure it's under 200 words. Once done, I'll present it as per the user's instructions, starting with "SUMMARY:" and ending with "END OF SUMMARY."
+</think>
+
+SUMMARY:  
+The United Nations has criticized Donald Trump’s revised travel ban, arguing it will exacerbate the suffering of refugees fleeing war, violence, and persecution. The ban blocks entry to citizens from six countries—Iran, Somalia, Sudan, Yemen, Syria, and Libya—for 90 days and suspends the US refugee program for 120 days. UN officials, including Filippo Grandi, emphasized that refugees are not criminals but ordinary people forced to flee their homes. While some countries expressed disappointment, the response was less vocal than the outrage over the original ban. The revised order excludes Iraq, a key ally in the fight against ISIS, and includes small legal clarifications, such as allowing permanent residents and visa holders to enter. However, Grandi warned that the decision, though temporary, could compound the anguish of those affected. The UN highlighted the importance of humanitarian leadership, urging the US to continue its role in protecting vulnerable populations. The revised ban has sparked concerns about its impact on refugees, particularly Somalis in Kenyan camps hoping to resettle in the US. Critics argue the measures are unnecessary, divisive, and wrong, abdicating international responsibilities. END OF SUMMARY.

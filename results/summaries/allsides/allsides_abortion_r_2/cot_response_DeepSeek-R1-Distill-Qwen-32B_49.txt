@@ -1,0 +1,32 @@
+Okay, so the user has given me a task to summarize a news article while preserving the moral framing. They want me to first identify all the morally framed single words and then write a concise summary.
+
+First, I need to read the article carefully. It's about President Trump speaking at the March for Life rally, which is anti-abortion. The article mentions his speech, the mission of the rally, a Gallup poll showing high dissatisfaction with abortion laws, and various state laws and court cases related to abortion.
+
+For the first step, I have to find all the single words that carry moral connotations. Words like "anti-abortion," "defender," "wonderfully made," "radical," "extreme," "taxpayer-funded," "ban," "outlawed," "restrictive," "strict," "illegal," "expanded," and "expanded" again. These words are charged with moral implications, reflecting the pro-life stance and the dissatisfaction with current policies.
+
+Next, I need to write a summary that includes as many of these moral words as possible. The summary should be under 200 words, so I have to be concise. I'll start by mentioning Trump's speech and his moral stance. Then, I'll touch on the rally's mission and the poll results showing increased dissatisfaction. I'll include the state laws and the court cases, making sure to use the morally framed words where appropriate.
+
+I have to ensure that the summary flows well and covers all the key points without losing the moral perspective. I'll also need to mention the Gallup poll's findings about the shift in public opinion and the various state actions, tying them back to the moral framing.
+
+I should double-check that I'm not missing any important details, like the mention of the Supreme Court case and the public support for Roe v. Wade. Including these points will provide a comprehensive overview while maintaining the moral context.
+
+Finally, I'll make sure the summary starts with "SUMMARY:" and ends with "END OF SUMMARY." and that it's within the word limit. I'll review the summary to ensure it accurately reflects the original article's moral framing and that all key points are included succinctly.
+</think>
+
+**STEP 1:**  
+* anti-abortion  
+* defender  
+* wonderfully made  
+* radical  
+* extreme  
+* taxpayer-funded  
+* ban  
+* outlawed  
+* restrictive  
+* strict  
+* illegal  
+* expanded  
+* expanded  
+
+**SUMMARY:**  
+President Trump addressed the anti-abortion March for Life rally, emphasizing his administration's commitment to protecting unborn children and criticizing Democrats for supporting taxpayer-funded abortion. The rally's mission is to promote the dignity of human life by opposing abortion. A new Gallup poll shows record-high dissatisfaction (58%) with U.S. abortion laws, with many wanting less-restrictive policies. Since Trump's presidency, support for easing abortion restrictions has grown, particularly among Democrats and independents. Meanwhile, several states have enacted restrictive laws, though many remain blocked in court. The Supreme Court is set to hear a case challenging Louisiana's abortion restrictions. While most Americans support keeping Roe v. Wade, many also endorse additional restrictions, such as waiting periods and ultrasound requirements. END OF SUMMARY.

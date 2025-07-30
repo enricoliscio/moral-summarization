@@ -1,0 +1,18 @@
+Alright, so I need to help the user by summarizing this news article. The user provided a detailed article about US foreign policy under Bush, focusing on pragmatism and unilateralism. They want a concise summary, no longer than 200 words, using specific tokens. 
+
+First, I should read through the article carefully to understand the main points. The article talks about the US becoming the sole superpower post-Cold War, Bush's policies, the NMD deployment, the Kyoto Protocol, and the Comprehensive Test Ban Treaty. It also mentions the response to the 9/11 attacks and the handling of Pakistan.
+
+I need to identify key events and themes. The main themes are pragmatism and unilateralism in US foreign policy. The NMD deployment is a significant example, despite international opposition. The Bush administration's stance on international treaties like the Kyoto Protocol and CTBT shows their unilateral approach. The 9/11 response and the shift in US-Pakistan relations illustrate how the US uses pragmatism to suit its interests.
+
+I should structure the summary to cover these points: the US as a sole superpower, Bush's policies, specific examples like NMD, treaties, and the post-9/11 strategy. I need to keep it concise, ensuring each point is clear without going into too much detail.
+
+I also need to remember the formatting: start with "SUMMARY:" and end with "END OF SUMMARY." Keeping it under 200 words is crucial. I'll make sure each sentence is impactful and covers the main ideas without unnecessary details.
+
+Finally, I'll review the summary to ensure it's accurate and flows well, making sure it captures the essence of the article without missing any critical points.
+</think>
+
+SUMMARY:  
+Following the Cold War, the United States emerged as the sole superpower, with its foreign policy increasingly driven by pragmatism and unilateralism. Under Bush's administration, these principles defined US diplomacy, particularly in the deployment of the National Missile Defense (NMD) system, despite global opposition. The US sought to revise the Anti-Ballistic Missile Treaty (ABM) and accelerate NMD development, asserting it was a "Cold War relic." The US also withdrew from international agreements like the Kyoto Protocol and the Comprehensive Test Ban Treaty, prioritizing national interests over global cooperation.  
+
+The Sino-US plane collision incident exemplified the US's pragmatic and unilateral approach, as it initially refused to apologize to China but later did so under pressure. Post-9/11, the US framed its "war on terrorism" as a global effort, using multilateral support to enhance its unilateral stance. This was evident in its shifting relationship with Pakistan, which moved from sanctions to alliance after 9/11. Overall, the Bush administration's foreign policy reflected a strategy of advancing US dominance while disregarding international norms that constrained its freedom of action.  
+END OF SUMMARY.

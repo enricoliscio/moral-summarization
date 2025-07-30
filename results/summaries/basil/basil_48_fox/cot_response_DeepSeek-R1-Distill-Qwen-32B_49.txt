@@ -1,0 +1,27 @@
+Alright, so I need to help the user with this query. They provided a news article and asked for a summary that preserves the moral framing. They also want me to first identify the morally framed words.
+
+First, I should read the article carefully. It's about Elizabeth Lauten, a communications director, who posted critical comments about the Obama daughters on Facebook. She criticized their outfits and behavior, then apologized.
+
+Now, for the first step, I need to find all the single words that carry moral implications. Words like "critical," "class," "respect," "disrespect," "hurtful," "apologized," "judged," "grow," and "public." These words are used to convey judgment or evaluation, so they're morally framed.
+
+Next, the summary. I need to condense the article, keeping those moral words. I should mention Lauten's criticism, the specifics of her comments, the apology, and the context of the Thanksgiving event. I also need to note that no official comments were made.
+
+I should make sure the summary is under 200 words and includes all the key points without losing the moral tone. I'll start by stating her role and the reason for her apology, then detail her criticisms, the apology itself, and the lack of response from others.
+
+Let me structure it: introduce Lauten and her apology, describe her critical comments, mention the event, then her apology and its context, and finally the lack of public comment. That should cover everything succinctly while preserving the moral framing.
+</think>
+
+**STEP 1:**  
+* Critical  
+* Class  
+* Respect  
+* Disrespect  
+* Hurtful  
+* Apologized  
+* Judged  
+* Grow  
+* Public  
+
+**SUMMARY:**  
+Elizabeth Lauten, a communications director for Republican Rep. Stephen Fincher, apologized for a Facebook post criticizing the Obama daughters, Malia and Sasha, during President Obama's Thanksgiving address. Lauten had called their outfits inappropriate for a public event and questioned their role as "good role models," implying their parents did not respect their positions. She later apologized, acknowledging her judgment was hurtful and vowing to learn from the experience. The incident occurred during the traditional turkey pardon ceremony, a practice dating back to 1947. Neither the White House nor Rep. Fincher responded publicly.  
+**END OF SUMMARY.**

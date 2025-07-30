@@ -1,0 +1,26 @@
+Alright, so the user has given me a query where I need to act as a news summarizer assistant and a moral expert. They provided a detailed news article about a school shooting and specific instructions on how to process it. 
+
+First, I need to understand the task. They want me to identify all the morally framed single words in the article. Then, I have to summarize the article while preserving those moral framings. The summary should be concise, under 200 words, and structured with specific tokens.
+
+Looking at the article, I notice several words that carry moral connotations. Words like "tragedy," "terrible," "praying," "horrible," "crisis," "unconscionable," and "safety" stand out. These words evoke emotions and highlight the moral aspects of the situation.
+
+Next, I need to create a summary that includes these words. I should start by outlining the main events: the shooting, the injuries, the suspect, the response, and the community's reaction. I'll make sure to incorporate the moral words to reflect the author's framing.
+
+I also need to structure the summary correctly, starting with "SUMMARY:" and ending with "END OF SUMMARY." I must keep it under 200 words, so I'll be concise but include all key points. 
+
+I should check that each morally framed word is included and that the summary flows naturally. It's important to maintain the tone and the moral perspective presented in the original article.
+
+Finally, I'll review the summary to ensure it meets all the requirements: correct tokens, word count, inclusion of moral terms, and clarity of the events.
+</think>
+
+**STEP 1:**  
+* Tragedy  
+* Terrible  
+* Praying  
+* Horrible  
+* Crisis  
+* Unconscionable  
+* Safety  
+
+**SUMMARY:**  
+A male student was detained after a shooting at Noblesville West Middle School in Indiana, leaving a teacher and student critically injured. The suspect, who entered the classroom with two handguns, was swiftly tackled by a teacher, preventing further harm. The teacher, identified as Jason Seaman, was shot multiple times and underwent surgery. Authorities are investigating the incident, with no further threats detected at the school. The community, including politicians and first responders, expressed solidarity and support. The shooting sparked calls for action to address the national crisis of school violence, emphasizing the need to protect students from fear and harm. The incident occurred a week after a deadly attack at a Texas high school. **END OF SUMMARY.**

@@ -1,0 +1,32 @@
+Okay, so I need to help the user by summarizing the given news article while preserving the moral framing. Let me break down what the user is asking for. They provided a news article about Republican senators pressuring Michael Steele to apologize for his comments on the Afghanistan war. 
+
+First, the user wants me to identify all the single words that are morally framed. I should look for words that carry a moral judgment or implication. Words like "pressure," "apologize," "backlash," "resignation," "unacceptable," "inaccurate," "wildly inaccurate," "furious," "controversy," "quell," "furore," "necessary," "support," "failure," and "unfit." These words carry a sense of right or wrong, blame, or duty.
+
+Next, I need to write a summary of the article that includes as many of these morally framed words as possible. The summary should be concise, no more than 200 words. I'll start by outlining the main points: Steele's comments, the backlash from senators, their demands for an apology, his attempt to clarify, and the ongoing controversy. I'll make sure to include the morally charged words to maintain the original tone.
+
+I should also ensure that the summary flows naturally and covers all key aspects without getting too detailed. I'll check the word count to stay within the limit. It's important to preserve the moral framing, so I'll use words like "pressure," "apologize," "backlash," and "resignation" to reflect the criticism and the calls for accountability.
+
+Finally, I'll structure the summary to include each of these elements, making sure it's clear and concise. I'll avoid any markdown and keep the language natural, as per the user's request. Let me put it all together now.
+</think>
+
+**STEP 1:**  
+* Pressure  
+* Apologize  
+* Backlash  
+* Resignation  
+* Unacceptable  
+* Inaccurate  
+* Wildly inaccurate  
+* Furious  
+* Controversy  
+* Quell  
+* Furore  
+* Necessary  
+* Support  
+* Failure  
+* Unfit  
+
+**SUMMARY:**  
+Republican senators pressured RNC Chairman Michael Steele to apologize for his controversial claim that Afghanistan is "Obama's war" and may not be winnable. Prominent conservatives, including Sen. Jim DeMint and Sen. John McCain, criticized Steele's remarks as "unacceptable" and "wildly inaccurate," calling for him to refocus on the election and support the troops. DeMint emphasized that the war is "America's war," while McCain questioned Steele's ability to continue in his role. Steele attempted to quell the controversy by issuing a statement reaffirming the need to win the war on terror and support the troops, but his efforts did not calm the furor. Conservatives like Bill Kristol continued to push for Steele's resignation, arguing his comments were a failure of leadership and that he was unfit to lead the party.  
+
+**END OF SUMMARY.**

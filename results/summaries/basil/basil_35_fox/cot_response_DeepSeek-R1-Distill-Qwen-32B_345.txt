@@ -1,0 +1,35 @@
+Alright, so the user has provided a query where they want me to act as a news summarizer and a moral expert. The task is to summarize a given news article while preserving the moral framing. They've broken it down into two steps: first, identifying morally framed words, and then writing a summary that includes those words.
+
+First, I need to understand what constitutes a morally framed word. These are words that carry a judgment or imply a moral evaluation, such as "failure," "negligent," or "ignored." I'll go through the article and pick out each word that fits this category.
+
+Next, the summary needs to be concise, under 200 words, and include as many of these moral terms as possible. I should ensure that the summary reflects the original article's moral stance, highlighting the failures and negligence without adding my own bias.
+
+I also notice that the user provided an example response. I should make sure my approach aligns with that, ensuring consistency in how I identify the words and structure the summary.
+
+I'll start by reading the article carefully, noting each morally charged word. Then, I'll craft a summary that encapsulates the key points, making sure to include those words to maintain the moral framing. I'll keep the language clear and direct, sticking to the facts but emphasizing the moral implications as presented in the original text.
+
+Finally, I'll review my work to ensure it meets all the user's requirements: correct identification of words, a concise summary, and preservation of the moral tone. I'll make sure the summary doesn't exceed 200 words and that it accurately reflects the article's content and moral perspective.
+</think>
+
+**STEP 1:**
+
+Here are the morally framed words identified in the text:
+
+* Failure  
+* Negligent  
+* Ignored  
+* Ammunition  
+* Beat up  
+* Adequately protected  
+* Severe and growing  
+* Compromised  
+* Cry for help  
+* Surprise  
+* Proactive leadership  
+* Misconduct  
+
+---
+
+**SUMMARY:**  
+
+The controversy over the Obama administration's handling of the Benghazi attack highlights concerns about leadership failure and negligence. State Department spokeswoman Victoria Nuland attempted to strip references to prior attacks to avoid giving Congress "ammunition" to criticize her department. President Obama acknowledged that staff in Benghazi were not "adequately protected." Classified documents revealed warnings about the severe Islamist threat, including a cable detailing compromised security and the presence of Al Qaeda-linked groups. Secretary of State Hillary Clinton claimed she was unaware of the warnings, which former officials described as a "cry for help." Republican Sen. Lindsey Graham questioned why Clinton was not informed, while Gen. Martin Dempsey expressed surprise. The State Department acknowledged a lack of proactive leadership but found no misconduct. END OF SUMMARY.

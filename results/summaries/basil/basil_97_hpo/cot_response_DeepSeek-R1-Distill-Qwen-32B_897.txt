@@ -1,0 +1,39 @@
+Okay, so I need to help the user with their query. They provided a news article and specific instructions. Let me break down what they're asking for.
+
+First, they want me to identify all the single words that are morally framed in the article. They mentioned this as Step 1, and each word should be listed with an asterisk. Then, I need to write a summary of the article, preserving the moral framing as much as possible, and keep it under 200 words.
+
+Looking at the article, I notice several words that carry moral connotations. Words like "landmark," "priority," "expand," "transparency," "attack," "inequality," "empower," "right side of history," "corruption," "opposition," "power grab," "assault," "unnecessary," "restrict," "opponent," "popular," "front and center," "fight." These words seem to carry the moral framing the author intended.
+
+Next, for the summary, I need to include these words where appropriate to maintain the moral tone. I should start by stating the bill's passage, mention its key provisions, and the reactions from both parties. I should also touch on the collaborative process behind the bill and the Republican opposition. Finally, I'll note the future steps and the ongoing fight for reforms.
+
+I need to make sure the summary is concise, around 200 words, and flows naturally while incorporating the morally framed words. I should avoid any markdown and keep the language clear and direct.
+
+Let me draft the summary step by step. Start with the passage of the bill, its provisions, Pelosi's statement, the purpose of the bill, Lofgren and Lewis's quotes. Then, explain the collaborative effort, the Republican opposition, McConnell's stance, Trump's potential veto, and the Democrats' plans moving forward. End with the ongoing fight for reforms.
+
+I think that covers all the key points and maintains the moral framing as required. Let me check the word count to ensure it's under 200. It seems to be within the limit. I'll make sure each morally framed word is included where it makes sense without forcing them in awkwardly.
+
+Alright, I think I'm ready to present the final response as per the user's instructions.
+</think>
+
+**STEP 1:**  
+* Landmark  
+* Priority  
+* Expand  
+* Transparency  
+* Attack  
+* Inequality  
+* Empower  
+* Right side of history  
+* Corruption  
+* Opposition  
+* Power grab  
+* Assault  
+* Unnecessary  
+* Restrict  
+* Opponent  
+* Popular  
+* Front and center  
+* Fight  
+
+**SUMMARY:**  
+The For The People Act, a landmark campaign finance and voting rights reform bill, passed the House of Representatives, marking a historic step toward empowering the American people and reducing the influence of elites and special interests. The bill aims to expand voting access, restore rights to ex-felons, increase transparency in politics, and end gerrymandering. Democrats, including Rep. Zoe Lofgren and Rep. John Lewis, celebrated the legislation as a chance to be on the "right side of history." However, Republicans opposed the bill, labeling it a federal power grab that threatens free speech and unnecessarily restricts workers. The Senate, led by Majority Leader Mitch McConnell, a staunch opponent of such reforms, is unlikely to take up the bill. Despite this, Democrats remain committed to fighting for these reforms, with plans to push individual provisions and reauthorize the Voting Rights Act. The passage of the bill represents the first step in a broader effort to address endemic corruption and ensure fair elections. END OF SUMMARY.

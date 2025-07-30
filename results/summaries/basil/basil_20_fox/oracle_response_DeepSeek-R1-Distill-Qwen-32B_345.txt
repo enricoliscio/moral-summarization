@@ -1,0 +1,18 @@
+Okay, so I need to help the user by summarizing this news article while preserving the moral framing. The user has specified that I should use the morally framed words provided, and keep the summary under 200 words. Let me break this down.
+
+First, I'll read through the article to understand the main points. Rick Santorum criticized Obama's environmental policies, calling them a "phony theology." He argues that Obama's approach puts the Earth's stewardship above people's welfare. Santorum emphasizes that man should use resources wisely but not serve the Earth. The Obama campaign responded, calling Santorum's remarks a personal affront and destructive, suggesting the focus should be on political issues, not character or faith.
+
+Next, I need to identify the morally framed words the author used. They include: remarks, pessimism, negativity, focused, creating, restoring, politicization, attempt, centralize, give, approaches, nastiness, divisiveness, ugliness, distortions. I should incorporate as many of these as possible into the summary.
+
+I'll structure the summary to first state Santorum's criticism, using "remarks" and "phony theology." Then, mention his belief that man should use resources wisely, using "approaches" and "centralize." The Obama campaign's response should highlight "personal affront," "destructive," "nastiness," "divisiveness," and "ugliness." I'll also include that the campaign wants to focus on policies, not character.
+
+I need to ensure the summary flows well and stays within the word limit. I'll start with Santorum's criticism, his stance on environmental policies, the campaign's response, and conclude with the contrast in focus between Santorum and Obama.
+
+Let me draft this step by step, making sure each moral word is appropriately placed without making the summary too verbose. I'll check the word count to ensure it's under 200 words. Also, I'll make sure to use the required tokens at the beginning and end.
+
+Finally, I'll review the summary to ensure it captures all key points and maintains the moral framing as per the user's request.
+</think>
+
+SUMMARY:  
+Rick Santorum criticized President Obama's environmental policies, calling them a "phony theology" that prioritizes the Earth over people. He argued that man should use resources wisely, not serve the Earth, and accused radical environmentalists of having an upside-down worldview. Santorum emphasized that Obama's agenda, which he described as "not about you," focuses on a "phony ideal" rather than jobs or quality of life. The Obama campaign condemned Santorum's remarks as a "personal affront," calling them destructive and a "low" in the GOP race. They accused the campaign of "nastiness," "divisiveness," and "ugliness," while highlighting Obama's focus on "creating jobs" and "restoring economic security." Santorum denied questioning Obama's faith, stating he was targeting Obama's "worldview" and the "politicization" of environmental issues. The campaign urged a focus on policy debates rather than character attacks, emphasizing Obama's commitment to "centralizing power" and "giving" more authority to the government. Santorum's comments were seen as part of a "race to the bottom" in the Republican primary.  
+END OF SUMMARY.

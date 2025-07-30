@@ -1,0 +1,36 @@
+<think>
+Okay, so I need to help the user by summarizing a news article while preserving the moral framing. The user has given me specific instructions, so I should make sure to follow them carefully. 
+
+First, I have to identify all the single words in the article that are morally framed. That means looking for words that carry a moral judgment or evaluation. I'll go through the article sentence by sentence.
+
+The article starts by talking about Rep. Michele Bachmann declining to engage with Newsweek over their cover story titled "The Queen of Rage." The word "unflattering" is a moral term because it's a negative judgment on the photo. Then, Terry O'Neill from NOW calls the cover "sexist," which is clearly a moral term. She mentions a test by Gloria Steinem, which is a method to judge sexism, so "test" might not be moral on its own, but in this context, it's part of a moral argument. 
+
+O'Neill refers to Bachmann as a "serious contender," which is a positive moral framing. Newsweek is accused of casting her as a "nut job," which is a negative moral judgment. The cover is compared to something applied to "wrestlers or somebody who is crazy," so "crazy" is another moral term. They also mention that Newsweek didn't do this to Howard Dean, implying unfair treatment, so "unfair" is a moral word.
+
+Newsweek defends the photo, saying other images were similar. They posted "flattering" photos, which is a positive moral term. Bachmann says she hasn't seen the cover, and when told, she says, "Ah-hah," which isn't moral. O'Neill explains they defend Bachmann to encourage women to run for office, so "defend" and "encourage" are moral. She also says her job is to "defeat" Bachmann, which is a negative moral term. Bozell calls the magazines "dishonest" and says conservatives should "steer away" or demand "editorial oversight," all moral terms.
+
+Now, compiling all these moral words: unflattering, sexist, nut job, crazy, unfair, flattering, defend, encourage, defeat, dishonest, steer away, editorial oversight.
+
+Next, I need to write a summary preserving these moral terms. The summary should be concise, under 200 words. I'll start by mentioning Bachmann's response, the criticism from NOW, the terms used, Newsweek's defense, and the broader implications about media bias and its impact on women in politics. I'll make sure to include the moral words identified.
+
+I should structure the summary to flow logically: Bachmann's reaction, the criticism, Newsweek's defense, O'Neill's stance, Bozell's comments, and the implications. I need to keep it clear and within the word limit. Let me check the word count as I draft to ensure it's under 200.
+
+Finally, I'll present the summary after the "SUMMARY:" token and end with "END OF SUMMARY." I need to make sure the summary is accurate and includes all the key moral points without being too verbose.
+</think>
+
+**STEP 1:**  
+* unflattering  
+* sexist  
+* nut job  
+* crazy  
+* unfair  
+* flattering  
+* defend  
+* encourage  
+* defeat  
+* dishonest  
+* steer away  
+* editorial oversight  
+
+**SUMMARY:**  
+Rep. Michele Bachmann avoided commenting on Newsweek's cover story calling her "The Queen of Rage," but critics argue the magazine's portrayal is sexist. Terry O'Neill of the National Organization for Women (NOW) criticized the cover, using Gloria Steinem's test to highlight gender bias: would a man be labeled "The King of Rage"? O'Neill accused Newsweek of unfairly casting Bachmann as a "nut job," a term more suited for wrestlers or the mentally unstable. Newsweek defended the photo, noting other images of Bachmann were flattering. Bachmann, campaigning in Iowa, said she hadn't seen the cover but acknowledged the story. O'Neill emphasized defending Bachmann to encourage women to run for office, while Brent Bozell of the Media Research Center called the magazine's approach "journalistic dishonesty" and urged conservatives to avoid such outlets. END OF SUMMARY.

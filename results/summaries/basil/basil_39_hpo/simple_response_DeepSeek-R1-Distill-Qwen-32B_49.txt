@@ -1,0 +1,16 @@
+Alright, I need to help the user by summarizing the given news article while preserving the moral framing. First, I should read the article carefully to understand the key points and the moral perspectives involved.
+
+The article is about Mary Cheney criticizing her sister Liz Cheney's stance on same-sex marriage. Mary is openly gay and married, so her perspective is from a personal and moral standpoint about equality and freedom. Liz, on the other hand, opposes same-sex marriage and believes it should be decided by the states. There's also mention of their father, Dick Cheney, who supports same-sex marriage, adding another layer of moral conflict within the family.
+
+I need to capture the moral arguments presented by each Cheney. Mary emphasizes freedom for everyone and equal rights, while Liz argues for states' rights and traditional views. The summary should highlight these opposing moral viewpoints clearly.
+
+I should structure the summary to include the main points: who is involved, their positions, and the family dynamics. Keeping it concise, under 200 words, is important. I'll make sure to mention Mary's support for same-sex marriage, her sister's opposition, and the father's stance as well.
+
+Also, the user wants the summary after a "SUMMARY:" token and ending with "END OF SUMMARY." I need to format it correctly without any markdown, just plain text.
+
+Let me draft the summary, ensuring it's within the word limit and includes all key moral points. I'll check the word count to make sure it's under 200. Once done, I'll present it as per the user's instructions.
+</think>
+
+SUMMARY:  
+Mary Cheney, the openly gay sister of Wyoming U.S. Senate candidate Liz Cheney, criticized her sister's opposition to same-sex marriage in a Facebook post. Mary, who is married to her partner Heather Poe, argued that "freedom means freedom for everyone" and that all families deserve equal rights. Liz Cheney, running in the Republican primary against Sen. Mike Enzi, stated she opposes same-sex marriage and believes the issue should be decided by states and their people, not judges or legislators. This puts Liz at odds with her father, former Vice President Dick Cheney, who supports same-sex marriage and has long advocated for freedom and equality. The family's internal conflict highlights differing moral perspectives on marriage equality and individual rights.  
+END OF SUMMARY.

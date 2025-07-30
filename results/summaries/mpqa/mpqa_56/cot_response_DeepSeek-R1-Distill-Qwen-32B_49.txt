@@ -1,0 +1,23 @@
+Okay, I need to help the user by summarizing a news article while preserving the moral framing. The user has given specific instructions, so I should follow them carefully.
+
+First, I'll read the article to understand the main points. It's about Jordan signing the Kyoto Protocol, which is a UN agreement to reduce greenhouse gas emissions. The article mentions the director of GCEP, the target set by the protocol, and the reactions of other countries like the US and Canada.
+
+The user wants me to identify all single words that are morally framed. I'll go through the article and pick out words that carry a moral connotation. Words like "commitment," "obliged," "opposed," "slammed," "damage," and "reluctance" seem to fit. These words imply actions that are either good or bad in a moral sense.
+
+Next, I need to write a concise summary that includes these moral words. The summary should be under 200 words and include the key points: Jordan's decision, the purpose of the protocol, the US and Canada's reactions, and the EU's stance. I'll make sure to highlight Jordan's commitment and the moral implications of other countries' actions.
+
+I should structure the summary to start with Jordan's decision, mention the protocol's goals, then contrast it with the US and Canada's reluctance, and note the EU's support. This way, the moral framing is preserved by using the identified words and showing the differing stances on the issue.
+
+Finally, I'll make sure the summary flows well and stays within the word limit. I'll double-check that all the key points are included and that the moral language is appropriately highlighted.
+</think>
+
+**STEP 1:**  
+* Commitment  
+* Obliged  
+* Opposed  
+* Slammed  
+* Damage  
+* Reluctance  
+
+**SUMMARY:**  
+Jordan has decided to sign the Kyoto Protocol, a UN agreement aimed at reducing global greenhouse gas emissions, as part of its commitment to international environmental conventions. The protocol, which legally obliges developed countries to cut emissions, has faced opposition from some nations. The US opposed it, citing economic interests, while Canada expressed reluctance due to potential economic damage. Meanwhile, the EU has committed to ratifying the protocol by June 1. Jordan hopes signing the agreement will attract funding to support global efforts against climate change. The decision reflects Jordan's dedication to addressing environmental issues, despite challenges faced by other countries in balancing economic growth with emission reduction. END OF SUMMARY.

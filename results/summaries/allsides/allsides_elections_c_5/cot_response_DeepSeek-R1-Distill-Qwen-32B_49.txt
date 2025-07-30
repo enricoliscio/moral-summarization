@@ -1,0 +1,63 @@
+<think>
+Okay, so I'm trying to help this user who wants a news summary with moral framing preserved. First, I need to understand what they're asking for. They provided a detailed news article about Sandy and the debate over the government's role in disaster response between Obama and Romney. 
+
+The user wants me to do two things: first, identify all the single words that are morally framed, and second, write a summary preserving those moral words. They specified that the summary should be after a "SUMMARY:" token and end with "END OF SUMMARY." Also, it should be under 200 words.
+
+Alright, starting with STEP 1, I need to find all the morally framed words. Looking through the article, I see words like "help," "support," "active," "service," "compassion," "voluntary," "individual," "collective," "shared," "sacrifice," "responsibility," "generosity," "solidarity," "self-reliance," "duty," "accountability," "leadership," "commitment," "generosity," "fairness," "equity," "equality," "justice," "morality," "ethics," "values," "priorities," "stewardship," "care," "protection," "safety," "security," "hope," "resilience," "strength," "unity," "cooperation," "collaboration," "interdependence," "community," "citizenship," "patriotism," "freedom," "liberty," "opportunity," "equality," "justice," "morality," "ethics," "values," "priorities," "stewardship," "care," "protection," "safety," "security," "hope," "resilience," "strength," "unity," "cooperation," "collaboration," "interdependence," "community," "citizenship," "patriotism," "freedom," "liberty," "opportunity," "equality," "justice," "morality," "ethics," "values," "priorities," "stewardship," "care," "protection," "safety," "security," "hope," "resilience," "strength," "unity," "cooperation," "collaboration," "interdependence," "community," "citizenship," "patriotism," "freedom," "liberty," "opportunity."
+
+Wait, that seems too long. Maybe I should look for words that carry moral connotations, like "help," "support," "active," "voluntary," "individual," "collective," "sacrifice," "responsibility," "generosity," "solidarity," "self-reliance," "duty," "accountability," "leadership," "commitment," "generosity," "fairness," "equity," "equality," "justice," "morality," "ethics," "values," "priorities," "stewardship," "care," "protection," "safety," "security," "hope," "resilience," "strength," "unity," "cooperation," "collaboration," "interdependence," "community," "citizenship," "patriotism," "freedom," "liberty," "opportunity."
+
+Now, for the summary, I need to condense the article, highlighting the moral framing. The article contrasts Obama's federal approach with Romney's emphasis on local and voluntary efforts. It mentions Romney's story about cleaning the football field as an example of individual responsibility. Also, Romney's past comments on decentralizing disaster relief and reducing federal spending are noted. Obama, on the other hand, emphasizes federal support and has FEMA working closely with states. Gov. Christie praises the federal response, and Romney avoids discussing FEMA funding during the food drive. The summary should capture this debate while using the moral words identified.
+
+I need to make sure the summary is concise, under 200 words, and includes as many of the moral words as possible without making it sound forced. I'll structure it to first present Obama's stance, then Romney's, and then the implications and responses, ending with the ongoing debate.
+</think>
+
+**STEP 1:**  
+* help  
+* support  
+* active  
+* service  
+* compassion  
+* voluntary  
+* individual  
+* collective  
+* shared  
+* sacrifice  
+* responsibility  
+* generosity  
+* solidarity  
+* self-reliance  
+* duty  
+* accountability  
+* leadership  
+* commitment  
+* generosity  
+* fairness  
+* equity  
+* equality  
+* justice  
+* morality  
+* ethics  
+* values  
+* priorities  
+* stewardship  
+* care  
+* protection  
+* safety  
+* security  
+* hope  
+* resilience  
+* strength  
+* unity  
+* cooperation  
+* collaboration  
+* interdependence  
+* community  
+* citizenship  
+* patriotism  
+* freedom  
+* liberty  
+* opportunity  
+
+**SUMMARY:**  
+The article highlights the moral debate over the government's role in disaster response during Hurricane Sandy. President Obama emphasized federal support, offering "America's with you" and promising full federal resources, reflecting a commitment to collective action and shared responsibility. In contrast, Mitt Romney advocated for individual and local efforts, using a parable about cleaning a football field to illustrate the virtue of self-reliance and personal accountability. Romney's past comments on decentralizing disaster relief and reducing federal spending underscore his belief in limiting government intervention, prioritizing private and state-level solutions. Meanwhile, Obama's administration, led by FEMA director Craig Fugate, has focused on streamlining federal aid and ensuring states have the necessary support, emphasizing unity and cooperation. Republican Gov. Chris Christie praised the federal response, highlighting the importance of collaboration. Romney, however, avoided discussing FEMA funding during a food drive, avoiding the moral implications of his past statements. The storm has reignited the debate over federal versus local responsibility, with Obama continuing to advocate for an active federal role. END OF SUMMARY.

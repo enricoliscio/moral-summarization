@@ -1,0 +1,16 @@
+<think>
+Okay, so the user wants me to summarize a news article about Representative Michael G. Grimm. They provided the article and specified that the summary should be under 200 words, start with "SUMMARY:" and end with "END OF SUMMARY." I need to make sure I capture the key points without going over the word limit.
+
+First, I'll read through the article to identify the main elements. It's about Grimm facing federal fraud charges, including mail and wire fraud, and obstruction of justice. He's a Republican from Staten Island and part of Brooklyn, first elected in 2010. The charges relate to his health food restaurant, Healthalicious, which he owned after leaving the FBI in 2006. There's mention of issues like not carrying workers' compensation insurance and underpaying employees. Two fundraisers were already charged, but the indictment doesn't include campaign finance misuse. His lawyer claims it's a politically motivated case, and Grimm is up for re-election.
+
+I need to structure this concisely. Start with Grimm's expected indictment, his background, the charges, the restaurant issues, the fundraisers, the lack of campaign finance charges, his lawyer's response, and his re-election status. Keep each point brief to stay within 200 words.
+
+I should also make sure the summary flows well and includes all critical information without unnecessary details. Avoid jargon and keep it clear for a general audience. Double-check the facts to ensure accuracy, like the charges, the restaurant's issues, and the fundraisers involved.
+
+Finally, format it correctly with the specified tokens. I think that's all. Let me put it together.
+</think>
+
+SUMMARY:  
+Representative Michael G. Grimm, a Republican from Staten Island and Brooklyn, is expected to be indicted on federal fraud charges, including mail fraud, wire fraud, and obstruction of justice, following a two-year investigation. The charges reportedly stem from his ownership of a health food restaurant, Healthalicious, which faced allegations of labor violations, such as underpaying employees and failing to carry workers' compensation insurance. Two of Grimm's fundraisers have already been charged, but the indictment does not appear to include campaign finance misuse or misuse of his congressional office. Grimm's lawyer claims the investigation is politically motivated and asserts his innocence. Grimm, a former Marine and FBI agent, is up for re-election in November and has a reputation for being hot-tempered, including a recent on-air incident where he threatened a reporter.  
+
+END OF SUMMARY.

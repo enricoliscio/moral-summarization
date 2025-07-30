@@ -1,0 +1,12 @@
+Alright, I need to help the user by summarizing the given news article while preserving the moral framing. The user specified that I should focus on the morally framed words: "have," "own," and "attack." 
+
+First, I'll read the article carefully to understand the context. Taro Kono, a Japanese politician, criticized President Bush's speech. He mentions several points where the US stance is problematic, like the CTBT, BWC, Kyoto Protocol, gun ownership, land mines, SOFA, and attacking Iraq.
+
+I need to ensure that the summary includes these moral words. So, I'll mention how the US "has" a right to own handguns, "own" land mines, and "attack" Iraq. I should also highlight Kono's criticism of the US stance on these issues.
+
+I'll structure the summary to first introduce Kono and his criticism, then list the points he made, using the moral words where appropriate. I'll make sure the summary is concise, under 200 words, and ends with the specified tokens.
+
+Finally, I'll review the summary to ensure it captures the moral framing and stays within the word limit.
+</think>
+
+SUMMARY: Taro Kono, a Japanese politician and son of former Foreign Minister Yohei Kono, criticized President Bush's speech during the Japanese Diet on February 19. In his email magazine, Kono expressed frustration over the US stance on key issues, such as the Kyoto Protocol, CTBT, and BWC, which he argued the US dismisses. He emphasized the need for "value sharing" rather than "burden sharing" or "power sharing" in the US-Japan relationship. Kono highlighted the US's insistence on maintaining its right to "own" handguns, "have" land mines, and "attack" Iraq, while resisting treaty revisions like the SOFA. He noted that ambassadors from Middle Eastern countries sought his reaction to the President's speech. Kono's critique underscores the moral and political tensions between the two nations. END OF SUMMARY.

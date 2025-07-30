@@ -1,0 +1,18 @@
+Alright, so the user has provided a news article and wants a summary. They specified that the summary should be after a "SUMMARY:" token and end with "END OF SUMMARY." Also, it should be no longer than 200 words. 
+
+First, I need to read through the article carefully to understand the main points. The article is about a church shooting in North Texas where a gunman opened fire, killing two people. However, two volunteer security members confronted him, leading to his death and preventing more casualties. 
+
+I should note the key details: the location (White Settlement), the number of people inside the church, the actions of the security team, the casualties, and the context of Texas's gun laws. Also, there's a mention of another attack in New York, which is relevant but perhaps secondary.
+
+I need to condense this information without losing the essential facts. The summary should mention the gunman, the two security members who acted heroically, the casualties, and the quick resolution. Also, include the broader context of church security in Texas after the Sutherland Springs shooting. 
+
+I should ensure the summary flows logically, starting with the incident, the response, the casualties, and the aftermath. I'll also mention the other attack briefly to show the context of violence during the holidays.
+
+Let me structure the summary to include all these points concisely. I need to keep it under 200 words, so I'll focus on the most critical information and avoid unnecessary details. 
+
+I should also make sure to use clear and concise language, avoiding jargon. The summary should be informative and capture the gravity of the situation while highlighting the heroic actions of the security team.
+
+Finally, I'll check the word count to ensure it meets the requirement. Once done, I'll format it correctly with the specified tokens.
+</think>
+
+SUMMARY: A man opened fire with a shotgun at a church in White Settlement, Texas, killing two people. Two volunteer security members fatally shot the gunman, preventing further casualties. Authorities described their actions as "heroic," ending the attack quickly. The church was livestreaming its service, with over 240 attendees present. All victims were male, and the gunman's motive remains unclear. Texas Gov. Greg Abbott praised the quick response and prayed for the community. The incident occurred hours after a knife attack at a Hanukkah celebration in New York, labeled as "domestic terrorism." END OF SUMMARY.

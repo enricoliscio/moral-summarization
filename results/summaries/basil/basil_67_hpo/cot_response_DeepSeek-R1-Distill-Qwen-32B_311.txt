@@ -1,0 +1,31 @@
+Okay, so the user has given me a query where they want me to act as a news summarizer assistant and a moral expert. They provided a news article about former Mexican President Vicente Fox criticizing current President Enrique Peña Nieto for inviting Donald Trump. The task has two parts: first, identifying morally framed words, and second, summarizing the article while preserving those moral terms.
+
+First, I need to understand what morally framed words are. These are words that carry a strong moral judgment, like "harshly criticized," "reject," "traitor," etc. I should go through the article and pick out each of these words.
+
+Looking at the article, I see words like "harshly," "criticized," "rejected," "not welcome," "traitor," "false prophet," "cheating," "desperate," "opportunistic," "offended," "apologize," "respect," "fear-mongering," "sinking," "railing," "false," "cheating," "opportunistic," "desperate," "play with," "respect." I need to list each of these, each on a new line starting with an asterisk.
+
+Next, I need to summarize the article. The summary should include as many of these moral terms as possible. I should keep it concise, under 200 words. The key points are Fox's criticism, Trump's invitation, Fox's warning about traitorous perception, the risks for Peña Nieto, Fox's previous criticism, and Trump's response.
+
+I should structure the summary to include Fox's harsh criticism, the rejection of Trump, the risk of being seen as a traitor, the political risks, Fox's past comments, and Trump's counter. I need to ensure the moral framing is preserved, using words like "harshly," "rejected," "traitor," "opportunistic," "desperate," etc.
+
+I should also make sure the summary flows logically, starting with Fox's criticism, then the invitation, the risks, Fox's warning, his past comments, and Trump's response. I need to keep it clear and within the word limit.
+
+Finally, I should present the identified words in STEP 1 and then the summary after the "SUMMARY:" token, ending with "END OF SUMMARY." I need to double-check that I haven't missed any morally framed words and that the summary accurately reflects the article's content while maintaining the moral tone.
+</think>
+
+**STEP 1:**  
+* harsh  
+* criticized  
+* rejected  
+* not welcome  
+* traitor  
+* false prophet  
+* cheating  
+* desperate  
+* opportunistic  
+* offended  
+* apologize  
+* respect  
+
+**SUMMARY:**  
+Former Mexican President Vicente Fox harshly criticized current President Enrique Peña Nieto for inviting Donald Trump to meet in Mexico, just hours before Trump's anticipated immigration speech in Arizona. Fox stated, "He is not welcome to Mexico," emphasizing that 130 million Mexicans reject Trump's message. Trump, who has long criticized Mexico and its leaders, accepted Peña Nieto's invitation, while Hillary Clinton declined. Fox warned that Peña Nieto risks being seen as a "traitor" if he does not stand up to Trump, accusing Trump of using Mexico to boost his sinking poll numbers. Fox also criticized Trump for fear-mongering about "rapists" and drug dealers from Mexico. Earlier, Fox had apologized for using profanity to rail against Trump but later invited him to "learn about the real Mexico." Trump responded by highlighting Fox's contradictory statements. Fox accused Trump of being a "false prophet" and a "desperate" opportunist, urging U.S. citizens to see through Trump's false promises. Peña Nieto's approval rating is already at a record low, and the meeting could further harm his image. END OF SUMMARY.

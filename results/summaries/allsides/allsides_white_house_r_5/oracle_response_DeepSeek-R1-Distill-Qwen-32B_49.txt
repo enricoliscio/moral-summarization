@@ -1,0 +1,12 @@
+Alright, I need to help the user by summarizing the given news article while preserving the moral framing. The user specified that the summary should include as many of the listed morally charged words as possible. 
+
+First, I'll read through the article to understand the main points. It's about the Obama administration's handling of the Benghazi incident, criticizing their decisions and moral failings. The author uses strong language to convey contempt and betrayal.
+
+I'll identify key events: the administration lied about the attack, Hillary Clinton's dismissive attitude, Obama's indecision, and the military's role. I need to include words like "rot," "contempt," "betrayed," "lies," "disinformation," etc.
+
+I'll structure the summary to highlight the administration's moral failings, their lies, and the consequences for the soldiers. I'll make sure to keep it under 200 words and use the specified moral terms.
+
+Finally, I'll ensure the summary starts with "SUMMARY:" and ends with "END OF SUMMARY." while maintaining a clear and concise narrative that reflects the author's moral judgment.
+</think>
+
+SUMMARY: The Obama administration, influenced by the "60s disease," is criticized for its members' contempt for national institutions and the military. The article accuses the administration of betrayal, lies, and disinformation surrounding the Benghazi attack, where Ambassador Chris Stevens and others were killed. Hillary Clinton, as Secretary of State, dismissed the incident with chilling nonchalance, while Obama allegedly ignored rescue requests. The administration peddled false stories, including the claim that an anti-Islam video caused the riots, to cover up their failures. The article highlights the military's sacrifice and the administration's failure to acknowledge it, with Obama allegedly awarding medals to soothe his conscience. The moral framing underscores the administration's betrayal, lies, and indifference, reflecting a broader contempt for duty and responsibility. END OF SUMMARY.

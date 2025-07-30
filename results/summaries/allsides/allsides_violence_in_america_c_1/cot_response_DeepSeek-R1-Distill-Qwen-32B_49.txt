@@ -1,0 +1,56 @@
+Okay, so I need to help the user summarize a news article while preserving the moral framing. The user provided the article and specific instructions. Let me break this down.
+
+First, the user wants me to identify all single words that are morally framed in the article. They mentioned this as STEP 1, and each word should be listed with a *. I need to go through the article and pick out words that carry moral connotations. Words like "lawless," "brutal," "violent," "unlawful," etc., come to mind. I should make sure to capture all such terms without missing any.
+
+Next, the user wants a summary that includes as many of these morally framed words as possible. The summary should be concise, no longer than 200 words, and start after the "SUMMARY:" token, ending with "END OF SUMMARY." I need to ensure the summary captures the essence of the article, highlighting the moral aspects like the protest zone being lawless, the police's actions, and the reactions from different groups.
+
+I should also be careful to maintain the original moral framing without adding my own bias. The summary needs to be neutral but include the key moral terms. I'll start by outlining the main events: the dismantling of the protest zone, the arrests, the mayor's declaration, the police chief's statement, and the reactions from various individuals and groups.
+
+I need to make sure the summary flows well and includes all the important points without being too verbose. I'll check the word count to stay within the limit. Also, I should avoid any markdown and keep the summary clear and straightforward.
+
+Let me review the article again to ensure I haven't missed any morally charged words. Words like "peaceful," "violent," "lawless," "unlawful," "brutal," "crimes," "protesters," "police," "Mayor," " Attorney General," "commend," "violent crime," "rule of law," "target," "ire," "support," "crackdown," "blame," "violence," "abandoned," "killing," "protests," "racial injustice," "police brutality," "occupied," "Black Lives Matter," "barricaded," "phrases," "coffee," "resistance," "disappeared," "regroup," "revolution," etc., are all part of the moral framing.
+
+I'll structure the summary to include these words, ensuring that the moral perspective is clear. The summary should reflect the conflict, the actions taken by the authorities, and the reactions from both the protesters and the officials. I'll make sure to highlight the opposing viewpoints and the underlying issues like racial injustice and police brutality.
+
+Finally, I'll review the summary to ensure it's within 200 words, includes all key morally framed words, and accurately represents the article's content. I'll also make sure the formatting is correct, with the STEP 1 and SUMMARY sections clearly marked.
+</think>
+
+**STEP 1:**  
+* Lawless  
+* Brutal  
+* Violent  
+* Unlawful  
+* Assembly  
+* Crimes  
+* Protesters  
+* Police  
+* Mayor  
+* Attorney General  
+* Commend  
+* Violent crime  
+* Rule of law  
+* Target  
+* Ire  
+* Support  
+* Crackdown  
+* Blame  
+* Violence  
+* Abandoned  
+* Killing  
+* Protests  
+* Racial injustice  
+* Police brutality  
+* Occupied  
+* Black Lives Matter  
+* Barricaded  
+* Phrases  
+* Coffee  
+* Resistance  
+* Disappeared  
+* Regroup  
+* Revolution  
+
+**SUMMARY:**  
+Seattle authorities dismantled a protest zone, described as "lawless and brutal," following clashes and violent crimes. Police arrested 31 individuals for failure to disperse and other crimes. Mayor Jenny Durkan declared the gathering an "unlawful assembly," while Police Chief Carmen Best criticized the zone for shootings, robberies, and assaults. U.S. Attorney General William Barr praised Best for distinguishing between peaceful protest and violent crime. Protester Harry "Rick" Hearns supported the police action, blaming outsiders for violence. The zone, established after George Floyd's killing, had become less active, with protesters' tents and medic stations removed. Businesses and attorneys pushed for stronger action, including lawsuits to prevent future "lawless zones." Protesters vowed to regroup, emphasizing the ongoing fight for racial justice.  
+
+**END OF SUMMARY.**

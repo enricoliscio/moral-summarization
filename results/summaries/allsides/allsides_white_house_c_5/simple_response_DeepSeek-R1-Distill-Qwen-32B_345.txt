@@ -1,0 +1,23 @@
+Alright, I need to help the user by summarizing the given news article while preserving the moral framing. The user has specified that I should act as a news summarizer assistant and a moral expert. The summary needs to be concise, no longer than 200 words, and include specific tokens at the beginning and end.
+
+First, I'll read through the article to understand the main points. The key elements are:
+
+1. Attorney General Holder assigning two U.S. attorneys to investigate leaks of classified information.
+2. The leaks include sensitive details about a terrorist kill list and an al-Qaida operation.
+3. Calls for an investigation have intensified, with some suggesting political motives, especially around election time.
+4. President Obama denies any intentional leaks from the White House.
+5. Feinstein's cautious stance on appointing a special counsel due to time constraints and her suggestion for legislative changes.
+6. McCain's continued calls for a special counsel.
+7. Holder's statement emphasizing the seriousness of the leaks and their impact on national security.
+
+I need to make sure the summary captures all these points while maintaining the moral perspective, such as the potential misuse of leaks for political gain and the importance of national security.
+
+I'll structure the summary to first mention Holder's assignment, then the context of the leaks and the intensified calls for investigation. I'll include Obama's denial, Feinstein's stance, McCain's call, and Holder's emphasis on the seriousness. I'll keep each sentence concise to stay within the word limit.
+
+I should also ensure that the moral framing is preserved, highlighting the concerns about leaks affecting national security and the political implications. Avoiding any personal opinions, just presenting the facts with their inherent moral implications.
+
+Now, I'll draft the summary, making sure it flows well and covers all necessary points without exceeding 200 words. I'll start with the assignment, move to the context, then the political angles, and conclude with the official responses and their implications.
+</think>
+
+SUMMARY:  
+Attorney General Eric Holder has assigned two U.S. attorneys to investigate possible leaks of classified information, following intensified calls for an inquiry into sensitive national security details, such as a secret terrorist kill list and an al-Qaida infiltration operation. Holder emphasized that such leaks "can compromise the security of this country and all Americans" and will not be tolerated. President Obama denied accusations that the White House intentionally leaked classified material for political gain, calling such claims offensive. Meanwhile, Senator John McCain has suggested the leaks may have been politically motivated to boost President Obama's election prospects, a claim denied by the White House. Senator Dianne Feinstein, chair of the Congressional Intelligence Committee, expressed caution about appointing a special counsel, citing the time it could take, and instead proposed legislation to expand investigatory authority for inspectors general. Holder's move to assign federal prosecutors underscores the seriousness of the situation, with potential criminal prosecutions for those found responsible. END OF SUMMARY.

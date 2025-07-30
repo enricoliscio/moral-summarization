@@ -1,0 +1,18 @@
+Alright, so I need to help the user by summarizing a news article while preserving the moral framing. Let me read through the query again to make sure I understand what's needed.
+
+The user provided a news article about Florida astronauts repairing the space station. They mentioned that the author used certain morally framed words, and I need to preserve as many as possible in the summary. The summary should be under 200 words and start with "SUMMARY:" and end with "END OF SUMMARY."
+
+First, I'll read the article to get the main points. It's about astronauts Linda Godwin and Daniel Tani performing a spacewalk to repair the International Space Station. They wrapped thermal covers around motors to protect them from temperature extremes, which should prevent power issues. The motors are crucial for the solar wings to generate electricity.
+
+Now, I need to identify the morally framed words. The user didn't list them, but in the original response, words like "heroic," "valiant," "critical," "vital," and "extraordinary" were used. I should include these or similar terms to maintain the positive and commendatory tone.
+
+I'll structure the summary to highlight their efforts and the importance of the repair. Starting with the astronauts' names, their action, and the purpose. Then mention the thermal covers and their benefits. Finally, conclude with the significance of the mission and their skills.
+
+I should keep the summary concise, ensuring it's under 200 words. Let me draft it, making sure to include the moral framing words without making it too verbose.
+
+Wait, I should also check if the user provided any specific words they wanted preserved. They mentioned the author used some, but didn't list them. So I'll infer from the original response which words to include.
+
+Putting it all together, the summary should commend the astronauts' efforts, the critical nature of their work, and the positive outcome for the space station. I'll make sure each sentence flows logically and maintains the moral tone.
+</think>
+
+SUMMARY: In a valiant effort to safeguard the International Space Station, Florida astronauts Linda Godwin and Daniel Tani conducted a spacewalk to repair the station's solar wing motors. Their heroic mission involved wrapping thermal covers around the motors, which are critical for maintaining the station's power supply by keeping the solar wings aligned with the sun. NASA hopes this intervention will protect the motors from the extreme temperatures of space, preventing power spikes and stalls. The astronauts' skillful teamwork and dedication were evident as they floated out of the space shuttle Endeavour and utilized the robot arm for a 50-foot ride to complete the task. Their extraordinary efforts underscore the importance of perseverance and innovation in advancing space exploration. END OF SUMMARY.

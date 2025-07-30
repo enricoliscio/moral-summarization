@@ -1,0 +1,32 @@
+Alright, let's tackle this query. The user wants me to act as a news summarizer and a moral expert. They provided a detailed news article about Larry Summers and the tax deal, and they have specific instructions on how to process it.
+
+First, I need to identify all the single words that are morally framed. The user mentioned this as Step 1. I should go through the article and pick out words that carry moral connotations. Words like "failure," "risk," "criticism," "betrayed," "outrage," etc., seem to fit. I'll list each of these with a star.
+
+Next, I have to write a summary preserving the moral framing. The summary should be concise, under 200 words, and include as many of those moral words as possible. I need to make sure the summary captures the key points: Summers warning about the recession, Obama defending the deal, Biden's efforts, the administration's support, and the backlash from Democrats.
+
+I should structure the summary to highlight the conflict and the moral arguments on both sides. Including the economists' projections adds context, but the focus should remain on the moral framing. I'll ensure that the summary flows logically, starting with the administration's stance, then the opposition, and the efforts to persuade Congress.
+
+I need to be careful not to add any new information beyond what's in the article and keep the language clear and concise. Also, I must end with the specified tokens to indicate the end of the summary.
+
+Let me double-check that I've included all the morally framed words and that the summary stays within the word limit. Once that's done, I'll present the step-by-step process and the final summary as per the user's instructions.
+</think>
+
+### STEP 1:  
+* Failure  
+* Risk  
+* Criticism  
+* Betrayed  
+* Uproar  
+* Outrage  
+* Screwed  
+* Fiscally irresponsible  
+* Grossly unfair  
+* Disappointment  
+* Coerced  
+
+---
+
+### SUMMARY:  
+Larry Summers warned that failing to pass the tax deal would increase the risk of a double-dip recession. President Obama defended the deal, emphasizing that it makes sense and urging Congress to act. Vice President Biden is meeting with House Democrats to sell the compromise, while the administration highlights endorsements from economists and Democratic officials. However, the deal has faced criticism from liberal Democrats, who call it "fiscally irresponsible" and "grossly unfair." Some lawmakers, like Representative Peter Welch, argue that Obama should not back down, while others, like Barney Frank, refuse to vote for the deal, feeling coerced. The administration’s efforts to quell outrage are met with strong opposition, as many Democrats remain firmly opposed.  
+
+END OF SUMMARY.

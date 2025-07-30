@@ -1,0 +1,62 @@
+Okay, I need to help the user with their query. They provided a news article and specific instructions on how to process it. Let me break it down.
+
+First, the user wants me to act as a news summarizer and a moral expert. My task is to summarize the article while preserving the moral framing. They've given a two-step process: identifying morally framed words and then writing a summary that includes as many of those words as possible.
+
+Starting with STEP 1: I need to go through the article and pick out all the single words that carry a moral connotation. I'll read through each sentence carefully. Words like "appeal," "hard-right," "conservatives," "Christianity," "homosexuality," "war," "religion," "end," "criticism," "overturning," "don’t ask, don’t tell," "gays," "ashamed," "Christian," "pew," "wrong," "country," "celebrate," "Christmas," "pray," "school," "multimillion-dollar," "budget," "Iowa," "Republican," "caucusgoers," "Christian evangelicals," "denounced," "Log Cabin Republicans," "gay men," "lesbian," "group," "assume," "equality," "wrong," "commander-in-chief," "theocrat-in-chief," "individual liberty," "individual responsibility," "open service," "gay and lesbian servicemembers," "founding fathers." I'll list each of these with a * before them.
+
+Next, for the summary, I need to condense the article into 200 words or less, making sure to include the morally framed words. The key points are Perry's ad targeting hard-right conservatives, contrasting Christianity with homosexuality, criticizing Obama's policies, and the backlash from Log Cabin Republicans. I'll structure the summary to highlight these elements, ensuring that the moral framing is preserved.
+
+I should make sure the summary is concise and captures the essence of the article, including the main arguments and reactions. I'll start by mentioning Perry's ad, its content, the target audience, the criticism of Obama's policies, and the response from the group. I'll end by noting the debate it sparks about faith, equality, and American values.
+
+I need to double-check that all morally framed words are included where appropriate and that the summary flows naturally. I'll also ensure that the word count is within the limit. Once done, I'll present the summary clearly after the "SUMMARY:" token and end with "END OF SUMMARY."
+
+Overall, the goal is to accurately capture the moral arguments presented in the article while keeping the summary informative and within the specified constraints.
+</think>
+
+**STEP 1:**  
+* appeal  
+* hard-right  
+* conservatives  
+* Christianity  
+* homosexuality  
+* war  
+* religion  
+* end  
+* criticism  
+* overturning  
+* don’t ask, don’t tell  
+* gays  
+* ashamed  
+* Christian  
+* pew  
+* wrong  
+* country  
+* celebrate  
+* Christmas  
+* pray  
+* school  
+* multimillion-dollar  
+* budget  
+* Iowa  
+* Republican  
+* caucusgoers  
+* Christian evangelicals  
+* denounced  
+* Log Cabin Republicans  
+* gay men  
+* lesbian  
+* group  
+* assume  
+* equality  
+* wrong  
+* commander-in-chief  
+* theocrat-in-chief  
+* individual liberty  
+* individual responsibility  
+* open service  
+* gay and lesbian servicemembers  
+* founding fathers  
+
+**SUMMARY:**  
+Gov. Rick Perry of Texas released a campaign ad targeting hard-right conservatives, contrasting Christianity with homosexuality and criticizing Obama’s policies on religion and gay rights. Perry vows to end what he calls “Obama’s war on religion” and opposes the overturning of the “don’t ask, don’t tell” policy for gays in the military. He claims, “I’m not ashamed to admit that I’m a Christian,” but criticizes the country for allowing gays to serve openly in the military while restricting kids from celebrating Christmas or praying in school. The ad focuses on Iowa, where many Republican caucusgoers identify as Christian evangelicals. Perry’s campaign denounces Obama’s promotion of gay rights globally and vows to protect religious heritage. Log Cabin Republicans, a gay and lesbian group, condemned Perry for assuming that faith excludes support for equality, calling him a “theocrat-in-chief” rather than a “commander-in-chief.” The ad sparked debate over faith, equality, and American values.  
+**END OF SUMMARY.**

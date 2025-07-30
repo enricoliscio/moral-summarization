@@ -1,0 +1,24 @@
+Okay, I need to help the user by summarizing a news article while preserving the moral framing. First, I should understand the task. The user wants me to act as a news summarizer and a moral expert. They provided a detailed news article, and they have specific steps to follow.
+
+Step 1 is to identify all the single words that are morally framed. I'll go through the article and pick out words that carry moral connotations. Words like "criticizes," "odious," "surprised," "poor," "violations," "abuse," "moratorium," and "failure" stand out because they imply judgment or evaluation of actions as right or wrong.
+
+Next, I need to write a summary of the article. I have to make sure to include as many of these morally framed words as possible. The summary should be concise, no longer than 200 words. I'll start by identifying the main points: the Ministry's criticism of the U.S. report, the focus on Chechnya, the U.S. stance on terrorism, the mention of human rights issues, and the suggestion that the U.S. should look at its own issues.
+
+I'll structure the summary to include these points, using the identified moral words. I need to ensure the summary flows well and covers all critical aspects without being too verbose. I'll also make sure to end with the specified tokens.
+
+Let me put it all together, making sure each step is clearly marked and the summary is within the word limit. I should double-check that all morally framed words are included and that the summary accurately reflects the article's content while maintaining the moral perspective.
+</think>
+
+**STEP 1:**  
+* Criticizes  
+* Odious  
+* Surprised  
+* Poor  
+* Violations  
+* Abuse  
+* Moratorium  
+* Failure  
+
+**SUMMARY:**  
+The Russian Foreign Ministry strongly criticized the U.S. State Department's human rights report, calling it "odious" and "surprised" by its content. The report accused Russia of poor media freedom and serious human rights violations in Chechnya, including extrajudicial killings. Russia, led by President Vladimir Putin, frames the Chechnya conflict as a fight against terrorism, a view partially endorsed by the U.S. However, U.S. criticism of Russian military abuses was toned down after Russia joined the anti-terror coalition. The Russian Ministry accused "certain circles" in the U.S. of using the Chechen issue to disrupt the U.S.-Russian partnership against terrorism. It also suggested the U.S. should address its own human rights issues, such as failure to ratify international agreements and the use of the death penalty, before judging others. Russia implemented a moratorium on capital punishment in 1996 as a condition for joining the Council of Europe.  
+**END OF SUMMARY.**

@@ -1,0 +1,17 @@
+<think>
+Alright, I need to help the user by summarizing the given news article while preserving the moral framing. The user mentioned that I should act as a news summarizer assistant and a moral expert. So, my goal is to create a concise summary that captures the essence of the article and maintains the original moral perspective.
+
+First, I'll read through the article carefully. It's about China criticizing the US human rights report. The key points are that China released an annual report accusing the US of ignoring its own human rights issues while criticizing others. The report lists issues like police abuses, poverty, racial discrimination, and personal safety concerns in the US. It also mentions the US military operations and withdrawal from the Kyoto Protocol. China does this in response to the US report that usually accuses China of human rights abuses.
+
+I need to make sure the summary includes these main points: China's annual report, the accusations against the US, the specific issues mentioned, and the context of the US report. Also, I should maintain the moral framing, which seems to be that the US is hypocritical for criticizing others while having its own problems.
+
+I should structure the summary to start with the main action—China criticizing the US report. Then list the issues China points out, followed by the context of the US report accusing China. I need to keep it under 200 words, so I'll be concise but include all necessary details.
+
+Let me draft the summary, ensuring it's clear and captures the moral angle. I'll start with the release of the report, mention the accusations, and then explain the reason behind it, which is the US report's accusations against China. I'll make sure to include the specific issues like police abuses, poverty, etc., and the mention of military operations and Kyoto Protocol.
+
+After drafting, I'll check the word count to ensure it's within the limit and that the moral framing is preserved. I should avoid any additional commentary beyond summarizing the article's content and tone.
+
+Finally, I'll format it as per the user's instructions, starting with "SUMMARY:" and ending with "END OF SUMMARY." I'll make sure the summary is clear, concise, and accurately reflects the original article's moral perspective.
+</think>
+
+SUMMARY: China has released its annual report criticizing the United States for hypocrisy in human rights, accusing the U.S. of ignoring its own issues while condemning others. The report, published by the Chinese government, highlights police abuses, poverty, racial discrimination, and lack of personal safety in the U.S. It also condemns U.S. military operations as violations of national sovereignty and criticizes the withdrawal from the Kyoto Protocol. China released the report in response to the U.S. State Department's annual human rights report, which often accuses China of widespread abuses. The Chinese report accuses the U.S. of acting as a "world judge of human rights" while ignoring its own problems. END OF SUMMARY.

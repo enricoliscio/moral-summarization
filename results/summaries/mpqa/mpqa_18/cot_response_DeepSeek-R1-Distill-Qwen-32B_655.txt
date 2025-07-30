@@ -1,0 +1,38 @@
+Okay, so I need to help the user by summarizing this news article while preserving the moral framing. First, I should understand what the user is asking for. They provided a news article about a new crew settling into the International Space Station and specified that I should identify morally framed words and then write a summary using those words.
+
+Starting with STEP 1, I need to find all the single words that carry moral connotations. Let me read through the article again. Words like "settled," "settle," "moved," "install," "couldn't wait," "peeking," "reflecting," "packed," "personal," "hobbies," "material," "make," "psychological," "support," "device," "dirty," "trash," "used," "return," "spent," "days." These words might imply actions, intentions, or values.
+
+Now, for the summary, I have to condense the article into 200 words, keeping those moral words. The article talks about the new crew arriving, their tasks, and their personal touches. I should mention the crew members, their roles, the tasks they did, and their hobbies. Also, include the transfer of the cargo carrier and the old crew's departure.
+
+I need to ensure the summary flows well and includes all the key points without being too lengthy. Let me structure it: mention the arrival, the tasks they did upon arrival, the new commander, the transfer of the cargo, the personal items they brought, and the old crew's departure.
+
+I should check that I'm using the morally framed words where appropriate. For example, "couldn't wait" shows eagerness, "peeking" shows anticipation, "packed" and "personal" show their individuality, and "dirty," "trash," "used" indicate the practical side of their mission.
+
+Putting it all together, the summary should highlight the new crew's activities, their personal touches, and the transition from the old crew. I need to make sure it's concise and within the word limit.
+</think>
+
+**STEP 1:**  
+* settled  
+* settle  
+* moved  
+* install  
+* couldn't wait  
+* peeking  
+* reflecting  
+* packed  
+* personal  
+* hobbies  
+* material  
+* make  
+* psychological  
+* support  
+* device  
+* dirty  
+* trash  
+* used  
+* return  
+* spent  
+
+**SUMMARY:**  
+Two American astronauts and a Russian cosmonaut have settled into the International Space Station for a six-month mission. After arriving on the space shuttle Endeavour, they installed their equipment and prepared to take over from the outgoing crew. Russian cosmonaut Yuri Onufrienko, eager to assume command, couldn’t wait to begin his duties. The crew transferred a cargo carrier named Raffaello, loaded with supplies, and also brought personal items reflecting their hobbies, such as fly-tying materials and a keyboard for psychological support. Meanwhile, the outgoing crew, led by Frank Culbertson, will return to Earth after 128 days in space. The new crew will remain on the station until May, continuing its scientific and operational mission.  
+**END OF SUMMARY.**

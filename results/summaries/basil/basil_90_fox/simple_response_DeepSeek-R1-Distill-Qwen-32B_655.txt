@@ -1,0 +1,15 @@
+Alright, so I need to help the user by summarizing this news article while preserving the moral framing. The user is a news summarizer assistant and a moral expert, so they probably want a concise summary that captures the key points and the underlying moral arguments.
+
+First, I'll read through the article to understand the main events. Rep. Ocasio-Cortez supports Rep. Tlaib after Tlaib made expletive-laced comments about impeaching Trump. Ocasio-Cortez accuses the GOP of double standards, referencing Trump's past remarks. Tlaib's comments were part of a broader argument for impeachment. Pelosi downplays the issue, and Trump criticizes Tlaib. Tlaib remains defiant.
+
+I need to make sure the summary includes the moral aspects: the double standard, the comparison between Trump's language and Tlaib's, and the political implications. Also, the support from Ocasio-Cortez and Tlaib's stance on impeachment are important.
+
+I should structure the summary to highlight these points, keeping it under 200 words. I'll start by mentioning Ocasio-Cortez's support, then the double standard accusation, reference the locker room talk, Tlaib's comments, Pelosi's response, Trump's criticism, and Tlaib's defiance.
+
+I need to ensure the language is clear and the moral framing is evident, showing the contrast between the treatment of Trump and Tlaib, and the broader implications for political behavior and accountability.
+
+Let me draft the summary, making sure each key point is included without going over the word limit. I'll check that the moral arguments are preserved, such as the hypocrisy of the GOP and the comparison of language use. Finally, I'll end with the tokens as specified.
+</think>
+
+SUMMARY:  
+Rep. Alexandria Ocasio-Cortez defended Rep. Rashida Tlaib after Tlaib used expletives while advocating for Trump's impeachment, accusing Republicans of hypocrisy. Ocasio-Cortez highlighted the double standard, referencing Trump's own lewd remarks in the "Access Hollywood" tape, which were dismissed as "locker room talk." Tlaib, a freshman congressmember, was recorded telling supporters they would "impeach the motherf***er," sparking criticism from House Republicans. Pelosi downplayed the issue, noting Trump's own inflammatory rhetoric, while Trump called Tlaib's comments "disgraceful." Tlaib stood by her remarks, emphasizing the need to "speak truth to power" in the face of a constitutional crisis. Ocasio-Cortez vowed support, framing the issue as a broader fight against hypocrisy and accountability in politics. END OF SUMMARY.

@@ -1,0 +1,15 @@
+Alright, I need to help the user by summarizing the given news article while preserving the moral framing. The user provided a detailed article and a list of morally framed words to include. 
+
+First, I'll read through the article to understand the main points. It's about the House passing a $4.5 billion aid package for migrants, with some internal conflict among Democrats. Pelosi had to quell a mini-revolt, and the bill passed along party lines. The Senate might oppose it, and there's a threat of a veto from Trump.
+
+Next, I need to identify the key morally charged words from the user's list. Words like "quelled," "prevent," "emergency," "protecting," "care," "block," "failure," "ignore," "solve," "aid," "housed," "died," "overwhelmed," "ensure," "mandate," etc., are important to include.
+
+I'll structure the summary to highlight the moral aspects. Start with Pelosi quelling the revolt, the purpose of the bill to prevent a humanitarian emergency, the funding details, the opposition from Republicans, the threat of veto, and the dire conditions leading to the bill's urgency.
+
+I should keep the summary concise, under 200 words, and ensure it flows logically. I'll make sure to incorporate as many of the listed words as possible without making it sound forced.
+
+Finally, I'll draft the summary, ensuring it captures the moral framing and all critical points from the article.
+</think>
+
+SUMMARY:  
+House Democrats passed a $4.5 billion emergency border aid package, quelling a mini-revolt by progressives and Hispanic lawmakers who sought more significant changes. The bill aims to prevent a humanitarian emergency by ensuring care for migrant families and unaccompanied children, providing shelter, food, medical assistance, and legal aid. It mandates improved standards for children in HHS shelters and blocks funding for Trump's border wall or immigration raids. Pelosi emphasized protecting families and ensuring funds are used for humanitarian needs only. The bill faced Republican opposition, with the Senate proposing a different measure. Three GOP moderates supported it, while four Democratic freshmen voted no. The White House threatened a veto, arguing the bill hampers border security. Urgency grew after reports of dire conditions in Border Patrol facilities, where children were housed in inadequate settings, leading to deaths and overcrowding. The bill also requires DHS to establish care standards and replace contractors providing inadequate assistance. The legislation faces a political showdown as Congress races to act before the July 4 recess. END OF SUMMARY.

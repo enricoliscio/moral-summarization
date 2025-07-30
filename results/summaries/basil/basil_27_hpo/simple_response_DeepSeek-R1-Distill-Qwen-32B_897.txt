@@ -1,0 +1,12 @@
+Alright, I need to help the user by summarizing the given news article while preserving the moral framing. The user mentioned that I'm both a news summarizer and a moral expert, so I should focus on the ethical implications and how the author presented them.
+
+First, I'll read through the article to understand the main points. It's about Bibi Netanyahu being featured in a political ad by Secure America Now, a neoconservative group. The ad is part of election-year politics, aiming to criticize Obama's foreign policy towards Israel and Iran.
+
+I notice the moral framing here. The article highlights how Netanyahu is being used in U.S. politics despite his own statements against it. This raises ethical concerns about manipulating foreign leaders for domestic political gain. Also, the ad's narrative paints Obama as weak on Israel's security, which could be seen as unfair and one-sided.
+
+I should make sure the summary includes these elements: the ad's purpose, Netanyahu's stance against being involved, the criticism of Obama, and the ethical issues involved. Keeping it concise, under 200 words, and ending with the required tokens.
+
+I need to ensure that the summary doesn't just list facts but also reflects the moral perspective, such as the manipulation aspect and the potential bias in the narrative. That way, the summary stays true to the author's framing.
+</think>
+
+SUMMARY: A new ad by the neoconservative group Secure America Now features Israeli Prime Minister Bibi Netanyahu discussing Iran's nuclear program, aiming to criticize President Obama's foreign policy. The ad, airing in Florida's Jewish communities, aligns with Republican efforts to portray Obama as weak on Israel's security concerns. Romney has accused Obama of "throwing Israel under a bus," while Netanyahu has distanced himself from U.S. election politics, denying involvement and clarifying scheduling conflicts over a meeting with Obama. The ad implicitly supports the GOP narrative, despite Netanyahu's attempts to avoid politicization. This reflects broader ethical concerns about using foreign leaders in domestic political campaigns. END OF SUMMARY.

@@ -1,0 +1,22 @@
+Okay, I need to help the user by summarizing a news article while preserving the moral framing. Let me start by understanding the task. The user wants me to first identify all the morally framed single words in the article. Then, I have to write a concise summary using as many of those words as possible.
+
+Looking at the article, I'll go through each sentence to spot words that carry moral connotations. Words like "commitment," "obliged," "opposed," "slammed," "alternative," and "reluctance" stand out. These words imply actions or decisions with moral implications.
+
+Now, for the summary, I need to condense the article into 200 words or less. I should include the key points: Jordan signing the Kyoto Protocol, the reasons behind their decision, the protocol's goals, and the contrasting actions of the US and Canada. I'll make sure to use the morally framed words to maintain the original tone.
+
+I'll structure the summary by first stating Jordan's decision, then explaining their commitment and the purpose of signing. Next, I'll mention the EU's ratification and the US and Canada's reluctance, highlighting the economic versus environmental concerns. Finally, I'll note Jordan's hope for funding and the overall context of global efforts.
+
+I need to ensure the summary flows well and covers all essential points without being too lengthy. Let me check the word count to make sure it's under 200 words. I think this approach covers all the necessary elements while preserving the moral framing as required.
+</think>
+
+**STEP 1:**  
+* Commitment  
+* Obliged  
+* Opposed  
+* Slammed  
+* Alternative  
+* Reluctance  
+
+**SUMMARY:**  
+Jordan has decided to sign the Kyoto Protocol, a UN agreement aimed at reducing global greenhouse gas emissions, as part of its commitment to international environmental conventions. The protocol, which legally obliges developed countries to cut emissions, has been a point of contention, with the US opposing it in 2001, citing economic interests, and Canada expressing reluctance due to potential economic damage. Meanwhile, the EU has moved to ratify the protocol. Jordan’s decision reflects its dedication to global environmental efforts, with hopes of attracting funding to support climate change initiatives. The move underscores the ongoing debate between economic concerns and the urgent need for international cooperation to address climate change.  
+**END OF SUMMARY.**

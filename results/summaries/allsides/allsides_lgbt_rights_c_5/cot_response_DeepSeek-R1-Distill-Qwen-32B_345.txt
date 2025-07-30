@@ -1,0 +1,28 @@
+Okay, so I'm trying to help the user with their query. They want me to act as a news summarizer and moral expert. The task is to summarize the given article while preserving the moral framing. 
+
+First, I need to understand what's being asked. They provided a news article about the Obama administration's stance on gay marriage, specifically regarding the Proposition 8 case. The user has two main steps: identifying morally framed words and then writing a summary that includes those words.
+
+For step one, I need to go through the article and pick out words that carry moral connotations. Words like "discrimination," "fundamental right," "equality," "constitutional right," "equality under the law," "justice," and "morally right" come to mind. These terms are used to convey the ethical implications of the issue.
+
+Next, for the summary, I have to condense the article, keeping the moral elements intact. I should mention the key points: the administration's dilemma, the legal and political aspects, Obama's evolving stance, the possible arguments, and the significance of the case beyond legal implications.
+
+I need to make sure the summary is concise, under 200 words, and includes the identified moral terms. It should reflect the ethical considerations without getting bogged down in legal jargon. Also, I should highlight the broader impact on society and the moral statement the administration's position makes.
+
+I'll structure the summary by first introducing the administration's challenge, then Obama's changing views, the potential arguments, and the symbolic importance of the case. Ending with the broader implications ties it all together, emphasizing the moral aspect.
+
+I should double-check that I'm not missing any crucial points from the article and that the summary flows logically. Also, ensuring that the morally framed words are naturally integrated without forcing them in.
+
+Alright, I think I've covered all the bases. Time to put it all together in the required format.
+</think>
+
+**STEP 1:**  
+* Discrimination  
+* Fundamental right  
+* Equality  
+* Constitutional right  
+* Equality under the law  
+* Justice  
+* Morally right  
+
+**SUMMARY:**  
+The Obama administration faces a moral and legal dilemma over gay marriage, particularly in the Proposition 8 case from California. The case challenges the constitutionality of banning same-sex marriage, with the administration expected to file a brief in the Supreme Court. President Obama has shifted his stance, from supporting state-level decisions to endorsing a broader constitutional right to marry. The administration could argue that California, having granted same-sex couples the right to marry temporarily, cannot revoke it, or that such a ban discriminates. The case holds symbolic importance for both the gay community and traditional marriage advocates, as it reflects a broader moral debate on equality and justice. The administration's position could influence public perception of what is morally right, even if its legal arguments matter less to the justices. END OF SUMMARY.

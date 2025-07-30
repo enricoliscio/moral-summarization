@@ -1,0 +1,11 @@
+<think>
+Alright, so the user wants me to summarize a news article while preserving the moral framing. They provided the article and the specific words to keep. First, I need to understand the article's content. It's about Trump attacking the Justice Department, calling it the 'deep state,' and wanting to jail Huma Abedin. He's also criticizing the FBI and the investigation into Russian collusion.
+
+I should identify the morally charged words: jailed, forwarded, investigation, colluded, undermine. I need to make sure these are included in the summary. The summary needs to be concise, under 200 words, and start after "SUMMARY:" and end with "END OF SUMMARY."
+
+I'll start by outlining the main points: Trump's attack on the Justice Department, the mention of Huma Abedin and the emails, the reference to Comey, and Trump's claims about his authority over the Justice Department. I need to weave in the moral terms naturally. Maybe start with Trump renewing his attack, using 'deep state,' then mention the call to jail Abedin. Include how she forwarded emails with sensitive info. Then, reference the investigation and collusion, and how Trump is undermining the Justice Department.
+
+I should also keep the summary clear and direct, ensuring it captures the essence without getting too detailed. Let me piece it together, making sure each sentence includes the necessary moral framing words without forcing them. Check the word count to stay within limits. Once done, I'll format it correctly with the tokens.
+</think>
+
+SUMMARY: President Donald Trump renewed his criticism of the Justice Department, labeling it the "deep state," and called for the jailing of Huma Abedin, a top aide to Hillary Clinton. Trump's tweet followed the release of Abedin's emails, which showed she forwarded State Department emails, including some with passwords, to a personal account during Clinton's tenure as secretary of state. Trump also criticized former FBI Director James Comey, whose investigation into potential collusion between Trump's campaign and Russia led to Comey's firing. Trump has repeatedly sought to undermine the Justice Department and FBI, claiming he has the authority to direct government investigations. His latest comments came after asserting in a New York Times interview that he has the "absolute right" to control the Justice Department. END OF SUMMARY.

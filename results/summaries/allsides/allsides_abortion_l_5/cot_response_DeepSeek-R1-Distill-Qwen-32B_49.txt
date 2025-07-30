@@ -1,0 +1,58 @@
+Alright, I need to help the user with their query. They want me to summarize a news article while preserving the moral framing. First, I should read through the article carefully to understand the context. The article is about the Republican-controlled House passing a bill banning taxpayer money for abortions, after another bill was withdrawn due to opposition.
+
+The user has specified two main steps. The first is to identify all the single words that are morally framed. I need to go through the article and pick out words that carry moral connotations. Words like "ban," "extreme," "opposed," "pro-life," "undermine," "respect," "messaging," "appeal," "symbolic," "disappointed," "commitment," "opposition," "challenge," and "riled up" come to mind. These words are used to convey the moral stance of the parties involved.
+
+Next, I have to write a concise summary of the article, ensuring that I include as many of these morally framed words as possible. The summary needs to be under 200 words and should capture the key points: the passage of the bill, the withdrawal of the previous bill, the internal conflict within the GOP, the reactions from different groups, and the implications for the party's messaging.
+
+I should structure the summary to highlight the moral arguments on both sides. The pro-life supporters pushing for restrictions versus the moderate Republicans concerned about the message sent. Also, the Democratic criticism about focusing on abortion instead of economic issues is important. I need to make sure the summary flows well and covers all these aspects without being too lengthy.
+
+I should also ensure that the summary starts with "SUMMARY:" and ends with "END OF SUMMARY." as per the user's instructions. Keeping it clear and to the point is essential. Let me draft the summary, making sure to include the key morally framed words and the main events without going over the word limit.
+</think>
+
+**STEP 1:**  
+* Ban  
+* taxpayer  
+* abortion  
+* extreme  
+* moderate  
+* federal  
+* pro-life  
+* oppose  
+* exception  
+* raped  
+* evidence  
+* police report  
+* unreported  
+* incest  
+* undermine  
+* health  
+* personal decisions  
+* religious  
+* restrictions  
+* respect  
+* messaging  
+* centrist  
+* symbolic  
+* distracted  
+* economic  
+* appeal  
+* pro-choice  
+* undermine  
+* health  
+* personal decisions  
+* symbolic  
+* distracted  
+* economic  
+* appeal  
+* pro-choice  
+* undermine  
+* health  
+* personal decisions  
+* symbolic  
+* distracted  
+* economic  
+* appeal  
+* pro-choice  
+
+**SUMMARY:**  
+The GOP-controlled House passed a bill banning taxpayer funding for abortions after a more extreme "late-term" abortion ban was withdrawn due to opposition from moderate Republicans. The bill, which prohibits federal funds for abortions, passed 242-179, with three Democrats supporting it. The White House threatened a veto. The vote coincided with the annual "March for Life," marking the 42nd anniversary of *Roe v. Wade*. The original bill, the "Pain Capable Unborn Child Protection Act," was opposed by some GOP members over its requirement for rape survivors to file police reports. Moderate Republicans argued the bill sent a harmful message, especially to women and young people, during efforts to expand the party's support ahead of the 2016 election. Democratic leader Nancy Pelosi criticized the GOP for focusing on abortion instead of job creation. The decision to withdraw the bill was seen as a win for centrist members, though some pro-life activists were disappointed. The House ultimately passed a less contentious bill, but internal divisions highlighted the party's challenges in balancing moral messaging with broader economic priorities. END OF SUMMARY.

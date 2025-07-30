@@ -1,0 +1,42 @@
+Alright, so I'm trying to figure out how to approach this query. The user has provided a news article and wants a summary that preserves the moral framing. They've also specified two steps: first, identifying morally framed single words, and then writing the summary.
+
+First, I need to understand what "morally framed" words mean. I think these are words that carry a judgment or imply a moral stance, like "impede," "subpoenaed," "obstruction," etc. I'll go through the article and pick out these words.
+
+Next, I'll list each of these words, each on a new line with a star. Then, I need to write a concise summary, keeping it under 200 words. The summary should include as many of these moral terms as possible to maintain the author's framing.
+
+I should make sure the summary captures the key points: the subpoena, the context of the Russia probe, Trump's alleged actions, and the implications for impeachment. I'll need to mention the key individuals involved and the committee's intentions.
+
+I also need to ensure that the summary flows well and isn't just a list of facts. It should reflect the moral implications highlighted in the article, such as obstruction of justice and the potential for impeachment.
+
+Let me check the word count to make sure it's within the limit. I'll also make sure to include all the necessary details without making it too verbose. 
+
+Finally, I'll structure the response as per the user's instructions, starting with the step-by-step identification and then the summary. I need to end with the specified tokens to indicate the end of the summary.
+
+I think that's a solid plan. Now, I'll proceed to extract the morally framed words and craft the summary accordingly.
+</think>
+
+**STEP 1:**  
+* Subpoenaed  
+* Impede  
+* Federal  
+* Probe  
+* Interference  
+* Alleged  
+* Obstruction  
+* Justice  
+* Directed  
+* Lie  
+* Prosecuted  
+* Evidence  
+* Featured  
+* Efforts  
+* Pressure  
+* Direct  
+* Investigation  
+* Recused  
+* Replacement  
+* End  
+
+**SUMMARY:**  
+The U.S. House Judiciary Committee subpoenaed former White House aide Rob Porter to testify about alleged efforts by President Trump to impede a federal probe into Russian interference in the 2016 election. Porter, along with former campaign manager Corey Lewandowski and former White House Deputy Chief of Staff Rick Dearborn, is set to appear before the committee on September 17. Chairman Jerrold Nadler stated the proceedings aim to determine whether to recommend Trump’s impeachment. Porter was prominently featured in Special Counsel Robert Mueller’s report, which detailed Trump’s alleged obstruction of justice by directing former White House Counsel Don McGahn to fire Mueller and lie about it. Democrats also seek testimony on Trump’s efforts to pressure former Attorney General Jeff Sessions to divert the investigation. Nadler emphasized that Trump’s actions would warrant prosecution under normal circumstances. Porter’s involvement includes Trump’s attempts to pressure McGahn and find a replacement for Sessions to end the probe. Porter left the White House in 2018 amid domestic abuse allegations.  
+**END OF SUMMARY.**

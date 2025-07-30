@@ -1,0 +1,12 @@
+Alright, so I'm trying to help this user who wants a news summary that preserves the moral framing from the original article. The article is about the Endeavour space shuttle docking with the International Space Station, delivering a new crew. The user specifically pointed out that the word "attacks" is morally framed and needs to be included.
+
+First, I need to understand the main points of the article. The shuttle docked, bringing a new crew to relieve the current one. Commander Culbertson mentions feeling isolated and frustrated after the September 11 attacks. That's the moral part to highlight.
+
+I should make sure the summary includes the docking, the new crew, and the emotional impact of the attacks on Culbertson. I need to keep it concise, under 200 words, and end with the specified tokens.
+
+Let me structure it: start with the docking, mention the new crew replacing the old one, include Culbertson's feelings post-attacks, and note the traditional bell ringing. That should cover all key points while preserving the moral element.
+</think>
+
+SUMMARY:  
+Space shuttle Endeavour successfully docked with the International Space Station, delivering a new three-member crew to relieve the current crew, who have been on board since August. The docking occurred 250 miles above the Polish-Ukrainian border, ending a two-day journey. Commander Frank Culbertson, a retired Navy fighter pilot, expressed relief at the arrival of Endeavour, which would take him home after a four-month mission. Culbertson, along with his Russian crewmates Vladimir Dezhurov and Mikhail Tyurin, felt isolated and frustrated following the Sept. 11 terrorist attacks. As Endeavour approached, Culbertson rang the ship's bell and announced, "Endeavour arriving," in a traditional maritime greeting. The departing crew will be replaced by Russian Yuri Onufrienko, the new commander, and Americans Carl Walz and Daniel Bursch, who will remain on the station until May.  
+END OF SUMMARY.

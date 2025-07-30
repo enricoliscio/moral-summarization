@@ -1,0 +1,15 @@
+<think>
+Alright, I need to help the user by summarizing the given news article. They mentioned that I should act as a news summarizer assistant and a moral expert, preserving the moral framing the author provided. So, I should focus on the key points and the ethical implications.
+
+First, I'll read through the article to understand the main events. Environmentalist groups protested against the U.S. alternative to the Kyoto Protocol near the U.S. Embassy in Tokyo. About 50 people from NGOs were involved, and they expressed strong opposition to the U.S. stance. They carried banners and handed letters to the embassy.
+
+The moral angle here is the criticism of the U.S. for not adhering to the Kyoto Protocol, which is seen as a responsible international framework. The protesters argue that the U.S. plan allows increased emissions, which is unethical in the context of global warming.
+
+I should include the key details: the protest, the number of participants, the groups involved, their demands, and the context of Bush's new plan. Also, mention the letter's contents and the broader implications for climate change and international cooperation.
+
+I need to keep it concise, under 200 words. I'll structure it to highlight the protest, the moral stance against the U.S. plan, and the implications for global efforts. Make sure to include that the NGOs demanded reconsideration and adherence to the Kyoto Protocol, emphasizing the necessity of international cooperation to prevent dangerous climate change.
+
+Finally, I'll ensure the summary starts with "SUMMARY:" and ends with "END OF SUMMARY." to meet the user's formatting requirements.
+</think>
+
+SUMMARY: Environmentalist groups, including NGOs from Japan and the U.S., staged a protest near the U.S. Embassy in Tokyo against the U.S. alternative to the Kyoto Protocol. The protesters criticized President George W. Bush's plan, which replaces mandatory emission targets with voluntary limits tied to economic growth, arguing it would allow U.S. greenhouse gas emissions to rise by 30% compared to 1990 levels by 2010. They demanded the U.S. reconsider its climate policy and rejoin the Kyoto Protocol, calling it the only framework to prevent dangerous climate change. The protest coincided with heightened security for Bush's visit, and NGOs handed letters to the embassy urging Bush to abandon his plan and return to the Kyoto Protocol. The issue is expected to be discussed between Bush and Japanese Prime Minister Junichiro Koizumi. The moral framing emphasizes the U.S.'s failure to uphold international climate commitments and its responsibility to lead in addressing global warming. END OF SUMMARY.

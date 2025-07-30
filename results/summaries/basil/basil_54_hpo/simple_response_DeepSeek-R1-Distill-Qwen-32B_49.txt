@@ -1,0 +1,15 @@
+<think>
+Alright, I need to help the user by summarizing the given news article while preserving the moral framing. Let me read through the article first to understand the key points.
+
+The article talks about Arkansas and Indiana revising their Religious Freedom laws. Arkansas' Governor Hutchinson initially refused to sign a bill due to discrimination concerns against LGBT individuals. The legislature then amended the bill to align with the federal RFRA, removing the discriminatory provisions. Meanwhile, Indiana also amended its law to explicitly prohibit discrimination based on sexual orientation or gender identity after facing backlash.
+
+I notice that the moral framing is around discrimination and inclusion. The Governor's son's opposition and Walmart's pressure are highlighted as factors influencing the decision. These elements emphasize the moral stance against discrimination.
+
+I should structure the summary to include both states' actions, the reasons for the changes, and the moral implications. I need to keep it concise, under 200 words, and ensure the moral aspects are clear.
+
+Let me draft the summary, making sure to mention the amendments, the reasons behind them, and the moral considerations like family influence and corporate pressure. I'll also note the shift towards inclusion and equality.
+
+Finally, I'll format it correctly with the SUMMARY and END OF SUMMARY tokens, ensuring it's within the word limit and captures all essential points with the moral framing intact.
+</think>
+
+SUMMARY: Arkansas Gov. Asa Hutchinson signed a revised version of the Religious Freedom Reformation Act, amending provisions that could have allowed discrimination against LGBT individuals, aligning it with the federal RFRA. This followed national backlash and pressure from his son and Walmart CEO Doug McMillon, who opposed the original bill. Meanwhile, Indiana amended its controversial RFRA to explicitly prohibit discrimination based on sexual orientation or gender identity, addressing widespread criticism. Both states sought to balance religious freedom with inclusion, reflecting a generational and societal shift toward equality. END OF SUMMARY.

@@ -1,0 +1,16 @@
+Okay, so I need to help the user by summarizing this news article while preserving the moral framing. Let me start by reading the article carefully. 
+
+The article is about Michael Bloomberg and Donald Trump's relationship, focusing on their interactions and the moral words used. The user provided a list of morally framed words: menace, sane, run, help, known, job, crazy. I need to make sure these words are included in the summary.
+
+First, I'll identify the key points. Bloomberg criticized Trump as a public menace and questioned his sanity. They didn't interact much but had some cordial meetings, like golf and TV shows. Bloomberg supported the arts and philanthropy, while Trump was more about showmanship. 
+
+I should mention their different backgrounds and how their interactions changed after Trump's candidacy. Bloomberg tried to block Trump by considering a presidential bid, which led to the breakdown in their relationship. Trump's counterattacks and the shift in their relationship are important.
+
+Now, I need to structure this into a concise summary under 200 words. I'll start by highlighting Bloomberg's criticism, their limited interactions, their differing personas, and the turning point with Trump's candidacy. I'll make sure to include the moral words where appropriate.
+
+Let me check the word count as I go. I should keep it tight, focusing on the main points without unnecessary details. Also, I need to end with the specified tokens. 
+
+I think I have all the elements. Time to put it together smoothly, ensuring the moral framing is preserved.
+</think>
+
+SUMMARY: Michael R. Bloomberg criticized Donald J. Trump at the Democratic National Convention, calling him a public menace and questioning his sanity. Despite their limited interactions in New York City, their paths crossed occasionally, such as on golf courses and reality TV shows. Bloomberg, a philanthropist and supporter of the arts, contrasts sharply with Trump, who is known for his ostentatious lifestyle and crude behavior. Their cordiality began to dissolve after Trump declared his candidacy, with Bloomberg exploring a presidential bid to block Trump. Bloomberg's advisor noted that Trump is "crazy," and Trump, in turn, criticized Bloomberg's wealth and business. Their relationship, once cordial, has since soured, with Trump suggesting they are no longer friends. END OF SUMMARY.

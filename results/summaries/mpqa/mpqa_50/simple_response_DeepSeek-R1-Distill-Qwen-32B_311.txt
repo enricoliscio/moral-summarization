@@ -1,0 +1,14 @@
+Alright, I need to help the user by summarizing the given news article while preserving the moral framing. The user is a news summarizer assistant and a moral expert, so they want a concise summary that reflects the author's perspective on the moral issues involved.
+
+First, I'll read through the article to understand the main points. The article talks about Robert Mugabe's reelection in Zimbabwe, the reactions from different African organizations and countries, and the condemnations from Western countries. It also mentions the election process, voter turnout, and the results.
+
+I notice that the OAU and African leaders like Mkapa and Moi are praising the election as free and fair, highlighting Mugabe's commitment to democracy and sovereignty. In contrast, Western countries like the US, UK, France, Germany, and Denmark are criticizing the election as flawed, with some threatening sanctions and cutting aid.
+
+I should make sure the summary captures both the African support and the Western condemnation, emphasizing the differing moral viewpoints. It's important to include Mugabe's percentage of votes and the opposition's percentage to show the margin, which adds context to the criticism.
+
+I'll structure the summary by first stating Mugabe's reelection and the reactions from both African and Western sides. I'll mention the election being called free and fair by African observers and the Western accusations of irregularities. Finally, I'll note the consequences like sanctions and aid cuts.
+
+I need to keep the summary under 200 words, so I'll be concise but include all key points. I'll ensure that the moral framing is clear, showing the divide between African support and Western criticism.
+</think>
+
+SUMMARY: Zimbabwean President Robert Mugabe's reelection has been praised by African countries and organizations like the OAU and SADC, which deemed the March 9-11 election "free and fair." African leaders, including Tanzanian President Benjamin Mkapa, congratulated Mugabe, calling him a champion of democracy and sovereignty. However, Western countries condemned the election, with the US, UK, France, Germany, and Denmark accusing it of being flawed and unfair. Some, like Denmark, have threatened to cut aid and impose sanctions. Mugabe secured 56.2% of the vote, defeating opposition leader Morgan Tsvangirai, who received 41.96%. The election, the closest in Zimbabwe's history, saw high voter turnout despite Western criticism. END OF SUMMARY.

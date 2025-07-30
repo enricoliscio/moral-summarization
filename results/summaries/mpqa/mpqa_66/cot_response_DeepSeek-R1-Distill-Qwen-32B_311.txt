@@ -1,0 +1,38 @@
+Alright, so the user has given me a task to summarize a news article while preserving the moral framing. They want me to first identify all the morally framed single words and then write a concise summary. 
+
+First, I need to understand what "morally framed" means. It refers to words that carry a moral or ethical connotation. So, I'll go through the article and pick out words like "terrorism," "violation," "fundamental freedoms," etc., that have a moral weight.
+
+Next, I'll list each of these words, each on a new line starting with a star. This step is straightforward, just scanning through the text and noting the relevant terms.
+
+After that, I need to create a summary. The key here is to keep it under 200 words and include as many of the identified moral terms as possible. I should make sure the summary reflects the original article's moral stance, emphasizing the balance between fighting terrorism and protecting human rights.
+
+I'll start by noting the three organizations and their warning. Then, mention the specific concerns, like the UK legislation and the prison incident. Highlight the essential rights they listed and the criticism of the US's potential expansion of the war. Finally, conclude with the call for adherence to international law.
+
+I need to ensure the summary flows well and covers all main points without being too verbose. Also, I must preserve the moral framing by using the identified words appropriately.
+
+Let me make sure I don't miss any important details. The article mentions the Council of Europe, OSCE, and UN High Commissioner. They warn against using terrorism as a pretext for human rights violations. They stress the importance of not taking excessive measures and maintaining fundamental freedoms. They also list specific rights and criticize recent developments in the UK and Afghanistan. The US's possible move to Iraq is noted, with criticism from Germany and France.
+
+Putting it all together, the summary should encapsulate these points succinctly, using the moral terms to convey the organizations' concerns effectively.
+</think>
+
+**STEP 1:**  
+* Terrorism  
+* Violation  
+* Human rights  
+* Fundamental freedoms  
+* Excessive steps  
+* International obligations  
+* Uphold  
+* Essential  
+* Legitimate national security concerns  
+* Civil liberties  
+* Detention  
+* Torture  
+* Retroactive imposition  
+* Severe penalties  
+* Restraint  
+* Military campaign  
+
+**SUMMARY:**  
+Three international organizations—the Council of Europe, OSCE, and UN High Commissioner for Human Rights—warned that the fight against terrorism must not justify human rights violations. They criticized recent developments, such as the UK passing legislation allowing detention without trial and the tragic deaths of Taliban inmates in Afghanistan. The groups emphasized the need to balance national security with fundamental rights, including the right to life, freedom of expression, religion, and freedom from torture. They also urged against retroactive harsh penalties and called for adherence to international law. The statement came amid criticism of the US considering expanding its war to Iraq, with European nations urging restraint. The organizations stressed the importance of upholding human rights while combating terrorism.  
+**END OF SUMMARY.**

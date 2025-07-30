@@ -1,0 +1,13 @@
+<think>
+Okay, I need to help the user by summarizing the given news article while preserving the moral framing. The user provided a detailed article about a bipartisan resolution condemning blasphemy laws. They also listed specific morally framed words that should be included in the summary.
+
+First, I'll read through the article to understand the main points. Two congressmen introduced a resolution to condemn blasphemy, heresy, and apostasy laws. It's supported by religious freedom advocates. The resolution mentions countries like Russia, China, and Pakistan with examples of religious persecution. The UN and USCIRF support this, and some countries have already repealed such laws.
+
+Now, I need to make sure to include the moral words like "blasphemy," "heresy," "apostasy," "restrictions," "ban," "detention," "weaponized," "persecution," etc. I should structure the summary to highlight the bipartisan effort, the problematic laws, the impact on minorities, and the international support for repeal.
+
+I'll start by mentioning the congressmen and the resolution. Then, I'll outline the reasons behind it, citing specific examples. I'll note the support from USCIRF and the UN, and mention the countries that have repealed the laws. I'll keep the summary concise, under 200 words, and ensure it flows logically.
+
+Let me draft it step by step, making sure each key point is covered and the moral terms are included. I'll check the word count to stay within the limit. Once done, I'll present it clearly after the "SUMMARY:" token as instructed.
+</think>
+
+SUMMARY: Two U.S. congressmen, Rep. Jamie Raskin (D-MD) and Rep. Mark Meadows (R-NC), have introduced a bipartisan resolution, HR 512, condemning "blasphemy," "heresy," and "apostasy" laws. The resolution calls on over 70 governments to repeal laws that "inappropriately position governments as arbiters of religious truth" and enable the "imposition" of religious dogma through "violence" or "restrictions" on dissent. It highlights examples like Russia's ban on Jehovah's Witnesses, China's detention of Uighur Muslims, and Pakistan's blasphemy laws, which have led to individuals being sentenced to death or life imprisonment. The resolution is supported by the U.S. Commission on International Religious Freedom (USCIRF), which warns that such laws are often "weaponized" to "target" marginalized communities. The resolution aligns with the UN's protection of religious freedom under the International Covenant on Civil and Political Rights and seeks to add blasphemy, heresy, and apostasy as grounds for designating countries as "countries of particular concern." It also notes positive steps by nations like Ireland, Greece, and Canada, which have repealed blasphemy laws. END OF SUMMARY.

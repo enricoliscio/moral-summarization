@@ -1,0 +1,13 @@
+<think>
+Okay, so the user has given me a task to summarize a news article. The article is about the Trump administration considering a new executive order to block migrants at the southern border. They want the summary after a "SUMMARY:" token and ending with "END OF SUMMARY." Also, it should be no more than 200 words. 
+
+First, I need to read through the article carefully to understand the main points. The key elements are the administration's plan to block migrants using the same authority as the 2017 travel ban, which would deny asylum claims based on national security. They're considering sending more troops to the border and cutting aid to Central American countries. There are mentions of legal challenges and reactions from immigration advocates and experts. 
+
+I should make sure to include who is involved, what actions are being considered, the reasons behind them, and the reactions. Also, the context of the midterm elections and Trump's tweets blaming Democrats should be noted. 
+
+I need to condense this into a concise summary, keeping it under 200 words. I'll start by mentioning the administration's consideration of the executive order, its purpose, and the potential impact on asylum seekers. Then, I'll add the troop deployment and threats to cut aid. Including the legal challenges and expert opinions will provide a balanced view. Finally, I'll note the political context with the midterm elections and Trump's statements. 
+
+I should avoid any markdown and keep the summary clear and factual. Let me structure it step by step to ensure all important points are covered without exceeding the word limit.
+</think>
+
+SUMMARY: The Trump administration is considering an executive order to block migrants at the southern border, using the same authority as its 2017 travel ban, which would deny asylum claims based on national security concerns. This move would effectively bar those seeking asylum from entering the U.S. The administration is also weighing options to prevent undocumented migrants from crossing the U.S.-Mexican border, including deploying additional troops and cutting aid to Central American countries. Critics argue the plan would be a "huge moral failure" and face legal challenges. Trump has blamed Democrats for the migrant caravan and claimed, without evidence, that Middle Easterners are among the group. The administration's actions aim to address the influx of Central American migrants, with troops being sent to support border authorities. The move has sparked criticism from immigration advocates, who argue it undermines constitutional and international laws. END OF SUMMARY.

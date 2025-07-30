@@ -1,0 +1,35 @@
+Okay, so I need to help the user by summarizing a news article while preserving the moral framing. Let me break down the task. First, I have to identify all the single words that are morally framed in the article. Then, I need to write a concise summary using as many of those words as possible, keeping it under 200 words.
+
+Looking at the article, it's about President Trump's reactions to leaks and the moral implications involved. I'll go through the text and pick out words that carry moral connotations. Words like "fury," "embarrass," "intimidate," "felony," "duty," "interference," "perilous," "loyal," "sinister," "unconstitutional," "accountability," and "transparency" stand out as they relate to ethics and morality.
+
+Now, for the summary. I need to include these words while summarizing the key points. The article discusses Trump's anger over leaks, the legal implications of leaking classified info, the duty of spies to report, the issue of concealing information, and the constitutional protections for the press. I should make sure to highlight the moral dilemmas, like the conflict between leaking and concealing, and the tension between government power and press freedom.
+
+I'll start by mentioning Trump's fury over leaks, then touch on the legal aspects of leaking classified info. I'll explain the duty to reveal and the consequences of selective concealment. Then, I'll address the Oval Office gossip and the seizure of cellphones, noting the constitutional issues. Finally, I'll conclude with the media's role and the tension between the government and the press, emphasizing the moral and legal implications.
+
+I need to keep the summary clear and concise, ensuring it's under 200 words and includes all the key morally framed words. Let me structure it step by step, making sure each point flows logically into the next.
+</think>
+
+**STEP 1:**
+
+* Fury  
+* Embarrass  
+* Control  
+* Intimidate  
+* Infuriate  
+* Felony  
+* Duty  
+* Interference  
+* Perilous  
+* Loyal  
+* Sinister  
+* Unconstitutional  
+* Accountability  
+* Transparency  
+
+---
+
+**SUMMARY:**
+
+President Donald Trump expressed fury over leaks of private and classified information, some of which were intended to embarrass or intimidate him. Leaking classified information is a felony, and the NSA employs spies who have selective access to sensitive data. Trump's anger stemmed from leaks about his alleged behavior in Moscow, phone conversations with Michael Flynn, and intelligence reports contradicting his public statements. However, leaks are a two-sided coin: while revealing sensitive information can be problematic, concealing it when there is a duty to reveal is also a felony, as it interferes with governmental functions. Trump also faced leaks of Oval Office gossip, leading to the temporary seizure of staffers' cellphones, which itself was leaked. The article raises concerns about whether these leaks reflect the growing pains of a new administration or sinister forces manipulating the president's judgment. While leaking confidential communications is not criminal, the media's publication of such information is protected under the First Amendment. Trump's frustration with the press is understandable, but he swore to uphold constitutional principles that protect a free press, emphasizing the importance of accountability and transparency in government.  
+
+**END OF SUMMARY.**

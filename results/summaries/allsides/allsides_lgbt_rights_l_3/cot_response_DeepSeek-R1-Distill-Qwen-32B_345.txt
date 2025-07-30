@@ -1,0 +1,31 @@
+Alright, so I've got this query where the user wants me to act as a news summarizer assistant and a moral expert. They provided a news article about Kim Davis and her defiance of the Supreme Court ruling on same-sex marriage. The task is to summarize the article while preserving the moral framing the author used.
+
+First, I need to break down the query into two parts. The first part is to identify all the single words that are morally framed. The second part is to write a concise summary that includes as many of those moral words as possible, keeping it under 200 words.
+
+Looking at the article, I notice several words that carry strong moral connotations. Words like "break," "deny," "refusing," "contempt," "defy," "abuse," "illegal," "morally dubious," "discriminate," "tyranny," "hero," "conscience," "martyr," and "championing" stand out. These words are used to convey the author's judgment on Kim Davis's actions and the implications of her defiance.
+
+Next, I need to summarize the article. The key points are that Kim Davis is defying the law by refusing to issue marriage licenses, her refusal despite court orders, the support she's receiving from certain political figures, and the potential consequences of her actions. I should make sure to include the moral words to reflect the author's stance.
+
+I also need to structure the summary to flow logically, starting with her defiance, the court's response, the support from politicians, and the potential impact on public opinion. Keeping it concise is crucial, so I'll focus on the most impactful points while incorporating the identified moral terms.
+
+Finally, I'll ensure the summary is within the word limit and properly formatted as per the user's instructions, starting with "SUMMARY:" and ending with "END OF SUMMARY.".
+</think>
+
+**STEP 1:**  
+* Break  
+* Deny  
+* Refusing  
+* Contempt  
+* Defy  
+* Abuse  
+* Illegal  
+* Morally dubious  
+* Discriminate  
+* Tyranny  
+* Hero  
+* Conscience  
+* Martyr  
+* Championing  
+
+**SUMMARY:**  
+Kentucky county clerk Kim Davis is defying federal court orders by refusing to issue marriage licenses, citing her religious beliefs, despite the Supreme Court’s legalization of same-sex marriage. Her actions, which deny gay couples their constitutional rights, have drawn widespread condemnation for breaking the law and abusing her authority. Davis’ defiance, described as flagrantly in contempt, has been cheered by conservative figures, including Republican presidential candidates like Mike Huckabee, who called her a hero, and Rand Paul, who praised her stance. Others, like Carly Fiorina, have urged her to resign. The situation highlights a dangerous precedent where government employees prioritize personal beliefs over the Constitution, potentially inspiring further defiance. If Davis is jailed, she could be seen as a martyr, further emboldening those who seek to discriminate against LGBTQ+ individuals. END OF SUMMARY.

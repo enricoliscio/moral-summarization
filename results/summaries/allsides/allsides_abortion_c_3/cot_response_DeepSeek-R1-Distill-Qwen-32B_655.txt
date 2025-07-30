@@ -1,0 +1,27 @@
+Alright, so the user has given me a query where they want me to act as a news summarizer and a moral expert. They provided a news article about Alabama passing a restrictive abortion bill and outlined specific steps to follow. 
+
+First, I need to understand the task. They want me to identify morally framed words in the article and then write a summary preserving those moral framings. The steps are clear: Step 1 is to list all single words that are morally framed, each on a new line with an asterisk. Then, write a concise summary using as many of those words as possible, ending with specific tokens.
+
+I should start by reading the article carefully to spot words that carry moral connotations. Words like "bans," "restrictive," "criminalizing," "punishing," "anti-choice," "demean," "hysterical," "outrage," and "oppressed" come to mind. These words are used to convey judgment or moral stance, so they fit the criteria.
+
+Next, I need to summarize the article. The summary should include the key points: the bill passing, its strict provisions, the political implications, and the reactions from both sides. I must ensure that the morally framed words are included to maintain the original tone.
+
+I also need to keep the summary under 200 words, so I have to be concise. I'll structure it by mentioning the bill's passage, its provisions, the political strategy behind it, the reactions from supporters and opponents, and the broader implications for Roe v. Wade.
+
+Finally, I'll make sure to end with the required tokens and check that all morally framed words are included. I should avoid any markdown and keep the language clear and direct, as per the user's instructions.
+
+Now, putting it all together, I'll list the morally framed words first and then craft the summary, ensuring it's within the word limit and includes the necessary moral framing.
+</think>
+
+**STEP 1:**  
+* Bans  
+* Restrictive  
+* Criminalizing  
+* Punishing  
+* Anti-choice  
+* Demean  
+* Hysterical  
+* Outlawing  
+
+**SUMMARY:**  
+The Alabama Senate passed a highly restrictive abortion bill, banning nearly all abortions, including those for rape and incest survivors. The legislation, which passed 25-6, would criminalize abortion providers with up to 99 years in prison, while sparing women undergoing the procedure from charges. Proponents aim to challenge Roe v. Wade by creating a Supreme Court battle. Critics, including pro-abortion rights groups, condemned the law as punitive and demeaning to women, warning it risks overturning Roe v. Wade. The bill’s passage has sparked outrage, with some lawmakers urging women to leave Alabama. The law is the most restrictive in the country, aligning with a broader national trend of tightening abortion access. END OF SUMMARY.

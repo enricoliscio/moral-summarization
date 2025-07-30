@@ -1,0 +1,14 @@
+Alright, so the user has given me a query where they want a news summary with a focus on preserving the moral framing from the original article. The article is about Glenn Beck speaking at CPAC, criticizing both parties and progressivism. 
+
+First, I need to understand the key points. Beck is a conservative figure, so his criticisms are coming from that angle. He's talking about progressivism as a disease, likening it to cancer, which is a strong metaphor. He also takes shots at Republicans, saying they're just as bad with spending and big government. 
+
+I should make sure to capture that moral stance, where progressivism is seen as a destructive force. Also, his personal touch, like comparing the political state to a hung-over morning, adds to the moral framing by emphasizing the negative state of affairs.
+
+I need to keep the summary concise, under 200 words, and ensure it's after the "SUMMARY:" token and ends with "END OF SUMMARY." I'll start by highlighting Beck's main arguments, his criticism of both parties, and his use of metaphors to convey the moral issues he sees. 
+
+I should also include his personal analogy and the audience's reaction, as that shows the emotional weight of his message. Making sure to mention that he's a recovering alcoholic adds depth to his credibility on the issue of admitting problems. 
+
+Finally, I'll wrap it up by noting his call for personal responsibility and accountability, which ties back to the conservative values he's advocating. Keeping it all within the word limit while preserving the moral framing is key.
+</think>
+
+SUMMARY: Glenn Beck, a prominent conservative figure, delivered a fiery speech at the Conservative Political Action Conference (CPAC), criticizing both Democrats and Republicans for their roles in perpetuating progressivism, which he likened to a "cancer" in American society. Beck accused Republicans of failing to address their own issues, such as addiction to spending and big government, while Democrats were labeled as tax-and-spenders. He emphasized that progressivism is the root cause of America's problems, not just President Obama. Beck used personal analogies, including his own experience as a recovering alcoholic, to stress the need for political honesty and accountability. He argued that conservatives must embrace personal responsibility and reject the demonization of financial success. Beck's message was a call to action, urging the Republican Party to confront its flaws and reject progressive ideals, while also highlighting the importance of maintaining hope for a better future despite current challenges. END OF SUMMARY.

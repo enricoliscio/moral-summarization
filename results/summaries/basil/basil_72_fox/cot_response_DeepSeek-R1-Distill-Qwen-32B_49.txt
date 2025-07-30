@@ -1,0 +1,25 @@
+<think>
+Alright, I need to help the user by summarizing the given news article while preserving the moral framing. The user has specified two steps: first, identifying all the morally framed single words, and then writing a concise summary using those terms.
+
+Starting with STEP 1, I'll go through the article to find words that carry moral connotations. Words like "contender," "leading," "unlikely," "frontrunner," "point-blank," "endorsed," "angried," "mistake," and "intriguing" seem to have moral implications. I'll list each of these with a *.
+
+Next, for the summary, I need to condense the article into 200 words or less, making sure to include the identified moral words. The summary should highlight Trump's consideration of Lieberman, the reactions from different senators, and the implications of this choice. I'll ensure that the moral framing is preserved, showing both support and criticism from various angles.
+
+I should structure the summary to mention Trump's closeness to selecting a new FBI director, Lieberman's background, the meeting details, and the mixed reactions from senators. I'll also include Lieberman's political history and the potential bipartisan support he might have, as well as the criticism he's received.
+
+Finally, I'll make sure the summary flows naturally, keeping it concise and within the word limit. I'll end with the required tokens to signify the completion of the task.
+</think>
+
+**STEP 1:**  
+* Contender  
+* Leading  
+* Unlikely  
+* Frontrunner  
+* Point-blank  
+* Endorsed  
+* Angered  
+* Mistake  
+* Intriguing  
+
+**SUMMARY:**  
+President Trump is close to naming a new FBI director and has identified former Democratic Sen. Joe Lieberman as his leading contender. Lieberman, a political figure with a history of bipartisan support, met with Trump to discuss the role. While some Republicans, like Sen. John Cornyn, find the idea intriguing, others, such as Sen. Claire McCaskill, criticize it as a mistake. Lieberman, who served as Connecticut’s attorney general and later as an independent senator, has a complex political history, including endorsing Hillary Clinton in 2016. Trump also met with other candidates, including Acting FBI Director Andrew McCabe. Senate Minority Leader Chuck Schumer opposed the idea of a career politician leading the FBI, though Lieberman’s potential nomination could secure bipartisan Senate support. END OF SUMMARY.

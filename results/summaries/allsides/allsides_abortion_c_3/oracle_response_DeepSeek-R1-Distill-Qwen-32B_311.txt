@@ -1,0 +1,12 @@
+Alright, so the user has given me a query where they want me to summarize a news article while preserving the moral framing. They've provided the article and the specific morally framed words the author used. My task is to create a concise summary using as many of those words as possible.
+
+First, I need to understand the article. It's about Alabama passing a restrictive abortion ban, which is one of the strictest in the country. The bill removes exceptions for rape and incest, aiming to challenge Roe v. Wade. Proponents want a Supreme Court battle, while opponents are concerned about the impact on women and the reversal of Roe.
+
+Next, I should identify the morally charged words: victims, rape, incest, empathized, passed, criminalizing, punishing, pretend, stood, applauded, wept, promise, told, outlawing. I need to incorporate these into the summary without losing the essence.
+
+I'll start by stating that the Alabama Senate passed the legislation, which is a total ban except for saving a mother's life. I'll mention the penalties for providers and the removal of exceptions for rape and incest, highlighting the victims. The bill aims to set up a Supreme Court challenge, which is a key point. I'll include the reactions: supporters applauding, opponents weeping, and the criticism from NARAL Pro-Choice America about criminalizing and punishing women.
+
+I need to keep the summary under 200 words, so I'll be concise but include all the necessary moral elements. I'll structure it to show the legislation's strictness, the intent behind it, and the opposing viewpoints, ensuring the moral framing is clear.
+</think>
+
+SUMMARY: The Alabama Senate passed legislation banning nearly all abortions, including for victims of rape and incest, with exceptions only to save a mother’s life. Those performing abortions could face 10 to 99 years in prison. The bill, which passed 25-6, aims to set up a Supreme Court battle to overturn Roe v. Wade. Proponents, like State Rep. Terri Collins, empathized with rape and incest survivors but removed exceptions to strengthen the law. Opponents, including state Sen. Vivian Figures, criticized the law, with NARAL Pro-Choice America condemning it as criminalizing abortion and punishing women. The bill’s passage saw Republicans applauding while women wept, highlighting fears that anti-choice efforts could lead to outlawing abortion nationwide. END OF SUMMARY.

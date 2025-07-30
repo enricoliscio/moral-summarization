@@ -1,0 +1,18 @@
+Alright, I need to help the user by summarizing the given news article. Let me read through it carefully to understand the main points.
+
+The article is about Kate Steinle's tragic death in San Francisco, where she was shot by Juan Lopez-Sanchez, an undocumented immigrant with a history of felony convictions. The user wants a concise summary, so I should focus on key details.
+
+First, I'll note the incident: Steinle's death, Lopez-Sanchez's background, including his deportations and criminal history. Then, the article addresses the broader context, emphasizing that he doesn't represent all undocumented immigrants. It's important to mention that illegal immigration isn't linked to higher crime rates, citing research from the Immigration Policy Center.
+
+The article also critiques the immigration enforcement strategy, pointing out that resources are often used on low-priority cases instead of serious criminals. It mentions the shift in deportation priorities by the Department of Homeland Security to target more dangerous individuals, which is a positive step.
+
+Additionally, the article touches on President Obama's executive action, which could have helped focus enforcement on criminals like Lopez-Sanchez. It's crucial to highlight that the system failed in this case, leading to Steinle's death, and that undocumented immigrants shouldn't be stereotyped as criminals.
+
+I should structure the summary to include the incident, Lopez-Sanchez's background, the broader context about immigration, the critique of enforcement, the proposed changes, and the conclusion that not all undocumented immigrants are criminals. Keeping it under 200 words and ensuring clarity is key.
+
+Let me make sure I don't include unnecessary details and stick to the main points. I'll also need to end with the specified tokens as per the user's instructions.
+</think>
+
+SUMMARY:  
+Kate Steinle, 31, was fatally shot on July Fourth weekend in San Francisco by Juan Francisco Lopez-Sanchez, an undocumented Mexican immigrant with a history of seven felony convictions, including drug offenses. Lopez-Sanchez, who had been deported multiple times, is accused of a violent crime and is a federal felon for illegally re-entering the U.S. The article emphasizes that he does not represent the 11 million undocumented immigrants in the U.S., most of whom are law-abiding and contribute positively to society. Research shows that crime rates have fallen as the immigrant population, including undocumented individuals, has grown. The article critiques the idea that increased illegal immigration leads to more crime and highlights the need for smarter immigration enforcement, focusing on serious criminals rather than productive community members. Lopez-Sanchez’s case underscores the failure of current enforcement strategies, as he had been deported five times but remained free. The Department of Homeland Security recently announced a shift in priorities to target recent arrivals, felons, and terrorism threats, which is seen as a step in the right direction. The article concludes that undocumented immigrants should not be vilified for the actions of one individual.  
+END OF SUMMARY.

@@ -1,0 +1,15 @@
+<think>
+Okay, so the user has given me a query where they want a news summary that preserves the moral framing from the original article. They provided the article and a list of morally framed words. My task is to create a summary using as many of those words as possible without exceeding 200 words.
+
+First, I need to understand the main points of the article. It's about a hearing in the House Intelligence Committee where Republicans demand the resignation of Chairman Adam Schiff. There's a lot of conflict between the parties, with Republicans accusing Schiff of McCarthyism and Democrats defending him. The Mueller report is a central point, with Schiff emphasizing the need to see the full report before absolving Trump.
+
+I should identify the key morally charged words from the list that are used in the article. Words like "fueled," "chasing," "nefarious," "immoral," "unethical," etc., are important to include.
+
+Next, I'll structure the summary by highlighting the conflict, the accusations, Schiff's stance, and the broader implications. I need to ensure that the moral framing is preserved, so I'll use the specified words where appropriate.
+
+I should keep each sentence concise and stick to the main events without getting bogged down in details. Also, I need to make sure the summary flows logically, starting from the hearing, the accusations, Schiff's defense, and the ongoing investigation.
+
+Finally, I'll check the word count to ensure it's under 200 words and that all key points are covered with the necessary moral language.
+</think>
+
+SUMMARY: The House Intelligence Committee's hearing, following Robert Mueller's report, exposed a deep partisan divide. Republicans demanded Chairman Adam Schiff's resignation, accusing him of "McCarthyism" and "chasing" Russian collusion without evidence. Schiff defended his stance, calling certain actions "immoral," "unethical," and "unpatriotic," and refused to absolve President Trump or his campaign without seeing Mueller's full report. Republicans criticized his "nefarious" conduct, claiming his actions "damaged" the committee's integrity and were "incompatible" with his role. Democrats backed Schiff, praising his "professional" and "patriotic" leadership, while Trump accused him of "lying" and "leaking." The hearing highlighted the ongoing conflict over Mueller's findings, with Democrats vowing to continue their "investigative" work, despite Republican claims of "unlawful" behavior. The broader implications of Russia's influence on U.S. democracy were overshadowed by the partisan "wrath" and "conspiracy" accusations. END OF SUMMARY.

@@ -1,0 +1,62 @@
+Alright, so I need to help the user by summarizing a news article while preserving the moral framing. The user provided a detailed article about Maryland Democrats rejecting a gun violence bill, and the context around it. They also included specific instructions on how to process this, so I should follow those carefully.
+
+First, I need to identify the morally framed words. These are words that carry a moral judgment, like "rejected," "combating," "begged," "senselessly," "clogged," "pleaded," "publicly," "unacceptable," "spiked," "senselessly," "clog," "mass shootings," "increase," "needed," "relatives," "consideration," "disappointments," "address," "issue," "crime," "gut," "amendment," "penalty," "undermined," "public safety," "break," "spiked," "unacceptable," "senselessly," "clog," "mass shootings," "increase," "needed," "relatives," "consideration," "disappointments," "address," "issue," "crime," "gut," "amendment," "penalty," "undermined," "public safety," "break," "spiked," "unacceptable," "senselessly," "clog," "mass shootings," "increase," "needed," "relatives," "consideration," "disappointments," "address," "issue," "crime," "gut," "amendment," "penalty," "undermined," "public safety," "break."
+
+Next, I need to summarize the article, making sure to include these morally framed words. The summary should be concise, under 200 words, and capture the essence of the article's moral perspective.
+
+I should start by outlining the main points: Maryland Democrats rejected a bill to combat gun violence, while the mayor pleaded for residents to stop violence to free up hospital beds for COVID-19. The bill, pushed by the Republican governor, aimed to strengthen penalties but was amended by Democrats to remove mandatory minimums. This led to criticism from Republicans, who felt it weakened the bill's impact. Public opinion supported the bill, but legislative actions and amendments led to its rejection. The article highlights the tension between addressing crime and public health during a crisis.
+
+Now, I need to weave in the moral words naturally into the summary, ensuring it's coherent and within the word limit.
+</think>
+
+**STEP 1:**
+
+* Rejected
+* Combating
+* Begged
+* Senselessly
+* Clogged
+* Plead
+* Publicly
+* Unacceptable
+* Spiked
+* Senselessly
+* Clog
+* Mass shootings
+* Increase
+* Needed
+* Relatives
+* Consideration
+* Disappointments
+* Address
+* Issue
+* Crime
+* Gut
+* Amendment
+* Penalty
+* Undermined
+* Public safety
+* Break
+* Spiked
+* Unacceptable
+* Senselessly
+* Clog
+* Mass shootings
+* Increase
+* Needed
+* Relatives
+* Consideration
+* Disappointments
+* Address
+* Issue
+* Crime
+* Gut
+* Amendment
+* Penalty
+* Undermined
+* Public safety
+* Break
+
+**SUMMARY:**
+
+Maryland Democrats rejected a bill aimed at combating gun violence, despite Baltimore Mayor Jack Young publicly pleading for residents to stop shooting each other to free up hospital beds for COVID-19 patients. The bill, proposed by Republican Governor Larry Hogan, sought to strengthen penalties for violent criminals, including making firearm theft a felony. However, Democrats removed mandatory minimum sentences, arguing the penalties were too severe. GOP senators criticized the amendments, claiming they gutted the bill and undermined public safety. Despite bipartisan support in the Senate, the bill failed in the House. Hogan's office reported strong public support for the legislation, with 85% of Baltimore residents and 84% of African Americans statewide backing it. Meanwhile, violent crime spiked in Baltimore, with the mayor urging an end to senseless violence to avoid clogging hospitals. The legislative session ended without addressing the crime issue, leaving many disappointed. END OF SUMMARY.

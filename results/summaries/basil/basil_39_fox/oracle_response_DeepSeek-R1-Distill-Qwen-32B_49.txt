@@ -1,0 +1,16 @@
+Okay, I need to help the user by summarizing the given news article while preserving the moral framing. The user specified that I should keep the morally framed words "love" and "support" in the summary. 
+
+First, I'll read through the article to understand the main points. Mary Cheney is criticizing her sister Elizabeth over same-sex marriage. Mary is openly lesbian and married, so her stance is personal. She uses strong language, calling her sister "dead wrong" and emphasizing love and equal rights. 
+
+Elizabeth, on the other hand, wants the decision to be made by the states. She's running for Senate, so her position is political. Their father, Dick Cheney, supports same-sex marriage but also thinks it's a state issue. 
+
+I need to make sure the summary includes "love" and "support." I'll structure it to highlight the sisters' differing views, using those words where appropriate. I'll also keep it under 200 words and end with the specified tokens. 
+
+Let me draft the summary, ensuring it's concise and includes the moral elements. I'll check the word count and make sure it flows naturally. 
+
+Wait, I should also mention that Dick Cheney supports same-sex marriage, which adds context to the family's stance. That should be included to show the broader family perspective. 
+
+Alright, putting it all together, making sure the summary is clear and meets all the user's requirements.
+</think>
+
+SUMMARY: Mary Cheney, an openly lesbian daughter of former Vice President Dick Cheney, has criticized her sister Elizabeth on Facebook for her stance on same-sex marriage. Mary, who is married to Heather Poe, wrote that her sister is "dead wrong" on the issue, emphasizing that "freedom means freedom for everyone" and that all families deserve equal rights. Elizabeth, a Republican Senate candidate in Wyoming, has argued that the issue should be decided by voters on a state-by-state basis, not by judges or legislators. Mary countered that it's not a matter for a "show of hands," urging support for equal rights. Dick Cheney, their father, has publicly supported same-sex marriage but also believes it should be decided at the state level. The sisters' differing views highlight a family divide over this contentious issue. END OF SUMMARY.

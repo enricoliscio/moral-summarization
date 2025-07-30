@@ -1,0 +1,19 @@
+Okay, so the user wants me to summarize a news article while preserving the moral framing the author used. They provided the article and a list of morally framed words. I need to make sure I include as many of those words as possible in the summary without exceeding 200 words. 
+
+First, I'll read through the article to get the main points. Senator Rubio is talking about his foreign policy vision, comparing it to JFK's, emphasizing American strength and military budget. He's criticizing Obama's approach, saying it leads to weakness and danger. He also opposes Obama's policies on Cuba, Iran, Syria, and Ukraine. He criticized Hillary Clinton's tenure and mentioned the Iraq invasion, saying he wouldn't have supported it if WMDs weren't present.
+
+Now, I need to identify the morally framed words from the list. Words like threats, understood, preventing, promoting, weakness, danger, enemy, disagrees, believing, ceding, protection, clarity, help, negligent, trapped, destruction, favor. I should incorporate these into the summary.
+
+I'll structure the summary by highlighting Rubio's main points: his vision, criticism of Obama, key principles, opposition to Obama's policies, criticism of Clinton, and stance on Iraq. I'll use the moral words to frame each point.
+
+I need to keep it concise, so each sentence should cover a main point without going into too much detail. I'll make sure the summary flows logically and includes the key moral terms. 
+
+Let me draft it: Start with Rubio's vision, mention JFK, the principles, criticize Obama's weakness leading to danger, his opposition to Obama's policies, criticize Clinton, stance on Iraq, and Jeb Bush's support. 
+
+I'll check the word count to ensure it's under 200. Also, make sure to use the specified moral words where appropriate. 
+
+Finally, I'll present the summary after the "SUMMARY:" token and end with "END OF SUMMARY." as instructed.
+</think>
+
+SUMMARY:  
+U.S. Sen. Marco Rubio (R-Fla.) presented a foreign policy vision emphasizing American strength and global influence, drawing parallels to President John F. Kennedy. He argued that American power prevents war and that weakness invites danger, criticizing President Obama for believing the U.S. was "too engaged" and for ceding leadership to other nations. Rubio's "Rubio Doctrine" is guided by three principles: American strength, protecting the economy, and moral clarity on core values. He opposes Obama's policies on Cuba, Iran, Syria, and Ukraine, and criticized Hillary Clinton's tenure as secretary of state as "ineffective" and "negligent." Rubio also stated he would not have favored the 2003 Iraq invasion if Saddam Hussein lacked weapons of mass destruction, contrasting with Jeb Bush's support. Rubio's speech invoked timeless truths, countering claims of being trapped in the past. END OF SUMMARY.

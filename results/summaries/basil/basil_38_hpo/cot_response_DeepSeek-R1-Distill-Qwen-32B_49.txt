@@ -1,0 +1,29 @@
+Okay, I need to help the user by summarizing the given news article while preserving the moral framing. First, I should understand what the user is asking for. They want me to act as a news summarizer and a moral expert. So, I need to identify the morally charged words in the article and then write a concise summary that includes those words.
+
+Looking at the article, it's about the U.S. Treasury recognizing same-sex marriages for tax purposes, regardless of the state they live in. The key moral terms here are words that convey justice, equality, fairness, and discrimination. I'll go through the article and pick out those words.
+
+Next, I'll write a summary that includes these terms. I need to keep it under 200 words, so I have to be concise but make sure all the important points are covered. The summary should mention the Treasury's decision, its implications for same-sex couples, the overturning of DOMA, the benefits and penalties involved, and the significance of the ruling in terms of equality and justice.
+
+I also need to structure the summary properly, starting with the main action, then explaining the details, and concluding with the broader impact. I should ensure that the moral framing is clear, highlighting how this decision promotes fairness and equality.
+
+Finally, I'll make sure to format the response correctly, with the step 1 listing the moral words and then the summary. I should double-check that I haven't missed any key points and that the summary flows logically.
+</think>
+
+**STEP 1:**
+
+* Discriminatory  
+* Equality  
+* Fairness  
+* Justice  
+* Protection  
+* Benefits  
+* Responsibilities  
+* Burden  
+* Remedy  
+* Constitutionality  
+* Discrimination  
+
+**SUMMARY:**  
+The U.S. Treasury has announced that same-sex married couples will be recognized for federal tax purposes, regardless of their state of residence. This decision follows the Supreme Court’s overturning of the Defense of Marriage Act (DOMA), which previously denied federal benefits to same-sex couples. Treasury Secretary Jacob Lew stated that the new policy ensures "certainty and clear, coherent tax filing guidance" for same-sex couples nationwide, guaranteeing they can access the same federal benefits, responsibilities, and protections as heterosexual couples. The policy also addresses the "marriage penalty," where some joint filers face higher taxes. Edie Windsor, the plaintiff in the DOMA case, praised the decision as the "precise remedy" she sought to challenge the discriminatory law. This ruling marks a significant step toward equality and justice for the LGBTQ+ community, ensuring they are treated fairly under federal tax laws, regardless of their state’s recognition of marriage.  
+
+**END OF SUMMARY.**

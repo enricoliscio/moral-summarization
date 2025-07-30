@@ -1,0 +1,10 @@
+Okay, I need to summarize this news article about the shuttle Atlantis. The user wants a concise summary under 200 words, ending with specific tokens. First, I'll read the article to understand the key points.
+
+The main event is the successful launch of Atlantis, carrying seven astronauts and hardware to the International Space Station. It's the first of six missions in seven months. The launch was delayed due to a leak and a computer glitch, but they fixed it just in time. Jerry Ross is making his seventh flight, a milestone. The mission involves installing a crucial support structure for solar arrays.
+
+I should include the date, the shuttle's name, the purpose, the delays, the milestone, and the mission's goal. Keeping it under 200 words, I'll structure it clearly, making sure each key point is covered succinctly.
+</think>
+
+SUMMARY:  
+The space shuttle Atlantis successfully launched from Cape Canaveral, carrying seven astronauts and hardware to the International Space Station (ISS). This marks the first of six missions over the next seven months aimed at completing the ISS. The launch was delayed due to a liquid hydrogen leak and a computer glitch, which engineers resolved just 11 seconds before the final countdown. Atlantis, equipped with three new main engines, thundered into space at 4:44 p.m. Astronaut Jerry L. Ross, making his seventh space flight, set a new record. During the 11-day mission, astronauts will install the "S-Zero" support structure, a 44-foot-long, 27,000-pound keystone unit, which will support a large solar array. This mission is a significant step toward completing the ISS.  
+END OF SUMMARY.

@@ -1,0 +1,40 @@
+<think>
+Okay, so the user has provided a news article and wants me to summarize it while preserving the moral framing. They also want me to first identify all the morally framed single words. Let me start by understanding the task.
+
+First, I need to read through the article and pick out words that carry a moral connotation. Words like "withholding," "punishment," "starvation," "retribution," etc., seem to be key here. These words imply wrongdoing or unethical actions, so they're part of the moral framing.
+
+Next, I have to summarize the article, making sure to include as many of these moral words as possible. The summary needs to be concise, under 200 words, and should reflect the author's moral perspective. I should focus on the main points: Mugabe's alleged actions, the impact on the population, the role of international organizations, and Tsvangirai's stance.
+
+I also need to structure the response with STEP 1 listing each moral word and then the SUMMARY. I have to make sure each step is clearly marked and that the summary flows naturally while including the key moral terms.
+
+Let me go through the article again to ensure I catch all the morally framed words. Words like "deliberately," "withholding," "punishment," "starvation," "retribution," "vendetta," "discriminatory," "sabotage," "oppression," "repression," "illegitimate," "assassination," and "unjust" come to mind. These words highlight the unethical actions and the suffering described.
+
+Now, for the summary, I'll start by stating Tsvangirai's accusations against Mugabe, mention the starvation and retribution, the impact on farmers and rural areas, the UN's warning, the government's denial, the role of NGOs, the land reform issues, and Tsvangirai's call for peaceful change. I'll also touch on his trial and the international sanctions.
+
+I need to make sure the summary is within the word limit and that it captures all the essential moral points without being too verbose. I'll also ensure that the summary starts with the key accusations and flows logically to the conclusion about Zimbabwe's future.
+
+Finally, I'll format the response with STEP 1 listing each moral word and then the SUMMARY section, making sure to end with the specified tokens. I should double-check that all the moral words are included and that the summary accurately reflects the article's moral framing.
+</think>
+
+**STEP 1:**
+
+* Withholding  
+* Punishment  
+* Starvation  
+* Retribution  
+* Vendetta  
+* Discriminatory  
+* Sabotage  
+* Oppression  
+* Repression  
+* Illegitimate  
+* Assassination  
+* Unjust  
+
+---
+
+**SUMMARY:**  
+
+Opposition leader Morgan Tsvangirai accused Zimbabwean President Robert Mugabe of deliberately withholding food from drought-affected areas as punishment for not supporting ZANU-PF in the March election. Tsvangirai claimed this was part of a broader campaign of retribution against him and his supporters, with the worst conditions in southern Zimbabwe, where opposition to ZANU-PF is strongest. The UN warned that 1.5 million Zimbabweans face starvation due to drought and government-backed farm invasions, which have disrupted maize and wheat production. Tsvangirai alleged that food distribution is discriminatory, with ZANU-PF cards required to access grain, and that the land-reform program benefits Mugabe's cronies rather than the poor. NGOs reported cases of people being forced to denounce the MDC before receiving food. Tsvangirai emphasized that Zimbabwe's future depends on its people fighting peacefully for freedom, despite international sanctions. He also faced treason charges, denying accusations of plotting Mugabe's assassination.  
+
+**END OF SUMMARY.**

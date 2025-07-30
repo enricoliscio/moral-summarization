@@ -1,0 +1,15 @@
+<think>
+Alright, I need to help the user by summarizing the given news article while preserving the moral framing. Let me start by reading the article carefully. 
+
+The article talks about a protest in Kentucky where demonstrators hung an effigy of Governor Beshear. They were protesting against coronavirus restrictions. The protest started with celebrating the Second Amendment but turned into opposition against the shutdown. They marched to the governor's house, shouted, and hung the effigy with a Latin phrase meaning "thus always to tyrants." This caused backlash from both parties, with McConnell and others condemning the act as unacceptable, hate-filled, and disgusting. They emphasized the importance of unity and following science to protect the community and achieve freedom.
+
+Now, I need to identify the morally framed words the author used: fight, shutdown, marched, shouting, hanging, effigy, protest, unacceptable, hate, disgusting, gave, protect, act, safe, freedom, beyond. I should make sure to include as many of these as possible in the summary without losing the essence.
+
+I should structure the summary to include the protest details, the actions taken, the backlash, and the moral implications. I'll start by mentioning the protest, the effigy, and the Latin phrase. Then, I'll note the backlash from McConnell and others, using words like unacceptable, hate, disgusting. I'll end by highlighting the moral stance against such actions and the call for unity and following science.
+
+I need to keep the summary under 200 words. Let me draft it, making sure to include all key points and the moral framing. I'll check the word count to ensure it's concise. 
+
+Finally, I'll present the summary after the "SUMMARY:" token and end with "END OF SUMMARY." to meet the user's requirements.
+</think>
+
+SUMMARY: Protesters in Kentucky hung an effigy of Gov. Andy Beshear outside the state capitol, part of a rally organized by Take Back Kentucky to "fight" against coronavirus restrictions. The protest began with celebrating the Second Amendment but turned into a call against the "shutdown." Protesters "marched" to Beshear's house, "shouting" for him to come out, and later returned to the capitol to "hang" the effigy, which displayed a Latin phrase meaning "thus always to tyrants." The act sparked widespread condemnation, with Sen. Mitch McConnell calling it "unacceptable" and "hate-filled," while others described it as "disgusting." Many criticized the "act" as "beyond reprehensible," emphasizing the importance of unity and following science to "protect" the community and achieve "freedom." END OF SUMMARY.

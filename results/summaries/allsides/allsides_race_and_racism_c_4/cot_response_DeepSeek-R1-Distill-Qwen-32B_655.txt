@@ -1,0 +1,45 @@
+<think>
+Okay, so the user has given me a query where they want me to act as a news summarizer and a moral expert. They provided a news article about the Tulsa race massacre and specific instructions on how to process it. Let me break this down step by step.
+
+First, the user wants me to identify all the single words that are morally framed. They mentioned "STEP 1:" and to list each word with a star. I need to go through the article and pick out words that carry moral connotations. Words like "violence," "buried," "hate," "oppression," "racism," etc., come to mind. I should make sure each of these is relevant and carries a moral charge.
+
+Next, the user wants a summary that preserves the moral framing. The summary needs to be concise, under 200 words, and should include as many of the identified moral words as possible. I need to ensure that the summary captures the key points: the discovery of mass graves, the historical context of the massacre, the suppression of the event, and the ongoing efforts to remember it. I should also highlight the moral implications, such as the erasure of history and the impact on the community.
+
+I should also consider the structure. After STEP 1, I list the words. Then, under SUMMARY, I write the concise summary, making sure to include the moral terms naturally. I need to keep the language clear and impactful, reflecting the gravity of the event and its historical significance.
+
+I wonder if I'm missing any morally framed words. Let me go through the article again. Words like "mass graves," "violence," "buried," "hate," "oppression," "racism," "destruction," "injustice," "suppression," "erasure," "silenced," "injustices," "systematic," "abolished," "progress," "equality," "oppression," "racism," "erasure," "silenced," "injustices," "systematic," "abolished," "progress," "equality." I think I have a good list.
+
+Now, for the summary, I need to weave these words into a coherent narrative. Start with the discovery, then the historical context, the suppression, and the current efforts. I should emphasize the moral aspects, like how the event was buried and the ongoing fight for justice.
+
+I should also make sure the summary flows well and stays within the word limit. Maybe I can combine some sentences to keep it concise. For example, mention the discovery, the historical background, the suppression, and the current projects to remember the event.
+
+Let me draft the summary: Scientists found mass graves linked to the 1921 Tulsa race massacre. The article explains the destruction of Black Wall Street, the violence, and the suppression of the event. The moral framing includes words like buried, hate, oppression, racism, etc. The summary should highlight the erasure and the fight for justice.
+
+I think that covers it. Now, I'll format it as per the user's instructions, making sure to use the correct tokens and structure.
+</think>
+
+**STEP 1:**  
+* Buried  
+* Hated  
+* Oppressed  
+* Racist  
+* Violent  
+* Destroyed  
+* Injustices  
+* Suppressed  
+* Erased  
+* Silenced  
+* Injustices  
+* Systematic  
+* Abolished  
+* Progress  
+* Equality  
+* Oppressed  
+* Racist  
+* Erased  
+* Silenced  
+* Injustices  
+
+**SUMMARY:**  
+Scientists in Tulsa discovered evidence of mass graves linked to the 1921 race massacre, a deeply buried chapter of racial violence in U.S. history. The Greenwood District, known as "Black Wall Street," was destroyed when white mobs attacked after a false accusation, leaving 35 blocks in ruins and thousands homeless. The death toll was officially 36, but historians estimate up to 300. The event, often mislabeled as a "riot," was systematically erased from records and history books, with insurance companies and law enforcement failing to act. Efforts to excavate and identify remains are underway, with plans to commemorate the 100th anniversary. The massacre challenges the narrative of black progress in America, highlighting the systemic oppression and racism that allowed such violence to occur. The discovery brings attention to the buried truths of this tragic event, emphasizing the need to confront and remember this dark chapter in history.  
+**END OF SUMMARY.**

@@ -1,0 +1,62 @@
+Okay, so the user wants me to summarize a news article while preserving the moral framing. They also want me to identify the morally framed words first. Let me start by reading through the article to understand the context.
+
+The article is about the debate over Medicare between Obama and Romney-Ryan. It mentions terms like "devastating," "end Medicare as we know it," "shift costs," "dishonest," "hypocritical," "raid," "savings," "cuts," "raided," "solvency," "repeal," "expansions," "subsidies," "additional coverage," "prescription drugs," "preventive services," "restore," "funding," "reducing," "open-ended financial commitment," "fixed amount," "private insurance," "traditional Medicare," "reduce projected Medicare payments," "health maintenance organizations," "hospitals," "health care providers," "Medicare cost control board," "rationing," "abolish," "sustainable," "guaranteed benefits," "cost-shifting," "tax hikes," "fiscal challenges," "repeal," "savings," "deficit reduction," "expansions," "subsidies," "additional coverage," "prescription drugs," "preventive services," "restore," "funding," "reducing," "open-ended financial commitment," "fixed amount," "private insurance," "traditional Medicare," "reduce projected Medicare payments," "health maintenance organizations," "hospitals," "health care providers," "Medicare cost control board," "rationing," "abolish," "sustainable," "guaranteed benefits," "cost-shifting," "tax hikes," "fiscal challenges," "repeal," "savings," "deficit reduction," "expansions," "subsidies," "additional coverage," "prescription drugs," "preventive services," "restore," "funding," "reducing," "open-ended financial commitment," "fixed amount," "private insurance," "traditional Medicare," "reduce projected Medicare payments," "health maintenance organizations," "hospitals," "health care providers," "Medicare cost control board," "rationing," "abolish," "sustainable," "guaranteed benefits," "cost-shifting," "tax hikes," "fiscal challenges."
+
+Wait, that's a lot. I need to make sure I'm only listing each word once. Also, I should focus on the words that carry a moral connotation, like "devastating," "dishonest," "hypocritical," etc.
+
+After identifying those words, I need to write a summary that includes as many of them as possible. The summary should be concise, under 200 words, and capture the essence of the debate, highlighting the moral framing from both sides.
+
+I should structure the summary to show the conflict: Obama's plan using savings for uninsured and Medicare trust fund, Romney-Ryan's plan to change Medicare structure, the accusations of cutting benefits, and the moral accusations like dishonesty and hypocrisy.
+
+I need to ensure that the summary flows well and accurately represents both parties' positions while maintaining the moral language used in the article.
+</think>
+
+**STEP 1:**  
+* Devastating  
+* End  
+* Shift  
+* Dishonest  
+* Hypocritical  
+* Raid  
+* Savings  
+* Cuts  
+* Raided  
+* Solvency  
+* Repeal  
+* Expansions  
+* Subsidies  
+* Additional  
+* Coverage  
+* Prescription  
+* Drugs  
+* Preventive  
+* Services  
+* Restore  
+* Funding  
+* Reducing  
+* Open-ended  
+* Fixed  
+* Private  
+* Traditional  
+* Reduce  
+* Health  
+* Maintenance  
+* Organizations  
+* Hospitals  
+* Providers  
+* Cost  
+* Control  
+* Board  
+* Rationing  
+* Abolish  
+* Sustainable  
+* Guaranteed  
+* Benefits  
+* Cost-shifting  
+* Tax  
+* Hikes  
+* Fiscal  
+* Challenges  
+
+**SUMMARY:**  
+The debate over Medicare savings has intensified as both parties clash over the moral implications of their plans. Representative Paul Ryan’s budget, endorsed by Mitt Romney, assumes the same $716 billion in Medicare savings as President Obama’s Affordable Care Act. Obama accuses Romney and Ryan of ending Medicare as we know it, shifting costs to beneficiaries, while Romney and Ryan claim their plan restores funding and strengthens Medicare. Democrats argue that Romney’s ad is dishonest and hypocritical, as Ryan’s budget includes cuts to Medicare benefits. Republicans counter that Obama’s law raids Medicare to fund Obamacare, while they aim to use savings for solvency and deficit reduction. The Affordable Care Act reduces payments to providers and creates a cost control board, which Romney and Ryan seek to abolish, calling it a rationing tool. The debate highlights competing visions for Medicare’s future, with Democrats emphasizing guaranteed benefits and Republicans advocating for private insurance options. END OF SUMMARY.

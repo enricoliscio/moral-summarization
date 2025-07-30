@@ -1,0 +1,33 @@
+Alright, let me try to figure out how to approach this query. The user has provided a news article and wants me to summarize it while preserving the moral framing. They also want me to identify all the morally framed words first.
+
+First, I need to understand what constitutes a morally framed word. These are words that carry a positive or negative connotation related to ethics, values, or judgments. For example, words like "rejected," "begged," "senselessly," "clog," "felony," "mandatory," "severe," "priorities," "disappointment," "address," "public safety," "unpopular," "spiked," "unacceptable," and "focus" seem to fit because they imply judgment or evaluation.
+
+Next, I'll go through the article and pick out each of these words. I'll list them under STEP 1, each on a new line with an asterisk.
+
+After identifying the morally framed words, I need to write a concise summary. The summary should be under 200 words and include as many of these words as possible. I'll need to capture the main points: the rejection of the bill, the mayor's plea, the bill's provisions, the Democrats' opposition to mandatory minimums, the public support, and the spike in crime.
+
+I should ensure that the summary flows logically, highlighting the conflict between the Democrats and the governor, the public sentiment, and the impact of the legislative decision. I'll make sure to include the morally charged words to maintain the author's framing.
+
+Finally, I'll format the response as specified, starting with the STEP 1 section, followed by the SUMMARY, and ending with the required tokens. I'll double-check the word count to ensure it's within the limit and that all key points are covered accurately.
+</think>
+
+**STEP 1:**  
+* Rejected  
+* Begged  
+* Senselessly  
+* Clog  
+* Felony  
+* Mandatory  
+* Severe  
+* Priorities  
+* Disappointment  
+* Address  
+* Public safety  
+* Unpopular  
+* Spiked  
+* Unacceptable  
+* Focus  
+
+**SUMMARY:**  
+Maryland Democrats rejected a bill aimed at combating gun violence, despite Baltimore mayor Jack Young pleading with residents to stop shooting each other to free up hospital beds for coronavirus patients. The bill, pushed by Republican governor Larry Hogan, would have strengthened penalties for violent criminals, including making firearm theft a felony and increasing penalties for illegal gun use. However, Democrats opposed mandatory minimum sentencing, arguing it was too severe. Despite its passage in the state Senate, the bill was ultimately rejected in the House. GOP senators accused Democrats of gutting the legislation, claiming it undermined public safety. The bill had strong public support, with 85% of Baltimore residents and 84% of African Americans statewide backing it. Meanwhile, violent crime in Baltimore spiked, prompting the mayor to urge residents to stop the violence. The legislative session ended without addressing the crime issue, leaving many, including House Minority Leader Nic Kipke, disappointed.  
+END OF SUMMARY.

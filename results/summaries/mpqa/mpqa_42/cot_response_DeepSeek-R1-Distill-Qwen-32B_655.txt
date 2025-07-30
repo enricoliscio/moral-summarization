@@ -1,0 +1,38 @@
+<think>
+Okay, so I need to help the user with their query. They provided a news article and specific instructions on how to process it. Let me break this down.
+
+First, the user wants me to act as a news summarizer assistant and a moral expert. My tasks are twofold: identify morally framed words and then write a summary preserving those frames.
+
+Looking at the article, it's about Hameed Gul criticizing the US State Department's human rights report. He accuses the US of hypocrisy and hegemony. My first step is to find all the single words that carry moral framing. I'll go through the text and pick out words that have strong moral connotations. Words like "blatant lies," "propaganda," "hegemony," "subjugate," etc. I'll list each on a new line with a star.
+
+Next, I need to summarize the article, keeping those moral words intact. The summary should be concise, under 200 words. I should include the main points: Gul's rejection of the report, his accusations against the US, the examples he gives like Afghanistan, India, and Palestine, and his call for Muslim unity.
+
+I should make sure the summary flows well and includes all the key moral points without getting too detailed. Also, I need to end with the specified tokens. I'll start by identifying the moral words, then craft a summary that reflects the author's framing.
+
+Wait, I should double-check if I'm missing any morally framed words. Let me read through the article again. Words like "fraudulent," "terrorist," "extremist," "barbarities," "oppression," "murdered," "indifferent," "submission," "resistance." Yes, those are all morally charged.
+
+Now, for the summary. I'll mention Gul's rejection, his criticism of US hypocrisy, the examples of Afghanistan, India, and Palestine, and his call for unity. I need to keep it under 200 words, so I'll be concise but include all the necessary points.
+
+I think that's all. Time to put it together.
+</think>
+
+**STEP 1:**  
+* Blatant lies  
+* Propaganda  
+* Hegemony  
+* Subjugate  
+* Force  
+* Fraudulent  
+* Terrorist  
+* Extremist  
+* Barbarities  
+* Oppression  
+* Murdered  
+* Indifferent  
+* Submission  
+* Resistance  
+
+**SUMMARY:**  
+Leading Pakistani defense analyst Hameed Gul strongly criticized the US State Department's human rights report, calling it "blatant lies and propaganda." He accused the US of using human rights as a tool to justify its hegemonic ambitions, targeting countries that resist American dominance. Gul condemned the US for its hypocrisy, citing its silence on human rights abuses in India, where over 600 Muslims were killed by extremist Hindus, and in Palestine, where Israel continues to oppress Muslims with US support. He accused the US of being a "fraudulent, terrorist, and extremist" nation, pointing to its barbaric actions in Afghanistan and its refusal to allow Muslims to defend themselves. Gul called for a "concerted moral resistance" by Muslim scholars and leaders to unite against US influence and imperialist forces, warning that inaction would lead to their eventual crushing.  
+
+**END OF SUMMARY.**

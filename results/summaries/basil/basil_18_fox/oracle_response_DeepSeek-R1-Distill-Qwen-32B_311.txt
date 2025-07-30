@@ -1,0 +1,18 @@
+<think>
+Alright, so the user has given me a query where they want me to act as a news summarizer and moral expert. The task is to summarize a news article while preserving the moral framing the author used. They provided specific morally framed words that should be included: war, faith, fight, attacks, wrong, promote, protect.
+
+First, I need to understand the content of the article. It's about Texas Governor Rick Perry's TV ad where he accuses Obama of waging a "War on Religion." Perry is positioning himself as the GOP candidate to defend faith in America. He ties his faith to conservative social issues, like gay marriage, and criticizes Obama's policies, such as ending the Defense of Marriage Act and promoting gay rights in foreign aid.
+
+Next, I should identify the key points to include in the summary. The main points are Perry's ad, his accusation of Obama's war on religion, his stance on social issues, and his criticism of Obama's policies. I need to make sure to use the morally framed words provided.
+
+I should start by stating that Perry is attacking Obama, using the term "war." Then mention how he's tying his faith to his conservative positions. I'll include his criticism of Obama's policies, using "attacks" and "wrong." Also, I need to mention the presidential memorandum about promoting and protecting gay rights, using "promote" and "protect."
+
+I need to keep the summary concise, under 200 words, and ensure it flows naturally while including all the required moral terms. I'll structure it by first introducing Perry's ad, then his accusations, followed by his stance on social issues, and conclude with his emphasis on faith making America strong.
+
+Let me draft the summary, making sure each sentence incorporates the moral framing words appropriately. I'll check the word count to stay within the limit. Finally, I'll ensure the summary starts with "SUMMARY:" and ends with "END OF SUMMARY."
+
+I think that's a solid approach. Now, I'll put it all together.
+</think>
+
+SUMMARY:  
+Texas Gov. Rick Perry is attacking President Obama, claiming he is waging a "War on Religion" and positioning himself as the GOP candidate to defend faith in America. In a new TV ad titled "Strong," Perry ties his Christian faith to conservative social stances, criticizing Obama for allowing gays to serve openly in the military while restricting kids from celebrating Christmas or praying in school. Perry vows to end Obama's "war on religion" and fight against liberal attacks on religious heritage. He accuses Obama of promoting a lifestyle many Americans of faith find objectionable, citing examples like Obama's decision to stop defending the Defense of Marriage Act and his administration's focus on gay rights in foreign aid. Perry emphasizes that faith made America strong and can do so again. His campaign has focused on social issues, releasing statements to argue Obama is attacking traditional values. END OF SUMMARY.

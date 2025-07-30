@@ -1,0 +1,42 @@
+Okay, so the user has given me a query where they want to summarize a news article while preserving the moral framing. They also want me to identify the morally framed words first. Let me break this down.
+
+First, I need to understand what "morally framed words" mean. These are words that carry a strong moral connotation, indicating right or wrong, good or bad. Examples might include words like "wrongdoing," "abuse," "treason," etc.
+
+The user's query has two main parts. The first step is to extract all single words that are morally framed. I'll go through the article and pick out words that have such connotations. I'll list each one with a bullet point, starting with an asterisk.
+
+Next, I need to write a summary of the article, making sure to include as many of these morally framed words as possible. The summary should be concise, no longer than 200 words, and it should capture the essence of the article while maintaining the moral tone.
+
+Looking at the article, it's about the impeachment proceedings against Trump. The Democrats are accusing him of abusing power and obstructing Congress, which are strong moral charges. The Republicans are countering, saying there's no evidence and that the process is unfair. The key points include the withholding of aid to Ukraine, the phone call with Zelenskiy, and the lack of evidence from the Republicans' side.
+
+I'll need to ensure that the summary includes terms like "abuse of power," "obstruction," "treason," "wrongdoing," etc., to maintain the moral framing. I'll also need to mention both sides' arguments, highlighting the moral accusations from the Democrats and the defenses from the Republicans.
+
+I should structure the summary to first state the Democrats' accusations, then the Republicans' counterarguments, and conclude with the next steps in the impeachment process. Keeping it under 200 words will require being concise but comprehensive.
+
+I also need to remember to separate the two parts clearly, starting with STEP 1 for the list and then the SUMMARY after that. The user provided an example response, so I can use that as a guide to ensure I'm formatting correctly.
+
+Overall, the key is to accurately capture the moral elements while providing a clear and concise summary of the article's content.
+</think>
+
+**STEP 1:**
+
+* Wrongdoing  
+* Abuse  
+* Obstruction  
+* Treason  
+* Desperate  
+* Hoax  
+* Unfair  
+* Fanciful  
+* Baloney  
+* Clear and present danger  
+* Cheating  
+* Collusion  
+* Disagreement  
+
+---
+
+**SUMMARY:**  
+
+U.S. Democrats argue that President Trump’s pressure on Ukraine to investigate political rival Joe Biden constitutes a “clear and present danger” to free elections and national security, accusing him of abusing power and obstructing Congress. They claim Trump withheld military aid and a White House meeting with Ukraine’s president to coerce an investigation into Biden and his son, Hunter. Republicans counter, stating there is no evidence of wrongdoing and calling the impeachment inquiry “fanciful” and “baloney.” The House Judiciary Committee is expected to vote on impeachment charges this week, though conviction in the Republican-controlled Senate is unlikely. Democrats warn that Trump’s actions threaten the integrity of U.S. elections, while Republicans argue the process is unfair and politically motivated. The debate centers on Trump’s July 25 phone call with Ukraine’s president, with Democrats emphasizing the moral danger of foreign interference in elections and Republicans dismissing the case as weak.  
+
+**END OF SUMMARY.**

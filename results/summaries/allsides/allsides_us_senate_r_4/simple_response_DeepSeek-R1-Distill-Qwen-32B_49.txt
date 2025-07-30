@@ -1,0 +1,13 @@
+Okay, so the user wants me to summarize a news article while preserving the moral framing. Let me read through the article first to understand the context. It's about Rev. Raphael Warnock, the pastor of Ebenezer Baptist Church, criticizing Georgia's Secretary of State Brian Kemp for a fraud probe into a voter registration drive. Warnock is accusing Kemp of voter suppression, referencing the Ku Klux Klan, which is a strong moral statement. 
+
+I need to make sure the summary captures that moral angle. The article also mentions the New Georgia Project, which is linked to Democratic candidate Michelle Nunn. Kemp's office found some fraudulent cases, but the project claims it's nonpartisan and being unfairly targeted. 
+
+I should include the key points: Warnock's accusation, Kemp's investigation, the fraud cases, the political implications, and the claims of voter suppression versus legitimate oversight. I also need to note the potential impact on the Senate race. 
+
+Let me structure the summary to highlight the conflict between voter suppression accusations and the investigation into fraud, ensuring the moral framing is clear. I'll keep it under 200 words and make sure to end with the required tokens.
+</think>
+
+SUMMARY:  
+Rev. Raphael Warnock, pastor of Atlanta's Ebenezer Baptist Church, has accused Georgia's Republican Secretary of State Brian Kemp of voter suppression, referencing the state's history of racial discrimination. Kemp is investigating the New Georgia Project, a voter registration drive linked to Democratic candidate Michelle Nunn, for alleged fraud. Kemp's office claims to have identified 28 cases of fraud or suspicious activity, while the project denies any wrongdoing and accuses Kemp of a "witch hunt." Warnock and project leader Stacey Abrams argue that Kemp's actions chill voter registration efforts, particularly among minorities. Kemp insists his investigation is lawful and necessary, though he denies being racist. The issue has become politically charged, with the Senate race in Georgia hanging in the balance.  
+
+END OF SUMMARY.

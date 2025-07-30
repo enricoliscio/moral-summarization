@@ -1,0 +1,39 @@
+Alright, I need to help the user by summarizing the news article while preserving the moral framing. The user has specified two main tasks: first, identifying all the morally framed single words, and then writing a concise summary that includes as many of those words as possible.
+
+Starting with STEP 1, I'll go through the article and look for words that carry a moral connotation. Words like "fired," "disparaging," "texts," "protected," "troubling," "guarantee," "process," "evidence," "protected," "decision," "pressure," "punish," "protected," "weaken," "democracy," "anti-Trump," "disdain," "improper," "prospects," "accountability," "celebrated," "dropped," "properly," "redone." These words seem to carry moral weight, indicating approval or disapproval.
+
+For the summary, I need to condense the article into under 200 words. I'll start by stating that Peter Strzok was fired despite a recommendation for suspension. His attorney argues it's a political move, highlighting the lack of evidence against his work. The article mentions his role in key investigations and the inspector general's concerns about bias and improper actions. I'll also include Trump's reaction, celebrating the firing and suggesting the investigation be dropped. I need to make sure to include the morally framed words to preserve the author's perspective.
+
+I should structure the summary to flow logically, starting with the firing, the reasons given, the attorney's arguments, the inspector general's findings, and finally Trump's response. This way, the moral framing is evident throughout the summary, showing the conflict and implications of the decision.
+</think>
+
+**STEP 1:**
+
+* fired  
+* disparaging  
+* texts  
+* protected  
+* troubling  
+* guarantee  
+* process  
+* evidence  
+* protected  
+* decision  
+* pressure  
+* punish  
+* protected  
+* weaken  
+* democracy  
+* anti-Trump  
+* disdain  
+* improper  
+* prospects  
+* accountability  
+* celebrated  
+* dropped  
+* properly  
+* redone  
+
+**SUMMARY:**  
+
+FBI Special Agent Peter Strzok was fired by Deputy Director David Bowdich despite a recommendation for a 60-day suspension and demotion from the FBI’s Office of Professional Responsibility. Strzok’s attorney, Aitan Goelman, argued the decision was politically motivated, citing Strzok’s anti-Trump texts and the lack of evidence linking his personal views to his work. The inspector general found Strzok’s texts potentially biased and improper, while Trump celebrated the firing, calling for the investigation into his campaign to be dropped and Clinton’s probe to be redone. Strzok, a key figure in the Clinton and Trump investigations, was removed from Mueller’s team after his anti-Trump texts surfaced. The decision to fire him raises concerns about political pressure and the weakening of democratic accountability. END OF SUMMARY.

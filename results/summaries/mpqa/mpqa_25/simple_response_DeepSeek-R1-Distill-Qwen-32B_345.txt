@@ -1,0 +1,14 @@
+Alright, I need to help the user by summarizing this news article while preserving the moral framing. The user is a news summarizer assistant and a moral expert, so I should focus on the key events and the ethical implications.
+
+First, I'll read through the article to understand the main points. It's about the events in Venezuela where Hugo Chavez was removed from power, leading to a new president, Pedro Carmona. There were violent clashes, a general strike, and a name change of the country.
+
+I notice the moral aspects here: the violence against peaceful protesters, Chavez's control over media, and the military's role in his downfall. These elements are crucial for the summary because they highlight the ethical issues involved.
+
+I should structure the summary to include the key events in order: the strike, the violence, Chavez's actions, the military's intervention, the name change, and the resulting uncertainty. I'll make sure to mention the shootings and the military's response to show the moral conflict.
+
+I need to keep it concise, under 200 words, so I'll prioritize the most impactful points. I'll also ensure that the summary reflects the author's framing, which seems critical of Chavez's actions and the violence used against protesters.
+
+Finally, I'll make sure the summary starts with "SUMMARY:" and ends with "END OF SUMMARY." without any markdown, just plain text.
+</think>
+
+SUMMARY: Venezuela experienced a tumultuous 24 hours as a general strike and violent clashes led to the ousting of President Hugo Chavez. At least 11 were killed and 80 injured when pro-Chavez forces fired on peaceful protesters demanding his resignation. Chavez had earlier taken control of national TV channels, claiming they were spreading lies. The military, previously loyal to Chavez, turned against him, demanding his resignation, which he reportedly accepted. Chavez was detained, and Pedro Carmona, a business leader, became the new president, renaming the country from the Bolivarian Republic of Venezuela to the Republic of Venezuela. The country now faces a power vacuum and deep social divisions, with many expressing both relief at Chavez's fall and uncertainty about the future. END OF SUMMARY.

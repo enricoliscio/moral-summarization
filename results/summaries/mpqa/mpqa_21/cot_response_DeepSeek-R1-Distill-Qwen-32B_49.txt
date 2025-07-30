@@ -1,0 +1,24 @@
+Alright, so the user has given me a query where they want to summarize a news article while preserving the moral framing. They've also provided specific steps to follow. First, I need to identify all the morally framed words in the text. Then, I have to write a concise summary using those words.
+
+Looking at the article, the main moral frames are around environmental policies like the Kyoto Protocol and the Montreal Protocol. Words like "battles," "phase out," "erode," "protective," "trap," "curbing," "booming economies," "headway," "reducing," and "comparable" stand out as they carry moral implications related to environmental responsibility and policy effectiveness.
+
+Next, I need to craft a summary that includes these terms. I should make sure the summary is under 200 words and captures the essence of the study's findings, the impact of the Montreal Protocol, and the alternative approaches suggested by the researchers. It's important to highlight the slower growth of greenhouse gases and the potential for addressing other pollutants to emphasize the moral imperative of taking action beyond just CO2.
+
+I should structure the summary to first mention the study's findings, then the role of the Montreal Protocol, followed by the implications of slower greenhouse gas growth, and finally the alternative strategies proposed. This will ensure the moral framing is preserved and the summary is both informative and concise.
+</think>
+
+**STEP 1:**  
+* battles  
+* phase out  
+* erode  
+* protective  
+* trap  
+* curbing  
+* booming  
+* headway  
+* reducing  
+* comparable  
+
+**SUMMARY:**  
+A recent study by NASA researchers highlights that global efforts to reduce greenhouse-gas emissions, particularly through the 1987 Montreal Protocol, have slowed the rate of heat retention in the atmosphere. The protocol, which phased out ozone-depleting chlorofluorocarbons, also indirectly reduced heat-trapping gases. If emissions had continued at 1980 levels, temperatures by 2050 would have reached levels expected only by 2100. The slowdown is partly due to reduced methane and carbon dioxide growth, though the reasons remain unclear. Researchers suggest that increased plant and marine CO2 uptake may play a role. The study emphasizes that focusing on carbon dioxide alone, as in the Kyoto Protocol, limits progress, as it requires curbing fossil fuel use, which is tied to economic growth. Instead, targeting other pollutants like black carbon, ozone, and methane could yield significant climate benefits. For example, reducing methane by 30% could match Kyoto's CO2 reduction goals. The findings underscore the need for alternative strategies to combat climate change.  
+**END OF SUMMARY.**

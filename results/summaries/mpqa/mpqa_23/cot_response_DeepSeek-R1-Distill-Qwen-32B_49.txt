@@ -1,0 +1,34 @@
+Okay, so I'm trying to help the user by summarizing this news article while preserving the moral framing. First, I need to understand what the user is asking for. They want me to act as a news summarizer and a moral expert. My task is to summarize the given article, making sure to keep the moral aspects that the author presented.
+
+The user provided a specific structure: first, I need to identify all the single words that are morally framed. They called this "STEP 1:" and each word should be on a new line starting with a *. Then, I have to write a summary after "SUMMARY:" and end with "END OF SUMMARY." The summary should be no longer than 200 words.
+
+Looking at the article, it's about Robert Mugabe's swearing-in after an election that was contested. The moral framing here is clear: the opposition and Western governments are denouncing the election as rigged. So, words like "rigged" are morally charged. I'll need to pick out all such words.
+
+I'll go through the article sentence by sentence. Words like "rigged," "boycott," "violence," "intimidation," "disenfranchisement," "defiant," "racism," "land-reform," "seized," "transparency," "sanctions," "legitimate," "democratic principles," "property rights," and "revitalizing" stand out as morally framed. These words carry a judgment or evaluation, which is what the user wants preserved.
+
+Now, for the summary. I need to condense the article, keeping the moral elements. I'll start by stating Mugabe's swearing-in, the opposition and Western governments denouncing the election as rigged. Then mention the themes he spoke about, like defeating imperialism. Highlight the opposition's boycott and the reasons: violence, intimidation, disenfranchisement. Mugabe's defiance, blaming racism, land-reform, and the economic impact. Also, the pressure from other African leaders and the implications for international donors and investors.
+
+I have to make sure the summary is concise, under 200 words, and includes as many of the morally framed words as possible without making it too long. I'll structure it to flow logically, starting with the event, the reactions, Mugabe's response, and the consequences.
+
+I think I've covered all the points. Let me put it all together, ensuring it's within the word limit and the moral framing is clear.
+</think>
+
+**STEP 1:**  
+* Rigged  
+* Boycott  
+* Violence  
+* Intimidation  
+* Disenfranchisement  
+* Defiant  
+* Racism  
+* Land-reform  
+* Seized  
+* Transparency  
+* Sanctions  
+* Legitimate  
+* Democratic principles  
+* Property rights  
+* Revitalizing  
+
+**SUMMARY:**  
+Zimbabwe's President Robert Mugabe was sworn in for his fifth term amid accusations of a rigged election. The opposition and Western governments condemned the election, citing political violence, intimidation, and disenfranchisement. Mugabe, a former independence leader, framed his victory as a triumph against Western imperialism and white minority rule. African leaders attended the ceremony, but opposition lawmakers and international representatives boycotted it. Mugabe remained defiant, blaming racism for criticism and vowing to continue his controversial land-reform program, which has led to international funding cuts. The country faces economic challenges, including a recession and food shortages. Regional leaders, including South Africa's Thabo Mbeki, are pressuring Mugabe to form a national unity government to avoid further sanctions. The election's legitimacy remains contested, with implications for Africa's commitment to democratic principles and economic revitalization. END OF SUMMARY.

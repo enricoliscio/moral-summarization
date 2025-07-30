@@ -1,0 +1,43 @@
+Alright, so I need to help the user by summarizing this news article while preserving the moral framing. Let me start by understanding the task. The user provided an article about Rick Santorum's comments, and they want a summary that includes the morally charged words identified in the first step.
+
+First, I should go through the article to find all the single words that carry moral connotations. Words like "phony," "wrong," "destructive," "nasty," "divisiveness," "ugliness," "distortions," "anachronistic," "dynamic," "parent," "child," "potential," "save," "money," "abortion," "sympathy," "bad," "record," "worried," "undermining," "civil," "liberties," "constant," "wars," "debt," and "trillion." These words seem to carry moral weight in the context of the article.
+
+Next, I need to write a concise summary that includes as many of these words as possible. The summary should be under 200 words and preserve the moral framing. I'll start by outlining the main points: Santorum's comments on Obama's theology, Gibbs' criticism, Santorum's views on education, and his stance on healthcare policy regarding prenatal testing and abortion. Also, Ron Paul's criticism of Santorum's focus on social issues.
+
+I should make sure each of these points is covered succinctly, using the morally framed words where appropriate. For example, Santorum's "phony theology" and Gibbs calling it "wrong" and "destructive." In the education section, "anachronistic" and "dynamic" are key. When discussing healthcare, words like "save," "abortion," and "sympathy" are important. Lastly, Paul's concerns about "civil liberties," "wars," and "debt" should be included.
+
+I need to ensure the summary flows well and stays within the word limit. Let me draft it step by step, making sure each moral word is integrated naturally. I'll check the word count to ensure it's under 200. Once done, I'll present the summary after the "SUMMARY:" token, ending with "END OF SUMMARY."
+
+I think that's a solid plan. Time to put it all together.
+</think>
+
+**STEP 1:**  
+* phony  
+* wrong  
+* destructive  
+* nastiness  
+* divisiveness  
+* ugliness  
+* distortions  
+* anachronistic  
+* dynamic  
+* parent  
+* child  
+* potential  
+* save  
+* money  
+* abortion  
+* sympathy  
+* bad  
+* record  
+* worried  
+* undermining  
+* civil  
+* liberties  
+* constant  
+* wars  
+* debt  
+* trillion  
+
+**SUMMARY:**  
+Rick Santorum recently criticized President Obama's "phony theology," referring to the president's views on man's relationship to the world, not his faith. Obama's adviser, Robert Gibbs, condemned such attacks as "wrong" and "destructive," calling them "nasty" and "divisive." Santorum also criticized federal and state control of schools, calling it "anachronistic," and argued for "dynamic" local education led by parents. He emphasized the importance of "parental responsibility" in shaping a child's "potential." Santorum also criticized Obama's health-care policy, linking prenatal testing to "abortion" and "culling the ranks of the disabled," drawing accusations of lacking "sympathy" for the disabled. Meanwhile, rival Ron Paul dismissed Santorum's focus on social issues like "abortion" and "birth control," instead prioritizing "civil liberties," "wars," and the "$16 trillion" debt. END OF SUMMARY.

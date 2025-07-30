@@ -1,0 +1,37 @@
+Alright, so the user has provided a query where they want me to act as a news summarizer assistant and a moral expert. They've given a specific news article about Glenn Beck's speech at CPAC 2010. The task involves two main steps: first, identifying all single words that are morally framed, and second, summarizing the article while preserving the moral framing.
+
+First, I need to understand what morally framed words are. These are words that carry a moral or ethical connotation, such as "purity," "success," "failure," etc. I'll go through the article and pick out each word that fits this category.
+
+Next, the summary needs to be concise, no more than 200 words, and include as many of these morally framed words as possible. I should ensure that the summary captures the essence of Beck's message, emphasizing the need for ideological purity within the Republican Party and his critique of the "big tent" approach.
+
+I also need to structure the response with STEP 1 listing each moral word and then the SUMMARY section. I have to make sure to follow the formatting instructions precisely, using the specified tokens and ensuring each step is clearly marked.
+
+I should be careful not to miss any morally framed words in the article. For example, words like "purity," "success," "failure," "problem," " redemption," "addiction," "freedom," "circus," "big tent," and "progressivism" all carry moral weight. Including these in the summary will help preserve the author's moral framing.
+
+In the summary, I'll start by stating that Beck demanded ideological purity, then mention his 12-step program analogy, his critique of both parties' spending, and his rejection of the "big tent" approach. I'll conclude by highlighting his belief that America is an idea rooted in freedom, not a circus.
+
+I need to ensure the summary flows well and stays within the word limit. I'll also make sure to use the exact words identified in STEP 1 to maintain the moral tone as per the user's request.
+</think>
+
+**STEP 1:**
+
+* Progressivism  
+* Constitution  
+* Purity  
+* Success  
+* Failure  
+* Suck  
+* Problem  
+* Redemption  
+* Addiction  
+* Freedom  
+* Circus  
+* Big tent  
+* Progressivism  
+
+---
+
+**SUMMARY:**  
+Glenn Beck, in his 2010 CPAC speech, demanded ideological purity within the Republican Party, urging it to focus on its core principles rather than broadening its appeal. He criticized the party for not admitting its problems, likening its recovery to a 12-step program. Beck accused progressivism of eroding the Constitution and rejected the idea of a "big tent" approach, calling it a circus. He emphasized that America is an idea rooted in freedom, not a political spectacle. His message was a call for conservatism to succeed through purity, not by mimicking the Democrats or expanding its coalition.  
+
+**END OF SUMMARY.**

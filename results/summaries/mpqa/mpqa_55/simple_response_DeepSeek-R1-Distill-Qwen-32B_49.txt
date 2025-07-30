@@ -1,0 +1,14 @@
+Okay, so the user has given me a news article and wants a summary that preserves the moral framing the author used. They mentioned I should act as a news summarizer and a moral expert. First, I need to understand the article's content and the underlying moral perspectives.
+
+The article talks about the Korean government's response to the US's new greenhouse gas policy. It mentions appreciation for the US's interest but also points out the need for more details. The moral framing here seems to be about international cooperation and the importance of addressing climate change, especially considering developing countries.
+
+I should make sure the summary highlights Korea's appreciation for the US's initiative but also the need for elaboration. It's important to note that many countries support the Kyoto Protocol, and the US's previous rejection was criticized. The moral angle is about global responsibility and the necessity of a unified approach to tackle climate change.
+
+I need to keep the summary concise, under 200 words, and include the key points: Korea's appreciation, the need for more details, the international context with the Kyoto Protocol, and the US's shift from rejection to a new policy. Also, mentioning other countries' responses adds context about differing opinions.
+
+I should structure it so that it flows logically, starting with Korea's stance, then the details of the US policy, the international community's preparation for Kyoto, and the implications of the US's change in policy. Ending with the need for consultations ties back to the moral framing of global cooperation.
+
+I need to ensure that the summary doesn't just list facts but also conveys the underlying values, like the importance of addressing climate change collectively and the necessity for clear, actionable policies.
+</think>
+
+SUMMARY: The South Korean government has expressed appreciation for the U.S. initiative to address climate change, acknowledging its flexible approach and consideration of developing countries' concerns. However, it emphasized the need for greater elaboration, particularly on concrete methods for establishing greenhouse gas intensity levels, to facilitate detailed discussions in future international forums. The statement, issued by Foreign Minister Choi Sung-hong, also highlighted the importance of consultations within the international community to build understanding of the U.S. policy. The Korean government reaffirmed its support for the Kyoto Protocol, which has been ratified by over 180 countries, including the U.S., despite President Bush's administration rejecting it earlier. The U.S. has since proposed a new policy focusing on reducing emissions relative to economic activities. The article notes that while some countries, like Japan and Germany, have responded to the U.S. initiative, the international community remains divided on the best approach to tackle climate change. END OF SUMMARY.

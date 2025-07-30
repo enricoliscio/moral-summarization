@@ -1,0 +1,43 @@
+Okay, so the user has given me a task where I need to act as a news summarizer and a moral expert. They provided a news article about the Cheney sisters and their differing views on same-sex marriage. The user wants me to first identify all the morally framed words and then summarize the article while preserving those moral terms.
+
+First, I need to understand what morally framed words are. These are words that carry a moral connotation, like 'freedom', 'rights', 'pro-gay marriage', 'wrong', etc. I'll go through the article and pick out each word that seems to have a moral charge.
+
+Next, I have to write a concise summary of the article. It needs to be under 200 words and include as many of the identified moral terms as possible. I should make sure the summary captures the conflict between the sisters, their positions on the issue, and the broader implications.
+
+I should also structure the response with STEP 1 listing each moral word, each on a new line, and then the SUMMARY section. I need to ensure that the summary is clear and includes the key points: who the sisters are, their positions, the reaction from Mary, and the context of the political race.
+
+I should avoid any markdown in the thinking process but in the final response, I'll format it as per the user's instructions. I need to be careful to only include the necessary details and keep the summary tight.
+
+Let me start by reading the article again to pick out the morally charged words. Then I'll list them. After that, I'll craft the summary, making sure to include those words and the essential information without going over the word limit.
+
+I also need to make sure the summary flows well and accurately represents the article's content. I'll check for any repetition and ensure that the moral framing is preserved as per the user's request.
+
+Finally, I'll review the entire response to make sure it meets all the user's requirements and is free of any errors.
+</think>
+
+**STEP 1:**
+
+* Cheney  
+* blast  
+* stance  
+* same-sex marriage  
+* freedom  
+* everyone  
+* entitled  
+* rights  
+* privileges  
+* protections  
+* judges  
+* legislators  
+* pro-gay marriage  
+* decided  
+* show of hands  
+* challenge  
+* incumbent  
+* Republican primary  
+
+**SUMMARY:**  
+
+Mary Cheney, an openly lesbian daughter of former Vice President Dick Cheney, has criticized her sister Elizabeth Cheney, a Wyoming Senate candidate, for her stance on same-sex marriage. Mary, who is married to Heather Poe, posted on Facebook, stating that "freedom means freedom for everyone" and that all families deserve equal rights. Elizabeth, however, has argued that the issue should be decided by voters on a state-by-state basis, not by "judges" or "legislators," and has declared she is "not pro-gay marriage." Mary responded by calling her sister's position "dead wrong" and emphasizing that the issue should not be subject to a "show of hands." The sisters' disagreement highlights the ongoing debate over same-sex marriage rights, with Mary advocating for equality and Elizabeth supporting a state-level decision-making process. Dick Cheney has also expressed support for same-sex marriage, aligning with his daughters' differing views.  
+
+**END OF SUMMARY.**

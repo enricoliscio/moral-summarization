@@ -1,0 +1,16 @@
+Alright, so I've got this query where the user wants me to summarize a news article while preserving the moral framing. Hmm, okay, let me break this down.
+
+First, I need to understand what the user is asking for. They provided a news article about the Shuttle Atlantis launch and specified that I should act as both a news summarizer and a moral expert. The key here is to preserve the morally framed words the author used. That means I need to identify those words and make sure they're included in the summary.
+
+Looking at the article, I see words like "milestone," "frantically," "spared," "extra days," "leak," and "sprung." These seem to carry some moral weight or emphasize certain aspects of the event. My summary should include these to maintain the author's tone and framing.
+
+Next, I need to condense the article into a summary under 200 words. The main points are the successful launch, the delay due to a leak, the computer glitch, and the mission's significance, including Jerry Ross's record. I should make sure each of these points is covered concisely.
+
+I also notice the user wants the summary after a "SUMMARY:" token and ending with "END OF SUMMARY." So I'll structure it accordingly. I'll start by mentioning the successful launch and its significance as a milestone. Then, I'll touch on the challenges they faced, like the leak and the computer glitch, using the moral words. Finally, I'll highlight the mission's purpose and Ross's achievement.
+
+Wait, I should check the word count. Let me count the words in my draft. It looks like it's around 150 words, so I'm well within the limit. I'll make sure each sentence flows well and that all key points are included without being too verbose.
+
+Okay, putting it all together, I'll ensure the summary is clear, includes the moral framing words, and stays within the word limit. That should meet the user's requirements effectively.
+</think>
+
+SUMMARY: The space shuttle Atlantis successfully launched from Cape Canaveral, marking a significant milestone in U.S. space flight. The mission, delayed four days due to a liquid hydrogen vent pipe leak, carried seven astronauts and essential hardware to the International Space Station. A computer glitch during the countdown added tension, but engineers frantically reloaded software, resolving the issue with just 11 seconds to spare. Atlantis, equipped with three new main engines, thundered into space at 4:44 p.m. On this mission, astronaut Jerry L. Ross became the first to achieve seven space flights. Over the next 11 days, the crew will install a critical "keystone" support unit for the space station, capable of supporting a massive solar energy array. This launch is the first of six scheduled missions to accelerate the station's completion. END OF SUMMARY.

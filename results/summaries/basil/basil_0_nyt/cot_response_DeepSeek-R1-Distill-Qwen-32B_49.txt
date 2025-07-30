@@ -1,0 +1,29 @@
+Okay, I need to help the user with their query. They provided a news article about Glenn Beck speaking at CPAC and want a summary that preserves the moral framing. The user also wants me to first identify the morally framed words and then write the summary.
+
+First, I'll read through the article to understand the context. Beck is criticizing both Republicans and Democrats, focusing on progressivism as a disease. He uses strong language like "cancer" and "addicted." He also talks about personal responsibility and financial success.
+
+For step one, I need to extract all single words that carry moral connotations. Words like "progressivism," "cancer," "problem," "addicted," "tax," "spend," "believe," "happy," "demonized," "penalized," "mistakes," and "success" stand out as they are used to convey moral judgments.
+
+Now, for the summary, I have to ensure it's concise, under 200 words, and includes as many of these moral terms as possible. I'll start by highlighting Beck's main points: his denunciation of progressivism as a disease, his criticism of both parties, and his emphasis on personal responsibility. I'll make sure to include the key moral words without making the summary too lengthy.
+
+I should also maintain the tone and structure of the original article, ensuring that the moral framing is clear. I'll mention his personal analogy about being a recovering alcoholic to illustrate the Republican Party's problem with spending and big government. Including his statement about financial success and not penalizing it adds another layer of moral judgment.
+
+Finally, I'll wrap up by noting the audience's reaction, which emphasizes the impact of his message. This should provide a comprehensive yet concise summary that meets the user's requirements.
+</think>
+
+**STEP 1:**  
+* Progressivism  
+* Cancer  
+* Problem  
+* Addicted  
+* Tax  
+* Spend  
+* Believe  
+* Happy  
+* Demonized  
+* Penalized  
+* Mistakes  
+* Success  
+
+**SUMMARY:**  
+Glenn Beck, addressing the Conservative Political Action Conference (CPAC), delivered a fiery critique of progressivism, calling it a "cancer" that must be excised from the system. He criticized both Democrats and Republicans, accusing the latter of failing to define their principles and being addicted to spending and big government. Beck, drawing parallels to his own recovery from alcoholism, urged the Republican Party to acknowledge its problems. He also blamed progressivism for the nation's decline, asserting that it is the root cause of America's struggles. Beck emphasized personal responsibility, arguing that financial success should not be demonized, and stressed that individuals should not be penalized for others' mistakes. His message resonated with the crowd, who cheered his bold statements. Beck's speech highlighted a sense of national malaise, likening the current state of America to a "hangover," while maintaining optimism that it is still "morning in America." END OF SUMMARY.

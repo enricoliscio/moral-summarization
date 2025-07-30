@@ -1,0 +1,18 @@
+Okay, so the user has given me a query where they want a news summary that preserves the moral framing from the original article. They provided a news article about the NAACP passing a resolution regarding the Tea Party groups and the subsequent reactions. 
+
+First, I need to understand the key points of the article. The NAACP is calling on Tea Party groups to remove racist elements. They're not labeling the entire movement as racist but are urging them to distance themselves from hate groups. The president of NAACP, Benjamin Todd Jealous, mentions that with more attention and power, comes responsibility, and silence can lead to violence. 
+
+On the other side, Tea Party supporters like Sarah Palin and the St. Louis Tea Party Coalition are reacting negatively. They accuse the NAACP of being partisan and even suggest reviewing their tax-exempt status. There's also a mention of past allegations of racism against Tea Party protesters.
+
+I need to summarize this in 200 words, keeping the moral framing intact. That means highlighting the NAACP's stance on responsibility and the counterarguments from the Tea Party about being unfairly targeted.
+
+I should structure the summary to first state the NAACP's resolution, then Jealous's clarifications, followed by the reactions from Tea Party groups and Palin. Finally, I'll mention the ongoing allegations against the Tea Party to provide context.
+
+I need to make sure the summary is concise but covers all these points without losing the moral implications. Also, I should avoid any markdown and keep it in plain text, ending with the specified tokens.
+
+Let me draft this, ensuring each sentence flows logically and stays within the word limit. I'll check the word count to make sure it's under 200. Once done, I'll present it clearly after the "SUMMARY:" token and end with "END OF SUMMARY.".
+</think>
+
+SUMMARY:  
+The NAACP, a prominent civil rights organization, passed a resolution urging Tea Party groups to purge "racist elements" from their ranks, citing the need for responsibility as the movement gains influence. NAACP President Benjamin Todd Jealous clarified that the resolution was not to label the entire Tea Party as racist but to push the groups to distance themselves from known hate organizations. He emphasized that silence could lead to violence and urged the Tea Party to reject bigotry. Tea Party supporters, including Sarah Palin, criticized the NAACP, accusing it of partisan bias and calling for a review of its tax-exempt status. The Tea Party has faced accusations of racism, including incidents of racial epithets and violence during protests. The movement denies these allegations, insisting it is not racist.  
+END OF SUMMARY.

@@ -1,0 +1,15 @@
+<think>
+Okay, so I need to help the user by summarizing a news article about President Trump's selection of a new FBI director. The user has specified that I should preserve the moral framing the author provided. Let me break this down.
+
+First, I'll read through the article to understand the main points. It's about Trump being close to choosing a successor for James Comey, with Joseph Lieberman as a finalist. There's some pushback from Trump's staff because Lieberman lacks law enforcement experience. The article mentions that Trump might leave without making a decision before a trip, and Lieberman's potential nomination has political implications.
+
+Now, the user wants a summary that's no longer than 200 words, ending with "END OF SUMMARY." and starting after "SUMMARY:". I need to make sure to include the key points: Trump's consideration of Lieberman, the concerns from his staff, the possibility of not appointing anyone before the trip, Lieberman's background, the internal debate, and the potential political consequences.
+
+I should also highlight the moral framing. The author seems critical of Trump's decision-making, pointing out the lack of law enforcement experience and the political implications. I need to convey that in the summary without being too biased.
+
+I'll structure the summary by first stating Trump's consideration of Lieberman, then mention the staff's concerns, the possibility of no appointment before the trip, Lieberman's background, the internal debate about his suitability, and the political implications. I should keep each point concise to stay within the word limit.
+
+Let me draft this step by step, ensuring each key point is included and the moral aspects are highlighted. I'll check the word count to make sure it's under 200 words. Once done, I'll format it correctly with the tokens as specified.
+</think>
+
+SUMMARY: President Trump is nearing his self-imposed deadline to select a new FBI director, with Joseph I. Lieberman, a former Democratic senator, emerging as a top finalist. However, Trump's staff has urged him to take more time due to Lieberman's lack of federal law enforcement experience. The president may leave for a foreign trip without making a decision, according to administration officials. Lieberman, a politically seasoned figure with no direct law enforcement background, would be an unconventional choice for the FBI, which has historically preferred judges or former prosecutors. Trump has also interviewed other candidates, including Acting Director Andrew McCabe and former FBI officials. Some aides and law enforcement officials advocate hiring from within the agency to restore morale after Comey's firing. Lieberman's nomination could face scrutiny due to his age, potential conflicts of interest, and political ties. His selection might be seen as an attempt to bolster Trump's credibility, though it could also draw criticism from Democrats and raise concerns about the FBI's independence. END OF SUMMARY.

@@ -1,0 +1,29 @@
+Okay, I need to help the user by summarizing the given news article while preserving the moral framing. First, I should understand what the user is asking for. They want me to act as a news summarizer and a moral expert. My task is to identify the morally framed words and then write a concise summary that includes those words.
+
+Starting with STEP 1, I need to go through the article and pick out all the single words that carry moral connotations. Words like "menace," "sane," "generous," "philanthropist," "crude," "ostentatious," "deference," "support," "congratulations," "crazy," "skepticism," and "vulnerable" stand out. These words are used to judge or describe the characters and actions of Bloomberg and Trump, so they're crucial for the moral framing.
+
+Next, for the summary, I need to condense the article into 200 words or less, making sure to include as many of these moral words as possible. The summary should capture the key points: their limited but cordial interactions, their different personalities and business backgrounds, their occasional meetings, and the breakdown of their relationship as Trump ran for president. I should highlight the moral judgments made about each, like Bloomberg being a generous philanthropist and Trump being crude and crazy.
+
+I should structure the summary to flow logically, starting with their limited interactions, moving through their occasional meetings, and ending with the political rivalry and the moral assessments. This way, the summary preserves the original article's moral framing while being concise.
+
+I also need to ensure that the summary starts with "SUMMARY:" and ends with "END OF SUMMARY." I'll make sure each step is clearly labeled and that the summary is within the word limit. Let me check the word count to make sure it's under 200 words.
+
+Finally, I'll review the summary to ensure it accurately reflects the article's content and maintains the moral language identified in STEP 1. This should meet the user's requirements effectively.
+</think>
+
+**STEP 1:**  
+* menace  
+* sane  
+* generous  
+* philanthropist  
+* crude  
+* ostentatious  
+* deference  
+* support  
+* congratulations  
+* crazy  
+* skepticism  
+* vulnerable  
+
+**SUMMARY:**  
+Michael R. Bloomberg and Donald J. Trump, two New York billionaires, have had limited but cordial interactions over the years, despite their stark differences. Bloomberg, a generous philanthropist and supporter of the arts, contrasts with Trump, who is seen as crude and ostentatious. Their paths crossed occasionally, such as on golf courses and in charity events, with Trump even showing deference to Bloomberg. Trump also praised Bloomberg while he was mayor, but their relationship soured after Trump declared his candidacy. Bloomberg, who briefly considered running for president as an independent, criticized Trump as "crazy," while Trump countered by questioning Bloomberg's wealth and business vulnerabilities. Their once cordial relationship dissolved as political rivalries emerged. END OF SUMMARY.

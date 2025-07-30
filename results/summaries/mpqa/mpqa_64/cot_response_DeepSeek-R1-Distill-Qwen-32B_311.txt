@@ -1,0 +1,59 @@
+Okay, so the user has provided a query where they want me to act as a news summarizer and moral expert. They've given a specific news article and a two-step process: first, identify morally framed single words, and then summarize the article preserving those moral frames.
+
+First, I need to understand what morally framed words are. These are words that carry a positive or negative connotation, often relating to ethics, values, or judgments. For example, "crumbled," "surrender," "advance," etc. I'll go through the article and pick out each word that fits this criteria.
+
+Next, I need to summarize the article. The summary should be concise, under 200 words, and include as many of those morally framed words as possible. I should focus on the key points: the Taliban's situation, the role of British troops, the humanitarian concerns, and the progress made so far.
+
+I should ensure that the summary flows well and accurately reflects the moral undertones from the original text. I'll need to balance between being concise and including enough detail to cover the main events and implications.
+
+Also, I need to structure the response with STEP 1 listing each moral word and then the SUMMARY section following the specified format. I must remember to end with the "END OF SUMMARY." token.
+
+I'll start by reading through the article carefully, noting each morally charged word. Then, I'll craft a summary that weaves these words into a coherent narrative, highlighting the military progress, the Taliban's weakening position, the humanitarian challenges, and the cautious optimism from the British government.
+
+Finally, I'll double-check that the summary is within the word limit and that it maintains the moral framing as per the original text.
+</think>
+
+**STEP 1:**  
+* Civil war  
+* Stand-by  
+* Welcome  
+* Advance  
+* Crumbled  
+* Surrender  
+* Mass surrender  
+* Interspersed  
+* Danger  
+* Hostile fire  
+* Hammer out  
+* Hardcore  
+* Terror network  
+* Fall  
+* Last major stronghold  
+* Rapid collapse  
+* Hundreds  
+* Captured  
+* Siege  
+* Prison riot  
+* Fortress  
+* Avert bloodshed  
+* Talks  
+* Negotiations  
+* Secure  
+* Environment  
+* Aid agencies  
+* Not secure enough  
+* Job to be done  
+* Creating secure environment  
+* Humanitarian assistance  
+* Progress  
+* Multi-faceted campaign  
+* Evidence  
+* Future military action  
+* Fluid  
+* Right direction  
+* Military success  
+* Food in  
+* Still in the middle of fighting  
+
+**SUMMARY:**  
+British troops are not being sent to fight on the ground in Afghanistan, as indicated by Robin Cook. While SAS and American forces are supporting the Northern Alliance, British troops remain on standby. The situation is improving, with the Taliban's control crumbling in Kunduz after mass surrenders. However, the fall of Kunduz leaves Kandahar as the Taliban's last major stronghold. Negotiations for Kandahar's surrender are ongoing, with Taliban hardliners resisting. The UN and charities warn that Afghanistan is not yet secure for aid efforts, with concerns about food shortages and instability. The British government remains cautious, emphasizing the need for evidence before further military action. While progress has been made on military, diplomatic, and humanitarian fronts, the campaign is far from over, and the situation remains fluid. END OF SUMMARY.

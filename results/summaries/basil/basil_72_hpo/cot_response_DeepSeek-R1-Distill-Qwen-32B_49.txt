@@ -1,0 +1,31 @@
+Alright, I need to help the user by summarizing a news article while preserving the moral framing. The user has provided a detailed article about President Trump's potential nomination of Joe Lieberman as the interim FBI Director. 
+
+First, I should identify the morally framed words as per the user's instructions. I'll go through the article and pick out words that carry moral connotations. Words like "close," "top choice," "high-profile," "unconventional," "shocking," "mistake," "undermine," "independence," "qualified," "unanimous," "rare," "unprecedented," "terrible," "overjoyed," and "interfere" stand out as they imply judgments or evaluations.
+
+Next, I need to write a concise summary that includes these words. The summary should capture the key points: Trump's nomination of Lieberman, the reactions from Democrats and Republicans, and the context of Comey's firing and the Russia investigation. I must ensure the summary is under 200 words and flows naturally while including the identified moral terms.
+
+I should structure the summary to highlight the controversy, the opposing viewpoints, and the implications for the FBI's independence. It's important to maintain the balance between the positive Republican reactions and the negative Democratic concerns, as well as the broader context of Trump's actions regarding the Russia probe.
+
+Finally, I'll review the summary to make sure all morally framed words are included and that the summary accurately reflects the article's content without adding personal opinions. The summary should be clear and informative, providing a snapshot of the situation as it stands.
+</think>
+
+**STEP 1:**  
+* close  
+* top choice  
+* high-profile  
+* unconventional  
+* shocking  
+* mistake  
+* undermine  
+* independence  
+* qualified  
+* unanimous  
+* rare  
+* unprecedented  
+* terrible  
+* overjoyed  
+* interfere  
+
+**SUMMARY:**  
+President Trump is nearing the selection of an interim FBI Director, with Joe Lieberman as his top choice. Lieberman, a former Democratic senator and centrist, lacks federal law enforcement experience, making his nomination unconventional. Democrats, such as Sen. Claire McCaskill and Sen. Brian Schatz, criticize the move, calling it a "mistake" and "shocking," as they argue the FBI director should be a law enforcement professional, not a politician. They warn that appointing a politician undermines the agency's independence and public trust. Lieberman's background in politics and his support for an independent commission to investigate Trump's ties to Russia have heightened Democratic opposition. Republicans, however, praise Lieberman, with Sen. John McCain calling him "overjoyed" at the possibility of his nomination. The need for a new director arose after Trump fired James Comey, amid the FBI's investigation into Russian ties to the Trump campaign. The decision has raised concerns about political interference in the agency's work.  
+**END OF SUMMARY.**

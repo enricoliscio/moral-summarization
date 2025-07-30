@@ -1,0 +1,29 @@
+Okay, so I need to help the user with their query. They provided a news article about Senator Marco Rubio outlining his foreign policy approach. The task is to first identify all the morally framed single words and then write a summary preserving those moral framings.
+
+First, I'll read through the article to understand the context. The article compares Rubio's approach to Obama and Bush's doctrines, focusing on his three pillars: military strength, economic protection, and moral clarity. He emphasizes funding the military, opposing violations in various domains, and spreading freedom and human rights.
+
+For STEP 1, I need to find single words that carry moral connotations. Let me go through the article again. Words like "strength," "protection," "morality," "freedom," "hawk," "oppose," "rights," "vulnerable," "persecuted," "truth," "cries," "suffering," "desire," "freedom." These seem to carry moral weight as they relate to values like security, justice, and compassion.
+
+Now, for the summary. I need to condense the article into under 200 words, keeping the moral words intact. I'll start by mentioning Rubio's speech and his three pillars. Then, highlight his focus on military funding and opposition to violations. Finally, touch on his commitment to spreading freedom and supporting vulnerable groups, emphasizing America's moral role.
+
+I should make sure the summary flows well and includes all the key points without losing the moral framing. Let me structure it step by step: introduce Rubio, his pillars, military funding, opposition to violations, and his broader vision for freedom and support. That should cover everything succinctly.
+</think>
+
+**STEP 1:**  
+* Strength  
+* Protect  
+* Moral  
+* Freedom  
+* Hawk  
+* Oppose  
+* Rights  
+* Vulnerable  
+* Persecuted  
+* Truth  
+* Cries  
+* Suffering  
+* Desire  
+* Freedom  
+
+**SUMMARY:**  
+Senator Marco Rubio, a 2016 presidential candidate, is set to outline his foreign policy approach, emphasizing three pillars: ensuring American strength, protecting the economy, and preserving the moral clarity of U.S. core values. Rubio prioritizes funding the military, even in times of peace, and opposes violations of international waters, airspace, cyberspace, and outer space. He aims to spread economic and political freedom, reinforce alliances, resist powerful nations subjugating smaller neighbors, and support vulnerable groups, including women and religious minorities. Rubio’s vision highlights America’s role in championing freedom and justice globally, ensuring the world knows the U.S. hears the cries of the afflicted and desires their liberation. END OF SUMMARY.

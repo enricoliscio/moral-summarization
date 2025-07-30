@@ -1,0 +1,18 @@
+Okay, so I need to help the user by summarizing the given news article while preserving the moral framing. The user has specified that I should act as a news summarizer assistant and a moral expert. They provided the article and an example response, so I should follow that structure.
+
+First, I'll read through the article to understand the main points. The article is about Rex Tillerson's confirmation hearing, where he clashed with Sen. Rubio. The key points are their disagreements on labeling Putin as a war criminal, Tillerson's stance on Russia, his views on other countries like Saudi Arabia and the Philippines, and some lighter moments in the hearing.
+
+I need to ensure that the summary captures the moral aspects, such as Tillerson's reluctance to label Putin and his more measured approach, as well as the tension between him and Rubio. Also, I should mention the broader implications, like Tillerson's focus on American leadership and the various issues he addressed, including Russia's actions, China's activities, and the fight against ISIS.
+
+I should keep the summary concise, under 200 words, and structure it with the "SUMMARY:" and "END OF SUMMARY." tokens as shown. I'll make sure to include the main conflicts, Tillerson's statements, and the context of the hearing, including the protesters.
+
+I'll start by outlining the main events: the clash with Rubio, Tillerson's refusal to label Putin, his statements on Russia, other countries, and the lighter moments. Then, I'll condense these into a coherent summary, ensuring that the moral framing is preserved, such as the debate over terminology and Tillerson's approach to diplomacy.
+
+I should also mention the implications of his statements, like his view of Russia as an adversary and the need for American leadership. I'll need to keep the language clear and concise, avoiding unnecessary details while covering all key points.
+
+Finally, I'll review the summary to ensure it's within the word limit and that it accurately reflects the moral and political nuances of the original article.
+</think>
+
+SUMMARY:  
+Secretary of State nominee Rex Tillerson faced a contentious Senate Foreign Relations Committee hearing, clashing with Sen. Marco Rubio over policy toward Russia, Cuba, Saudi Arabia, and the Philippines. Rubio pressed Tillerson to label Russian President Vladimir Putin a "war criminal," but Tillerson declined, emphasizing a more deliberative approach. Tillerson described Russia as an "unfriendly adversary" and criticized its actions in Crimea, while also highlighting the need for a firm response to Russian aggression. He avoided categorizing Saudi Arabia as a "human rights violator" or Duterte's Philippines as a rights abuser. Tillerson also criticized the Obama administration's handling of Syria, stating the U.S. needed to prioritize defeating ISIS. While he called cyber threats the "greatest and most complex" danger, he avoided advising President Trump on communication tactics, like Twitter use. The hearing was marked by tension, with Tillerson asserting his commitment to American interests and emphasizing the importance of U.S. leadership. Protesters, including Code Pink activists, disrupted the proceedings.  
+END OF SUMMARY.

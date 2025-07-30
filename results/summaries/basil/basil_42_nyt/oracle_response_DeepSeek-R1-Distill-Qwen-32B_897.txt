@@ -1,0 +1,14 @@
+Alright, I need to help the user by summarizing the given news article while preserving the moral framing. First, I'll read through the article to understand the context. It's about Arizona's legislature passing a bill that allows businesses to refuse service based on religious beliefs, and Governor Jan Brewer is under pressure to veto it.
+
+The user mentioned that I should use as many of the morally framed words as possible. The list includes words like refuse, comeback, signed, jeopardize, etc. I need to make sure these words are included in the summary without making it too long—under 200 words.
+
+I'll start by identifying the key points: the bill's purpose, the opposition from various groups, the potential economic impact, and the political implications. I should mention the pressure on the governor, the reactions from business leaders, and the broader context of Arizona's past issues with immigration laws.
+
+I need to structure the summary logically, perhaps starting with the bill's introduction, then the opposition, the consequences, and finally the governor's decision pending. I'll ensure that each morally framed word is appropriately placed to convey the author's original tone.
+
+I also need to keep the summary concise, so I'll avoid going into too much detail about each point. It's important to highlight the conflict between religious freedom and potential discrimination, as well as the economic repercussions if the bill is signed.
+
+Finally, I'll make sure to end the summary with the required tokens and keep the language clear and straightforward, maintaining the moral perspective throughout.
+</think>
+
+SUMMARY: Arizona's Legislature passed a bill allowing businesses to refuse service to gays and others citing religious beliefs, drawing national criticism. Gov. Jan Brewer faced pressure to veto the measure, with business leaders, civic groups, and even Republican senators urging her to reject it, warning it could jeopardize Arizona's economic comeback. Opponents argued the bill was mischaracterized as a tool for religious intolerance, causing harm to the state's image. Supporters, like Cathi Herrod of the Center for Arizona Policy, defended it as a shield for religious liberties, accusing opponents of hijacking the debate with lies and irresponsible reporting. Business leaders, including Apple and American Airlines executives, warned the bill could deter investments and harm Arizona's economy. Republican candidates also criticized the measure, with Scott Smith calling it a carte blanche for discrimination and Doug Ducey pledging to veto it while seeking consensus on religious liberty. Brewer, who received over 10,000 calls and emails, had until the end of the week to decide. The bill's passage has reignited tensions, reminiscent of Arizona's controversial 2010 immigration law, which sparked boycotts. END OF SUMMARY.

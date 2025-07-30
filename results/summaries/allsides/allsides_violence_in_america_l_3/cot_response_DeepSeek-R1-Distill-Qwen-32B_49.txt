@@ -1,0 +1,29 @@
+<think>
+Okay, so I need to help the user by summarizing a news article while preserving the moral framing. The user has given specific instructions, so I should follow them step by step.
+
+First, the user wants me to identify all the single words that are morally framed. I need to go through the article and pick out words that carry moral connotations. Words like "sobering," "staggering," "spike," "flood," "emboldened," "deterrent," "wrong," "joke," "predominantly," "suffering," "protests," "weakened," "reluctant," "nefarious," and "opportunity." These words convey judgment or moral implications, so I'll list them as STEP 1.
+
+Next, I have to write a concise summary of the article, making sure to include as many of these morally framed words as possible. The summary should be under 200 words and start after the "SUMMARY:" token, ending with "END OF SUMMARY." I'll need to highlight the key points: the record-high homicides, the surge in shootings, the impact on poor black areas, the role of illegal guns, police challenges, public trust issues, and the overall moral concerns expressed.
+
+I should ensure the summary flows well and captures the essence of the article while emphasizing the moral aspects. I'll mention the high numbers, the areas affected, the police's perspective on gun laws and deterrents, the reluctance of officers, and the criminals' exploitation of the situation. This way, the summary stays true to the original article's moral framing.
+</think>
+
+**STEP 1:**  
+* Sobering  
+* Staggering  
+* Spike  
+* Flood  
+* Emboldened  
+* Deterrent  
+* Wrong  
+* Joke  
+* Predominantly  
+* Suffering  
+* Protests  
+* Weakened  
+* Reluctant  
+* Nefarious  
+* Opportunity  
+
+**SUMMARY:**  
+Chicago experienced its most violent year in two decades, with 762 homicides and 3,550 shooting incidents, surpassing New York and Los Angeles combined. The surge in gun violence, particularly in poor, predominantly black neighborhoods, has raised concerns about the flood of illegal guns and the lack of deterrents. Police Superintendent Eddie Johnson noted that criminals feel emboldened, with little fear of the justice system. The city's gun laws and police reluctance to act, influenced by public backlash after the Laquan McDonald shooting, have contributed to the crisis. Johnson emphasized the need for more cameras and gunshot-detection systems to curb violence. Critics argue that criminals exploit the weakened police force and public distrust, leading to a cycle of suffering and violence. END OF SUMMARY.

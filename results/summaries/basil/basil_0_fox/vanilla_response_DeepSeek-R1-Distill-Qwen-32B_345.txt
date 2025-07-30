@@ -1,0 +1,16 @@
+Okay, so the user wants me to summarize a news article about Glenn Beck speaking at CPAC. They provided the article and an example of a summary. I need to make sure I understand the key points.
+
+First, the article talks about Glenn Beck's keynote speech at CPAC, where he criticized progressivism. He used a chalkboard, which is a prop he's known for, to emphasize his points. He mentioned that America's problems aren't just about President Obama but are rooted in progressivism. He also rejected the idea of the Republican Party including progressives, comparing it to a circus.
+
+He discussed his troubled past, saying life isn't fair and sometimes the bad guy wins. The speech was the highlight of the conference, which included other politicians and speakers. Many attendees came specifically for Beck, seeing him as a conservative leader. The article also mentions his 9/12 Project and its influence on the Tea Party Movement.
+
+I need to condense this into a summary under 200 words. I should focus on the main points: Beck's criticism of progressivism, his use of the chalkboard, his rejection of the Republican expansion, his personal statement, the event's significance, and the impact of his project.
+
+I should structure it to flow logically, starting with the event, his main argument, his rejection of Republican inclusivity, his personal reflection, the event's importance, and the project's influence. I also need to include a quote from Cynthia Burgiss to highlight his relatability.
+
+I'll make sure to keep it concise, avoiding unnecessary details. I'll start with the summary token and end with the end token as specified. Let me put it all together in a clear, concise manner.
+</think>
+
+SUMMARY:  
+Glenn Beck, the Fox News host, delivered a fiery keynote speech at the Conservative Political Action Conference (CPAC), criticizing "progressivism" as the root of America's problems. Using his signature chalkboard, Beck emphasized his belief that progressivism, not just President Obama, is at fault. He rejected the idea of the Republican Party accommodating progressives, calling it a "circus" and asserting that America is an idea that sets people free. Beck also shared insights from his troubled past, stating, "The bad guy sometimes wins." His speech capped three days of discussions and high-profile speakers, with many attendees specifically coming to see him, viewing him as a leader in the conservative movement. Beck's rising popularity coincides with the Tea Party Movement and anti-Washington sentiment. He also highlighted his 9/12 Project, which promotes core American values, inspiring a major Washington march. Attendee Cynthia Burgiss praised Beck as a "relatable... everyday guy," crediting him for inspiring the movement.  
+END OF SUMMARY.

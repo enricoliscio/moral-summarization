@@ -1,0 +1,45 @@
+Okay, so I need to help the user with their query. They provided a news article and specific instructions on how to process it. The user wants me to act as a news summarizer and moral expert. 
+
+First, I should understand the task. They want me to identify morally framed words in the article and then create a summary preserving those moral framings. The instructions are clear: step 1 is to list the moral words, each on a new line with an asterisk. Then, write a concise summary that includes as many of these words as possible, keeping it under 200 words.
+
+Looking at the article, I'll need to read through it carefully. The main points are about Rep. Ocasio-Cortez supporting Rep. Tlaib after Tlaib made expletive-laced comments in favor of impeaching Trump. Ocasio-Cortez accuses the GOP of double standards, referencing Trump's past remarks. Pelosi downplays Tlaib's comments, comparing them to Trump's own language. Trump calls Tlaib's remarks disgraceful, and Tlaib stands by her statements.
+
+Now, for the morally framed words. I'll go through each paragraph and pick out words that carry moral connotations. Words like "hypocrisy," "scandalizing," "entitlement," "apologize," "disgraceful," "dishonored," "unapologetically," "constitutional crisis," "rise," "truth to power," "apologized," "apologetic," "generational reaction," "censorship," "standards," "ridiculous," "hypocritical," "outrage," "apologizing," "wrong," "apologizing," "apologizing," "hypocrisy," "double standard," "scandalizing," "entitlement," "apologize," "disgraceful," "dishonored," "unapologetically," "constitutional crisis," "rise," "truth to power," "apologized," "apologetic," "generational reaction," "censorship," "standards," "ridiculous," "hypocritical," "outrage," "apologizing," "wrong," "apologizing," "apologizing," "hypocrisy," "double standard," "scandalizing," "entitlement," "apologize," "disgraceful," "dishonored," "unapologetically," "constitutional crisis," "rise," "truth to power."
+
+Wait, that's a lot. I need to make sure each word is correctly identified. Maybe I should list them without duplication. Let me go through the article again to pick out each instance.
+
+After that, I'll write a summary that includes these words, ensuring the moral framing is preserved. The summary should be concise, under 200 words, and include as many of the listed words as possible without making it sound forced.
+
+I should structure the summary to cover the main events: Ocasio-Cortez's support for Tlaib, the GOP's double standard, Pelosi's response, Trump's reaction, and Tlaib's stance. I'll make sure to incorporate the moral terms naturally.
+
+I need to be careful not to miss any key points and ensure the summary flows well while including the necessary moral language. Also, I must adhere strictly to the user's formatting instructions, starting with "SUMMARY:" and ending with "END OF SUMMARY."
+
+Alright, I think I have a plan. I'll first list all the moral words, then craft a concise summary that includes them, making sure it's under 200 words and captures the essence of the article with the appropriate moral framing.
+</think>
+
+**STEP 1:**  
+* Hypocrisy  
+* Scandalizing  
+* Entitlement  
+* Apologize  
+* Disgraceful  
+* Dishonored  
+* Unapologetically  
+* Constitutional crisis  
+* Rise  
+* Truth to power  
+* Apologized  
+* Apologetic  
+* Generational reaction  
+* Censorship  
+* Standards  
+* Ridiculous  
+* Hypocritical  
+* Outrage  
+* Apologizing  
+* Wrong  
+
+**SUMMARY:**  
+Rep. Alexandria Ocasio-Cortez defended Rep. Rashida Tlaib after Tlaib used expletives to advocate for impeaching President Trump. Ocasio-Cortez accused the GOP of hypocrisy, pointing out their double standard in condemning Tlaib’s language while excusing Trump’s lewd remarks. Tlaib, a freshman congressmember, vowed to impeach Trump, drawing outrage from House Republicans. Pelosi downplayed the remarks, comparing them to Trump’s own inflammatory rhetoric. Trump called Tlaib’s comments “disgraceful,” while Tlaib remained unapologetic, emphasizing the need to address the constitutional crisis. The incident highlights ongoing tensions over language, accountability, and the role of women in politics.  
+
+END OF SUMMARY.

@@ -1,0 +1,45 @@
+Alright, I'm trying to help the user with their query. They want me to summarize a news article while preserving the moral framing. First, I need to understand what they're asking for. They provided a detailed news article about Trump's reactions to Kathy Griffin and the Democrats.
+
+The user has two main steps: first, identify all the morally framed single words, and second, write a summary preserving those moral terms. They also included an example response, which I can use as a reference.
+
+I should start by reading the article carefully to spot words that carry moral connotations. Words like "lash out," "abstained," "castigated," "severed," "bloodied," "storm," "protests," "apologize," "fired," "questioned," "disturbing," "atrocities," "simply wrong," "mental health," "crossed the line," "too far," "disturbing," "offends," "funny," "begged," "witch hunt," "excused," "blows away," "clear his name," "false," "misleading," "collusion." These words seem to carry moral judgment.
+
+Next, I need to write a concise summary using these terms. The summary should be under 200 words, so I'll need to be brief but include as many of these moral words as possible. I'll structure the summary to cover Trump's actions, Griffin's reaction, the consequences, and Trump's accusations against the Democrats.
+
+I should ensure that the summary flows well and accurately reflects the article's content while emphasizing the moral aspects. I'll also need to end with the specified tokens as per the user's instructions.
+
+I think I've covered all the steps. Let me put it together now.
+</think>
+
+**STEP 1:**  
+* Lash out  
+* Abstained  
+* Castigated  
+* Severed  
+* Bloodied  
+* Storm  
+* Protested  
+* Apologize  
+* Fired  
+* Questioned  
+* Disturbing  
+* Atrocities  
+* Simply wrong  
+* Mental health  
+* Crossed the line  
+* Too far  
+* Disturbing  
+* Offends  
+* Funny  
+* Begged  
+* Witch hunt  
+* Excoriated  
+* Blows away  
+* Clear his name  
+* False  
+* Misleading  
+* Collusion  
+
+**SUMMARY:**  
+President Trump criticized Kathy Griffin and Democrats in recent Twitter posts. Griffin faced backlash for a video showing her holding a fake, bloodied Trump head, leading to her apologizing and being fired from CNN's New Year’s Eve show. The first lady condemned the image, questioning Griffin's sanity. Griffin apologized, admitting she crossed a line and begged forgiveness. Trump also accused Democrats of trying to block testimony from Carter Page, a former campaign adviser, calling it a "witch hunt." Page claimed he wanted to clear his name by exposing false testimony from Comey and Brennan. Trump accused Democrats of silencing Page to avoid undermining their case. The article highlights the moral and political tensions surrounding Griffin's stunt and the ongoing Russia investigation.  
+**END OF SUMMARY.**

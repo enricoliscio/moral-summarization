@@ -1,0 +1,54 @@
+Okay, so I need to help the user with their query. They want me to summarize a news article while preserving the moral framing. The user provided a detailed news article about the conflict between Republicans and Adam Schiff regarding the Russia probe. 
+
+First, I should break down the task. They have two steps: identifying morally framed words and then writing a summary. The user wants the summary to include as many of these moral words as possible.
+
+Looking at the article, I need to find words that carry moral connotations. Words like "conspiracy," "resign," "inappropriate," "interference," "corrupt," etc. These words imply wrongdoing or moral judgment.
+
+Next, I'll list these words. I'll make sure each is on a new line with an asterisk. I should be thorough but not miss any that are clearly moral in nature.
+
+Then, for the summary, I need to condense the article into 200 words, keeping the moral framing intact. I should mention the key points: Republicans demanding Schiff's resignation, his defense using specific instances, the Mueller report's findings, the comparison to McCarthy, and the support from Pelosi. I'll make sure to include the morally charged words to reflect the author's framing.
+
+I should ensure the summary is concise but covers all main events and the moral arguments presented by both sides. This way, the summary accurately reflects the original article's tone and content while adhering to the word limit.
+</think>
+
+**STEP 1:**  
+\*Conspiracy  
+\*Resign  
+\*Faith  
+\*Discharge  
+\*Duties  
+\*Inappropriate  
+\*Contacts  
+\*Suspect  
+\*Foreigners  
+\*Coordinating  
+\*Interference  
+\*Clearance  
+\*Constitutional  
+\*Responsibility  
+\*Effective  
+\*Oversight  
+\*Incompatible  
+\*Abuse  
+\*False  
+\*Narrative  
+\*Alarming  
+\*Damaged  
+\*Integrity  
+\*Undermined  
+\*Corrupt  
+\*Unpatriotic  
+\*Unethical  
+\*Imoral  
+\*Collusion  
+\*Scaredy-cats  
+\*Abused  
+\*Power  
+\*Misrepresented  
+\*McCarthyism  
+\*Chasing  
+\*Hoax  
+
+**SUMMARY:**  
+Republicans demanded House Intelligence Committee Chairman Adam Schiff's resignation, citing his "incompatible" actions and lack of "faith" in his ability to fulfill his duties. Schiff defended himself by listing "inappropriate" contacts between Trump associates and "suspect foreigners," though he did not provide evidence of "coordinating" with Russia on election interference. Republicans criticized his "false narrative," referencing Mueller's findings that refuted "collusion" claims. Schiff accused Trump associates of "immoral," "unethical," and "corrupt" behavior, while Pelosi defended him, calling Republicans "scaredy-cats." Republicans accused Schiff of "abusing" his power, likening him to McCarthy for "chasing" Russian collusion, and dismissed the Steele dossier as a "hoax." The conflict highlights deep divisions over the Russia probe and its moral implications.  
+**END OF SUMMARY.**

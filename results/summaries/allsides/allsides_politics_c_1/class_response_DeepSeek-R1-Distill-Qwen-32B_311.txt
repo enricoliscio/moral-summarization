@@ -1,0 +1,17 @@
+<think>
+Alright, I need to help the user by summarizing the given news article while preserving the moral framing. The user mentioned that the assistant is a news summarizer and a moral expert, so I should focus on the ethical implications and the language used.
+
+First, I'll read through the article to understand the main points. It's about John Bolton's book accusing Trump of various wrongdoings, including seeking election help from China, supporting prison camps, discussing executing journalists, and dealings with Ukraine. Trump dismisses the book as lies, and there was a legal battle over classified info. The book's release was approved by a judge, and it's due out soon.
+
+The user highlighted specific morally charged words: executing, lies, ruled, resigned, put, sharing, wrongdoing, justice, violations, suffer, refused, voted, acquit. I need to include as many of these as possible in the summary.
+
+I'll start by outlining the key events: Bolton's accusations, Trump's response, legal actions, the book's approval, and the political implications. I'll make sure to use the moral words where appropriate, like "executing," "lies," "wrongdoing," etc.
+
+I should structure the summary to flow logically, starting with Bolton's book, Trump's dismissal, the legal ruling, the political reactions, and the potential impact. I need to keep it under 200 words, so I'll be concise but include all necessary details.
+
+I'll also consider the perspectives mentioned, like how the book affects Republicans and the significance of the claims despite Bolton's motives. Using words like "suffer" and "refused" will highlight the moral judgment on the senators.
+
+Finally, I'll ensure the summary starts with "SUMMARY:" and ends with "END OF SUMMARY." without any markdown. I'll check the word count to make sure it's within the limit and that all key points are covered with the moral framing intact.
+</think>
+
+SUMMARY: Former national security adviser John Bolton's upcoming book accuses President Trump of wrongdoing, including seeking election help from China, endorsing Muslim prison camps, discussing executing journalists, and mishandling Ukraine affairs. Trump dismisses the book as "lies" and a staffer's vendetta, while the administration tried to block its release over classified info. A judge ruled in Bolton's favor, allowing the book to be published on June 23. Bolton, who resigned or was fired in 2019, was not subpoenaed during the impeachment inquiry, sparking debate over his claims' timing and relevance. Critics argue his accusations could have politically damaged Trump during the impeachment trial but now seem less impactful amid a health crisis and racial justice protests. Some, however, believe the book could still harm Trump, especially regarding his conciliatory approach to China. Democrats consider seeking Bolton's testimony, while Republicans face criticism for refusing to hear his account during the impeachment trial. The book's revelations may haunt GOP senators seeking reelection, as they voted to acquit Trump despite Bolton's detailed allegations of high-level violations. END OF SUMMARY.

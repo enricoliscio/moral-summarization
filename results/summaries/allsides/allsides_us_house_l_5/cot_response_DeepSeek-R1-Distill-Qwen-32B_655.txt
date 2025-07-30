@@ -1,0 +1,31 @@
+Okay, so the user wants me to summarize a news article while preserving the moral framing. They've provided a specific structure with two steps: first, identifying morally framed words, and then writing a concise summary. 
+
+I need to start by reading the article carefully to understand the context. The article is about a Republican immigration bill that's supposed to prevent family separation but actually doesn't. It mentions border security, DACA, and how the bill affects family detention.
+
+For STEP 1, I have to find all the single words that carry a moral connotation. Words like "lying," "separating," "prosecuting," "detained," "indefinitely," "loopholes," "cruelty," "unlawful," "exploitation," "deportation," and "dehumanization" come to mind. These words reflect the moral judgment in the article.
+
+Next, the summary needs to capture the essence of the article while including these moral terms. I should mention that the bill doesn't stop family separation but allows indefinite detention. Highlighting the Flores agreement and its removal is important, as it shows the administration's harsher approach. Also, noting that the bill prioritizes detention over family unity and human rights ties back to the moral framing.
+
+I need to keep the summary under 200 words, so I'll focus on the key points: the bill's claims vs. reality, the removal of protections, indefinite detention, and the moral implications. Making sure to include the identified words to preserve the author's framing.
+
+I should also ensure the summary flows logically, starting with the bill's introduction, its false claims, the removal of legal protections, and the consequences for families. Ending with the moral critique ties it all together.
+
+Double-checking to make sure I didn't miss any morally charged words and that the summary accurately reflects the article's critical stance on the bill. That should cover everything the user asked for.
+</think>
+
+**STEP 1:**  
+* lying  
+* separating  
+* prosecuting  
+* detained  
+* indefinitely  
+* loopholes  
+* cruelty  
+* unlawful  
+* exploitation  
+* deportation  
+* dehumanization  
+
+**SUMMARY:**  
+The Republican immigration bill claims to end family separation at the border but does not outlaw it. Instead, it removes legal protections that prevent indefinite detention of children and families, allowing the Trump administration to detain families together in ICE custody indefinitely. The bill eliminates the Flores agreement, which required children to be released "without unnecessary delay" and kept in the "least restrictive" conditions. This change would enable the government to detain families for months or years, effectively replacing family separation with indefinite detention. The bill also does not prevent the administration from prosecuting parents, which has been a key method of separating families. While the bill may reduce separations, it prioritizes detention over family unity, perpetuating a system of cruelty and exploitation. The administration's goal of maximizing detention to prevent "catch and release" is evident, with the bill aligning with Trump's desire to indefinitely detain asylum seekers, including children. The moral framing of the bill highlights its failure to protect vulnerable families and its potential for dehumanization and unlawful detention.  
+**END OF SUMMARY.**

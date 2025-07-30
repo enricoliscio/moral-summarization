@@ -1,0 +1,19 @@
+Alright, I need to help the user by summarizing the given news article while preserving the moral framing. The user specified that the summary should include the morally framed words "injured" and "killed." 
+
+First, I'll read through the article to understand the main points. It's about the 2012 vice presidential debate between Biden and Ryan. Biden used aggressive tactics, mocked Ryan, and referenced past political figures. The debate was intense, with Biden being more aggressive and Ryan trying to stay respectful.
+
+I notice the article mentions Biden bringing up Ryan's district seeking stimulus funds, which Biden criticized. There's also a part where Ryan brought up Romney's "47 percent" remark, leading Biden to mention his own gaffe. Additionally, the moderator, Martha Raddatz, was more assertive than previous moderators.
+
+The key moral framing words are "injured" and "killed," which appear when Biden talks about his family tragedy. I need to include that part to preserve the moral elements.
+
+Now, I'll structure the summary to include these points concisely, making sure not to exceed 200 words. I'll start by highlighting Biden's aggressive debating style, then touch on the specific points where moral framing is used, and conclude with the moderator's role.
+
+I need to ensure the summary flows well and accurately reflects the article's content while emphasizing the moral aspects. I'll make sure to mention Biden's personal tragedy to include "killed" and "injured," even though "injured" isn't directly in the article but is related to the context of the tragedy.
+
+Finally, I'll wrap up the summary, ensuring it's within the word limit and properly formatted with the required tokens.
+</think>
+
+SUMMARY:  
+Joe Biden dominated the 2012 vice presidential debate against Paul Ryan, employing a sharp and aggressive debating style reminiscent of his old Senate colleague Lloyd Bentsen. Biden mocked Ryan, dismissing his arguments as "malarkey" and comparing him to Dan Quayle. When Ryan mentioned John F. Kennedy, Biden grinned and quipped, "So, now you're Jack Kennedy?" Biden's relentless interruptions and patronizing demeanor left Ryan disconcerted, though Ryan held his own. Biden criticized Ryan for opposing the Obama stimulus while seeking funds for his district, to which Ryan responded stiffly. The debate also touched on Romney's "47 percent" remark, with Ryan pointing out Biden's own gaffes. Moderator Martha Raddatz pushed for specificity, avoiding the passivity of previous debates. Biden, seizing the opportunity to redeem the Obama campaign, relished the chance to "unleash his inner barroom brawler." The debate was intense, with Biden's aggressive tactics overshadowing Ryan's respectful demeanor. Biden also referenced his personal tragedy, recalling his wife and daughter being killed in a car crash, adding emotional weight to the discussion.  
+
+END OF SUMMARY.

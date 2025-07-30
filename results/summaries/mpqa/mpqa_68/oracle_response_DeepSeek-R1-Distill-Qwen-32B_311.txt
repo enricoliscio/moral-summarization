@@ -1,0 +1,12 @@
+Okay, I need to help the user by summarizing the given news article while preserving the moral framing. The user mentioned that they are a news summarizer assistant and a moral expert, so they want a concise summary that includes specific morally framed words: economy, environment, ineffective, help, economic.
+
+First, I'll read the article to understand the main points. It's about a meeting between Japanese PM Koizumi and US President Bush discussing global warming. They have differing views on the Kyoto Protocol. Bush rejects it, pushing an alternative plan with voluntary limits. Koizumi supports Kyoto but calls Bush's plan constructive, asking for more effort. They agreed to cooperate on new technologies that benefit both economy and environment.
+
+Now, I need to craft a summary under 200 words. I should include the morally framed words. Let me structure it: mention the leaders, their differing views on Kyoto, Bush's alternative, Koizumi's stance, and their agreement on cooperation and technologies.
+
+I should ensure that words like economy, environment, ineffective, help, and economic are included. Also, note the criticism that Bush's plan is ineffective and how it might increase emissions.
+
+Putting it all together, the summary should flow logically, highlighting the key points and the moral aspects without losing the essence of the article.
+</think>
+
+SUMMARY: Japanese Prime Minister Junichiro Koizumi and U.S. President George W. Bush differed over global warming strategies during their meeting. Bush rejected the Kyoto Protocol, calling it harmful to U.S. economic growth, and promoted an alternative plan with voluntary greenhouse gas limits tied to economic growth. Koizumi described the U.S. plan as "constructive" but urged further efforts, emphasizing that both economy and environment could be improved together. Environmentalists criticized the U.S. proposal as ineffective, warning it could lead to rising emissions. Despite their differences, both leaders agreed to cooperate on developing new technologies to address global warming, which they believed could help both economic development and environmental protection. END OF SUMMARY.

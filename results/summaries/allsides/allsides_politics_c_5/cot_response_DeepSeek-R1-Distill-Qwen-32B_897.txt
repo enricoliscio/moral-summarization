@@ -1,0 +1,39 @@
+Alright, so the user has given me a query where I need to act as a news summarizer assistant and a moral expert. The task involves two main steps: first, identifying morally framed single words from a news article, and second, summarizing the article while preserving those moral frames. 
+
+Let me start by understanding the article. It's about President-elect Donald Trump facing doubts about his legitimacy and the suggestion that he should release secret memos from the Obama administration to expose their overreach. The article highlights issues like the drone program, Syrian intervention, Libya bombing, FOIA mishandling, TSA intrusiveness, and the Affordable Care Act. Each of these points has a moral angle, pointing out issues like overreach, secrecy, abuse, and lack of transparency.
+
+For the first step, I need to extract all the single words that carry moral implications. Words like "doubts," "reckless," "commandeered," "power," "secret," "torture," "Fourth Amendment," "unconstitutional," "scandalized," "excessive," "trust," etc., come to mind. I should list each of these in a new line with a star.
+
+Next, the summary needs to encapsulate the main points while retaining these moral framings. The summary should be concise, around 200 words, and highlight how Trump can expose Obama's administration's overreach to build trust and credibility. I need to mention the specific examples like drone memos, Syrian intervention, Libya bombing, FOIA issues, TSA policies, and the ACA memos. Each of these points should reflect the moral issues highlighted in the article.
+
+I should ensure that the summary flows logically, starting with Trump facing legitimacy issues, then moving through each example of Obama's overreach, and ending with the benefits of transparency for democracy. It's important to use the morally charged words to maintain the author's framing.
+
+I also need to make sure the summary doesn't exceed 200 words, so I have to be concise but comprehensive. Each example should be mentioned briefly but clearly, showing the moral implications without going into too much detail.
+
+Finally, I'll structure the response with the two steps clearly labeled, first listing the moral words and then providing the summary. I'll make sure to end the summary with the specified tokens to indicate its conclusion.
+</think>
+
+**STEP 1:**  
+* Doubts  
+* Reckless  
+* Commandeered  
+* Power  
+* Secret  
+* Torture  
+* Fourth Amendment  
+* Unreasonable searches  
+* Civil liberties  
+* Targeted killing  
+* Drone assassinations  
+* Fiasco  
+* Chaos  
+* Intrusive  
+* Abusive  
+* Groping  
+* Perpetual secrecy  
+* Unconstitutional  
+* Excessive secrecy  
+* Trust  
+
+**SUMMARY:**  
+President-elect Donald Trump faces widespread doubts about his legitimacy, with opponents likely labeling his governance as reckless. To counter these claims, Trump should follow President Obama's precedent by revealing secret memos and legal justifications for controversial policies. These include Obama's "targeted killing" drone program, the Syrian Civil War intervention, and the Libya bombing. Exposing these records would highlight the Obama administration's overreach and potential violations of civil liberties. Additionally, Trump should address the excessive secrecy surrounding the Affordable Care Act and the Transportation Security Administration's intrusive policies. By opening these files, Trump could rebuild trust in government and prevent future follies. The Freedom of Information Act (FOIA) has been ineffective under Obama, with federal agencies often denying requests. Transparency would not only expose past missteps but also serve as a booster shot for democracy, restoring faith in governance. END OF SUMMARY.

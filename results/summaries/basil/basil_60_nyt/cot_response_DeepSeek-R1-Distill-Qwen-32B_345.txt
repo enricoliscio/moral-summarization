@@ -1,0 +1,30 @@
+<think>
+Okay, so the user has given me a query where they want me to act as a news summarizer assistant and a moral expert. The task is to summarize a news article while preserving the moral framing. They've provided a specific structure: first, identify all single words that are morally framed, then write a concise summary using those words.
+
+First, I need to understand what morally framed words are. These are words that carry a moral judgment, like "egocentric," "false prophet," or "stupid." They indicate approval or disapproval.
+
+Looking at the article, I'll go through each sentence to pick out these words. For example, "egocentric" is used to describe Trump, which is a moral judgment. "False prophet" is another one, used to criticize Trump's supporters. "Stupid" is used to describe the wall, showing disapproval. "Harm" is used in the context of the economy, indicating a negative consequence. "Foul language" is mentioned as a criticism, so that's a moral term too.
+
+Once I've listed all these words, I need to summarize the article. The summary should include these moral terms to preserve the author's framing. I'll start by outlining the main points: Trump's campaign promise about the wall, the Mexican presidents' opposition, their criticisms, and Trump's response about Mexico paying.
+
+I'll make sure to include each of the identified moral words in the summary. For example, mentioning that Fox called Trump "egocentric" and a "false prophet," and that Calderón called the wall "stupid." I'll also note Trump's insistence on Mexico paying and his reaction to Fox's language.
+
+I need to keep the summary under 200 words, so I'll be concise but include all key points. I'll structure it to flow logically, starting with Trump's plan, then the opposition from the Mexican presidents, their reasons, and Trump's response.
+
+Finally, I'll make sure the summary starts with "SUMMARY:" and ends with "END OF SUMMARY." I'll check the word count to ensure it's within the limit. This approach should fulfill the user's request effectively, providing both the step-by-step identification and a concise, morally framed summary.
+</think>
+
+**STEP 1:**
+
+* egocentric  
+* false prophet  
+* stupid  
+* harm  
+* foul language  
+
+---
+
+**SUMMARY:**  
+At his campaign rallies, Donald Trump repeatedly asks, “Who’s gonna pay?” for his border wall, to which his supporters reply, “Mexico!” However, two former Mexican presidents, Vicente Fox and Felipe Calderón, have firmly rejected the idea of Mexico paying for the wall. Fox called Trump "egocentric" and criticized his lack of political values, dismissing Trump's success with Hispanic voters as followers of a "false prophet." Calderón dismissed the wall as "stupid" and argued it would harm the U.S. economy. Trump insists he can compel Mexico to pay, but he was angered by Fox’s use of "foul language" in criticizing the wall.  
+
+END OF SUMMARY.

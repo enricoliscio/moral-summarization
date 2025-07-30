@@ -1,0 +1,16 @@
+Okay, so the user has given me a news article about the House Republicans storming a secure room during the impeachment probe. They want me to summarize it while preserving the moral framing words the author used. The key words are: broken, bypassing, outrage, following, denied, restricted, right, permitted, access, brought, push, press.
+
+First, I need to read the article carefully to understand the main points. The Republicans stormed the secure room, which was a protest against the Democrats' handling of the impeachment process. They were upset because they felt excluded and that the process wasn't fair. Democrats were angry because the Republicans brought electronics into a secure area, which could be a security risk. They wanted ethics charges against the Republicans. The Republicans argued that the hearing wasn't classified and that Democrats were bypassing due process. There's also mention of the testimony of Laura Cooper and William Taylor, and the ongoing document requests.
+
+Now, I need to identify the moral framing words in the article and ensure they are included in the summary. The words to include are: broken, bypassing, outrage, denied, restricted, right, permitted, access, brought, press.
+
+I'll start by outlining the main events and then incorporate the moral words. The Republicans stormed the room, which caused an outrage. They were denied access and their right to participate. The Democrats said the process was restricted and that Republicans were bypassing proper procedures. The Republicans brought electronics, which was a security concern. They were pressing for fairness.
+
+I need to make sure the summary is concise, under 200 words, and includes all the necessary moral terms. I'll structure it to show both sides' perspectives, highlighting the conflict over fairness and process violations.
+
+Let me draft the summary step by step, ensuring each moral word is appropriately placed without making it sound forced. I'll check the word count to stay within limits. Also, I need to end with the specified tokens.
+
+Finally, I'll review the summary to ensure it accurately reflects the article's content and maintains the moral framing as per the user's request.
+</think>
+
+SUMMARY: House Republicans stormed a secure room during the impeachment probe, causing outrage as they demanded fairness from Democrats. Democrats accused Republicans of breaking security protocols by bringing electronics into the sensitive area, potentially creating a lapse. They called for ethics charges, while Republicans argued the hearing was not classified and claimed Democrats were bypassing due process. GOP lawmakers criticized the Democrats for denying them access to the process and restricting their involvement. They asserted their right to participate, while Democrats countered that Republicans on the committees were permitted to ask questions and access information. The protest disrupted a deposition involving Laura Cooper, delaying her testimony. Meanwhile, William Taylor's testimony about Trump's alleged quid pro quo with Ukraine was contradicted by Republicans, who argued it was based on second- and third-hand information. Democrats pressed for more documents, including State Department communications, as the investigation continued. END OF SUMMARY.

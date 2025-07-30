@@ -1,0 +1,19 @@
+<think>
+Alright, so the user wants me to summarize a news article while preserving the moral framing. They've provided the article and the specific morally framed words to include. First, I need to understand the article's content. It's about John Bolton's book detailing accusations against Trump, the reactions from both parties, and the implications of the book's release.
+
+I should focus on key points: Bolton's accusations, Trump's dismissal, legal actions, the book's scheduled release, and the political reactions. I need to include the morally charged words like "decisions," "executing," "lies," "wrongdoing," etc., to maintain the author's framing.
+
+I'll structure the summary to highlight the conflict between Bolton and Trump, the political implications, and the debate around the timing and impact of the book. I need to keep it concise, under 200 words, and make sure it flows naturally while incorporating the moral terms.
+
+I should also note the perspectives from both Democrats and Republicans, emphasizing how the book affects their positions. Finally, I'll ensure the summary ends with the "END OF SUMMARY." token as instructed.
+</think>
+
+SUMMARY:  
+
+John Bolton’s upcoming book accuses President Trump of making decisions based on reelection rather than national interest, including seeking election help from China, endorsing China’s treatment of Muslims, and mishandling Ukraine, which led to the impeachment inquiry. Trump dismisses the book as "lies" from a former staffer seeking revenge, while the administration tried to block its release over classified information claims. A federal judge ruled in Bolton’s favor. Bolton, Trump’s third national security adviser, left in 2019 after clashes over foreign policy. Democrats and Republicans avoided subpoenaing Bolton during the impeachment inquiry to avoid legal battles.  
+
+The book’s claims have sparked debate, with Trump allies dismissing it and liberals criticizing Bolton for prioritizing personal gain over public disclosure. Some argue the accusations could still damage Trump’s image, especially regarding his approach to China. Democrats are considering whether to seek Bolton’s testimony.  
+
+Bolton’s account may harm Republican senators who refused to hear his testimony and voted to acquit Trump. While some see his claims as self-serving, others argue they are significant and specific, potentially resonating with voters dissatisfied with Trump’s pandemic and protest handling.  
+
+END OF SUMMARY.

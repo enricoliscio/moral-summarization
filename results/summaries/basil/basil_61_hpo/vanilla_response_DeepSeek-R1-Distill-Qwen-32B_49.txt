@@ -1,0 +1,14 @@
+Alright, so the user wants me to summarize a news article about Ted Cruz, Donald Trump, and the National Enquirer. They provided the article and specified the format for the summary, including the tokens and word limit. 
+
+First, I need to read through the article carefully to understand the key points. The main events are Cruz accusing Trump of being involved with the Enquirer's story about his affairs, Cruz denying the allegations, the surreal exchange on CNN, Trump's denial of involvement, and the Enquirer's response about their independence.
+
+I should identify the main actors: Ted Cruz, Donald Trump, National Enquirer, and the people involved in the CNN exchange. The summary needs to be concise, under 200 words, so I'll focus on the essential details without getting into too much background.
+
+I'll start by stating Cruz's accusation against Trump, mention the Enquirer's story, Cruz's denial, the CNN incident, Trump's response, and the Enquirer's denial of external influence. I'll make sure to include that the Enquirer has a history of breaking major sex scandals to add context.
+
+I need to keep the summary clear and factual, avoiding any personal opinions. Also, I'll ensure it's within the word limit by being concise with each point. I'll structure it in a logical flow, starting with Cruz's accusation, moving through the events, and ending with the Enquirer's response.
+
+Finally, I'll format it with the "SUMMARY:" token at the beginning and "END OF SUMMARY." at the end, as per the user's instructions. I should double-check the word count to make sure it's under 200 words and that all key points are covered without unnecessary details.
+</think>
+
+SUMMARY: Sen. Ted Cruz (R-Texas) accused Donald Trump of using "his friends at the National Enquirer" to spread false allegations of extramarital affairs involving Cruz. The tabloid published a story claiming Cruz had affairs with five women, which he denied, calling the attacks "garbage." On CNN, Cruz's former communications director, Amanda Carpenter, faced accusations from columnist Adriana Cohen, referencing the Enquirer's claims. Trump denied involvement, stating he had "nothing to do" with the story and criticized Cruz for associating with "political hacks." The National Enquirer's parent company also denied any influence from Trump backers, emphasizing their independent reporting. The Enquirer has a history of breaking major sex scandals, including those involving John Edwards and Tiger Woods. END OF SUMMARY.

@@ -1,0 +1,39 @@
+Okay, so the user has given me a query where I need to act as a news summarizer and moral expert. They want me to summarize a news article, but first, I have to identify all the morally framed words. Then, I need to write a concise summary that preserves those moral framings.
+
+First, I'll read through the article to understand the context. It's about Susan Rice criticizing Netanyahu for his speech to Congress, which has strained US-Israel relations. The key here is to find words that carry moral weight. Words like "criticized," "hurt," "partisanship," "destructive," "controversy," "damaged," "protocol," "displeasure," "weakens," "balance," "disappointing," "committed," "strong," "obligation," "prevent," "final brake," "unquestionably strong," "immutable," and "hard" seem to fit. These words convey judgment or evaluation, which is the moral framing.
+
+Next, I need to summarize the article, keeping these words intact. The summary should be under 200 words, so I'll focus on the main points: Rice's criticism, the impact on relations, the breach of protocol, Netanyahu's reasons, and the administration's response. I'll make sure to include the morally framed words to preserve the author's tone.
+
+I should structure the summary to flow logically, starting with Rice's criticism, then the context of the speech, the administration's reaction, Netanyahu's reasons, and the implications for the relationship. This way, the summary remains concise while capturing all essential moral points.
+
+I also need to ensure that the summary doesn't add any new information beyond what's in the article. It should be a faithful condensation, highlighting the moral aspects without bias. I'll check the word count to make sure it's within the limit.
+
+Finally, I'll present the summary clearly, starting with the "SUMMARY:" token and ending with "END OF SUMMARY." Making sure the formatting is correct and that each step is clearly marked as per the user's instructions.
+</think>
+
+### STEP 1:
+* Criticized  
+* Hurt  
+* Partisanship  
+* Destructive  
+* Controversy  
+* Damaged  
+* Protocol  
+* Displeasure  
+* Weakens  
+* Balance  
+* Disappointing  
+* Committed  
+* Strong  
+* Obligation  
+* Prevent  
+* Final brake  
+* Unquestionably strong  
+* Immutable  
+* Hard  
+
+---
+
+### SUMMARY:  
+Susan E. Rice, President Obama’s national security adviser, criticized Prime Minister Benjamin Netanyahu of Israel for his plan to address Congress, stating his actions had hurt the U.S.-Israel relationship. Rice accused Netanyahu’s speech, scheduled before the Israeli elections, of injecting partisanship, which she called destructive to the bilateral relationship. The administration viewed the speech, arranged without consulting the White House, as a breach of protocol. Obama and Rice expressed concern that allowing the relationship to be influenced by party politics weakens it. Netanyahu defended his decision, saying it was his obligation to prevent a nuclear deal with Iran. However, his refusal to meet with Democratic senators was seen as disappointing, as it risked reinforcing perceptions of partisanship. The administration emphasized the importance of maintaining an immutable, strong relationship between the two nations, regardless of political seasons.  
+END OF SUMMARY.

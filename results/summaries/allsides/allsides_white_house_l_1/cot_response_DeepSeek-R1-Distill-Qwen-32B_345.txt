@@ -1,0 +1,41 @@
+Okay, so the user has given me a query where they want me to act as a news summarizer assistant and a moral expert. They provided a news article about John Kelly and his tenure as Chief of Staff under Trump. The task is to first identify all the morally framed single words in the article and then write a concise summary preserving those moral terms.
+
+First, I need to understand what "morally framed" means. It refers to words that carry a judgment or moral evaluation, like "chaotic," "cruelty," or "bigotry." I'll go through the article and pick out each of these words. I'll list them under STEP 1, each on a new line with a *.
+
+Next, I have to write a summary. The summary needs to be under 200 words and include as many of those moral terms as possible. I'll focus on the key points: Kelly's role, his actions, and the moral implications. I'll mention his spat with Wilson, his comments on the Civil War, his defense of Porter, and his role in the child separation policy. I'll highlight how he embodies Trump's ideology despite his supposed moderation.
+
+I need to ensure the summary flows well and covers all the main moral points without being too detailed. I'll make sure to include terms like "chaotic," "cruelty," "bigotry," "disdain," "dishonesty," "contempt," and "dehumanization." This way, the summary reflects the moral framing of the original article accurately.
+
+Finally, I'll structure the response with the STEP 1 section listing the words and then the SUMMARY section. I'll make sure to end the summary with "END OF SUMMARY." as instructed.
+</think>
+
+**STEP 1:**  
+* Chaotic  
+* Disordered  
+* Intemperate  
+* Undisciplined  
+* Casual cruelty  
+* Bigotry  
+* Bad behavior  
+* Disdain  
+* Disrespect  
+* Both sides  
+* Racist  
+* Defiant  
+* Outrageous  
+* Indifferent  
+* Cruel  
+* Heartless  
+* Dehumanization  
+* Ethos  
+* Ethnonationalist  
+* Rotten ideology  
+* Casual cruelty  
+* Bigotry  
+* Dehumanization  
+* Contempt  
+* Common decency  
+* Moderation  
+
+**SUMMARY:**  
+John Kelly, Trump's chief of staff, left the White House as chaotic as it was when he arrived. While he lacked Trump's intemperate behavior, he embodied Trumpism through casual cruelty, bigotry, and tolerance of bad behavior. During a spat with Rep. Frederica Wilson, Kelly falsely accused her of dishonesty, showing disdain for black female critics. He also praised Confederate Gen. Robert E. Lee, ignoring the Civil War's roots in slavery, and echoed Trump's "both sides" rhetoric after the Charlottesville rally. Kelly defended Rob Porter, a senior aide accused of domestic abuse, despite knowing about a protective order. He was indifferent to the charges, making it a potential scandal. Kelly also played a key role in the "zero tolerance" immigration policy, which separated children from their parents, shrugging off the cruelty. His actions revealed a shared worldview with Trump, prioritizing normalcy over decency. Kelly's tenure showed that the appearance of moderation is not true moderation, and the administration's ethos flows from Trump's ideology. END OF SUMMARY.

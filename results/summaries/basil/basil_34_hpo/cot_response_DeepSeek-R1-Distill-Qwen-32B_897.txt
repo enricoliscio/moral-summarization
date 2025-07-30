@@ -1,0 +1,34 @@
+Okay, so the user has provided a news article about the NRA's school safety report and wants me to summarize it while preserving the moral framing. They've also given specific steps: first, identify morally framed words, and then write a summary using those words.
+
+I need to start by understanding what morally framed words are. These are words that carry a positive or negative connotation, reflecting values or judgments. For example, words like "proposed," "loosening," "opposed," "cruel hoax," etc., which convey approval or disapproval.
+
+Looking at the article, I'll go through each sentence and pick out words that have such connotations. Words like "recommends," "arming," "loosening," "independent," "protect," "opposes," "cruel hoax," "flood," "controversial," "disaster," "inadequate," "encouraged," "valuable," "tribute," "dedicated," "resources." I'll list these as STEP 1.
+
+Next, for the summary, I need to condense the article into 200 words, making sure to include as many of these morally framed words as possible. I'll structure it by mentioning the report, its recommendations, the criticism it received, and the context of the Sandy Hook shooting. I'll highlight the opposing views, such as the NRA's support versus the union's criticism, and the overall controversial nature of the report.
+
+I should ensure that the summary flows logically, starting with the report's release, its main points, the reactions, and the implications. I'll also include Hutchinson's statement about the cost and training, as well as the NRA's stance on it. Finally, I'll mention the personal note with the father's tribute to keep the human element in the summary.
+
+I need to make sure that the summary doesn't exceed 200 words and that it accurately reflects the moral framing without being too biased. It should present both sides of the argument clearly, using the identified words to convey the necessary tone.
+</think>
+
+**STEP 1:**  
+* Recommends  
+* Arming  
+* Loosening  
+* Independent  
+* Protect  
+* Opposes  
+* Cruel hoax  
+* Flood  
+* Controversial  
+* Disaster  
+* Inadequate  
+* Encouraged  
+* Valuable  
+* Tribute  
+* Dedicated  
+* Resources  
+
+**SUMMARY:**  
+The National Rifle Association (NRA) released a 225-page school safety report recommending arming teachers and loosening gun laws, following the Sandy Hook Elementary School shooting. The report, led by former Rep. Asa Hutchinson, suggested training teachers to carry firearms, emphasizing local school authorities' role in deciding security measures. It proposed a 40-60 hour training program costing $800-$1,000 per employee, with armed personnel required to undergo background checks. The task force also recommended allowing non-law enforcement personnel to carry guns in schools, effectively ending gun-free zones. Critics, including the American Federation of Teachers, condemned the report as a "cruel hoax," arguing it would flood schools with guns. The NRA defended the report as independent, though it faced criticism for its controversial approach. Hutchinson criticized state gun control efforts as "inadequate" and encouraged the NRA to fund pilot programs. The report was unveiled with a tribute to Sandy Hook victim James Mattioli, whose father praised the NRA's efforts. The proposal remains highly divisive, reflecting broader debates over gun control and school safety.  
+**END OF SUMMARY.**

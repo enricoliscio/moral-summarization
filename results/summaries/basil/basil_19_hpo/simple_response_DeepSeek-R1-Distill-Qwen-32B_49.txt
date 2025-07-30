@@ -1,0 +1,16 @@
+Okay, so I need to help the user by summarizing a news article while preserving the moral framing. Let me start by reading the article carefully. 
+
+The article is about Donald Trump announcing he's pulling out of a debate he was supposed to moderate. He said he didn't want to give up his right to run as an independent candidate, which the Republican Party was asking him to do if he wanted to moderate. He made this announcement after initially partnering with Newsmax to host a forum, but most candidates didn't show up except Gingrich and Santorum. He also faced public ridicule for his decision and his plan to endorse a candidate at the debate. 
+
+Now, the user wants a summary that's no longer than 200 words, after the "SUMMARY:" token and ending with "END OF SUMMARY." They emphasized preserving the moral framing, so I need to make sure the summary reflects Trump's reasoning and the implications, like his stance on independence and the criticism he received.
+
+I should structure the summary to first state Trump's decision, then his reason, followed by the initial partnership and the candidates' responses. Then mention the public reaction and his wavering before the final decision. 
+
+I need to keep it concise, so I'll make sure each point is clear but brief. Also, I should use the exact moral points he made, like not wanting to give up his right to run as an independent, which shows his independence and possible conflict with the Republican Party. The public ridicule and criticism add to the moral framing by highlighting the negative reactions to his decisions.
+
+Let me draft this step by step, making sure each part is covered without exceeding the word limit. I'll check the word count as I go to ensure it's under 200. 
+
+I think that's a solid plan. Now, I'll put it all together into a coherent summary.
+</think>
+
+SUMMARY: Donald Trump has withdrawn from moderating a Newsmax debate, citing concerns that participating would force him to relinquish his independence as a potential candidate. Trump argued that the Republican Party was pressuring him to abandon his independent bid if he wanted to moderate the event. This decision came after he initially partnered with Newsmax to host a forum with remaining Republican presidential candidates, but only Newt Gingrich and Rick Santorum agreed to attend. Trump faced widespread criticism for his decision to moderate and his plan to endorse a candidate during the debate. Despite earlier statements that the forum would proceed, Trump hinted at canceling it in the days leading up to the announcement. His withdrawal highlights tensions between his independent ambitions and the Republican Party, while also drawing public ridicule for his unconventional approach to the political process. END OF SUMMARY.

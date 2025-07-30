@@ -1,0 +1,41 @@
+Okay, so the user has given me a query where they want me to act as a news summarizer and a moral expert. They provided a news article about Drew Brees and his involvement with a Bible program, which led to backlash from the LGBTQ community. The task is to first identify all the morally framed single words and then summarize the article while preserving those moral framings.
+
+First, I need to understand the structure of the response they want. They mentioned two steps: Step 1 is identifying the morally framed words, each on a new line starting with a *. Then, the summary should follow, using as many of those words as possible, and it should be concise, under 200 words.
+
+Looking at the article, I should go through each sentence and pick out words that carry moral connotations. Words like "broadside," "innocuous," "outspoken," "encouraged," "excuse," "excoriated," "smeared," "deceptive," "bigot," "hateful," "discriminate," "inequality," "love," "respect," "accept," "credibility," "speak," "honor," "values." These words are loaded with moral judgment, either positive or negative.
+
+Next, for the summary, I need to weave these words into a coherent narrative that captures the essence of the article. The summary should mention Brees supporting the program, the backlash from the LGBTQ community, the accusations, Brees's defense, and his emphasis on love, respect, and acceptance.
+
+I should make sure the summary is concise and sticks to the facts while using the identified moral words. It's important to present both sides: Brees's support and the criticism he faced, followed by his clarification.
+
+I need to ensure that the summary doesn't exceed 200 words and that it accurately reflects the moral framing without bias. The user wants the summary to preserve the original author's moral perspective, so I should mirror that in my summary.
+
+Also, I should avoid any markdown and keep the formatting as per their instructions, using "STEP 1:" and "SUMMARY:" tokens correctly. Each step should be clearly separated, and the summary should end with "END OF SUMMARY."
+
+I think I've covered all the points. Now, I'll structure the response accordingly, listing the moral words first and then crafting the summary.
+</think>
+
+**STEP 1:**  
+* Broadside  
+* Innocuous  
+* Outspoken  
+* Encouraged  
+* Excuse  
+* Excoriated  
+* Smeared  
+* Deceptive  
+* Bigot  
+* Hateful  
+* Discriminate  
+* Inequality  
+* Love  
+* Respect  
+* Accept  
+* Credibility  
+* Speak  
+* Honor  
+* Values  
+
+**SUMMARY:**  
+NFL quarterback Drew Brees faced backlash from the LGBTQ community after supporting a program encouraging children to bring Bibles to school and live out their Christian faith. Critics accused him of aligning with a "hateful group" and promoting "discrimination," including "conversion therapy." Brees defended himself, stating he "loves all, respects all, and accepts all," and denied supporting any groups that "promote inequality." He emphasized his intent to encourage kids to share their faith without malice, urging the conversation to move forward. The controversy highlights tensions between religious expression and LGBTQ rights, with Brees asserting his commitment to "credibility" and "values."  
+**END OF SUMMARY.**

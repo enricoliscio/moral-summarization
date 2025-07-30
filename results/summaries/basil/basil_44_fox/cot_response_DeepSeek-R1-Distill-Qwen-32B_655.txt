@@ -1,0 +1,33 @@
+Alright, so the user has provided a query where they want me to act as a news summarizer assistant and a moral expert. They've given a news article about Congressman Michael Grimm facing criminal charges and asked me to perform two tasks: first, identify all single words with moral framing, and second, summarize the article while preserving those moral terms.
+
+First, I need to understand the user's requirements clearly. They want a structured response with two parts: Step 1, which lists the morally framed words, each on a new line with a star, and then a summary that includes as many of those words as possible, keeping it under 200 words.
+
+Looking at the article, I should scan through it to pick out words that carry moral connotations. Words like "charges," "investigation," "vendetta," "wrongdoing," "vindicated," "improprieties," "illegal," "fraud," "straw donors," "fraudulent," "deception," and "corruption" come to mind. These words imply wrongdoing, unethical behavior, or legal issues, which are the moral aspects the user wants highlighted.
+
+Next, for the summary, I need to condense the article while retaining these moral terms. I should mention Grimm's attorney confirming the charges, the two-year investigation, the claim of a politically driven vendetta, Grimm's assertion of innocence, the ongoing service, the ethics committee's deferral, the reporter incident, the donations from the rabbi's followers, the use of straw donors, Biton's guilty plea, and the sealed complaint against the woman. I need to ensure that each of these points includes the identified moral words where appropriate.
+
+I also need to keep the summary concise, under 200 words, so I'll have to be selective about the details without omitting crucial information. It's important to maintain the moral framing as the author presented it, so I should avoid adding any personal opinions or interpretations beyond what's stated.
+
+Finally, I'll structure the response by first listing the morally framed words in Step 1, each prefixed with a star, and then write the summary, making sure to include those terms naturally within the context. I'll end the summary with the specified tokens to indicate its conclusion.
+
+I should double-check that all the morally framed words are included in the summary and that the summary accurately reflects the article's content without introducing any new information or deviating from the moral perspective presented.
+</think>
+
+**STEP 1:**  
+* Charges  
+* Investigation  
+* Vendetta  
+* Wrongdoing  
+* Vindicated  
+* Improprieties  
+* Illegal  
+* Fraud  
+* Straw donors  
+* Fraudulent  
+* Deception  
+* Corruption  
+
+**SUMMARY:**  
+New York Republican Rep. Michael Grimm's attorney confirmed that federal prosecutors plan to file criminal charges against him, following a two-year FBI investigation into his business and campaign activities. Grimm's attorney accused the government of pursuing a politically driven vendetta, asserting Grimm's innocence and promising his eventual vindication. Grimm has denied any wrongdoing, including knowledge of improprieties in his campaign finances. The House Ethics Committee deferred its inquiry due to a separate Department of Justice investigation. Grimm previously confronted a reporter, threatening him after being questioned about the FBI probe. Grimm acknowledged receiving donations from followers of an Israeli rabbi, but some contributors admitted to illegal donations via straw donors. An Israeli businessman linked to Grimm pleaded guilty to immigration fraud, and a woman romantically involved with Grimm was accused of using straw donors to funnel illegal campaign contributions. Grimm continues to serve his constituents, maintaining his dedication and integrity.  
+
+**END OF SUMMARY.**

@@ -1,0 +1,8 @@
+,justification,just-1,just-2
+B02w-EYfI,"EYfI neutral; B02w lower coverage than original ",EYfI-moral framing loss,B02w-moral framing loss
+B02w-mNtQ,"B02w lower coverage than original; mNtQ adequate coverage",B02w-moral framing loss,mNtQ-moral framing alignment
+B02w-ITJy,"B02w lower coverage than original; ITJy adequate coverage",B02w-moral framing loss,ITJy-moral framing alignment
+EYfI-mNtQ,"EYfI neutral; mNtQ adequate coverage",EYfI-moral framing loss,mNtQ-moral framing alignment
+EYfI-ITJy,"EYfI neutral; ITJy adequate coverage",EYfI-moral framing loss,ITJy-moral framing alignment
+mNtQ-XwVJ,"XwVJ neutral; mNtQ adequate coverage",XwVJ-moral framing loss,mNtQ-moral framing alignment
+ITJy-XwVJ,"XwVJ neutral; ITJy adequate coverage",XwVJ-moral framing loss,ITJy-moral framing alignment

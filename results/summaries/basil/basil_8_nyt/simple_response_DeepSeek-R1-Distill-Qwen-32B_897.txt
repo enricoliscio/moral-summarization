@@ -1,0 +1,16 @@
+Okay, so I'm trying to figure out how to approach this query. The user wants me to act as a news summarizer and a moral expert, summarizing a given news article while preserving the moral framing. The article is about Larry Summers and the Obama administration's tax deal, with a lot of details about the political reactions.
+
+First, I need to understand the main points of the article. It talks about Summers warning about the risk of a double-dip recession if the tax deal isn't passed. The administration is countering criticism from Democrats who feel the president gave in too much to Republicans. Obama is defending the deal, saying it makes sense and that the economy is expected to grow because of it. Biden is meeting with House Democrats to sell the compromise, and the White House is using endorsements from various economists and officials to support the deal.
+
+On the other hand, there's significant opposition from liberal Democrats, with many signing a letter calling the deal irresponsible and unfair. Senators and House members are firmly against it, and there's a sense of disappointment in the administration's approach.
+
+Now, the user wants the summary to preserve the moral framing. That means I should highlight the key moral arguments from both sides. The administration is emphasizing the economic benefits and the need to act for the good of the country, while the critics are arguing that the deal is unfair and fiscally irresponsible.
+
+I need to make sure the summary is concise, under 200 words, and captures the essence of both the administration's stance and the opposition's criticisms. I should also include the key players involved, like Summers, Obama, Biden, and the economists they're citing.
+
+I should structure the summary to first present the administration's perspective, then the opposition's, and perhaps a brief mention of the potential impact of the deal. I'll need to keep it neutral but include the moral arguments as presented in the article.
+
+Let me start drafting the summary, making sure to include all these elements without going over the word limit. I'll check that the moral framing is clear, showing the administration's emphasis on economic growth and job creation versus the critics' concerns about fairness and fiscal responsibility.
+</think>
+
+SUMMARY: Larry Summers, outgoing chairman of the National Economic Council, warned that failing to pass the tax deal announced by President Obama would increase the risk of a double-dip recession. The administration is countering criticism from Democrats who argue Obama conceded too much to Republicans. Obama defended the deal, stating it makes economic sense and emphasizing the need for Congress to act. The White House highlighted endorsements from economists, including Mark Zandi, who projected the deal would boost growth by 1.25 percentage points and create 1.6 million jobs. However, liberal Democrats and interest groups are strongly opposing the deal, with over three dozen House members signing a letter calling it "fiscally irresponsible" and "grossly unfair." Vice President Biden is meeting with House Democrats to promote the compromise, but opposition remains firm, with many senators and representatives expressing disappointment in the administration's approach. END OF SUMMARY.

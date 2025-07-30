@@ -1,0 +1,37 @@
+Okay, so I need to help the user with their query. They want me to summarize a news article while preserving the moral framing. The user provided a detailed article about the Zimbabwean elections, highlighting voter suppression, fear, and the struggle for democracy. 
+
+First, I should identify the morally framed words. I'll go through the article and pick out words that carry strong moral connotations. Words like "intimidation," "fraud," "rigging," "oppression," etc., stand out because they imply wrongdoing or ethical issues.
+
+Next, I need to write a concise summary that includes these words. The summary should capture the main points: the high voter turnout despite obstacles, the tactics used by the ruling party to suppress votes, the hopes of the people, and the overall tension. I'll make sure to include the morally charged terms to maintain the author's framing.
+
+I should keep the summary under 200 words, so I'll focus on the key events and the moral implications without getting bogged down in details. I'll structure it to show the struggle, the methods used, and the lingering hope for change despite the challenges.
+
+Alright, I think I have a good grasp on what the user needs. Time to put it all together clearly and concisely.
+</think>
+
+**STEP 1:**
+
+Here are the single words that are morally framed:
+
+* Intimidation  
+* Fear  
+* Fraud  
+* Rigging  
+* Oppression  
+* Suppression  
+* Discrimination  
+* Disenfranchise  
+* Cheating  
+* Exploitation  
+* Oppression  
+* Abuse  
+* Deception  
+* Coercion  
+
+---
+
+**SUMMARY:**  
+
+Zimbabwe's election was marked by high voter turnout despite fear, intimidation, and attempts to rig the vote. Many Zimbabweans, like Martha, pretended to support the ruling ZANU-PF party while secretly voting for the opposition MDC. Polling stations in urban areas, where the MDC was favored, were understaffed, forcing voters to wait for hours in harsh conditions. Rural areas saw fewer voters but more transparency issues, with ZANU-PF officials often directing illiterate voters to support President Mugabe. International observers criticized the election as unfair, citing voter suppression tactics, lack of independent media, and last-minute election-law changes. Despite these challenges, Zimbabweans expressed hope for change, with some, like Edward Murchabaiw, risking their health to cast their votes. The election highlighted a struggle between oppression and democracy, with many believing it could be a turning point for the country.  
+
+**END OF SUMMARY.**

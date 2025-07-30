@@ -1,0 +1,29 @@
+Okay, so I'm trying to figure out how to approach this query. The user wants me to act as a news summarizer and a moral expert. They provided a news article and specific instructions on how to process it.
+
+First, they asked me to identify all the single words that are morally framed. I need to understand what "morally framed" means here. It probably refers to words that carry a moral or ethical connotation, like "freedom," "oppose," or "pro-life." I should go through the article and pick out these words.
+
+Looking at the article, Mary Cheney talks about "freedom" for everyone and "rights," "privileges," and "protections." Liz Cheney mentions being "pro-life" and "opposes" same-sex marriage. Her father supports "freedom" and mentions "ought to be free." So I'll list each of these words with a *.
+
+Next, I need to summarize the article, preserving the moral framing. I should make sure to include those words. The summary needs to be concise, under 200 words, and include the key points: Mary's criticism, Liz's stance, their father's support, and the political context.
+
+I should start by introducing both sisters and their positions. Then mention the moral arguments each makes, using the identified words. Also, note the political implications, like Liz's primary challenge and the family's stance.
+
+I need to ensure the summary flows well and covers all important aspects without being too lengthy. I'll make sure to highlight the moral framing by including those key terms naturally in the summary.
+
+Alright, I think I've got a good plan. I'll list the morally framed words first and then craft a concise summary that includes them, making sure it's under 200 words.
+</think>
+
+**STEP 1:**  
+* Freedom  
+* Oppose  
+* Pro-life  
+* Pro-gay marriage  
+* Rights  
+* Privileges  
+* Protections  
+* Support  
+* Ought to be free  
+
+**SUMMARY:**  
+Mary Cheney, the openly gay sister of Wyoming Senate candidate Liz Cheney, criticized her sister's opposition to same-sex marriage in a Facebook post. Mary, who is married to her partner Heather Poe, argued that "freedom means freedom for everyone" and that all families deserve equal rights. Liz Cheney, who is challenging Sen. Mike Enzi in the Republican primary, stated she is "pro-life" and "opposes gay marriage," believing marriage decisions should be left to the states and their people. Liz's stance puts her at odds with her father, former Vice President Dick Cheney, who has supported gay marriage, emphasizing that "people ought to be free to enter into any kind of union they wish." The family's differing views highlight the moral and political complexities of the issue.  
+END OF SUMMARY.

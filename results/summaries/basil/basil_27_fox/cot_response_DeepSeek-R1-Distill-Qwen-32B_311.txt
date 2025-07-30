@@ -1,0 +1,39 @@
+Alright, so I need to help the user by summarizing a news article while preserving the moral framing. First, I'll read through the article carefully to understand the key points. The article is about Netanyahu's involvement in the American election through an ad campaign, focusing on Iran's nuclear program and the implications for the election.
+
+The user has given specific instructions: first, identify all the morally framed single words, and then write a summary preserving those words. They want the summary to be concise, under 200 words, and structured with "SUMMARY:" and "END OF SUMMARY."
+
+Starting with STEP 1, I'll go through the article to pick out words that carry moral connotations. Words like "frosty," "failure," "frustration," "closer," "nuclear bomb," "strength," "apologies," "influence," "swing," "erosion," "disillusioned," and "nagging doubts" seem to carry moral weight. These words highlight the tensions, frustrations, and the impact on the election.
+
+Now, for the summary, I need to condense the article while keeping these moral terms. The main points are Netanyahu's ad in Florida, the focus on Iran, the potential influence on Jewish voters, the comparison with Romney, and the broader implications for the election. I'll structure the summary to include Netanyahu's statements, the ad's message, the groups involved, and the poll results to show the impact.
+
+I need to ensure the summary flows well and stays within the word limit. I'll mention the ad's aim, Netanyahu's frustration, the message about American strength, the cost, and the influence on Jewish voters. Also, I'll include the Republican Jewish Coalition's campaign and the poll results to highlight the shift in support.
+
+Finally, I'll make sure to end with the required tokens and keep the language clear and concise. I think that covers all the user's requirements. Let me put it all together.
+</think>
+
+**STEP 1:**
+
+* Frosty  
+* Failure  
+* Frustration  
+* Closer  
+* Nuclear bomb  
+* Strength  
+* Apologies  
+* Influence  
+* Swing  
+* Erosion  
+* Disillusioned  
+* Nagging doubts  
+
+---
+
+**SUMMARY:**  
+
+Israeli Prime Minister Benjamin Netanyahu, known for his frosty relationship with President Obama, is featured in a new ad targeting Florida, a key battleground state in the U.S. election. The ad, paid for by the conservative group Secure America Now, highlights Netanyahu's frustration with the Obama administration's failure to establish "red lines" to rein in Iran's nuclear program. Netanyahu warns that Iran is getting closer to a nuclear bomb and criticizes the world for urging Israel to wait. The ad's message emphasizes the need for American strength, not apologies.  
+
+The ad, set to air in Miami and other Florida markets, could influence Jewish voters, who strongly support Israel. Polls show that many Jewish voters are disillusioned with Obama's policies, particularly regarding Iran and the economy. Meanwhile, the Republican Jewish Coalition is running its own $5 million ad campaign in swing states, targeting Jewish voters with messages of "buyer's remorse" over Obama's leadership.  
+
+Netanyahu's involvement in the election underscores the moral stakes of the campaign, as both candidates face scrutiny over their approaches to Iran and Israel.  
+
+**END OF SUMMARY.**

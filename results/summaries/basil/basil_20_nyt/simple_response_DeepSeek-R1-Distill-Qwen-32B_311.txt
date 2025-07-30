@@ -1,0 +1,14 @@
+Alright, I need to help the user by summarizing the given news article while preserving the moral framing. The user mentioned they are a news summarizer and a moral expert, so the summary should highlight the ethical and moral aspects presented in the article.
+
+First, I'll read through the article to understand the key points. Rick Santorum made several comments: he criticized Obama's theology, talked about education, and defended his stance on health-care policy regarding prenatal testing. There's also a mention of his rival, Ron Paul, who disagrees with Santorum's focus on social issues.
+
+I need to capture the moral elements. Santorum's comments on Obama's theology imply a critique of the president's values. His education stance emphasizes parental responsibility, which ties into family values. The health-care policy comment touches on abortion and disability, which are moral issues. Ron Paul's criticism focuses on civil liberties and economic issues, contrasting with Santorum's social focus.
+
+I should structure the summary to include these points, making sure each moral angle is clear. Keep it concise, under 200 words, and ensure it starts with "SUMMARY:" and ends with "END OF SUMMARY."
+
+I'll start by outlining Santorum's main points, then address the reactions, and conclude with Ron Paul's perspective. This way, the moral framing is preserved, showing the ethical debates and criticisms involved.
+</think>
+
+SUMMARY:  
+Rick Santorum recently criticized President Obama's "phony theology," clarifying that he was referring to Obama's view of man's relationship to the world rather than his faith. Santorum also criticized the idea of federal or state-run schools, calling it "anachronistic," and advocated for locally run education with parents in charge. He emphasized the importance of tailoring education to each child's potential. Santorum also defended his criticism of Obama's health-care policy, linking prenatal testing to abortion and arguing it reflects a lack of sympathy for the disabled. His rival, Ron Paul, dismissed Santorum's focus on social issues like abortion and contraception, instead emphasizing civil liberties, debt, and war. Santorum's comments highlight moral concerns about education, abortion, and disability rights, while Paul criticized the focus on such issues in the political debate.  
+END OF SUMMARY.

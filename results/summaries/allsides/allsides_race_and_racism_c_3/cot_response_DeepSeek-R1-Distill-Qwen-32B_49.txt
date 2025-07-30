@@ -1,0 +1,45 @@
+Alright, I need to help the user by summarizing the given news article while preserving the moral framing. The user has provided specific instructions, so I should follow them carefully.
+
+First, I should identify all the single words that are morally framed. These are words that carry a moral or ethical connotation. Let me go through the article and pick them out. Words like "brutality," "lynching," "acquittal," "killed," "controversial," "unjust," "injustices," "oppression," "racism," "systemic," "injustices," "unrest," "protest," "violence," "charged," "murder," "inequalities," "combustible," "senseless," "revolution," "spark," "systemic," "racism," and "unbearable" stand out as morally framed.
+
+Next, I need to write a concise summary using these words. The summary should be under 200 words and include as many of these moral terms as possible. I'll start by highlighting George Floyd's death as a pivotal moment, mention the other cases like Arbery, Taylor, and McDade, and connect them to the broader context of systemic racism. I'll also touch on the impact of the pandemic and the subsequent protests and legal actions.
+
+I need to ensure the summary flows well and captures the essence of the article, emphasizing the moral aspects without being too lengthy. Let me structure it by first introducing Floyd's case, then the other incidents, followed by the underlying causes and the resulting actions. I'll end with the ongoing legal cases to show the continued focus on police violence.
+
+I should double-check that I'm using the correct morally framed words and that the summary stays within the word limit. Also, I need to make sure the summary starts with "SUMMARY:" and ends with "END OF SUMMARY." without any markdown.
+</think>
+
+**STEP 1:**
+
+* Brutality  
+* Lynching  
+* Acquittal  
+* Killed  
+* Controversial  
+* Unjust  
+* Injustices  
+* Oppression  
+* Racism  
+* Systemic  
+* Injustices  
+* Unrest  
+* Protest  
+* Violence  
+* Charged  
+* Murder  
+* Inequalities  
+* Combustible  
+* Senseless  
+* Revolution  
+* Spark  
+* Systemic  
+* Racism  
+* Unbearable  
+
+---
+
+**SUMMARY:**  
+
+George Floyd’s death at the hands of Minneapolis police has become a pivotal moment in the ongoing struggle against systemic racism and police violence in the U.S. His killing, captured on video, sparked nationwide protests and outrage, joining the ranks of other iconic cases like Emmett Till, Rodney King, Eric Garner, and Michael Brown. Floyd’s death, in which an officer knelt on his neck for nearly nine minutes, stands out due to its graphic documentation and the broader context of racial injustice, including the killings of Ahmaud Arbery, Breonna Taylor, and Tony McDade. The COVID-19 pandemic, economic hardship, and months of lockdown further fueled the anger, while President Trump’s inflammatory rhetoric exacerbated tensions. Floyd’s death is seen as the tipping point for a movement against systemic racism, with ongoing court cases and protests keeping the issue in the national spotlight. The weight of systemic racism has become too much to bear, as the nation confronts its history of oppression and seeks justice.  
+
+**END OF SUMMARY.**

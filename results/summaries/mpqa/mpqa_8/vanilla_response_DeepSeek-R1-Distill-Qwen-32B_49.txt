@@ -1,0 +1,10 @@
+Alright, let's tackle this query. The user wants me to summarize a news article. They provided the article and an example of how they want the summary. First, I need to read the article carefully to understand the main points.
+
+The article mentions President Cardoso of Brazil stating that Hugo Chavez's main challenge is restoring normalcy after last week's conflicts. It also notes that Chavez doesn't plan to seek revenge against the military involved in the coup attempt. Additionally, Jimmy Carter supports Chavez's efforts to set up dialogue and will visit Venezuela soon.
+
+I should condense this information into a concise summary. The user specified that the summary should start with "SUMMARY:" and end with "END OF SUMMARY." and be no longer than 200 words. I need to ensure all key points are included without unnecessary details.
+
+I'll structure the summary to first state Cardoso's main point, then mention Chavez's stance on revenge, and finally include Carter's support and planned visit. Keeping it clear and within the word limit is crucial. Let me draft it and check the word count to make sure it's under 200.
+</think>
+
+SUMMARY: Brazilian President Fernando Henrique Cardoso has stated that Venezuelan President Hugo Chavez's main challenge is restoring normalcy after last week's conflicts. Cardoso emphasized the need for open communication and social harmony. Chavez assured Cardoso he has no intention of seeking revenge against military personnel involved in the failed coup attempt. Former U.S. President Jimmy Carter has expressed support for Chavez's commitment to dialogue and is scheduled to visit Venezuela soon. END OF SUMMARY.

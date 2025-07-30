@@ -1,0 +1,52 @@
+<think>
+Okay, so the user has given me a query where I need to act as a news summarizer and a moral expert. They want me to summarize a news article while preserving the moral framing. The article is about Trump attacking the Justice Department and calling for jailing a Clinton aide.
+
+First, I need to break down the user's instructions. They have two main steps: identifying morally framed words and then writing a summary using those words. 
+
+For step one, I have to go through the article and pick out each single word that carries a moral connotation. Words like "attacks," "deep state," "jailing," "renewed," "lash out," "apparently," "disclosed," "probe," "forwarded," "undermine," "intensified," "criticized," "recusing," "right," "direct," "absolute right," "want," "summon," "accountable," "collusion," "cover-up," "truth," "fairness," "transparency," "abuse," "power," "legitimacy," "rule of law." I need to list each of these with a star.
+
+Next, for the summary, I need to condense the article into 200 words or less, making sure to include as many of these moral words as possible. I have to ensure the summary captures Trump's actions and the moral implications he's framing around them.
+
+I should start by outlining the main points: Trump's tweets attacking the Justice Department, his call for jailing Huma Abedin, the context of the emails, the reference to Comey, and Trump's criticism of the Justice Department's handling of the Russia probe. 
+
+I need to weave in the moral words naturally. For example, using "attacks" and "deep state" to show Trump's distrust. Mentioning "jailing" and "probe" to highlight the legal implications. Also, include terms like "undermine," "intensified," and "absolute right" to convey Trump's stance on his authority.
+
+I should make sure the summary flows logically, starting with Trump's tweets, moving to the specifics about Abedin and the emails, then to Comey and the broader implications of Trump's criticisms of the Justice Department. 
+
+I need to keep the language concise and clear, ensuring each sentence adds value and doesn't exceed the word limit. Also, preserving the moral framing means emphasizing Trump's accusations and his perception of the Justice Department's actions as problematic.
+
+Finally, I'll review the summary to ensure it includes all key points and the morally framed words are appropriately integrated without making the summary feel forced or unnatural.
+</think>
+
+**STEP 1:**  
+* attacks  
+* deep state  
+* jailing  
+* renewed  
+* lashing out  
+* apparently  
+* disclosed  
+* probe  
+* forwarded  
+* undermine  
+* intensified  
+* criticized  
+* recusing  
+* right  
+* direct  
+* absolute right  
+* want  
+* summon  
+* accountable  
+* collusion  
+* cover-up  
+* truth  
+* fairness  
+* transparency  
+* abuse  
+* power  
+* legitimacy  
+* rule of law  
+
+**SUMMARY:**  
+President Donald Trump renewed his attacks on the Justice Department, labeling it the "deep state," and called for the jailing of Hillary Clinton's aide, Huma Abedin. Trump criticized Abedin over emails released by the State Department, which allegedly included forwarded State Department emails with passwords. He also demanded action against former FBI Director James Comey, who led the Russia investigation Trump fired him for. Trump has repeatedly sought to undermine the Justice Department and FBI, criticizing Attorney General Jeff Sessions for recusing himself from the Russia probe. Trump claims he has the "absolute right" to direct government investigations, asserting his authority over the Justice Department. His comments reflect a broader effort to challenge the legitimacy of the Russia probe and promote his narrative of a "deep state" conspiracy. END OF SUMMARY.

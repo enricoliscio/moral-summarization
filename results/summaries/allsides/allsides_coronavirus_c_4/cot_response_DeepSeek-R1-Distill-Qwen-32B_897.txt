@@ -1,0 +1,37 @@
+Okay, I need to help the user by summarizing the given news article while preserving the moral framing. The user provided specific instructions, so I should follow them carefully.
+
+First, I should identify all the single words that are morally framed. These are words that carry a moral judgment or connotation. I'll go through the article and pick out words like "failed," "criticism," "mismanagement," "dimmed," "tragedy," "scared," "epicenters," "short supply," "sharp," "crater," "failed," "mismanagement," "damage," "emerged," "record," "filling up," "worried," and "scares." Each of these words carries a negative or critical tone, so they fit the moral framing.
+
+Next, I need to write a concise summary that includes as many of these morally framed words as possible. The summary should be under 200 words. I'll start by highlighting the key points: the surge in COVID-19 cases, the new epicenters, Fauci's concerns, the economic impact, criticism of Trump, Biden's response, and the situation in hospitals. I'll make sure to incorporate the identified words to maintain the moral tone.
+
+I should structure the summary to flow logically, starting with the increase in cases, moving to the states affected, Fauci's warnings, the economic repercussions, political criticism, and the hospital conditions. This way, the summary remains coherent while preserving the moral elements.
+
+I need to ensure that each morally framed word is used appropriately and that the summary doesn't exceed the word limit. I'll check the word count after drafting to make sure it's within 200 words.
+
+Finally, I'll present the summary clearly, making sure it starts with "SUMMARY:" and ends with "END OF SUMMARY." I'll avoid any markdown and keep the language natural and concise.
+</think>
+
+### STEP 1:
+* failed
+* criticism
+* mismanagement
+* dimmed
+* tragedy
+* scared
+* epicenters
+* short supply
+* sharp
+* crater
+* failed
+* mismanagement
+* damage
+* emerged
+* record
+* filling up
+* worried
+* scares
+
+---
+
+### SUMMARY:
+The U.S. faced a tragic surge in COVID-19 cases, with over 47,000 new infections reported, the highest since the pandemic began. States like California, Texas, and Arizona emerged as new epicenters, with hospitals struggling due to ICU beds being in short supply. Dr. Anthony Fauci warned that daily cases could reach 100,000 unless strict measures were taken, emphasizing the failure to control the virus nationwide. The economic impact has been severe, with millions losing jobs and the economy cratering. President Trump's handling of the pandemic has drawn criticism, with rival Joe Biden accusing him of historic mismanagement that cost lives and inflicted unnecessary damage. States like Texas and Florida have closed bars to curb the surge, but fears of further spread loom as Independence Day celebrations approach. Hospitals in Texas are filling up with COVID-19 patients, and Fauci expressed concern about the worsening situation. The European Union has excluded the U.S. from its safe travel list, adding to the tragedy of this crisis. END OF SUMMARY.

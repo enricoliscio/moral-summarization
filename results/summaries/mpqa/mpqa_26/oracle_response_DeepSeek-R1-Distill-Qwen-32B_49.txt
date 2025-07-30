@@ -1,0 +1,17 @@
+<think>
+Alright, so I need to help the user by summarizing the given news article while preserving the moral framing. The user provided a list of morally framed words that I should include as much as possible. The summary needs to be concise, under 200 words, and should end with the specified tokens.
+
+First, I'll read through the article to understand the main points. It's about the US's stance on the Kyoto Protocol irritating Japan, the environmental consequences of global warming, and the impact on US-Japanese relations. The article also mentions the Bush administration's alternative plan and the concerns from environmental groups.
+
+Next, I need to identify the key morally framed words from the list that fit into the summary. Words like "signed," "ratify," "irritated," "unilateralist," "slight," "backing out," "hurt," and "follow" seem important.
+
+I'll start by outlining the main points: the US not ratifying Kyoto upsets Japan, environmental consequences, the alternative plan, and the potential for a two-tier system. I'll make sure to use the morally charged words to convey the author's perspective.
+
+I should keep each sentence focused and avoid adding extra information. The summary needs to flow logically, starting with the US's decision, Japan's reaction, the environmental impact, the alternative plan, and the possible consequences.
+
+I'll check the word count to ensure it's under 200 words and that the morally framed words are appropriately included without forcing them in. Finally, I'll make sure the summary starts with "SUMMARY:" and ends with "END OF SUMMARY."
+
+Now, I'll draft the summary, making sure each sentence is concise and includes the necessary moral terms. I'll review it to ensure clarity and that it accurately reflects the article's moral framing.
+</think>
+
+SUMMARY: The US decision not to ratify the Kyoto Protocol has irked Japan and many of its allies, who view the accord as a crucial step in addressing global warming. Signed in 1997, the protocol aimed to reduce greenhouse gas emissions, but President George Bush's stance has cast doubt on its effectiveness. Japan, proud of its role in shaping the agreement, sees the US refusal as a slap in the face, especially given its status as the largest emitter of greenhouse gases. Environmental advocates criticize the Bush administration's alternative plan, which they argue allows the US to continue increasing emissions, potentially leading to a two-tier system where some nations opt out of Kyoto's stricter limits. While Japanese industry has made strides in energy efficiency, further emission reductions could hurt industrial competitiveness. The US's unilateralist approach, seen in its pullout from Kyoto and labeling of certain nations as threats, has strained relations with allies, who feel Washington is acting without consultation. END OF SUMMARY.

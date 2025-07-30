@@ -1,0 +1,16 @@
+Alright, so I need to help the user by summarizing this news article while preserving the moral framing. Let me start by reading through the article carefully to understand the key points.
+
+The article is about the Russian Foreign Ministry criticizing a U.S. State Department report on human rights, particularly focusing on Chechnya. They call the report "odious" and suggest it's outdated, not considering recent events like 9/11 and the anti-terrorism efforts. The U.S. report accuses Russia of media suppression and human rights abuses in Chechnya, including extrajudicial killings. Russia, however, frames the conflict as a war against terrorism and has some support from the U.S., though the U.S. also criticizes Russia's treatment of civilians, but toned down after Russia joined the anti-terror coalition.
+
+The Ministry accuses the U.S. of using the Chechnya issue to disrupt the new partnership against terrorism. They also point out that the U.S. should look at its own human rights record, mentioning issues like the death penalty and failure to ratify international agreements.
+
+So, the moral framing here is that Russia is accusing the U.S. of hypocrisy and using human rights as a political tool, while Russia is portrayed as a partner in the fight against terrorism. I need to capture that in the summary.
+
+I'll structure the summary to include the criticism of the report, the context of Chechnya as a counter-terrorism effort, the U.S. support with reservations, and the moral arguments about hypocrisy and the U.S. needing to address its own issues.
+
+I should keep it concise, under 200 words, and make sure to include all these elements without getting too bogged down in details. Also, using the required tokens at the start and end.
+
+Let me draft it now, making sure to hit all these points succinctly.
+</think>
+
+SUMMARY: The Russian Foreign Ministry strongly criticized the U.S. State Department's human rights report, calling it "odious" and outdated. The report accused Russia of media suppression and human rights abuses in Chechnya, including extrajudicial killings. Russia framed the Chechnya conflict as a counter-terrorism effort, with some U.S. support, though U.S. criticism of civilian abuse was toned down after Russia joined the anti-terror coalition. The Ministry accused "certain U.S. circles" of using Chechnya to disrupt the new U.S.-Russian partnership against terrorism. It also highlighted U.S. hypocrisy, urging the U.S. to address its own human rights issues, such as the death penalty and unratified international agreements. END OF SUMMARY.

@@ -1,0 +1,48 @@
+Alright, let me try to figure out how to approach this query. The user wants me to act as a news summarizer and a moral expert. They provided a detailed news article about the impeachment probe against Trump and the Republican protest. 
+
+First, I need to break down the task into two parts. The first step is to identify all the single words that are morally framed in the article. I'll go through the text and look for words that carry moral connotations. Words like "stormed," "upending," "enraged," "ethics," "outrage," "obsession," "justice," "fairness," "contradicted," "quid pro quo," "interference," "backchannel," and "unconstitutional." These words seem to carry the moral framing the author used.
+
+Next, I need to summarize the article while preserving these moral words. The summary should be concise, no more than 200 words. I'll start by outlining the main events: the Republican protest, the security breach, the accusations of unfairness, the Democrats' response, and the implications of the testimony. I'll make sure to include the morally framed words to maintain the author's perspective.
+
+I should also keep the summary balanced, presenting both sides' arguments without bias. Mentioning the Republicans' claims about fairness and the Democrats' concerns about security and process. Including the consequences like ethics charges and the judge's ruling adds context about the broader implications.
+
+I need to ensure the summary flows well and covers all key points without getting bogged down in too many details. Let me structure it by starting with the protest, then the security issue, followed by the arguments about fairness, the testimony details, and the aftermath with document requests and the judge's ruling.
+
+Finally, I'll review the summary to make sure it's within the word limit and that all the morally framed words are included appropriately. This way, the summary not only informs but also reflects the moral perspectives presented in the original article.
+</think>
+
+**STEP 1:**  
+* stormed  
+* upending  
+* enraged  
+* ethics  
+* outrage  
+* obsession  
+* justice  
+* fairness  
+* broken  
+* below  
+* fairness  
+* bypassing  
+* constitutional  
+* due process  
+* denied  
+* shut out  
+* restricted  
+* protest  
+* sit-in  
+* security lapse  
+* unauthorized  
+* Russian  
+* Chinese  
+* irregular  
+* backchannel  
+* quid pro quo  
+* contradicted  
+* second-hand  
+* third-hand  
+* interference  
+* unconstitutional  
+
+**SUMMARY:**  
+House Republicans stormed a secure room during the impeachment probe, disrupting a deposition and demanding fairness. Democrats accused them of creating a security lapse by bringing electronics into a sensitive area and called for ethics charges. Republicans argued the hearing was not classified and criticized Democrats for bypassing constitutional norms and due process. The impeachment inquiry into Trump’s dealings with Ukraine has excluded Republican subpoena power and witness access, leading to protests. Democrats countered that Republicans could participate through committee members. The protest turned into a sit-in, delaying testimony from Laura Cooper. Meanwhile, William Taylor’s testimony about Trump’s efforts to pressure Ukraine into investigating Biden was met with Republican claims of contradiction and second-hand information. Committees demanded more documents, and a judge ordered the State Department to release Ukraine-related files, including Giuliani-Pompeo communications. END OF SUMMARY.

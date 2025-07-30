@@ -1,0 +1,18 @@
+Okay, so I need to help the user by summarizing the provided news article while preserving the moral framing. The user has given specific instructions, so I should make sure I follow them closely. 
+
+First, I'll read the article carefully to understand its main points. The article is about a report by the NRA on school safety, suggesting arming teachers and loosening gun laws. The author used certain morally charged words, and I need to include as many of those as possible in the summary without making it too long—under 200 words.
+
+I notice the key points are: the report's recommendations, the opposition from the American Federation of Teachers, the NRA's stance, and the criticism of gun control measures. I should structure the summary to cover these areas.
+
+I'll start by mentioning the report's release, its recommendations, and the moral framing words like "arming," "investigation," and "testing." Then, I'll include the criticism from the AFT, using words like "hoax," "fail," and "flood." I'll also touch on the NRA's support and the debate over gun control, using terms like "design," "assist," "massacre," and "eliminate."
+
+I need to ensure the summary flows well and stays within the word limit. I'll avoid adding any personal opinions or extra details not in the article. Also, I must end with the specified tokens.
+
+Let me draft a concise summary that hits all these points, making sure to include the morally framed words. I'll check the word count to ensure it's under 200. If it's too long, I'll trim unnecessary details but keep the essential moral terms.
+
+Finally, I'll make sure the summary starts with "SUMMARY:" and ends with "END OF SUMMARY." as instructed. I think that's all. Time to put it together.
+</think>
+
+SUMMARY:  
+The NRA-funded report, led by Asa Hutchinson, recommends arming teachers and loosening gun laws to enhance school safety. The report suggests training staff to carry firearms, with costs ranging from $800 to $1,000 per person, and requires background investigations and testing. It proposes allowing non-law enforcement personnel, like teachers, to carry guns in schools, effectively eliminating gun-free zones. Critics, including the American Federation of Teachers, condemn the report as a "cruel hoax," arguing it fails to protect children and instead aids gun manufacturers in flooding schools with firearms. The NRA claims no influence over the report but commends its efforts to "make schools safer." Hutchinson dismissed broader gun control measures, calling them "totally inadequate" and emphasizing the need to enhance school security. The report, released amid controversy, reflects a contentious debate over gun control and school safety, with some advocating for armed volunteers while others oppose the idea. The Sandy Hook tragedy remains a central focus, with one parent praising the NRA for its efforts.  
+END OF SUMMARY.

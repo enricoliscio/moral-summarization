@@ -1,0 +1,44 @@
+<think>
+Okay, so I'm trying to figure out how to approach this user's query. They want me to act as a news summarizer and a moral expert. The task has two parts: first, identify all the morally framed single words in the provided news article, and second, write a summary preserving those moral frames. 
+
+First, I need to understand what "morally framed" words mean. These are words that carry a judgment or imply a moral stance, like "aggressively," "defending," "contacts," "not OK," etc. I should go through the article and pick out each word that conveys a moral judgment.
+
+Looking at the article, it's about Adam Schiff's defense against calls for his resignation. There are words like "aggressively," "defending," "contacts," "not OK," "expose," "whistleblower," "dirt," "help," "fiercely," "end," "lost confidence," "demonstrably false," "integrity," "exonerates," "lying," "leaking," "resign," "abused," "misrepresenting," "ambush," and "cheap-shot." These all carry some moral weight.
+
+Next, I need to summarize the article, making sure to include these words. The summary should be concise, under 200 words, and capture the key points: Schiff defending his position, the accusations from Republicans, the context of the Mueller report, and the partisan divide.
+
+I should structure the summary to highlight Schiff's stance, the Republican accusations, the implications of the Mueller report, and the ongoing conflict within the committee. I'll make sure to include the morally framed words to preserve the author's framing.
+
+I also need to ensure that the summary flows well and is coherent, even with the inclusion of those specific words. I'll start by stating Schiff's defense, mention the contacts with Russia, the Republican accusations, the Mueller report's findings, and conclude with the ongoing conflict and partisanship.
+
+I should double-check that I'm not missing any key points and that the summary accurately reflects the article's content while maintaining the moral framing. Also, I need to keep it within the word limit, so I'll be concise but thorough.
+
+Finally, I'll present the identified words in STEP 1 and then the summary under SUMMARY, making sure to end with the specified tokens.
+</think>
+
+### STEP 1:  
+* aggressively  
+* defending  
+* contacts  
+* not OK  
+* expose  
+* whistleblower  
+* dirt  
+* help  
+* fiercely  
+* end  
+* lost confidence  
+* demonstrably false  
+* integrity  
+* exonerates  
+* lying  
+* leaking  
+* resign  
+* abused  
+* misrepresenting  
+* ambush  
+* cheap-shot  
+
+### SUMMARY:  
+House Intelligence Committee Chairman Adam Schiff strongly defended his role amid calls for his resignation from President Trump and Republicans. Schiff criticized the Trump campaign's "not OK" contacts with Russia, emphasizing his opposition to the administration's actions. Republican Rep. Mike Conaway accused Schiff of promoting a "demonstrably false" narrative, damaging the panel's "integrity." Meanwhile, Attorney General William Barr revealed that Mueller's investigation found no evidence of Trump campaign coordination with Russia, which Trump and Republicans used to attack Schiff and Democrats. Schiff, however, plans to continue his investigation into Trump's ties with Russia. The hearing became a flashpoint, with Republicans like Rep. Michael Turner likening Schiff to Joseph McCarthy, while Democrats defended him, calling the GOP's actions an "ambush" and "cheap-shot." The partisan divide within the committee remains sharp.  
+END OF SUMMARY.

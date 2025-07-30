@@ -1,0 +1,18 @@
+Okay, so the user has provided a news article and wants a summary. They mentioned I'm a news summarizer assistant, so my job is to condense the article into a concise summary. The instructions specify that the summary should be after a "SUMMARY:" token and end with "END OF SUMMARY." Also, it shouldn't exceed 200 words.
+
+First, I need to read the article thoroughly. It's about the IRS and Treasury Department allowing legally married same-sex couples to file joint federal tax returns. This follows the Supreme Court overturning part of the Defense of Marriage Act. The key points are that this applies nationwide regardless of state laws, and it doesn't affect domestic partnerships or civil unions. There are quotes from Treasury Secretary Jacob Lew and Chad Griffin, as well as opposition from Brian Brown.
+
+I should identify the main elements: who, what, when, where, why. The who includes the IRS, Treasury, same-sex couples, and the opposing groups. The what is the decision to allow joint tax filing. When is after the Supreme Court decision. Where is nationwide. Why is to provide equal tax benefits.
+
+I need to make sure the summary includes all these points without going into too much detail. I'll structure it to first state the announcement, then the context of the Supreme Court decision, the scope of the ruling, the reactions from supporters and opponents, and the implications of the decision.
+
+I should also keep the language clear and concise, avoiding any jargon. The summary should be under 200 words, so I'll need to be brief but comprehensive.
+
+Let me start drafting: Mention the announcement by IRS and Treasury, the effect on same-sex couples, the context of the DOMA ruling, the application regardless of state, exclusion of domestic partnerships, quotes from Lew and Griffin, and the opposing view from Brown.
+
+I'll make sure each sentence is to the point and flows logically. Also, check that I'm not adding any personal opinions, just summarizing the facts and key reactions.
+
+Finally, I'll count the words to ensure it's within the limit. If it's over, I'll trim any unnecessary details without losing the essence.
+</think>
+
+SUMMARY: The IRS and Treasury Department have announced that legally married same-sex couples can now file federal joint tax returns, granting them the same tax benefits as heterosexual couples. This decision follows the U.S. Supreme Court's overturning of part of the Defense of Marriage Act. The ruling applies nationwide to all legally married same-sex couples, regardless of their state of residence, though it does not extend to domestic partnerships or civil unions. Treasury Secretary Jacob Lew and Human Rights Campaign President Chad Griffin praised the move, calling it a step toward equality. However, critics like Brian Brown of the National Organization for Marriage argue it promotes "lawlessness" and forces same-sex marriage on the public. END OF SUMMARY.

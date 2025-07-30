@@ -1,0 +1,61 @@
+<think>
+Okay, so the user has given me a task where I need to act as a news summarizer and a moral expert. They want me to summarize a news article while preserving the moral framing. The article is about the discovery of mass graves related to the 1921 Tulsa race massacre. 
+
+First, I need to understand the structure of the task. There are two main steps: identifying morally framed words and then summarizing the article using those words. 
+
+For the first step, I have to go through the article and pick out all the single words that carry moral connotations. Words like "burying," "vibrant," "successful," "assault," "violence," "killing," "burned," "homeless," "ignored," "forgotten," "hesitant," "hush-hush," "euphemism," "minimized," "omitted," "absolved," "erased," "whitewashed," "sanitized," "passive," "unique," "scrambles," "easier," "forget," "exacerbated," "systematic," "targeted," "dehumanizing," "oppression," "inequality," "progress," "ignored," "erasure," "truth," "accountability," "justice," "healing," "remember," "honor," "acknowledgment," "reconciliation," "accountability," "justice," "healing," "remember," "honor," "acknowledgment," "reconciliation." I'll list each of these with a star.
+
+Next, the summary needs to encapsulate the main points while retaining as many of these moral words as possible. I should mention the discovery of mass graves, the historical context of the massacre, the initial prosperity of Greenwood, the violence, the underreported death toll, the historical erasure, the recent attention from media, and the ongoing efforts to uncover and remember the event. I need to keep it concise, under 200 words, and ensure the moral framing is preserved.
+
+I should also make sure the summary flows logically, starting from the discovery, moving through the historical background, the reasons for the massacre being forgotten, and ending with the current efforts to address it. This will help in preserving the moral aspects highlighted in the article.
+</think>
+
+**STEP 1:**
+
+* burying  
+* vibrant  
+* successful  
+* assault  
+* violence  
+* killing  
+* burned  
+* homeless  
+* ignored  
+* forgotten  
+* hesitant  
+* hush-hush  
+* euphemism  
+* minimized  
+* omitted  
+* absolved  
+* erased  
+* whitewashed  
+* sanitized  
+* passive  
+* unique  
+* scrambles  
+* easier  
+* forget  
+* exacerbated  
+* systematic  
+* targeted  
+* dehumanizing  
+* oppression  
+* inequality  
+* progress  
+* ignored  
+* erasure  
+* truth  
+* accountability  
+* justice  
+* healing  
+* remember  
+* honor  
+* acknowledgment  
+* reconciliation  
+
+**SUMMARY:**  
+
+Scientists in Tulsa, Oklahoma, have discovered evidence of mass graves linked to the 1921 race massacre, a deeply traumatic event in U.S. history. The Greenwood District, known as "Black Wall Street," was a thriving black community before the violence erupted. An unproven accusation of an assault led to widespread violence, destruction, and death, with estimates of casualties as high as 300. The massacre has long been minimized and forgotten, with efforts to erase its history, including mislabeling it as a "riot." The discovery of potential mass graves highlights the need for accountability and truth. Efforts to excavate and honor the victims, along with new media projects, aim to bring attention to this forgotten chapter of racial violence and its impact on black progress in America. The massacre challenges the narrative of black passivity and white extremism, emphasizing the need for acknowledgment and reconciliation.  
+
+**END OF SUMMARY.**

@@ -1,0 +1,40 @@
+Okay, so I need to help the user by summarizing the news article while preserving the moral framing. Let me start by understanding what the user is asking for. They provided a detailed article about protests in Minnesota, leading to arrests and injuries. The user wants me to first identify all the single words that are morally framed. Then, write a summary using as many of those words as possible.
+
+First, I'll go through the article and pick out words that carry moral connotations. Words like "arrested," "injured," "protests," "rioting," "extreme incident," "pelted," "rocks," "rebar," "incendiary devices," "Molotov cocktails," "significant," "life-threatening," "denounced," "attack," "disgusted," "tolerate," "violence," "public servants," "peaceful," "violent," "bottles," "debris," "cordial." These words seem to carry moral weight because they describe actions or events with implications of right or wrong, justice, or consequences.
+
+Next, I need to write a concise summary, around 200 words, incorporating as many of these words as possible. I'll start by outlining the main events: the protests turning violent, the number of arrests and injuries, the reasons behind the protests (police killings of black men), the use of smoke bombs, the specific actions taken by protesters, and the reactions from officials.
+
+I should ensure the summary flows well and includes the morally framed words without making it sound forced. I'll mention the extreme incident, the pelting with objects, the significant injuries, the denouncing of the attack, the disgust from the police chief, the violence towards public servants, the peaceful vs. violent protesters, and the cordial meeting with the governor.
+
+I need to make sure the summary is clear and captures the essence of the article while highlighting the moral aspects. I'll check the word count to stay within the limit. Let me draft it step by step, ensuring each sentence includes relevant morally framed words without overcrowding.
+
+Finally, I'll review the summary to make sure it's accurate, concise, and maintains the moral framing as per the original article.
+</think>
+
+**STEP 1:**  
+* arrested  
+* injured  
+* protests  
+* rioting  
+* extreme incident  
+* pelted  
+* rocks  
+* rebar  
+* incendiary devices  
+* Molotov cocktails  
+* significant  
+* life-threatening  
+* denounced  
+* attack  
+* disgusted  
+* tolerate  
+* violence  
+* public servants  
+* peaceful  
+* violent  
+* bottles  
+* debris  
+* cordial  
+
+**SUMMARY:**  
+More than 100 people were arrested and 21 police officers injured in Minnesota during protests over recent police killings of black men, which escalated into rioting. Protesters pelted officers with rocks, rebar, and Molotov cocktails, leading to significant injuries, though none were life-threatening. The protests, sparked by the deaths of Philando Castile and Alton Sterling, turned violent, with some protesters throwing debris at officers. Police used smoke bombs to disperse the crowd, and the interstate was blocked before reopening late at night. St. Paul Police Chief Todd Axtell expressed disgust at the violence, calling it the worst he’d seen in his 28 years as an officer. While some protesters remained peaceful, others turned violent, leading to arrests. The governor met cordially with Castile’s family, but the situation highlighted the ongoing tensions between protesters and law enforcement. END OF SUMMARY.

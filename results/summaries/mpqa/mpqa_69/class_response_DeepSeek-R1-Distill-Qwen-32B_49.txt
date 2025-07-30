@@ -1,0 +1,15 @@
+<think>
+Okay, so the user wants me to summarize a news article while preserving the moral framing words. They provided the article and the specific words to keep. Let me read through the article first.
+
+The article is about environmentalist groups protesting against the U.S. alternative to the Kyoto Protocol near the U.S. Embassy in Tokyo. They used words like 'protest,' 'opposed,''regrettable,' 'dismayed,' 'voluntary,''mandatory,' 'increase,' 'only framework,' 'urging,' 'leadership,' 'fair support,' 'attacks,' 'push,' 'cooperate,''stop,' 'cease,''reduce.'
+
+I need to make sure the summary includes as many of these words as possible. The user also specified that the summary should be after "SUMMARY:" and end with "END OF SUMMARY." It should be under 200 words.
+
+I'll start by identifying the main points: protest against U.S. alternative, groups involved, their stance, the content of the letter, Bush's plan, the meeting between Koizumi and Bush, and other demands like military bases and terrorism.
+
+I should structure the summary to include the protest, the moral stance against the U.S. alternative, the letter's content, Bush's plan, the meeting, and additional demands. I'll make sure to use the morally framed words where appropriate.
+
+Let me draft it step by step, ensuring each key point is covered concisely and the moral language is preserved. I'll check the word count to stay within limits.
+</think>
+
+SUMMARY: Environmentalist groups, including NGOs like Friends of the Earth Japan, staged a protest near the U.S. Embassy in Tokyo to oppose the U.S. alternative to the Kyoto Protocol. Protesters carried banners demanding the U.S. ratify the Kyoto Protocol and urged Prime Minister Koizumi to reject Bush's plan. The NGOs handed a letter to the embassy, expressing dismay over Bush's climate change plan, which they criticized for allowing a 30% increase in U.S. greenhouse gas emissions by 2010. They argued the plan cannot replace the Kyoto Protocol, the only framework to prevent dangerous climate change. The letter also called for the U.S. to take leadership in helping developing countries through peaceful dialogue and fair economic support. Additionally, the protesters urged the U.S. to stop air raids on Afghanistan, cease nuclear experiments, and reduce military bases in Japan. The demonstration highlighted the moral stand against the U.S. alternative, emphasizing the need for global cooperation to address climate change and avoid sacrificing economic growth at the expense of environmental protection. END OF SUMMARY.

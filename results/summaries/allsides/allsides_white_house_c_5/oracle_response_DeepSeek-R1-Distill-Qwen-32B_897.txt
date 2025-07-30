@@ -1,0 +1,16 @@
+Alright, so the user has given me a query where they want me to summarize a news article while preserving the moral framing. They provided the article and a list of morally framed words. My task is to create a summary that includes as many of those words as possible without exceeding 200 words.
+
+First, I need to read the article carefully. It's about Attorney General Holder assigning prosecutors to investigate leaks of classified information. The article mentions specific leaks, like the secret terrorist kill list and an al-Qaida operation. There's also political tension, with accusations that the White House might be leaking for political gain. President Obama denies this, and there are calls for a special counsel.
+
+Next, I should identify the key points to include in the summary. Holder's assignment of two U.S. attorneys is crucial. The leaks involve sensitive national security details, which is a moral issue because it could compromise security. The political angle is important too, with critics suggesting leaks for political gain, which adds another layer of moral judgment.
+
+I need to make sure to use as many of the provided moral words as possible. Words like "leaks," "probe," "investigate," "leaked," "violations," "prosecute," "compromise," etc., should be included. I should structure the summary to flow logically, starting with Holder's action, then the context of the leaks, political accusations, and the responses from Obama and Feinstein.
+
+I also need to keep the summary concise, under 200 words. So, I'll have to be selective about which details to include without losing the moral framing. For example, mentioning the specific leaks and the political implications will help maintain the moral context.
+
+Putting it all together, I'll start with Holder assigning the prosecutors, mention the leaks and their impact, then touch on the political accusations and the responses. I'll make sure each sentence incorporates the moral language where appropriate.
+
+Finally, I'll review the summary to ensure it's within the word limit and that all key points are covered with the necessary moral framing words included.
+</think>
+
+SUMMARY: Attorney General Eric Holder has assigned two U.S. attorneys to investigate potential leaks of classified information, following heightened concerns over sensitive national security details being disclosed to the media. The probe includes instances like a secret terrorist kill list and an al-Qaida infiltration operation. Holder emphasized that such leaks "compromise the security of this country and all Americans" and will not be tolerated. President Obama denied accusations that the White House intentionally released classified material for political gain, calling such claims "offensive" and "wrong." Critics, including Sen. John McCain, have called for a special counsel to investigate, while Sen. Dianne Feinstein suggested legislative action to address the breaches. Feinstein cautioned that a special prosecutor could take years, urging swift legislative solutions. Holder authorized the attorneys to prosecute violations and consult with the Intelligence Community, highlighting the gravity of the situation. END OF SUMMARY.

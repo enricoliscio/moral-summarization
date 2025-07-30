@@ -1,0 +1,48 @@
+Okay, so the user has provided a query where they want me to act as a news summarizer assistant and a moral expert. The task is to summarize a given news article while preserving the moral framing. They've also specified two steps: first, identifying all the single words that are morally framed, and second, writing a concise summary using those words.
+
+First, I need to understand the article. It's about Paul Ryan's budget plan and the criticism from Catholic leaders. The key points are that Ryan claims his budget is inspired by Catholic teachings, but many leaders disagree, arguing it doesn't align with church teachings. They mention specific criticisms like cutting food programs, weakening protections for the elderly, and giving tax breaks to the wealthy. There's also a mention of Ayn Rand and the comparison to the Vatican's teachings. Additionally, the bishops have been critical of Obama's policies, leading to some controversy.
+
+For step one, I need to extract all the morally framed words. These are words that carry a moral connotation, like "excoriated," "slashest," "moral," "decimates," "weakens," "tax breaks," "misuse," "values," "Gospel," "Compendium," "deepen," "understanding," "independent," "preferential," "option," "poor," "independence," "step," "address," "crises," "unemployment," "poverty," "hunger," "prioritizes," "collective."
+
+Next, I have to write a summary that includes as many of these words as possible without exceeding 200 words. The summary should highlight the conflict between Ryan's budget and the Catholic leaders' stance, emphasizing the moral arguments on both sides. I need to mention the budget's impact on antipoverty programs, the comparison to Ayn Rand, the bishops' criticism of Obama, and the overall effort to separate the church from the Republican Party.
+
+I should structure the summary to first introduce Ryan and the criticism, then outline the specific criticisms from Georgetown faculty, the comparison to Ayn Rand, the bishops' stance on Obama, and conclude with the bishops' letters and Ryan's defense. I'll make sure to include the morally framed words to preserve the original framing.
+
+I also need to ensure the summary flows logically, connecting each point without being too verbose. It's important to highlight the tension between Ryan's interpretation of Catholic teachings and the bishops' counterarguments, showing the broader context of the church's political independence.
+
+Finally, I'll review the summary to make sure it's concise, under 200 words, and that all key moral points are included. I'll check that the morally framed words are present and that the summary accurately reflects the article's content while maintaining the moral perspective.
+</think>
+
+**STEP 1:**
+
+* Excoriated  
+* Slashest  
+* Moral  
+* Decimates  
+* Weakens  
+* Tax breaks  
+* Misuse  
+* Values  
+* Gospel  
+* Compendium  
+* Deepen  
+* Understanding  
+* Independent  
+* Preferential  
+* Option  
+* Poor  
+* Independence  
+* Step  
+* Address  
+* Crises  
+* Unemployment  
+* Poverty  
+* Hunger  
+* Prioritizes  
+* Collective  
+
+**SUMMARY:**  
+
+Representative Paul D. Ryan's budget plan, which slashes antipoverty programs, has faced criticism from Catholic leaders for misusing Catholic teachings. Georgetown faculty accused Ryan of using Catholic doctrine to defend a budget that decimates food programs, weakens protections for the elderly, and gives tax breaks to the wealthy, arguing it reflects Ayn Rand's philosophy rather than the Gospel. Ryan defended his plan, claiming it aligns with Catholic teachings by promoting independence for the poor. However, Georgetown faculty and the U.S. Conference of Catholic Bishops argue Catholic teaching calls for government intervention to address economic crises and poverty. Ryan dismissed the bishops' letters as not representing all bishops, while the bishops insist they reflect their collective opinion. The controversy highlights efforts by Catholic leaders to distance the church from the Republican Party, particularly amid criticism of the Obama administration over religious freedom.  
+
+**END OF SUMMARY.**

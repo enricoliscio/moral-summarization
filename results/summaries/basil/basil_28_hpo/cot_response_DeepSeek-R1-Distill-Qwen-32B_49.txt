@@ -1,0 +1,33 @@
+Okay, so the user has given me a query where I need to summarize a news article while preserving the moral framing. They've broken it down into two steps: first, identifying morally framed words, and then writing the summary. 
+
+I need to start by understanding what morally framed words are. These are words that carry a judgment or imply a value, like "terrific," "passion," or "unhinged." I should go through the article and pick out each of these words. 
+
+Looking at the article, I see words like "terrific," "passion," "concern," "condescending," "unhinged," "immature," "smirking," "mocking," "frustration," "unprepared," "uncomfortable," "suspicious," "deceitful," and "dishonest." These all carry some sort of moral judgment, either positive or negative.
+
+Next, I need to write a summary that includes as many of these words as possible. The summary should be concise, under 200 words, and capture the essence of the article while reflecting the moral perspectives presented. I should focus on the key events: Biden's performance in the debate, the reactions from both parties, and the impact on the campaign.
+
+I'll structure the summary by highlighting Biden's aggressive tactics, the mixed reactions from surveys, the Republican criticism, and the Democratic response. I'll make sure to include the morally framed words to convey the tone and judgments from both sides.
+
+I need to ensure that the summary flows well and accurately reflects the article's content without adding any new information. I'll also check the word count to make sure it's within the limit.
+
+Finally, I'll present the identified words in step one and then the summary in step two, making sure to follow the user's formatting instructions precisely.
+</think>
+
+**STEP 1:**  
+* terrific  
+* passion  
+* condescending  
+* unhinged  
+* immature  
+* smirking  
+* mocking  
+* frustration  
+* unprepared  
+* uncomfortable  
+* suspicious  
+* deceitful  
+* dishonest  
+
+**SUMMARY:**  
+Joe Biden dominated the vice presidential debate against Paul Ryan, using aggressive tactics like interruptions and accusations to rally the Democratic base after President Obama's poor debate performance. Biden's "passion" and focus on the "middle class" stood out, contrasting with Romney's earlier emphasis on the same issue. Republicans criticized Biden's behavior as "unhinged" and "immature," while Democrats praised his "terrific" performance. The debate, which included discussions on foreign policy and Medicare, saw Biden challenge Ryan's policies, particularly on Medicare costs. Biden's performance aimed to "push back" against Romney's narrative, with some calling it a "solid win" for the Democrats. Republicans, however, focused on Biden's behavior, labeling it "frustrating" and "unprepared," while Democrats argued they had "lost the debate." The debate highlighted the divide between Biden's aggressive style and Ryan's composure, with both sides framing the outcome through their moral and political lenses.  
+**END OF SUMMARY.**

@@ -1,0 +1,28 @@
+<think>
+Okay, I need to help the user with their query. They provided a news article about Chris Christie announcing his candidacy and want a summary that preserves the moral framing. 
+
+First, I should identify the morally framed words. The user specified two steps: first, list the single words, each on a new line with an asterisk. I'll go through the article and pick out words that carry moral connotations. Words like "scandals," "plummeting," "deficit," "maestro," "brash," "challenging," "combative," "erased," "eroded," "favored," "rivals," "hopeful," "erased," "eroded," "favored," "rivals," "hopeful," "erased," "eroded," "favored," "rivals," "hopeful."
+
+Next, I need to write a concise summary, under 200 words, incorporating as many of these words as possible. The summary should capture the main points: Christie announcing his candidacy, his uphill battle due to low polls and fundraising issues, the shift in donors to Bush, and his personality-driven campaign style. I should make sure the moral framing is clear, using words like "scandals" and "plummeting popularity" to show his challenges, and "maestro" and "combative" to highlight his campaign strategy.
+
+I'll start by stating his announcement, then mention the challenges he faces, including the loss of donor support, and conclude with his unique approach in town hall meetings. I'll ensure the summary flows well and stays within the word limit.
+
+Double-checking the word count to make sure it's under 200. Also, making sure all the key points are included without unnecessary details. Finally, ending with the required tokens.
+</think>
+
+**STEP 1:**  
+* Scandals  
+* Plummeting  
+* Deficit  
+* Maestro  
+* Brash  
+* Challenging  
+* Combative  
+* Erupted  
+* Eroded  
+* Favored  
+* Rivals  
+* Hopeful  
+
+**SUMMARY:**  
+New Jersey Governor Chris Christie is set to announce his candidacy for the 2016 presidential race, though he faces significant challenges. His low poll numbers and fundraising deficit, compounded by scandals and plummeting popularity in New Jersey, have eroded his status as the GOP establishment's favored candidate. Many mega-donors who once supported him have shifted their backing to rivals like Jeb Bush. Despite these hurdles, Christie is banking on his brash, challenging, and combative personality as his campaign's cornerstone. Known for his town hall performances, he engages audiences with a dynamic style that leaves some enraged but many hopeful. END OF SUMMARY.

@@ -1,0 +1,14 @@
+Alright, so the user has given me a task to summarize a news article while preserving the moral framing. They mentioned I should act as a news summarizer and a moral expert. Hmm, okay, first, I need to understand the article's content and the author's perspective.
+
+The article is about Republican senators pressuring Michael Steele, the party chairman, to apologize for his comments on the Afghanistan war. Steele called it "Obama's war" and suggested it might not be winnable. The backlash is significant, with some conservatives calling for his resignation. Key points include DeMint's stance that it's America's war, McCain's criticism, and Steele's attempt to clarify his statement, which didn't settle the issue. Kristol still wants Steele to step down.
+
+Now, the user wants the summary to maintain the moral framing. That means highlighting the moral implications, like respect for the military, the importance of leadership, and the necessity for accurate statements. I should focus on how Steele's comments were seen as disrespectful and inaccurate, leading to the push for his resignation.
+
+I need to keep the summary concise, under 200 words. I'll start by mentioning the pressure on Steele, the nature of his comments, the reactions from DeMint and McCain, his attempt to clarify, and the ongoing calls for his resignation. I should ensure that the moral aspects are clear, like the disrespect to troops and the need for a focused chairman.
+
+Also, the user specified to return the summary after "SUMMARY:" and end with "END OF SUMMARY." So I'll structure it that way, making sure it's clear and within the word limit. I should avoid any markdown and keep it straightforward, focusing on the key points and the moral angle.
+
+I think I've got the main elements. Let me draft the summary, making sure it flows well and captures all necessary points without exceeding the word count. Double-checking to ensure the moral framing is preserved, emphasizing the respect for troops and the importance of accurate leadership statements.
+</think>
+
+SUMMARY: Republican senators are pressuring RNC Chairman Michael Steele to apologize for his controversial remarks labeling the Afghanistan war as "Obama's war" and suggesting it may not be winnable. Prominent conservatives, including Sen. Jim DeMint and Sen. John McCain, have criticized Steele's comments as "unacceptable" and "wildly inaccurate," with DeMint calling for Steele to apologize to the troops and refocus on the election. Steele attempted to clarify his stance, stating that "America must win the war on terror" and that the country must support its troops. However, his statement failed to quell the controversy, with conservative leaders like Weekly Standard Editor Bill Kristol continuing to call for his resignation. The incident highlights the tension between political leadership and the need for unity in supporting military efforts. END OF SUMMARY.

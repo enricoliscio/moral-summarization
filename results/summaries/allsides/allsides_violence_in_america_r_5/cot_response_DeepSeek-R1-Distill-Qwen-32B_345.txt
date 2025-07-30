@@ -1,0 +1,51 @@
+<think>
+Alright, I need to help the user with their query. They provided a news article and specific instructions on how to process it. Let me break down the task.
+
+First, the user wants me to identify all the single words that are morally framed in the article. They mentioned to label this step as "STEP 1:" and list each word with an asterisk. I should go through the article and pick out words that carry moral connotations. Words like "heartbreaking," "evil," "terrorism," "grotesque," etc., stand out as they have strong moral implications.
+
+Next, I need to summarize the article while preserving the moral framing. The summary should be concise, under 200 words, and include as many of the identified morally framed words as possible. I should ensure that the summary reflects the author's original moral perspective, highlighting the political and ideological divides, especially between Obama and the Republicans.
+
+I also need to make sure the summary is clear and captures the key points: the shooting, the political responses, the debate over terrorism, and the implications for the presidential campaign. I'll structure it to show how the event is being used politically and the differing viewpoints on the threat of terrorism.
+
+I should avoid any markdown and keep the language natural. After identifying the words, I'll craft the summary, making sure it flows well and stays within the word limit. Finally, I'll end with the specified tokens to indicate the conclusion of the summary.
+
+Let me start by reading through the article again to pick out the morally charged words. Then, I'll create a concise summary that weaves these words in naturally, ensuring the moral framing is preserved as per the user's instructions.
+</think>
+
+**STEP 1:**
+
+* Heartbreaking  
+* Blaming  
+* Evil  
+* Jihadists  
+* Radical Islamic terrorism  
+* Grave reality  
+* Threat  
+* Wake up  
+* Radical Islam  
+* At war  
+* Lone-wolf  
+* Advocacy group  
+* Change  
+* Prohibited  
+* Armed  
+* Attack  
+* Precautions  
+* Thorough investigation  
+* Tragedy  
+* Updates  
+* Act of domestic terrorism  
+* Evil and twisted ideology  
+* Vulnerable minds  
+* Unconscionable acts of violence and hate  
+* Evil  
+* Admit  
+* Danger  
+* Radicalized Muslims  
+* Efforts  
+* Right place  
+
+**SUMMARY:**
+
+President Obama called the murder of four Marines in Tennessee "heartbreaking," urging Americans to avoid jumping to conclusions. Republicans, however, quickly blamed him, framing the shooting as "terrorism" and accusing him of failing to address the "evil" of radical Islamic terrorism. Louisiana Gov. Bobby Jindal claimed the attack underscored the "grave reality" of the threat posed by "radical Islam," demanding the White House "wake up" and acknowledge the "war" against "evil." The shooting reignited debates over gun policy at military facilities, as troops at the attacked Naval Reserve center were "prohibited" from being armed. The FBI identified the gunman as Mohammad Youssuf Abdulazeez, a naturalized U.S. citizen, and labeled the attack an "act of domestic terrorism." Authorities are investigating whether the shooter had ties to extremist groups like al Qaeda or ISIS. The incident also highlighted the growing threat of "lone-wolf" attacks and the need for vigilance against "evil and twisted ideologies" that drive "unconscionable acts of violence and hate." Democrats, however, argued that white supremacists and anti-government extremists pose a greater danger than "radicalized Muslims," questioning whether federal efforts are targeting the "right place." The debate over terrorism and national security is set to dominate the 2016 presidential campaign, with accusations of political opportunism and failures in addressing the "grave reality" of the threat.  
+**END OF SUMMARY.**

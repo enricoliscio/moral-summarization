@@ -1,0 +1,20 @@
+<think>
+Alright, I need to help the user by summarizing the given news article while preserving the moral framing. The user has specified that the summary should include as many of the morally framed words as possible. Let me start by reading through the article to understand the main points.
+
+The article discusses the differing views on the role of government in disaster relief between President Obama and Mitt Romney, in the context of Hurricane Sandy. Obama emphasizes federal assistance, while Romney supports local and voluntary efforts. The moral words used include prayers, help, cleaning, disaster, send, delivering, attention, relief, borrowing, jeopardizing, and ignored.
+
+I need to create a concise summary, under 200 words, that captures the essence of the debate, highlighting the moral aspects. I should ensure that the summary includes the key points: Obama's federal approach, Romney's local and voluntary approach, their respective justifications, and the political implications.
+
+I'll start by outlining the main ideas. Obama offers federal resources and prayers, emphasizing collective action. Romney, on the other hand, advocates for decentralized efforts and private sector involvement, citing fiscal responsibility. The article also mentions the effectiveness of FEMA under Obama and Romney's stance on FEMA funding.
+
+Now, I'll make sure to incorporate the moral words. I'll use "help" when talking about Obama's federal assistance, "cleaning" when referencing Romney's story, "disaster" in the context of Sandy, and "relief" when discussing FEMA. "Borrowing" and "jeopardizing" relate to Romney's fiscal concerns, while "ignored" refers to Romney's avoidance of questions on FEMA funding.
+
+I should structure the summary to first present Obama's position, then Romney's, and conclude with the political dynamics. I'll keep sentences clear and concise, ensuring the moral framing is evident throughout.
+
+Let me draft the summary, making sure it flows well and stays within the word limit. I'll check that all key points are included and that the moral words are appropriately used without forcing them in.
+
+Finally, I'll review the summary to ensure it meets all the user's requirements: correct inclusion of moral words, length, and proper structure. Once satisfied, I'll present the summary as per the user's instructions.
+</think>
+
+SUMMARY:  
+President Obama emphasized the federal government's role in disaster relief, offering prayers and tangible help to Sandy victims, stating, "America's with you." He promised federal resources to support recovery, while Mitt Romney highlighted the virtue of individual and local efforts, recounting a story about cleaning a football field as a metaphor for collective action. Romney has argued for decentralizing disaster relief, favoring state and private sector involvement over federal intervention. However, he did not dismiss the need for government assistance entirely. Obama, by contrast, has streamlined federal disaster response, ensuring FEMA's efficiency and minimizing bureaucratic hurdles. Republican Gov. Chris Christie praised Obama's federal response, acknowledging its effectiveness. Despite this, Romney's past comments on reducing federal spending, including FEMA funding, remain controversial, especially in light of Sandy's impact. Obama continues to advocate for an active federal role in disaster relief, touring storm-ravaged areas to emphasize federal attention and support. END OF SUMMARY.

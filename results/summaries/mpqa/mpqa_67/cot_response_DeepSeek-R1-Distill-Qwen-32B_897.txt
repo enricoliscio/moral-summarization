@@ -1,0 +1,57 @@
+Okay, so I need to help the user with their query. They provided a news article and specific instructions on how to process it. Let me break it down.
+
+First, the user wants me to act as a news summarizer and a moral expert. My task is to summarize the article while preserving the moral framing the author used. They've given two steps: identifying morally framed words and then writing a summary.
+
+Starting with STEP 1, I need to find all single words that carry a moral connotation. I'll go through the article and pick out words that relate to rights, violations, justice, etc. Words like "trashed," "violations," "killings," "tortured," "abuses," "deprived," "cruel," "arbitrary," "deny," "inaccuracies," "confusion," "unverified," and "unsubstantiated" stand out. Each of these carries a moral judgment, so I'll list them each with an asterisk.
+
+Next, for the summary, I need to condense the article into 200 words or less, keeping the moral language intact. I'll mention the US report's allegations, Namibia's dismissal, Shivute's comparison to Guantanamo, the specific violations listed, and his criticism of the report's inaccuracies. I'll make sure to include the morally charged words to maintain the original framing.
+
+I should also structure the summary clearly, starting with the main points and then the government's response. Keeping it concise but informative is key. I'll ensure that the summary flows well and covers all the critical aspects without getting bogged down in details.
+
+Finally, I'll make sure to format everything correctly, starting with STEP 1, listing each word, then the SUMMARY section, and ending with the specified tokens. I need to be careful with word count and clarity to meet the user's requirements effectively.
+</think>
+
+### STEP 1:
+* trashed  
+* violations  
+* extra-judicial  
+* deaths  
+* custody  
+* detained  
+* tortured  
+* beat  
+* complicity  
+* Unita  
+* arbitrary  
+* deprivation  
+* disappearance  
+* cruel  
+* inhuman  
+* degrading  
+* treatment  
+* arbitrary  
+* arrest  
+* deny  
+* fair  
+* hearing  
+* Constitution  
+* informed  
+* magistrate  
+* 48 hours  
+* detention  
+* suspicious  
+* links  
+* Unita  
+* Caprivi Liberation Army  
+* disappeared  
+* confusion  
+* historical  
+* inaccuracies  
+* unverified  
+* unsubstantiated  
+
+---
+
+### SUMMARY:  
+The Namibian government dismissed a US human rights report that accused its security forces of committing human rights violations, including extra-judicial killings, torture, arbitrary arrests, and the disappearance of individuals suspected of links with Unita or the Caprivi Liberation Army. The report highlighted that Namibia's Constitution was not upheld, as detainees were not informed of their rights or brought before a magistrate within 48 hours. Information Permanent Secretary Mocks Shivute criticized the US for hypocrisy, citing its own human rights abuses, such as detaining individuals at Guantanamo Bay without trial. Shivute dismissed the report as factually inaccurate and based on unverified claims, including incorrect affiliations of Namibian organizations. He argued that the US's actions, such as detaining prisoners of war, should not be exempt from scrutiny. Namibia, he said, attaches little value to the report due to its inaccuracies and confusion of historical data.  
+END OF SUMMARY.

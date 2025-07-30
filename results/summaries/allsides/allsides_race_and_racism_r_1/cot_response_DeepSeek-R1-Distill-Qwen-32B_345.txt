@@ -1,0 +1,58 @@
+Alright, so I need to help the user by summarizing a news article while preserving the moral framing. The user provided a detailed query with specific steps. Let me break it down.
+
+First, I should understand what's being asked. The user wants me to act as a news summarizer and moral expert. They provided an article about Nick Cannon's comments and Fox's response. The task has two parts: identifying morally framed words and then summarizing the article while keeping those words.
+
+Starting with STEP 1: Identifying morally framed words. I need to go through the article and pick out words that carry moral weight. These are words that express judgment, evaluation, or ethical considerations. Examples might include "anti-Semitic," "condemns," "apologized," "remorseful," etc. I'll list each of these words, each on a new line with a *.
+
+Next, for the summary, I have to make sure it's concise, under 200 words, and includes as many of those moral terms as possible. The summary needs to capture the key points: Cannon's comments, Fox's decision, ViacomCBS's response, Cannon's apologies, and the reactions. I should structure it to flow logically, starting with the issue, then the network responses, Cannon's actions, and the broader implications.
+
+I need to ensure that the summary preserves the moral framing, so words like "condemns," "apologized," "remorseful," "hate," "bigotry," etc., should be included. Also, I should mention the contrasting reactions from Fox and ViacomCBS to show the differing approaches.
+
+I should also highlight Cannon's initial refusal to apologize and his later steps towards education, as well as the support he's received. This adds depth to the summary, showing the complexity of the situation.
+
+Finally, I need to make sure the summary is clear and within the word limit. I'll start by outlining the main points and then condense them, ensuring all key moral elements are included without making it too lengthy.
+
+Now, putting it all together, I'll first list the morally framed words, then craft the summary, making sure to include those terms and convey the necessary information succinctly.
+</think>
+
+**STEP 1:**  
+* anti-Semitic  
+* anti-white  
+* anti-Semitic  
+* anti-Semitic  
+* anti-Semitic  
+* anti-Semitic  
+* anti-Semitism  
+* condemns  
+* hate  
+* bigotry  
+* condemns  
+* bigotry  
+* apologized  
+* remorseful  
+* wrong  
+* understanding  
+* context  
+* hate  
+* dialogue  
+* healing  
+* discussion  
+* correct  
+* grow  
+* sincere apologies  
+* hurtful  
+* divisive  
+* stereotypes  
+* ashamed  
+* uninformed  
+* naïve  
+* eye-opening  
+* enlighten  
+* gratitude  
+* education  
+* reflection  
+* support  
+
+**SUMMARY:**  
+Nick Cannon made anti-Semitic and anti-white comments during a podcast interview with Professor Griff, who has a history of anti-Semitic remarks. Fox allowed Cannon to remain on *The Masked Singer*, stating he was remorseful and committed to addressing the issue. ViacomCBS, however, terminated its relationship with Cannon, condemning his actions and criticizing his failure to acknowledge the harm caused. Cannon initially refused to apologize but later issued a statement expressing deep regret and committing to education and healing. Despite backlash, he argued that apologies are "empty" and emphasized the need for dialogue and growth. Cannon has taken a break from his radio show to focus on reflection and learning. His actions have sparked mixed reactions, with some supporting his efforts to address the issue.  
+**END OF SUMMARY.**

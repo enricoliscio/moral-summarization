@@ -1,0 +1,14 @@
+Okay, so the user has given me a query where they want me to act as a news summarizer assistant and a moral expert. They provided a news article and asked me to summarize it while preserving the moral framing. They also specified that I should use the morally framed words from the article in the summary. The summary needs to be concise, under 200 words, and follow a specific format.
+
+First, I need to understand the content of the article. It's about President Trump offering a deal to Democrats involving DACA and temporary protected status in exchange for border wall funding. The proposal was called a "compromise" but turned out to be more aligned with hard-liners. The bill includes harsh measures against asylum seekers, especially minors, which Democrats rejected. The author uses words like "protections," "compromise," "proposal," "gut," "ban," etc., which I need to include.
+
+I should start by identifying the key points: Trump's offer, the reaction from Democrats, the contents of the GOP bill, and the implications. I need to highlight the moral framing, so words like "gut," "ban," "expand" should be used to show the negative impact. Also, the author's tone is critical, so I should reflect that in the summary.
+
+I need to ensure the summary is under 200 words, so I'll have to be concise but include all necessary details. I'll structure it by first stating Trump's offer, then the bill's contents, the reactions, and the legal challenges. I'll make sure to include the morally framed words to preserve the author's perspective.
+
+I also need to end the summary with the specified tokens. Let me check the word count as I draft to make sure it's within the limit. I should avoid any markdown and keep it in plain text as per the instructions.
+
+Alright, time to put it all together, making sure each sentence flows logically and includes the necessary moral terms without being too verbose.
+</think>
+
+SUMMARY: President Trump offered Democrats a deal to extend protections for DACA recipients and 300,000 immigrants under temporary protected status in exchange for border wall funding, but the proposal was criticized as a "wish list" for immigration hard-liners. The GOP bill included harsh measures like banning asylum for Central American minors, capping asylum applications, and gutting existing protections for trafficking victims and children. Critics accused the bill of stuffing "poison pills" to shift blame rather than compromise. Democrats rejected the offer, arguing it didn't go far enough and demanding the government reopen first. The bill also faced legal challenges, with courts blocking Trump's administrative attempts to curtail asylum. Meanwhile, the Supreme Court's inaction on DACA left protections in place, further weakening Trump's negotiating position. END OF SUMMARY.

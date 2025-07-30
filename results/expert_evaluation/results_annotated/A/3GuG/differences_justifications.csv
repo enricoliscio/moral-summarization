@@ -1,0 +1,11 @@
+pair;justification;just-1;just-2
+NY4P - diEs;"NY4P includes “science teacher, neighbor” human impact; diEs omits this.";NY4P-moral framing alignment;diEs-moral framing loss
+NY4P - hF73;hF73 omits mention of the rarity of a former President’s public criticism and examples, making it weaker.;hF73-examples omission;NY4P-examples inclusion
+NY4P - lylb;"lylb omits examples; NY4P preserves original framing.";NY4P-moral framing alignment;lylb-examples omission
+NY4P - pW8t;no major difference.;NY4P-similarity;pW8t-similarity
+pW8t - diEs;"pW8t keeps examples; diEs omits them.";pW8t-examples inclusion;diEs-examples omission
+pW8t - hF73;"hF73 omits mention of the rarity of a former President’s public criticism and examples; pW8t keeps them.";hF73-examples omission;pW8t-examples inclusion
+pW8t - lylb;"lylb omits personal examples; pW8t keeps them.";lylb-examples omission;pW8t-examples inclusion
+diEs - hF73;"hF73 has stronger condemnation; both omit human impact.";diEs-moral framing modification;hF73-moral framing modification
+diEs - lylb;no major difference.;diEs-similarity;lylb-similarity
+hF73 - lylb;"Similar; hF73 has slightly stronger condemnation.";hF73-moral framing addition;lylb-similarity

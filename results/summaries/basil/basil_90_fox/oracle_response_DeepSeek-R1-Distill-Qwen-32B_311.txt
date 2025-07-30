@@ -1,0 +1,18 @@
+Alright, so the user has given me a query where they want a news summary that preserves the moral framing from the original article. They provided the article and a list of morally framed words. I need to make sure the summary includes as many of those words as possible without exceeding 200 words.
+
+First, I'll read through the article to understand the main points. It's about Rep. Ocasio-Cortez supporting Rep. Tlaib after Tlaib made controversial comments about impeaching Trump. The key moral words used are hypocrisy, assault, scandalizing, faux-outrage, etc. I need to incorporate these into the summary.
+
+I'll start by identifying the main events: Ocasio-Cortez's support, the comparison to Trump's comments, the GOP's reaction, Pelosi's response, and Trump's criticism. I should highlight the moral arguments each side is making.
+
+I need to make sure the summary flows logically, starting with Ocasio-Cortez's defense, then the context of Trump's past comments, the GOP's hypocrisy, and the subsequent reactions from Pelosi and Trump. I'll also include Tlaib's unapologetic stance and the mention of the constitutional crisis.
+
+I should keep sentences concise and focus on including the moral terms. Let me draft a version and check the word count. Maybe start with Ocasio-Cortez's tweet, then the context of Trump's "locker room talk," the comparison to Tlaib's comments, the GOP's hypocrisy, Pelosi's downplay, Trump's criticism, and Tlaib's response.
+
+I need to ensure that all the key moral words are included without forcing them in. The summary should naturally flow while highlighting the moral framing. Let me piece it together step by step, making sure each sentence adds value and stays within the word limit.
+
+After drafting, I'll count the words to ensure it's under 200. If it's over, I'll look for areas to condense without losing the moral points. Maybe combine some sentences or remove redundant information.
+
+Finally, I'll make sure the summary starts with "SUMMARY:" and ends with "END OF SUMMARY." as per the instructions. I'll review it once more to ensure clarity and that all key points are covered with the moral framing intact.
+</think>
+
+SUMMARY: Rep. Alexandria Ocasio-Cortez defended Rep. Rashida Tlaib after Tlaib's expletive-laced comments in favor of impeaching President Trump, accusing Republicans of hypocrisy. Ocasio-Cortez highlighted the double standard, referencing Trump's own scandalous remarks about women, which he dismissed as "locker room banter." She emphasized that the GOP has lost the right to police women's behavior. Tlaib, a freshman congressmember, made the remarks while vowing to impeach Trump, a stance that drew criticism from House Republicans. Speaker Nancy Pelosi downplayed the comments, citing generational differences and avoiding censorship, while Trump called Tlaib's remarks "disgraceful." Tlaib doubled down, stating she would "speak truth to power" and defend the nation against the constitutional crisis. The incident underscores tensions over impeachment rhetoric and the role of language in political discourse. END OF SUMMARY.

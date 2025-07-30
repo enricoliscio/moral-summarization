@@ -1,0 +1,15 @@
+Alright, I need to help the user by summarizing the given news article while preserving the moral framing. The user is a news summarizer and a moral expert, so they want a concise summary that reflects the author's critical tone towards the NFL's handling of domestic violence.
+
+First, I'll read through the article to understand the main points. The key events are Ray Rice's assault, the NFL's initial lenient punishment, the appeal granted by the arbitrator, and the criticism of the NFL's approach to domestic violence.
+
+I need to identify the morally charged words the author used, like "damning," "indictment," "pummeling," "violence," etc. These words convey the severity and the league's insensitivity.
+
+I should structure the summary to highlight the arbitrator's decision, the NFL's initial leniency, the new evidence, and the league's failure to take the assault seriously. Also, it's important to mention the arbitrator's finding that the NFL didn't watch the second video, showing their willful blindness.
+
+I'll make sure to include terms like "damning indictment," "pummeling," "assault," "suspension," "abuse," and "disregard" to maintain the moral tone. The summary should be under 200 words, so I'll keep it concise, focusing on the critical aspects without getting too detailed.
+
+Finally, I'll ensure the summary ends with the "END OF SUMMARY." token as per the instructions.
+</think>
+
+SUMMARY:  
+An arbitrator granted Ray Rice's appeal of his indefinite suspension, allowing him to return to the NFL. The decision is a damning indictment of the NFL's handling of domestic violence. Initially, the league suspended Rice for two games after he assaulted his then-girlfriend, Janay Palmer, knocking her unconscious in an elevator. The NFL later revised the punishment to indefinite suspension after additional video evidence emerged. However, the arbitrator ruled that the NFL's initial light punishment was justified, as they were aware of the severity of the assault but chose not to take it seriously. The NFL's defense argued that Rice misled them about the nature of the assault, claiming it was a "slap" rather than a violent attack. The arbitrator found that the NFL had access to the second video but chose not to watch it, showing willful blindness to the seriousness of the assault. The decision raises concerns about the NFL's ability to understand and respond to domestic violence, as their arguments during arbitration revealed a continued disregard for the gravity of such crimes. END OF SUMMARY.

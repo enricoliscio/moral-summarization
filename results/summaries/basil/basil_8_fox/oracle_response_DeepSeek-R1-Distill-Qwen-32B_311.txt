@@ -1,0 +1,14 @@
+Okay, so I need to help the user summarize a news article while preserving the moral framing. The user provided the article and a list of morally framed words. First, I'll read through the article to understand the main points. It's about Larry Summers warning about a double-dip recession if the tax cut compromise isn't passed. There's a lot of political maneuvering between Democrats and Republicans, with some Democrats opposing the deal because it benefits the wealthy. 
+
+I notice the author uses words like "failure," "raise," "increase," "stall," "have," "reviews," "deal," "prevent," "get," and "listening." I need to make sure these words are included in the summary. 
+
+I'll start by identifying the key events: Summers' warning, the criticism from Democrats, the proposed changes by Senate Democrats, Biden's meeting with House Democrats, and the resistance from some House members. 
+
+I should structure the summary to include the moral implications. For example, the failure to pass the bill could raise the risk of a double-dip recession, which is a negative outcome. The deal is seen as a giveaway to the rich, which is a moral issue. 
+
+I'll make sure to include the morally framed words naturally in the summary. I'll also keep it under 200 words and end with the specified tokens. 
+
+Let me draft a summary that includes all these elements, ensuring the moral framing is preserved. I'll check the word count and make sure it's concise but covers all main points.
+</think>
+
+SUMMARY: Outgoing White House economic adviser Larry Summers warned that failing to pass a new tax cut compromise would significantly increase the risk of a double-dip recession. He expressed confidence that Congress would avoid taking a step that materially increases the risk of the economy stalling out. However, the deal, which extends tax cuts for both the rich and middle class, has faced criticism from liberal Democrats who view it as a giveaway to the wealthy. Senate Democrats have requested changes to the bill, while House Democrats, led by Reps. DeFazio, McDermott, and Inslee, are attempting to prevent the compromise from reaching the floor by seeking signatures to block it. Some Democrats argue the deal does little to help the economy and have criticized the estate tax provision as "a bridge too far." Despite this, Obama urged lawmakers to examine the deal's details and "get this done," emphasizing economists' predictions of higher job growth if the agreement passes. However, House Democrats remain resistant, with Pelosi acknowledging the response to the deal has not been positive. END OF SUMMARY.

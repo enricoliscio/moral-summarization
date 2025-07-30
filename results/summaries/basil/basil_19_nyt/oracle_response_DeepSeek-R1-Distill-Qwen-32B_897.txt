@@ -1,0 +1,12 @@
+Okay, so I need to help the user by summarizing a news article while preserving the moral framing. The user provided the article and the specific morally framed words: "failed," "destructive," and "great." They want the summary to include these words as much as possible.
+
+First, I'll read through the article to understand the main points. Trump dropped out of moderating a debate but isn't leaving politics. The Republican establishment criticized him for possibly running as an independent. He emphasized making America great again and criticized Obama's administration as failed and destructive.
+
+I need to condense this into a summary under 200 words. I'll start by stating Trump's withdrawal from moderating, then mention his intention to stay in politics. Highlight the criticism from Republicans and his possible independent run. Emphasize his commitment to making America great again and his negative view of Obama's administration.
+
+I should make sure to include "failed," "destructive," and "great" where appropriate. Also, keep the summary concise and clear, ending with the required tokens.
+
+Let me draft it step by step, ensuring all key points are covered and the moral words are preserved.
+</think>
+
+SUMMARY: Donald Trump has withdrawn from moderating a Newsmax presidential debate, but his exit may not signal a quiet fade from politics. Republicans could face unintended consequences by distancing themselves from him. Trump emphasized his commitment to ensuring the "right Republican candidate" defeats the "failed and very destructive" Obama administration. However, he reserved the option to run as an independent if he deems the GOP nominee unsuitable. His decision to step back from the debate, which only two candidates agreed to attend, underscores his desire to keep all options open to "make America great again." Critics argue his actions could disrupt the Republican field, as he continues to position himself as a potential alternative. END OF SUMMARY.

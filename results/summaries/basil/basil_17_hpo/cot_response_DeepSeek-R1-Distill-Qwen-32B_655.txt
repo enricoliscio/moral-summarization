@@ -1,0 +1,48 @@
+Okay, so I need to help this user by summarizing a news article while preserving the moral framing. First, I should understand what the user is asking for. They want me to act as a news summarizer and a moral expert. My task is to take the provided article about Sheriff Joe Arpaio endorsing Rick Perry and create a summary that includes the morally charged words from the original text.
+
+The user has specified two steps. The first is to identify all the single words that are morally framed. They want each of these words listed with an asterisk. The second step is to write a concise summary, no longer than 200 words, that includes as many of these moral words as possible.
+
+Looking at the article, I need to read through it carefully to spot words that carry moral connotations. These are words that express approval or disapproval, or relate to concepts like justice, security, responsibility, etc. For example, words like "controversial," "endorse," "credibility," "hardliner," "push," "enforcement," "failed," "secure," "struggle," "honor," "shared goals," "vital," "jobs," "strategic," "resources," "safer," "failed," "support," "shared goals," "vital," "jobs," "strategic," "resources," "safer," "failed," "support," "shared goals," "vital," "jobs," "strategic," "resources," "safer."
+
+Wait, some of these might be repeated, but I should list each occurrence. However, the user wants single words, so I'll make sure each is unique. Next, I'll compile these words into a list, each on a new line with an asterisk.
+
+After identifying the moral words, I need to craft a summary. The summary should include these words to maintain the moral framing. I'll need to make sure it's concise, under 200 words, and captures the essence of the article: Arpaio endorsing Perry, their positions on immigration and border security, and the implications of this endorsement.
+
+I should structure the summary to highlight the endorsement, the reasons behind it, and the potential impact. Using the moral words will help convey the tone and stance of both Arpaio and Perry on the issues. I'll make sure the summary flows logically, starting with the endorsement, then their policies, and ending with the significance of the endorsement.
+
+I also need to ensure that the summary doesn't add any new information beyond what's in the article. It should be a faithful representation but in a more concise form, retaining the moral language to preserve the original framing.
+
+Alright, I think I have a plan. I'll start by listing all the moral words, then create a summary that weaves them in naturally. Let me make sure I don't miss any important points from the article, like Arpaio's past endorsements or Perry's specific plans for border security. Including these details will make the summary comprehensive yet concise.
+
+Finally, I'll double-check the word count to ensure it's under 200 words and that all the key moral elements are included. This should meet the user's requirements effectively.
+</think>
+
+**STEP 1:**  
+* Controversial  
+* Endorse  
+* Credibility  
+* Hardliner  
+* Push  
+* Enforcement  
+* Failed  
+* Secure  
+* Struggle  
+* Honor  
+* Shared goals  
+* Vital  
+* Jobs  
+* Strategic  
+* Resources  
+* Safer  
+* Failed  
+* Support  
+* Shared goals  
+* Vital  
+* Jobs  
+* Strategic  
+* Resources  
+* Safer  
+
+**SUMMARY:**  
+Controversial Arizona Sheriff Joe Arpaio endorsed Texas Governor Rick Perry for the Republican presidential nomination, citing Perry's border security record. Arpaio, a hardliner on immigration, praised Perry for his enforcement efforts, including border surge operations that targeted illegal trafficking. Perry, who opposes a full border fence but supports increased enforcement, has directed funds to border security as Texas governor. Arpaio emphasized the need for a "tough-on-crime" president to secure the border, while Perry pledged to achieve a secure border within a year. Both men share goals of enhancing border safety through more personnel, fencing, and surveillance, highlighting the importance of border security for national safety and jobs. Arpaio's endorsement aims to boost Perry's credibility on immigration and border issues.  
+**END OF SUMMARY.**

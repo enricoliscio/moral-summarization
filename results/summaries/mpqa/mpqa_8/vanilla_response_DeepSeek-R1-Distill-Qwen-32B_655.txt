@@ -1,0 +1,10 @@
+Okay, so I need to help the user by summarizing this news article. Let me read through the query first. The user provided an article about President Cardoso discussing the challenges facing Hugo Chavez in Venezuela. They want a summary that's no longer than 200 words, starting with "SUMMARY:" and ending with "END OF SUMMARY."
+
+Alright, the article mentions that Cardoso, the Brazilian president, says Chavez's main challenge is reestablishing normalcy after last week's conflicts. He talks about opening communication channels and social harmony. Chavez has assured Cardoso he won't seek revenge against the military who supported the coup. Also, Jimmy Carter supports Chavez's dialogue initiative and plans to visit soon.
+
+I should make sure the summary captures all these points concisely. Let me structure it: start with Cardoso's statement, mention the challenges, Chavez's assurance, and Carter's support and visit. I need to keep it under 200 words, so I'll be brief but include all key elements.
+
+Wait, should I mention the failed attempt to remove Chavez? Yes, that's important context. Also, the dialogue tables and Carter's role in supporting that. I think that's all the main points. Let me put it together clearly and succinctly.
+</think>
+
+SUMMARY: Brazilian President Fernando Henrique Cardoso has stated that Venezuelan President Hugo Chavez's main challenge is reestablishing normalcy after last week's conflicts. Cardoso emphasized the need for open communication and social harmony. Chavez assured Cardoso he has no intention of seeking revenge against military personnel involved in the failed coup attempt. Former U.S. President Jimmy Carter has expressed support for Chavez's commitment to dialogue and is set to visit Venezuela shortly. END OF SUMMARY.

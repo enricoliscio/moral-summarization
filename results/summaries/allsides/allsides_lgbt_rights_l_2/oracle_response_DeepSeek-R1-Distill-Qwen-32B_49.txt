@@ -1,0 +1,12 @@
+Okay, I need to help the user by summarizing the given news article while preserving the moral framing. The user provided a detailed article and a list of morally framed words. My task is to create a concise summary using as many of those words as possible without exceeding 200 words.
+
+First, I'll read through the article to understand the main points. Jim Obergefell, the plaintiff in Obergefell v. Hodges, is reflecting on past victories for marriage equality and current anxieties about employment discrimination cases before the Supreme Court. He highlights ongoing discrimination issues, the need for comprehensive protections, and the importance of legislative action in states like Ohio.
+
+Next, I'll identify key morally framed words from the article that need to be included. Words like "freedom," "discrimination," "protected," "equality," and "activism" are central. I'll make sure these are included in the summary.
+
+I'll structure the summary by starting with his past experience, moving to current anxieties, the impact of discrimination, the importance of Supreme Court rulings, the need for legislation, and the ongoing fight for equality. I'll ensure the summary flows logically and stays within the word limit.
+
+Now, I'll draft the summary, making sure to incorporate the moral framing words and maintain the essence of the article. I'll check the word count to ensure it's under 200 words and adjust as necessary.
+</think>
+
+SUMMARY: Jim Obergefell, the plaintiff in the landmark Obergefell v. Hodges case, reflects on the freedom to marry for same-sex couples and the ongoing fight against discrimination. He expresses anxiety as the Supreme Court considers cases involving LGBTQ+ individuals fired for their identity or relationships, highlighting the threat of discrimination despite marriage equality. Obergefell emphasizes the need for explicit nondiscrimination protections, as many states lack such safeguards. A potential Supreme Court victory would protect LGBTQ+ individuals from harm and uphold the principle that they deserve dignity and respect. However, comprehensive protections in areas like housing and public spaces remain necessary. Obergefell calls for lawmakers to pass legislation, like Ohio’s proposed nondiscrimination bill, and urges continued activism and advocacy to ensure all individuals thrive. The fight for equality is ongoing, requiring collective efforts to push for justice and protect everyone’s rights. END OF SUMMARY.

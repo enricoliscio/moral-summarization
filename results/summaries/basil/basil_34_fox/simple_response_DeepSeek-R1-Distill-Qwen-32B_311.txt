@@ -1,0 +1,18 @@
+Alright, so I need to help the user by summarizing this news article about the NRA's recommendations after the Newtown shooting. The user mentioned that I should preserve the moral framing the author gave. Hmm, okay, so I should focus on the key points and the underlying messages without adding my own opinions.
+
+First, the article talks about the NRA urging states to allow more armed officers in schools. They want school personnel to carry weapons after training. They've released a 225-page report with several recommendations. I should note that they're responding to the Newtown shooting, which killed 26 people. 
+
+The user wants the summary to include the moral framing. So, the NRA's stance is about security and protection, right? They argue that schools need armed personnel, similar to how banks and Congress are protected. That's a strong moral argument—protecting children is a priority.
+
+I should also mention the criticism they received from Democrats for not focusing on gun control. That adds context about the political divide. Then, there's Asa Hutchinson's slight shift, suggesting at least one armed officer per school but leaving decisions to local authorities. The training program and model law are important details too.
+
+Additionally, the report includes other recommendations like safety assessments and mental health pilot programs. It's good to include that to show a comprehensive approach. Mark Mattioli, a Newtown victim's father, approved of the effort, which adds a personal touch to their stance.
+
+On the other hand, many states are focusing on gun control measures like assault weapons bans and background checks. Connecticut is pushing a major gun control proposal. The NRA, however, maintains that school security is the top priority, emphasizing the need for armed protection.
+
+I need to make sure the summary is concise, around 200 words, and captures all these points without getting too detailed. Also, I should start with the SUMMARY token and end with END OF SUMMARY. 
+
+Let me structure it: start with the NRA's main recommendation, mention the report, their response to criticism, Hutchinson's points, other recommendations, the father's approval, the state actions, and the NRA's counterargument. That should cover the essential elements while keeping the moral framing intact.
+</think>
+
+SUMMARY: The National Rifle Association (NRA) has recommended that states allow more school personnel to carry weapons on school grounds after extensive training, following the Newtown mass shooting. While the NRA initially faced criticism for focusing on school security rather than gun control, its review, led by former Arkansas Rep. Asa Hutchinson, softened the call for armed officers in every school, instead emphasizing at least one armed officer per school and proposing a 40-60 hour training program. The NRA also advocated for safety assessments and a mental health pilot program. NRA CEO Wayne LaPierre argued that schools should have the same protection as banks and Congress, stating that "the only thing that stops a bad guy with a gun is a good guy with a gun." However, many states are pursuing gun control measures, such as assault weapons bans and background checks, while Connecticut is advancing a major gun control proposal. The NRA maintains that improving school security is paramount. END OF SUMMARY.

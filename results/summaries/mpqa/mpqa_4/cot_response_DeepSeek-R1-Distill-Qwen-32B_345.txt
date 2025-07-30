@@ -1,0 +1,34 @@
+Okay, I need to help the user by summarizing a news article while preserving the moral framing. First, I should read the article carefully to understand the context and the moral issues involved. The article is about Rumsfeld defending the U.S. treatment of detainees in Guantanamo Bay. There's a lot of criticism from international organizations and governments about the methods used, like sensory deprivation and psychological techniques. 
+
+The user wants me to identify morally framed words first. I'll go through the article and pick out words that carry moral connotations. Words like "criticism," "hyperbole," "humane," "sensory deprivation," "psychological control," " Geneva Convention," "prisoner of war," "values," "isolation," "domination," "futility," "unfortunate," "restraints," "suicidal," "inhumane," "stupid," "terrorists," "intelligence," "legal limbo," "precedent," "jurisdiction." I should list each of these with a *.
+
+Next, I need to write a concise summary of the article, making sure to include as many of these moral terms as possible. The summary should be under 200 words. I'll start by stating Rumsfeld's defense, mention the international criticism, the techniques used, the Geneva Convention concerns, support from some countries, and the legal issues. I'll ensure the summary reflects the moral debates surrounding the treatment of detainees.
+
+I should check that the summary is clear and includes all key points without going over the word limit. Also, I need to maintain the moral framing by using the identified words appropriately. Finally, I'll format the response with STEP 1 and SUMMARY sections as specified.
+</think>
+
+**STEP 1:**  
+* Criticism  
+* Hyperbole  
+* Humane  
+* Sensory deprivation  
+* Psychological control  
+* Geneva Convention  
+* Prisoner of war  
+* Values  
+* Isolation  
+* Domination  
+* Futility  
+* Unfortunate  
+* Restraints  
+* Suicidal  
+* Inhumane  
+* Stupid  
+* Terrorists  
+* Intelligence  
+* Legal limbo  
+* Precedent  
+* Jurisdiction  
+
+**SUMMARY:**  
+Secretary of Defense Donald Rumsfeld defended U.S. treatment of detainees in Guantanamo Bay, dismissing international criticism as "hyperbole." He claimed prisoners were treated "humanely" and emphasized the need for restraints during transport to prevent attacks. Critics accused the U.S. of using "sensory deprivation" and psychological techniques to weaken prisoners, potentially violating the Geneva Convention. Organizations like Amnesty International and the International Committee of the Red Cross called for better protections, while countries like the Netherlands urged recognizing detainees as prisoners of war. Rumsfeld acknowledged the release of photos showing prisoners in restraints was "unfortunate" but defended the practice as necessary for safety. The U.S. has not officially designated the detainees as prisoners of war, leaving them in "legal limbo." The debate over their treatment highlights tensions between national security and humanitarian values. END OF SUMMARY.

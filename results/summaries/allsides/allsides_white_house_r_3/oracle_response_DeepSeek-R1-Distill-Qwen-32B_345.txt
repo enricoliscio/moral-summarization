@@ -1,0 +1,14 @@
+Alright, so I've got this query where the user wants me to summarize a news article while preserving the moral framing. They provided the article and a list of morally framed words. My task is to create a concise summary using those words.
+
+First, I need to understand the article's main points. It's about the Paris attacks by ISIS right after Obama declared they were contained. The attacks resulted in many deaths and injuries. Hollande called it an act of war. Obama's statements are key here—he said ISIS wasn't gaining strength, but the attacks happened soon after. There's also mention of the downing of a Russian plane, and Obama canceling a trip to the G20 summit to address the attacks.
+
+Now, I need to identify the morally framed words. The user listed several: attacks, shootings, bombings, dead, wounded, war, contained, gained, march, fighting, reduce, referring, killings, attack, downing, killing, investigation, defeat, terrorism. I should use as many as possible without making the summary too wordy.
+
+I'll start by mentioning the attacks and the death toll, using "attacks," "shootings," "bombings," "dead," and "wounded." Then, note Hollande's "act of war." Highlight Obama's claim of containing ISIS and the contradiction with the attacks. Include the downing of the plane as another attack. Finally, mention the G20 summit cancellation and Obama's support for France.
+
+I need to keep it under 200 words, so I'll be concise. Make sure each sentence includes a morally framed word without forcing it. Let me draft the summary step by step, ensuring each point flows logically and all key terms are included.
+</think>
+
+SUMMARY:  
+The Islamic State carried out terrorist attacks in Paris, including shootings and bombings, resulting in at least 127 dead and many wounded, just hours after President Obama declared the group had been "contained." French President Hollande labeled the attacks "an act of war," while Obama maintained that ISIS was not gaining strength and that the U.S.-led coalition had "contained" them. Security concerns included French citizens returning from Syria to carry out attacks. The Paris killings followed the Islamic State's claimed responsibility for the downing of a Russian passenger plane, killing all 224 aboard. Obama offered condolences to France and pledged support to defeat terrorism. Hollande canceled his trip to the G-20 summit to address the attacks, while Obama convened his National Security Council to review intelligence. The attacks highlighted the ongoing fight against terrorism and the challenges of reducing foreign fighters' influence.  
+END OF SUMMARY.

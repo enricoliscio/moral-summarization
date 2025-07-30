@@ -1,0 +1,14 @@
+Alright, so I need to help the user by summarizing a news article while preserving the moral framing. The user provided the article and a list of morally framed words to include. First, I should read the article carefully to understand the main points. 
+
+The article is about President Trump making controversial remarks about four Democratic congresswomen, which led to widespread condemnation. The key elements are Trump's tweets, the reactions from Democrats and some Republicans, and the moral terms used.
+
+I need to make sure the summary includes the morally framed words like racism, hate, xenophobic, etc. I should structure the summary to cover Trump's statements, the responses from Pelosi, the Squad members, and some Republicans. Also, I need to keep it under 200 words and use the specified tokens.
+
+I'll start by outlining the main points: Trump's tweets, Pelosi's call for a resolution, the Squad's reactions, Republican responses, and international criticism. Then, I'll weave in the moral terms to highlight the framing.
+
+I should ensure the summary flows logically, starting with Trump's actions, then the reactions, and ending with the broader implications. I'll avoid adding any personal opinions and stick to the facts while emphasizing the moral aspects.
+
+Let me draft the summary, making sure each sentence incorporates the necessary moral language. I'll check the word count to stay within the limit. Once done, I'll review to ensure all key points and moral terms are included accurately.
+</think>
+
+SUMMARY: President Trump sparked controversy by tweeting that four Democratic congresswomen, part of "The Squad," should "go back" to their countries, despite most being U.S.-born. He denied racism, saying, "if you hate our country, you can leave," but faced widespread condemnation. House Speaker Nancy Pelosi called for a resolution condemning Trump's xenophobic remarks, stating his "Make America Great Again" plan seemed to aim for a "white America." The congresswomen, including Alexandria Ocasio-Cortez and Ilhan Omar, condemned Trump's racism and xenophobia, with Ayanna Pressley calling his actions "what racism looks like." Trump's comments drew criticism from international leaders and even some Republicans, like Rep. Will Hurd, who labeled them "racist and xenophobic." Trump defended his remarks, claiming many agree with him, but his tactics to divide the country were widely condemned as racist, xenophobic, and disgusting. END OF SUMMARY.

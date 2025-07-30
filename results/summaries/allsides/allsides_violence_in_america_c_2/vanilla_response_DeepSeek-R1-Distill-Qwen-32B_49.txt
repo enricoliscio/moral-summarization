@@ -1,0 +1,12 @@
+Okay, so the user wants me to summarize a news article. They provided the article, which is about the El Paso shooting and the subsequent legal proceedings. I need to make sure the summary is concise, under 200 words, and includes all the key points.
+
+First, I'll read through the article to identify the main events. Patrick Crusius was indicted for capital murder after the August 3 shooting that killed 22 people. He's facing the death penalty. His lawyers are planning to fight that. The shooting was part of a series that included Dayton and West Texas, which led to debates on gun control and immigration.
+
+I should also note that Crusius wrote a manifesto linking the attack to immigration, which tied into Trump's rhetoric, though Trump denied responsibility. The article mentions the political reactions, like Texas Governor Abbott's response and the resistance to new gun laws.
+
+I need to structure this into a coherent summary, making sure not to miss any important details but keeping it under 200 words. I'll start with the indictment, mention the death penalty, the manifesto, the other shootings, and the political implications. Finally, I'll wrap up with the survivors' vigils and the ongoing debates.
+
+Let me check the word count as I go to stay within the limit. I'll make sure each sentence is clear and covers the essential points without extra fluff. Once done, I'll place the summary between the specified tokens.
+</think>
+
+SUMMARY: Patrick Crusius, 21, has been indicted for capital murder in connection with the August 3 mass shooting at a Walmart in El Paso, Texas, which left 22 people dead. El Paso prosecutors are seeking the death penalty, and Crusius remains jailed without bond. His defense team plans to use "every legal tool available" to prevent execution. Crusius allegedly targeted Mexicans, as indicated in a manifesto he wrote before the attack, which referenced President Trump's immigration rhetoric. Federal prosecutors are considering hate-crime charges. The shooting was part of a series of mass shootings in August, including incidents in Dayton, Ohio, and West Texas, sparking debates on gun control and immigration. Texas Gov. Greg Abbott has resisted calls for new gun laws, while Democrats and gun-control advocates criticize his inaction. Survivors of the El Paso attack have held vigils, and Crusius is being held in isolation on suicide watch. END OF SUMMARY.

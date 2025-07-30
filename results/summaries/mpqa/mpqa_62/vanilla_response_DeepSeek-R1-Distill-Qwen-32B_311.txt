@@ -1,0 +1,18 @@
+Okay, so the user wants me to summarize a news article about the Endeavour space shuttle docking with the International Space Station. They specified that the summary should be after a "SUMMARY:" token and end with "END OF SUMMARY." Also, it should be no longer than 200 words. 
+
+First, I need to read through the article to understand the key points. The main event is the Endeavour delivering a new crew to the ISS. The shuttle docked after a two-day journey, replacing the existing crew who have been there since August. The commander, Frank Culbertson, mentioned feeling isolated after September 11. The new crew includes Yuri Onufrienko as the next commander and two Americans, Carl Walz and Daniel Bursch, who will stay until May.
+
+I should condense this information, making sure to include the important details: the docking, the new crew, the relief of the old crew, Culbertson's feelings, and the duration of the new crew's stay. I need to keep it concise, under 200 words, so I'll focus on the essentials without getting too detailed.
+
+Also, I should ensure that the summary starts with "SUMMARY:" and ends with "END OF SUMMARY." to meet the user's formatting requirements. I'll make sure the language is clear and straightforward, avoiding any unnecessary jargon or fluff.
+
+Let me put this together step by step. Start by mentioning the docking event, then the new crew replacing the old one. Include Culbertson's feelings, the traditional bell ringing, and the new crew's stay duration. Keep each sentence tight and to the point to stay within the word limit.
+
+Double-checking the word count after writing to ensure it's under 200. If it's a bit over, I'll trim any redundant information. For example, details about the shuttle's position over the Polish-Ukrainian border might not be necessary for a concise summary.
+
+Once the summary is drafted, I'll review it to make sure it flows well and covers all key points without being too lengthy. That should meet the user's request effectively.
+</think>
+
+SUMMARY:  
+Space shuttle Endeavour docked with the International Space Station (ISS) on Friday, delivering a new three-member crew to replace the current crew, who have been aboard since August. The shuttle completed a two-day journey, with the docking occurring 250 miles above the Polish-Ukrainian border. ISS commander Frank Culbertson, along with Russian crewmates Vladimir Dezhurov and Mikhail Tyurin, welcomed the new crew, which includes Russian Yuri Onufrienko as the new commander and Americans Carl Walz and Daniel Bursch. Culbertson, who expressed feelings of isolation after the Sept. 11 attacks, and his crew will depart the station today. The new crew will remain on the ISS until May.  
+END OF SUMMARY.

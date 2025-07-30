@@ -1,0 +1,14 @@
+Alright, so the user wants me to summarize a news article about US-Japan climate talks. They provided the article and specific instructions on how to format the summary. First, I need to read through the article carefully to understand the key points.
+
+The article mentions that representatives from the US and Japan concluded two days of talks in Tokyo. They focused on cooperation in science and technology to tackle global warming. It's important to note that this was the first meeting since President George Bush introduced a new US plan. The plan uses voluntary limits based on economic growth instead of mandatory targets, which is a shift from previous policies.
+
+I should highlight that the US announced they'll promote R&D in climate change. On the other hand, Japan still intends to ratify the Kyoto Protocol. The article also points out that Bush's rejection of the Kyoto Protocol last year caused international criticism, stating it hindered US economic growth.
+
+I need to condense all this into a concise summary, under 200 words. I'll start by stating the conclusion of the talks, mention the focus areas, the context of Bush's new plan, the US's R&D commitment, Japan's stance on Kyoto, and the international reaction to Bush's decision.
+
+I should make sure the summary flows logically and includes all key elements without being too wordy. Also, I need to end with the specified tokens, "SUMMARY:" and "END OF SUMMARY." I'll check the word count to ensure it's within the limit.
+</think>
+
+SUMMARY:  
+US and Japan concluded two days of climate talks in Tokyo, focusing on cooperation in science and technology to address global warming. This was the first meeting since President George Bush introduced a new US plan, which calls for voluntary limits on greenhouse gas emissions based on economic growth, rather than mandatory targets. The US announced it would promote research and development in climate change, while Japan reaffirmed its intention to ratify the Kyoto Protocol. Bush's rejection of the Kyoto Protocol last year sparked international criticism, as it was seen as hindering US economic growth.  
+END OF SUMMARY.

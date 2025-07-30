@@ -1,0 +1,35 @@
+<think>
+Okay, I need to help the user by summarizing the news article while preserving the moral framing. The user has given specific instructions, so I should follow them step by step.
+
+First, I have to identify all the single words that are morally framed. These are words that carry a strong positive or negative connotation. I'll go through the article and pick out words like "protestors," "effigy," "unconstitutional," "shutdown," "coronavirus," "Second Amendment," "unconstitutional," "tyrannies," "backlash," "condemned," "unacceptable," "hate," "disgusting," "reprehensible," "vile," "science," "healthy," "safe," "freedom." Each of these words has a moral or evaluative aspect to them.
+
+Next, I need to write a concise summary of the article, making sure to include as many of these morally framed words as possible. The summary should be under 200 words and include the key points: the protest, the effigy, the reactions from various political figures, and the moral condemnations.
+
+I'll start by mentioning the protest and the effigy. Then, I'll note the organizers' reasons and the rally's progression. I'll include the reactions from McConnell, Adams, Fischer, and the House Democrats, highlighting their condemnations. I'll make sure to incorporate the moral words to maintain the author's framing.
+
+I need to ensure the summary flows well and covers all essential points without being too detailed. I'll check the word count to stay within the limit. Finally, I'll format the response with the specified tokens, starting with the identified words and then the summary.
+</think>
+
+**STEP 1:**  
+* Protestors  
+* Effigy  
+* Unconstitutional  
+* Shutdown  
+* Coronavirus  
+* Second Amendment  
+* Tyrannies  
+* Backlash  
+* Condemned  
+* Unacceptable  
+* Hate  
+* Disgusting  
+* Reprehensible  
+* Vile  
+* Science  
+* Healthy  
+* Safe  
+* Freedom  
+
+**SUMMARY:**  
+Protestors in Kentucky hung an effigy of Gov. Andy Beshear outside the state capitol, denouncing his coronavirus restrictions as "unconstitutional." The protest, organized by Take Back Kentucky, began celebrating the Second Amendment but escalated into anti-coronavirus measures. Protestors chanted "Come out Andy" and hung the effigy with the message "sic temper tyrannies," translating to "thus always to tyrants." The act sparked widespread backlash, with Sen. Mitch McConnell condemning it as "unacceptable" and "hate" having no place in Kentucky. Republican Secretary of State Michael Adams called the act "disgusting," while Democratic Mayor Greg Fischer criticized it as "vile," emphasizing the importance of science and community safety. Kentucky House Democrats also condemned the act as "beyond reprehensible." The protest drew strong moral and political condemnation from both parties.  
+**END OF SUMMARY.**

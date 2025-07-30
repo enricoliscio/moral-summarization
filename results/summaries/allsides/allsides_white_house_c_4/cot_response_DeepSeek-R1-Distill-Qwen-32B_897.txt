@@ -1,0 +1,22 @@
+Okay, so I'm trying to help this user who wants a news summary with a moral framing. They provided a news article about the White House seeking emergency funds after Hurricane Sandy. The user's instructions are a bit detailed, so I need to make sure I follow them correctly.
+
+First, they want me to identify all the single words that are morally framed. That means looking for words that carry a moral connotation, like "conservative," "resilience," "smart," "safe," "hardships," "fair," and "unfair." These words are important because they show the author's perspective on the issue.
+
+Next, I need to write a summary that includes as many of these morally framed words as possible. The summary should be concise, no more than 200 words, and it has to preserve the moral framing the author used. I should make sure to highlight the key points: the funding request, the need for disaster prevention, the impact on affected areas, and the debate over funding distribution.
+
+I also need to structure the response with STEP 1 and then the SUMMARY, ending with the specified tokens. I have to be careful not to miss any morally framed words and ensure the summary flows naturally while keeping the moral perspective intact.
+
+I think I've got it. I'll start by listing the morally framed words, then craft a summary that weaves them in, making sure it's within the word limit and captures the essence of the article.
+</think>
+
+**STEP 1:**  
+* conservative  
+* resilience  
+* smart  
+* safe  
+* hardships  
+* fair  
+* unfair  
+
+**SUMMARY:**  
+The White House plans to request $50-$60 billion in emergency funding for Hurricane Sandy recovery, with a focus on building resilience against future storms. New York and New Jersey alone estimate damages totaling $80 billion, with hundreds of thousands of homes and businesses impacted. Federal officials stress the need to rebuild "smarter, safer, and more resiliently," emphasizing long-term solutions like burying power lines or using generator-capable infrastructure. However, some argue that delaying full funding would cause hardships for affected communities. FEMA head Craig Fugate warns that underground infrastructure can pose risks, while Housing and Urban Development Secretary Shaun Donovan opposes offsetting disaster aid with budget cuts. The administration seeks immediate support to help families and businesses recover, rejecting the idea of a "down payment" that would delay relief. END OF SUMMARY.

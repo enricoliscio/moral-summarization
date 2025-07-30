@@ -1,0 +1,103 @@
+Okay, so I need to help the user by summarizing this news article while preserving the moral framing. Let me start by understanding the task. The user wants me to first identify all the morally framed single words in the article and then write a concise summary that includes as many of those words as possible.
+
+First, I'll read through the article to get a sense of the main points. It's about Maryland Democrats rejecting a bill aimed at combating gun violence, while the Baltimore mayor is urging residents to stop shooting each other so hospitals can focus on COVID-19 patients. The bill, proposed by Republican Governor Hogan, would increase penalties for violent criminals, but Democrats removed mandatory minimums, which led to the bill's failure. There's also mention of public support for the bill and criticism from Republicans about Democrats weakening the legislation.
+
+Now, for STEP 1, I need to identify all the single words that carry a moral connotation. I'll go through the article sentence by sentence.
+
+- "Maryland Democrats rejected a bill aimed at combating gun violence..." Here, "rejected" implies disapproval, so that's a moral word. "Combating" is more about action, but maybe not moral. "Violence" is a negative act, so that's moral.
+
+- "Baltimore mayor Jack Young publicly begged residents to stop shooting each other..." "Begged" shows desperation, but maybe not moral. "Stop" is an action. "Shooting" is a negative act, so moral.
+
+- "...so hospitals could be used to treat coronavirus patients." "Treat" is neutral, but "patients" is neutral.
+
+- "Young, a Democrat, pleaded with residents on Wednesday not to 'clog up our hospitals and beds with people [who] are being shot senselessly.'" "Pleaded" is an appeal, but "clog" is more about obstruction. "Shot" again, and "senselessly" is a moral judgment.
+
+- "But on the same day, his partymates in the state legislature voted down a bill pushed by Republican governor Larry Hogan that would strengthen penalties for violent criminals." "Voted down" is a decision, but "penalties" is about punishment. "Violent criminals" is moral.
+
+- "Hogan’s Violent Firearms Offenders Act would make the theft of a firearm a felony and increase penalties for those who repeatedly carry illegal guns or use a gun while drug dealing." "Theft," "felony," "illegal," "drug dealing" are all moral terms.
+
+- "The bill passed the state Senate on March 10 following a contentious back-and-forth between lawmakers." "Passed" is an action, "contentious" is about conflict.
+
+- "Democrats successfully removed the legislation's mandatory minimum sentencing increase, arguing it would punish violent criminals too severely." "Removed," "mandatory," "punish," "severe" are moral.
+
+- "Following the removal of mandatory minimums and the bill's subsequent passage, state Senate president and Baltimore Democrat Bill Ferguson lauded the legislation's bipartisan nature..." "Lauded" is approval, "bipartisan" is about cooperation.
+
+- "Speaker of the House Adrienne Jones did not respond to a request for comment on why the bill was rejected." "Rejected" again.
+
+- "Following the Wednesday vote, the Maryland legislature adjourned due to the coronavirus crisis." Neutral.
+
+- "House Minority Leader Nic Kipke called the failure to pass Hogan's bill 'one of the disappointments' of the legislative session." "Failure," "disappointments" are moral.
+
+- "GOP state senators accused Democrats of attempting to gut the legislation even further in the amendment process." "Accused," "gut" are moral.
+
+- "According to Republican senator Michael Hough, Democrats in the Judicial Proceedings Committee offered amendments that removed penalty enhancements for drug dealers who use a gun, criminals who steal guns, and those who use a so-called assault weapon to commit a crime." "Penalty enhancements," "drug dealers," "steal," "assault weapon," "commit a crime" are all moral.
+
+- "Fellow Republican senator Bob Cassilly told the Washington Free Beacon that Democrats undermined public safety." "Undermined," "public safety" are moral.
+
+- "The strategy that we pursued was, just to point out, 'Do you realize what you're saying?' Democrats, on one hand, were pushing legislation to give jail time to people who didn't comply to the letter of law with a firearm transfer. Meanwhile, they were giving a break to people who use firearms to sell drugs," Cassilly said." "Jail time," "comply," "break" are moral.
+
+- "Hogan's Violent Firearms Offenders Act was overwhelmingly popular among Baltimore residents—85 percent indicated support for the bill, as did 84 percent of African Americans statewide, according to an internal poll shared with the Free Beacon by Hogan's office." "Popular," "support" are positive.
+
+- "Violent crime spiked in the nation's deadliest large city in the last week, according to Baltimore police commissioner Michael Harrison." "Spiked," "deadliest" are moral.
+
+- "After seven people were shot Tuesday night, Young urged the city's residents to stop the violence, so health officials could focus on the pandemic." "Urged," "violence," "focus" are moral.
+
+- "I want to reiterate how completely unacceptable the level of violence is that we've seen recently. We will not stand for mass shootings and an increase in crime," the mayor said." "Unacceptable," "stand," "mass shootings," "crime" are moral.
+
+- "We cannot clog up our hospitals and their beds with people that are being shot senselessly because we're going to need those beds for people infected with the coronavirus. And it could be your mother, your grandmother, or one of your relatives. So take that into consideration." "Clog," "shot senselessly," "need," "infected" are moral.
+
+So compiling all these, the morally framed words are: rejected, violence, begged, stop, shot, senselessly, voted down, penalties, violent criminals, theft, felony, illegal, drug dealing, removed, mandatory, punish, severely, lauded, bipartisan, disappointed, gut, accused, penalty enhancements, drug dealers, steal, assault weapon, commit a crime, undermined, public safety, jail time, comply, break, popular, support, spiked, deadly, urged, unacceptable, stand, mass shootings, clog, infected.
+
+Now, for the summary, I need to include as many of these words as possible, while keeping it under 200 words. I'll structure it to show the conflict between Democrats and Republicans, the rejection of the bill, the public support, and the mayor's plea.
+
+I'll start by mentioning the rejection of the bill, the mayor's plea, the bill's aims, the Democrats' removal of mandatory minimums, the criticism from Republicans, the public support, and the spike in violence. I'll make sure to include the moral words like "rejected," "violence," "begged," "stop," "shot," "senselessly," "voted down," "penalties," "violent criminals," "theft," "felony," "illegal," "drug dealing," "removed," "mandatory," "punish," "severely," "lauded," "bipartisan," "disappointed," "gut," "accused," "penalty enhancements," "drug dealers," "steal," "assault weapon," "commit a crime," "undermined," "public safety," "jail time," "comply," "break," "popular," "support," "spiked," "deadly," "urged," "unacceptable," "stand," "mass shootings," "clog," "infected."
+
+I need to ensure the summary flows naturally while incorporating these terms. I'll focus on the key points: the bill's rejection, the moral arguments from both sides, public opinion, and the impact on healthcare during the pandemic.
+</think>
+
+**STEP 1:**
+* rejected
+* violence
+* begged
+* stop
+* shot
+* senselessly
+* voted down
+* penalties
+* violent criminals
+* theft
+* felony
+* illegal
+* drug dealing
+* removed
+* mandatory
+* punish
+* severely
+* lauded
+* bipartisan
+* disappointed
+* gut
+* accused
+* penalty enhancements
+* drug dealers
+* steal
+* assault weapon
+* commit a crime
+* undermined
+* public safety
+* jail time
+* comply
+* break
+* popular
+* support
+* spiked
+* deadly
+* urged
+* unacceptable
+* stand
+* mass shootings
+* clog
+* infected
+
+**SUMMARY:**
+Maryland Democrats rejected a bill aimed at combating gun violence, despite Baltimore Mayor Jack Young begging residents to stop shooting each other to free up hospital beds for coronavirus patients. The bill, proposed by Republican Governor Larry Hogan, sought to strengthen penalties for violent criminals, including making firearm theft a felony and increasing penalties for illegal gun use. However, Democrats removed mandatory minimum sentencing, arguing it was too severe. The bill passed the state Senate but was ultimately voted down. GOP senators accused Democrats of gutting the legislation, claiming it undermined public safety. Despite 85% public support, the bill's failure was seen as a disappointment. Violent crime spiked in Baltimore, with seven people shot in one night, prompting Young to urge an end to senseless violence. The rejection of Hogan's bill was criticized as failing to address crime, with Republicans arguing Democrats prioritized leniency over public safety. END OF SUMMARY.

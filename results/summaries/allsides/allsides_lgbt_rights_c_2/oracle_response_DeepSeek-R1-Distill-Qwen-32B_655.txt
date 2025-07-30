@@ -1,0 +1,12 @@
+Alright, so I'm trying to figure out how to approach this query. The user wants me to summarize a news article while preserving the moral framing the author used. They provided a list of morally framed words that should be included. 
+
+First, I'll read the article to understand the main points. It's about the Republican Party's platform on LGBT issues, Peter Thiel's speech, Donald Trump's stance, and Mike Pence's views. The author uses words like "opposes," "supports," "protect," etc., which I need to include in the summary.
+
+I need to make sure the summary is concise, under 200 words, and captures the moral aspects. I'll start by identifying the key points: the GOP's anti-LGBT platform, Thiel's mixed message, Trump's unclear position, and Pence's extreme views. 
+
+I'll structure the summary to include these points, using the specified moral terms. I'll make sure each point is clear and that the moral framing is evident. I'll also check the word count to stay within limits. 
+
+Finally, I'll present the summary after the "SUMMARY:" token and end with "END OF SUMMARY." Making sure it's all within the guidelines.
+</think>
+
+SUMMARY: The Republican Party’s 2016 platform has been criticized as the most anti-LGBT in history, opposing same-sex marriage, supporting "conversion therapy," and allowing businesses to refuse service to LGBT couples. Meanwhile, pro-LGBT Republicans, including PayPal co-founder Peter Thiel, have praised Donald Trump as the party’s most supportive candidate for the LGBT community. Thiel, in a speech at the GOP convention, expressed pride in being gay and a Republican, while also acknowledging disagreements with the party’s platform. He dismissed transgender bathroom debates as a distraction from real issues. Trump, who calls himself a "friend of the gay community," has been vague on his stance, supporting state-level decisions on same-sex marriage and backing the First Amendment Defense Act, which opposes federal recognition of same-sex unions. His vice presidential pick, Mike Pence, has been described as having "more extreme" views on LGBT rights than any modern VP nominee, opposing equal rights for LGBT individuals. The platform’s opposition to LGBT rights and its focus on restrictive policies highlight a moral conflict between support for LGBT citizens and traditionalist ideologies. END OF SUMMARY.

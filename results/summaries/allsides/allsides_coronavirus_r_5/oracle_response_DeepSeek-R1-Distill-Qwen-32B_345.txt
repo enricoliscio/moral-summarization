@@ -1,0 +1,12 @@
+Okay, I need to help the user by summarizing this news article while preserving the moral framing. The user provided the article and a list of morally framed words. My task is to create a concise summary using as many of those words as possible without exceeding 200 words.
+
+First, I'll read through the article to understand the main points. The author argues that the lockdown isn't just a health vs. economy issue but also health vs. health. They mention various negative consequences like increased suicides, missed cancer screenings, and economic disparities leading to health issues.
+
+I need to highlight the moral implications, so I'll focus on words like'reopen', 'consequences', 'devastate', 'die','suicide', 'efforts', etc. I should structure the summary to show that reopening is necessary despite risks, emphasizing the health consequences of not reopening.
+
+I'll start by stating the author's main argument, then list the negative impacts, mention the scientific data supporting reopening, and conclude with the call for responsible decisions and respect for workers.
+
+I should ensure the summary flows logically and includes the key morally framed words. Let me draft it step by step, making sure each sentence contributes to the moral argument and stays within the word limit.
+</think>
+
+SUMMARY: The author argues that reopening the economy is essential, as the lockdown has caused significant health consequences beyond the pandemic, including spiking suicide rates, delayed cancer screenings, and missed vaccinations. Economic disparities have worsened, with low-income workers disproportionately affected, and studies suggest that economic inequality leads to worse health outcomes. The article highlights the moral imperative to ease restrictions, as many areas are safe to reopen based on scientific data. The author emphasizes that workers, who face risks to their health and livelihoods, deserve respect and sympathy, not judgment. The goal should be to manage the virus prudently while allowing people to choose to take risks responsibly. END OF SUMMARY.

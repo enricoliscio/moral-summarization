@@ -1,0 +1,47 @@
+Okay, so I'm trying to help the user with their query. They provided a news article and specific instructions on how to process it. The task has two main parts: first, identifying all the morally framed words, and second, summarizing the article while preserving those moral terms.
+
+Starting with the first step, I need to go through the article and pick out words that carry moral connotations. These are words that express approval or disapproval, like "rigged," "fraud," or "violence." I should list each of these words, each on a new line, prefixed with an asterisk.
+
+Next, for the summary, I have to condense the article into a concise version, making sure to include as many of those morally charged words as possible. The summary should be no longer than 200 words and should end with the specified tokens.
+
+I should be careful to maintain the moral framing the author used. This means keeping terms that highlight the unethical actions, like "rigged elections," "fraud," "intimidation," and "sanctions." I also need to balance the perspectives from both the West and African nations, showing the split in their reactions.
+
+I'll start by reading through the article again to identify key points: Mugabe's election win, accusations of fraud, Western criticism, African support, economic issues, and the internal conflict within Zimbabwe. Then, I'll structure the summary to cover these points succinctly, ensuring each morally framed word is included where appropriate.
+
+I also need to make sure the summary flows well and covers all essential aspects without exceeding the word limit. I'll check each sentence to ensure it's concise and that the moral terms are preserved to reflect the original article's tone.
+
+Finally, I'll review both the list of morally framed words and the summary to ensure accuracy and adherence to the user's instructions. This way, the user gets a clear, morally framed summary that meets their requirements.
+</think>
+
+### STEP 1:  
+* rigged  
+* fraud  
+* manipulation  
+* violence  
+* intimidation  
+* despondent  
+* robbed  
+* flawed  
+* sanctions  
+* campaign of violence  
+* transparent  
+* credible  
+* fair  
+* legitimate  
+* administrative oversight  
+* confrontation  
+* treason charges  
+* trumped up  
+* constitutionally acceptable  
+* illegal  
+* revolution  
+* imploded  
+* unemployment  
+* inflation  
+* refugees  
+
+---
+
+### SUMMARY:  
+Robert Mugabe won Zimbabwe's contested elections, with 56% of the vote, amid accusations of rigging, fraud, and intimidation. Western leaders, including George W. Bush, condemned the election as flawed and refused to recognize the results, while African nations, such as South Africa, supported Mugabe's victory as legitimate. Morgan Tsvangirai, the opposition leader, called the election a "daylight robbery" and denied defeat. Zimbabwe's economy is in crisis, with high unemployment and inflation, raising concerns about regional stability and potential refugee flows. The split between Western criticism and African support highlights the tension over Mugabe's rule.  
+END OF SUMMARY.

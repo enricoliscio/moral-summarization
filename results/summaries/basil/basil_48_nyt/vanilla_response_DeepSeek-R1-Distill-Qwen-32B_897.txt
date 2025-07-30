@@ -1,0 +1,26 @@
+Alright, so I'm trying to help this user who wants me to summarize a news article. Let me read through the query again to make sure I understand what's needed.
+
+The user is a news summarizer assistant, and they have provided a detailed news article about Elizabeth Lauten, a Republican aide who resigned after making controversial comments on Facebook about the Obama daughters. The task is to summarize this article in 200 words or less, starting with "SUMMARY:" and ending with "END OF SUMMARY."
+
+First, I need to identify the key points of the article. The main events are:
+
+1. Elizabeth Lauten, a Republican congressional aide, resigned after her Facebook post about the Obama daughters went viral.
+2. She criticized the daughters for their attitude and outfits during the White House turkey pardon.
+3. The post was widely shared, leading to public backlash.
+4. She apologized but was already forced to resign.
+5. The incident highlights the risks of social media criticism, especially towards prominent figures' children.
+
+I should structure the summary to include these points concisely. I need to mention who she is, her criticism, the reaction, her resignation, and the broader implication about social media.
+
+I also need to keep the language clear and straightforward, avoiding any markdown or formatting. The summary should be under 200 words, so I'll have to be concise but informative.
+
+Let me draft the summary, making sure to include all the key elements without going into too much detail. I'll start with her resignation, then her criticism, the viral nature of the post, her apology, the resignation, and the cautionary tale aspect.
+
+I should also mention the context of the White House turkey pardon and the daughters' appearance to give background. However, since the summary is short, I might not need to go into their exact outfits unless it's crucial.
+
+Wait, the user provided a sample response, so I can use that as a reference. It's important to match the structure and ensure all critical points are covered without exceeding the word limit.
+
+I think I have a good grasp of what's needed. Time to put it all together in a clear, concise manner.
+</think>
+
+SUMMARY: A young Republican congressional aide, Elizabeth Lauten, resigned after her critical Facebook post about President Obama’s daughters, Sasha and Malia, went viral. Lauten criticized the girls for their attitude and outfits during the annual White House turkey pardon, suggesting they should "show a little class" and dress more respectfully. Her comments were widely shared, sparking backlash and leading to her resignation as communications director for Representative Stephen Fincher. Lauten later apologized, acknowledging she had "judged the two young ladies in a way that I would never have wanted to be judged myself as a teenager." The incident highlights the risks of social media criticism, particularly toward the children of prominent figures. END OF SUMMARY.

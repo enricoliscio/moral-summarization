@@ -1,0 +1,19 @@
+<think>
+Okay, so I need to help the user by summarizing a news article while preserving the moral framing. First, I should understand the user's query. They want me to act as a news summarizer and a moral expert. The task has two steps: first, identify all the single words that are morally framed, and then write a summary preserving those words.
+
+Looking at the article, it's about President Trump considering Joe Lieberman as the new FBI director. I need to find words that carry moral connotations. Words like "contender," "unlikely," "frontrunner," "endorsed," "mistake," "intriguing," and "career politician" seem to have moral implications. These words are used to evaluate Lieberman's suitability or the decision's wisdom.
+
+Now, for the summary, I have to make sure to include these morally framed words. I'll start by mentioning Trump being close to naming a new director and Lieberman as the leading contender. Then, I'll note Lieberman's background and the mixed reactions from senators, including the criticism that it's a mistake and the intrigue from some Republicans. I should also mention Schumer's point about not wanting a career politician. I'll keep the summary concise, under 200 words, and make sure it flows naturally while preserving the moral elements.
+</think>
+
+**STEP 1:**  
+* contender  
+* unlikely  
+* frontrunner  
+* endorsed  
+* mistake  
+* intriguing  
+* career politician  
+
+**SUMMARY:**  
+President Trump is close to naming a new FBI director, with former Democratic Sen. Joe Lieberman as the leading contender. Lieberman, a politically independent figure with a controversial history, met with Trump to discuss the role. While some Republicans find the idea intriguing, others, like Sen. Claire McCaskill, argue it would be a mistake. Lieberman, who has endorsed both Hillary Clinton and John McCain, has a complex political background. Senate Majority Whip John Cornyn suggested Lieberman could gain bipartisan support, but Schumer criticized the idea of a "career politician" leading the FBI. END OF SUMMARY.

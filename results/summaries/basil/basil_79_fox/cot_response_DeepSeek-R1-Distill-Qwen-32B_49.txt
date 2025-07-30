@@ -1,0 +1,36 @@
+Okay, so the user has given me a query where I need to act as a news summarizer assistant and a moral expert. The task is to summarize a news article while preserving the moral framing. The user has specified two steps: first, identifying all single words that are morally framed, and second, writing a summary that includes as many of these words as possible.
+
+I need to start by understanding the article. It's about President Trump commenting on the criminal case against Michael Flynn. Trump is comparing Flynn's situation to Hillary Clinton's, suggesting a double standard. He mentions that both lied to the FBI, but only Flynn faced consequences. There are elements of unfairness, lying, consequences, and double standards here.
+
+For step one, I need to identify all the single words that carry moral connotations. Let me go through the article again. Words like "unfair," "lied," "consequences," "destroyed," "ruined," "double standard," "extremely careless," " peril," "shame," "obstruction of justice," "accused," "dishonesty," "hypocrisy," "unjust," and "unfairly" come to mind. These words are used to frame the situation morally, so I should list them each with a star.
+
+Next, the summary needs to be concise, under 200 words, and include as many of these moral words as possible. I should focus on the key points: Trump's comments, the comparison to Clinton, the consequences for Flynn, the double standard, and the potential obstruction of justice allegations. I also need to mention the political implications and the ongoing investigation.
+
+I should structure the summary to highlight the moral framing. Start by stating Trump's view on the case being unfair. Mention the comparison to Clinton, the consequences faced by Flynn, and the double standard. Then, touch on the legal implications, including obstruction of justice and the ongoing Mueller investigation. Conclude by noting the political and legal stakes involved.
+
+I need to make sure the summary flows well and includes all the key moral points without being too verbose. Let me draft it, ensuring each sentence incorporates the moral language where appropriate.
+</think>
+
+**STEP 1:**
+
+* unfair  
+* lied  
+* consequences  
+* destroyed  
+* ruined  
+* double standard  
+* extremely careless  
+* peril  
+* shame  
+* obstruction of justice  
+* accused  
+* dishonesty  
+* hypocrisy  
+* unjust  
+* unfairly  
+
+**SUMMARY:**  
+
+President Trump criticized the criminal case against Michael Flynn, calling it "very unfair," and compared it to Hillary Clinton's treatment after lying to the FBI. Flynn, who pleaded guilty to lying about his Russia contacts, faced severe consequences, while Clinton faced none despite allegedly "lying many times." Trump accused the justice system of a "double standard," suggesting Flynn's life was "destroyed" while Clinton escaped repercussions. Trump's comments and tweets on the matter have drawn scrutiny, with legal experts warning they could implicate him in obstruction of justice. Trump denied asking former FBI Director James Comey to stop investigating Flynn, but his tweets have raised questions about his knowledge of Flynn's lies. Flynn is now cooperating with Special Counsel Robert Mueller's investigation into Russian interference in the 2016 election, though it remains unclear what he might reveal. The situation highlights political and legal tensions, with accusations of hypocrisy and injustice swirling around the case.  
+
+**END OF SUMMARY.**

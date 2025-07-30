@@ -1,0 +1,22 @@
+Okay, I need to help the user by summarizing the given news article. They specified that I should preserve the moral framing the author used. First, I'll read through the article carefully to understand the main points.
+
+The article is about Rev. Raphael Warnock accusing Georgia's Secretary of State, Brian Kemp, of voter suppression. Warnock is associated with the New Georgia Project, which is involved in registering minority voters. Kemp's office is investigating fraud in their registration drive. 
+
+I notice that the author frames this as a moral issue, comparing Kemp's actions to voter suppression tactics from the past, like the Ku Klux Klan. This is a strong moral statement, so I need to include that in the summary.
+
+Kemp's side is presented as investigating fraud, which he considers serious. He's trying to process valid registrations but is being accused of overreach. The New Georgia Project claims innocence and accuses Kemp of abusing power, which is another moral angle.
+
+The article also mentions the political stakes, with a tight race for the Senate seat. This context is important because it shows why this issue is so contentious.
+
+I need to keep the summary under 200 words, so I'll focus on the key points: Warnock's accusation, Kemp's investigation, the claims of fraud, the political implications, and the moral framing on both sides.
+
+I'll structure the summary to include both perspectives but highlight the moral aspects. Make sure to mention the historical reference to voter suppression and the accusations of witch hunts or power abuse.
+
+Let me draft the summary, ensuring it's concise and captures the moral elements without bias. I'll start with Warnock's statement, then Kemp's response, the investigation details, the political context, and the accusations from both sides. Finally, I'll note Kemp's defense and the ongoing conflict.
+
+I should check the word count to stay within the limit. Make sure each sentence is clear and adds value without unnecessary details. Also, end with the required tokens as specified.
+</think>
+
+SUMMARY:  
+Rev. Raphael Warnock, pastor of Atlanta's Ebenezer Baptist Church, accused Georgia Secretary of State Brian Kemp of voter suppression during a fraud investigation into the New Georgia Project, a voter registration drive aimed at minority voters. Warnock compared Kemp's actions to historical voter suppression tactics, drawing parallels to the Ku Klux Klan. Kemp's office is investigating 28 cases of alleged fraud, including forged signatures and false information, in the project's efforts to register over 100,000 voters. Kemp defended the investigation as necessary to ensure election integrity, calling the allegations "very serious." The New Georgia Project, led by Rep. Stacey Abrams, denied any wrongdoing, labeling the investigation a "witch hunt" and "abuse of power." Abrams accused Kemp of intimidating minority voters, while Kemp claimed his office was not blocking registrations and emphasized his commitment to processing valid applications. The politically charged issue has heightened tensions, with the race for the U.S. Senate seat in Georgia proving narrowly competitive. Warnock and Abrams criticized Kemp's actions as part of a broader pattern of voter suppression, while Kemp insisted his investigation was lawful and necessary.  
+END OF SUMMARY.

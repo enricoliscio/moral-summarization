@@ -1,0 +1,16 @@
+<think>
+Okay, so I need to help the user by summarizing the given news article while preserving the moral framing. Let me start by understanding the task. The user wants a summary that includes as many of the morally charged words as possible. The article is about Chicago's record-high homicides and gun violence, so the moral aspects are clear: violence, crime, fear, etc.
+
+First, I'll read through the article to get the main points. It mentions 762 homicides, which is the highest in two decades. The city saw a significant increase in shootings and illegal guns. The police superintendent, Eddie Johnson, points out the influx of illegal guns and the lack of deterrents. He also mentions that criminals feel emboldened because the consequences are light compared to other cities. The violence is concentrated in poor, predominantly black areas, and the city is trying to address it with more officers and surveillance.
+
+Now, I need to make sure the summary includes the morally framed words provided. I'll list them out: homicides, shooting, bloodshed, violence, shootings, death, flood, attacks, anger, emboldened, crimes, fear, deterrent, stealing, deaths, surged, expansion, arrests, drive, shot, drop, seizures, fighting, crime, reluctant, killed, charged, kill, stops, activity.
+
+I'll structure the summary to cover the key points, using as many of these words as possible without making it sound forced. I should mention the record homicides, the increase in shootings, the illegal guns, the emboldened criminals, the lack of deterrent, the affected areas, and the city's response.
+
+I'll also need to keep it under 200 words. Let me draft a concise version, ensuring the moral framing is preserved. I'll check each sentence to see if it includes the necessary terms and conveys the gravity of the situation.
+
+Finally, I'll make sure the summary starts with "SUMMARY:" and ends with "END OF SUMMARY." without any markdown. I'll review it to ensure it flows well and accurately reflects the article's content and moral perspective.
+</think>
+
+SUMMARY:  
+Chicago ended 2016 with a record 762 homicides, the highest in two decades, surpassing New York and Los Angeles combined. The city also saw a surge in shooting incidents, with 1,100 more than in 2015. The bloodshed has sparked national dialogue on gun violence, as illegal guns flood the city. Police recovered 8,300 illegal firearms in 2016, a 20% increase. Chicago Police Superintendent Eddie Johnson linked the violence to anger at police, emboldening criminals, and a lack of deterrents. Gangs in poor, predominantly black areas on the South and West sides accounted for most deaths and shootings. Johnson criticized Illinois' lax gun laws and noted criminals view the justice system as a "joke." The city added 1,000 officers and introduced initiatives like street cameras and gunshot-detection systems to curb violence. However, critics argue police have become reluctant to act since the Laquan McDonald shooting incident, fearing scrutiny. Johnson acknowledged officers' caution, citing a state law requiring detailed contact cards, which has reduced stops. Criminals exploit this perceived weakness, leading to a surge in nefarious activity. END OF SUMMARY.

@@ -1,0 +1,51 @@
+<think>
+Alright, let's tackle this query. The user wants me to act as a news summarizer and a moral expert. They provided a news article about Sandy and the debate over the government's role. My task is to first identify all the morally framed single words and then write a summary preserving those moral frames.
+
+First, I'll read through the article to understand the context. It's about how Obama and Romney approach disaster relief differently—Obama emphasizes federal government involvement, while Romney focuses on local efforts and private initiatives.
+
+For step one, I need to find all the single words that carry moral implications. I'll go through each paragraph and pick out words that relate to values, responsibilities, or criticisms. Words like "help," "stand," "behind," "everything," "critical," "faith," "voluntary," "virtue," "individual," "responsibility," "clean," "job," "done," "substitute," "decentralized," "direction," "right," "private," "sector," "better," "clashed," "promised," "deliver," "praise," "outstanding," "personal," "attention," "Democrats," "borrowing," "jeopardize," "future," "chopping," "block," "ignoring," "touring."
+
+Next, I'll write the summary. I need to include as many of these moral words as possible while keeping it concise. I'll start by stating the debate between Obama and Romney, highlighting their differing approaches. Then, I'll mention Romney's example and his past comments on decentralization. I'll note Obama's actions and the positive response from Gov. Christie. Finally, I'll touch on the political implications, especially Romney's stance on FEMA funding and the contrast in their approaches.
+
+I need to ensure the summary is under 200 words and flows naturally, preserving the moral framing without making it too verbose. I'll make sure each point is clear and ties back to the moral aspects highlighted in the original article.
+</think>
+
+**STEP 1:**  
+* help  
+* stand  
+* behind  
+* everything  
+* critical  
+* faith  
+* voluntary  
+* virtue  
+* individual  
+* responsibility  
+* clean  
+* job  
+* done  
+* substitute  
+* decentralized  
+* direction  
+* right  
+* private  
+* sector  
+* better  
+* clashed  
+* promised  
+* deliver  
+* praise  
+* outstanding  
+* personal  
+* attention  
+* Democrats  
+* borrowing  
+* jeopardize  
+* future  
+* chopping  
+* block  
+* ignoring  
+* touring  
+
+**SUMMARY:**  
+The aftermath of Sandy has reignited the debate over the role of government in disaster relief. President Obama emphasized the federal government's critical role, offering tangible assistance and pledging to "do everything" to help affected communities. In contrast, Mitt Romney highlighted the virtue of individual and local efforts, using a parable about cleaning a football field to illustrate the power of decentralized action. Romney has previously argued that disaster relief should be decentralized, with responsibilities returning to states and the private sector. However, Obama has taken steps to streamline federal response, ensuring states have the support they need. Republican Gov. Chris Christie praised Obama's federal response, despite New Jersey's reliably Democratic leanings. Meanwhile, Romney has avoided discussing FEMA funding, even as his past comments about cutting federal spending raise questions about his approach to disaster relief. Obama will continue to advocate for an active federal role, touring storm-hit areas to emphasize federal support. END OF SUMMARY.

@@ -1,0 +1,16 @@
+<think>
+Okay, I need to help the user by summarizing the given news article while preserving the moral framing. First, I'll read through the article to understand the main points. The article discusses the murder of four Marines in Tennessee, the political reactions, and the context of terrorism and policy debates.
+
+I should identify the morally charged words the author used, like "murder," "terrorism," "killing," etc. These words are crucial to maintaining the article's moral tone. I'll need to include as many of these as possible in the summary without making it too long.
+
+The summary should start by mentioning President Obama's response and the political blame from Republicans. Then, it should touch on the debate over gun policies at military facilities. I'll also need to include the FBI's identification of the gunman and the context of domestic terrorism.
+
+I should also note the ongoing debate in Congress about the threat from radical Islamic terrorism versus other domestic threats, as this adds to the moral framing. It's important to highlight the political divide and the implications for policy.
+
+I need to keep the summary concise, under 200 words, so I'll focus on the key events and the moral language used. I'll structure it to flow logically from the event, political reactions, investigation details, and the broader policy debate.
+
+Finally, I'll ensure that the summary ends with the "END OF SUMMARY." token as specified. I'll review the summary to make sure it captures all the essential moral elements and stays within the word limit.
+</think>
+
+SUMMARY:  
+President Obama called the murder of four Marines in Tennessee "heartbreaking," urging Americans not to jump to conclusions, while Republicans blamed him for what they labeled as domestic terrorism. Louisiana Gov. Bobby Jindal accused Obama of failing to confront the threat of radical Islamic terrorism, claiming it is "at war" with the U.S. The shooting, which investigators labeled as domestic terrorism, has become a focal point in the 2016 presidential campaign. The gunman, Mohammad Youssuf Abdulazeez, killed four Marines at a Navy facility and was later identified as a U.S. citizen with ties to extremist ideologies. The incident reignited debates over gun policies at military facilities and the growing threat of lone-wolf attacks. Democrats argued that white supremacists and anti-government extremists pose a greater danger than radicalized Muslims, while Republicans emphasized the need to counter the "evil" of jihadist ideology. The attack also highlighted the ongoing federal efforts to combat Islamic State supporters in the U.S., with 62 individuals charged in 2014 and 2015 for planning attacks or providing support. The shooting underscored the political divide over how to address terrorism and the need for transparency in investigating such acts. END OF SUMMARY.

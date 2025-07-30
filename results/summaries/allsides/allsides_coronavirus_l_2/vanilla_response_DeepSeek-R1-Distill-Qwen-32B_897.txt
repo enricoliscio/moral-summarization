@@ -1,0 +1,16 @@
+Okay, so the user has given me a query where I need to act as a news summarizer. They provided an article about COVID-19 and school reopenings. The task is to summarize it concisely, within 200 words, using specific tokens. 
+
+First, I need to understand the main points of the article. It starts by stating that severe COVID-19 in children is rare, comparing it to influenza. The article argues that schools shouldn't close just because of COVID-19, similar to how they don't close for flu. The key factor is community control of the virus through the three Ws and other measures.
+
+Then, it mentions CDC guidelines for reopening schools, tailored to each locality. It lists eight safety measures: shielding vulnerable groups, reducing risks by modifying school activities, and stopping certain high-risk activities like large choirs. Team sports might be too risky, but recess and PE can continue with precautions.
+
+I need to condense all this into a summary under 200 words. I should focus on the main ideas: the rarity of severe COVID-19 in kids, comparison to flu, community control being key, CDC guidelines, and the eight safety measures. I need to make sure it's clear and concise, avoiding unnecessary details.
+
+I'll start by stating the main point about severe cases being rare. Then, mention the comparison to influenza and school closures. Highlight the importance of community control and the three Ws. Then, note the CDC guidelines and the eight measures, briefly listing them. Make sure to end with the key takeaway about balancing safety and education.
+
+I should check the word count to ensure it's under 200. Also, make sure to use the tokens correctly: starting with SUMMARY: and ending with END OF SUMMARY. I'll structure the summary to flow logically, from the problem to the solutions and guidelines.
+
+Alright, putting it all together now.
+</think>
+
+SUMMARY: Severe COVID-19 illness in children is rare, with the risk of death being much lower than for older adults. While rare inflammatory syndromes can occur, similar to influenza, schools typically remain open despite the risks. The key to safe school reopening lies in community control of the virus through masking, handwashing, distancing, and strategic measures like testing and isolation. The CDC has provided guidelines for reopening schools, which should be adapted to local conditions. In areas with explosive virus spread, in-person schooling may be challenging. Otherwise, schools should follow eight safety measures: shielding vulnerable individuals, reducing risks by modifying activities like assemblies and cafeteria use, and stopping high-risk activities like large choir rehearsals. Team sports may be too risky, but recess and PE can continue outdoors with precautions. Balancing safety and education is essential. END OF SUMMARY.

@@ -1,0 +1,45 @@
+Okay, I need to help the user by summarizing the news article while preserving the moral framing. First, I should understand the task. The user wants me to identify all the morally framed single words in the article and then write a concise summary using as many of those words as possible.
+
+Starting with STEP 1, I'll go through the article to find words that carry moral connotations. Words like "hostage," "chaos," "uncertainty," "non-starter," "untenable," "pointless," "crisis," "unfair," "unjust," "unacceptable," "unreasonable," "weakness," "strength," "fair," "reasonable," "compromise," "good faith," "obstruction," "senseless," "harm," "unjustifiable," "unfair," "unjust," "unethical," "immoral," "unconscionable," "unjustifiable," "unfair," "unjust," "unethical," "immoral," "unconscionable," "unjustifiable," "unfair," "unjust," "unethical," "immoral," "unconscionable." I'll list each on a new line with a *.
+
+Next, for the summary, I need to condense the article into 200 words, keeping the moral language intact. The article is about Trump's immigration proposal causing a shutdown. Democrats are upset, calling it hostage-taking and unfair. Republicans support it, seeing it as a compromise. I'll highlight the main points: Trump's offer, Democratic criticism, Republican support, and the impact on workers and the economy.
+
+I should ensure the summary flows well and includes the key moral terms identified. I'll start by stating Trump's proposal, then the Democratic reactions, followed by Republican support, and conclude with the implications of the shutdown. Keeping it concise and within the word limit is crucial.
+
+I need to make sure the summary captures the essence of both sides' arguments and the moral framing each uses. This way, the summary will be informative and reflect the original article's moral perspective.
+</think>
+
+**STEP 1:**
+
+* Hostage  
+* Chaos  
+* Uncertainty  
+* Non-starter  
+* Untenable  
+* Pointless  
+* Crisis  
+* Unfair  
+* Unjust  
+* Unacceptable  
+* Unreasonable  
+* Weakness  
+* Strength  
+* Fair  
+* Reasonable  
+* Compromise  
+* Good faith  
+* Obstruction  
+* Senseless  
+* Harm  
+* Unjustifiable  
+* Unfair  
+* Unjust  
+* Unethical  
+* Immoral  
+* Unconscionable  
+
+**SUMMARY:**  
+
+President Trump proposed a compromise to end the government shutdown, offering a three-year DACA extension in exchange for $5.7 billion for a border wall. Democrats criticized the plan, calling it "hostage-taking" and "unfair," accusing Trump of exploiting federal workers and creating unnecessary chaos. House Speaker Nancy Pelosi and Senate Minority Leader Chuck Schumer demanded the government reopen before negotiations. Democrats argued the proposal was "one-sided" and "unjust," as it only provided temporary solutions for Dreamers and TPS recipients. Republican leaders, however, praised the plan as a "fair compromise" and urged Democrats to negotiate. Senate Majority Leader Mitch McConnell described it as a "bipartisan approach" to reopening the government. The shutdown, which left 800,000 federal workers without pay, was widely condemned as "senseless" and "harmful" to the economy and American families. Democrats and Republicans remained divided, with Democrats insisting on a permanent solution for immigration reform and Republicans supporting the wall funding. The impasse continued, with both sides accusing the other of obstruction and refusing to compromise.  
+
+**END OF SUMMARY.**

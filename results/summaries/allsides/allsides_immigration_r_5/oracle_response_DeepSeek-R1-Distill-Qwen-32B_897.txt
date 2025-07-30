@@ -1,0 +1,13 @@
+<think>
+Okay, so I need to help the user by summarizing a news article while preserving the moral framing. Let me start by reading the article carefully. The article is about former President Obama criticizing Trump for ending the DACA program. He uses strong moral language like "cruel," "lacking basic decency," and describes the decision as "contrary to our spirit." 
+
+I notice the user provided a list of morally framed words that need to be included in the summary. I should make sure to incorporate as many of these as possible without making the summary too long. The words are: lacking, scrambles, target, selfdefeating, serve, love, send, action, decision, threaten, helps, wear, gave, kicking.
+
+First, I'll outline the main points: Obama criticizes Trump for ending DACA, calls it cruel and lacking decency, argues Dreamers pose no threat and contribute positively, questions where they would be sent, and states it's a political decision with moral implications.
+
+Now, I'll structure the summary, making sure to include the key moral terms. I'll start by mentioning Obama's criticism, use "lacking" and "cruel." Then, I'll explain the DACA recipients' contributions, using "serve," "love," and "helps." I'll address the moral question and the political decision, including "action" and "decision." Finally, I'll touch on the consequences, using "threaten" and "kicking."
+
+I need to keep it under 200 words and make sure the flow is logical. I'll also ensure that the summary starts after the "SUMMARY:" token and ends with "END OF SUMMARY." Let me draft it now, making sure each sentence includes the necessary moral terms without being redundant.
+</think>
+
+SUMMARY: Former President Obama criticized President Trump for ending the Deferred Action for Childhood Arrivals (DACA) program, calling the decision "cruel" and "lacking basic decency." He argued that DACA recipients, or "Dreamers," pose no threat and contribute positively to society, serving in roles like teachers, first responders, and military cadets. Obama questioned the morality of targeting these young people, asking where they would be sent—often to countries they no longer know. He emphasized that the decision was not legally required but a political choice with moral implications. Obama warned that kicking them out would not solve economic issues and urged compassion, highlighting their role in contributing to the country they love. He described the action as "self-defeating" and urged Americans not to threaten their future, as they are part of the community and have been given a chance to serve. END OF SUMMARY.

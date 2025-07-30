@@ -1,0 +1,26 @@
+Alright, I need to help the user by summarizing the provided news article while preserving the moral framing. The user has specified two main steps: first, identifying morally framed single words, and second, writing a concise summary that includes those words.
+
+Starting with STEP 1, I'll go through the article to pick out words that carry moral connotations. Words like "freedom," "justice," "anxiety," "discrimination," "protection," "dignity," "respect," "equality," and "rights" stand out because they relate to moral values and ethical issues.
+
+Next, for the summary, I need to condense the article into under 200 words, making sure to include the identified moral terms. The article is about Jim Obergefell reflecting on past victories for LGBTQ+ rights and the ongoing challenges, particularly regarding employment discrimination cases before the Supreme Court. He emphasizes the need for comprehensive protections beyond just employment and the importance of state legislation, like the proposed bill in Ohio.
+
+I'll structure the summary to highlight his experiences, the current legal battles, the lack of protections in many states, and the call to action for lawmakers and the community. I'll ensure that the moral terms are integrated naturally to maintain the article's ethical framing.
+
+Finally, I'll make sure the summary flows well and covers all key points without exceeding the word limit. It should reflect the urgency and hope expressed in the original text, encouraging continued advocacy for equality.
+</think>
+
+**STEP 1:**
+* freedom  
+* justice  
+* anxiety  
+* discrimination  
+* protection  
+* dignity  
+* respect  
+* equality  
+* rights  
+
+**SUMMARY:**  
+Jim Obergefell, the plaintiff in the landmark Obergefell v. Hodges case, reflects on the progress made for LGBTQ+ rights while emphasizing the ongoing need for protections against discrimination. He highlights the threat of discrimination in employment and the importance of the Supreme Court ruling in favor of LGBTQ+ individuals in upcoming cases. Obergefell notes that while a victory in these cases would be significant, comprehensive nondiscrimination laws are still needed in areas like housing, health care, and public spaces. He calls on lawmakers, particularly in states like Ohio, to pass bipartisan legislation to ensure equality and dignity for all. The fight for LGBTQ+ rights continues, and Obergefell urges everyone to advocate for justice and fairness, ensuring that all individuals can thrive without fear of discrimination.  
+
+END OF SUMMARY.

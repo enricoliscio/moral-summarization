@@ -1,0 +1,19 @@
+<think>
+Alright, I need to help the user by summarizing the given news article while preserving the moral framing. The user specified that I should act as a news summarizer and a moral expert, so I need to focus on the ethical issues presented in the article.
+
+First, I'll read through the article to understand the main points. It's about the Zimbabwean election, the fear of violence, and the concerns about election integrity. Mugabe is the incumbent, and Tsvangirai is the challenger. There's a lot of tension, with fears of civil war and political violence.
+
+I notice the article mentions that Mugabe's party might rig the election, which is a moral issue because it's undemocratic. The violence against MDC supporters is another ethical concern. Also, the government's actions, like revising election laws and intimidating voters, highlight a lack of fairness and justice.
+
+The moral framing here emphasizes the potential for a breakdown of democracy and the suffering of the people. I should make sure the summary reflects these ethical concerns without adding my own opinions, just presenting the facts as they relate to morality.
+
+I'll structure the summary to include the key points: the fear of violence, the possibility of election rigging, the impact on democracy, and the human rights concerns. I need to keep it concise, under 200 words, and make sure it's clear and captures the moral implications.
+
+I should avoid technical jargon and keep the language straightforward. Also, I need to ensure that the summary starts after the "SUMMARY:" token and ends with "END OF SUMMARY." without any markdown formatting.
+
+Let me draft the summary, making sure each sentence touches on the moral aspects, like the threat to democracy, human rights violations, and the potential for civil war. I'll check the word count to stay within the limit.
+
+Finally, I'll review the summary to ensure it accurately reflects the article's moral framing and that all key points are included without unnecessary details.
+</think>
+
+SUMMARY: Zimbabweans approach the weekend's election with deep fears of violence and instability, as the contest between long-time leader Robert Mugabe and challenger Morgan Tsvangirai raises concerns about democratic integrity and potential civil conflict. Mugabe's ruling ZANU-PF party has been accused of revising election laws and procedures to rig the vote, while Tsvangirai's Movement for Democratic Change (MDC) faces intimidation, abductions, and deadly violence. Senior government officials and military leaders have openly threatened to oppose a Tsvangirai victory, with one official stating support for a coup if necessary. Observers warn that Mugabe's government may resort to undemocratic measures to retain power, including deploying troops and disenfranchising urban voters. The election is seen as a clash between an aging autocrat and a restless opposition, with fears of post-election chaos if either side rejects the results. Tsvangirai has vowed not to prosecute Mugabe if elected, but analysts warn that Mugabe may jail him to cling to power. The situation underscores the fragility of democracy in Zimbabwe and the high stakes for its people. END OF SUMMARY.

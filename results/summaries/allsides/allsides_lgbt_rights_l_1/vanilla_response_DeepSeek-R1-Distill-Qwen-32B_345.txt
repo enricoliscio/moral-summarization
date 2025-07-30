@@ -1,0 +1,14 @@
+Okay, so the user has given me a task to summarize a news article about Reddit shutting down communities. They want the summary to be concise, under 200 words, and to follow a specific format with "SUMMARY:" and "END OF SUMMARY." tokens.
+
+First, I need to read through the article carefully to understand the main points. The article talks about Reddit closing over 2,000 communities due to hate speech, especially in the context of ongoing equality protests. It mentions specific subreddits like "The_Donald," "Gender Critical," and "CapoTrapHouse." These communities were problematic because they broke Reddit's content policies, such as promoting hate speech and not adhering to rules despite warnings.
+
+I should note the reasons for the shutdown: consistent rule-breaking, refusal to meet expectations, and promotion of hate speech. Also, the article mentions that this move follows brands boycotting Facebook over hate speech, led by civil rights groups. Reddit's statement emphasizes their responsibility to enforce policies and support their communities by taking stronger action.
+
+I need to condense all this into a summary that's clear and within the word limit. I'll start by stating the action Reddit took, the number of communities affected, and the reasons. Then, I'll mention the specific subreddits and the broader context of brands boycotting Facebook. Finally, I'll include Reddit's commitment to enforcing policies against hate speech.
+
+I should make sure the summary flows well and covers all key points without being too detailed. Also, I need to avoid any markdown and keep it in plain text as per the user's instructions.
+</think>
+
+SUMMARY:  
+Reddit has shut down over 2,000 communities, including "The_Donald," "Gender Critical," and "CapoTrapHouse," for violating its content policies, particularly for promoting hate speech. The move follows growing protests for gender, racial, and LGBTQ+ equality and comes after brands boycotted Facebook over hate speech. These communities were banned for consistently hosting rule-breaking content, antagonizing others, and failing to meet basic expectations. "The_Donald," for instance, was known for extreme political ideas and hate speech, while "Gender Critical" promoted anti-trans rhetoric. Reddit emphasized its responsibility to enforce policies and support communities by taking stronger action against hate speech, with this purge being the start of broader efforts to curb such content.  
+END OF SUMMARY.

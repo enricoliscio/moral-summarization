@@ -1,0 +1,35 @@
+Alright, so I'm trying to figure out how to approach this query. The user has provided a news article and specific instructions on how to summarize it. They want me to act as a news summarizer and a moral expert, preserving the moral framing from the original text.
+
+First, I need to understand the task. They have two main steps: identifying morally framed words and then summarizing the article while keeping those moral terms. 
+
+Looking at the article, it's about the US State Department's Human Rights Report being criticized by other countries. The author uses strong language to convey disapproval, so I need to pick out words that carry moral judgment. Words like "criticized," "condemned," "inaccurate," "lacking good will," etc., are likely candidates.
+
+Next, for the summary, I have to condense the article into under 200 words, making sure to include as many of those moral terms as possible. The summary should reflect the author's perspective, which is critical of the US report. I'll need to mention the criticisms from various countries, the report's inaccuracies, and the hypocrisy of the US focusing on others while ignoring their own issues. Also, including specific examples like the murder rate, torture, and the treatment of prisoners will strengthen the moral framing.
+
+I should structure the summary to first state the criticism, then explain why it's inaccurate, mention the hypocrisy, and conclude with the global reaction. Keeping it concise but comprehensive is key. I'll make sure each point flows logically and maintains the moral tone from the original article.
+
+Finally, I'll double-check to ensure I've included all the necessary morally framed words and that the summary accurately reflects the author's viewpoint without adding any new information. It's important to stay within the word limit and present the summary clearly.
+</think>
+
+**STEP 1:**  
+* Criticized  
+* Condemned  
+* Inaccurate  
+* Lacking good will  
+* Distortion  
+* Wrongful  
+* Illegitimate  
+* Interference  
+* Violations  
+* Torture  
+* Pressure  
+* Unjust  
+* Poverty  
+* Ignored  
+* Malicious  
+* Hypocrisy  
+* Fabricated  
+
+**SUMMARY:**  
+The US State Department's Annual Human Rights Report has faced strong criticism and condemnation from numerous countries, accused of being inaccurate, lacking goodwill, and distorting the truth. Many nations, including those in Asia, Europe, Africa, and Latin America, have rejected the report, labeling it as interference in internal affairs. The Chinese People's Congress released a report criticizing human rights violations in the US, highlighting issues like high murder rates, torture, wrongful convictions, and poverty. Analysts note that the US report often reflects political biases, focusing on countries like North Korea and Iraq while ignoring its own human rights issues. Reuters pointed out that the US hypocrisy is evident, as it criticizes others while planning military trials for detainees without POW status. The report's credibility is further undermined by fabricated claims, leading to global protests. Many, including Americans, have challenged the report's accuracy, particularly regarding Vietnam, where religious freedom is upheld. The US report is seen as hypocritical and politically motivated, facing widespread rejection.  
+**END OF SUMMARY.**

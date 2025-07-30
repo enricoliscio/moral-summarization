@@ -1,0 +1,28 @@
+Alright, I'm looking at this query where the user wants me to act as a news summarizer and a moral expert. They provided a news article about Senator Rubio's foreign policy speech and specific instructions on how to process it. 
+
+First, I need to identify the morally framed words. The user wants me to list each word with a star and a new line. I'll go through the article and pick out words that carry moral connotations. Words like "strength," "protection," "morality," "freedom," "alliances," "transparency," "equality," "vulnerability," "persecution," and "empathy" stand out. These terms are used to convey values and ethical stances.
+
+Next, I have to summarize the article, preserving these moral terms. The summary should be concise, under 200 words. I'll start by outlining Rubio's three pillars, emphasizing the moral aspects. I'll mention his focus on military funding, economic protection, and moral clarity. Then, I'll include his vision of spreading freedom, supporting allies, opposing larger powers, and helping vulnerable groups. I'll ensure that the morally framed words are included to maintain the author's tone.
+
+I also need to structure the response with STEP 1 for the list and then the SUMMARY section. I'll make sure each part is clearly marked and that the summary flows naturally while highlighting the ethical elements of Rubio's approach.
+
+I should double-check that I'm not missing any morally charged words and that the summary accurately reflects the article's content without adding personal opinions. Keeping it objective but highlighting the moral framing is key here. 
+
+Finally, I'll review the word count to ensure it's within the limit and that all instructions are followed precisely. This way, the user gets a clear, concise summary that respects the original moral framing of the article.
+</think>
+
+**STEP 1:**  
+* Strength  
+* Protection  
+* Morality  
+* Freedom  
+* Alliances  
+* Transparency  
+* Equality  
+* Vulnerability  
+* Persecution  
+* Empathy  
+
+**SUMMARY:**  
+Senator Marco Rubio, a 2016 presidential candidate, outlined his foreign policy approach in a speech, emphasizing three pillars: ensuring American strength, protecting the economy, and preserving moral clarity. He prioritized military funding, even in times of peace, and vowed to oppose violations in international waters, airspace, cyberspace, and outer space. Rubio’s vision includes spreading economic and political freedom, reinforcing alliances, resisting larger powers’ subjugation of smaller neighbors, and advancing the rights of vulnerable groups, such as women and religious minorities. His speech highlighted America’s role in addressing global suffering and championing freedom, reflecting a commitment to transparency, equality, and empathy.  
+**END OF SUMMARY.**

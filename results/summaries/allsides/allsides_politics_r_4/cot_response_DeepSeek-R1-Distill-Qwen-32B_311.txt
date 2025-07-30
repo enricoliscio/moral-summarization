@@ -1,0 +1,57 @@
+Alright, I need to help the user with their query. They provided a news article and specific instructions. Let me break this down.
+
+First, the user wants me to act as a news summarizer and a moral expert. My task is to summarize the article while preserving the moral framing. They have two steps: identifying morally framed words and then writing a summary.
+
+Looking at the article, it's about the legal issues surrounding Trump, his associates, and the implications on governance. The user wants me to extract single words that carry moral connotations. I'll go through the text and pick out words like "indict," "corrupt," "felony," etc. These words are crucial as they set the moral tone.
+
+Next, the summary needs to be concise, under 200 words, and include as many of those moral terms as possible. I should focus on the main points: Trump's exemption from indictment, his associates' crimes, the implications on governance, and the moral stance of his supporters.
+
+I need to ensure the summary flows logically, starting with the legal situation, moving to the moral implications, and ending with the potential consequences. I'll make sure to highlight the contrast between Trump's administration and Obama's, emphasizing the moral failing.
+
+I should also keep the language clear and impactful, using the identified moral words to maintain the article's tone. Avoiding any markdown, just plain text with the specified tokens.
+
+Finally, I'll review to ensure I've met all requirements: correct identification of words, a concise summary, and preservation of the moral framing. Making sure the summary is within the word limit and accurately reflects the article's message.
+</think>
+
+**STEP 1:**  
+* indict  
+* corrupt  
+* evil  
+* guilty  
+* innocent  
+* exempt  
+* specter  
+* postpone  
+* refuse  
+* implicated  
+* co-conspirator  
+* deprecate  
+* vindication  
+* cultlike  
+* fervent  
+* foul  
+* tree  
+* criminals  
+* uncomfortable  
+* probity  
+* Jacuzzi  
+* convicted  
+* felonious  
+* scoundrels  
+* scoundrels  
+* slavish  
+* whips  
+* animus  
+* unindicted  
+* hush money  
+* lies  
+* exposed  
+* nothing to do with  
+* Russian collusion  
+* leverage  
+* noxious  
+* corrupt  
+
+**SUMMARY:**  
+The article discusses the moral and legal implications of the U.S. president being exempt from indictment while in office, despite being implicated in criminal activity by associates. It highlights how the president’s administration is governed by an "unindicted co-conspirator," with his associates facing convictions or guilty pleas for crimes like campaign finance violations and hush money payments. The text critiques the president’s defenders, who are described as cultlike in their devotion, ignoring the moral failings of the administration. The article also contrasts this with the integrity of past leaders like Barack Obama. It underscores the moral decay of the president’s inner circle, filled with individuals of felonious character, and questions the president’s lack of accountability, as he has repeatedly lied and misled the public. The summary concludes by emphasizing the ongoing moral and legal challenges facing the nation under this administration.  
+**END OF SUMMARY.**

@@ -1,0 +1,21 @@
+<think>
+Okay, so the user has given me a news article to summarize. They want the summary after a "SUMMARY:" token and ending with "END OF SUMMARY." Also, it should be no longer than 200 words. 
+
+First, I need to read the article carefully. It's from Tehran, talking about the Islamic Human Rights Commission expressing concerns about the return of force in international relations. They're marking the International Day for Human Rights. 
+
+The IHRC mentions that after 50 years of experience and losses, the international community has created many documents to honor human rights. But despite all these efforts, human rights violations are still happening. They call for prohibiting discrimination, torture, arbitrary detention, and respecting various human rights, including women's rights and those outlined in the international declaration. They regret that these declarations haven't been fully implemented.
+
+They also mention the Durban conference against racism as a turning point. They deplore the injustice against Palestinians and violations against journalists, religious minorities, children, and women. They note that all nations condemned the 9/11 attacks but some countries still use military force, trampling human rights. They urge statesmen to follow religious teachings for peace.
+
+Additionally, Mary Robinson from the UN calls on Israel to stop bombing Palestinian targets and allow monitors. She condemns Israeli attacks against Palestinians.
+
+So, the main points are: IHRC's concern about force in international relations, the need to implement human rights despite existing documents, issues like Palestinian rights, and the UN's call to Israel.
+
+I need to condense this into a concise summary, making sure to include all key points without exceeding 200 words. I should structure it logically, starting with the IHRC's concern, then the call for human rights, mention the Durban conference, the situation with Palestine, and the UN's statement. 
+
+I should avoid any markdown and keep the language clear and straightforward. Also, ensure that the summary starts with "SUMMARY:" and ends with "END OF SUMMARY." 
+
+Let me draft this step by step, ensuring each point is covered succinctly.
+</think>
+
+SUMMARY: The Islamic Human Rights Commission (IHRC) in Tehran expressed concern over the resurgence of force and weapons in international relations, marking the International Day for Human Rights. Despite numerous documents and efforts to promote human rights, violations persist, including discrimination, torture, and arbitrary detention. The IHRC emphasized the importance of honoring human rights, political rights, women's rights, and those outlined in the international declaration. It regretted the failure to implement these rights and highlighted the Durban conference against racism as a turning point. The statement condemned injustices against Palestinians and human rights violations against journalists, religious minorities, children, and women. While the global community condemned the 9/11 attacks, some countries continue to use military force, undermining human rights. The IHRC urged respect for religious teachings on human rights, stating peace cannot be achieved without honoring them. Meanwhile, UN High Commissioner Mary Robinson called on Israel to stop bombing Palestinian targets and allow international monitors, denouncing targeted killings of Palestinians. END OF SUMMARY.

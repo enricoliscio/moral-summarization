@@ -1,0 +1,14 @@
+Alright, so the user has given me a query where I need to act as a news summarizer. The task is to take a provided news article and create a concise summary of it. The summary needs to be under 200 words, and it should be returned after a "SUMMARY:" token and end with "END OF SUMMARY." token.
+
+First, I'll read through the article to understand the main points. It's about protests in St. Louis following the acquittal of a white police officer who shot a black man. The protests turned violent over three nights, with mass arrests. The mayor and police commissioner have different stances, and there's a reference to past riots in Ferguson which ties into the Black Lives Matter movement.
+
+I need to extract the key details: the number of arrests, the cause of the protests, the response from police, the mayor's comments, and the historical context. I should also mention the acquittal of the officer, Jason Stockley, and the victim, Anthony Lamar Smith. It's important to note the comparison to the 2014 Ferguson riots and the role of the Ferguson Frontline group.
+
+I'll structure the summary to start with the main event, the protests and arrests, then provide context about the trial and the historical background. I'll keep each sentence concise to stay within the word limit. I'll avoid including too much detail about specific incidents unless they are crucial to the summary.
+
+I should make sure the summary flows logically, starting from the event, moving to the causes, the responses, and then the broader implications. I'll check that I'm not exceeding 200 words and that all important points are covered without unnecessary details.
+
+Finally, I'll ensure that the summary starts and ends with the specified tokens as per the user's instructions. I'll review the summary to make sure it's clear, accurate, and meets all the requirements.
+</think>
+
+SUMMARY: Protests in St. Louis over the acquittal of a white police officer, Jason Stockley, who shot a black man, Anthony Lamar Smith, turned violent for three consecutive nights, leading to over 80 arrests on Sunday. Police used riot gear and pepper spray to disperse demonstrators after a peaceful protest escalated. Mayor Lyda Krewson blamed "agitators" for the violence, while Acting Police Commissioner Lawrence O’Toole emphasized control of the situation. The protests followed the acquittal on Friday, with clashes involving window-smashing, highway blockades, and confiscation of weapons. The unrest echoed the 2014 Ferguson riots, which sparked the Black Lives Matter movement. The Ferguson Frontline group organized the protests, citing institutional racism. Police clashed with protesters, arresting some and decontaminating officers hit by an unknown chemical. The protests began peacefully but turned violent, with Sunday being the largest gathering. END OF SUMMARY.

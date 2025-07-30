@@ -1,0 +1,49 @@
+Okay, so the user has given me a query where they want me to act as a news summarizer and moral expert. The task involves two main steps: first, identifying all the single words that are morally framed in the provided news article, and second, summarizing the article while preserving those moral framings.
+
+First, I need to understand what morally framed words are. These are words that carry a strong moral connotation, often indicating approval or disapproval. Examples might include words like "illegal," "gap," "undermining," "problem," etc. I'll go through the article and pick out each word that seems to carry such a connotation.
+
+Once I've listed those words, the next step is to write a concise summary of the article. The summary should be no longer than 200 words and must include as many of the identified morally framed words as possible. This means I need to ensure that the summary reflects the moral stance presented in the original text, whether it's criticism of Colorado's marijuana laws or the defense from Colorado's side.
+
+I also need to structure my response by first listing the morally framed words under "STEP 1:" and then providing the summary under "SUMMARY:". The summary should start with "SUMMARY:" and end with "END OF SUMMARY.".
+
+I should make sure that the summary captures the key points: the lawsuit filed by Nebraska and Oklahoma against Colorado's marijuana laws, the arguments each side presents, and the implications of the case. I'll need to keep it clear and within the word limit, ensuring that the moral framing is preserved.
+
+Let me start by reading through the article carefully to identify the morally charged words. I'll look for terms that indicate issues, problems, violations, or negative impacts, as well as those that show approval or support. After compiling that list, I'll craft a summary that weaves these words in naturally, maintaining the original moral perspective.
+
+I should also be cautious not to introduce any new information or bias beyond what's presented in the article. The summary needs to be neutral yet reflective of the moral framing, accurately representing both sides of the argument.
+
+Alright, I think I have a good plan. Let me proceed to identify the words first, then move on to the summary.
+</think>
+
+**STEP 1:**  
+* dangerous  
+* gap  
+* undermining  
+* draining  
+* stress  
+* problem  
+* illegal  
+* scheme  
+* violate  
+* ignore  
+* objective  
+* patchwork  
+* pro-drug  
+* licensed  
+* distribution  
+* criminal  
+* cartels  
+* acquire  
+* inventory  
+* track  
+* background checks  
+* stock up  
+* influx  
+* boost  
+* black market  
+* violent  
+* organizations  
+
+**SUMMARY:**  
+Nebraska and Oklahoma filed a lawsuit against Colorado, claiming its state-regulated recreational marijuana system creates a "dangerous gap" in federal drug laws, allowing marijuana to flow into neighboring states. They argue this undermines their marijuana bans, drains treasuries, and stresses their criminal justice systems. Sheriffs in border counties report increased marijuana-related arrests and costs. Colorado's attorney general, John Suthers, dismissed the lawsuit as "without merit," stating they will "vigorously defend" the law. The lawsuit targets Colorado's commercial marijuana system, accusing it of violating federal laws by ignoring regulations and enabling criminal enterprises. Critics warn that shutting down legal retailers could boost the black market, putting "violent criminal organizations" back in charge. The case highlights tensions over state versus federal drug policies and the moral implications of legal marijuana.  
+**END OF SUMMARY.**

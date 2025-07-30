@@ -1,0 +1,18 @@
+Alright, so the user has given me a query where they want me to act as a news summarizer assistant and a moral expert. The task is to summarize a specific news article while preserving the moral framing the author provided. 
+
+First, I need to understand the article. It's about Jordan deciding to sign the Kyoto Protocol, a UN agreement to reduce greenhouse gas emissions. The article mentions the reasons behind Jordan's decision, like their commitment to international conventions and attracting funding. It also contrasts this with other countries, especially the US and Canada, who have opposed the protocol for economic reasons.
+
+Now, the user wants a summary that's no longer than 200 words, starting with "SUMMARY:" and ending with "END OF SUMMARY." They emphasized preserving the moral framing. So, I need to highlight the moral aspects, such as Jordan's commitment to environmental responsibility and the contrast with countries prioritizing economic interests over environmental ones.
+
+I should structure the summary to include key points: Jordan's decision, the reason behind it (commitment to international conventions), the goal (attracting funding), the context of other countries' actions (like the EU, US, and Canada), and the moral implication of economic vs. environmental priorities.
+
+I also need to keep the language clear and concise, ensuring it's within the word limit. I'll start by stating Jordan's decision, then mention the director's comments, the protocol's background, Jordan's reasons, the EU's stance, and then contrast with the US and Canada's positions, highlighting the moral angle.
+
+Let me make sure I don't add any extra information not present in the article. I'll focus on the main points and the moral framing, ensuring it's all within 200 words. I'll avoid technical jargon to keep it accessible.
+
+Finally, I'll format it correctly, starting with "SUMMARY:" and ending with "END OF SUMMARY." to meet the user's requirements. I'll review the summary to ensure it captures the moral perspective and stays within the word limit.
+</think>
+
+SUMMARY:  
+Jordan has decided to sign the Kyoto Protocol, a UN agreement aimed at reducing global greenhouse gas emissions, as announced by Faris Juneidi, director general of the General Corporation for Environment Protection (GCEP). The signing, to be conducted by Prince Zeid Ben Raad at the UN, underscores Jordan's commitment to international environmental conventions. While the protocol primarily targets developed nations, Jordan's move highlights its dedication to global environmental efforts and hopes to attract funding for climate change initiatives. The Kyoto Protocol, established in 1997, requires developed countries to cut emissions by 8% below 1990 levels by 2012. Meanwhile, the EU has agreed to ratify the protocol by June 1, while the US and Canada have opposed it, citing economic concerns. Jordan's decision contrasts with these nations, emphasizing its moral and international responsibility to address climate change.  
+END OF SUMMARY.

@@ -1,0 +1,12 @@
+Alright, I need to help the user by summarizing the given news article while preserving the moral framing words. Let me read through the article first to understand the context.
+
+Mary Cheney criticized her sister Liz for opposing same-sex marriage. Mary is openly gay and married, so she's taking a strong stance. She uses words like "love" and "freedom," emphasizing equality. Liz, on the other hand, is pro-life and believes states should decide on marriage issues. She's running against Mike Enzi. Their father, Dick Cheney, supports gay marriage, which adds another layer to the family's stance.
+
+I need to make sure the summary includes the morally framed words: love, wrong, freedom, entitled, protections, pro-life, decided, free, wish. I'll structure the summary to highlight the conflict between the sisters, their positions, and the family dynamics. Keep it concise, under 200 words, and end with the required tokens.
+
+Let me draft the summary, ensuring all key points and moral words are included without losing the essence of the article.
+</think>
+
+SUMMARY:  
+Mary Cheney, the openly gay sister of Wyoming U.S. Senate candidate Liz Cheney, criticized her sister's opposition to same-sex marriage in a Facebook post. Mary, who is married to Heather Poe, argued that "freedom means freedom for everyone" and that all families, regardless of their makeup, are "entitled" to the same rights and protections. Liz Cheney, who is pro-life, stated that she believes marriage should be "decided" by the states and the people, not by judges or legislators. This stance puts her at odds with her sister and her father, former Vice President Dick Cheney, who has supported gay marriage and emphasized that people should be "free" to enter any union they "wish." The conflict highlights the family's differing views on love, freedom, and equality.  
+END OF SUMMARY.

@@ -1,0 +1,15 @@
+Alright, so I'm trying to figure out how to approach this query. The user wants a summary of a news article, but they're specific about preserving the moral framing. They provided a list of morally framed words that the author used, and they want those words included in the summary. 
+
+First, I'll read through the article to understand the main points. It's about the importance of law enforcement in maintaining civilization and legality. The author uses examples like migrant caravans, campus protests, and celebrity threats to illustrate how lack of enforcement leads to lawlessness. 
+
+I need to make sure the summary includes as many of the listed words as possible without making it sound forced. I should structure the summary to highlight the consequences of ignoring laws, using terms like enforcement, civilization, legality, obey, comply, etc. 
+
+I'll start by identifying key points: the caravan example, campus protests, celebrity threats, and the idea that ignoring laws can lead to anarchy. Then, I'll connect these points using the moral terms. 
+
+I also need to keep the summary under 200 words, so I'll be concise but thorough. I'll make sure each example ties back to the main theme of law enforcement being essential for a civilized society. 
+
+Finally, I'll review the summary to ensure it flows naturally and includes the necessary moral language. I'll check the word count to stay within the limit and make sure all key points are covered.
+</think>
+
+SUMMARY:  
+The article emphasizes the importance of law enforcement in maintaining civilization and legality. It argues that fear of punishment, not just good character, ensures citizens obey laws. Unpunished violations, such as those in sanctuary cities or the presence of undocumented immigrants, weaken the rule of law and greenlight further illegal actions, like the Central American migrant caravan. Campus protests, often violent and unpunished, send signals that laws can be ignored, emboldening more disruptions. Celebrities fantasizing about harming the president, with no consequences, highlight how ignoring laws can lead to dangerous precedents. Similarly, public figures like Sarah Huckabee Sanders face disruptions without legal ramifications, eroding respect for the law. The author warns that legal laxity, justified by high-minded moral concerns, risks creating anarchy, where laws are selectively enforced or ignored. Without consistent enforcement, society risks losing the force of law, leading to chaos and illegality. END OF SUMMARY.

@@ -1,0 +1,50 @@
+Alright, let me try to figure out how to approach this query. The user has provided a detailed news article about Donald Trump's response to Barack Obama's comments on mass shootings and the moral framing involved. They want me to act as a news summarizer assistant and a moral expert, so I need to first identify the morally framed words and then create a summary preserving those frames.
+
+First, I need to understand the task. The user has given two steps: Step 1 is to list all single words that are morally framed, each on a new line with a star. Step 2 is to write a concise summary (under 200 words) that includes as many of those morally framed words as possible. The summary should follow the "SUMMARY:" token and end with "END OF SUMMARY."
+
+Looking at the article, I should scan through it to identify words that carry moral connotations. These could include words like "condemn," "racist," "fear," "hate," etc. I need to make sure I capture all such words without missing any.
+
+Once I have the list, I'll move on to the summary. I need to condense the article, focusing on the key points: Trump's response to Obama, the mass shootings, the criticism Trump has faced, and the moral implications. I should ensure that the summary flows well and includes the morally framed words to maintain the author's original framing.
+
+I also need to be concise, so I'll have to pick the most impactful points. For example, mentioning the shootings, Trump's criticism, Obama's call to reject racist language, and the political implications. I should avoid adding my own opinions and stick to the facts presented, but keep the moral language intact.
+
+I should also check the word count to make sure the summary doesn't exceed 200 words. Maybe I can draft it first, then trim any unnecessary details while keeping the essential moral points.
+
+Finally, I'll structure the response by first listing the morally framed words and then providing the summary, making sure to follow the user's formatting instructions precisely.
+</think>
+
+**STEP 1:**  
+* Condemn  
+* Racism  
+* Fear  
+* Hatred  
+* Racist  
+* Normalise  
+* Accountable  
+* Tragedies  
+* Slaughter  
+* Emboldening  
+* White nationalists  
+* Racist  
+* Division  
+* Heal  
+* Hatred  
+* Subhuman  
+* Disparagingly  
+* Invasion  
+* Bigotry  
+* White supremacy  
+* Domestic terrorism  
+* Language  
+* Ideologies  
+* Violently  
+* Preserve  
+* Subhuman  
+* Tragedy  
+* Politics  
+* Public life  
+* Disgraceful  
+* Rat and rodent infested mess  
+
+**SUMMARY:**  
+Donald Trump responded to Barack Obama's call to reject "language that feeds fear and hatred" by citing a Fox & Friends segment, claiming Obama had 32 mass shootings during his presidency. Trump has faced criticism for linking mass shootings to video games and mental illness, rather than gun laws, and for emboldening white nationalists with racist remarks. The El Paso shooter posted a racist screed echoing Trump's rhetoric, targeting the majority Hispanic city. Trump plans to visit El Paso and Dayton, but Democrats like Beto O’Rourke oppose his visit, stating he has "no place" there. Obama warned against leaders who demonise immigrants and use subhuman language, linking such rhetoric to human tragedy. Trump has recently stoked racial resentments, including tweets targeting congresswomen of colour and denigrating a Baltimore district. Obama urged Americans to reject racist language and ideologies that normalise violence. END OF SUMMARY.

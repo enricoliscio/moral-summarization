@@ -1,0 +1,18 @@
+Alright, so the user wants me to summarize a news article about US-Japan climate talks. Let me read through the article first to understand the key points.
+
+Okay, the article mentions that representatives from Japan and the US concluded two days of talks in Tokyo on climate change. They focused on cooperation in science and technology to tackle global warming. That's an important point to include.
+
+The meeting was the first since President George Bush introduced a new US plan. His plan is about voluntary limits on greenhouse gases based on economic growth, unlike mandatory targets. I should note that this is a shift from the previous approach, which might have been more stringent.
+
+At the start of the meeting, the US stated they would promote R&D in climate change. That's a significant commitment, so it should be highlighted. On the other hand, Japan still intends to ratify the Kyoto Protocol. That's a key difference between the two countries' approaches.
+
+President Bush's rejection of the Kyoto Protocol last year caused international outcry, particularly because he argued it would hinder US economic growth. This context is important to explain why the US is taking a different approach now.
+
+Now, I need to condense all this into a summary under 200 words. I'll start by stating the conclusion of the talks, then the focus areas, the new US plan, the US commitment to R&D, Japan's stance on Kyoto, and the background on Bush's decision.
+
+I should make sure the summary flows logically, connecting each point without being too verbose. Also, I need to end with the specified tokens: SUMMARY:... END OF SUMMARY.
+
+Let me draft it out, keeping each sentence concise and ensuring all key points are covered without exceeding the word limit. I'll check the word count to make sure it's under 200.
+</think>
+
+SUMMARY: US and Japan concluded two days of climate talks in Tokyo, focusing on cooperation in science and technology to address global warming. The meeting was the first since President George Bush introduced a new US plan advocating voluntary limits on greenhouse gas emissions based on economic growth, rather than mandatory targets. The US emphasized promoting research and development in climate change, while Japan reaffirmed its intent to ratify the Kyoto Protocol. Bush's rejection of the Kyoto Protocol in 2001 sparked international criticism, as he argued it would hinder US economic growth. END OF SUMMARY.

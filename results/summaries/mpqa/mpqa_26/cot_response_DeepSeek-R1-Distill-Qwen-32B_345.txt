@@ -1,0 +1,26 @@
+<think>
+Okay, I need to help the user by summarizing a news article while preserving the moral framing. Let me start by understanding the task. The user provided an article about the US stance on the Kyoto Protocol and its impact on US-Japanese relations. They want me to first identify all single words that are morally framed and then write a concise summary using those words.
+
+First, I'll read through the article to spot words that carry moral connotations. Words like "admirable," "irritated," "indignation," "unilateralist," "fiendish," "ambitious," "unilateral," and "hurt" stand out. These words convey judgment or evaluation, which is the moral framing the user wants preserved.
+
+Next, I need to create a summary that's under 200 words. I'll focus on the key points: the US's refusal to ratify Kyoto, Japan's pride in the protocol, the moral criticism from allies, the Bush administration's alternative plan, and the potential consequences. I'll make sure to include the morally framed words to maintain the original tone.
+
+I should structure the summary to highlight the conflict, the impact on relations, and the environmental concerns. I'll also mention the business perspective and the potential for a two-tier system. Keeping it concise while covering all these points is crucial.
+
+Let me check the word count to ensure it's within the limit. I'll make sure each sentence is clear and directly addresses the main issues without unnecessary details. That should cover everything the user needs.
+</think>
+
+**STEP 1:**  
+* Irritated  
+* Dire  
+* Admissible  
+* Inadmissible  
+* Indignation  
+* Unilateralist  
+* Fiendish  
+* Ambitious  
+* Unilateral  
+* Hurt  
+
+**SUMMARY:**  
+The article discusses the moral and political implications of the U.S. refusing to ratify the Kyoto Protocol, a decision that has caused irritation among global allies, particularly Japan. The Kyoto Protocol, seen as a symbol of global cooperation to combat climate change, is now in jeopardy due to the U.S.'s stance. Japan, a nation proud of its role in shaping the protocol, feels betrayed by the U.S.'s unilateral decision. Environmental advocates criticize the Bush administration's alternative plan, which they argue allows the U.S. to continue emitting greenhouse gases while potentially leading to a two-tier system where smaller nations may back out of Kyoto. Meanwhile, Japanese industry argues that further emissions reductions could hurt competitiveness. The U.S.'s actions are seen as part of a broader trend toward unilateralism, drawing moral criticism from allies. END OF SUMMARY.

@@ -1,0 +1,16 @@
+Alright, I need to help the user by summarizing the provided news article while preserving the moral framing. The user specified that I should focus on using the morally framed words they listed. 
+
+First, I'll read through the article to understand the main points. Obama is proposing gun control measures, including bans on assault weapons and limits on magazine capacity. He's also pushing for background checks and other executive actions. There's opposition from Republicans and gun-rights groups, who argue that these measures don't address the real issues, like mental health or criminals accessing guns.
+
+I need to identify the morally framed words in the article. The user provided a list: curb, violence, use, saved, protecting, shooting, killed, improve, investigations, prohibit, purchasing, undermine, out, massacre, lawabiding, misguided, killings, help, beef. I should make sure these words are included in the summary.
+
+I'll start by outlining the key points: Obama's plan includes banning assault weapons, limiting magazines, background checks, executive actions, and funding for police. He's facing opposition, and the plan also addresses mental health and school security.
+
+Now, I'll structure the summary to include these points, using the moral words where possible. For example, "curb gun violence" uses "curb" and "violence." Mentioning the 20 children killed in Connecticut uses "killed" and "massacre." The opposition's points about undermining rights and the measures being misguided should be included.
+
+I'll make sure the summary is concise, under 200 words, and flows naturally while incorporating the moral language. I'll check that each point from the article is covered without going into too much detail, keeping it a summary.
+
+Finally, I'll ensure the summary starts with "SUMMARY:" and ends with "END OF SUMMARY." as per the instructions. I'll review the word count to make sure it's within the limit and that all key moral terms are appropriately included.
+</think>
+
+SUMMARY: President Obama has unveiled a comprehensive gun control plan to curb gun violence, including a ban on assault weapons and a 10-round magazine limit. He urged Congress to pass legislation to prohibit armor-piercing bullets, expand background checks, and restrict straw purchasing. Obama emphasized the need to protect vulnerable populations, stating, "If there's even one life that can be saved, then we've got an obligation to try." The plan also includes $4 billion for police hiring, improved school security, and mental health services. Despite criticism from gun-rights advocates and Republicans, who argue the measures are misguided and undermine the 2nd Amendment rights of law-abiding citizens, Obama vowed to use his office's weight to push the proposals. The plan, which includes executive actions like enhancing federal information sharing and funding mental health research, aims to address the root causes of violence and help schools improve safety. However, critics like Texas Gov. Rick Perry argue that no gun law could have prevented the Sandy Hook massacre, highlighting the need to focus on mental health and criminal access to firearms. END OF SUMMARY.

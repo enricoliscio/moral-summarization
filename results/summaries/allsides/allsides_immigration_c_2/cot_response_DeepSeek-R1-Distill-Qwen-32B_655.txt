@@ -1,0 +1,75 @@
+Alright, so the user has provided a query where they want me to act as a news summarizer and a moral expert. The task is to first identify all the morally framed words in the given news article, and then write a concise summary preserving those moral elements.
+
+First, I need to understand what morally framed words are. These are words that carry strong ethical or moral connotations, such as "hope," "kindness," "injustice," "suffering," etc. They reflect values and principles that the author emphasizes.
+
+Looking at the article, I'll go through each sentence and pick out words that have a moral dimension. For example, "hope" and "kindness" in the first sentence. Then, "injustice," "deserts," "seas," "cemeteries," "indifference," "comfort," "good will," "humanitarian crises," "end to conflicts," "persecuted," "light," "suffering," "war," "hostilities," "stability," "commitment," "coalition government," "visit," "tenderness," "darkness," "love," "friendship," "clothe," "bread," "heal," "elderly," "lonely," "migrants," "marginalized," "faces," "smile," "channels."
+
+Once I have all these words, I need to craft a summary that includes as many of them as possible without making it too long. The summary should be under 200 words and capture the essence of Pope Francis's message, highlighting his calls for compassion, justice, and action against suffering.
+
+I'll start by mentioning the Christmas Day message, the main points about migrants, the injustices they face, the call for kindness and solutions. Then, I'll include the prayer for peace in conflict zones, the symbolic cross with a life jacket, and the encouragement for governments to act. Finally, I'll end with the hope for a brighter world through collective action.
+
+I need to ensure that the summary flows well and retains the moral framing, using as many of the identified words as possible. I'll check the word count to make sure it's within the limit and that all key moral points are covered.
+</think>
+
+**STEP 1:**  
+* hope  
+* kindness  
+* migrants  
+* suffering  
+* injustice  
+* emigrate  
+* secure  
+* life  
+* deserts  
+* seas  
+* cemeteries  
+* walls  
+* indifference  
+* dignity  
+* Urbi et Orbi  
+* comfort  
+* good will  
+* solutions  
+* humanitarian crises  
+* end  
+* conflicts  
+* Middle East  
+* Latin America  
+* Ukraine  
+* Africa  
+* persecuted  
+* religion  
+* light  
+* children  
+* war  
+* hostilities  
+* Syria  
+* consciences  
+* governments  
+* international community  
+* peace  
+* security  
+* unspeakable sufferings  
+* cross  
+* life jacket  
+* Mediterranean Sea  
+* refuge  
+* Europe  
+* South Sudan  
+* coalition government  
+* stability  
+* visit  
+* tenderness  
+* darkness  
+* love  
+* friendship  
+* clothe  
+* bread  
+* heal  
+* elderly  
+* lonely  
+* channels  
+
+**SUMMARY:**  
+On Christmas Day, Pope Francis delivered a message of hope and kindness, addressing the suffering of migrants and the injustices they face. He prayed for those forced to emigrate due to deserts, seas, and walls of indifference, urging an end to conflicts in the Middle East, Latin America, Ukraine, and Africa. Francis called for governments and the international community to find solutions to humanitarian crises and bring peace to war-torn regions like Syria. He also highlighted the plight of those persecuted for their religion and the need for compassion. Earlier, he placed a symbolic cross with a life jacket in the Vatican to remember migrants who drowned in the Mediterranean. Francis emphasized the importance of recognizing suffering and acting to help those in need, urging hearts to become channels of love and friendship for the marginalized, elderly, and lonely. His message concluded with a call for tenderness to brighten the world's darkness.  
+**END OF SUMMARY.**

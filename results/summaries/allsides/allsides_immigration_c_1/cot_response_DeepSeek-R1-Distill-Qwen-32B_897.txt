@@ -1,0 +1,37 @@
+Alright, I need to help the user with their query. They provided a news article and specific instructions on how to process it. The user wants me to act as a news summarizer assistant and a moral expert. My task is to summarize the article while preserving the moral framing the author used.
+
+First, I should break down the instructions. There are two main steps: identifying morally framed words and then writing a summary that includes as many of those words as possible. The summary needs to be concise, no more than 200 words, and follow a specific structure with tokens.
+
+Looking at the article, I need to identify single words that carry moral implications. Words like "abuses," "loophole," "endemic," "fraud," "siphoned," "integrity," "citizenship," "vulnerable," "crackdown," "lucrative," "scheme," "lied," "indictments," "criminal," and "eliminate" stand out. These words convey judgment or moral evaluation, so I'll list them under STEP 1.
+
+Next, I need to write the summary. I should incorporate these moral terms while summarizing the key points of the article. The main points are the new visa rules targeting birth tourism, the administration's reasoning about protecting citizenship and national security, the criticism regarding potential risks to pregnant women, and the industry's lucrative nature.
+
+I'll start by mentioning the Trump administration's new rules, then the purpose behind them—closing a loophole and protecting national security and taxpayer money. I'll note the requirement for medical necessity and the criticism about risks. I'll also include the industry's profitability and the lack of exact figures on the number of women involved.
+
+I need to ensure the summary is clear and concise, using the identified moral terms where appropriate. I'll avoid adding any personal opinions and stick strictly to the facts presented, while highlighting the moral framing.
+
+Finally, I'll structure the summary correctly, starting with "SUMMARY:" and ending with "END OF SUMMARY." I'll check the word count to make sure it's under 200 words. That should meet the user's requirements effectively.
+</think>
+
+### STEP 1:  
+* Abuses  
+* Loophole  
+* Endemic  
+* Fraud  
+* Siphoned  
+* Integrity  
+* Citizenship  
+* Vulnerable  
+* Crackdown  
+* Lucrative  
+* Scheme  
+* Lied  
+* Indictments  
+* Criminal  
+* Eliminate  
+
+---
+
+### SUMMARY:  
+The Trump administration has introduced new visa rules to curb "birth tourism," where foreign women travel to the U.S. to give birth and secure citizenship for their children. Under the rules, applicants seeking tourist visas will be denied if consular officers determine their primary purpose is to give birth. Those with medical needs must prove they can cover all expenses, including transportation and living costs. The administration claims the rules protect the "integrity of American citizenship" and safeguard national security and taxpayer dollars from "criminal activity" linked to birth tourism. Critics argue the policy could put pregnant women at risk, as consular officers cannot directly ask about pregnancy but must still assess intent. Birth tourism is a "lucrative" industry, with companies charging up to $80,000 to facilitate the practice. The rules aim to "eliminate" fraudulent schemes and protect U.S. interests.  
+END OF SUMMARY.

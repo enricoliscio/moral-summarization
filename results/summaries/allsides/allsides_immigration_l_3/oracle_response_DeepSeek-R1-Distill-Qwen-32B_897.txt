@@ -1,0 +1,19 @@
+Okay, so I need to help the user by summarizing a news article while preserving the moral framing. The user provided the article and a list of morally framed words. I should make sure to include as many of those words as possible in the summary without making it too long—under 200 words.
+
+First, I'll read through the article to understand the main points. It's about the Trump administration deploying troops to the southern border in response to a migrant caravan. The key moral aspects include the government's actions, the migrants' situation, and the political implications.
+
+I notice the author uses words like "apprehended," "violence," "extortion," "pouring," etc. I need to incorporate these. I'll start by stating the deployment of troops and mention the caravan's purpose—escaping violence, poverty, etc. Then, I'll touch on the government's measures, such as denying asylum and using emergency powers, highlighting the moral concerns.
+
+Next, I'll include Trump's statements, like calling it a national emergency and his claims about Middle Easterners, which adds to the moral framing. Also, the migrants' perspective, like their desire for a better future, is important. I'll mention the legal process for asylum and the criticism of the administration's approach.
+
+I need to keep the summary concise, so I'll focus on the main points: deployment, caravan's reasons, government actions, Trump's claims, migrants' goals, and the legal context. I'll make sure to include the morally charged words where appropriate without forcing them in.
+
+Let me structure this step by step. Start with the deployment, mention the caravan's composition and reasons, then the government's actions and their moral implications. Include Trump's rhetoric, the migrants' response, and the legal process. End with the criticism of the administration's approach.
+
+I should also ensure that the summary flows naturally and isn't just a list of points. I'll use the morally framed words where they fit best, like "apprehended," "violence," "extortion," "pouring," etc.
+
+Now, putting it all together, I'll write a concise summary that includes these elements, making sure it's under 200 words and preserves the moral framing as per the user's request.
+</think>
+
+SUMMARY:  
+Homeland Security Secretary Kirstjen Nielsen stated that American soldiers have “no intention” of shooting migrants attempting to cross into the US from Mexico, though they will be apprehended. The Trump administration plans to deploy 800 active-duty troops to the southern border, as a caravan of thousands of migrants, fleeing violence, extortion, and poverty, approaches. Nielsen emphasized the safety of officers and agents, noting they can use force to defend themselves. The government is considering denying asylum applications under emergency powers, likely facing legal challenges. Trump has used the caravan to stoke fears of illegal immigration, claiming it as a national emergency, and accused Democrats of inspiring the movement. Migrants, mostly Hondurans seeking a better future, have largely remained unaware of the political firestorm their journey has sparked. Those reaching the US border can apply for asylum, but the process is lengthy and uncertain. Critics argue the administration’s approach lacks humanitarian consideration. END OF SUMMARY.

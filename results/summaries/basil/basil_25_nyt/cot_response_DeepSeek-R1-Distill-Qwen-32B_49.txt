@@ -1,0 +1,47 @@
+Okay, so I'm trying to help the user with their query. They want me to summarize a news article while preserving the moral framing. The article is about the 2012 election debate over Medicare between Obama and Romney/Ryan. 
+
+First, I need to understand the structure of the user's request. They provided specific instructions: first, identify all single words that are morally framed, and then write a summary using those words. 
+
+Looking at the article, I should scan for words that carry moral connotations. Words like "devastating," "dishonest," "hypocritical," "raid," "sacrifice," "end," "guaranteed," "raided," "repeal," "commitment," "rationing," "sacrifice," "fundamentally," "opportunity," "choice," "compelling," "truth," "honest," "protect," "strengthen," "sacrifice," "fundamentally," "opportunity," "choice," "compelling," "truth," "honest," "protect," "strengthen," "sacrifice," "fundamentally," "opportunity," "choice," "compelling," "truth," "honest," "protect," "strengthen." 
+
+Wait, some of these might be repeated, but I'll list each unique one. Next, I need to write a concise summary, under 200 words, incorporating these moral terms. The summary should highlight the conflict between the parties, their arguments, and the implications for Medicare. I'll make sure to include the key points: Obama's law cutting funds, Romney and Ryan's plan, the accusations of dishonesty, and the differing approaches to Medicare's future. 
+
+I need to ensure the summary flows well and captures the essence of the moral arguments presented by both sides. I'll start by stating the ongoing debate, mention the accusations from both campaigns, outline the savings and their uses, and conclude with the stakes involved. 
+
+I should avoid technical jargon and keep it clear and direct. Also, I must remember to use the morally framed words identified earlier to maintain the original tone and framing. Let me put it all together, making sure it's within the word limit and covers all necessary points without being too verbose.
+</think>
+
+**STEP 1:**  
+* Devastating  
+* Dishonest  
+* Hypocritical  
+* Raid  
+* Sacrifice  
+* End  
+* Guaranteed  
+* Raided  
+* Repeal  
+* Commitment  
+* Rationing  
+* Sacrifice  
+* Fundamentally  
+* Opportunity  
+* Choice  
+* Compelling  
+* Truth  
+* Honest  
+* Protect  
+* Strengthen  
+* Sacrifice  
+* Fundamentally  
+* Opportunity  
+* Choice  
+* Compelling  
+* Truth  
+* Honest  
+* Protect  
+* Strengthen  
+
+**SUMMARY:**  
+The debate over Medicare has intensified as the 2012 election approaches. President Obama’s Affordable Care Act cuts $716 billion from Medicare to fund his health care law, while Mitt Romney and Paul Ryan’s plan aims to “end Medicare as we know it” by shifting costs to beneficiaries. Romney and Ryan claim their plan would “restore funding” to Medicare by repealing Obamacare, but Democrats argue the savings from the law are necessary to protect Medicare’s trust fund and improve its financial stability. Republicans accuse Obama of “raiding” Medicare, while Democrats call Romney’s ads “dishonest” and “hypocritical.” The dispute centers on how to ensure Medicare’s long-term solvency, with Obama’s plan reducing payments to providers and Romney-Ryan’s plan offering fixed government contributions for private insurance or traditional Medicare. Both sides frame their approaches as the only way to “protect” and “strengthen” Medicare for future generations. The stakes are high, with 50 million beneficiaries relying on the program.  
+**END OF SUMMARY.**

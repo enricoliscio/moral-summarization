@@ -1,0 +1,10 @@
+Okay, so I need to help the user by summarizing this news article while preserving the moral framing. Let me read through the article again to understand the key points. The NAACP passed a resolution asking the Tea Party to remove racist elements. They're not labeling the whole movement as racist, but they want them to distance from hate groups. The president, Benjamin Jealous, emphasized responsibility and the consequence of silence leading to violence. 
+
+The Tea Party responded negatively. Sarah Palin criticized the NAACP, and some Tea Party groups accused them of being partisan and even suggested reviewing their tax status. There have been allegations of racism, like racial epithets and spitting incidents during protests.
+
+The user wants the summary to include the morally framed words: responsibly, violence, stand, clear, acting, review, racism, hurling, spitting. I need to make sure these words are included without changing the meaning. I should structure the summary to first state the NAACP's action, then Jealous's points, followed by the Tea Party's reactions, and the context of racism allegations. I'll keep it concise, under 200 words, and end with the specified tokens.
+</think>
+
+SUMMARY:  
+The NAACP passed a resolution urging Tea Party groups to "weed out racist elements" and "act responsibly," emphasizing that silence could lead to violence. NAACP President Benjamin Todd Jealous clarified the resolution was not to label the entire Tea Party as racist but to push them to distance themselves from hate groups. He stressed the need for them to "stand up" and make it "clear" that there is "no place for bigots" in the movement. Tea Party groups and supporters strongly opposed the resolution, with Sarah Palin calling on the Obamas to rebuke the NAACP. The St. Louis Tea Party Coalition accused the NAACP of acting as a "partisan political attack dog" and called for a review of its tax-exempt status. The Tea Party has faced allegations of racism, including incidents of racial epithets and spitting during protests, though they deny such claims.  
+END OF SUMMARY.

@@ -1,0 +1,16 @@
+Alright, I need to help the user by summarizing the provided news article. The user has specified that the summary should be after a "SUMMARY:" token and end with "END OF SUMMARY." It should be no longer than 200 words. 
+
+First, I'll read through the article to understand the main points. The article is about former Mexican President Vicente Fox criticizing current President Enrique Peña Nieto for inviting Donald Trump. Fox is upset because Trump has been negative towards Mexico, and he thinks Peña Nieto is taking a political risk. 
+
+I should note the key elements: Fox's criticism, Trump's acceptance of the invitation, the comparison to Romney's trip, Fox's concern about Peña Nieto's image, and the context of Trump's past statements about Mexico. Also, Fox's previous comments and Trump's response are important.
+
+I need to condense this into a concise summary. I'll start by stating Fox's criticism, mention Trump's invitation, then touch on the political implications and Fox's warnings. I'll also include the context of Trump's past statements and Fox's previous remarks, as well as Trump's response.
+
+I should keep the summary under 200 words, so I'll make sure each point is brief. I'll structure it to flow logically, starting with the criticism, the invitation, the risks involved, and the broader implications.
+
+Let me draft it step by step, ensuring all main points are covered without going into too much detail. I'll check the word count to stay within the limit. 
+
+Finally, I'll make sure the summary starts with "SUMMARY:" and ends with "END OF SUMMARY." without any markdown, just plain text.
+</think>
+
+SUMMARY: Former Mexican President Vicente Fox strongly criticized current President Enrique Peña Nieto for inviting Donald Trump to meet him in Mexico, just hours before Trump's immigration speech in Arizona. Fox called Trump "not welcome" and accused him of spreading offensive messages. Trump accepted the invitation, while Hillary Clinton declined, though her campaign expressed interest in speaking with him later. Trump has long criticized Mexico, promising to build a border wall and stoking fears about immigrants. Fox warned Peña Nieto that hosting Trump could damage his image, comparing him to a "traitor" and accusing Trump of using Mexico to boost his polls. Fox also criticized Trump for exploiting Mexico, while Trump responded by highlighting Fox's previous invitation to visit. The meeting marks Trump's first with a foreign leader as a nominee, carrying political risks for both candidates. END OF SUMMARY.

@@ -1,0 +1,13 @@
+Okay, so I need to help the user by summarizing this news article about Japan and the U.S. differing on global warming issues. The user mentioned that I should preserve the moral framing the author gave. Let me start by reading through the article carefully.
+
+The article talks about Prime Minister Koizumi and President Bush meeting, but they have different views on the Kyoto Protocol. Bush is against it, pushing his alternative plan, while Koizumi supports Kyoto but calls Bush's proposal constructive. The U.S. wants voluntary limits on emissions, which environmentalists criticize as ineffective.
+
+I need to make sure the summary includes the key points: their differing positions, Koizumi's support for Kyoto, Bush's alternative plan, the criticism from environmentalists, and their agreement to cooperate on new technologies. Also, I should highlight the moral aspect, like the U.S. rejecting Kyoto for economic reasons and the environmentalists' concern about rising emissions.
+
+I should keep it concise, under 200 words, and structure it clearly. Maybe start with their differing views, mention each leader's stance, the criticism, and their agreement to cooperate. Make sure to include the moral implications, like the U.S. prioritizing economy over environment and the potential failure of their alternative plan.
+
+Let me draft it out, ensuring all these points are covered succinctly. I'll check the word count to stay within limits. Once done, I'll present it after the "SUMMARY:" token and end with "END OF SUMMARY." as instructed.
+</think>
+
+SUMMARY:  
+Japan and the U.S. have differing views on addressing global warming, as highlighted during a summit between Prime Minister Junichiro Koizumi and President George W. Bush. Bush reiterated his opposition to the Kyoto Protocol, advocating instead for an alternative plan that focuses on voluntary limits on greenhouse gas emissions tied to economic growth. Koizumi expressed support for the Kyoto Protocol but acknowledged the U.S.'s decision, calling the new plan "constructive" while urging further efforts. Environmentalists criticize the U.S. proposal as ineffective, warning it could lead to rising emissions. Despite their differences, both leaders agreed to collaborate on developing new technologies to combat global warming, emphasizing the potential benefits for both the environment and economic growth. END OF SUMMARY.

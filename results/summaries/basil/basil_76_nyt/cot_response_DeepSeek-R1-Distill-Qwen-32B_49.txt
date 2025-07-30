@@ -1,0 +1,41 @@
+Okay, I need to help the user by summarizing the given news article while preserving the moral framing. The user has specified two main steps: first, identifying all the morally framed single words, and second, writing a concise summary that includes as many of those words as possible.
+
+Starting with STEP 1, I'll go through the article and pick out words that carry a moral connotation. Words like "defended," "sexual advances," "kissing," "undressing," "touching," "pursued," "false," "desperate," "political attack," "partisan plot," "corroborated," "contrived," "garbage," "immoral," "illegal," "predatory," "victim," "prosecute," "support," "sex crime," "good decisions." These words are all charged with moral implications, so they should be highlighted.
+
+For the summary, I need to condense the article into under 200 words, making sure to include the morally framed words. The summary should cover the main points: Republican defense of Moore, the allegations, Moore's denial, the backlash, the officials' responses, and the differing stances among party members.
+
+I'll structure the summary by first stating that Republican officials defended Moore despite the allegations. Then, I'll mention the specific actions reported, Moore's denial, and the officials' reactions, using the identified moral words. I'll also note the differing opinions among party members regarding support for Moore.
+
+I need to ensure the summary flows logically and includes all key elements without being too lengthy. I'll avoid adding any new information not present in the article and stick strictly to the facts and moral framing provided.
+
+Finally, I'll make sure the summary starts with "SUMMARY:" and ends with "END OF SUMMARY." to meet the user's formatting requirements.
+</think>
+
+### STEP 1:  
+* defended  
+* sexual advances  
+* kissed  
+* undressed  
+* touching  
+* pursued  
+* false  
+* desperate  
+* political attack  
+* partisan plot  
+* corroborated  
+* contrived  
+* garbage  
+* immoral  
+* illegal  
+* predatory  
+* victim  
+* prosecute  
+* support  
+* sex crime  
+* good decisions  
+
+---
+
+### SUMMARY:  
+Republican officials in Alabama defended Senate nominee Roy S. Moore despite allegations of sexual advances toward teenage girls in the 1970s. The Washington Post reported that Moore, then a district attorney, made inappropriate advances toward a 14-year-old and three other teenagers. Moore denied the claims, calling them "completely false" and a "desperate political attack." Alabama Republicans dismissed the allegations as "total contrived media garbage" and accused the Democrats of orchestrating the story. Some officials, like Jim Ziegler, claimed Moore's actions were "not immoral or illegal," comparing him to biblical figures. Others, like Jerry Pow, stated they would support Moore even if he committed a sex crime. Meanwhile, Daniel Dale reported that some party members, like Riley Seibenhener, would not support Moore if the allegations were true, though they questioned the credibility of the victims. The story highlights the partisan divide and the moral questions surrounding the allegations.  
+END OF SUMMARY.

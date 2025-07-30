@@ -1,0 +1,26 @@
+<think>
+Okay, I need to help the user by summarizing the given news article while preserving the moral framing. The user has provided specific instructions, so I should follow them step by step.
+
+First, I'll start by identifying all the single words that carry moral framing in the article. I'll go through each sentence and pick out words that have a strong moral connotation. Words like "swift," "negative," "embarrassment," "affront," "irresponsible," "dishonest," "inconsistent," "shaky," "betrayal," and "failure" stand out as they express judgment or evaluation.
+
+Next, I'll summarize the article. I need to make sure the summary is concise, under 200 words, and includes as many of those morally framed words as possible. The summary should capture the main points: Michael Steele's comment, the reactions from conservatives, the inconsistency in his statements, the support from Republicans, the irony of his comments resonating with anti-war Democrats, and the impact on his position.
+
+I'll structure the summary to first mention Steele's comment and the negative reactions, then the inconsistency in his past statements, the support for the war, and the consequences of his remarks. I'll ensure the morally framed words are included to maintain the original tone.
+
+Finally, I'll make sure the summary flows well and stays within the word limit. I'll check that all key points are covered and that the moral framing is preserved as per the user's request.
+</think>
+
+**STEP 1:**  
+* Swift  
+* Negative  
+* Embarrassment  
+* Affront  
+* Irresponsible  
+* Dishonest  
+* Inconsistent  
+* Shaky  
+* Betrayal  
+* Failure  
+
+**SUMMARY:**  
+Michael Steele, chairman of the RNC, faced swift negative reactions after stating that the war in Afghanistan was "largely unwinnable" and "Obama’s choosing." Bill Kristol harshly criticized Steele, calling his comments an "affront" to the Republican Party and its soldiers, and demanded his resignation. Other conservatives, like Dan Senor, labeled Steele’s remarks "irresponsible," noting his past support for the war and his inconsistent statements. Steele’s spokesman attempted to clarify, but the damage was done. Steele’s comments resonated with anti-war Democrats and some conservatives, but as the Republican figurehead, his stance was seen as dishonest and inconsistent. The controversy has further weakened his already shaky tenure, with GOP operatives spreading the narrative of his troubles. END OF SUMMARY.

@@ -1,0 +1,33 @@
+Alright, so the user has given me a query where I need to act as a news summarizer and a moral expert. They want me to first identify all the morally framed single words in the provided news article and then write a concise summary preserving those moral framings. 
+
+First, I need to understand what "morally framed words" mean. These are words that carry a moral connotation, indicating approval or disapproval. They often relate to concepts like fairness, justice, harm, rights, etc.
+
+Looking at the article, I'll go through each paragraph and pick out words that have a moral charge. For example, "pressure" might imply that the governor is under moral obligation. "Veto" is a political term but in this context, it's about making a moral decision. "Opponents" suggests a conflict with moral implications. 
+
+I'll list each word starting with a star, each on a new line. Once that's done, I need to summarize the article, making sure to include as many of these moral words as possible without making the summary too long—under 200 words.
+
+I should focus on the key points: the bill's content, the governor's dilemma, the reactions from various groups, the potential economic impact, and the broader implications for Arizona's image. I'll make sure to highlight the moral arguments from both sides, like "intolerance" versus "liberty."
+
+I need to ensure the summary flows well, covering all essential aspects without getting bogged down in details. It's important to maintain the moral framing to reflect the author's perspective accurately.
+</think>
+
+**STEP 1:**  
+* Pressure  
+* Veto  
+* Opponents  
+* Mischaracterized  
+* Intolerance  
+* Hijacked  
+* Lies  
+* Personal attacks  
+* Irresponsible reporting  
+* Immeasurable harm  
+* Carte blanche  
+* Discriminate  
+* Guise  
+* Consensus  
+* Protecting  
+* Religious liberty  
+
+**SUMMARY:**  
+Gov. Jan Brewer of Arizona faced intense pressure to veto a controversial bill allowing business owners to refuse service to gays and others citing religious beliefs. The bill, which passed the Legislature, drew criticism from elected officials, business leaders, and even Republican senators who expressed concern it would harm the state’s image and economy. Apple and American Airlines executives urged Brewer to reject the measure, warning it could jeopardize Arizona’s economic recovery. The bill’s supporters defended it, claiming it was meant to protect religious freedom but was being mischaracterized as promoting intolerance. The state’s image, already tarnished by a divisive 2010 immigration law, could suffer further if the bill becomes law. Republican candidates for governor also opposed the measure, with one calling it a license for discrimination. Brewer received over 10,000 calls and emails as she decided whether to sign or veto the bill. END OF SUMMARY.

@@ -1,0 +1,38 @@
+<think>
+Alright, I need to tackle this query. The user wants me to act as a news summarizer and moral expert. They provided a news article about Texas Gov. Rick Perry's ad attacking Obama's policies as a "War on Religion." My task is to first identify all the morally framed words and then write a summary preserving the moral framing.
+
+First, I'll read through the article carefully. I'm looking for words that carry moral connotations. Words like "attack," "war," "defend," "ashamed," "Christian," "gays," "serve," "celebrate," "pray," "fight," "liberal," "attacks," "traditional," "values," "wrong," "objectionable," "promote," "lifestyle," "investing," "tax dollars," "strong." These terms are used to frame the issue in a moral context, highlighting conflicts between religious values and government actions.
+
+Next, I need to summarize the article, making sure to include these morally charged words. The summary should be concise, under 200 words, and capture the essence of Perry's argument. I'll focus on Perry's claims about Obama's policies, his use of faith in the ad, and the specific examples he cites, like the Defense of Marriage Act and the foreign aid memorandum. I'll also mention Perry's Methodist background and his appeal to evangelical voters.
+
+I should ensure the summary flows well and accurately reflects the moral framing without adding personal opinions. I'll start by stating Perry's attack, mention the ad's title and key points, and conclude with the impact on the campaign and voter appeal. Keeping it within the word limit is crucial, so I'll be concise but thorough.
+
+Finally, I'll structure the response as per the user's instructions: first listing the morally framed words under STEP 1, each on a new line, then the summary after the SUMMARY token. I need to make sure everything is clear and follows the specified format.
+</think>
+
+**STEP 1:**  
+* Attack  
+* War  
+* Defend  
+* Ashamed  
+* Christian  
+* Gays  
+* Serve  
+* Celebrate  
+* Pray  
+* Fight  
+* Liberal  
+* Attacks  
+* Traditional  
+* Values  
+* Wrong  
+* Objectionable  
+* Promote  
+* Lifestyle  
+* Investing  
+* Tax dollars  
+* Strong  
+
+**SUMMARY:**  
+Texas Gov. Rick Perry is running ads claiming President Obama is waging a "War on Religion," arguing that Obama's policies attack faith and traditional American values. In a new ad titled "Strong," Perry emphasizes his Christian identity and criticizes Obama for allowing gays to serve openly in the military while restricting Christmas celebrations and prayer in schools. He accuses Obama of promoting liberal values that conflict with religious heritage, citing examples like ending support for the Defense of Marriage Act and omitting God in Thanksgiving speeches. Perry also opposes Obama's memorandum requiring foreign aid to promote gay rights, calling it a misuse of tax dollars to support a lifestyle many find objectionable. As a Methodist, Perry appeals to evangelical voters, asserting that faith made America strong and can do so again. His campaign is targeting social conservative values in Iowa.  
+**END OF SUMMARY.**

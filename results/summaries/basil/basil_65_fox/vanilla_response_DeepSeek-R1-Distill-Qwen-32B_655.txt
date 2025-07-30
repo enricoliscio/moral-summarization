@@ -1,0 +1,19 @@
+Alright, I need to help the user by summarizing the given news article. The user is a news summarizer assistant, so the task is to create a concise summary of the article provided.
+
+First, I'll read through the article to understand the main points. The article is about Michael Bloomberg endorsing Hillary Clinton at the Democratic National Convention. He emphasizes the importance of voting for Clinton over Trump, despite their disagreements. He criticizes Trump, calling him a demagogue and pointing out his business failures. Bloomberg also mentions his past consideration of a third-party run but decided against it to prevent helping Trump get elected.
+
+Next, I need to extract the key details: Bloomberg's endorsement, his reasons, his criticisms of Trump, and his past relationship with both Clinton and Trump. I should keep the summary under 200 words and make sure it's clear and concise.
+
+I'll start by stating who Bloomberg is and his endorsement. Then, mention his reasons, including his past political affiliations and his criticisms of Trump. I'll also include his past consideration of a third-party run and his reasons for not pursuing it. Finally, I'll note his relationship with Clinton and Trump, and his stance on immigration.
+
+I should ensure the summary flows well and covers all important points without being too detailed. I'll avoid any unnecessary information and focus on the main events and statements from the article.
+
+Now, I'll structure the summary, making sure it starts with the endorsement, includes his criticisms, his past political moves, and his reasons for not running. I'll end with his assessment of Trump's economic plan and his support for Clinton.
+
+I need to make sure the summary is within the word limit and properly formatted with the "SUMMARY:" and "END OF SUMMARY." tokens as instructed.
+
+Finally, I'll review the summary to ensure it's accurate, concise, and covers all the essential elements from the article.
+</think>
+
+SUMMARY:  
+Former New York City Mayor Michael Bloomberg endorsed Hillary Clinton at the Democratic National Convention, calling it "imperative" to support her over Donald Trump. Bloomberg, a self-made billionaire with a net worth of $48 billion, criticized Trump as a "dangerous demagogue" and "bomb-thrower," contrasting his own business success with Trump's history of bankruptcies and lawsuits. Bloomberg, who briefly considered a third-party presidential run but ultimately decided against it to avoid helping Trump, emphasized the importance of unity to defeat Trump. He also criticized Trump's immigration policies and economic plan, calling them "a con" and "a disaster in the making." Bloomberg, who had a cordial relationship with Clinton during her tenure as a senator, expressed concern over Trump's leadership and hypocrisy. END OF SUMMARY.

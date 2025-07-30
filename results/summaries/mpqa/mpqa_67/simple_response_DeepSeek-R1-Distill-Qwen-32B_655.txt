@@ -1,0 +1,14 @@
+Alright, so I'm trying to figure out how to approach this query. The user wants a summary of a news article, but with a specific focus on preserving the moral framing that the author provided. They also mentioned that I should act as both a news summarizer and a moral expert. 
+
+First, I need to understand the content of the article. It's about the Namibian government dismissing a US human rights report. The report accuses Namibia of various human rights violations, including extra-judicial killings and torture by security forces. The government's response is to criticize the US for its own human rights issues, like Guantanamo Bay detentions.
+
+I should start by identifying the key points: the dismissal of the report, the specific accusations, the government's counterarguments, and the moral implications involved. The moral framing here is important because the government is not just dismissing the report but is also pointing out the US's hypocrisy by citing their own human rights violations.
+
+Next, I need to condense this into a concise summary without losing the moral aspect. I should mention the main accusations from the US report and the Namibian government's rebuttal, highlighting the moral criticism they're making against the US. It's crucial to keep the summary under 200 words and ensure it flows naturally.
+
+I also need to make sure that the summary starts with "SUMMARY:" and ends with "END OF SUMMARY." as per the user's instructions. I should avoid any markdown formatting and keep the language clear and straightforward.
+
+Finally, I'll review the summary to ensure it accurately reflects the article's content and the moral perspective presented by the government's response. Making sure that the counterpoints are clearly stated and that the summary remains balanced in presenting both sides.
+</think>
+
+SUMMARY: The Namibian government has dismissed a US human rights report that accuses its security forces of committing human rights violations, including extra-judicial killings, torture, and arbitrary arrests. The report highlights abuses in the Kavango and Caprivi regions, linking them to suspicions of ties with the Angolan rebel group Unita and the Caprivi Liberation Army. Namibia's Information Permanent Secretary, Mocks Shivute, criticized the US for hypocrisy, citing its detention of individuals at Guantanamo Bay without trial. Shivute argued that Namibia attaches little value to the report due to factual inaccuracies, such as misrepresenting media affiliations and historical data. He also questioned whether similar actions by the US, like detaining prisoners in special camps during the Afghanistan war, would be labeled as human rights abuses. The government's response underscores a moral critique of the US's own human rights record, framing the report as biased and unreliable. END OF SUMMARY.

@@ -1,0 +1,25 @@
+Okay, so I'm trying to help the user with their query. They want me to act as a news summarizer assistant and a moral expert. The task is to summarize a given news article while preserving the moral framing the author used. 
+
+First, I need to understand the structure of the query. They provided a news article about Taro Kono's criticism of President Bush's speech. The user has two main steps: identifying morally framed words and then writing a summary that includes as many of those words as possible.
+
+For the first step, I need to go through the article and pick out words that carry moral connotations. Words like "criticized," "heckling," "unacceptable," "necessary," "right," "attack," and "immediately" come to mind. These words reflect judgment or evaluation, which is the moral framing.
+
+Next, for the summary, I have to make sure it's concise, under 200 words, and includes those morally charged words. I should capture the essence of Kono's criticism, his frustration with US policies, and the reactions from others, like the Middle Eastern ambassadors. I need to ensure the summary flows well and accurately represents the original article's moral perspective.
+
+I also need to make sure I follow the formatting instructions: starting with "STEP 1:" and listing each word with a bullet point. Then, after the summary, I need to include the "SUMMARY:" and "END OF SUMMARY." tokens as specified.
+
+I should double-check that I'm not missing any morally framed words and that the summary accurately reflects the article's tone and content. It's important to preserve the moral framing, so I'll make sure the summary doesn't just report facts but also conveys the criticism and disapproval present in the original text.
+</think>
+
+**STEP 1:**  
+* Criticized  
+* Heckling  
+* Unacceptable  
+* Necessary  
+* Right  
+* Attack  
+* Immediately  
+
+**SUMMARY:**  
+Taro Kono, a Liberal Democratic Party member and son of former Foreign Minister Yohei Kono, criticized President Bush's speech before the Japanese Diet. Kono expressed frustration with the U.S. stance on key issues, such as the Kyoto Protocol, CTBT, and land mines, arguing that "value sharing" is essential for the Japan-U.S. relationship. He highlighted the U.S. government's refusal to address these concerns, calling their positions "unacceptable." Middle Eastern ambassadors took notice of Kono's critique, seeking his thoughts on the speech. Kono's comments reflect a moral critique of U.S. policies and their implications for global cooperation.  
+**END OF SUMMARY.**

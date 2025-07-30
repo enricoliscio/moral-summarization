@@ -1,0 +1,16 @@
+Okay, I need to help the user by summarizing the given news article while preserving the moral framing. First, I'll read through the article to understand the main points. The article is about President Obama addressing concerns regarding Russian hacking in the U.S. election and his comments on President-elect Trump and Republicans. 
+
+I notice that the user provided a list of morally framed words that should be included in the summary. I need to make sure these words are present. Words like "concern," "hacking," "influence," "help," "approve," etc., are key here. 
+
+I'll start by identifying the main sections of the article. Obama expresses hope that Trump will show concern about Russian hacking, criticizes Republicans for prioritizing defeating Clinton over addressing foreign influence, and mentions the intelligence reports supporting the hacking claims. He also criticizes GOP voters for approving of Putin and the lack of a strong response from Congress.
+
+Next, I need to condense these points into a summary under 200 words. I'll make sure to include the morally framed words without making the summary too verbose. I should also maintain the structure, starting with Obama's hope, moving to his criticisms, and ending with the need for a robust response.
+
+I'll check the word count to ensure it's within the limit. Also, I need to end the summary with "END OF SUMMARY." and start with "SUMMARY:". 
+
+I think the initial summary provided by the user is a good template, but I should make sure it's accurate and concise. Let me rephrase some parts to ensure clarity while keeping the moral framing intact.
+
+Finally, I'll review the summary to ensure all key points are covered and the moral words are appropriately included. This should meet the user's requirements effectively.
+</think>
+
+SUMMARY: President Obama expressed hope that President-elect Trump would show concern about Russian hacking in the U.S. election, criticizing Republicans for prioritizing defeating Hillary Clinton over addressing foreign influence. Obama emphasized that preventing foreign interference should not be a partisan issue, stating he has "great confidence" in intelligence reports implicating Russia. He also criticized GOP voters for approving of Russian President Vladimir Putin, calling it troubling. Obama blamed partisan divides in Washington for the lack of a stronger stance against Russia, warning that without change, the U.S. would remain vulnerable to cyberattacks. He confirmed that Russia is responsible for hacking and vowed consequences, though he stressed a thoughtful response. Obama also criticized journalists for publishing stolen documents, while Sen. Ben Sasse argued for a more robust response to Russia's aggressions. Obama declined to directly link Russian meddling to Clinton's loss but criticized media coverage of her campaign. He assured cooperation with Trump's transition, despite growing hostility between the White House and Trump's team. END OF SUMMARY.

@@ -1,0 +1,14 @@
+Okay, so the user wants me to summarize a news article while preserving the moral framing. They provided the article and a list of morally charged words. I need to make sure the summary includes as many of those words as possible without making it too long, around 200 words. 
+
+First, I'll read through the article to understand the main points. The key events are the shooting at Santa Fe High School, the suspect's history of aggressive behavior towards one of the victims, and the aftermath including vigils and debates on gun control. 
+
+I need to identify the morally framed words used. Words like "shooting," "rampage," "killed," "attack," "murdering," etc. I should incorporate these into the summary to maintain the author's tone.
+
+I'll start by stating the suspect's name and the incident. Then mention the victim's mother's account about the aggressive advances and how that led to the shooting. It's important to note the emotional impact and the community's response with vigils.
+
+Next, I'll include the authorities' statements about the suspect's possible motive, the lack of bullying claims, and the NRA's stance on gun control. Finally, I'll wrap up with the family's reaction and the ongoing debate.
+
+I should keep each sentence concise and ensure that the morally charged words are naturally integrated. Let me piece this together, making sure not to exceed 200 words and to end with the specified tokens.
+</think>
+
+SUMMARY: A 17-year-old suspect, Dimitrios Pagourtzis, is accused of killing eight students and two teachers in a shooting rampage at Santa Fe High School in Texas. The mother of one victim, Shana Fisher, claimed her daughter rejected Pagourtzis' aggressive advances months prior, leading to the attack. Pagourtzis allegedly confessed to the killings but provided little information about his motives. Authorities have denied claims that he was bullied. The incident, the fourth-deadliest mass shooting at a U.S. school, has sparked grief and debates over gun control. Vigils were held in Santa Fe, with mourners expressing solidarity. The suspect's family expressed shock and cooperation with authorities. The NRA advocated for school security measures rather than restricting gun rights. END OF SUMMARY.

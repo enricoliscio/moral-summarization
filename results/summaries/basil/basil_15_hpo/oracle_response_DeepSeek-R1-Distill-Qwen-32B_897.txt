@@ -1,0 +1,20 @@
+Alright, I need to help the user by summarizing the given news article while preserving the moral framing. The user specified that I should use the morally framed words: advertising, reads, biased, and portrayed. 
+
+First, I'll read through the article to understand the main points. Newsweek has a cover featuring Michele Bachmann with the headline "THE QUEEN OF RAGE." The article mentions that "rage" isn't in the actual profile but criticizes the Tea Party as radical. Conservatives are upset, calling the cover biased and comparing it to past controversial covers of Romney and Palin.
+
+I need to make sure the summary includes the morally framed words. I'll start by mentioning the cover and headline, using "advertising" and "reads." Then, I'll note the criticism from conservatives about bias, using "biased." I'll also include how Newsweek has portrayed Romney and Palin before, using "portrayed." 
+
+I should keep the summary concise, under 200 words, and ensure it flows naturally. I'll structure it to first present the cover, then the criticism, and finally the comparison to past covers. 
+
+Let me draft it: 
+
+Newsweek's latest cover features Michele Bachmann with the headline "THE QUEEN OF RAGE," advertising their story. The headline reads, but the article itself doesn't use "rage," instead criticizing Bachmann's Tea Party ties as radical. Conservatives argue the cover is biased, claiming it portrays Bachmann as "crazy." They also point out past controversial covers, like Romney as a Mormon star and Palin's 2009 cover, suggesting media bias against conservatives.
+
+Wait, I used "portrayed" twice. Maybe I can vary it. Also, I need to ensure the summary is within the word limit and flows well. Let me adjust:
+
+Newsweek's latest issue features a cover of Michele Bachmann under the headline "THE QUEEN OF RAGE," advertising their story. The headline reads, but the article itself doesn't use the word "rage," instead criticizing Bachmann's Tea Party ties as radical. Conservative critics argue the cover is biased, claiming it portrays Bachmann as "crazy." They also point to Newsweek's history of controversial covers, including Mitt Romney as a Mormon star and Sarah Palin in 2009, suggesting media bias against conservatives.
+
+That's concise, includes all the moral words, and flows well. I think this meets the user's requirements.
+</think>
+
+SUMMARY: Newsweek's latest issue features a cover of Michele Bachmann under the headline "THE QUEEN OF RAGE," advertising their story. The headline reads, but the article itself doesn't use the word "rage," instead criticizing Bachmann's Tea Party ties as radical. Conservative critics argue the cover is biased, claiming it portrays Bachmann as "crazy." They also point to Newsweek's history of controversial covers, including Mitt Romney as a Mormon star and Sarah Palin in 2009, suggesting media bias against conservatives. END OF SUMMARY.

@@ -1,0 +1,18 @@
+Alright, so the user has given me a query where they want me to act as a news summarizer. They provided an article about Glenn Beck's speech at CPAC and want a concise summary. Let me break down what I need to do here.
+
+First, I need to understand the main points of the article. It's about Glenn Beck, a Fox News host, giving a keynote speech at CPAC. He's blaming progressivism for America's issues. He uses a chalkboard, which is a prop he's known for, to emphasize his points. The article mentions that he rejects the idea of the Republican Party expanding to include progressives, which drew laughter from the audience. He also talks about his troubled past and the idea that life isn't fair. The speech was part of a three-day event with various politicians, and Beck was a key reason people attended. His popularity has risen alongside the Tea Party Movement, and he's involved with the 9/12 Project, which focuses on certain values and principles. A student attended his march and sees him as a relatable figure.
+
+Now, I need to create a summary that captures all these elements without exceeding 200 words. I should start by identifying the key elements: who, what, when, where, why. The who is Glenn Beck, the event is CPAC, the action is his speech blaming progressivism, and the impact on the audience and his role in the conservative movement.
+
+I should structure the summary to include Beck's main argument, his use of the chalkboard, his rejection of expanding the Republican Party, a bit about his personal story, the context of the event, his influence, and the impact of his projects. Also, including the student's perspective adds a human element and shows his influence.
+
+I need to make sure the summary flows well, is concise, and hits all the important points without going into too much detail. I should avoid jargon and keep it clear and straightforward. Also, the user specified that the summary should be after "SUMMARY:" and end with "END OF SUMMARY." so I need to adhere to that formatting.
+
+I should also check the word count to ensure it's under 200 words. Let me draft the summary, making sure each sentence covers a key point without overlapping or being redundant.
+
+Finally, I'll review the summary to ensure it accurately reflects the article's content and meets all the user's requirements.
+</think>
+
+SUMMARY:  
+Glenn Beck, a Fox News host, delivered a fiery keynote speech at the Conservative Political Action Conference (CPAC), blaming "progressivism" for America's problems. Using his signature chalkboard, Beck criticized the Republican Party for considering inclusivity of progressives, calling it "not that simple." He rejected the idea, likening it to a circus, and emphasized that America is an idea meant to set people free. Beck also shared insights from his troubled past, stating that life isn't fair and the "bad guy sometimes wins." His speech capped a three-day event featuring politicians and drew attendees who viewed him as a leader in the conservative movement. Beck's rising popularity coincides with the Tea Party Movement and anti-Washington sentiment. He also launched the 9/12 Project, promoting core American values, which inspired a major Washington march. Attendee Cynthia Burgiss praised Beck as a relatable figure, crediting him for sparking the movement.  
+END OF SUMMARY.

@@ -1,0 +1,16 @@
+Okay, so the user wants me to summarize a news article, but they also want me to preserve the moral framing the author gave it. Hmm, I need to make sure I capture the essence of the article without losing the moral perspective. 
+
+First, I'll read through the article carefully. It's about Glenn Beck's speech at CPAC 2010. He's talking about Republicans needing to get their house in order before trying to govern again. He's emphasizing ideological purity, which is a strong moral stance. 
+
+I notice that Beck is critical of Democrats and their progressive policies, saying they're eating the Constitution. That's a moral argument against their actions. He's also targeting Republicans who might be too similar to Democrats, which is a call for them to stay true to their principles.
+
+He uses his personal story, like being a recovering alcoholic, to draw parallels to the Republican Party's need for a 12-step program. That adds an emotional and moral depth to his argument. The article also contrasts this with the traditional idea that parties should broaden their appeal, but Beck is against that, saying it's not a circus but an idea of freedom.
+
+I need to make sure the summary includes these key points: Beck's demand for Republican purity, his critique of Democrats, his personal analogy, and the rejection of a big tent approach. I should keep it concise, under 200 words, and end with the specified tokens.
+
+Let me structure it step by step: introduce Beck and the event, his main message, the critique of Democrats, the call for purity among Republicans, the personal analogy, and the rejection of expanding the party's base. That should cover the moral framing effectively.
+</think>
+
+SUMMARY:  
+Glenn Beck, in his 2010 CPAC speech, called for Republican unity and ideological purity, rejecting the notion of a "big tent" approach. He criticized Democrats, claiming their progressivism "eats the Constitution," and urged Republicans to avoid policies resembling the Democratic agenda. Beck emphasized the need for the GOP to address its own flaws, likening its recovery to a 12-step program, and criticized those within the party for not embracing this transformation. He also criticized Teddy Roosevelt for laying the groundwork for modern progressivism. Beck's speech intertwined his personal struggles, such as his recovery from alcoholism, to highlight the importance of redemption and principle over political pragmatism. His message was a moral call to action, asserting that America's strength lies in its founding ideas, not in expanding its political base.  
+END OF SUMMARY.

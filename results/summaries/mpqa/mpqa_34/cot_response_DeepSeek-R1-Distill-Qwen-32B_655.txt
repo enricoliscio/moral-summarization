@@ -1,0 +1,35 @@
+<think>
+Alright, let me try to figure out how to approach this user's query. So, the user wants me to act as a news summarizer and a moral expert. They provided a news article about China criticizing the US human rights report. My task is to first identify all the morally framed single words and then write a summary preserving those moral framings.
+
+First, I need to understand what morally framed words are. These are words that carry a strong moral judgment, like "criticizes," "abuses," or "discrimination." They convey a value judgment rather than just a neutral fact.
+
+Looking at the article, I'll go through each sentence to spot these words. The first sentence mentions "criticizes," which is definitely a moral frame. Then, "accusing" Washington of "turning a blind eye," so "accusing" and "blind eye" are also framed. Next, the report lists "police abuses," "poverty," "racial discrimination," and "lack of personal safety." All of these are strong moral issues. 
+
+The report also accuses the US of "wantonly infringing" on sovereignty, so "infringing" is another moral term. It mentions "withdrawing from the Kyoto Protocol," which carries a moral implication about environmental responsibility. The Chinese report says the US "distorted" human rights conditions and "accused" others while ignoring its own problems. So "distorted" and "accused" are also framed words.
+
+Now, moving on to the summary. I need to condense the article, keeping as many of these moral terms as possible. The summary should be concise, under 200 words, and include the key points: China's annual report, the accusations against the US, the specific issues like police abuses, poverty, discrimination, and the US's actions regarding sovereignty and the Kyoto Protocol. I also need to mention that this is China's response to the US report that accuses China of human rights abuses.
+
+I should structure the summary to start with China issuing the report, then list the accusations, and conclude with the context of it being a response to the US report. Making sure each morally framed word is included where appropriate.
+
+I think I've covered all the steps. Let me put it all together now.
+</think>
+
+**STEP 1:**
+
+* Criticizes  
+* Accusing  
+* Turning a blind eye  
+* Abuses  
+* Poverty  
+* Racial discrimination  
+* Lack of personal safety  
+* Wantonly infringing  
+* Sovereignty  
+* Distorted  
+* Accused  
+
+---
+
+**SUMMARY:**  
+China has issued its annual report criticizing the United States for its human rights record, accusing Washington of ignoring domestic abuses while condemning others. The report highlights police abuses, poverty, racial discrimination, and personal safety issues in the U.S. It also condemns U.S. military operations as "wantonly infringing" on other nations' sovereignty and criticizes the Bush administration for withdrawing from the Kyoto Protocol. China releases this report annually in response to the U.S. State Department's global human rights report, which often accuses China of widespread abuses. The Chinese report accuses the U.S. of distorting human rights conditions in other countries while ignoring its own problems.  
+END OF SUMMARY.

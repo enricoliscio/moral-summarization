@@ -1,0 +1,40 @@
+Alright, I need to help the user by summarizing the news article while preserving the moral framing. Let me start by understanding the task. The user wants two things: first, identify all the single words that are morally framed in the article, and second, write a concise summary that includes as many of those words as possible.
+
+Looking at the article, I'll go through each sentence to spot words that carry moral connotations. Words like "landmark," "priority," "expand," "transparency," "restore," "strengthens," "opportunity," "history," "attacks," "inequality," "empowering," "assault," "corruption," "front," "center," "mandate," and "fight" stand out. These words are used to convey the moral stance of the Democrats and the opposition from Republicans.
+
+Next, I need to summarize the article. I'll focus on the key points: the bill's passage, its main provisions, the Democrats' goals, Republican opposition, and the future steps. I'll make sure to include the morally framed words to maintain the original tone.
+
+I should keep the summary under 200 words, so I'll be concise but cover all essential aspects. I'll structure it to highlight the bill's significance, the reforms it introduces, the opposition faced, and the ongoing efforts by Democrats to push for these changes.
+
+Now, putting it all together, I'll ensure that the summary flows logically, starting with the bill's passage, moving through its provisions, the political battle, and the future plans. I'll use the identified moral words to emphasize the stakes and the parties' positions.
+
+I think that's a solid approach. Let me draft the summary, making sure it's clear and within the word limit while preserving the moral framing.
+</think>
+
+**STEP 1:**
+
+* landmark  
+* priority  
+* expand  
+* transparency  
+* restore  
+* strengthens  
+* opportunity  
+* history  
+* attacks  
+* inequality  
+* empowering  
+* assault  
+* corruption  
+* front  
+* center  
+* mandate  
+* fight  
+
+---
+
+**SUMMARY:**  
+
+The For The People Act, a landmark bill passed by the House, aims to expand voting access, reduce inequality in campaign funding, and restore rights to millions of ex-felons. Democrats, led by Nancy Pelosi, view it as a historic step to empower small donors and take power from elites. Republicans oppose it, calling it a federal power grab and an assault on free speech. The bill, which passed on party lines, faces opposition in the Senate, where Majority Leader Mitch McConnell is unlikely to advance it. Democrats, however, believe the reforms are popular and plan to keep the fight for voting rights and ethics front and center. The legislation represents a pivotal effort to change politics and ensure fair representation for all.  
+
+**END OF SUMMARY.**

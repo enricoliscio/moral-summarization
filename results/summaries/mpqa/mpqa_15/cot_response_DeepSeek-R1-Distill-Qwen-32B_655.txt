@@ -1,0 +1,27 @@
+Okay, so I'm trying to figure out how to approach this query. The user wants me to act as a news summarizer and a moral expert. They provided a news article about the Shuttle Atlantis launch and specific instructions on how to process it. 
+
+First, I need to understand the two main tasks. The first step is to identify all the single words in the article that are morally framed. Then, I have to write a summary that preserves these moral framings, keeping it under 200 words.
+
+Looking at the article, I'll start by reading through it to spot any words that carry moral connotations. Words like "successful," "frantic," "milestone," "extra," "leak," "sprung," "ride," "grandfather," and "keystone" stand out. These words might imply success, urgency, importance, or necessity.
+
+Next, I need to summarize the article while including these morally framed words. The summary should be concise, so I'll focus on the key points: the launch of Atlantis, the successful mission despite delays, the milestone for US space flight, and the installation of the keystone structure. I'll make sure to include the words I identified to maintain the moral framing.
+
+I should also check the word count to ensure it's within the limit. After drafting, I'll review to make sure all the important details are included and that the moral words are appropriately integrated without making the summary too long.
+
+Finally, I'll structure the response as per the user's instructions, starting with the identified words under STEP 1 and then providing the summary under SUMMARY, ending with the specified tokens. I need to ensure clarity and coherence in the summary, making it informative and reflective of the original article's tone and moral framing.
+</think>
+
+**STEP 1:**  
+* successful  
+* frantically  
+* milestone  
+* extra  
+* leak  
+* sprung  
+* ride  
+* grandfather  
+* keystone  
+
+**SUMMARY:**  
+The space shuttle Atlantis successfully launched from Cape Canaveral, carrying seven astronauts and essential hardware to the International Space Station. The mission marked a milestone in U.S. space flight, with astronaut Jerry L. Ross becoming the first to make seven space flights. The launch faced delays due to a computer glitch and a liquid hydrogen vent pipe leak, but engineers worked frantically to resolve issues, allowing liftoff with just 11 seconds to spare. During the 11-day mission, astronauts will install the "keystone" center support unit, a 44-foot-long, 27,000-pound structure critical for supporting a new solar energy array. This flurry of activity aims to bring the space station closer to completion.  
+**END OF SUMMARY.**

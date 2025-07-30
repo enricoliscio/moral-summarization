@@ -1,0 +1,17 @@
+<think>
+Alright, so I've got this query where I need to summarize a news article while preserving the moral framing. Let me break it down.
+
+First, the user wants a news summary from an assistant who's also a moral expert. The key is to keep the morally charged words the author used. I need to make sure those words are included in the summary.
+
+Looking at the article, it's about a failed attempt to create fake sexual misconduct allegations against Robert Mueller. The main players are Jacob Wohl and Jack Burkman. The article uses terms like "offered," "scheme," "smear," "plot," "scam," "rape," "troll," etc. These are the morally framed words I need to retain.
+
+I should start by identifying the main points: the attempt to drum up false claims, the involvement of Wohl and Burkman, the FBI's involvement, and the media's reaction. I need to weave these points together using the specified moral terms.
+
+I also need to keep the summary under 200 words. So, I'll structure it to first mention the attempt, then the individuals involved, the FBI's action, the media's role, and the potential consequences. I'll make sure each sentence includes the necessary moral terms without making it too verbose.
+
+Let me draft it: mention the collapse of the scheme, the individuals, the FBI referral, the smear attempt, the media coverage, and the trolling aspect. I'll ensure that each key moral word is included where appropriate.
+
+I think that's a solid approach. Now, putting it all together concisely.
+</think>
+
+SUMMARY: A failed attempt to drum up phony sexual misconduct allegations against Robert Mueller, the special counsel, has led to potential FBI involvement. The scheme, involving conservative activists Jacob Wohl and Jack Burkman, appears to have been a smear attempt, with Wohl suggesting a story about such claims was imminent. Wohl, known for his pro-Trump tweets and shady dealings, and Burkman, a conspiracy theorist, may have been involved in a plot to offer money to women to make false claims. The investigation into this scheme was referred to the FBI after journalists raised alarms about the suspicious operation. Media outlets, including major news organizations, devoted resources to debunking Wohl’s claims, which may have succeeded in diverting attention. Burkman continues to claim he will reveal Mueller’s victims, but his credibility is questionable. The FBI is now handling the matter, and Wohl may face consequences if the scam is proven. The attempt to drum up false claims and troll the media may have backfired, with the FBI now investigating the scheme. END OF SUMMARY.

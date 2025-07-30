@@ -1,0 +1,36 @@
+Okay, I need to help the user by summarizing the given news article while preserving the moral framing. The user has specified two main steps: first, identifying all single words that are morally framed, and second, writing a concise summary that includes as many of those words as possible.
+
+Starting with STEP 1, I'll read through the article carefully to pick out words that carry moral connotations. Words like "chaotic," "disordered," "intemperate," "undisciplined," "casual cruelty," "bigotry," "bad behavior," "empty barrel," "disdain," "disrespect," "outrageous," "indifferent," "cruelty," "heartless," "dehumanization," "rotten ideology," "contempt," "ethos," and "adult in the room" all seem to carry moral weight. I'll list each of these with a bullet point.
+
+Next, for the summary, I need to condense the article into about 200 words. The key points are John Kelly's tenure, his moral alignment with Trump, specific incidents like the spat with Wilson, the Civil War comments, the Porter scandal, and the child separation policy. I'll make sure to include the morally framed words to maintain the author's perspective. I'll structure the summary to show how Kelly's actions and statements reflect the administration's values, emphasizing the continuity of Trump's ideology despite Kelly's supposed moderation.
+
+I should ensure the summary flows logically, highlighting Kelly's role as a representative of Trumpism and the consequences of his policies. I'll avoid adding any new information not present in the article and stick to the main events and moral critiques presented.
+
+Finally, I'll make sure the summary starts with "SUMMARY:" and ends with "END OF SUMMARY." Keeping it concise while covering all critical points is essential. I'll review the word count to stay within the limit, trimming any unnecessary details without losing the moral framing.
+</think>
+
+**STEP 1:**
+
+* Chaotic
+* Disordered
+* Intemperate
+* Undisciplined
+* Casual cruelty
+* Bigotry
+* Bad behavior
+* Empty barrel
+* Disdain
+* Disrespect
+* Outrageous
+* Indifferent
+* Cruelty
+* Heartless
+* Dehumanization
+* Rotten ideology
+* Contempt
+* Ethos
+* Adult in the room
+
+**SUMMARY:**
+
+John F. Kelly, President Trump's chief of staff, is leaving the White House amid chaos and disorder, embodying the "Trumpism" ideology. Despite lacking Trump's intemperate attitude, Kelly shared his casual cruelty and tolerance for bigotry. During a spat with Florida Rep. Frederica Wilson, Kelly disrespected her by calling her an "empty barrel," signaling disdain for black female critics. He also defended Robert E. Lee as an "honorable man," ignoring the Civil War's roots in slavery, just months after the Charlottesville rally. Kelly defended Rob Porter, a senior aide accused of domestic abuse, calling him a "man of true integrity," despite knowing about a protective order. Kelly also supported the administration's "zero tolerance" policy, which separated children from their parents at the border, shrugging off the cruelty. His actions revealed a worldview aligned with Trump's rotten ideology, prioritizing normalcy over decency. Kelly's tenure highlights that the appearance of moderation is not moderation, and the administration's ethos flows from Trump's ethnonationalist instincts. END OF SUMMARY.

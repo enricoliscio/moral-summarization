@@ -1,0 +1,16 @@
+Okay, so the user wants me to summarize a news article about the Senate's response to Russian interference in the U.S. election. The user provided the article and specified the format, including the use of "SUMMARY:" and "END OF SUMMARY." tokens, and a word limit of 200 words.
+
+First, I need to read through the article carefully to understand the main points. The article talks about Mitch McConnell's stance on investigating Russian meddling. He prefers the Senate Intelligence Committee to handle it instead of a special committee. He emphasizes a bipartisan approach and mentions that he and Chuck Schumer are on the panel. 
+
+I should note the key players: McConnell, Schumer, McCain, and Burr. McCain wants a special committee, but McConnell thinks the existing one is sufficient. There's also mention of the CIA findings that Russia tried to influence the election, which McConnell finds disturbing. 
+
+Additionally, McConnell criticizes the leaks of intelligence findings, calling them irresponsible. Trump's spokesperson dismisses the investigations as sour grapes from Clinton supporters. Trump himself called the CIA report ridiculous.
+
+I need to condense all this into a concise summary, making sure to include the main points without exceeding 200 words. I should focus on McConnell's position, the opposition from McCain, the role of the Intelligence Committee, the criticism of leaks, and the reactions from Trump and his team.
+
+I also need to ensure the summary starts with "SUMMARY:" and ends with "END OF SUMMARY." to meet the user's formatting requirements. Let me structure the summary to cover McConnell's arguments, the alternative views, the implications of the investigation, and the political responses.
+
+I should avoid any markdown and keep the language clear and straightforward. Let me check the word count as I draft to stay within the limit. Okay, I think I have all the key elements covered. Time to put it all together concisely.
+</think>
+
+SUMMARY: Senate Majority Leader Mitch McConnell has called for the Senate Intelligence Committee to investigate recent CIA findings that Russia attempted to influence the 2016 U.S. presidential election. McConnell dismissed the idea of a special select committee, stating the Intelligence Committee is "more than capable" of handling the review on a bipartisan basis. He emphasized that the Russians are not friends of the U.S., citing Russia's invasion of Crimea. McConnell also declined to comment on potential nominee Rex Tillerson for Secretary of State, stating he would wait for official nominations. Meanwhile, Sen. John McCain and others have called for a special committee to investigate Russian interference, with McCain expressing concern about cybersecurity threats. McConnell noted that McCain and Intelligence Committee Chairman Richard Burr would be reviewing the issue. Trump's spokesperson dismissed the investigations as politically motivated, calling them an attempt to delegitimize Trump's win. Trump himself criticized the CIA report, calling it "ridiculous." END OF SUMMARY.

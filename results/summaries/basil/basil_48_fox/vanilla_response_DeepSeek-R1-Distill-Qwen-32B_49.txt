@@ -1,0 +1,18 @@
+Okay, so the user wants me to summarize a news article. Let me read through the query carefully. The user provided the article and specified that the summary should be after a "SUMMARY:" token and end with "END OF SUMMARY." Also, it needs to be no longer than 200 words. 
+
+First, I need to understand the main points of the article. It's about Elizabeth Lauten, a communications director for a Republican congress member, who made a controversial Facebook post about the Obama daughters. She criticized their outfits and behavior during the Thanksgiving address. She later apologized, explaining she judged them harshly. The article also mentions the turkey pardon tradition.
+
+I should start by identifying the key elements: who, what, when, where, why. The who is Elizabeth Lauten, her position, and her employer. The what is her critical Facebook post about Malia and Sasha Obama. The when is during the Thanksgiving address, and her apology came later. The where is Facebook, and the why is her judgment of their outfits and behavior.
+
+I need to condense this into a concise summary. I should mention her position, the content of the post, the apology, and the context of the Thanksgiving event. Also, note that the White House and her employer didn't comment.
+
+I should ensure the summary is clear and within the word limit. Let me structure it: start with her position and the incident, then the content of the post, the apology, and the lack of response from others. Keep it under 200 words.
+
+I should avoid any markdown and keep the language straightforward. Make sure to include all necessary details without being too verbose. Also, check for any specific terms or names to ensure accuracy, like the names of the turkeys and the years mentioned.
+
+Wait, the user mentioned the turkey pardon tradition starting in 1947 and made permanent in 1989. Should I include that? It adds context but might not be essential for the summary. Maybe it's better to leave it out to save space.
+
+Let me draft the summary: mention her role, the criticism, the content of the post, the apology, and the lack of response. That should cover the main points succinctly.
+</think>
+
+SUMMARY: Elizabeth Lauten, the communications director for Republican Congressman Stephen Fincher, apologized for a Facebook post criticizing Malia and Sasha Obama during President Barack Obama's Thanksgiving address. Lauten commented on the first daughters' outfits, suggesting they lacked class and were more suited for a bar, and criticized their behavior during the event. She also criticized the Obamas' parenting and role modeling. Lauten later apologized, acknowledging her judgment was hurtful and vowing to learn from the experience. The post was confirmed by Lauten, but neither the White House nor Fincher responded publicly. END OF SUMMARY.

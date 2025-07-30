@@ -1,0 +1,24 @@
+Okay, so I'm trying to figure out how to approach this query. The user wants me to act as a news summarizer assistant and a moral expert. They provided a news article about Rep. Bruce Braley and his recent comments, and they have specific instructions on how to process it.
+
+First, the user wants me to identify all the single words that are morally framed in the article. They specified this as STEP 1, and each word should be listed with an asterisk. I need to read through the article carefully to spot any words that carry moral connotations. Words like "tough," "critical," "condemned," "backlash," "apologized," and "appreciation" come to mind because they relate to judgments or evaluations of actions.
+
+Next, the user wants a summary that preserves the moral framing. I need to make sure that the summary includes those morally framed words. The summary should be concise, no more than 200 words, and start with "SUMMARY:" and end with "END OF SUMMARY." I'll have to condense the article, focusing on the key events: Braley's comments, the backlash, the apology, and the implications for the race.
+
+I also need to ensure that the summary flows naturally and includes the necessary details without being too lengthy. I'll make sure to mention the conservative PAC releasing the comments, the radio ad by Mark Jacobs, the media coverage, Braley's apology, and Grassley's background. This should cover the main points while maintaining the moral elements identified.
+
+I should double-check that I didn't miss any morally framed words and that the summary accurately reflects the article's content and tone. It's important to keep the summary clear and to the point, adhering to the word limit. Once I have both parts ready, I'll present them as per the user's instructions.
+</think>
+
+### STEP 1:
+* Tough  
+* Critical  
+* Condemned  
+* Backlash  
+* Apologized  
+* Appreciation  
+
+---
+
+### SUMMARY:  
+Rep. Bruce Braley (D-Iowa) faced tough local coverage after making critical comments about Sen. Chuck Grassley (R-Iowa) at a fundraiser. Braley, who is running to replace Sen. Tom Harkin, contrasted his legal background with Grassley's farming background, implying Grassley's lack of qualifications for the Senate Judiciary Committee. The remarks were released by a conservative PAC, sparking backlash. Republican candidate Mark Jacobs capitalized on the controversy with a radio ad, and local media highlighted the backlash. Braley apologized to Grassley and emphasized his family's farming roots, acknowledging their influence on him. Grassley, a farmer and the only non-lawyer on the Judiciary Committee, has often highlighted his background. Braley, a lawyer, has been in Congress since 2006. His race is pivotal in the Senate control battle.  
+END OF SUMMARY.

@@ -1,0 +1,31 @@
+<think>
+Okay, so the user has given me a query where they want me to act as a news summarizer and a moral expert. They provided a news article about gun control measures in the US, inspired by Australia's actions after mass shootings. The task has two parts: first, to identify all the single words that are morally framed, and second, to write a summary preserving those moral framings.
+
+Starting with the first step, I need to go through the article and pick out words that carry moral connotations. Words like "ban," "prohibited," "extremists," "lax," "mayhem," "objection," "ineffectual," "killing," "legitimate," "oppose," "controversial," "oppose," "oppose," "stress," "lethal," "credible." These words are used to convey right and wrong, good and bad in the context of the article.
+
+For the second part, I need to summarize the article while keeping as many of these moral words as possible. The summary should be concise, under 200 words. I'll start by mentioning the Orlando shooting and the comparison to Australia's successful gun laws. Then, outline the four steps proposed: prohibiting purchasers on no-fly lists, universal background checks, strengthening the system, and encouraging reporting of prohibited purchasers. Also, mention the controversial assault weapons ban and the industry's push for more lethal weapons.
+
+I need to ensure that the summary flows well and includes the key moral points without being too verbose. I should also make sure to end with the specified tokens and keep each section clear.
+</think>
+
+**STEP 1:**  
+* Ban  
+* Prohibited  
+* Extremists  
+* Lax  
+* Mayhem  
+* Objection  
+* Ineffectual  
+* Killing  
+* Legitimate  
+* Oppose  
+* Controversial  
+* Oppose  
+* Oppose  
+* Stress  
+* Lethal  
+* Credible  
+
+**SUMMARY:**  
+The article discusses the moral imperative to address the U.S. problem with mass shootings, drawing parallels to Australia's successful gun control measures. It highlights the need for four key steps: prohibiting individuals on the "no-fly" list from purchasing guns, implementing universal background checks, strengthening the background check system, and ensuring all prohibited purchasers are reported to authorities. The article also calls for a return to the federal assault weapons ban, arguing that such weapons, like the AR-15, are overly lethal and should be restricted. The moral framing emphasizes the need to prevent harm, hold gun sellers accountable, and protect public safety, while challenging the notion that assault weapons are necessary for self-defense. The article condemns the gun industry's tactics to increase sales by promoting more lethal weapons, asserting that such practices contribute to the problem of mass shootings.  
+**END OF SUMMARY.**

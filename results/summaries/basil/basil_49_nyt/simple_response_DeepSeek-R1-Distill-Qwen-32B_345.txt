@@ -1,0 +1,16 @@
+Okay, so I need to summarize this news article, but I have to make sure I preserve the moral framing that the author gave. The user is a news summarizer assistant and a moral expert, so I need to focus on the ethical implications and the arguments presented by both sides.
+
+First, I'll read through the article to understand the main points. It's about Nebraska and Oklahoma suing Colorado over its legalized marijuana, arguing that it's causing problems in their states. Colorado's attorney general is defending the law, and there are arguments about the black market if the lawsuit succeeds.
+
+I should identify the moral arguments from both sides. Nebraska and Oklahoma are saying Colorado's laws are creating a gap that leads to more marijuana flowing into their states, causing increased arrests and costs. They're framing it as Colorado not respecting federal laws and causing harm to neighboring states. On the other hand, Colorado's side is arguing that the lawsuit is without merit and that overturning the law could hurt the legal market and benefit cartels.
+
+I need to make sure the summary includes these moral perspectives. It's important to mention the states' claims about undermining their laws and the counterarguments about the black market. I should also note the legal aspects, like the lawsuit being filed in the Supreme Court because it's a state dispute.
+
+I should keep the summary concise, under 200 words, and make sure it's clear and includes the key moral points from both sides. I'll structure it by stating the lawsuit, the arguments from Nebraska and Oklahoma, Colorado's defense, and the potential consequences if the lawsuit succeeds.
+
+Let me check the word count as I go to ensure it's within the limit. I'll also make sure to use the "SUMMARY:" and "END OF SUMMARY." tokens as instructed.
+</think>
+
+SUMMARY:  
+Nebraska and Oklahoma have filed a lawsuit against Colorado, arguing that its state-regulated recreational marijuana industry is causing marijuana to flow into their states, undermining their marijuana bans and increasing law enforcement costs. They claim Colorado's system creates a "dangerous gap" in federal drug control, leading to more arrests, seized vehicles, and strained resources. Colorado's attorney general, John Suthers, dismisses the lawsuit as "without merit," stating they will defend the law. The lawsuit targets Colorado's commercial marijuana system, not its personal use provisions, meaning parts of legalization could remain even if the lawsuit succeeds. Marijuana advocates warn that shutting down legal dispensaries could revive the black market, benefiting criminal organizations. Colorado's lack of tracking and background checks on buyers is criticized, but some law enforcement along Colorado's borders report no significant increase in marijuana influx. The lawsuit, filed in the U.S. Supreme Court, accuses Colorado of violating federal drug laws and creating a "patchwork" of state policies.  
+END OF SUMMARY.

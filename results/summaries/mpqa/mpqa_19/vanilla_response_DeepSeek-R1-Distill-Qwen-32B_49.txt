@@ -1,0 +1,24 @@
+Alright, so the user has given me a query where I need to summarize a news article about Tony Blair's disagreement with Australia's climate deal. They want the summary after a "SUMMARY:" token and ending with "END OF SUMMARY." It should be no longer than 200 words.
+
+First, I need to read the article carefully to understand the key points. The main points are:
+
+1. Tony Blair disagrees with Australia's decision to sign a climate change deal with the US.
+2. Australia claims it's not abandoning the Kyoto Protocol.
+3. The deal involves cooperation between Australia, US governments, businesses, and research bodies.
+4. Critics argue Australia is aligning with the US, which wants to dump Kyoto.
+5. Australia's commitment to Kyoto has been uncertain since Bush's decision.
+6. The future of Kyoto will be decided in Johannesburg.
+7. Australian officials say they're still committed to Kyoto.
+8. Blair mentions greenhouse gases as a point of disagreement with the US and Australia, though he's unsure if Kyoto goes far enough.
+
+I need to condense these points into a concise summary, making sure it's under 200 words. I should focus on the main actors, their positions, and the implications of the deal.
+
+I'll start by stating Blair's disagreement, then mention Australia's stance on Kyoto, the nature of the US-Australia deal, critics' views, the uncertain future of Kyoto, and Blair's concerns. I should avoid jargon and keep it clear and straightforward.
+
+Let me check the word count as I draft to ensure it's within the limit. I'll also make sure to include all key points without getting too detailed. Once the summary is ready, I'll place it between the specified tokens.
+</think>
+
+SUMMARY:  
+British Prime Minister Tony Blair expressed disagreement with Australia's decision to sign a climate change deal with the United States, signaling a potential shift away from the Kyoto Protocol. Australia's government denied abandoning Kyoto, stating its commitment to the agreement while collaborating with the US on a "climate action partnership." Critics argue Australia is aligning with the US, which opposes Kyoto, despite claiming to support it. The protocol's future will be decided at a meeting in Johannesburg. Australian officials reaffirmed their commitment to Kyoto, but Blair highlighted the US and Australia's differing stances on climate change, expressing concern over greenhouse gases and questioning whether Kyoto goes far enough.  
+
+END OF SUMMARY.

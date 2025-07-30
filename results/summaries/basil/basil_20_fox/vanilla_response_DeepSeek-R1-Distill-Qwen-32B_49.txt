@@ -1,0 +1,18 @@
+Okay, so the user has provided a news article and wants me to summarize it. They mentioned that I'm an assistant, so I need to make sure the summary is clear and concise. The user specified that the summary should be after a "SUMMARY:" token and end with "END OF SUMMARY." Also, it should be no longer than 200 words.
+
+First, I'll read through the article to understand the main points. The article is about Rick Santorum's comments regarding President Obama's policies and theology. Santorum claimed he wasn't questioning Obama's Christianity but rather the administration's environmental policies, which he sees as prioritizing the Earth over people. However, the Obama campaign criticized his remarks as personal attacks on Obama's faith.
+
+I need to extract the key information: who, what, when, where, why. The main points are Santorum's comments, his clarification, the Obama campaign's response, and the context of the Republican primary.
+
+I should structure the summary to include Santorum's stance on environmental policies, his clarification about not targeting Obama's faith, the Obama campaign's criticism, and the broader context of the GOP race.
+
+I'll make sure to keep each sentence concise and avoid unnecessary details. Also, I'll check the word count to stay under 200 words. 
+
+Let me start drafting the summary, ensuring it flows logically and covers all essential points without being too verbose. I'll also make sure to include quotes or paraphrased statements that highlight the main arguments from both sides.
+
+Finally, I'll review the summary to ensure it meets the user's requirements and accurately reflects the article's content.
+</think>
+
+SUMMARY:  
+Rick Santorum clarified that his recent remarks about President Obama's "phony theology" were not aimed at questioning Obama's Christianity but rather challenging what he sees as radical environmentalist policies that prioritize the Earth over human welfare. Santorum argued that the idea of man serving the Earth is misguided and that resources should be used wisely for the benefit of people. However, the Obama campaign strongly criticized his comments, calling them a personal affront and a distraction from substantive policy debate. Santorum emphasized that his criticism was directed at Obama's worldview, not his faith, and accused the administration of using unproven claims to expand government control. The Obama campaign accused the GOP primary of descending into negativity and divisiveness, with Santorum's remarks being the latest example. Santorum's comments came during his rise in polls for the 2012 Republican presidential race.  
+END OF SUMMARY.

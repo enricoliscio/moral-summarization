@@ -1,0 +1,35 @@
+Alright, so the user wants me to summarize a news article while preserving the moral framing. They've given specific instructions on how to approach this. First, I need to identify all the morally framed words in the text. Then, I have to write a concise summary that includes as many of those words as possible.
+
+Let me start by reading the article carefully. It's about a political ad targeting Jewish communities in Florida, using Netanyahu's warnings about Iran's nuclear capabilities. The ad is produced by a Republican group and seems to criticize Obama's foreign policy as apologetic.
+
+For the first step, I need to find words that carry moral connotations. Words like " combustible," "stoke anxiety," "risks," "nuclear arms," "world," "strength," "apologies," "apologetic," "volatile," "criticized," "unauthorized," "controversial." These words are loaded with moral implications, so I'll list them each with a bullet.
+
+Next, I'll craft the summary. I need to make sure it's under 200 words and includes the morally framed words. I'll mention the ad's purpose, Netanyahu's quote, the group behind it, their criticism of Obama, and the Israeli government's lack of involvement. I'll also note that the ad is controversial.
+
+I should ensure the summary flows naturally and covers all key points without being too verbose. I'll make sure to highlight the moral framing elements like "stoke anxiety," "risks," "strength," and "apologetic" to maintain the author's original tone.
+
+Finally, I'll format the response as per the instructions, starting with STEP 1, listing each word, then the SUMMARY section, and ending with the specified tokens. I'll double-check the word count to stay within limits and ensure clarity.
+</think>
+
+**STEP 1:**
+
+* combustible  
+* stoke anxiety  
+* risks  
+* nuclear arms  
+* world  
+* strength  
+* apologies  
+* apologetic  
+* volatile  
+* criticized  
+* unauthorized  
+* controversial  
+
+---
+
+**SUMMARY:**  
+
+A new political advertisement targeting Jewish communities in Florida aims to stoke anxiety over American policies in the Middle East. The ad uses a clip of Israeli Prime Minister Benjamin Netanyahu warning about the risks of Iran developing nuclear arms, with a dramatic soundtrack. It concludes with a message criticizing President Obama's foreign policy as "apologetic," a veiled attack on his approach to volatile regions like Iran. The ad, produced by the Republican-affiliated group Secure America Now, has reserved $500,000 in airtime in key Florida markets. However, the Israeli government was neither consulted nor approved the ad, calling its content unauthorized. The ad has sparked controversy, as it seeks to exploit fears of nuclear threats while promoting American strength in the region.  
+
+**END OF SUMMARY.**

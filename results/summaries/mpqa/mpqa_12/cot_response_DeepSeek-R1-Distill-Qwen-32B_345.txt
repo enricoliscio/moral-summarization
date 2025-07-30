@@ -1,0 +1,35 @@
+Alright, so the user wants me to act as a news summarizer and a moral expert. They provided a news article about astronauts repairing the space station. My task is to first identify all the morally framed words in the article and then write a summary preserving those moral framings.
+
+First, I need to understand what morally framed words are. These are words that carry a positive or negative connotation, often implying values or ethics. In the context of the article, words like "heroes," "courageous," "dedication," "ingenious," "teamwork," "safety," "integrity," and "perseverance" come to mind. These words highlight the astronauts' efforts and NASA's role in the mission.
+
+Next, I'll go through the article to pick out these words. The astronauts are described as space-walking, which isn't inherently moral, but when paired with terms like "heroes," it becomes a moral frame. The article mentions the repair job, which is a positive action, so "repair" might also be considered as it shows initiative and care.
+
+Now, for the summary. I need to condense the article while keeping the moral elements. I'll start by mentioning the astronauts' mission as a testament to human ingenuity and teamwork. Highlighting their skills and NASA's commitment to safety and efficiency will emphasize the moral aspects. I should also include the successful completion of the task to show perseverance.
+
+I need to ensure the summary is concise, under 200 words, and flows naturally. I'll structure it to first introduce the mission, then the astronauts' actions, the purpose of the repair, and conclude with the success and its implications. This way, the moral framing is preserved throughout the summary.
+
+I should also check that each identified moral word is included where appropriate without forcing them. The summary should feel natural and not overly focused on the moral aspects, but they should be subtly present to reflect the original article's tone.
+
+Finally, I'll review the summary to ensure it captures the essence of the article and maintains the positive, moral framing intended by the user. Making sure it's clear, concise, and meets all the specified requirements.
+</think>
+
+**STEP 1:**
+
+* astronauts  
+* repair  
+* thermal covers  
+* motors  
+* International Space Station  
+* solar wings  
+* temperature extremes  
+* power spikes  
+* stalls  
+* electricity  
+* space shuttle Endeavour  
+* robot arm  
+
+---
+
+**SUMMARY:**  
+Two astronauts from Florida successfully completed a critical repair mission on the International Space Station. Astronauts Linda Godwin and Daniel Tani performed a spacewalk to install thermal covers on motors that control the station's solar wings. These covers aim to protect the motors from extreme temperatures in space, preventing power issues and ensuring the solar panels continue to generate electricity efficiently. The astronauts used the space shuttle Endeavour's robot arm to reach their work site, demonstrating their skill and teamwork. This mission highlights the dedication and ingenuity of astronauts and NASA in maintaining the functionality of the space station. The successful repair underscores the importance of perseverance and innovation in overcoming challenges in space exploration.  
+END OF SUMMARY.

@@ -1,0 +1,26 @@
+Okay, so the user wants me to act as a news summarizer and a moral expert. They provided a news article about Trump criticizing Huma Abedin and the Deep State. My task is to first identify all the morally framed single words in the article and then write a summary preserving those moral frames.
+
+First, I need to go through the article and pick out words that carry moral connotations. Words like "Crooked," "slammed," "disregarding," "unauthorized," "jail," "Deep State," "extremely careless," "hacked," "double standard," "unfair," and "shook." These words are used to convey judgment or criticism, so they fit the moral framing.
+
+Next, I have to write a concise summary of the article, making sure to include these moral terms. The summary should be under 200 words and capture the essence of Trump's accusations against Abedin and the implications of the email leaks. I'll need to mention the classified materials, the comparison to the sailor's case, the hacking incident, and the impact on the 2016 election. I should also highlight Trump's call for action from the Justice Department and the double standard he perceives.
+
+I need to ensure the summary flows well and accurately reflects the moral judgments presented in the original article. Let me structure it step by step, starting with Trump's tweet, then the details about the emails, the hacking, Comey's involvement, and the political implications. I'll make sure to use the identified moral words to maintain the framing.
+
+Alright, putting it all together, I'll start with Trump's accusation, mention the classified emails, the security issues, the comparison to the sailor, the hacking, and the political fallout. I'll end by noting Trump's call for justice and the double standard. That should cover all the key points while preserving the moral language.
+</think>
+
+**STEP 1:**  
+* Crooked  
+* slammed  
+* disregarding  
+* unauthorized  
+* jail  
+* Deep State  
+* extremely careless  
+* hacked  
+* double standard  
+* unfair  
+* shook  
+
+**SUMMARY:**  
+President Trump criticized Hillary Clinton's aide, Huma Abedin, calling her "Crooked" and accusing her of disregarding security protocols by handling classified material improperly. He demanded action from the "Deep State" Justice Department, comparing her case to that of a sailor who was jailed for unauthorized photos inside a nuclear submarine, suggesting a double standard. The State Department released emails from Abedin’s account, including classified documents, which were found on her estranged husband Anthony Weiner’s laptop. Abedin forwarded sensitive emails to her personal Yahoo account, which was later hacked. Former FBI Director James Comey testified that Abedin may have shared emails with Weiner to print for Clinton, and the discovery of these records reopened the investigation into Clinton’s handling of classified emails. Trump’s tweet highlights his belief that justice was not served in the Clinton email scandal, while the incident shook the 2016 presidential race. END OF SUMMARY.

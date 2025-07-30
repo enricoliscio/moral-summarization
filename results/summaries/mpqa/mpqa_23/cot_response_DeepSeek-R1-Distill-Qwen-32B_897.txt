@@ -1,0 +1,35 @@
+Okay, so I need to help the user with their query about summarizing a news article while preserving the moral framing. Let me break down what they're asking for.
+
+First, the user wants me to act as a news summarizer assistant and a moral expert. That means I have to not only summarize the article but also identify the morally charged words used by the author. The article is about Zimbabwe's President Mugabe being sworn in after a disputed election.
+
+The user provided a clear structure: first, identify all single words that are morally framed, then write a concise summary that includes as many of those words as possible. The summary needs to be under 200 words and should follow specific formatting instructions.
+
+I'll start by reading through the article to understand the context. Mugabe's election was denounced as rigged, with opposition and Western governments criticizing it. There were boycotts, political violence, intimidation, and changes to electoral laws. The moral framing here is about fairness, justice, and democracy.
+
+Next, I need to extract the morally framed words. Words like "rigged," "boycotted," "violence," "intimidation," "disenfranchised," "racism," "imperialism," "legitimate," "sanctions," "reform," "transparency," and "recession" stand out. These words carry strong moral connotations and are central to the article's narrative.
+
+Now, for the summary. I should include these words to preserve the moral framing. I'll need to mention Mugabe's swearing-in, the opposition's boycott, the criticisms of the election process, Mugabe's defiance, the economic issues, and the regional and international reactions. I'll keep it concise, making sure each sentence adds value without exceeding the word limit.
+
+I should also ensure that the summary flows logically, starting with Mugabe's inauguration, moving through the criticisms, his response, the economic impact, and the regional pressure. This structure maintains the moral narrative presented in the article.
+
+Finally, I'll format the response as per the user's instructions, starting with STEP 1 for the moral words and then the SUMMARY section. I'll make sure each part is clearly separated and adheres to the formatting tokens provided.
+
+I think I've covered all the points. Time to put it all together in the required format.
+</think>
+
+**STEP 1:**  
+* rigged  
+* boycotted  
+* violence  
+* intimidation  
+* disenfranchised  
+* racism  
+* imperialism  
+* legitimate  
+* sanctions  
+* reform  
+* transparency  
+* recession  
+
+**SUMMARY:**  
+Zimbabwe's President Robert Mugabe was sworn in for his fifth term amid widespread criticism that the election was rigged. The opposition and Western governments denounced the vote, citing political violence, intimidation, and disenfranchisement of voters. Mugabe, a former rebel leader, claimed victory as a triumph against Western imperialism and racism, vowing to continue his land-reform program. African leaders attended the ceremony, but 57 opposition lawmakers and representatives from the U.S., EU, and others boycotted it. Mugabe blamed criticism on racism and refused to propose a national unity government, despite pressure from regional leaders like South Africa's Thabo Mbeki. The country faces economic challenges, including a recession and food shortages, as international donors cut funding due to political instability and lack of transparency. Mugabe's defiance and the contested election have raised concerns about Africa's commitment to democratic principles and property rights. END OF SUMMARY.

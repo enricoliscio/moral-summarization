@@ -1,0 +1,36 @@
+Alright, so the user has provided a query where they want me to summarize a news article while preserving the moral framing. They've also given specific steps to follow. First, I need to identify all the morally framed words in the article. Then, I have to write a concise summary using those words.
+
+Okay, starting with the first step. I need to go through the article and pick out words that carry a moral connotation. Words like "misuse," "hurts," "objecting," "nonsense," "devastating impact," "fails," "moral criteria," "critique," "erroneously," "values," "compassion," "love," "gutting," "just," "justice," and "moral." I'll list each of these with a star.
+
+Now, moving on to the summary. I need to condense the article into 200 words, making sure to include as many of those moral terms as possible. The main points are the Georgetown faculty criticizing Ryan for misusing Catholic teachings, the impact on the poor, the use of "subsidiarity," and the letter they sent. I should structure this clearly, highlighting the moral arguments against Ryan's budget.
+
+I need to ensure the summary flows well and covers all key points without being too verbose. I'll start by stating the faculty's criticism, mention the misuse of teachings, the impact on programs, the response from Ryan, the correction on subsidiarity, and the reading assignment. Ending with the scholars' stance on Catholic social justice should wrap it up nicely.
+
+Let me make sure I'm not missing any crucial details. The article mentions the Whittington Lecture, the Jesuit Father Thomas J. Reese, the USCCB's stance, and the specific programs affected like food programs and Pell Grants. Including these will add depth to the summary.
+
+I should also keep the language clear and direct, avoiding any markdown as per the instructions. After drafting, I'll check the word count to ensure it's under 200 words. 
+
+Finally, I'll format the response as specified, starting with STEP 1, listing the words, then the SUMMARY section with the concise summary, and ending with the tokens as required.
+</think>
+
+**STEP 1:**  
+* misuse  
+* hurts  
+* objecting  
+* nonsense  
+* devastating impact  
+* fails  
+* moral criteria  
+* critique  
+* erroneously  
+* values  
+* compassion  
+* love  
+* gutting  
+* just  
+* justice  
+* moral  
+
+**SUMMARY:**  
+Nearly 90 Georgetown University faculty and administrators criticized Representative Paul Ryan for misusing Catholic social teaching to defend his budget, which they argue hurts the poor. In a letter to Ryan, they objected to his claim that his budget aligns with Catholic teachings, calling it "nonsense." They highlighted the devastating impact of his proposed cuts on programs for the poor, including food assistance and Pell Grants. The scholars also corrected Ryan's interpretation of the Catholic principle of "subsidiarity," emphasizing that it demands higher levels of government to provide support when local communities cannot address issues like poverty and unemployment. They urged Ryan to read "The Compendium of the Social Doctrine of the Church" and stressed that his budget reflects values inconsistent with Catholic social justice. The scholars emphasized the moral obligation to protect the poor and criticized Ryan for prioritizing policies that fail to meet moral criteria.  
+**END OF SUMMARY.**

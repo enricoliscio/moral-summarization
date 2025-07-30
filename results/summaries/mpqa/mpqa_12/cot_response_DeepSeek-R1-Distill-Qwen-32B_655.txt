@@ -1,0 +1,27 @@
+Okay, so I need to help the user by summarizing a news article while preserving the moral framing. Let me start by understanding the task. The user provided a news article about astronauts repairing the space station. They want me to first identify the morally framed words and then write a summary that includes as many of those words as possible.
+
+First, I'll read the article again. It mentions astronauts performing a repair, wrapping thermal covers, shielding motors, eliminating power spikes, and the astronauts' names. The morally framed words are likely those that carry positive connotations, like "repair," "wrapped," "shield," "eliminate," "generating electricity," "floated," "grabbed," and "robot arm." These words imply action, protection, and successful teamwork.
+
+Next, I need to write a concise summary. I'll make sure to include all the key points: who did what, the purpose, and the method. I'll also keep the language positive and highlight the astronauts' successful efforts. I should keep it under 200 words, so I need to be concise but thorough.
+
+I should structure the summary to first mention the astronauts and their action, then the purpose of the repair, and finally the method they used. I'll include the names and the shuttle involved to add context. The summary should flow logically, ensuring all important details are covered without unnecessary fluff.
+
+Let me draft it: Start with the astronauts performing the repair, mention wrapping the covers, the purpose of shielding and eliminating issues, the role of the motors, and then describe how they used the robot arm. Keep each sentence clear and to the point.
+
+I think that covers everything. Now, I'll format it as per the instructions, starting with the step where I list the morally framed words, each on a new line with an asterisk. Then, the summary under the "SUMMARY:" token, ending with "END OF SUMMARY."
+
+I should double-check to make sure I included all the morally framed words and that the summary accurately reflects the article while preserving the positive tone. Also, ensure it's within the word limit. Looks good!
+</think>
+
+**STEP 1:**  
+* Repair  
+* Wrapped  
+* Shield  
+* Eliminate  
+* Generating  
+* Floating  
+* Grabbed  
+* Robot  
+
+**SUMMARY:**  
+Two astronauts performed a successful repair on the International Space Station by wrapping thermal covers around motors that control the solar wings. The mission aimed to shield the motors from extreme space temperatures, eliminating power issues. The astronauts, Linda Godwin and Daniel Tani, floated out of the space shuttle Endeavour and used the robot arm to reach the site. Their efforts ensured the solar wings continue generating electricity for the station. END OF SUMMARY.

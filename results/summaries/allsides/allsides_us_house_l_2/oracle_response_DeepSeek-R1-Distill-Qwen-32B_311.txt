@@ -1,0 +1,16 @@
+Alright, I need to help the user by summarizing the given news article while preserving the moral framing. The user provided a detailed article and a list of morally framed words. My task is to create a concise summary using those words.
+
+First, I'll read through the article to understand the main points. It's about Trump blocking Don McGahn from testifying, leading to criticism and potential impeachment threats. The Justice Department's legal opinion is a key point, emphasizing the protection of the presidency. McGahn's role in Mueller's report is central, especially his resistance to Trump's orders.
+
+I need to identify the morally charged words from the article: blocked, interference, compel, forced, execute, obstruct, justice, investigation, intervention, obstruction, criminally, misconduct, impeachment, engaged, impede, truth, evidence, above, inquiry, cancer, refuse, etc. I should incorporate as many as possible without making the summary too long.
+
+I'll start by outlining the main events: Trump blocking McGahn, the Justice Department's stance, McGahn's role in Mueller's report, the criticism from Democrats, and the threat of impeachment. I'll make sure to use the moral terms to frame each point.
+
+I need to keep the summary under 200 words, so I'll be concise but include all critical elements. I'll structure it to flow logically, starting with Trump's action, the legal opinion, McGahn's significance, the criticism, and the potential consequences.
+
+I should also ensure that the moral framing is clear, highlighting Trump's actions as obstructing justice and the Democrats' response as upholding the rule of law. Using words like "blocked," "obstruct," "justice," "impeachment," and "disdain" will help maintain that tone.
+
+Finally, I'll review the summary to ensure it captures all key points and uses the moral terms effectively without exceeding the word limit.
+</think>
+
+SUMMARY: Donald Trump has blocked former White House counsel Don McGahn from testifying before Congress about the special counsel report on Russian election interference, sparking sharp criticism and threats of impeachment. The Justice Department issued a legal opinion stating that McGahn, who was subpoenaed by the House Judiciary Committee, cannot be compelled to testify under oath, citing constitutional precedent to protect the office of the presidency. McGahn, a key figure in Robert Mueller’s report, reportedly obstructed Trump’s efforts to interfere with the investigation, including resisting orders to fire Mueller and attempting to influence Jeff Sessions. Trump defended the decision, stating it was for the sake of future presidents, while Democrats condemned the move as an attempt to shield Trump from accountability. Jerry Nadler, chairman of the Judiciary Committee, accused Trump of obstructing justice and vowed to proceed with the hearing. Democratic member David Cicilline warned that failing to compel McGahn’s testimony could warrant impeachment. The move highlights the administration’s ongoing disdain for congressional oversight, with McGahn’s refusal to testify risking his career. END OF SUMMARY.

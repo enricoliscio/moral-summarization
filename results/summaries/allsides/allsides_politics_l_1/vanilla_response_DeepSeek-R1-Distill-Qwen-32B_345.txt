@@ -1,0 +1,14 @@
+Alright, so the user has given me a query where I need to summarize a news article. The article is about James Mattis, a former Secretary of Defense, criticizing Donald Trump. The user wants the summary to start with "SUMMARY:" and end with "END OF SUMMARY." and be no longer than 200 words.
+
+First, I need to read the article carefully to understand the key points. Mattis is talking about Trump's divisiveness, contrasting it with the unity that the US should embody. He mentions the military's role, specifically how Trump used troops for a photo op, which Mattis finds inappropriate. Mattis also criticizes the militarization of domestic law enforcement, which he believes undermines trust between the military and civilians.
+
+I should identify the main elements: Mattis's criticism, Trump's actions, the military's role, and the impact on unity. I need to make sure the summary captures Mattis's shift from silence to speaking out, the specific incident with George Floyd, and his broader concerns about the military's involvement in domestic affairs.
+
+I should structure the summary to first mention Mattis's criticism, then the context of his resignation, his past stance on not criticizing the president, and then the trigger for his recent statement. I'll also include his points about the military's role and the threat to the constitutional order.
+
+I need to keep it concise, under 200 words, so I'll have to be selective about which details to include. Also, I should ensure that the summary flows logically, connecting each point without getting too bogged down in specifics.
+
+Let me start drafting the summary, making sure to hit all the key points succinctly. I'll check the word count to stay within the limit and ensure clarity and coherence.
+</think>
+
+SUMMARY: James Mattis, a former U.S. Secretary of Defense, has publicly criticized Donald Trump for dividing the American people, marking a shift from his previous stance of not criticizing sitting presidents. Mattis argues that Trump's actions have weakened national unity and contrasts this with the American ethos of "In Union there is Strength," referencing the Normandy invasion. He condemns Trump's response to the George Floyd protests, stating that deploying troops for a photo op undermines constitutional rights and the bond between the military and civilians. Mattis also criticizes the militarization of domestic law enforcement, asserting that such actions create unnecessary conflict and erode trust. His recent statement reflects a definitive end to his period of silence, as he believes Trump's actions now threaten the American experiment. END OF SUMMARY.

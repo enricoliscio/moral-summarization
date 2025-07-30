@@ -1,0 +1,17 @@
+Alright, so the user has given me a task to summarize a news article while preserving the moral framing. They provided the article and a list of morally framed words that the author used. I need to make sure my summary includes as many of those words as possible without exceeding 200 words.
+
+First, I'll read the article carefully. It's about Condoleezza Rice defining the "axis of evil" as Iraq, Iran, and North Korea. She bases this on them being repressive, human rights violators, and aggressively seeking WMDs. The article questions whether these criteria are fair, pointing out many countries could fit, and that the US has its own history with nuclear weapons.
+
+I need to identify the key points: Rice's criteria, the criticism of those criteria, the mention of other countries, the US's history, and the connection between regime type and WMDs.
+
+Now, I'll extract the morally framed words from the list provided: repressive, violators, seeking, violating, oppressive, erred, basis, reason, evildoer, democratic, threatened, authoritarian, restrained, responsible, elaborated.
+
+I should structure the summary to include these words. Start by stating Rice's definition, then the criticism, mention the US's stance, and conclude with the need for clearer criteria.
+
+I'll make sure each sentence uses the appropriate moral terms without making the summary too wordy. Also, I need to keep it under 200 words. Let me draft it step by step, ensuring each point is covered succinctly.
+
+Finally, I'll check the word count and ensure all key moral terms are included. That should meet the user's requirements effectively.
+</think>
+
+SUMMARY:  
+Condoleezza Rice, President George W. Bush's National Security Adviser, defined the "axis of evil" as Iraq, Iran, and North Korea, citing their repressive regimes, human rights violations, and aggressive pursuit of weapons of mass destruction (WMDs). However, the author critiques this framing, noting that many other nations could qualify as repressive or human rights violators, suggesting Rice may have erred in her criteria. The focus on "aggressively seeking" WMDs implies slower-paced development might not warrant the "evil" label. The author questions whether acquiring WMDs alone should determine a nation's morality, pointing out that the U.S. itself developed and used nuclear weapons. The real criterion, the author suggests, may be whether the regime is democratic or authoritarian, as democratic states are seen as more restrained and responsible in their use of such weapons. Rice's definition, therefore, could have been more precise in linking regime type to WMD acquisition. END OF SUMMARY.

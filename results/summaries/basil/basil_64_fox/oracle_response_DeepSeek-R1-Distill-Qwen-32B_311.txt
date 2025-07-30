@@ -1,0 +1,18 @@
+Alright, so I need to help the user by summarizing the given news article while preserving the moral framing. The user has specified that I should keep as many of the morally framed words as possible. Let me read through the article first to understand the main points.
+
+The article is about Supreme Court Justice Ruth Bader Ginsburg facing backlash for her comments about Donald Trump. She called him a "faker" and criticized his qualifications. Trump and other political figures, including Republicans and some Democrats, criticized her for being inappropriate and biased. Media outlets also weighed in, saying her comments undermined the court's impartiality. Some Democrats supported her, but others felt she went too far.
+
+Now, I need to identify the morally framed words the author used: faker, turning, gentle, involved, inappropriate, objective, weigh, biased, undermines, endorse, oppose, partisan, lies. I should make sure these words are included in the summary.
+
+I'll start by outlining the key events: Ginsburg's criticism, the backlash from Trump, Republican leaders, Democrats, and media. Each of these groups used different moral terms. I should structure the summary to include each of these points, using the specified words.
+
+I need to keep it concise, under 200 words. So, I'll mention Ginsburg's initial comments, the backlash, the criticism from Trump and others, the media's stance on impartiality, and the mixed reactions from Democrats. I'll make sure to include all the moral terms where appropriate.
+
+Let me check the word count as I draft. I'll start with Ginsburg's comments, then move to Trump's response, followed by Republican leaders, media, and then the mixed reactions. I'll ensure that each section includes the relevant moral framing words.
+
+I should also maintain a neutral tone, just summarizing the events without adding my own opinions. The focus is on the moral framing used by the author, so I'll make sure each point reflects that.
+
+Finally, I'll review to ensure all specified words are included and the summary flows logically. I'll also make sure it's within the word limit and properly formatted with the "SUMMARY:" and "END OF SUMMARY." tokens.
+</think>
+
+SUMMARY: Supreme Court Justice Ruth Bader Ginsburg faced bipartisan backlash after criticizing Donald Trump, calling him a "faker" and questioning his qualifications for presidency. Trump responded by calling her comments "highly inappropriate" and urged her to resign, while Republican leaders like Mitch McConnell and Paul Ryan criticized her for being "totally inappropriate" and "biased." Democratic lawmakers also expressed concern, with Sen. Chris Murphy noting that justices' political views should not be aired publicly. Media outlets, including The Washington Post and The New York Times, criticized her for undermining the court's impartiality, emphasizing that judges should not "endorse" or "oppose" candidates. While some, like Bernie Sanders, supported her assessment of Trump as a "total opportunist," many agreed her comments were "partisan" and "inappropriate." END OF SUMMARY.

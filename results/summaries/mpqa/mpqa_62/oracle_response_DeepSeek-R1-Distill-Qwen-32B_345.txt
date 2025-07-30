@@ -1,0 +1,14 @@
+Alright, so I'm trying to figure out how to approach this user's query. They want me to summarize a news article while preserving the moral framing, specifically the word "attacks" that the author used. 
+
+First, I need to understand the article. It's about the space shuttle Endeavour docking with the International Space Station, delivering a new crew. The key points are the docking, the arrival of the new crew, and the commander's feelings after the September 11 attacks.
+
+The user mentioned that the author used "attacks" as a morally framed word, so I need to include that in the summary. I should keep the summary concise, under 200 words, and make sure it captures the main events and the emotional aspect related to the attacks.
+
+I'll start by identifying the main elements: the docking, the new crew, the commander's feelings, and the mention of the attacks. I'll structure the summary to include these points, ensuring that "attacks" is highlighted as it's a morally charged term.
+
+I should also keep the language clear and straightforward, making sure the summary flows well and stays within the word limit. Let me draft it, then check the length and the inclusion of the key moral term.
+</think>
+
+SUMMARY:  
+Space shuttle Endeavour successfully docked with the International Space Station, delivering a new three-member crew to relieve the current crew after their four-month stay. The docking occurred 250 miles above the Polish-Ukrainian border, following a two-day journey. Station commander Frank Culbertson, a retired Navy fighter pilot, expressed feelings of isolation and frustration after the Sept. 11 terrorist attacks. His crewmates, Russians Vladimir Dezhurov and Mikhail Tyurin, will depart today. The incoming crew, led by Russian Yuri Onufrienko, will remain aboard until May. Culbertson welcomed the shuttle in tradition, ringing the ship's bell and announcing, "Endeavour arriving." The arrival marks a transition of duty in space.  
+END OF SUMMARY.

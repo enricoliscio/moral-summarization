@@ -1,0 +1,25 @@
+Okay, I need to tackle this query step by step. The user wants me to summarize a news article while preserving the moral framing. They've given specific instructions: first, identify all single words that are morally framed, and then write a concise summary using those terms.
+
+First, I'll read the article carefully. It's about the Attorney General assigning prosecutors to investigate leaks of classified information. The key moral terms here seem to be around security, leaks, unauthorized disclosures, and the implications of such actions on national security.
+
+In STEP 1, I need to extract all the morally charged words. Words like "leaks," "compromise," "wrong," "offensive," "tolerated," "breaches," "gravely serious," and "investigate" stand out. These terms carry moral weight, indicating wrongdoing or the need for accountability.
+
+For the summary, I should include these terms while keeping it under 200 words. I'll start by mentioning Holder assigning prosecutors, the nature of the leaks, and the concerns from Congress. I'll note Obama's denial and Feinstein's suggestion for legislation. Finally, I'll highlight McCain's call for a special counsel, emphasizing the gravity of the situation.
+
+I need to make sure the summary flows well and includes all the key points without being too verbose. Also, preserving the moral framing means keeping those strong words intact to convey the seriousness of the leaks and the need for investigation.
+</think>
+
+**STEP 1:**  
+* Leaks  
+* Compromise  
+* Wrong  
+* Offensive  
+* Tolerated  
+* Breaches  
+* Gravely serious  
+* Investigate  
+
+**SUMMARY:**  
+Attorney General Eric Holder has assigned two U.S. attorneys to investigate possible leaks of classified information, following concerns over unauthorized disclosures that compromised national security. The leaks included details about a secret terrorist kill list and an al-Qaida infiltration operation. Holder emphasized that such leaks "will not be tolerated" and could endanger the country. President Obama denied accusations that the White House intentionally leaked classified material for political gain, calling the suggestion "offensive." Members of Congress, including Sen. John McCain, have called for a special counsel to investigate, while Sen. Dianne Feinstein suggested legislation to enhance investigatory authority. McCain criticized the administration for not explicitly denying that leaks originated from the White House, urging a full investigation into these "gravely serious" breaches of security.  
+
+**END OF SUMMARY.**

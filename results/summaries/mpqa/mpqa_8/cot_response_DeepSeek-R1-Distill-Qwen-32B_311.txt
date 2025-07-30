@@ -1,0 +1,24 @@
+Alright, let me try to figure out how to approach this query. The user wants me to act as a news summarizer and moral expert. They provided a specific news article and outlined two steps: first, identifying morally framed words, and then summarizing the article while preserving those moral terms.
+
+Okay, starting with the first step. I need to read through the article carefully to spot words that carry moral connotations. The article talks about President Cardoso mentioning the main challenge for Chavez is reestablishing normalcy. So "normalcy" might be a morally framed term because it implies a state of order or peace. Then, Cardoso mentions opening communication channels and achieving social harmony. "Communication" and "harmony" are positive, so they're morally framed. Chavez says he has no intention of seeking revenge, so "revenge" is a moral term here. Jimmy Carter supports Chavez's promise to set up dialogue tables, so "promise," "dialogue," and "support" are also morally framed.
+
+Now, moving to the summary. I need to condense the article into a concise summary, making sure to include as many of those morally framed words as possible. The key points are Cardoso's view on Chavez's challenge, the communication and harmony efforts, Chavez's stance on revenge, and Carter's support and visit. I should structure the summary to flow logically, highlighting each of these points while keeping it under 200 words.
+
+I also need to ensure that the summary starts with "SUMMARY:" and ends with "END OF SUMMARY." I should avoid any markdown and keep it clear and straightforward. Let me draft the summary, making sure to include all the identified moral terms without making it too verbose.
+
+Wait, let me double-check the words. "Normalcy," "communication," "harmony," "revenge," "promise," "dialogue," "support." Did I miss any? The article also mentions "failed attempt to remove him," but "attempt" isn't necessarily morally framed. I think I have all the relevant ones. 
+
+Putting it all together, the summary should mention Cardoso's challenge, the communication and harmony goals, Chavez's no-revenge stance, Carter's support, and the upcoming visit. That should cover all the key points and the moral framing effectively.
+</think>
+
+**STEP 1:**  
+* Normalcy  
+* Communication  
+* Social harmony  
+* Revenge  
+* Promise  
+* Dialogue  
+* Support  
+
+**SUMMARY:**  
+President Fernando Henrique Cardoso has stated that Hugo Chavez's main challenge is reestablishing normalcy in Venezuela after last week's conflicts. Cardoso emphasized the importance of opening communication channels and achieving social harmony. Chavez assured Cardoso he has no intention of seeking revenge against military personnel involved in the failed coup attempt. Former U.S. President Jimmy Carter has expressed support for Chavez's commitment to setting up dialogue tables and is expected to visit Venezuela soon. END OF SUMMARY.

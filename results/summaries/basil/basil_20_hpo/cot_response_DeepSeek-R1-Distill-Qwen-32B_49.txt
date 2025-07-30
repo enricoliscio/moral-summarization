@@ -1,0 +1,34 @@
+Okay, so the user has given me a query where I need to act as a news summarizer assistant and a moral expert. They want me to summarize a news article, preserving the moral framing. The article is about Rick Santorum making several controversial remarks on a TV show.
+
+First, I need to understand the task. They want two steps: first, identify all the single words that are morally framed, and second, write a concise summary using those words. The summary should be no longer than 200 words and should end with specific tokens.
+
+Looking at the article, Santorum's comments are about prenatal testing leading to abortions, criticizing Obama's policies as not based on the Bible, and arguing against government-run education. These are all moral issues because they touch on religious beliefs, abortion ethics, and government's role in education.
+
+For STEP 1, I need to extract each morally charged word. Words like "controversial," "religiously laden," "abortions," "anachronistic," "worldview," "phony theology," "steward," "objective," "cull," "free," "customer," "disqualify," and "race to the bottom" stand out as they carry moral connotations.
+
+Now, for the summary, I have to condense the article, making sure to include these words. I'll start by mentioning Santorum doubling down on his remarks, then touch on each main point: prenatal testing leading to abortions, criticism of Obama's policies, and the education system. I'll also include the reactions, like Gibbs calling his rhetoric over the line.
+
+I need to ensure the summary flows well and stays within the word limit. I'll check each sentence to make sure it's concise and includes the necessary moral terms without making it too verbose.
+
+Finally, I'll format it correctly, starting with "SUMMARY:" and ending with "END OF SUMMARY." I'll make sure each step is clearly labeled and the summary is accurate and captures the essence of the article's moral framing.
+</think>
+
+**STEP 1:**
+
+* Controversial  
+* Religiously  
+* Abortions  
+* Anachronistic  
+* Worldview  
+* Phony theology  
+* Steward  
+* Objective  
+* Cull  
+* Free  
+* Customer  
+* Disqualify  
+* Race to the bottom  
+
+**SUMMARY:**  
+Rick Santorum defended his controversial remarks on CBS's "Face the Nation," reiterating his stance that prenatal testing leads to abortions, federal education is "anachronistic," and President Obama's policies are not "based on the Bible." Santorum claimed he does not question Obama's faith but criticized his "worldview," calling it rooted in "phony theology." He argued that man's purpose is not to serve the earth but to be its "steward," dismissing radical environmentalism. Santorum also opposed mandatory coverage for prenatal testing, stating it results in fewer disabled individuals, and criticized government-run education for failing to meet "customer" needs. Obama campaign aide Robert Gibbs called Santorum's rhetoric "well over the line," accusing the GOP race of being a "race to the bottom."  
+**END OF SUMMARY.**

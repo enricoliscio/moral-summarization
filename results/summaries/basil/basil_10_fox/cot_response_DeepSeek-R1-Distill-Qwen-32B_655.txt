@@ -1,0 +1,26 @@
+Alright, I need to help the user by summarizing a news article while preserving the moral framing. First, I should understand the task. The user wants me to identify morally framed words and then create a concise summary using those words.
+
+Looking at the article, it's about Congress reading the U.S. Constitution but omitting parts. The moral framing here involves issues like equality, justice, and the nature of the Constitution. I need to extract words that carry moral weight, like "sacred," "imperfect," "struggle," etc.
+
+Next, I'll list each morally framed word, each on a new line with a star. Then, I have to write a summary that includes as many of these words as possible without exceeding 200 words. The summary should reflect the debate between Republicans and Democrats, the omissions, and the underlying moral arguments.
+
+I should ensure the summary highlights the conflict over omitting parts of the Constitution, the emotional and symbolic significance, and the arguments about the document's perfection or imperfection. I'll make sure to include key points from both sides, using the identified moral terms to convey the essence of the debate.
+</think>
+
+**STEP 1:**  
+* sacred  
+* imperfect  
+* struggle  
+* dedication  
+* amendments  
+* equality  
+* justice  
+* governance  
+* propaganda  
+* freedom  
+* dependence  
+* fluid advice  
+* imperfect beginnings  
+
+**SUMMARY:**  
+The U.S. House of Representatives recently read the Constitution aloud, but Republicans omitted outdated sections, sparking moral and political debate. Democrats argued that skipping parts, such as the three-fifths clause and Prohibition, undermines the document's historical struggle for equality and justice. Rep. Jesse Jackson Jr. emphasized the emotional and symbolic importance of the Constitution, stating that omitting parts fails to acknowledge the nation's imperfect beginnings and ongoing efforts to improve. Republicans defended the exercise as a symbolic reminder of the rule of law, while some critics called it "propaganda" and "nonsense," arguing the Constitution is a living document that should not be followed rigidly. Historians and scholars weighed in, with some viewing the reading as "theater" but others emphasizing its importance in highlighting the need for limited government. The debate highlighted differing views on the Constitution's sacredness, imperfection, and role in governance. END OF SUMMARY.

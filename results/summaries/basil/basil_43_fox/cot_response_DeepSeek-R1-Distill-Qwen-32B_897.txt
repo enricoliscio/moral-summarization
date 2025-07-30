@@ -1,0 +1,34 @@
+<think>
+Okay, so the user wants me to summarize a news article while preserving the moral framing. First, I need to understand what's in the article. It's about Rep. Bruce Braley making a comment about Sen. Chuck Grassley, and the fallout from that. 
+
+I should start by identifying all the morally framed words. That means looking for words that carry a positive or negative connotation. Words like "under fire," "mocking," "apologized," "respects," "support," "grateful," "background," "experience," "voice," "fighting," "tort reform," "public way," "stark contrast," "eligible," "speak out," "strong record," "working family farmers," "common sense," "works for all of America." 
+
+Next, I need to write a summary that includes as many of these words as possible. The summary should be concise, no more than 200 words. I'll start by stating that Rep. Braley is under fire for mocking Sen. Grassley. Then mention his apology and support for farmers. Include the context of the fundraiser and his campaign goals. Highlight the contrast he drew between himself and Grassley. Then, note Grassley's spokesperson's response, emphasizing Grassley's background and record. 
+
+I should make sure the summary flows well and includes all the key points with the moral framing intact. I'll structure it to show both sides: Braley's apology and Grassley's rebuttal. That should cover the main points and preserve the moral elements as per the user's request.
+</think>
+
+**STEP 1:**  
+* Under fire  
+* Mocking  
+* Apologized  
+* Respects  
+* Support  
+* Grateful  
+* Background  
+* Experience  
+* Voice  
+* Fighting  
+* Tort reform  
+* Public way  
+* Stark contrast  
+* Eligible  
+* Speak out  
+* Strong record  
+* Working family farmers  
+* Common sense  
+* Works for all of America  
+
+**SUMMARY:**  
+Iowa Democratic Rep. Bruce Braley faced backlash after a video surfaced where he mocked Sen. Chuck Grassley, a Republican, as a "farmer from Iowa who never went to law school" during his Senate campaign. Braley apologized, stating he "respects" Grassley and supports Iowa's farmers. The video, posted by a conservative PAC, showed Braley speaking at a Texas fundraiser, contrasting his legal background with Grassley's lack of legal experience. Braley suggested that if elected, he would bring a "voice" to the Senate Judiciary Committee, unlike Grassley, who he implied was unqualified. Grassley's spokesperson fired back, questioning Braley's eligibility to speak on policy issues and highlighting Grassley's "strong record" as a "working family farmer" and his "common sense" approach to policy. The exchange highlights the moral framing of qualifications, respect, and eligibility in political discourse.  
+**END OF SUMMARY.**

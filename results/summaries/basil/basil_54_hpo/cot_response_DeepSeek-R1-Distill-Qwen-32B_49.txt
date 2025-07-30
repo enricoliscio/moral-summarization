@@ -1,0 +1,29 @@
+<think>
+Okay, I need to help the user by summarizing a news article while preserving the moral framing. Let me first understand the query. The user provided an article about Arkansas and Indiana's Religious Freedom laws and wants a summary with specific moral words identified.
+
+First, I have to identify all single words that are morally framed. I'll go through the article and pick out words that carry moral connotations. Words like "discrimination," "veto," "backlash," "opposition," "petition," "pressure," "undermine," "inclusion," "controversial," "explicitly," "opportunity," and "respect" come to mind. These words are used to convey the moral aspects of the situation.
+
+Next, I need to write a concise summary of the article, making sure to include these morally framed words. The summary should be under 200 words and capture the key points: Governor Hutchinson's initial refusal, the amended bill, the changes in Indiana, the backlash, and the influence of public and corporate pressure.
+
+I should structure the summary to flow logically, starting with Arkansas, then moving to Indiana, and highlighting the factors that influenced the governors' decisions, such as public opinion and corporate pressure. I need to ensure that the moral framing is preserved, so I'll use the identified words where appropriate.
+
+I also need to make sure that the summary is clear and concise, avoiding any unnecessary details. I'll check the word count to ensure it doesn't exceed 200 words. Let me put it all together, making sure each point is covered and the moral elements are highlighted.
+</think>
+
+**STEP 1:**  
+* Discrimination  
+* Veto  
+* Backlash  
+* Opposition  
+* Petition  
+* Pressure  
+* Undermine  
+* Inclusion  
+* Controversial  
+* Explicitly  
+* Opportunity  
+* Respect  
+
+**SUMMARY:**  
+Arkansas Gov. Asa Hutchinson signed a revised Religious Freedom Reformation Act after refusing to sign an earlier version due to concerns about discrimination against LGBTQ individuals. The amended bill aligns with the federal RFRA and removes provisions allowing businesses to discriminate. In Indiana, legislators also amended their controversial RFRA to explicitly prohibit discrimination based on sexual orientation or gender identity, following national backlash. Hutchinson cited pressure from his son, who urged him to veto the initial bill, highlighting generational differences on the issue. Additionally, Walmart CEO Doug McMillon pressured Hutchinson to reject the bill, arguing it threatened inclusion. Both states faced significant public and corporate opposition, underscoring the moral and political complexities of balancing religious freedom with LGBTQ rights.  
+**END OF SUMMARY.**

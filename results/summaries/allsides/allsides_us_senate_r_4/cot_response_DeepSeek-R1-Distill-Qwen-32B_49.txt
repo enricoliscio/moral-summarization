@@ -1,0 +1,28 @@
+Okay, so I need to help the user by summarizing a news article while preserving the moral framing. Let me start by understanding the user's query. They provided a detailed news article about a voter registration probe in Georgia, involving Rev. Warnock, the New Georgia Project, and Secretary Kemp. The user wants me to first identify all the morally framed words in the article and then write a summary that includes as many of those words as possible.
+
+First, I need to read through the article carefully to spot words that carry moral connotations. Words like "fraud," "suppression," "abuse," "witch hunt," "racist," "felony," "intimidation," "chilling effect," "smear campaign," and "dog and pony show" stand out as they carry strong moral implications. These words are used to frame the actions of the individuals involved in a negative light, often to assign blame or accuse someone of wrongdoing.
+
+Next, I need to write a concise summary of the article, making sure to include these morally charged words. The summary should be no more than 200 words. I'll start by outlining the main points: the investigation into the voter registration drive, the accusations from both sides, the political implications, and the emotional language used. I'll make sure to weave in the identified words naturally to preserve the original moral framing.
+
+I should also ensure that the summary is balanced, presenting both sides of the story. Rev. Warnock and the New Georgia Project are accusing Kemp of voter suppression and abuse of power, while Kemp is investigating potential fraud and insists on following the law. Highlighting the political stakes, especially the Senate race, adds context to why this issue is so contentious.
+
+I need to be careful not to add any personal opinions but rather present the facts as they are, using the morally framed words to reflect the tone of the original article. The summary should flow logically, starting with the investigation, moving to the accusations, the responses, and the political backdrop.
+
+Finally, I'll review the summary to make sure it's within the word limit and that all key points are covered. I'll check that the morally framed words are included appropriately and that the summary accurately reflects the original article's moral perspective.
+</think>
+
+**STEP 1:**  
+* Fraud  
+* Suppression  
+* Abuse  
+* Witch hunt  
+* Racist  
+* Felony  
+* Intimidation  
+* Chilling effect  
+* Smear campaign  
+* Dog and pony show  
+
+**SUMMARY:**  
+Rev. Raphael Warnock, pastor of Ebenezer Baptist Church, accused Georgia's Republican Secretary of State Brian Kemp of voter suppression during a fraud probe into the New Georgia Project, a minority voter registration drive. Warnock claimed that voter suppression doesn’t require overt racism, likening Kemp’s actions to historical injustices. Kemp’s office is investigating 28 cases of fraud, including forged signatures and false information, calling it a serious issue. Kemp denied racism and emphasized his duty to investigate. The New Georgia Project, led by Rep. Stacey Abrams, denied wrongdoing, accusing Kemp of a witch hunt and abusing power. Abrams argued that the subpoena was overly burdensome and intimidating. Warnock demanded Kemp stop the "dog and pony show" and focus on his job. Kemp insisted his actions were lawful and necessary, as the November election loomed, with tight races adding political stakes. The dispute highlights tensions over voter registration and fraud in Georgia.  
+**END OF SUMMARY.**

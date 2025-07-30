@@ -1,0 +1,25 @@
+Alright, I need to tackle this query where the user wants me to act as a news summarizer and a moral expert. They provided a news article about the NRA's report on arming schools and specific instructions on how to process it. 
+
+First, the user has broken down the task into two steps. The first step is to identify all single words that are morally framed. They want each word listed with an asterisk. I need to go through the article and pick out words that carry moral connotations. Words like "safety," "security," "response," "tragedy," "prey," "fortresses," "solutions," and "controls" come to mind. These words are used to evoke emotions or judgments about the situation.
+
+Next, the second step is to write a concise summary preserving the moral framing. The summary needs to be under 200 words and include as many of those morally framed words as possible. I should ensure that the summary captures the main points: the NRA's recommendations, the criticism from gun control advocates, the support from a Newtown parent, and the potential implementation in some states. I also need to mention the political context, such as Congress's upcoming debate and President Obama's stance.
+
+I should start the summary by stating the report's main recommendation—arming schools. Then, mention the criticism and support, highlighting the moral perspectives on each side. Finally, note the political implications and the uncertain future of the recommendations. 
+
+I need to make sure the summary flows well and includes all key points without being too verbose. Also, I should use the morally framed words identified earlier to maintain the tone and framing from the original article. 
+
+I'll structure the summary to first present the report's proposal, then the opposing views, followed by the political context, and end with the potential outcomes. This way, the moral framing is preserved throughout the summary, meeting the user's requirements.
+</think>
+
+**STEP 1:**  
+* safety  
+* security  
+* response  
+* tragedy  
+* preying  
+* fortresses  
+* solutions  
+* controls  
+
+**SUMMARY:**  
+A National Rifle Association (NRA) task force has recommended arming schools with police officers, security guards, or trained staff to enhance safety and reduce response times in active shooter situations. The report, unveiled amid heavy security, emphasizes the need for armed personnel to prevent future tragedies, citing a case where an armed assistant principal stopped a gunman. Critics, including gun control advocates and Democrats, argue that arming teachers and staff is a reactive measure to past tragedies and could turn schools into armed fortresses. Marian Wright Edelman of the Children’s Defense Fund condemned the plan as a continuation of the NRA’s fear-mongering tactics. However, some Newtown parents, like Mark Mattioli, whose son was killed in the Sandy Hook massacre, support the recommendations as real solutions for safety. The report also calls for expanded police presence, training programs, and state-mandated security plans. Despite the proposal, its implementation and funding remain uncertain as Congress prepares to debate gun legislation. President Obama and others advocate for stricter gun controls, but the NRA’s lobbying influence may hinder progress. END OF SUMMARY.

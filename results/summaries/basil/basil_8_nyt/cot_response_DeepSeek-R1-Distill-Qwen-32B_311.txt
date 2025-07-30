@@ -1,0 +1,22 @@
+Okay, so I'm trying to help this user who wants a summary of a news article with a focus on preserving the moral framing. They provided a detailed article about Larry Summers and the Obama administration's tax deal. First, I need to understand what moral framing means here. It refers to words or phrases that carry a moral judgment, like "betrayed," "fiscally irresponsible," or "screwing" someone.
+
+The user's query has two parts. First, I need to identify all the single words that are morally framed. I'll go through the article and pick out words that express approval or disapproval. Words like "betrayed," "fiscally irresponsible," "grossly unfair," "screwing," "steep price," and "conflagration" stand out. These words carry strong moral connotations, so I'll list them in step 1.
+
+Next, I need to write a concise summary of the article, making sure to include as many of these morally framed words as possible. The summary should be under 200 words. I'll start by outlining the main points: Summers warning about a double-dip recession, Obama defending the deal, Biden meeting with House Democrats, and the mixed reactions from Democrats and the public. I'll incorporate the moral words to reflect the author's framing, showing the conflict and criticism within the Democratic party.
+
+I should ensure the summary flows logically, highlighting the administration's efforts to promote the deal despite internal opposition. Including the economists' projections and the counterarguments from the left will show the debate's complexity. I'll make sure the summary is clear and captures the essence of the moral debate surrounding the tax deal.
+
+Finally, I'll structure the response with the two steps as specified, starting with STEP 1 listing the moral words and then providing the concise summary. I need to keep it within the word limit and ensure it's easy to understand while preserving the moral nuances from the original article.
+</think>
+
+**STEP 1:**  
+* Betrayed  
+* Fiscally irresponsible  
+* Grossly unfair  
+* Screwed  
+* Steep price  
+* Conflagration  
+
+**SUMMARY:**  
+Larry Summers warned that failing to pass the tax deal could increase the risk of a double-dip recession, while President Obama defended the agreement, dismissing claims that Democrats felt betrayed. Obama emphasized the need for Congress to examine the deal and act, noting that economists had revised growth forecasts upward. Vice President Biden met with House Democrats to sell the compromise, as the administration faced criticism from liberal members. Some Democrats, including Representative Peter Welch, called the deal "fiscally irresponsible" and "grossly unfair," while others, like John Podesta, acknowledged it was a "steep price" but supported it for helping working Americans. Economists projected the deal would boost growth and create jobs, but the administration’s messaging was met with outrage from its base. Senate and House Democrats remained firmly opposed, with some, like Representative Barney Frank, refusing to vote for the deal. The administration’s efforts to promote the compromise were met with strong resistance, highlighting the internal conflict over the tax deal.  
+**END OF SUMMARY.**

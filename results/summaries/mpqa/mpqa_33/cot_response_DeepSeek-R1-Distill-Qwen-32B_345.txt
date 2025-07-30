@@ -1,0 +1,31 @@
+Okay, so I need to help the user by summarizing a news article while preserving the moral framing. The user has given me a specific structure to follow. First, I have to identify all the single words that are morally framed in the article. Then, I need to write a summary that includes as many of these words as possible, keeping it under 200 words.
+
+Looking at the article, it's about the US State Department's Annual Human Rights Report being criticized by many countries. The author is highlighting that the report is inaccurate and biased. So, I should look for words that carry moral connotations. Words like "criticized," "condemned," "inaccurate," "lacking good will," "distortion," "wrongful," "interference," "violation," "torture," "unjust," "ignored," "malicious," "protest," "fabricated," etc., stand out.
+
+Next, for the summary, I need to include these words to maintain the moral tone. I should start by mentioning the report's reception, then the criticisms from various countries, the specifics about the US's own human rights issues, and the hypocrisy in their evaluations. I'll also highlight how the report is seen as inaccurate and biased, leading to global protests.
+
+I have to make sure the summary is concise, around 200 words, and flows naturally while incorporating the identified moral terms. I'll structure it to first state the criticism, then detail the US's own issues, followed by the hypocrisy in their evaluations, and conclude with the lack of credibility of the report.
+</think>
+
+**STEP 1:**
+
+* Criticized  
+* Condemned  
+* Inaccurate  
+* Lacking good will  
+* Distortion  
+* Wrongful  
+* Interference  
+* Violations  
+* Torture  
+* Pressure  
+* Unjust  
+* Poverty  
+* Ignored  
+* Malicious  
+* Protest  
+* Fabricated  
+
+**SUMMARY:**
+
+The US State Department's Annual Human Rights Report has faced strong criticism and condemnation from numerous countries, accused of being inaccurate and lacking goodwill. Many nations have rejected its contents, calling it a distortion of the truth and an interference in internal affairs. The report has been particularly criticized for ignoring human rights violations within the US, such as high murder rates, torture, an unjust legal system, and widespread poverty. Analysts argue that the US evaluates human rights practices in other countries based on political relations and interests, often overlooking its own shortcomings. The report's credibility is further undermined by its hypocrisy, as the US has been accused of ignoring fundamental human rights when they do not serve its political purposes. Global protests and criticism highlight the report's malicious goals and fabricated nature, with many questioning its legitimacy. END OF SUMMARY.

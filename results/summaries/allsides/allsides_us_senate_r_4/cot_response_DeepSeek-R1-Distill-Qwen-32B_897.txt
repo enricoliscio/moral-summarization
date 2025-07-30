@@ -1,0 +1,30 @@
+Okay, so I'm trying to help the user by summarizing this news article while preserving the moral framing. Let me start by reading the article carefully.
+
+The article is about Rev. Raphael Warnock accusing Georgia's Secretary of State, Brian Kemp, of voter suppression. Warnock is associated with the New Georgia Project, which is being investigated for voter registration fraud. Kemp's office found some cases of fraud and is pursuing the matter. There's a lot of tension because the upcoming election is close, and the registration drive could impact the outcome.
+
+Now, the user wants me to first identify all the morally framed words. I'll go through the article and pick out words that carry a moral judgment. Words like "fraud," "suppression," "wrong," "felony," "witch hunt," "abuse," "racist," "chilling effect," "smear campaign," "dog and pony show." These words are loaded with moral implications, so they need to be highlighted.
+
+Next, I need to summarize the article, making sure to include as many of these moral terms as possible without exceeding 200 words. I'll start by stating Warnock's accusation, mention the investigation, the findings, Kemp's defense, the political stakes, and the accusations of witch hunts and smear campaigns. I should keep the summary concise but include all the key points and the moral framing.
+
+I need to make sure the summary flows well and covers all sides: Warnock's charges, Kemp's investigation, the impact on the election, and the mutual accusations of abuse of power and racism. I'll structure it to show the conflict between the two parties and the underlying moral issues involved.
+
+Finally, I'll check the word count to ensure it's under 200 words and that all the key morally framed words are included. That should meet the user's requirements.
+</think>
+
+### STEP 1:
+* Fraud  
+* Suppression  
+* Wrong  
+* Felony  
+* Witch hunt  
+* Abuse  
+* Racist  
+* Chilling effect  
+* Smear campaign  
+* Dog and pony show  
+
+---
+
+### SUMMARY:
+Rev. Raphael Warnock, pastor of Ebenezer Baptist Church, accused Georgia's Republican Secretary of State Brian Kemp of voter suppression during an investigation into the New Georgia Project, a voter registration drive. Kemp's office found 28 cases of fraud, including forged signatures and false information, and issued a subpoena to the project. Warnock and the project's founder, Stacey Abrams, claimed the investigation was a "witch hunt" and "abuse of power," arguing it was a "smear campaign" aimed at intimidating minority voters. Kemp denied the allegations, calling them "flat wrong," and emphasized his duty to investigate fraud. The dispute is politically charged, as the upcoming Senate race is tight, and the registration drive could influence the outcome. Warnock and Abrams criticized Kemp's actions as a "dog and pony show," while Kemp defended his investigation as lawful and necessary. The conflict highlights tensions over voter registration and election integrity in Georgia.  
+END OF SUMMARY.

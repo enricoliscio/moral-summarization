@@ -1,0 +1,12 @@
+Alright, I need to help the user by summarizing the provided news article while preserving the moral framing. The user specified that I should use the morally framed words from the article and keep the summary under 200 words. 
+
+First, I'll read through the article to understand the main points. The article is about Trump's inauguration, his rhetoric, the reactions, and the events of the day. The key morally charged words are listed, so I need to ensure those are included.
+
+I should start by identifying the core elements: Trump's vision, the disruption, the opposition, the protests, and the moral terms used. I'll structure the summary to highlight Trump's promises to restore America, the use of terms like 'carnage' and 'ravages,' and the contrasting reactions from supporters and opponents.
+
+I need to make sure the summary flows well, covering the inauguration, the address, the policies, and the protests. I'll also mention the moral terms like 'poverty,''stolen,' 'violence,' and 'justice' to reflect the author's framing.
+
+I'll check the word count to stay within 200 words, ensuring all key points are covered concisely. Finally, I'll present the summary after the "SUMMARY:" token and end with "END OF SUMMARY." as instructed.
+</think>
+
+SUMMARY: Donald Trump was inaugurated as the 45th U.S. president, vowing to restore America's greatness and reverse its decline, which he described as "this American carnage." His address painted a grim picture of economic dislocation, poverty, and foreign exploitation, promising action to bring back jobs, borders, wealth, and dreams. Trump criticized politicians for inaction and emphasized a protectionist agenda, urging "buy American and hire American." He also pledged to eradicate Islamic terrorism and reject prejudice. The inauguration marked a disruptive shift, with protests and violence, including smashed windows and a burned limousine, leading to arrests. Trump's rhetoric, while optimistic, struck a dark tone, contrasting with the divided nation's reactions. The day also saw the departure of President Obama, who left Washington for vacation, hinting at continued activism. Trump's unconventional path to power and his outsider identity dominated the narrative, as he sought to transfer power from Washington back to the people. END OF SUMMARY.

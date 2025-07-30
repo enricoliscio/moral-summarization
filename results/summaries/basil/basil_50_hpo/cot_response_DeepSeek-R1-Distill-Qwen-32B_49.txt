@@ -1,0 +1,33 @@
+Okay, so I need to help the user by summarizing this news article while preserving the moral framing. Let me start by understanding the task. The user wants me to first identify all the morally framed words in the article and then write a concise summary using those words where possible.
+
+First, I'll read through the article to get the gist. It's about Susan Rice criticizing Netanyahu's speech to Congress, saying it's destructive to U.S.-Israel relations. She mentions partisanship and how it's injected into the relationship, which is problematic. Obama won't meet with Netanyahu before the speech, calling it inappropriate. Boehner invited Netanyahu without consulting the White House, and some lawmakers oppose the speech, fearing it might strain talks on Iran's nuclear plans. Leahy calls it a "tawdry and high-handed stunt."
+
+Now, for step one, I need to find all the single words that carry a moral judgment. Let's go through the article again.
+
+Susan Rice says the speech will be "destructive" to relations. That's a clear negative moral judgment. She mentions "partisanship," which is seen as negative in this context. She also uses "unfortunate," which is a negative moral term. "Problematic" is another one she uses. She emphasizes "bipartisan" as positive. Netanyahu's speech is called a "stunt," which is negative.
+
+So the morally framed words are: destructive, partisanship, unfortunate, problematic, bipartisan, stunt.
+
+Next, I need to write a summary that includes these words. The summary should be under 200 words. I'll start by mentioning Susan Rice's criticism, the destructiveness of the speech, the partisanship injected, the unfortunate situation, the problem it causes, the bipartisan nature they want to maintain, and Leahy's description of the stunt.
+
+I need to make sure the summary flows well and includes all these terms naturally. I'll structure it to first state Rice's criticism, explain the reasons (partisanship, unfortunate, problematic), mention the bipartisan aspect, Obama's decision, Boehner's invitation without consultation, and the lawmakers' concerns, ending with Leahy's comment.
+
+Let me check the word count. I'll make sure it's concise and within the limit. I think that's all. Now, I'll present the step-by-step results as per the user's request.
+</think>
+
+**STEP 1:**
+
+* destructive  
+* partisanship  
+* unfortunate  
+* problematic  
+* bipartisan  
+* stunt  
+
+---
+
+**SUMMARY:**  
+
+Susan Rice, Obama's national security adviser, criticized Israeli Prime Minister Benjamin Netanyahu's planned speech before a joint session of Congress, calling it "destructive" to U.S.-Israel relations. Rice emphasized that the speech, accepted two weeks before Netanyahu's election, injected "partisanship" into the relationship, which she deemed "unfortunate" and "problematic." She stressed the importance of maintaining a "bipartisan" approach, which both the U.S. and Israel desire. Obama has declined to meet with Netanyahu before the speech, deeming it "inappropriate." House Speaker John Boehner invited Netanyahu without consulting the White House, sparking criticism from lawmakers who fear the speech could strain international talks on Iran's nuclear program. Sen. Patrick Leahy described the speech as a "tawdry and high-handed stunt."  
+
+END OF SUMMARY.

@@ -1,0 +1,16 @@
+Alright, so the user has given me a task where I need to summarize a news article while preserving the moral framing used by the author. They provided the article, a list of morally framed words, and specific instructions on how to format the summary. 
+
+First, I need to understand the article. It's about Trump accusing a former Clinton aide, Huma Abedin, of disregarding security protocols by forwarding government passwords to her private email. He also criticizes the Justice Department, calling it a "deep state." The article mentions that Yahoo was hacked, and the data was sold. Trump wants an investigation into Abedin. The summary should include words like "disregarding," "calling," "attacking," etc.
+
+I should start by identifying the key points: Trump's accusation, the security protocols, the hack, the sale of data, the "deep state" reference, and the political context. I need to make sure the summary is concise, under 200 words, and includes as many of the morally charged words as possible.
+
+I'll structure the summary to first mention Trump's accusation, then the specific actions (disregarding protocols, forwarding passwords). Then, I'll include the hacking incident and the sale of data. Next, I'll touch on Trump's criticism of the Justice Department as the "deep state" and the political implications. Finally, I'll mention the release of emails and the context of the 2016 election.
+
+I need to ensure that each morally framed word is used appropriately without forcing them in. The summary should flow naturally while highlighting the moral aspects as the author did.
+
+Let me draft this step by step, making sure each key point is covered and the moral language is preserved. I'll check the word count to stay within the limit. Once done, I'll format it correctly with the "SUMMARY:" and "END OF SUMMARY." tokens.
+</think>
+
+SUMMARY:  
+President Trump accused former Clinton aide Huma Abedin of "disregarding basic security protocols" by forwarding government passwords to her private Yahoo email in 2009. He also "called" his Justice Department a "deep state," criticizing it for not pursuing investigations into his political opponents. The accusation followed a report in The Daily Caller, which Trump closely monitors, revealing that Yahoo was "hacked" in 2013, exposing all three billion accounts, including Abedin's. The hacked data was later "sold" by a hacking collective. Trump demanded an investigation into Abedin, framing the situation as part of a broader "plot" by the "deep state" to "influence" policy and "undercut" democratically elected leaders. The State Department recently released 3,000 of Abedin’s work emails, found on her estranged husband’s laptop, adding to the political tensions. Trump also referenced a Navy sailor jailed for taking submarine photos, linking it to the "attack" on Clinton and his own administration.  
+END OF SUMMARY.

@@ -1,0 +1,28 @@
+Okay, so the user has given me a task where I need to act as a news summarizer and a moral expert. They provided a news article about a shooting in Springfield, Mo, and want me to summarize it while preserving the moral framing. 
+
+First, I need to understand what moral framing means here. It refers to words or phrases that carry a moral judgment or evaluation. So, I should identify those in the article. 
+
+Looking at the article, I'll go through each sentence and pick out words that have a moral connotation. Words like "randomly," "roving," "senseless," "courageous," "heroic," "grateful," "surreal," "grieving," and "impact" stand out as they carry moral weight.
+
+Next, I need to summarize the article in under 200 words, making sure to include these moral words. The summary should capture the main events: the shooter's actions, the casualties, the officers' bravery, and the community's reaction. 
+
+I'll structure the summary by first stating the event, then the shooter's actions, the victims, the officers' heroic efforts, and the aftermath. I'll make sure to include the moral words to reflect the author's framing, emphasizing the tragedy and heroism involved.
+
+I should also keep the language clear and concise, ensuring that the summary flows well and stays within the word limit. Double-checking to include all identified moral terms without making the summary too lengthy is crucial.
+
+Finally, I'll present the summary after the specified tokens, making sure it's properly formatted and ends with the required token.
+</think>
+
+**STEP 1:**  
+* Randomly  
+* Roving  
+* Senseless  
+* Courageous  
+* Heroic  
+* Grateful  
+* Surreal  
+* Grieving  
+* Impact  
+
+**SUMMARY:**  
+A senseless shooting occurred in Springfield, Mo, on March 15, 2020, when a gunman fired randomly from his vehicle, killing five people, including a police officer and himself. The shooter, Joaquin S. Roman, crashed into a convenience store, where he opened fire, leaving three citizens and Officer Christopher Walsh dead. Walsh, a heroic Army veteran, was killed while trying to rescue a victim. Another officer, Josiah Overton, was injured but survived. The gunman’s motives remain unclear. Witnesses reported the surreal scene, with one woman narrowly escaping harm. The community expressed gratitude for the first responders’ bravery, while police grappled with the tragedy, describing it as a roving active shooter situation. The impact on the department and community remains profound as investigations continue. END OF SUMMARY.

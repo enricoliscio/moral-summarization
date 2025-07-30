@@ -1,0 +1,15 @@
+<think>
+Alright, I need to summarize the given news article while preserving the moral framing the author used. The user provided a list of morally framed words that must be included. First, I'll read through the article to understand the main points.
+
+The article is about Obama criticizing Trump for ending DACA. Obama uses strong moral language like "cruel" and "wrong." I need to make sure these words are included in the summary.
+
+I'll start by identifying the key elements: Obama's criticism, the reasons he gives (cruelty, no threat, contributions to society), and his examples like the softball pitcher and first responder. I should also mention that Trump's action is a political decision, not legally required.
+
+Next, I'll structure the summary to include all these points concisely. I'll ensure that each morally framed word is used appropriately. For example, "target" refers to the action against DACA recipients, and "threaten" relates to their future.
+
+I'll also note that the author uses words like "Forgets" in the title, but since it's in the title, I might not include it directly in the summary unless it's relevant. However, the main focus is on the content of the article.
+
+Finally, I'll keep the summary under 200 words, making sure it's clear and captures the moral stance Obama takes. I'll avoid any markdown and present it as a natural summary after the "SUMMARY:" token.
+</think>
+
+SUMMARY: Former President Obama criticized President Trump for ending the Deferred Action for Childhood Arrivals (DACA) program, calling the decision "cruel" and "contrary" to American values. Obama argued that DACA recipients, often referred to as "Dreamers," pose no threat and have done nothing wrong, emphasizing their contributions to society as future business leaders, scientists, and military members. He questioned the morality of deporting young people to countries they may not even remember, stating that such actions are "self-defeating" and "wrong." Obama also noted that targeting these individuals does not address unemployment or economic concerns, instead highlighting their roles as community members, such as teachers, neighbors, and first responders. He emphasized that the decision was a political choice, not a legal requirement, and urged compassion for those who came to the U.S. through no fault of their own. END OF SUMMARY.

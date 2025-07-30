@@ -1,0 +1,30 @@
+Okay, so I need to help the user by summarizing a news article while preserving the moral framing. The user provided a detailed article about the Medicare debate between Romney, Obama, and McCain. They also gave a specific structure to follow, including identifying morally framed words and then writing a summary using those words.
+
+First, I should read the article carefully to understand the context. It's about how the Romney campaign is accusing Obama of cutting Medicare funds, while Obama's team is defending their policies. The article also mentions past accusations by Obama against McCain, creating a cycle of accusations.
+
+Next, the user wants me to identify all single words that are morally framed. I need to look for words that carry strong moral connotations, like "stole," "blood on their hands," "raided," "drastic," "cuts," "gamble," "false," "attack," "oppose," "demagogue," and "ironically." These words are used to convey blame, criticism, or moral judgment.
+
+Then, I need to write a concise summary that includes as many of these morally framed words as possible. The summary should be no more than 200 words and should reflect the back-and-forth accusations between the campaigns, emphasizing the moral language used.
+
+I should structure the summary to highlight how both sides are accusing each other of harming Medicare, using strong moral terms. It's important to mention the historical context with McCain and how the same accusations are being reused, showing a pattern of political strategy.
+
+I need to ensure that the summary flows well and captures the essence of the article without getting bogged down in too many details. The key points are the accusations, the moral framing, and the historical context that complicates the debate.
+
+Finally, I'll make sure to start the summary with "SUMMARY:" and end with "END OF SUMMARY." to follow the user's instructions precisely.
+</think>
+
+**STEP 1:**  
+* Stole  
+* Blood on their hands  
+* Raided  
+* Drastic  
+* Cuts  
+* Gamble  
+* False  
+* Attack  
+* Oppose  
+* Demagogue  
+* Irony  
+
+**SUMMARY:**  
+The Medicare debate has intensified as Mitt Romney's campaign accuses Barack Obama of "stealing" $700 billion from Medicare to fund Obamacare, a charge Obama's team disputes, arguing the savings came from reducing waste and fraud. Romney's team claims Obama "raided" Medicare, while Obama's team points to Romney's running mate, Paul Ryan, for proposing a voucher system. The debate echoes past accusations, such as Obama's 2008 attack on John McCain, accusing him of "drastic" Medicare cuts. Fact-checkers have labeled these claims "false," as both campaigns focus on limiting waste rather than cutting benefits. The cycle of accusations complicates the dialogue on Medicare reform, with both sides "opposing" each other's policies and "demagoguing" the issue for political gain. The moral framing of "blood on their hands" and "gamble" highlights the emotional stakes in this contentious debate. END OF SUMMARY.

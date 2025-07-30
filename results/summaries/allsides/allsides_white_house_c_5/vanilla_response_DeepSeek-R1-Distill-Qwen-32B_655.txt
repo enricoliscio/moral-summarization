@@ -1,0 +1,14 @@
+Alright, I need to help the user by summarizing the given news article. The user provided specific instructions, so I should make sure to follow them carefully. 
+
+First, I'll read through the article to understand the main points. It's about Attorney General Holder assigning two U.S. attorneys to investigate leaks of classified information. The leaks include details about a secret terrorist kill list and an al-Qaida infiltration operation. Holder made a statement about the importance of preventing such leaks, and President Obama denied any White House involvement. There's also mention of Congress's concerns, with some suggesting a special counsel and others considering legislative changes. McCain is calling for a special counsel, while Feinstein is cautious about the time it might take.
+
+Next, I need to condense this information into a concise summary of no more than 200 words. I should include the key players: Holder, the two U.S. attorneys, Obama, McCain, and Feinstein. I'll mention the types of leaks, Holder's assignment, Obama's denial, Congress's divided stance, and the ongoing calls for a special counsel.
+
+I need to ensure the summary starts with "SUMMARY:" and ends with "END OF SUMMARY." Also, it should be clear and to the point, avoiding unnecessary details. I'll structure it to first state Holder's action, then Obama's response, followed by the congressional reactions, and conclude with McCain's call for a special counsel.
+
+Let me draft it step by step, making sure each sentence is concise and covers all essential elements without exceeding the word limit. I'll check the word count to ensure it's within 200 words. Once done, I'll review to make sure it flows well and accurately represents the article's content.
+</think>
+
+SUMMARY:  
+Attorney General Eric Holder has assigned two U.S. attorneys to investigate potential leaks of classified information, following recent disclosures about a secret terrorist kill list and an al-Qaida infiltration operation. Holder emphasized that such leaks could compromise national security and would not be tolerated. President Obama denied any White House involvement in leaking classified material for political gain. Meanwhile, members of Congress expressed concerns, with Sen. John McCain calling for a special counsel to investigate, while Sen. Dianne Feinstein suggested legislative changes to address the issue more quickly. Holder's investigation will focus on unauthorized disclosures and may involve consulting with the Intelligence Community and pursuing related violations. The ongoing probes aim to address serious breaches of national security.  
+END OF SUMMARY.

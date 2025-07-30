@@ -1,0 +1,29 @@
+Alright, I need to help the user by summarizing the news article while preserving the moral framing. First, I should understand what the user is asking for. They provided a detailed news article about Rep. Bob Etheridge's incident and want a summary that includes the morally charged words.
+
+Step 1 is to identify all the single words that are morally framed. I'll go through the article and pick out words that carry a moral judgment. Words like "apologized," "sorry," "regrets," "profoundly," "unbecoming," "excuse," "spat," "pushed," "threatened," "assault," "unbecoming," "beyond the pale," "assault," and "unbecoming" stand out as they convey moral judgment.
+
+Next, I need to write a concise summary, around 200 words, incorporating these words. The summary should include the main points: Etheridge's apology, the incident details, his response, the blogger's criticism, and the political context. I'll make sure to use the morally framed words to maintain the author's tone.
+
+I should also ensure the summary flows well and covers all critical aspects without being too verbose. I'll start by mentioning the apology, describe the confrontation, include the blogger's harsh words, and end with the political implications. This approach should meet the user's requirements effectively.
+</think>
+
+**STEP 1:**  
+* apologized  
+* sorry  
+* regrets  
+* profoundly  
+* unbecoming  
+* excuse  
+* spat  
+* pushed  
+* threatened  
+* assault  
+* unbecoming  
+* beyond the pale  
+* assault  
+* unbecoming  
+
+**SUMMARY:**  
+Three days after a viral video showed North Carolina Rep. Bob Etheridge physically confronting a young man, Etheridge apologized for his actions, calling them "profoundly" regrettable. The video, filmed on a Washington street, depicts Etheridge grabbing the man's wrist and neck after the man questioned his support for the "Obama agenda." Etheridge admitted that his response was "no excuse," even though he had been spat at, pushed, and threatened before. He claimed he hadn't apologized to the young men because he didn't know their identities. Conservative blogger Mike Flynn criticized Etheridge's conduct as "unbecoming of a member of Congress," adding that it "goes beyond the pale." The incident occurred outside a fundraiser for House Speaker Nancy Pelosi. Etheridge, a Democrat, is running for re-election against Republican Renee Ellmers. His support for Obama's health care and climate change legislation has drawn criticism, and political observers predict he will retain his seat.  
+
+**END OF SUMMARY.**

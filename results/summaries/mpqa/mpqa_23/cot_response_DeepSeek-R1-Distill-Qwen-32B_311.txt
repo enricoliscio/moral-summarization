@@ -1,0 +1,39 @@
+Alright, so I need to help the user with their query. They provided a news article about Zimbabwe's president, Robert Mugabe, being sworn in after a contentious election. The user wants me to first identify all the single words that are morally framed in the article. Then, I have to write a summary preserving the moral framing, using those words as much as possible, and keeping it under 200 words.
+
+First, I should understand what morally framed words are. These are words that carry a positive or negative moral connotation, indicating approval or disapproval. For example, "rigged" has a negative connotation, suggesting unfairness, while "triumph" is positive.
+
+Looking at the article, I'll go through each sentence and pick out words that have such connotations. Words like "boycott," "rigged," "triumph," "imperialism," "violence," "intimidation," "disenfranchisement," "defiant," "reform," "seized," "colony," "legitimate," "sanctions," "recession," "shortage," "reassurance," "intent," "revitalizing," "good government," "trade." Each of these carries a moral judgment, either positive or negative.
+
+Next, I need to summarize the article, making sure to include as many of these words as possible without making it too long. The summary should capture the key points: Mugabe's inauguration, the opposition's boycott, the election issues, Mugabe's stance, international reactions, and the economic impact.
+
+I should structure the summary to flow logically, starting with Mugabe's swearing-in, the opposition's actions, the reasons for the boycott, Mugabe's response, international reactions, and the economic consequences. I'll make sure to use the morally framed words to maintain the original tone.
+
+I also need to ensure that the summary doesn't exceed 200 words. I'll keep each point concise, focusing on the main events and the moral implications without going into too much detail.
+
+Finally, I'll present the summary after the "SUMMARY:" token and end with "END OF SUMMARY." I'll make sure the formatting is correct, with each step clearly labeled and the summary following the specified structure.
+</think>
+
+**STEP 1:**  
+* Boycott  
+* Rigged  
+* Triumph  
+* Imperialism  
+* Violence  
+* Intimidation  
+* Disenfranchisement  
+* Defiant  
+* Reform  
+* Seized  
+* Colony  
+* Legitimate  
+* Sanctions  
+* Recession  
+* Shortage  
+* Reassurance  
+* Intent  
+* Revitalizing  
+* Good government  
+* Trade  
+
+**SUMMARY:**  
+Zimbabwe's President Robert Mugabe was sworn in for his fifth term amid widespread criticism that the election was rigged. The opposition and Western governments denounced the process, citing months of political violence, intimidation, and disenfranchisement. Mugabe, a former independence leader, claimed his victory was a triumph against Western imperialism and white minority interests. African leaders attended the ceremony, but 57 opposition lawmakers and representatives from the U.S., EU, and other countries boycotted it. Mugabe remained defiant, blaming racism for international criticism and vowing to accelerate his controversial land-reform program, which has seen fertile land seized from white farmers. The country faces economic challenges, including a recession and food shortage, as international donors cut funding. Mugabe called for national reconciliation but rejected a proposed government of national unity. Regional leaders, including South Africa's Thabo Mbeki, are urging him to accept such an arrangement to avoid deeper sanctions. The elections were labeled "legitimate" by a South African observer mission, but many Western leaders look to Mbeki to provide reassurance that Africa remains committed to democratic principles and property rights. END OF SUMMARY.

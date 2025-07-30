@@ -1,0 +1,25 @@
+<think>
+Okay, I need to help the user by summarizing a news article while preserving the moral framing. First, I should read the article carefully to understand the context. The article is about China criticizing the US human rights report. 
+
+The user has asked for two steps: first, to identify all the single words that are morally framed, and second, to write a summary using those words. 
+
+For the first step, I need to go through the article and pick out words that carry moral connotations. Words like "criticizes," "abuses," "blind eye," "infringing," "slammed," "distorted," "accused," and "violations" stand out as they have strong moral implications. I'll list each of these with a bullet point.
+
+Next, for the summary, I have to ensure it's concise, under 200 words, and includes as many of those moral words as possible. The summary should reflect the original article's framing, highlighting China's criticism of the US for hypocrisy. I'll structure it to mention the report's release, the accusations against the US, and the context of responding to the US report. I'll make sure to include the morally framed words to maintain the tone.
+
+I should also check that the summary flows logically, starting with China's action, then listing the accusations, and ending with the broader context of the annual reports. This way, the moral framing is preserved, and the summary accurately reflects the article's content.
+</think>
+
+**STEP 1:**  
+* Criticizes  
+* Abuses  
+* Blind eye  
+* Infringing  
+* Slammed  
+* Distorted  
+* Accused  
+* Violations  
+
+**SUMMARY:**  
+China has released its annual report criticizing the United States for human rights abuses, accusing the U.S. of hypocrisy for ignoring its own issues while condemning others. The report highlights police abuses, poverty, racial discrimination, and lack of personal safety in the U.S., while also condemning U.S. military actions and its withdrawal from the Kyoto Protocol. China argues that the U.S. hypocritically assumes the role of a "world judge of human rights" while ignoring its own problems. This report is part of an annual response to the U.S. State Department's human rights report, which typically accuses China of widespread human rights violations. China accuses the U.S. of distorting human rights conditions globally while turning a blind eye to its own shortcomings.  
+END OF SUMMARY.

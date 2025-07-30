@@ -1,0 +1,49 @@
+Okay, I need to help the user by summarizing the news article while preserving the moral framing. First, I should understand what the user is asking for. They provided a detailed article about Nebraska and Oklahoma filing a lawsuit against Colorado over marijuana legalization. They want me to identify the morally framed words and then write a concise summary that includes those words.
+
+So, starting with STEP 1, I need to find all the single words in the article that carry a moral connotation. Words like "unconstitutional," "prohibits," "undermined," "uphold," "defend," "concern," "grievance," "non-enforcement," "merit," "vigorous," "trafficked," "injure," "illegal," "prohibition," "hands-off," "success," "assured," "trump," "approach," "consequences," "vacuum," "approve," "bullies," "business," "bill," "waste," "history," "available," "criminal," "outrageous," "interference," and "benefit." These words all carry a moral or ethical weight in the context of the article.
+
+Next, for the summary, I need to condense the article into 200 words or less, making sure to include as many of these morally framed words as possible. I should start by outlining the main points: the lawsuit, the constitutional arguments, the stance of Colorado, the implications if the lawsuit succeeds, and the reactions from various groups.
+
+I need to ensure that the summary flows well and covers all key aspects without being too detailed. I'll mention the states involved, the legal basis for the lawsuit, Colorado's defense, the potential impact on other states, and the opinions from supporters and opponents of the lawsuit.
+
+I should also highlight the moral arguments on both sides, such as Nebraska and Oklahoma's concern about Colorado's actions affecting them versus Colorado's assertion that the lawsuit lacks merit. Including the experts' opinions adds depth to the summary, showing the broader implications of the case.
+
+Finally, I'll make sure the summary ends with a note on the significance of the case, emphasizing the balance between state sovereignty and federal law. This should give the user a clear, concise, and morally framed summary of the news article.
+</think>
+
+**STEP 1:**  
+* unconstitutional  
+* prohibits  
+* undermined  
+* uphold  
+* defend  
+* concern  
+* grievance  
+* non-enforcement  
+* merit  
+* vigorous  
+* trafficked  
+* injure  
+* illegal  
+* prohibition  
+* hands-off  
+* success  
+* assured  
+* trump  
+* approach  
+* consequences  
+* vacuum  
+* approve  
+* bullies  
+* business  
+* bill  
+* waste  
+* history  
+* available  
+* criminal  
+* outrageous  
+* interference  
+* benefit  
+
+**SUMMARY:**  
+Nebraska and Oklahoma filed a federal lawsuit against Colorado, claiming Colorado's recreational marijuana legalization is unconstitutional under federal law. They argue that federal law prohibits marijuana, and Colorado's actions undermine the U.S. Constitution. Colorado defends its laws, stating the lawsuit lacks merit and is focused on federal non-enforcement rather than Colorado's state laws. The Supremacy Clause is central to the dispute, as federal law trumps state law. Colorado's marijuana industry faces potential jeopardy if the Supreme Court rules against it. Supporters of legalization argue that state sovereignty should prevail, while opponents emphasize the federal Controlled Substances Act and the broader consequences of legalization. The case highlights the tension between state and federal authority, with implications for all states with marijuana laws. END OF SUMMARY.

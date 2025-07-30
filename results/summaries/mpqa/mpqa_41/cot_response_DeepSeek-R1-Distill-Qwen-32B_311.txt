@@ -1,0 +1,57 @@
+<think>
+Okay, I need to help the user by summarizing a news article while preserving the moral framing. The user provided specific instructions, so I should follow them carefully. 
+
+First, I have to identify all the single words that are morally framed in the article. I'll go through the text and pick out words that carry moral connotations. Words like "unrealistic," "suffering," "lack," "poverty," "hunger," "poor health," "enjoy," "human rights," "preconditions," "universal," "protection," "promotion," "approaches," "improving," "effective," "fundamental freedoms," "right to development," "international peace," "security," "scourges," "social ills," "disease," "narcotic drugs," "armed conflicts," "terrorism," "transnational organized crime," "globalization," "marginalize," "alienate," "exercising," "rights," "duties," "development gap," "underdevelopment," "capacity," "protection," "expediency," "compromise," "lapse in vigilance," "promoting," "strengthening," "multilateral," "war on terrorism." I'll list each of these with an asterisk.
+
+Next, I need to write a concise summary of the article, making sure to include as many of these moral terms as possible without exceeding 200 words. The summary should reflect the main points: the link between development and human rights, the role of peace and security, the challenges posed by globalization, and the importance of addressing social issues. I'll structure it to highlight these elements, ensuring the moral framing is preserved.
+
+I should also remember to start the summary with "SUMMARY:" and end with "END OF SUMMARY." to meet the user's formatting requirements. Let me make sure the summary flows well and covers all key points without being too verbose.
+</think>
+
+**STEP 1:**  
+* unrealistic  
+* suffering  
+* lack  
+* poverty  
+* hunger  
+* poor health  
+* enjoy  
+* human rights  
+* preconditions  
+* universal  
+* protection  
+* promotion  
+* approaches  
+* improving  
+* effective  
+* fundamental freedoms  
+* right to development  
+* international peace  
+* security  
+* scourges  
+* social ills  
+* disease  
+* narcotic drugs  
+* armed conflicts  
+* terrorism  
+* transnational organized crime  
+* globalization  
+* marginalize  
+* alienate  
+* exercising  
+* rights  
+* duties  
+* development gap  
+* underdevelopment  
+* capacity  
+* protection  
+* expediency  
+* compromise  
+* lapse in vigilance  
+* promoting  
+* strengthening  
+* multilateral  
+* war on terrorism  
+
+**SUMMARY:**  
+Delegations at the UN General Assembly emphasized that human rights cannot be fully enjoyed when people face poverty, hunger, and poor health. They stressed that the right to development and international peace are critical for universal human rights protection. Thailand highlighted that human rights and development are interconnected, while Eritrea and China warned that globalization risks marginalizing developing nations and widening the development gap. The U.S. representative stated that protecting human rights is essential to combating terrorism. The debate underscored the need to address social issues like disease, terrorism, and economic disparities to ensure human rights for all. END OF SUMMARY.

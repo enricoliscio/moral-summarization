@@ -1,0 +1,14 @@
+Alright, I need to help the user by summarizing the given news article while preserving the moral framing. The user is a news summarizer and a moral expert, so the summary should not only be concise but also highlight the positive aspects and achievements mentioned.
+
+First, I'll read through the article to understand the key points. The shuttle Atlantis launched successfully after some delays, which is a significant event. There were some challenges like a computer glitch and a four-day delay due to a leak, but they overcame them. The mission includes installing a crucial structure for the International Space Station, which is a big step towards its completion. Also, Jerry Ross made history by being the first astronaut on seven missions, which is a notable achievement.
+
+I should make sure to include these points: the successful launch, the challenges overcome, the milestone for US space flight, Ross's record, and the importance of the mission's tasks. The tone should be positive, emphasizing triumph over obstacles and the advancement of space exploration.
+
+I need to keep the summary under 200 words, so I'll be concise but include all the essential elements. I'll start with the launch, mention the delays and how they were resolved, then highlight the mission's significance and Ross's achievement. Finally, I'll note the installation of the support unit and its purpose for the space station.
+
+Let me structure this to flow logically, ensuring each important point is covered without going over the word limit. I'll make sure the summary reflects the author's positive framing, focusing on success and progress.
+</think>
+
+SUMMARY:  
+The space shuttle Atlantis successfully launched from Cape Canaveral, carrying seven astronauts and critical hardware to the International Space Station (ISS). This mission marks the first of six scheduled launches over the next seven months, aimed at accelerating the ISS's completion. The launch, delayed four days due to a liquid hydrogen leak, was nearly derailed by a computer glitch, but engineers resolved the issue just in time. Atlantis commander Mike Bloomfield and his crew are on an 11-day mission to install a crucial "keystone" support structure, the 44-foot-long, 27,000-pound "S-Zero," which will support a new solar energy array. Notably, mission specialist Jerry L. Ross became the first astronaut to achieve seven spaceflights. The mission highlights U.S. spaceflight milestones and the ongoing effort to advance space exploration.  
+END OF SUMMARY.

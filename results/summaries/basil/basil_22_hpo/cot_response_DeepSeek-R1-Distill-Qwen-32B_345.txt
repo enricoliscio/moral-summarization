@@ -1,0 +1,53 @@
+Okay, so I need to help the user by summarizing the given news article while preserving the moral framing. The user has specified two main steps: first, identifying all the single words that are morally framed, and second, writing a concise summary that includes as many of those words as possible.
+
+Starting with the first step, I'll read through the article to pick out words that carry moral connotations. The article talks about Catholic social teaching, misuse, budget, impact on the poor, etc. I'll list each morally charged word, each on a new line with an asterisk.
+
+Next, for the summary, I need to make sure it's under 200 words. I should include the key points: Georgetown faculty criticizing Ryan for misusing Catholic teachings, the impact on the poor, the mention of the budget's effects on food programs and Pell Grants, the concept of subsidiarity, and the scholars' request for Ryan to read the Compendium. I'll structure this clearly, ensuring the moral language is retained to reflect the original framing.
+
+I should also keep the summary objective but include the moral terms to maintain the article's tone. Let me make sure I cover all the main points without getting too detailed. Once the summary is done, I'll end it properly as instructed.
+
+I think that's a solid approach. Let me put it all together.
+</think>
+
+**STEP 1:**  
+* Misuse  
+* Catholic  
+* Social teaching  
+* Budget  
+* Hurts  
+* Poor  
+* Object  
+* Christian  
+* Devastating  
+* Impact  
+* Programs  
+* Essential services  
+* Poor persons  
+* Moral criteria  
+* Survival  
+* Fittest  
+* Gospel  
+* Compassion  
+* Love  
+* Cuts  
+* Food programs  
+* Starvation  
+* Pell Grants  
+* Education  
+* Subsidiarity  
+* Gutting  
+* Government programs  
+* Higher levels of government  
+* Help  
+* Problems  
+* Economic crises  
+* Unemployment  
+* Endemic poverty  
+* Hunger  
+* Compendium  
+* Social doctrine  
+* Vatican  
+
+**SUMMARY:**  
+Georgetown University faculty and administrators criticized Representative Paul Ryan for misusing Catholic social teaching to defend his budget, which they argue harms the poor. They sent a letter to Ryan, emphasizing that his budget fails to meet moral criteria and disproportionately cuts essential services for the poor. The scholars highlighted the devastating impact of budget cuts on food programs and Pell Grants, which hinder low-income students' access to education. They also corrected Ryan's interpretation of "subsidiarity," stating it requires higher levels of government to assist local communities facing crises. The scholars urged Ryan to read the Vatican's "Compendium of the Social Doctrine of the Church" to better understand Catholic social teaching. The letter was signed by over 90 Georgetown faculty, including Jesuit priests and scholars from various departments.  
+**END OF SUMMARY.**

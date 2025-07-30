@@ -1,0 +1,29 @@
+<think>
+Alright, I need to help the user by summarizing the given news article while preserving the moral framing. The user has specified two steps: first, identifying all the morally framed single words, and second, writing a concise summary using those words. 
+
+Starting with STEP 1, I'll go through the article to find words that carry moral connotations. Words like "gauntlet," "attack," "smear," "lies," "false," "spill the beans," "coward," "classless," "derogatory," "challenge," "shot," "endorse," "stupidity," and "faithful" stand out as they imply judgment or moral evaluation.
+
+For the summary, I need to condense the article into 200 words, keeping the moral language intact. I'll focus on the conflict between Cruz and Trump, the specific allegations, and the implications for the campaign. I'll mention the National Enquirer story, Cruz's accusations against Trump, Trump's threats, and the broader impact on the GOP's image. It's important to highlight the personal attacks and their consequences on the candidates' reputations and the party's appeal.
+
+I should ensure the summary flows logically, starting with the feud, the specific incidents, and ending with the implications for the nomination race. I'll make sure to include all the key morally framed words to maintain the original tone and framing.
+</think>
+
+**STEP 1:**  
+* Gauntlet  
+* Attack  
+* Smear  
+* Lies  
+* False  
+* Spill the beans  
+* Coward  
+* Classless  
+* Derogatory  
+* Challenge  
+* Shot  
+* Endorse  
+* Stupidity  
+* Faithful  
+
+**SUMMARY:**  
+Sen. Ted Cruz escalated the feud with Donald Trump over personal attacks on their respective families. Cruz accused Trump of orchestrating a National Enquirer story alleging extramarital affairs, calling it a "tabloid smear." Trump's campaign responded by questioning Cruz's wife's mental health, prompting Cruz to distance himself from supporting Trump if he wins the nomination. Cruz emphasized his unwillingness to back someone who attacks his family. Trump, in turn, threatened to reveal information about Cruz's wife, Heidi, calling Cruz a liar. The conflict intensified as a super PAC opposing Trump released an ad featuring Melania Trump's past photos, leading Trump to threaten Cruz with exposure. Cruz denied involvement in the ad and criticized Trump as a "coward." The feud highlights the personal and derogatory nature of the campaign, with Trump leading in delegates while Cruz faces a stiff challenge. The moral stakes are high, with both candidates' reputations and the GOP's appeal to voters on the line.  
+**END OF SUMMARY.**

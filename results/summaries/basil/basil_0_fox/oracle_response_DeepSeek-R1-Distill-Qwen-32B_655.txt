@@ -1,0 +1,14 @@
+Alright, I need to help the user by summarizing the given news article while preserving the moral framing words: free, fair, wins, together. 
+
+First, I'll read the article carefully. Glenn Beck is speaking at CPAC, criticizing progressivism. He uses a chalkboard, which is a key prop. He rejects the idea that Republicans should include progressives, comparing it to a circus. He emphasizes that life isn't fair and that sometimes the bad guy wins. The audience sees him as a leader in the conservative movement. His 9/12 Project brought people together, highlighting unity across different backgrounds.
+
+I should include the moral words. "Free" relates to America as an idea that sets people free. "Fair" is when Beck says life isn't fair. "Wins" when he mentions the bad guy sometimes wins. "Together" is about people uniting for the 9/12 Project.
+
+I need to condense this into a summary under 200 words, keeping those terms. I'll structure it to highlight Beck's main points and the event's significance, ensuring the moral framing is clear.
+
+Let me draft it, making sure each moral word is included naturally. I'll check the word count to stay within limits. Once done, I'll present it after the SUMMARY token and end with END OF SUMMARY.
+</think>
+
+SUMMARY:  
+Glenn Beck, in his keynote speech at CPAC, criticized "progressivism" as the root of America's problems, using his trademark chalkboard to emphasize his point. He rejected the idea of the Republican Party expanding to include progressives, calling it a "circus" and asserting that "America is not a clown show, but an idea that sets people free." Beck also reflected on life's unfairness, stating, "The bad guy sometimes wins." His speech resonated with attendees, many of whom viewed him as a leader in the conservative movement. Beck's rise coincided with the Tea Party Movement and populist anger toward Washington. He launched the 9/12 Project, promoting unity and shared values, which inspired a major march in Washington. Cynthia Burgiss, a supporter, praised Beck for bringing people "together" and described him as a "relatable... everyday guy," crediting him for inspiring the movement. Beck's message underscored the importance of unity and freedom, while challenging the notion of fairness in America's current state.  
+END OF SUMMARY.

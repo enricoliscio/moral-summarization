@@ -1,0 +1,14 @@
+Okay, so the user has given me a query where they want me to act as a news summarizer and a moral expert. They provided a news article and a list of morally framed words that the author used. My task is to summarize the article while preserving those moral terms.
+
+First, I need to read the article carefully to understand the main points. It's about Rick Santorum's comments during his campaign. He criticized Obama's theology, which he later clarified wasn't about faith but about man's relationship to the world. There's a lot of back and forth between Santorum, Obama's advisor Gibbs, and other politicians like Ron Paul.
+
+Next, I should identify the key moral terms from the list provided. Words like "theology," "ideal," "attacks," "wrong," "destructive," "divisiveness," "charge," "optimizes," "cover," "care," "cull," "lacked," "undermining." I need to make sure these are included in the summary.
+
+I need to structure the summary to cover Santorum's comments on theology, education, and healthcare. Also, include Gibbs' criticism and Paul's dismissal. The summary should be concise, under 200 words, and include as many of the moral words as possible.
+
+I should start by mentioning Santorum's clarification on theology, then move to his views on education, emphasizing local control. Then touch on the healthcare policy, using "cover" and "cull." Include Gibbs' reaction with "attacks," "wrong," "destructive," "divisiveness." Finally, mention Paul's dismissal of social issues, using "undermining."
+
+I need to ensure the summary flows logically and covers all main points without exceeding the word limit. Also, make sure the moral framing is preserved by using the specified words appropriately.
+</think>
+
+SUMMARY: Rick Santorum recently clarified that his criticism of President Obama’s "phony theology" referred not to Obama’s faith but to his view of man’s relationship to the world. Santorum described Obama’s agenda as based on a "phony ideal" and a "different theology," sparking criticism from Obama’s political adviser, Robert Gibbs, who called the remarks "wrong" and "destructive," reflecting the "nastiness" of the Republican nominating process. Santorum also criticized federal and state control of schools, calling it "anachronistic," and advocated for local control and parental involvement in education, emphasizing that "public education should be a dynamic process." He further criticized Obama’s healthcare policy, suggesting it promotes prenatal testing to "cull" the ranks of the disabled, a charge Obama’s team denied. Santorum’s rival, Ron Paul, dismissed his focus on social issues like abortion and contraception, arguing it distracts from broader concerns like debt and civil liberties. END OF SUMMARY.

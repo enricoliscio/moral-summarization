@@ -1,0 +1,18 @@
+Okay, so the user has given me a query where they want me to act as a news summarizer assistant and a moral expert. They provided a news article about Jordan signing the Kyoto Protocol and specified that I need to preserve the moral framing words the author used, specifically "reducing" and "opposed." The summary should be concise, under 200 words, and follow a specific format with "SUMMARY:" and "END OF SUMMARY." tokens.
+
+First, I need to read through the article carefully to understand the key points. The main points are Jordan's decision to sign the Kyoto Protocol, the reasons behind it, the context of the protocol, and the reactions from other countries like the US and Canada.
+
+Next, I should identify the morally framed words. The author used "reducing" and "opposed." I need to make sure these words are included in the summary. Also, I should maintain the moral tone by highlighting Jordan's commitment and the opposing stance of the US and Canada.
+
+I'll start by summarizing Jordan's action, mentioning the director general and the soon-to-be signing. Then, I'll explain the Kyoto Protocol's goal of reducing emissions, emphasizing the moral commitment. I should include that developed countries are the main polluters but note Jordan's proactive stance. 
+
+Then, I'll touch on the funding aspect and GCEP's role. Moving on, I'll mention the EU's agreement to ratify by June 1, 2001. For the US and Canada, I'll use "opposed" to describe their stance, explaining their reasons like economic interests and GDP impact.
+
+I need to keep the summary under 200 words, so I'll be concise but include all necessary points. I'll structure it to flow logically from Jordan's decision, the protocol's background, other countries' actions, and the moral implications.
+
+Finally, I'll ensure the summary starts with "SUMMARY:" and ends with "END OF SUMMARY." without any markdown. I'll double-check that all key points are covered and that the moral framing words are appropriately included.
+</think>
+
+SUMMARY:  
+Jordan has decided to sign the Kyoto Protocol, a UN agreement aimed at reducing global greenhouse gas emissions, as part of its commitment to international environmental conventions. The signing, to be conducted by Prince Zeid Ben Raad, is expected soon, though no exact date has been set. The protocol, established in 1997, legally obliges developed countries to reduce emissions by 8% below 1990 levels between 2008 and 2012. While developed nations are the primary sources of large-scale pollution, Jordan's move underscores its dedication to global environmental efforts. The General Corporation for Environment Protection (GCEP) hopes the signing will attract funding to support international climate change initiatives. Meanwhile, the US opposed the protocol in 2001, citing economic interests, and developed its own strategy to encourage industry emission reductions. Canada also expressed reluctance, citing potential economic losses. Jordan's decision highlights its proactive stance in addressing climate change.  
+END OF SUMMARY.

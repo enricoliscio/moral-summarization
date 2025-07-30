@@ -1,0 +1,41 @@
+Okay, so I need to help the user by summarizing a news article while preserving the moral framing. The user provided a detailed article about the Cheney sisters' differing views on same-sex marriage. They also gave specific instructions on how to approach this: first, identify morally framed words, then write a concise summary using those words.
+
+First, I'll read through the article to understand the context. Mary Cheney, who is gay, criticizes her sister Liz for opposing same-sex marriage. Liz's stance is more about letting states decide, which seems like a middle ground. The article also touches on the broader Republican party's internal conflict on this issue.
+
+Now, for step one, I need to extract all single words that carry moral connotations. Words like "criticized," "wrong," "love," "freedom," "entitled," "pro-gay," "compromise," "placate," "show of hands," "compromise," "shy," "dispute," "disagreement," "enshrining," "enthusiasm," "losing," "voters," "changed," "pillar," "family values," "base," "support," "risk," "opposes." I should list each of these with an asterisk.
+
+Next, the summary needs to be concise, under 200 words, and include as many of these moral words as possible. I'll start by introducing Mary's criticism, her support for freedom and equality, Liz's stance on states' rights, and the political implications within the Republican party. I'll make sure to highlight the moral aspects, like the sisters' disagreement, the broader party conflict, and the political risk involved.
+
+I should ensure the summary flows well and captures the essence of the article without getting too bogged down in details. It's important to maintain the moral framing by using the identified words naturally within the summary.
+
+I think I've covered all the key points: the sisters' disagreement, their positions, the family's stance, the Republican party's internal conflict, and the political risks. Now, I'll structure the summary to include these elements, making sure it's within the word limit and preserves the moral language.
+</think>
+
+**STEP 1:**  
+* Criticized  
+* Wrong  
+* Love  
+* Freedom  
+* Entitled  
+* Pro-gay  
+* Compromise  
+* Placate  
+* Show of hands  
+* Compromise  
+* Shy  
+* Dispute  
+* Disagreement  
+* Enshrining  
+* Enthusiasm  
+* Losing  
+* Voters  
+* Changed  
+* Pillar  
+* Family values  
+* Base  
+* Support  
+* Risk  
+* Opposes  
+
+**SUMMARY:**  
+Mary Cheney, the gay sister of Wyoming Senate candidate Liz Cheney, criticized her sister's stance on same-sex marriage, calling it "dead wrong." Mary, who is married to her longtime partner, emphasized that "freedom means freedom for everyone" and that all families deserve equal rights. Liz, however, stated she is "not pro-gay marriage" and believes the issue should be decided by the people in each state. Mary dismissed this approach, arguing it should not be a "show of hands." The sisters' disagreement reflects a broader divide within the Republican Party over same-sex marriage, with some fearing political risks while others cling to traditional family values. Liz's stance highlights the challenges for Republicans in states like Wyoming, where opposition to same-sex marriage remains strong. END OF SUMMARY.

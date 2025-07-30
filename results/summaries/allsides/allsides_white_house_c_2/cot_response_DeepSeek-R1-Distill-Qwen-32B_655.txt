@@ -1,0 +1,28 @@
+<think>
+Alright, I need to help the user by summarizing the given news article while preserving the moral framing. First, I should understand what the user is asking for. They want me to act as a news summarizer and a moral expert. The task has two steps: identifying morally framed words and then writing a summary that includes as many of those words as possible.
+
+Starting with STEP 1, I need to go through the article and pick out single words that carry moral connotations. Words like "sanctions," "terrorism," "threat," "provocations," etc., are likely candidates. I should list each of these words, each on a new line with an asterisk.
+
+Next, for the summary, I have to condense the article into 200 words or less. I need to make sure that the moral framing is preserved, so I'll use the identified words where appropriate. The summary should cover the main points: the sanctions imposed by the Trump administration, the reasons given (missile tests, support for rebels in Yemen), the impact of the sanctions, reactions from Iran, and the stance on the nuclear deal.
+
+I should also ensure that the summary flows logically, starting with the announcement of sanctions, the reasons behind them, the specifics of who and what is affected, and then the reactions and implications. It's important to include the moral judgment words to maintain the original framing.
+
+I need to be concise but comprehensive, making sure not to miss any key points. Also, I should avoid any markdown and keep the summary natural and coherent. After drafting, I'll review to ensure it's within the word limit and that all morally framed words are appropriately included.
+
+Finally, I'll structure the response with STEP 1 listing the words and then the SUMMARY section, ending with the specified tokens. Making sure everything is clear and meets the user's requirements.
+</think>
+
+**STEP 1:**  
+* Sanctions  
+* Terrorism  
+* Threat  
+* Provocations  
+* Destabilizing  
+* Empty  
+* Ranting  
+* Leading  
+* Tolerant  
+* Sabre-rattling  
+
+**SUMMARY:**  
+The Trump administration imposed new economic sanctions on Iran, targeting individuals and companies linked to its ballistic missile program and support for rebels in Yemen. Acting Treasury Director John E. Smith stated that Iran’s actions pose a threat to regional stability and U.S. interests. Trump criticized Iran’s behavior, tweeting that they “don’t appreciate how ‘kind’ President Obama was to them.” The sanctions freeze assets and prohibit U.S. transactions with the targeted entities. While the nuclear deal remains intact, the administration focuses on Iran’s missile activity and alleged terrorism support. Iran denied violating UN regulations and dismissed Trump’s criticism. Officials emphasized the sanctions are part of a broader strategy to counter Iran’s destabilizing behavior, with national security adviser Michael Flynn calling Iran the “world’s leading state sponsor of terrorism.” Lawmakers supported the sanctions but urged clarity on the administration’s strategy to avoid escalating tensions. END OF SUMMARY.

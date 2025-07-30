@@ -1,0 +1,17 @@
+Okay, so I need to help the user by summarizing a news article while preserving the moral framing. The user provided the article and specified that I should keep as many morally framed words as possible. 
+
+First, I'll read through the article to understand the main points. It's about the Canadarm2 and the space railway on the International Space Station. The article talks about the installation, the speed, the purpose, and mentions some challenges like an anomaly that was fixed.
+
+Next, I need to identify the morally framed words. The user mentioned words like "unique," "complex," "hostile," "smoothly," "flawlessly," and "bound to occur." I should make sure these words are included in the summary.
+
+I'll start by outlining the key events: the installation of the rail car, the speed, the purpose of the system, the performance of Canadarm2, the anomaly and its resolution, and future plans.
+
+Now, I'll craft the summary, making sure to include the moral terms. I'll mention how Canadarm2 is unique and complex, operating in a hostile environment. I'll note that despite potential issues, it performed flawlessly. I'll also highlight the successful resolution of the anomaly.
+
+I need to keep the summary under 200 words, so I'll be concise but include all necessary points. I'll ensure the summary flows well and maintains the positive and cautious tone from the original article.
+
+Finally, I'll review the summary to make sure all the morally framed words are present and that the summary accurately reflects the article's content and tone.
+</think>
+
+SUMMARY:  
+The first space railway was prepared for its debut run after astronauts from the space shuttle Atlantis completed the setup. The rail car, part of the 13-meter-long S-0 truss, will support solar panels generating power for the International Space Station. Astronauts Steve Smith and Rex Walheim completed a six-hour spacewalk to release restraints on the rail car, officially known as the Mobile Transporter. Its top speed is three centimeters per second, but initial tests may use slower speeds. The rail car is designed to move the Canadarm2 robotic arm, a unique and highly complex robot operating in an extremely hostile environment. Canadarm2 has performed flawlessly, installing the truss segment and assisting astronauts during spacewalks. Engineers detected an anomaly in one of its joints but successfully bypassed the issue. Captain Marc Garneau praised Canadarm2's smooth and flawless operations, emphasizing that problems are part of normal space activities. The system will be expanded with additional truss segments and a handcar for easier astronaut movement. END OF SUMMARY.

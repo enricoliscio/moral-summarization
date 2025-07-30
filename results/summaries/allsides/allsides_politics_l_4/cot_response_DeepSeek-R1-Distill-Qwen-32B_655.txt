@@ -1,0 +1,32 @@
+<think>
+Okay, so I'm trying to figure out how to help the user with their query. They provided a news article and specific instructions on how to process it. Let me break it down.
+
+First, the user wants me to act as a news summarizer assistant and a moral expert. My task is to summarize the given article while preserving the moral framing. They've outlined two steps: identifying morally framed words and then writing a summary that includes as many of those words as possible.
+
+Looking at the article, it's about an attempt to create fake sexual misconduct allegations against Robert Mueller, involving Jacob Wohl and Jack Burkman. The article uses terms like "phony," "scam," "trolling," "deceit," etc., which are clearly moral judgments. So, I need to extract all the single words that carry a moral connotation.
+
+Next, I need to summarize the article, making sure to include these moral terms. The summary should be concise, under 200 words, and end with the specified tokens. I should ensure that the moral framing is preserved, so words like "scam," "deceit," "trolling," etc., should be included.
+
+I also notice that the user provided an example response. I should follow that structure, starting with STEP 1 listing each moral word, then the SUMMARY section. I need to make sure I don't miss any of the key terms and that the summary accurately reflects the article's content while maintaining the moral perspective.
+
+I should also be careful with the word count, keeping it under 200 words. I'll need to condense the information without losing the essential details about Wohl, Burkman, the FBI involvement, and the impact on media and Mueller's office.
+
+Finally, I'll review the summary to ensure it flows well and that all the key moral points are highlighted. This way, the user gets a clear, concise summary that preserves the article's moral framing as required.
+</think>
+
+**STEP 1:**  
+* Phony  
+* Scam  
+* Deceit  
+* Trolling  
+* Smear  
+* Sham  
+* Trickery  
+* Manipulation  
+* Exploitation  
+* Deception  
+* Fraud  
+* Misleading  
+
+**SUMMARY:**  
+An alleged scheme to create phony sexual misconduct allegations against Robert Mueller, the special counsel, unraveled, potentially implicating conservative activists Jacob Wohl and Jack Burkman. Wohl, a 20-year-old conservative known for promoting Trump, and Burkman, a Republican lobbyist with a history of false claims, were reportedly involved in a scam to deceive journalists and the public. The plot, which appeared to be a smear attempt, involved a fake private intelligence company, Surefire Intelligence, and a redacted document making a rape allegation against Mueller. The FBI was informed, and the scheme, described as a sham, caused embarrassment and diverted media attention away from other issues, including the midterm elections. Burkman claimed to have evidence of Mueller's victims, but his credibility is questionable. The incident highlights the potential for deceit and manipulation in political discourse. END OF SUMMARY.

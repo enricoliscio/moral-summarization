@@ -1,0 +1,23 @@
+Okay, so I need to help the user by summarizing a news article while preserving the moral framing. Let me start by understanding the task. The user provided an article about Mary Cheney criticizing her sister Liz over same-sex marriage. The first step is to identify all the morally framed words. I'll go through the text and pick out words that carry moral connotations. Words like "criticized," "opposition," "freedom," "rights," "pro-life," "pro-gay marriage," "support," "clarify," "opposition," "ought," "free." 
+
+Next, I need to write a concise summary, keeping these moral terms. I should make sure the summary is under 200 words and includes the key points: Mary's criticism, her stance on freedom, Liz's opposition, the political context, and Dick Cheney's support. I'll structure it to highlight the family dynamics and the moral arguments each side presents. I'll also mention the political implications, like the primary challenge and the shift from the former policy. 
+
+I need to ensure the summary flows well and includes all necessary details without being too verbose. I'll start by introducing Mary's criticism, then Liz's response, followed by Dick's support, and end with the political context. That should cover all the important aspects while maintaining the moral framing.
+</think>
+
+**STEP 1:**  
+* Criticized  
+* Opposed  
+* Freedom  
+* Rights  
+* Pro-life  
+* Pro-gay marriage  
+* Support  
+* Clarify  
+* Opposition  
+* Ought  
+* Free  
+
+**SUMMARY:**  
+Mary Cheney, the openly gay sister of Wyoming U.S. Senate candidate Liz Cheney, criticized her sister's opposition to same-sex marriage on Facebook. Mary, who is married to her partner Heather Poe, argued that "freedom means freedom for everyone" and that all families deserve equal rights. Liz Cheney, running in the Republican primary against Sen. Mike Enzi, reiterated her stance against same-sex marriage, stating it should be decided by states and their people. This puts Liz at odds with her father, former Vice President Dick Cheney, who has supported gay marriage and emphasized that people "ought to be free" to choose their unions. The family's differing views highlight tensions over moral and political issues, including abortion and LGBTQ+ rights, as Liz faces scrutiny over her positions.  
+**END OF SUMMARY.**

@@ -1,0 +1,32 @@
+Okay, so I need to help the user by summarizing a news article while preserving the moral framing. Let me start by reading the article carefully. The article is about the Kyoto Protocol and its potential costs to Canada. The author is arguing against implementing Kyoto, stating it's a rip-off because of the high economic costs and minimal global impact.
+
+First, I need to identify the morally framed words. The user mentioned that in the previous example, words like "rip-off," "cost," "sacrifice," "frightening," "benefit," "suffer," "harm," "burden," "abate," and "help" were highlighted. I should go through the article again to spot any similar terms.
+
+Looking through the text, I see "rip-off" right in the title, which is a strong negative moral term. The article mentions "cost," "sacrifice," "frightening," "benefit," "harm," "burden," "abate," and "help." These words carry moral connotations, indicating that the author is framing the issue in terms of right and wrong, costs vs. benefits, and helping others.
+
+Next, I need to summarize the article, making sure to include these morally framed words. The summary should be concise, no more than 200 words, and preserve the author's moral perspective. The main points are the high cost to Canada, the Prime Minister's dismissal of the figures, the minimal global impact, and the suggestion to focus on helping vulnerable nations instead.
+
+I should structure the summary to highlight the economic losses, the Prime Minister's stance, the ineffectiveness of the treaty, and the alternative approach. Using the identified moral words will help maintain the original framing.
+
+Let me draft the summary: Start with the study's findings, mention the job losses and economic cost, the Prime Minister's dismissal. Then explain that the $40 billion figure is from government reports, so it's not just scaremongering. Highlight that the cost isn't worth it because the benefits are minimal—Canada's contribution is tiny globally, and the impact on the environment is negligible. Suggest that instead of capping emissions, which is costly and ineffective, we should focus on helping developing nations adapt. This approach would be more effective and less harmful economically.
+
+I should make sure the summary flows well and includes all the key points with the moral terms. Let me check the word count to ensure it's under 200 words. Also, I need to present it clearly after the "SUMMARY:" token and end with "END OF SUMMARY."
+
+I think that's a solid approach. Now, I'll put it all together, making sure to include the morally framed words and maintain the original argument's structure.
+</think>
+
+**STEP 1:**  
+* Rip-off  
+* Cost  
+* Sacrifice  
+* Frightening  
+* Benefit  
+* Suffer  
+* Harm  
+* Burden  
+* Abate  
+* Help  
+
+**SUMMARY:**  
+A study by the Canadian Manufacturers and Exporters claims implementing the Kyoto Protocol would cost Canada 450,000 jobs and $40 billion, but Prime Minister Jean Chrétien dismisses these figures, calling them scaremongering. However, the $40 billion estimate is drawn from government reports, suggesting a significant economic sacrifice. The article argues that the cost is not worth paying, as global warming poses little threat to Canada and the benefits of Kyoto are minimal. The treaty would reduce global emissions by just 1/200th, and even with full implementation, emissions would still rise. The article criticizes the treaty as a costly burden, especially for developing nations not covered by Kyoto. Instead, it suggests focusing on abating the harm caused by global warming in vulnerable regions, such as Africa and Asia, through Western assistance, which would be more effective and less economically damaging.  
+**END OF SUMMARY.**

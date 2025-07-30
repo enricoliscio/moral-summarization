@@ -1,0 +1,14 @@
+Alright, I need to help the user by summarizing the given news article while preserving the moral framing. Let me first read through the article to understand the main points and the moral angles involved.
+
+The article talks about Rep. Ocasio-Cortez supporting Rep. Tlaib after Tlaib made some expletive-laced comments in favor of impeaching Trump. Ocasio-Cortez criticized the GOP for a double standard, referencing Trump's past remarks about women. Pelosi downplayed Tlaib's comments, comparing them to Trump's own language. Trump called Tlaib's comments disgraceful, and Tlaib stood by her statements, emphasizing the importance of speaking truth to power.
+
+I need to make sure the summary captures the moral arguments on both sides. Ocasio-Cortez is highlighting the double standard and hypocrisy, while the GOP is reacting negatively. Pelosi's stance is about not censoring and pointing out that Trump's language started the issue. Trump's reaction is about decorum and respect. Tlaib's position is about accountability and truth.
+
+I should structure the summary to include these elements: Ocasio-Cortez's support, her criticism of the GOP's double standard, reference to Trump's past remarks, Pelosi's response, Trump's criticism, and Tlaib's defense of her stance.
+
+I need to keep it concise, under 200 words, and make sure it flows well. Let me draft it step by step, ensuring each point is covered without getting too detailed. I'll check the word count to stay within the limit.
+
+Finally, I'll present the summary after the "SUMMARY:" token and end with "END OF SUMMARY." as instructed.
+</think>
+
+SUMMARY: Rep. Alexandria Ocasio-Cortez defended Rep. Rashida Tlaib after Tlaib used expletives while advocating for Trump's impeachment, accusing Republicans of hypocrisy. Ocasio-Cortez highlighted the contrast between Trump's lewd remarks being dismissed as "locker room talk" and the outrage over Tlaib's language. Pelosi downplayed Tlaib's comments, noting Trump's own inflammatory rhetoric, while Trump called Tlaib's remarks "disgraceful." Tlaib stood by her comments, emphasizing the need to address the constitutional crisis. The incident reflects broader debates over decorum, accountability, and the limits of political speech. END OF SUMMARY.

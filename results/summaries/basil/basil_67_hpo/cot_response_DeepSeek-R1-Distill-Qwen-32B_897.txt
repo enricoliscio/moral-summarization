@@ -1,0 +1,26 @@
+Alright, I'm looking at this query where the user wants me to act as a news summarizer and a moral expert. They provided a news article and specific instructions on how to process it. First, I need to identify the morally framed words. I'll go through the article and pick out words that carry a moral judgment, like "harshly criticized," "rejected," "opportunity," "risks," "traitor," "opportunistic," "false prophet," "cheating," "desperate," "respect." 
+
+Next, I have to summarize the article while preserving these moral terms. The summary should be concise, under 200 words, and include those identified words. I'll make sure to highlight Fox's criticism, Trump's invitation, the political risks involved, and Fox's warning about the perception of Peña Nieto as a traitor. I'll also mention the context of Trump's controversial statements and the potential fallout from the meeting. 
+
+I need to ensure that the summary flows well and accurately reflects the moral framing without adding any new information. I'll structure it to first introduce Fox's criticism, then Trump's invitation, followed by the political implications, and conclude with Fox's warnings about the consequences for Peña Nieto. Keeping it within the word limit is crucial, so I'll be concise but thorough in covering the key points.
+</think>
+
+**STEP 1:**  
+* harshly  
+* criticized  
+* rejected  
+* message  
+* opportunity  
+* risks  
+* traitor  
+* political  
+* sink  
+* false prophet  
+* cheating  
+* desperate  
+* respect  
+
+**SUMMARY:**  
+Former Mexican President Vicente Fox strongly criticized current President Enrique Peña Nieto for inviting Republican presidential candidate Donald Trump to meet in Mexico, just before Trump's immigration speech in Arizona. Fox stated that Trump is "not welcome" in Mexico, as 130 million Mexicans reject Trump's message. Trump, who has spent over a year attacking Mexico and its leaders, accepted Peña Nieto's invitation, while Hillary Clinton declined. Fox warned that Peña Nieto risks being seen as a "traitor" if he does not stand up to Trump, accusing Trump of using Mexico to boost his sinking poll numbers. Fox also criticized Trump's opportunistic move, calling him a "false prophet" and a "desperate" liar. Earlier, Fox apologized for using profanity when railing against Trump but still invited him to Mexico to learn about the "real Mexico." Trump responded by mocking Fox's invitation, leading to a heated exchange. Fox emphasized that Mexico is not Trump's "plaything" and demanded respect.  
+
+**END OF SUMMARY.**

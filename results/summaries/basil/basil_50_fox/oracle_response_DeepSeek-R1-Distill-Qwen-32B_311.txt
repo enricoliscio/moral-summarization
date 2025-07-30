@@ -1,0 +1,14 @@
+Okay, so I need to help the user by summarizing this news article while preserving the moral framing. First, I'll read through the article to understand the main points. Susan Rice is warning that Netanyahu's speech could damage U.S.-Israel relations. She uses words like "destructive" and mentions it's a diplomatic no-no because Boehner didn't confer with the White House. Netanyahu was invited to talk about Iran's nuclear threat, but the timing is causing strain between Obama and Netanyahu. 
+
+The user wants the summary to include as many morally framed words as possible from the article. The list includes words like conferring, threat, bipartisan, influence, partisan, threaten, derailing, build, clamp, ease, become, affront, unacceptable, listening, receiving, invitation, stood. I need to make sure these words are included where appropriate.
+
+I should start by outlining the key events: Netanyahu's invitation by Boehner without consulting the White House, Rice's warning about the impact on relations, the context of nuclear negotiations with Iran, and the reactions from both parties. 
+
+I'll need to mention that the visit is seen as a threat to the nuclear deal, which is a major Obama policy. Netanyahu's refusal to meet with Democrats is another point, showing partisanship. Also, Biden's absence and the Democrats skipping the event as an affront, while Republicans like Graham criticize that as unacceptable.
+
+I should structure the summary to flow logically, starting with the invitation, Rice's warning, the context of Iran negotiations, Netanyahu's refusal, and the political fallout. I'll use the morally charged words to convey the tension and partisanship.
+
+Now, I'll draft the summary, making sure to include the key points and the specified words. I'll keep it concise, under 200 words, and end with the required tokens.
+</think>
+
+SUMMARY: National Security Adviser Susan Rice criticized Israeli Prime Minister Benjamin Netanyahu's upcoming Capitol Hill speech, calling it a "destructive" force in U.S.-Israel relations. Netanyahu, invited by House Speaker John Boehner without conferring with the White House, aims to address the nuclear threat from Iran. Rice emphasized the need to maintain bipartisan support for the U.S.-Israel relationship, warning that the visit could influence the strained dynamics between President Obama and Netanyahu. Netanyahu's refusal to meet privately with Senate Democrats was seen as an attempt to avoid perceptions of partisanship, though his focus on derailing a nuclear deal with Iran has raised tensions. U.S. officials view the visit as an affront to Obama's efforts to negotiate with Iran, while Republicans like Sen. Lindsey Graham criticized Biden's absence from the speech as unacceptable. Netanyahu's invitation has become a political lightning rod, with Democrats expressing disappointment over the potential to threaten U.S.-Israel ties. END OF SUMMARY.

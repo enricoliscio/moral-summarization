@@ -1,0 +1,13 @@
+<think>
+Okay, so I need to help the user by summarizing a news article while preserving the moral framing. Let me start by reading the article carefully. It's about Rev. Franklin Graham, an evangelist, whose event in Liverpool was canceled because his views on marriage are incompatible with the venue's values. The venue, ACC Liverpool, decided to scrub his event after protests, especially from the Liverpool Labour LGBT Network, who called him a "homophobic hate preacher." 
+
+The user wants the summary to include as many of the morally framed words as possible. The words listed are: homophobic, hate, sin, guilty, need, penalty, death, separation, inclusive, speak, love, welcome. I should make sure these words are included where appropriate.
+
+I'll structure the summary by first stating that Graham's event was canceled. Then, mention the reason: his biblical view of marriage as one man and one woman, which the venue found incompatible. Next, note the protests and the specific group's criticism. Then, include Graham's response—he wrote an open letter saying he's not there to condemn but to present the Gospel, admitting homosexuality is a sin but emphasizing that everyone is a sinner. He also mentions the penalty of sin as spiritual death and separation from God. He defends free speech and religious liberty, stating he's inclusive and coming out of love, welcoming the LGBTQ community to his events.
+
+I need to keep it concise, under 200 words, and make sure the moral terms are preserved. Let me draft that.
+</think>
+
+SUMMARY:  
+Rev. Franklin Graham, an evangelist and son of Billy Graham, had his scheduled event at ACC Liverpool canceled due to his biblical interpretation of marriage as a union between one man and one woman, which was deemed "incompatible with our values." The decision followed protests, including criticism from the Liverpool Labour LGBT Network, who called Graham a "homophobic hate preacher." Graham responded with an open letter to the LGBTQ community, stating he was not there to condemn them but to present the Gospel. He acknowledged that he sees homosexuality as a sin but emphasized that all are sinners in need of forgiveness. Graham also defended free speech and religious liberty, claiming the Gospel is inclusive and that he comes out of love, not hate. He welcomed LGBTQ individuals to attend his events in the U.K., despite his belief that the penalty of sin is spiritual death and separation from God.  
+END OF SUMMARY.

@@ -1,0 +1,28 @@
+Alright, so I need to help the user by summarizing a news article while preserving the moral framing. Let me break down the query to understand what's needed. 
+
+First, the user provided a news article about Canadarm2 and the space railway. They want me to act as a news summarizer and a moral expert. The task has two parts: identifying morally framed words and then writing a summary that includes those words.
+
+Starting with STEP 1, I need to find all single words in the article that carry moral connotations. I'll read through the text carefully. Words like "unique," "complex," "hostile," "smoothly," "flawlessly," and "powerful" stand out. These words convey qualities that are morally positive or significant, so I'll list them.
+
+Next, for the summary, I need to condense the article into 200 words, keeping the moral framing intact. I'll focus on the key points: the installation of the railway, the role of Canadarm2, its performance, and future plans. I'll make sure to include the morally framed words to maintain the author's tone.
+
+I should structure the summary to highlight the achievements and the smooth operations, emphasizing the complexity and success of the project. This will show the progress and the importance of the space station's development.
+
+I need to ensure the summary is concise and flows well, covering all essential information without getting too technical. I'll also check that the morally framed words are naturally integrated to reflect the original article's positive outlook.
+
+Finally, I'll make sure the summary starts with "SUMMARY:" and ends with "END OF SUMMARY." to meet the user's formatting requirements. I'll review the word count to stay within the limit and adjust if necessary.
+
+Overall, the key is to capture the essence of the article, focusing on the successful installation and operation of Canadarm2, while highlighting the positive moral aspects mentioned.
+</think>
+
+**STEP 1:**  
+* unique  
+* complex  
+* hostile  
+* smoothly  
+* flawlessly  
+* powerful  
+
+**SUMMARY:**  
+The first space railway was prepared for its debut run after astronauts from the space shuttle Atlantis completed its installation. The rail car, part of the 13-meter S-0 truss, will support solar panels generating power for the International Space Station. Astronauts Steve Smith and Rex Walheim performed a six-hour spacewalk to release restraints on the rail car, officially known as the Mobile Transporter. Canadarm2, a unique and highly complex robot, flawlessly installed the truss segment and moved astronauts during the spacewalk. Despite a minor anomaly in one of its joints, Canadian engineers resolved the issue, ensuring smooth operations. The 18-meter Canadarm2, capable of lifting entire station modules, was rewired to draw power through the new truss. Future missions will add more truss segments and a handcar for easier astronaut movement. The project highlights the complexity and precision required for space activities, with Canadarm2 proving its pivotal role in the station's development.  
+**END OF SUMMARY.**

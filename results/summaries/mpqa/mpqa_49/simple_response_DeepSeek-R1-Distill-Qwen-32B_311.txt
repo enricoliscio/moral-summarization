@@ -1,0 +1,24 @@
+Okay, so I need to summarize this news article while keeping the moral framing the author provided. Let me read the article first.
+
+The article is about President Cardoso reacting to the US decision on greenhouse gases. He says it's positive, even though the US didn't ratify the Kyoto Protocol. He hopes their domestic measures will have the same effect as the protocol.
+
+I should make sure the summary captures that the US's actions are seen as positive, even without ratifying Kyoto. Also, highlight Cardoso's hope that their measures will be effective. I need to keep it under 200 words and use the "SUMMARY:" and "END OF SUMMARY." tokens.
+
+Let me draft it:
+
+President Cardoso commends the US for taking measures to control greenhouse gases, calling it a positive step despite not ratifying the Kyoto Protocol. He emphasizes the US's importance in the convention and hopes their domestic actions will match Kyoto's goals.
+
+Wait, that's too short. Maybe add more details.
+
+President Cardoso stated that the US decision to implement measures against greenhouse gases is positive, even though they haven't ratified the Kyoto Protocol. He believes the US's actions could be as effective as adhering to the protocol.
+
+Hmm, maybe include that the US is an important party. Also, the location and source, but maybe not necessary for the summary.
+
+Final version:
+
+President Cardoso expressed approval for the U.S. decision to implement measures to control greenhouse gases, calling it a positive step despite the U.S. not ratifying the Kyoto Protocol. He emphasized the importance of the U.S. in the global convention on climate change and expressed hope that their domestic actions would have the same impact as adhering to the Kyoto Protocol.
+
+That's concise and within the word limit. I think it preserves the moral framing by showing approval and the significance of the US's actions.
+</think>
+
+SUMMARY: President Cardoso expressed approval for the U.S. decision to implement measures to control greenhouse gases, calling it a positive step despite the U.S. not ratifying the Kyoto Protocol. He emphasized the importance of the U.S. in the global convention on climate change and expressed hope that their domestic actions would have the same impact as adhering to the Kyoto Protocol. END OF SUMMARY.

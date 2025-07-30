@@ -1,0 +1,36 @@
+Okay, so the user has given me a query where I need to act as a news summarizer and a moral expert. They provided a news article about Marco Rubio's foreign policy speech and outlined specific steps to follow. First, I need to identify all the morally framed single words in the article. Then, I have to write a summary that preserves these moral framings.
+
+Starting with STEP 1, I need to go through the article and pick out words that carry moral connotations. Words like "assertive," "project," "benevolent," "strength," "weakness," "danger," "peace," "hard," "engaged," "step back," "nation building," "cede," "better liked," "simple truth," "effective," "negligent," "timeless," "trapped," "past," "weapons of mass destruction," "understood," "misunderstood." These words seem to carry moral weight because they imply judgments about actions, policies, and outcomes.
+
+Now, for the summary, I need to condense the article while keeping as many of these moral terms as possible. The summary should be concise, around 200 words. I'll start by mentioning Rubio's speech and his invocation of Kennedy, highlighting his stance on military strength and American leadership. I'll note his criticism of Obama and Hillary Clinton, his opposition to certain policies, and his stance on Iraq. I'll make sure to include terms like "strength," "peace," "weakness," "effective," "negligent," etc., to maintain the moral framing.
+
+I need to ensure the summary flows well and covers all key points without getting too bogged down in details. Also, I should end with the specified tokens as per the user's instructions. I'll check the word count to make sure it's within the limit and that all important aspects of Rubio's doctrine are included.
+</think>
+
+**STEP 1:**  
+* assertive  
+* project  
+* benevolent  
+* strength  
+* weakness  
+* danger  
+* peace  
+* hard  
+* engaged  
+* step back  
+* nation building  
+* cede  
+* better liked  
+* simple truth  
+* effective  
+* negligent  
+* timeless  
+* trapped  
+* past  
+* weapons of mass destruction  
+* understood  
+* misunderstood  
+
+**SUMMARY:**  
+U.S. Sen. Marco Rubio (R-Fla.) outlined his foreign policy vision, invoking President John F. Kennedy to emphasize the importance of American strength and leadership on the global stage. Rubio argued that a stronger U.S. military and assertive foreign policy would prevent conflict and promote peace, contrasting this with President Obama's approach, which he criticized as weak and disengaged. Rubio's "Rubio Doctrine" is guided by three principles: American strength, protecting the economy, and moral clarity. He opposes Obama's policies, including normalization with Cuba, nuclear negotiations with Iran, and support for Ukraine. Rubio also criticized Hillary Clinton's tenure as secretary of state, calling it "ineffective" and "negligent." While he acknowledged Kennedy's legacy as timeless, Rubio distanced himself from the Iraq invasion, stating he would not have supported it if Hussein lacked weapons of mass destruction. His comments reflect a moral clarity and assertive stance on U.S. global leadership.  
+**END OF SUMMARY.**

@@ -1,0 +1,12 @@
+Alright, I need to help the user by summarizing the given news article while preserving the moral framing. Let me start by reading the article carefully.
+
+The article discusses why the U.S. president wasn't indicted despite his lawyer pleading guilty, citing the Justice Department's policy. It mentions the moral implications, using words like "indicted," "innocent," and "corrupt." The author compares the president to a corrupt tree bearing bad fruit.
+
+I should highlight the key points: the policy exempting sitting presidents, the implication that Trump is an unindicted co-conspirator, his associates' convictions, and the moral failure of his defenders. I need to include as many of the listed morally framed words as possible without making the summary too long.
+
+I'll structure the summary to first state the main reason for no indictment, then discuss the implications, mention the associates, and conclude with the moral stance of his supporters. I'll make sure to keep it under 200 words and end with the required tokens.
+
+Let me draft the summary, ensuring it's concise and includes the necessary moral language. I'll check the word count and adjust as needed to stay within the limit.
+</think>
+
+SUMMARY: The article discusses why the U.S. president was not indicted, emphasizing that it’s not due to innocence but because the Justice Department exempts sitting presidents from indictment. The president remains an unindicted co-conspirator, governed by associates implicated in crimes, such as Michael Cohen’s campaign finance violations. Trump’s defenders dismiss these crimes, showing cult-like loyalty, while he surrounds himself with individuals of questionable character, five of whom have been convicted or pleaded guilty. Trump’s discomfort with those of firm probity, like James Comey and Robert Mueller, contrasts with his affinity for those with felonious ties. The article highlights Trump’s lies, such as denying knowledge of payments to Stormy Daniels, and questions his awareness of Manafort’s financial ties to pro-Russian interests. The author warns that the worst may yet come, likening Trump to a corrupt tree bearing foul fruit. END OF SUMMARY.

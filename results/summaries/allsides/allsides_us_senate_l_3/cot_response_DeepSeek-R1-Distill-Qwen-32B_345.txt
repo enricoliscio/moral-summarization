@@ -1,0 +1,33 @@
+Okay, so the user has given me a query where I need to act as a news summarizer and moral expert. They provided a news article about the First Step Act and want me to first identify all the morally framed single words and then write a summary preserving those moral framings.
+
+First, I need to understand what morally framed words are. These are words that carry a moral connotation, like "reform," "rehabilitation," "hope," etc. I'll go through the article and pick out each such word.
+
+Next, I have to write a concise summary of the article, making sure to include as many of these morally charged words as possible. The summary should be under 200 words and end with the specified tokens.
+
+I should start by reading the article thoroughly to grasp its main points. It's about the First Step Act passing in the Senate, supported by both parties, aiming to reduce sentences for drug crimes, improve rehabilitation, and save costs. It also mentions support from various public figures and the expected positive impact on communities.
+
+Now, identifying the morally framed words. Words like "landmark," "reform," "discretion," "rehabilitation," "hope," "second chance," "unjust," "catastrophic," "healing," "crisis," "common sense," and "finish line" stand out as they carry moral weight.
+
+For the summary, I'll need to include these words while keeping it concise. I'll mention the bipartisan support, the goals of the act, its impact on sentences, rehabilitation, and the positive outcomes like safer communities and cost savings. I'll also touch on the criticisms and the overall significance of the bill.
+
+I need to ensure that the summary flows well and includes all key points without being too verbose. I'll structure it to highlight the bipartisan achievement, the specific reforms, the support from various groups, and the expected benefits.
+
+Finally, I'll make sure to end with the required tokens and keep the summary within the word limit. I should double-check that all morally framed words are included and that the summary accurately reflects the article's content and tone.
+</think>
+
+**STEP 1:**  
+* Landmark  
+* Reform  
+* Discretion  
+* Rehabilitation  
+* Hope  
+* Second chance  
+* Unjust  
+* Catastrophic  
+* Healing  
+* Crisis  
+* Common sense  
+* Finish line  
+
+**SUMMARY:**  
+The First Step Act, a landmark bipartisan bill, passed the Senate 87-12, aiming to reform the criminal justice system by reducing drug crime sentences and improving prisoner rehabilitation. The bill, supported by progressives and law-and-order conservatives, would give judges more discretion in sentencing non-violent offenders, end inhumane practices like shackling pregnant women, and provide pathways for elderly and terminally ill inmates to return home. It also retroactively extends the 2010 Fair Sentencing Act, potentially affecting thousands of drug offenders. Advocates, including public figures like Kim Kardashian West and Mark Cuban, praised the bill as a step toward healing communities disproportionately impacted by mass incarceration. While some critics argue the bill is imperfect, it represents a significant bipartisan victory in addressing the nation's mass incarceration crisis. The act, which now heads to the House for final approval, aims to save billions, keep communities safer, and provide hope and second chances to those who earn it. END OF SUMMARY.

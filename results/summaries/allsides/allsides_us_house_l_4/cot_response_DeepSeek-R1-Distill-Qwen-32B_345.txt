@@ -1,0 +1,44 @@
+Okay, so the user has provided a query where they want me to act as a news summarizer and a moral expert. They've given a detailed news article about Michael Cohen's testimony and have specific instructions on how to process it. 
+
+First, I need to understand the two main tasks here. The first step is to identify all the single words that are morally framed in the article. That means looking for words that carry a moral judgment or implication, like "explosive," "loyal," "dirty," etc. I should list each of these words, each on a new line, prefixed with a star.
+
+Next, I have to write a summary of the article, making sure to include as many of these morally framed words as possible. The summary should be concise, no longer than 200 words, and must start with "SUMMARY:" and end with "END OF SUMMARY."
+
+I should also consider the user's deeper needs. They might be looking for a clear, morally charged summary that highlights the key ethical issues in Cohen's testimony. They probably want this to be used for analysis or reporting where the moral implications are crucial.
+
+So, I'll start by reading through the article carefully to pick out the morally charged words. Then, I'll structure the summary to include these words, ensuring the summary is both accurate and reflects the moral framing intended by the author.
+
+I need to make sure that the summary is balanced but still captures the essence of Cohen's claims and their moral implications. It's important to include key points like Cohen's explosive claims, Trump's awareness of WikiLeaks, the hush money, and the ethical issues surrounding the testimony.
+
+Finally, I'll review both the list of words and the summary to ensure they meet the user's requirements and accurately reflect the moral framing of the original article.
+</think>
+
+**STEP 1:**  
+* explosive  
+* loyal  
+* dirty  
+* racist  
+* hush money  
+* fixer  
+* guilty  
+* crimes  
+* fraud  
+* violations  
+* lied  
+* secrets  
+* spill  
+* oath  
+* admitted  
+* challenged  
+* corroborate  
+* suspicions  
+* collusion  
+* hacked  
+* damaged  
+* indicted  
+* denied  
+* misleading  
+* shithole  
+
+**SUMMARY:**  
+Michael Cohen, former attorney to President Trump, is set to testify before the House Oversight Committee. His opening statement includes explosive claims, such as overhearing Trump and Roger Stone discuss WikiLeaks' plans to release hacked emails damaging Hillary Clinton's campaign. Cohen, who has pleaded guilty to financial crimes and lying to Congress, now seeks to spill all he knows, despite his history of admitted lies. He claims Trump was aware of WikiLeaks' plans and discusses other morally charged topics, including Trump's encouragement of misleading statements about the Trump Tower in Moscow, potential collusion, and racist remarks. Cohen also plans to present evidence of a hush money payment to Stormy Daniels, signed by Trump while in office. His testimony promises to be a morally charged and explosive event, with many of his claims reliant on his word alone. END OF SUMMARY.

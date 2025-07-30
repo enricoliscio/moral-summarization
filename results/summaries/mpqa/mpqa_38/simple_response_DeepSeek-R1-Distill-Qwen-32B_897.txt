@@ -1,0 +1,14 @@
+Okay, so I'm trying to figure out how to approach this query. The user has given me a news article and wants a summary that preserves the moral framing the author used. They also mentioned that I should act as a news summarizer and a moral expert. 
+
+First, I need to understand the content of the article. It's comparing the US government's actions under President Bush to Iran's actions regarding Salman Rushdie. The article criticizes the US for ordering assassinations without proof, contrasting it with the international reaction to Iran's fatwa. The author is pointing out the hypocrisy of countries like the US and Europe in their stance on human rights.
+
+I should make sure the summary captures this moral contrast. The key points are: Bush ordering CIA assassinations, the hypocrisy of the US leading the fight against terrorism while doing this, the fatwa against Rushdie and the international response, and the argument that the US is violating human rights on a larger scale.
+
+I need to keep it under 200 words and ensure the moral framing is clear. The summary should highlight the hypocrisy and the call for Islamic countries to withdraw ambassadors, as well as the broader implications for human rights.
+
+I'll start by stating Bush's order, then compare it to Iran's fatwa and the international reaction. Next, I'll mention the hypocrisy and the call for ambassadors to be withdrawn. Finally, I'll touch on the threat to human rights and the need for justice.
+
+I should avoid any markdown and keep the language clear and concise. Let me piece this together step by step, ensuring each moral point is included without exceeding the word limit.
+</think>
+
+SUMMARY: US President Bush has ordered the CIA to assassinate America's opponents globally, a move criticized as hypocritical given the US's claim to lead the fight against terrorism. The article draws a moral comparison to Iran's fatwa against Salman Rushdie, which faced international condemnation for violating human rights. The author argues that while Iran's action was condemned as terrorism, the US's assassination directive targets millions without proof or justification, merely for opposing the US. The author calls for Islamic countries to withdraw ambassadors from the US, echoing the move European countries took against Iran. The US is accused of violating human rights on a massive scale, contrasting with its self-proclaimed role as a defender of justice. The article condemns the US for resorting to pre-historic justice and urges the world to uphold human rights, rejecting the notion that violence can justify inhuman behavior. END OF SUMMARY.

@@ -1,0 +1,20 @@
+Okay, so the user wants me to summarize a news article about astronauts repairing the space station. They mentioned that I should preserve the moral framing the author gave. Hmm, I need to figure out what the moral aspects are here. The article talks about astronauts performing a repair, which shows teamwork and dedication. Maybe the moral angle is about collaboration and commitment to space exploration.
+
+I should start by identifying the key points: two astronauts did a spacewalk, repaired the solar wings by adding thermal covers, and this helps with power issues. I need to make sure the summary is concise, under 200 words. Also, the user specified to include a "SUMMARY:" token at the beginning and "END OF SUMMARY." at the end.
+
+I should structure it to highlight their teamwork and the positive outcome. Maybe mention how their efforts contribute to the success of the mission. I need to keep it clear and straightforward, avoiding any technical jargon that might not be necessary.
+
+Wait, the original text mentions the thermal covers shielding against temperature extremes and eliminating power issues. I should include that to show the effectiveness of their repair. Also, noting that they used the robot arm for the ride adds a bit of detail about their method.
+
+I think I have the main points: astronauts performed a spacewalk, installed covers on motors, which helps with power and temperature issues, and they used the robot arm. I need to make sure it flows well and stays within the word limit.
+
+Let me draft it: Two astronauts conducted a spacewalk to repair the International Space Station. They installed thermal covers on motors to protect them from extreme temperatures and fix power issues. The astronauts used the robot arm for their ride. This shows teamwork and dedication to the mission.
+
+Wait, that's a bit too short. I need to add a bit more detail without going over. Maybe mention the shuttle they used, Endeavour, and the purpose of the motors, which is pointing the solar wings towards the sun.
+
+Putting it all together, I think the summary should include the astronauts' names, their action, the purpose of the repair, the method they used, and the positive outcome. That should cover all the necessary points while highlighting their teamwork and commitment.
+
+Alright, I think I have a solid summary that meets all the user's requirements and preserves the moral framing by emphasizing their collaborative effort and dedication.
+</think>
+
+SUMMARY: Two astronauts from the space shuttle Endeavour conducted a spacewalk to repair the International Space Station. Linda Godwin and Daniel Tani installed thermal covers on motors that control the station's solar wings, aiming to protect them from extreme temperatures and prevent power issues. The motors are crucial for keeping the solar panels oriented toward the sun to generate electricity. The astronauts used the shuttle's robot arm to position themselves for the repair. This mission highlights the teamwork and dedication required for maintaining the functionality of the space station. END OF SUMMARY.

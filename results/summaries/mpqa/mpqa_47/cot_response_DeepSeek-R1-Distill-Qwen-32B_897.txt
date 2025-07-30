@@ -1,0 +1,31 @@
+Alright, I need to help the user with their query. They provided a news article and specific instructions. Let me break it down.
+
+First, the user wants me to act as a news summarizer and moral expert. The task has two parts: identifying morally framed words and summarizing the article while preserving those words.
+
+Starting with STEP 1, I need to find all single words that carry moral framing. The article mentions words like "criticizes," "odious," "surprised," "criticism," "poor," "violations," "extrajudicial killings," "abuse," "irritant," "failure," and "moratorium." Each of these has a moral connotation, so I'll list them as instructed.
+
+Next, for the summary, I need to condense the article into under 200 words, keeping the moral terms. The main points are the Ministry's criticism of the U.S. report, the focus on Chechnya, the human rights violations, the U.S. partial support of Russia's stance against terrorism, and the suggestion that the report is influenced by opposition to the U.S.-Russia partnership. I should also include the Ministry's call for the U.S. to address its own issues.
+
+I'll structure the summary to flow logically, starting with the Ministry's reaction, then the content of the report, U.S. stance, and ending with the Ministry's suggestions. I'll make sure to include all the identified moral words where appropriate without making the summary too verbose.
+
+I should also check the word count to ensure it's under 200 words. Let me draft it and count the words to confirm.
+
+Finally, I'll present the summary after the "SUMMARY:" token and end with "END OF SUMMARY." as specified.
+</think>
+
+**STEP 1:**  
+* Criticizes  
+* Odious  
+* Surprised  
+* Criticism  
+* Poor  
+* Violations  
+* Extrajudicial killings  
+* Abuse  
+* Irritant  
+* Failure  
+* Moratorium  
+
+**SUMMARY:**  
+The Russian Foreign Ministry strongly criticized the U.S. State Department's annual human rights report, calling it "odious" and "surprised" by its outdated and biased portrayal of Russia's human rights record, particularly regarding Chechnya. The report accused Russian security forces of "extrajudicial killings" and "serious violations" in Chechnya, while the Ministry argued that the conflict should be viewed as a counterterrorism effort. The U.S. had partially endorsed this stance but toned down criticism after Russia joined the anti-terror coalition. The Ministry accused "certain circles" in the U.S. of using the Chechnya issue to undermine the U.S.-Russia partnership against terrorism. It also urged the U.S. to address its own human rights shortcomings, such as the death penalty and failure to ratify international agreements, before judging others. Russia, meanwhile, had introduced a moratorium on capital punishment.  
+END OF SUMMARY.

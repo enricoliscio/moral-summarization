@@ -1,0 +1,32 @@
+Okay, so I'm trying to help the user with their query. They provided a news article and specific instructions on how to process it. First, they want me to identify all the single words that are morally framed in the text. Then, I need to write a summary preserving those moral words.
+
+Alright, let me start by reading the article carefully. It's about US climate change proposals and the EU's concerns. The user wants me to find words that carry moral implications. Words like "sufficient," "concerned," "voluntary," "effective," "fair," "commitment," "ambitious," "guaranteed," "flexibility," "determined," "optimistic," and "dialogue" come to mind. These words convey judgment or evaluation, which is the moral framing.
+
+Next, I need to summarize the article, keeping those moral words. The summary should be concise, under 200 words. I'll start by outlining the main points: US proposals are domestic, EU worries about their adequacy, comparison with Kyoto Protocol, EU's cap-and-trade approach, and their determination to proceed with Kyoto.
+
+I should ensure the summary includes the morally framed words without making it too lengthy. I'll structure it to highlight the EU's concerns, their approach, and their stance on the US proposals. Also, I need to mention the EU's optimism about other countries joining their efforts.
+
+Wait, did I miss any morally framed words? Let me double-check. The article mentions "sufficient," "concerned," "voluntary," "effective," "fair," "commitment," "ambitious," "guaranteed," "flexibility," "determined," "optimistic," and "dialogue." I think I got them all.
+
+Now, putting it all together, the summary should flow naturally while including these words. I'll make sure each point is clear and the moral framing is preserved. Let me draft it step by step, ensuring each sentence adds value and stays within the word limit.
+
+I think that's about it. Time to write the final summary, making sure it's concise and includes all the necessary moral words without being too verbose.
+</think>
+
+**STEP 1:**  
+* Concerned  
+* Sufficient  
+* Voluntary  
+* Effective  
+* Fair  
+* Commitment  
+* Ambitious  
+* Guaranteed  
+* Flexibility  
+* Determined  
+* Optimistic  
+* Dialogue  
+
+**SUMMARY:**  
+The article highlights the EU's concerns over the US climate change proposals, which are deemed insufficient to reduce emissions effectively. The EU criticizes the US "intensity target" for allowing absolute emissions to rise, unlike the Kyoto Protocol, which mandates absolute reductions. The US plan, based on a "business-as-usual" approach, is expected to increase emissions by 33% above 1990 levels by 2012. The EU emphasizes the need for mandatory measures, such as cap-and-trade systems, to ensure a guaranteed environmental result. While the EU welcomes the Bush administration's initiative, it stresses the importance of monitoring and comparing efforts to those under the Kyoto Protocol. The EU remains determined to ratify the Kyoto Protocol and continues its emission reduction efforts, expressing optimism that other major players like Japan and Russia will join. The EU will assess the US proposals further and maintain dialogue, emphasizing the need for a fair and ambitious global approach to climate change.  
+**END OF SUMMARY.**

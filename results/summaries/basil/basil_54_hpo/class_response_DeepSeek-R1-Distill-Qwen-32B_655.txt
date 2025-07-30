@@ -1,0 +1,13 @@
+<think>
+Alright, I need to help the user by summarizing the given news article while preserving the moral framing. The user specified that the assistant should act as both a news summarizer and a moral expert. The key is to keep the morally charged words like "discrimination," "discriminate," "veto," "threatens," and "undermine" in the summary.
+
+First, I'll read through the article to understand the main points. It's about Arkansas Governor Asa Hutchinson signing a revised Religious Freedom Reformation Act after refusing the initial version due to discrimination concerns. The revised bill mirrors the federal RFRA and removes provisions allowing discrimination against LGBT individuals. Indiana also amended their RFRA to explicitly prohibit discrimination based on sexual orientation or gender identity after facing backlash.
+
+The author used specific moral terms, so I need to include those. I should structure the summary to highlight the governor's actions, the legislative changes, and the reasons behind them, including the pressure from his son and Walmart.
+
+I should make sure the summary is concise, under 200 words, and flows naturally while incorporating the moral framing. I'll start by mentioning the governor signing the revised bill, then the initial refusal, the legislative amendments, the comparison to federal RFRA, and the context of Indiana's changes. I'll also include the pressure from his son and Walmart, using the terms "veto," "threatens," and "undermine" appropriately.
+
+Let me draft this step by step, ensuring all key points are covered and the moral language is preserved.
+</think>
+
+SUMMARY: Arkansas Gov. Asa Hutchinson (R) signed a revised version of the state's Religious Freedom Reformation Act, amending provisions that could have allowed businesses to discriminate against LGBT individuals. The initial bill faced opposition due to concerns about discrimination, and Hutchinson vetoed the original version after pressure from his son and Walmart CEO Doug McMillon, who argued it threatened to undermine inclusion. The revised legislation mirrors the federal RFRA and removes discriminatory provisions. Meanwhile, Indiana legislators amended their controversial RFRA to explicitly prohibit discrimination based on sexual orientation or gender identity, following national backlash. The changes reflect a generational shift in opinions on these issues and a response to widespread criticism. END OF SUMMARY.

@@ -1,0 +1,35 @@
+Okay, so the user has provided a query where they want me to act as a news summarizer assistant and a moral expert. They have given a news article about a shooting incident in Springfield, Mo. My task is to first identify all the single words that are morally framed in the text. Then, I need to write a summary preserving those moral framings, keeping it under 200 words.
+
+First, I need to understand what morally framed words are. These are words that carry a moral judgment or evaluation, such as 'randomly,' 'killed,' 'hero,' 'courageous,''sorrow,' 'grateful,' etc. They convey emotions, judgments, or evaluations about the actions or events described.
+
+Looking at the article, I'll go through each sentence and pick out words that have a moral connotation. For example, "randomly" implies recklessness, "killed" is a strong negative action, "hero" is a positive评价, etc.
+
+Once I've listed all these words, I'll proceed to write the summary. I need to make sure that the summary includes as many of these morally framed words as possible without making it too lengthy. The summary should capture the main events: the shooting spree, the casualties, the officers' bravery, the community's reaction, and the gunman's identity.
+
+I also need to structure the summary clearly, starting with the incident, then the gunman's actions, the victims, the officers' heroism, the community's response, and the aftermath. I'll ensure that the moral words are integrated naturally to preserve the author's framing.
+
+I should be careful not to include any additional information beyond what's in the article and keep the language concise. After drafting, I'll check the word count to ensure it's under 200 words and that all key points are covered with the appropriate moral language.
+
+Finally, I'll format the response with the STEP 1 listing the moral words and then the SUMMARY, making sure to follow the user's instructions precisely.
+</think>
+
+### STEP 1:
+* Randomly  
+* Killed  
+* Hero  
+* Courageous  
+* Shock  
+* Sorrow  
+* Grateful  
+* Support  
+* Surreal  
+* Provoke  
+* Swerving  
+* Grieving  
+
+---
+
+### SUMMARY:  
+A gunman in Springfield, Mo., fired randomly from his vehicle, killing a police officer, two men, a store employee, and himself. The shooter, identified as 31-year-old Joaquin S. Roman, crashed into a convenience store, where he opened fire. Officer Christopher Walsh, a hero and Army veteran, was killed while trying to rescue a victim. Another officer, Josiah Overton, was injured but survived. The gunman’s motives remain unclear. Witnesses reported surreal moments, including a woman who narrowly escaped being hit. The community expressed shock and sorrow, with Kum & Go spokesman Aeriel Rubin thanking first responders. Police are still investigating the impact of the tragedy, which left many grieving.  
+
+END OF SUMMARY.

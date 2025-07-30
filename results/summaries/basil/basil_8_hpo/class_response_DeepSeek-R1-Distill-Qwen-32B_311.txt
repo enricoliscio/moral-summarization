@@ -1,0 +1,13 @@
+<think>
+Okay, I need to summarize this news article while preserving the moral framing. The user provided a list of morally framed words: increase, stall, help, dipping, stabilize, fails, facing. I should make sure these words are included in the summary.
+
+First, I'll read through the article to understand the main points. It's about the Bush tax cuts and the efforts by the White House to get Congress to pass the deal. They're warning that inaction could lead to a double dip recession. Larry Summers is mentioned, emphasizing the risk of the economy stalling. There's also a debate about whether the tax cuts are enough to help the economy.
+
+Next, I need to identify the key elements: the warning about the risk of a double dip, the consequences of not passing the bill, the debate over the effectiveness of the tax cuts, and the White House's push to get the deal passed despite Democratic skepticism.
+
+I should structure the summary to include these points, using the morally framed words. I'll start by stating the warning, then mention the consequences, the debate, and the push from the White House. I'll make sure to use "increase," "stall," "help," "dipping," "stabilize," "fails," and "facing" where appropriate.
+
+I also need to keep the summary under 200 words and end with the specified tokens. I'll ensure the summary flows logically and includes all necessary moral framing elements without losing the essence of the article.
+</think>
+
+SUMMARY: Senior White House officials have warned that failing to pass the Bush tax cut deal could "significantly increase" the risk of a double dip recession, urging congressional Democrats to act. Larry Summers emphasized that inaction would "materially increase the risk" of the economy stalling, while others argued the delay would not directly cause a double dip but could worsen the economic situation. The deal, which includes tax incentives and unemployment insurance extensions, is seen as stimulative but not sufficient to "stabilize" the economy fully. Critics argue the lack of housing market stabilization measures leaves the economy vulnerable. The White House is pushing for the deal, warning that "facing" the consequences of inaction—like tax increases and lost unemployment benefits—would be severe. The administration is framing the choice as between taking the package now or risking blame for an economic downturn. END OF SUMMARY.

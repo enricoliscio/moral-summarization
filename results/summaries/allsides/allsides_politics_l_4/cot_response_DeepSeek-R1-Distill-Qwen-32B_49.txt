@@ -1,0 +1,40 @@
+<think>
+Okay, so I need to help the user by summarizing the given news article while preserving the moral framing. First, I should understand what the user is asking for. They want me to act as a news summarizer and a moral expert, so I need to make sure the summary includes the morally charged words from the original text.
+
+The user provided a detailed article about an attempt to create false sexual misconduct allegations against Robert Mueller. The article mentions several individuals, like Jacob Wohl and Jack Burkman, and their roles in this scheme. There are also mentions of the FBI's involvement and the media's reaction.
+
+The user's instructions have two main parts. First, I need to identify all single words that are morally framed. These are words that carry a moral judgment, like "scam," "dishonest," or "deceit." I should list each of these words with an asterisk.
+
+Second, I need to write a concise summary (under 200 words) that includes as many of these morally framed words as possible. The summary should capture the essence of the article, highlighting the unethical actions and the consequences.
+
+I should start by reading through the article to pick out the morally charged words. Words like "scam," "shady," "false," "deceit," "fraudulent," "trolling," "hoax," "dishonest," "manipulative," "exploitation," "deception," and "dishonesty" stand out. These words are crucial for maintaining the moral framing.
+
+Next, I'll structure the summary to include these words. I'll mention the individuals involved, the nature of the scheme, the FBI's involvement, and the media's reaction. It's important to convey that the attempt was unethical and had negative consequences, even if it didn't succeed.
+
+I should ensure the summary flows well and stays within the word limit. I'll start by introducing the scheme, then mention the key players, the FBI's action, and the media's role. Finally, I'll note the potential consequences and the unethical nature of the attempt.
+
+I need to be careful to include all the identified morally framed words without making the summary too verbose. Each word should fit naturally into the context to preserve the moral judgment intended by the original article.
+
+Let me draft the summary now, making sure to incorporate all the key points and the moral framing words. I'll check the word count to ensure it's under 200 words. If it's too long, I'll trim unnecessary details while keeping the essential information.
+
+After drafting, I'll review the summary to ensure it accurately reflects the article's content and maintains the moral perspective. This way, the user gets a concise, well-framed summary that meets their requirements.
+</think>
+
+**STEP 1:**  
+* Scam  
+* Shady  
+* False  
+* Deceit  
+* Fraudulent  
+* Trolling  
+* Hoax  
+* Dishonest  
+* Manipulative  
+* Exploitation  
+* Deception  
+* Dishonesty  
+
+**SUMMARY:**  
+An alleged scheme to create false sexual misconduct allegations against Robert Mueller, the special counsel, was exposed, involving conservative figures Jacob Wohl and Jack Burkman. Wohl, known for his pro-Trump tweets and shady dealings, and Burkman, a conspiracy theorist, were linked to a plot to offer money to women to fabricate claims against Mueller. The scheme, described as a thin scam, backfired when journalists and online sleuths uncovered its deceptive nature. The FBI was alerted, and the far-right website Gateway Pundit briefly published a redacted document with a rape allegation against Mueller before retracting it. The attempt, seen as a hoax, succeeded in diverting media attention and wasting journalistic resources. Burkman continues to promise a press conference, but past claims have been duds. The moral framing highlights the scam's dishonesty, manipulation, and exploitation, with the FBI now investigating the matter.  
+
+**END OF SUMMARY.**

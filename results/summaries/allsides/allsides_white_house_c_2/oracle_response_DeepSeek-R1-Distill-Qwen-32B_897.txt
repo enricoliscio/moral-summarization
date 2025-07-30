@@ -1,0 +1,16 @@
+<think>
+Okay, I need to help the user by summarizing the given news article while preserving the moral framing. The user is a news summarizer assistant and a moral expert, so the summary needs to maintain the ethical and evaluative language used by the author.
+
+First, I'll read through the article to understand the main points. The Trump administration is imposing new sanctions on Iran due to missile tests and support for rebels in Yemen. They mention terrorism, missile programs, and threats to the region. The sanctions target 13 individuals and 12 companies, freezing their assets. The author uses words like "continued support," "terrorism," "threat," "sanctions," and "provocations."
+
+I need to make sure the summary includes as many of these morally framed words as possible. I'll start by stating the administration's action, then the reasons, the impact of the sanctions, and the reactions from Iran and the U.S. officials.
+
+I should keep it concise, under 200 words. I'll structure it to first mention the sanctions, then the reasons, the affected parties, the administration's commitment, Iran's denial, and the broader context of the nuclear deal and the administration's stance on terrorism.
+
+I'll also include the mention of the sanctions not affecting the nuclear deal, and the officials' statements about Iran's behavior and the administration's intolerance of provocations. Finally, I'll note the lawmakers' support but their caution regarding the administration's rhetoric.
+
+Putting it all together, I'll ensure the summary flows logically and includes the key morally framed terms without making it too lengthy.
+</think>
+
+SUMMARY:  
+The Trump administration has imposed new economic sanctions on Iran, targeting 13 individuals and 12 companies linked to its ballistic missile program and alleged support for terrorism. Acting Treasury Director John E. Smith stated that Iran's "continued support for terrorism" and missile development pose a "threat" to global stability. Trump criticized Iran's behavior, tweeting that they are "playing with fire." The sanctions freeze assets under U.S. jurisdiction and prohibit transactions with sanctioned entities. While the measures do not directly affect the Iranian nuclear deal, officials emphasized their commitment to addressing Iran's destabilizing activities. Iran denies violating UN regulations and dismissed Trump's criticism as "empty ranting." National security adviser Michael Flynn labeled Iran "the world’s leading state sponsor of terrorism," vowing the administration would no longer "tolerate" its provocations. Lawmakers supported the sanctions but urged clarity on the administration's strategy to avoid exacerbating tensions. END OF SUMMARY.

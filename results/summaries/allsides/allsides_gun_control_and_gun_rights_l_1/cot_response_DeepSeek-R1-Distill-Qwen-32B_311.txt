@@ -1,0 +1,60 @@
+Alright, so I'm trying to help the user with their query. They want me to act as a news summarizer assistant and a moral expert. The task is to summarize a given news article while preserving the moral framing the author provided.
+
+First, I need to understand the article. It's about mayors dealing with mass shootings and gun violence, highlighting the moral responsibility they feel. The author connects this to their personal history and the need for young people to take action.
+
+The user has specified two steps. The first is to identify all single words that are morally framed. I'll go through the article and pick out words that carry moral weight, like "unthinkable tragedy," "racist ideology," "hate speech," etc. I'll list each on a new line with an asterisk.
+
+Next, I need to write a concise summary, no more than 200 words. I have to make sure to include as many of the morally framed words as possible. The summary should capture the main points: mayors' challenges, the moral issues involved, the connection to personal history, and the emphasis on youth involvement.
+
+I should ensure the summary flows well and maintains the moral tone. It's important to highlight the mayors' actions, the problems they're facing, and the hope for the future through young people's initiatives.
+
+I also need to remember to start the summary with "SUMMARY:" and end with "END OF SUMMARY." Keeping it within the word limit is crucial, so I'll have to be concise but comprehensive.
+
+Let me structure this step by step. First, identify the moral words, then craft the summary using those words to maintain the author's framing. I'll make sure each part of the article is covered: the problem of gun violence, the mayors' responsibilities, the personal historical connections, and the youth-led initiatives.
+
+I think I've got a good grasp on this. Now, I'll proceed to list the moral words and then write the summary accordingly.
+</think>
+
+**STEP 1:**  
+* Unthinkable tragedy  
+* Racist ideology  
+* Malice  
+* Hate speech  
+* Deranged individuals  
+* Military-grade firepower  
+* Agonizing  
+* Responsibility  
+* NRA talking points  
+* Sick obsession  
+* Intolerance  
+* Courageous  
+* Meaningful  
+* Lasting steps  
+* Hate speech  
+* Weapon  
+* Righteous demands  
+* Freedom  
+* Belonging  
+* Exceptional  
+* Sorrowful fellowship  
+* Civic spirit  
+* Adversity  
+* Discouraged  
+* Heartbroken  
+* Paralyzed  
+* Normalized gun violence  
+* Bulletproof backpacks  
+* Fear  
+* Chance  
+* Free  
+* Healthy  
+* Unburdened  
+* Adversity  
+* Hope  
+* Inheritance  
+* Risk  
+
+**SUMMARY:**  
+The article highlights the moral responsibility of mayors in addressing the scourge of gun violence and hate-driven tragedies in their communities. The author, reflecting on personal and ancestral histories, emphasizes the need to confront the deadly nexus of intolerance and gun obsession. Mayors from across the political spectrum are taking action, empowering young people to demand meaningful solutions, such as addressing hate speech and restricting access to weapons. The author draws parallels between historical struggles for freedom and belonging and the current fight against normalized gun violence. By involving youth leaders, who embody the hope for a future where everyone feels safe and belongs, the article underscores the moral imperative to act courageously and meaningfully to protect future generations.  
+
+**END OF SUMMARY.**

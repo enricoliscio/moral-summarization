@@ -1,0 +1,31 @@
+Alright, I need to help the user with their query. They provided a news article and specific instructions on how to process it. The user wants me to act as a news summarizer and moral expert, so I need to follow their steps carefully.
+
+First, I should read the article thoroughly to understand the context. It's about Representative Bruce Braley making a controversial statement about a farmer becoming chairman of the Judiciary Committee. The article mentions the microphone being on, an apology, and the impact on the Iowa farming community.
+
+The user's instructions have two main parts. The first step is to identify all single words that are morally framed. I need to go through the article and pick out words that carry moral connotations. Words like "apologized," "offended," "never," "could," "chairmanship," "attack," "force," "history," "appeal," "qualified," and "pork" stand out as they relate to ethics, criticism, and influence.
+
+Next, I have to summarize the article while preserving these morally framed words. The summary needs to be concise, under 200 words, and include as many of those words as possible. I should structure it to highlight Braley's mistake, the consequences, and the political implications, especially regarding the farming community in Iowa.
+
+I also need to make sure the summary starts with "SUMMARY:" and ends with "END OF SUMMARY." I should avoid any markdown and keep the language clear and straightforward. It's important to maintain the moral framing the author intended, so I'll focus on how the words reflect on Braley's actions and the political strategies involved.
+
+I should double-check that I've included all the identified morally framed words and that the summary accurately reflects the article's content. Making sure the flow is logical and that each point is clearly addressed without exceeding the word limit is crucial.
+
+Finally, I'll review the summary to ensure it's cohesive and meets all the user's requirements. This way, the user gets a concise, morally framed summary that captures the essence of the news article.
+</think>
+
+**STEP 1:**  
+* apologized  
+* offended  
+* never  
+* could  
+* chairmanship  
+* attack  
+* force  
+* history  
+* appeal  
+* qualified  
+* pork  
+
+**SUMMARY:**  
+Representative Bruce Braley, an Iowa Democrat running for Senate, faced backlash after a video emerged of him criticizing a potential Republican chairman of the Judiciary Committee, Senator Charles E. Grassley. Braley apologized for his remarks, which mocked Grassley's background as a farmer without a law degree. Though Braley is not running against Grassley, the Republican could become chairman if his party wins the Senate. Braley's apology highlighted his family's farming roots, but the incident highlighted the risks of off-the-cuff remarks in politics. Meanwhile, Republican candidate Joni Ernst emphasized her farming background in an ad, positioning herself as qualified to "cut pork" in Washington. The situation underscores the political significance of Iowa's farming community, despite its declining numbers.  
+**END OF SUMMARY.**

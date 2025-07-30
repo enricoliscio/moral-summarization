@@ -1,0 +1,39 @@
+Okay, so I need to help the user with their query. They want me to act as a news summarizer and a moral expert. The task is to first identify all the morally framed words in the given news article and then write a summary preserving those moral framings.
+
+First, I'll read through the article carefully. The article is about Mary Cheney criticizing her sister Liz's stance on same-sex marriage. Mary is gay and supports same-sex marriage, while Liz is more cautious, deferring to state decisions. The family's views are part of a broader Republican debate on the issue.
+
+For step one, I need to identify single words that carry moral framing. I'll go through the article and pick out words that relate to values, ethics, or principles. Words like "criticized," "wrong," "freedom," "rights," "protection," "opposition," "compromise," "shy," "enlightenment," "empathy," "losing," "pillar," "values," "risk," and "opposes." These words seem to carry moral weight as they relate to principles, justice, and societal values.
+
+Next, for the summary, I need to condense the article into 200 words, keeping those moral words intact. I'll start by outlining the main points: Mary's criticism, their differing views, the broader Republican context, and the political implications. I'll make sure to include the morally framed words to preserve the author's tone.
+
+I should ensure the summary flows well and covers all key aspects without being too detailed. I'll mention Mary's support for same-sex marriage, Liz's stance, their father's support, the political risk, and the broader party debate. This should give a clear and concise summary that reflects the moral framing present in the original article.
+
+I need to make sure the summary is under 200 words and that it accurately represents the article's content while highlighting the moral elements. I'll structure it to first introduce the sisters' conflict, then discuss their positions, followed by the family and party context, and conclude with the political implications.
+
+Let me check the word count as I draft the summary. I'll keep each sentence concise and focused on the main points. I'll ensure that each morally framed word is included where appropriate without forcing them in. The goal is a natural summary that mirrors the original's moral perspective.
+
+After drafting, I'll review the summary to ensure it's within the word limit and that all key moral points are covered. I'll also make sure the summary is clear and easy to understand, avoiding any unnecessary jargon or complexity.
+
+Finally, I'll present the summary after the "SUMMARY:" token, making sure it's properly formatted and ends with "END OF SUMMARY." I'll double-check that all the steps are followed correctly and that the response meets the user's requirements.
+</think>
+
+**STEP 1:**  
+* Criticized  
+* Wrong  
+* Freedom  
+* Rights  
+* Protections  
+* Opposed  
+* Compromise  
+* Shy  
+* Enlightenment  
+* Empathy  
+* Losing  
+* Pillar  
+* Values  
+* Risk  
+* Opposes  
+
+**SUMMARY:**  
+Mary Cheney, the gay sister of Wyoming Senate candidate Liz Cheney, sharply criticized her sister's stance on same-sex marriage, calling it "dead wrong." Mary, who supports same-sex marriage, emphasized that "freedom means freedom for everyone," asserting that all families deserve equal rights and protections. Liz, however, deferred to state-level decisions on the issue, a stance that Mary deemed insufficient. The sisters' disagreement reflects the broader Republican divide over same-sex marriage, with some in the party losing younger voters due to shifting public opinion, while others cling to traditional family values. Liz's cautious approach highlights the political risk of fully supporting same-sex marriage in Wyoming, even as her father, Dick Cheney, supports it. The family's conflict mirrors the party's internal struggle over this contentious issue.  
+**END OF SUMMARY.**

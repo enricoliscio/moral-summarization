@@ -1,0 +1,16 @@
+Okay, so the user has given me a query where they want me to act as a news summarizer and a moral expert. They provided a detailed news article about John Lewis and the events in Selma, 1965. The task is to summarize the article while preserving the moral framing the author used. 
+
+First, I need to understand the key points of the article. It's about John Lewis's role in the civil rights movement, specifically the march in Selma that led to the Voting Rights Act. The article describes the violent confrontation, known as Bloody Sunday, where Lewis was beaten by state troopers. It also mentions the broader impact, like the passage of the Voting Rights Act and Lewis's later life.
+
+Next, I should focus on the moral framing. The article highlights Lewis's courage, the brutality faced by activists, and the eventual success in achieving voting rights. The moral aspect is about justice, perseverance, and the struggle against oppression.
+
+Now, I need to create a concise summary under 200 words. I'll start by mentioning Lewis's death and his role in the civil rights movement. Then, I'll describe the Bloody Sunday event, the violence, and its impact. I should include how this led to the Voting Rights Act and perhaps touch on his legacy, like his later speeches encouraging activism.
+
+I also need to ensure that the moral elements are clear—emphasizing the struggle for justice, the sacrifices made, and the eventual positive outcome. I should avoid technical jargon and keep the summary accessible.
+
+I'll structure the summary by first introducing Lewis, then the event, the consequences, and conclude with his legacy. I'll make sure to highlight the moral aspects, like the fight against racial discrimination and the inspiration he provided.
+
+Finally, I'll check the word count to ensure it's within the limit and that all key points are covered without losing the moral essence.
+</think>
+
+SUMMARY: John Lewis, a civil rights icon, died at age 80, leaving behind a legacy of courage and activism. On March 7, 1965, Lewis led a peaceful march in Selma, Alabama, advocating for voting rights. Confronted by state troopers under Gov. George C. Wallace’s orders, the marchers were met with brutal violence, an event known as Bloody Sunday. Lewis was beaten severely, but his unwavering commitment to justice helped galvanize support for the Voting Rights Act of 1965. Decades later, Lewis remained a symbol of resilience, encouraging others to "get in good trouble" for the sake of equality. His life reflected the moral struggle against racial discrimination, inspiring generations to fight for a more just society. END OF SUMMARY.

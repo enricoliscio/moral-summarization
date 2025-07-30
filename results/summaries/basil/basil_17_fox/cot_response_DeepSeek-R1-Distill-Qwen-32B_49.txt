@@ -1,0 +1,43 @@
+Okay, so I need to help the user with their query. They provided a news article about Sheriff Joe Arpaio endorsing Rick Perry for the Republican nomination. The task is to first identify all the single words that are morally framed in the article, and then write a summary preserving those moral frames.
+
+First, I'll read through the article carefully. The user wants me to list each morally framed word, so I need to look for words that carry a positive or negative connotation related to morality or ethics. Words like "tough," "controversial," "supporter," "superior," "vital," "secure," "safe," "secure," "protecting," "jobs," "criticism," "clashes," "magnet," "opposes," "amnesty," "citizenship," "safe," "secure," "strong," "principles," "shared," "secure," "safe," "jobs," "shared," "secure," "safe," "jobs."
+
+Next, I need to summarize the article, making sure to include as many of these moral words as possible. The summary should be concise, around 200 words, and include the key points: Arpaio's endorsement, his reasons, Perry's response, the criticism Perry has faced, and the clash with Romney over immigration policies.
+
+I should structure the summary to highlight the moral framing, emphasizing words like "tough," "superior," "vital," "secure," "safe," etc. I'll make sure to mention Arpaio's support for Perry's border security plan and the criticism Perry has received, especially from Romney regarding his immigration stance.
+
+I also need to ensure that the summary flows well and covers all the main points without being too verbose. I'll check the word count to stay within the limit. Finally, I'll present the summary after the "SUMMARY:" token, ending with "END OF SUMMARY."
+
+Alright, I think I have a clear plan. I'll list the moral words first, then craft a concise summary that includes them, preserving the moral framing as the user requested.
+</think>
+
+**STEP 1:**  
+* Tough  
+* Controversial  
+* Supporter  
+* Superior  
+* Vital  
+* Secure  
+* Safe  
+* Secure  
+* Protecting  
+* Jobs  
+* Criticism  
+* Clashes  
+* Magnet  
+* Opposes  
+* Amnesty  
+* Citizenship  
+* Safe  
+* Secure  
+* Strong  
+* Principles  
+* Shared  
+* Secure  
+* Safe  
+* Jobs  
+
+**SUMMARY:**  
+Arizona Sheriff Joe Arpaio, known for his tough stance on illegal immigration, endorsed Texas Governor Rick Perry for the Republican presidential nomination. Arpaio praised Perry for his superior border security record and plan to secure the U.S.-Mexico border, emphasizing the need for a tough-on-crime president to protect national security, public safety, and jobs. Perry thanked Arpaio, highlighting their shared goals of fighting border crime through more personnel, fencing, and surveillance. However, Perry has faced criticism from the Right for supporting DREAM children and a Texas law allowing undocumented immigrants to attend public colleges at in-state tuition rates. Romney criticized Perry for creating a "magnet" for undocumented immigrants. Perry also opposes amnesty or a path to citizenship but supports work visas for undocumented immigrants. Perry vows to secure the border within a year, deploying federal resources to make states and the nation safer.  
+
+**END OF SUMMARY.**

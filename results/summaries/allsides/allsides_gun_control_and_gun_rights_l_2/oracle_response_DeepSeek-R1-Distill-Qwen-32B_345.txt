@@ -1,0 +1,17 @@
+Alright, I need to help the user by summarizing the given news article while preserving the moral framing. The user provided a detailed article and specified that the summary should include as many of the morally charged words as possible. They also mentioned that the summary should be concise, under 200 words, and properly formatted with "SUMMARY:" and "END OF SUMMARY." tokens.
+
+First, I'll read through the article to understand the main points. It's about Democrats in the House planning to introduce legislation for background checks on all gun sales, following the midterm elections. They're pushing for stronger gun control, especially after several mass shootings. The article mentions specific incidents like Sandy Hook, Parkland, Las Vegas, etc., and the emotional impact on victims' families. There's also a lawsuit against conspiracy theorists by a Sandy Hook parent. The legislative challenges are discussed, including Republican control of the Senate and past failed bipartisan efforts.
+
+Next, I need to identify the morally framed words used by the author. These include words like legislation, progress, divides, gunned, shooting, bereaved, violence, shootings, massacre, shot, died, claim, hoax, killed, cowrote, harassment, feared, enforced, blocked, languished, bill. I should incorporate as many of these as possible into the summary without making it sound forced.
+
+I'll start by outlining the key points: Democrats' new strategy, the background checks legislation, the emotional context from past shootings, the lawsuit, and the legislative challenges. I'll make sure to use the moral terms to convey the gravity and emotions involved.
+
+I'll structure the summary to first mention the legislative push, then the emotional impact and specific shootings, the lawsuit, and finally the legislative hurdles. I'll ensure each sentence includes the appropriate moral framing words.
+
+I need to keep it concise, so I'll combine related points where possible. For example, mentioning the various mass shootings in one sentence. Also, I'll make sure the summary flows logically, starting from the legislative action, moving to the emotional context, and then the challenges.
+
+Finally, I'll review the summary to ensure it's under 200 words and that all key moral terms are included. I'll check for clarity and coherence, making sure the summary accurately reflects the article's content and maintains the intended moral tone.
+</think>
+
+SUMMARY:  
+Democrats in the House plan to introduce legislation for universal background checks on all gun sales as a top priority in the new Congress, aiming to make progress on a deeply divisive issue in the U.S. Prominent lawmakers, including Chris Murphy and Richard Blumenthal, will lead calls for action, joined by survivors, advocates, and families of victims from mass shootings like Sandy Hook, Parkland, Las Vegas, and others. Despite federal laws that are poorly enforced, gun control efforts have stalled in Washington, with Republican-controlled Congress blocking previous bipartisan bills. The new Democratic majority hopes to push a strident strategy to win Republican support and set the stage for the 2020 election. Meanwhile, families of victims continue to suffer: Lenny Pozner, whose son Noah was killed in the Sandy Hook massacre, filed a lawsuit against conspiracy theorists claiming the shooting was a hoax. The emotional toll of gun violence remains acute, with survivors and the bereaved advocating for change amid persistent legislative challenges. END OF SUMMARY.

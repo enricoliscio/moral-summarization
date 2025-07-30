@@ -1,0 +1,22 @@
+Okay, so I need to help the user by summarizing a news article while preserving the moral framing. Let me read through the query again to make sure I understand what's needed.
+
+The user provided a news article about Venezuela's political turmoil, specifically the events leading to Hugo Chavez's resignation. They also listed the morally charged words the author used. My task is to create a summary that includes as many of those words as possible, without exceeding 200 words. The summary should start with "SUMMARY:" and end with "END OF SUMMARY."
+
+First, I'll go through the article to identify the key events and the moral language used. The article describes violent events, deaths, injuries, strikes, threats to the economy, protests, bloodshed, shootings, and the military's reaction leading to Chavez's resignation. It also mentions the country's name change and the uncertainty following the power vacuum.
+
+I need to make sure to include words like "violent," "dead," "injured," "strike," "threatened," "cripple," "protesting," "striking," "bloodshed," "shots," "fired," "firing," "horrible," "shooting," "respected," "demonstrate," "press," "lies," "shootings," "killings," "charges," "heal," "divisions."
+
+I'll structure the summary by outlining the main events: the violent protests, the casualties, the strike, the name change, the military's role, Chavez's actions, and the aftermath. I'll ensure that each of these points uses the morally framed words where appropriate.
+
+I should also keep the summary concise, making sure it's under 200 words. I'll avoid adding any personal opinions or interpretations beyond what's in the article, sticking strictly to the facts while highlighting the moral aspects.
+
+Let me draft the summary step by step. Start with the violent events and casualties, mention the strike and its impact, the name change, the military's involvement, Chavez's actions, the shootings, and the aftermath including the power vacuum and social divisions.
+
+I need to check that all the key morally framed words are included without making the summary too wordy. Maybe I can combine some sentences to include multiple terms. For example, mentioning the strike and its threat to the economy, then the bloodshed and shootings.
+
+I should also ensure the flow is logical, moving from the events of the day to the consequences and the country's state afterward. Finally, I'll count the words to make sure it's under 200.
+
+Putting it all together, the summary should capture the turmoil, the violence, the political changes, and the uncertainty, all while using the specified moral terms.
+</think>
+
+SUMMARY: Venezuela experienced a violent and chaotic 24 hours, resulting in at least 11 deaths and 80 injuries. A general strike and oil industry stoppage threatened to cripple the economy, but these were ended by the rise of a new president, Pedro Carmona, who renamed the country the Republic of Venezuela. The name change symbolized a break from Hugo Chavez's legacy. Carmona also ended the strike, but the nation remained in turmoil. Protests had turned to bloodshed, with shots fired into crowds, including by Chavez supporters. The military turned against Chavez, demanding his resignation, which he reportedly accepted. Chavez was detained, and his exit left a power vacuum. Venezuelans celebrated his fall but faced uncertainty about healing deep social divisions. The country is in shellshock, grappling with the aftermath of violence and political upheaval. END OF SUMMARY.

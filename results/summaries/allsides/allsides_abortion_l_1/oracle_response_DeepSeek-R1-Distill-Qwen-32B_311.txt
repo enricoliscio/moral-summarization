@@ -1,0 +1,14 @@
+Okay, I need to help the user by summarizing the provided news article while preserving the moral framing. First, I'll read through the article to understand the main points. It's about Planned Parenthood and the ACLU suing Alabama over a near-total abortion ban. The law is designed to challenge Roe v. Wade, which is a key moral point.
+
+I notice the author uses specific morally charged words like "ban," "exceptions," "rape," "incest," "engineered," "unconstitutional," and "exploit." I need to make sure these words are included in the summary. The summary should be concise, around 200 words, and structured to highlight the legal battle and the moral implications.
+
+The article mentions that the law allows abortions only in cases of serious health risk, with no exceptions for rape or incest. This is a strong moral point, so I'll include that. The lawsuit argues the law is unconstitutional and disproportionately affects black and low-income individuals, which are important moral considerations.
+
+I also need to include the ACLU and Planned Parenthood's stance, their fight against the law, and the broader context of other states passing similar restrictions. The user wants the summary to end with "END OF SUMMARY." and start after "SUMMARY:". I'll make sure the summary flows well and includes all the key morally framed words without being too lengthy.
+
+Let me draft the summary, ensuring I hit all these points and maintain the moral framing. I'll check the word count to stay within 200 words and make sure it's clear and concise.
+</think>
+
+SUMMARY:  
+Planned Parenthood and the ACLU sued Alabama over its near-total abortion ban, which Republicans designed to challenge Roe v. Wade. The law allows abortions only if a pregnancy poses a "serious health risk," with no exceptions for rape or incest, and providers could face up to 99 years in prison. Critics argue the law is unconstitutionally severe and politically motivated, with backers aiming to force a legal challenge. The lawsuit, filed on behalf of abortion clinics and a doctor, claims the "serious health risk" exception is too narrow to comply with and that the ban would disproportionately harm black and low-income communities. The ACLU and Planned Parenthood emphasize that this fight is about protecting patients' lives and standing against politicians exploiting health and rights for political gain. The case highlights a broader trend of state legislatures introducing restrictive abortion laws, with several states passing bans as early as six weeks into pregnancy. The legal battle underscores the ongoing struggle over reproductive rights and the moral implications of such restrictions.  
+END OF SUMMARY.

@@ -1,0 +1,30 @@
+Okay, I need to help the user by summarizing the given news article while preserving the moral framing. The user has specified two main steps: first, identifying all the single words that are morally framed, and second, writing a concise summary that includes as many of those words as possible.
+
+Starting with STEP 1, I'll go through the article to find words that carry moral connotations. Words like "close," "top choice," "top lawyers," "unconventional," "severe reservation," "mistake," "shocking," "undermines," "independence," "unanimous," "rare," "split," "opposition," "terrible choice," "overjoyed," "interfered," and "explosive" stand out as they imply judgment or evaluation.
+
+For the summary, I need to condense the article into under 200 words, keeping the moral terms. I'll mention Trump's selection process, the candidates, the political background of Lieberman, the concerns from Democrats, and the support from Republicans. I should also include the context of Comey's firing and the ongoing investigation into Russian ties, highlighting the moral implications involved.
+
+I need to ensure that the summary flows naturally while incorporating the identified moral words. I'll structure it by introducing Trump's decision, discussing Lieberman's background, the opposing views from Democrats and Republicans, and the broader context of the FBI's role and the investigation. This should cover all the key points and maintain the moral framing as per the user's request.
+</think>
+
+**STEP 1:**  
+* close  
+* top choice  
+* top lawyers  
+* unconventional  
+* severe reservation  
+* mistake  
+* shocking  
+* undermines  
+* independence  
+* unanimous  
+* rare  
+* split  
+* opposition  
+* terrible choice  
+* overjoyed  
+* interfered  
+* explosive  
+
+**SUMMARY:**  
+President Trump is close to selecting an interim FBI director, with former Sen. Joe Lieberman as his top choice. Lieberman, a centrist Democrat with no law enforcement experience, has drawn severe reservation from Democrats, who argue that the FBI director should be a career law enforcement official, not a politician. Sen. Claire McCaskill called the nomination a "mistake," while Sen. Brian Schatz deemed it "shocking," emphasizing that appointing a politician undermines the FBI's independence. A top Senate Democratic aide criticized the move as "the worst time" to hand the agency to a politician. During a Democratic caucus lunch, Sens. Dick Durbin and Sheldon Whitehouse trashed Lieberman's candidacy, with a majority agreeing he is a "terrible choice." Republicans, however, praised Lieberman, with Sen. John McCain calling him "overjoyed" at the possibility. The need for a new director arose after Trump fired Comey amid the FBI's investigation into Russian ties, with reports suggesting Trump interfered in the probe. END OF SUMMARY.

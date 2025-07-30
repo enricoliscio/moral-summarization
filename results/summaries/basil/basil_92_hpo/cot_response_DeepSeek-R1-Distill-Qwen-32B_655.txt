@@ -1,0 +1,31 @@
+Okay, I need to help the user by summarizing the news article while preserving the moral framing. The user provided a detailed query, so I should make sure I follow their instructions precisely.
+
+First, the user wants me to identify all the single words that are morally framed. I'll go through the article and pick out words that carry a moral connotation. Words like "directed," "lie," "deception," "obstruction," "impeachment," "crimes," "misconduct," "duty," "accountability," "innocent," and "fraud." These words are key because they imply right or wrong actions.
+
+Next, I need to write a concise summary of the article, making sure to include as many of these moral words as possible. The summary should be under 200 words. I'll start by outlining the main points: Mueller's team disputed BuzzFeed's report about Trump directing Cohen to lie. The report's sources are credible, so it's a serious issue. Democrats are reacting strongly, considering impeachment. Mueller's office didn't deny Trump's involvement but didn't confirm it either. The House Intelligence Committee is investigating. Trump denies the allegations and accuses Cohen of lying for his own benefit.
+
+I'll make sure to include the moral terms in the summary to reflect the article's framing. I should also keep the summary clear and to the point, ensuring it captures the essence without unnecessary details.
+
+Let me structure the summary step by step. Start with Mueller's response to BuzzFeed, mention the Democrats' reactions, the committee's actions, and Trump's defense. I'll use the moral words where appropriate to maintain the original framing.
+
+I should also check the word count to stay within the limit. After drafting, I'll count the words to ensure it's under 200. If it's over, I'll trim any redundant parts without losing the key points.
+
+Finally, I'll format the response as per the user's instructions, starting with STEP 1, listing the moral words, and then providing the summary after the specified tokens. I'll make sure everything is clear and follows the user's guidelines accurately.
+</think>
+
+**STEP 1:**  
+* Directed  
+* Lie  
+* Deception  
+* Obstruction  
+* Impeachment  
+* Crimes  
+* Misconduct  
+* Duty  
+* Accountability  
+* Innocent  
+* Fraud  
+
+**SUMMARY:**  
+Special Counsel Robert Mueller’s team disputed BuzzFeed’s report alleging President Trump directed attorney Michael Cohen to lie to Congress about the Trump Tower Moscow deal. Mueller’s office claimed BuzzFeed’s description of statements, documents, and testimony was inaccurate, though it did not directly deny Trump’s involvement. BuzzFeed stood by its reporting, which suggested Trump may have obstructed justice, a serious charge with potential impeachment or criminal implications. Democrats, including Sen. Dianne Feinstein and Rep. Adam Schiff, demanded Mueller release information on Trump’s Moscow deal and began investigating. Feinstein warned of impeachment if the allegations were true. Trump denied the claims, accusing Cohen of lying to reduce his jail time. The situation highlights the moral and legal stakes surrounding potential deception and obstruction of justice.  
+**END OF SUMMARY.**

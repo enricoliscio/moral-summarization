@@ -1,0 +1,39 @@
+Okay, so I'm trying to figure out how to approach this query. The user wants me to act as a news summarizer and moral expert. They provided a news article about Japan and the U.S. differing on global warming issues, specifically regarding the Kyoto Protocol. 
+
+First, I need to identify the morally framed words in the article. I'll go through the text and pick out words that carry a moral connotation. Words like "reject," "hurt," "voluntary," "mandatory," "criticized," "ineffective," "warn," "hope," "continue," "improve," "cooperate," "volunteer," "effective," "voluntary," "mandatory," "criticized," "ineffective," "warn," "hope," "continue," "improve," "cooperate," "volunteer," "effective." I should list each of these with a *.
+
+Next, I need to write a concise summary that includes as many of these morally framed words as possible. The summary should be under 200 words. I'll start by stating that Japan and the U.S. have differing views on the Kyoto Protocol. Then, mention Bush's rejection and his alternative plan. Koizumi's support for Kyoto and his hope for U.S. efforts. The U.S. plan is criticized as ineffective, leading to rising emissions. They agreed to cooperate on new technologies for mutual benefit.
+
+I should make sure the summary flows well and includes all the key points with the moral words highlighted. I need to keep it clear and within the word limit. Let me check the word count to ensure it's under 200. 
+
+I think that's a solid approach. Now, I'll structure the summary step by step, making sure each morally framed word is included where appropriate.
+</think>
+
+**STEP 1:**  
+* Reject  
+* Hurt  
+* Voluntary  
+* Mandatory  
+* Criticized  
+* Ineffective  
+* Warn  
+* Hope  
+* Continue  
+* Improve  
+* Cooperate  
+* Volunteer  
+* Effective  
+* Voluntary  
+* Mandatory  
+* Criticized  
+* Ineffective  
+* Warn  
+* Hope  
+* Continue  
+* Improve  
+* Cooperate  
+* Volunteer  
+* Effective  
+
+**SUMMARY:**  
+Japan and the U.S. have differing views on addressing global warming, particularly regarding the Kyoto Protocol. U.S. President George W. Bush rejected the protocol, arguing it would hurt economic growth, and proposed an alternative plan with voluntary limits on greenhouse gas emissions. Japanese Prime Minister Junichiro Koizumi described the U.S. plan as "constructive" but urged further efforts, emphasizing the importance of cooperation to move in the same direction. Environmentalists criticized the U.S. proposal as ineffective, warning that emissions would continue to rise. Despite their differences, Bush and Koizumi agreed to cooperate on developing new technologies to combat global warming, believing such efforts could benefit both the environment and economic growth. END OF SUMMARY.

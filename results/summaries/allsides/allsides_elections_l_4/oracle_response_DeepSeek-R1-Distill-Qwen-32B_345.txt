@@ -1,0 +1,22 @@
+<think>
+Alright, so I need to help the user by summarizing this news article while preserving the moral framing. The user is specifically asking for a summary that includes as many of the morally charged words as possible. First, I should read through the article to understand the main points. 
+
+The article talks about Donald Trump softening his stance on immigration, which is a key part of his campaign. He's trying to court non-white voters, like Hispanics and African Americans, but his previous hardline policies might be off-putting. The author uses words like "lies," "failed," "crime," and "unemployment" to highlight the moral issues.
+
+I need to make sure the summary includes these terms. I should focus on the main events: Trump changing his immigration policy, the statistics on African American unemployment, and his claims about inner city safety. Also, the article mentions how his campaign's data might be misleading, which is another moral point.
+
+I have to keep the summary under 200 words and structure it clearly. I'll start by mentioning the softened stance on immigration, then move to the African American unemployment stats, followed by the crime claims. Finally, I'll note the misleading data aspect. 
+
+I should ensure that each morally framed word is included where appropriate without making the summary too wordy. I'll also need to connect these points logically, showing how each action or statement reflects Trump's campaign strategy and the criticisms he's facing.
+
+Let me draft a concise version, making sure each key point is covered and the moral language is preserved. I'll check the word count to stay within the limit. Once done, I'll present it after the "SUMMARY:" token as instructed.
+</think>
+
+SUMMARY:  
+The article highlights Donald Trump's shifting stance on immigration, a signature issue of his campaign, as he seeks to court non-white voters. Trump initially proposed a hardline approach, including a "deportation force," but later softened his position, suggesting undocumented immigrants could stay if they "pay back taxes" and avoid "amnesty." His campaign manager, Kellyanne Conway, appeared to waffle on deportation commitments, while Trump denied "flip-flopping." This moderation comes amid lagging support among non-white voters, with polls showing Hillary Clinton leading significantly.  
+
+Trump also criticized Democratic-run inner cities, claiming they are "safer in war zones," a statement economists deemed misleading. He emphasized high crime rates and poverty, despite data showing a long-term decline in crime. Trump claimed to "employ so many" African Americans, though analysis found few black executives in his organization.  
+
+Additionally, Trump cited a 58% unemployment rate among young African Americans, a figure his campaign derived by including non-job seekers, which economists criticized as statistically misleading. His rhetoric on African American "suffering" under Democratic "control" aimed to appeal to voters, but his claims were met with skepticism.  
+
+END OF SUMMARY.

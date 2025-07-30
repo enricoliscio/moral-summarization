@@ -1,0 +1,12 @@
+Okay, so the user has given me a query where they want a summary of a news article, preserving the moral framing. They specified that I should act as a news summarizer and a moral expert. The article is about John F. Kelly's tenure as Trump's Chief of Staff and the moral issues surrounding it.
+
+First, I need to understand the key points of the article. It talks about Kelly's role, his departure, and how he embodies "Trumpism." There are specific incidents mentioned, like the spat with Rep. Wilson, his comments on the Civil War, and the child separation policy. The author is critical of Kelly, pointing out that while he's more tempered than Trump, he shares the same problematic worldview.
+
+I need to make sure the summary captures these points concisely. I should highlight Kelly's role in Trump's administration, the incidents that show his moral stance, and the conclusion that the administration's ethos comes from Trump himself.
+
+I should also keep it under 200 words and structure it after the "SUMMARY:" token, ending with "END OF SUMMARY." I'll need to make sure the moral framing is clear, emphasizing the negative aspects like casual cruelty, tolerance of bigotry, and the failure to moderate Trump's worst impulses.
+
+Let me draft the summary, ensuring it's concise and includes all the critical points without going over the word limit.
+</think>
+
+SUMMARY: Retired Marine Gen. John F. Kelly, Donald Trump's former chief of staff, embodies "Trumpism" despite lacking Trump's intemperate behavior. Kelly's tenure highlighted his commitment to Trump's ideology, including casual cruelty and tolerance for bigotry. Examples include his dispute with Florida Rep. Frederica Wilson, where he falsely accused her of taking credit for an FBI office, and his defense of Robert E. Lee and the Confederacy, despite the Civil War's roots in slavery. Kelly also defended Rob Porter, a senior aide accused of domestic abuse, and played a key role in the administration's "zero tolerance" immigration policy, which separated children from their parents. Kelly's actions, including his dismissive response to the policy's cruelty, underscored his alignment with Trump's worldview. While Kelly may have valued normalcy, he failed to moderate Trump's worst impulses, revealing that the administration's ethos flows directly from Trump. The summary emphasizes that appearances of moderation are not enough; the administration's moral failings are inherent and cannot be fixed by a single figure like Kelly. END OF SUMMARY.

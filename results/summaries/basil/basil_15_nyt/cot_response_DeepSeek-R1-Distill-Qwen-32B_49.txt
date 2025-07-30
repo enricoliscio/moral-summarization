@@ -1,0 +1,27 @@
+Okay, I need to help the user with their query. They want me to act as a news summarizer and moral expert. The task is to summarize a given news article while preserving the moral framing. 
+
+First, I should read the article carefully. It's about Newsweek's cover featuring Michele Bachmann with the title "The Queen of Rage." The article discusses the backlash from conservatives and feminists, pointing out sexism in media portrayal.
+
+The user has specified two steps. Step 1 is to identify all single words that are morally framed. I'll need to go through the article and pick out words that carry moral connotations. Words like "disrespectful," "sexist," "bias," "outrage," "creepy," "intensity," "ridicule," "controversy," "stereotype," and "discrimination" stand out as they carry moral judgments.
+
+Next, for the summary, I have to condense the article into 200 words, keeping the morally framed words intact. I should mention the cover, the backlash, the feminist critique, the comparison with Sarah Palin, and the previous controversial covers. I need to ensure the summary flows well and covers all key points without being too lengthy.
+
+I should make sure the summary starts with "SUMMARY:" and ends with "END OF SUMMARY." Also, each morally framed word from Step 1 should be included where appropriate. I'll structure the summary to highlight the main issues: the cover's portrayal, the accusations of bias and sexism, and the comparison to past controversies.
+
+I need to check the word count to ensure it's under 200 words. Let me draft it, making sure to include all necessary points and maintain the moral framing as per the original article.
+</think>
+
+**STEP 1:**  
+* Disrespectful  
+* Sexist  
+* Bias  
+* Outrage  
+* Creepy  
+* Intensity  
+* Ridicule  
+* Controversy  
+* Stereotype  
+* Discrimination  
+
+**SUMMARY:**  
+Newsweek's cover featuring Republican candidate Michele Bachmann with the title "The Queen of Rage" has sparked controversy. Critics, including conservative bloggers and feminist groups, argue the image is disrespectful and sexist, suggesting it unfairly portrays Bachmann as unstable. Some conservatives claim the mainstream media is biased against them, while feminists like Terry O’Neill of the National Organization for Women argue the portrayal would never be done to a male politician. Newsweek defended itself by releasing outtakes showing Bachmann in more neutral poses, but the cover’s moral framing remains a point of contention. This is not the first time Newsweek has faced backlash for its cover choices, with past controversies including photos of Sarah Palin and a computer-generated image of Princess Diana. The article accompanying Bachmann's cover focuses on her role in the Tea Party movement, but it is the cover itself that has drawn the most outrage. END OF SUMMARY.

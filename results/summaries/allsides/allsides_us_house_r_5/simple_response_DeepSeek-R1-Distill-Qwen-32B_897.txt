@@ -1,0 +1,16 @@
+Okay, I need to help the user by summarizing the given news article while preserving the moral framing. The user mentioned they are a news summarizer assistant and a moral expert, so the summary should highlight the ethical implications presented in the article.
+
+First, I'll read through the article to understand the main points. It's about Republicans confronting Adam Schiff, the chairman of the House Intelligence Committee, over his investigation into Trump's Russia ties. They're accusing him of bias and wanting him to resign because they don't trust his leadership. Schiff is defending his actions, citing specific instances where Trump associates had contacts with Russians, but without evidence of collusion. The article also mentions Mueller's findings that cleared Trump associates of collusion.
+
+I need to capture the moral elements. Republicans are framing Schiff's actions as unethical, promoting false narratives, and damaging government integrity. They compare him to McCarthy, which is a strong moral criticism. On the other side, Schiff and Pelosi are accusing Republicans of being scared and ignoring the ethical concerns about Trump's interactions with Russians.
+
+I should ensure the summary reflects both sides' moral arguments without taking a stance. It's important to mention the key points: Republicans' accusations, Schiff's defense, Mueller's findings, the comparison to McCarthy, and the implications for government integrity.
+
+I'll structure the summary to first introduce the confrontation, then detail the accusations from both sides, and conclude with the broader implications. Keeping it under 200 words, I'll make sure each sentence is concise and captures the essence without unnecessary details.
+
+Finally, I'll start with "SUMMARY:" and end with "END OF SUMMARY." to meet the user's formatting requirements.
+</think>
+
+SUMMARY:  
+Republicans criticized House Intelligence Committee Chairman Adam Schiff, accusing him of bias and urging his resignation over his investigation into alleged Russian collusion with the Trump campaign. Schiff defended his work, citing contacts between Trump associates and Russians, though he did not provide evidence of collusion, as Mueller's findings cleared Trump associates of conspiracy. Republicans argued Schiff's actions were unethical, promoting false narratives, and damaging government integrity. Schiff countered by highlighting events like Trump Jr.'s meeting with a Russian lawyer and Manafort's dealings, calling Trump's associates' behavior immoral and unethical. Pelosi defended Schiff, while Republicans likened him to McCarthy, accusing him of abusing power and misrepresenting classified information. The debate reflects broader ethical and political divides over the Russia probe and its implications for U.S. governance.  
+END OF SUMMARY.

@@ -1,0 +1,53 @@
+Alright, so the user has given me a query where they want to summarize a news article while preserving the moral framing. They've provided specific steps: first, identify all the morally framed single words, and then write a summary using those words. 
+
+First, I need to understand what "morally framed" words mean. These are words that carry a strong positive or negative connotation, indicating approval or disapproval. For example, words like "tyranny," "abused," "heavy-handed," etc., are likely candidates.
+
+Looking at the article, I'll go through each sentence and pick out words that have a moral charge. I'll list them as per the user's instruction, each on a new line with a *.
+
+Next, I need to write a concise summary, under 200 words, that includes as many of these moral words as possible. The summary should reflect the article's content accurately while maintaining the moral perspective. I'll need to ensure that the key points are covered: Chavez's actions, the coup, the opposition, the consequences, and the US's involvement.
+
+I also need to structure the response with the specified tokens: STEP 1, the list of words, then SUMMARY, and end with END OF SUMMARY. I'll make sure the summary flows naturally and includes all the necessary moral terms without making it sound forced.
+
+I should also check the word count to ensure it's within the limit. Maybe I'll draft the summary first, then count the words to adjust if needed. It's important to capture the essence of the article, highlighting the misuse of power, the coup dynamics, and the regional implications, all while using the morally charged words identified earlier.
+
+Finally, I'll review everything to make sure it meets the user's requirements and that the summary accurately reflects the article's moral framing.
+</think>
+
+### STEP 1:  
+* Tyranny  
+* Fighting  
+* Abused  
+* Heavy-handed  
+* Rewritten  
+* Past  
+* Shreds  
+* Flirtation  
+* Power  
+* Means  
+* Remove  
+* Revolution  
+* Coup  
+* Revolt  
+* Cutoff  
+* Catalyst  
+* Opposition  
+* Protest  
+* March  
+* Palace  
+* Gunshots  
+* Killed  
+* Forced  
+* Step aside  
+* International pressure  
+* Domestic support  
+* Let  
+* Take office again  
+* Welcomed  
+* Tarnishing  
+* Champion  
+* Repent  
+
+---
+
+### SUMMARY:  
+The article discusses the political turmoil in Venezuela, highlighting the moral failings of President Hugo Chavez and the coup that temporarily removed him from power. Chavez, a former coup leader himself, abused his mandate by rewriting the Constitution and pursuing authoritarian measures. His economic promises to the poor were unfulfilled, and his alliance with leftist dictators raised concerns about his power grab. A two-day coup emerged after Chavez attempted to control the state oil company, sparking opposition from business groups, labor unions, and parts of the military. Violence erupted during a march on the presidential palace, leading to Chavez's temporary removal. However, international pressure and renewed domestic support forced the military to restore him. The Bush administration's tacit support for the coup tarnished the U.S. image as a democracy champion, underscoring the need for nonviolent, constitutional solutions to address Chavez's authoritarian tactics. END OF SUMMARY.

@@ -1,0 +1,50 @@
+Alright, I need to help the user with their query. They want me to act as a news summarizer and a moral expert. The task has two parts: first, identify morally framed words, and then write a summary preserving those words.
+
+Starting with STEP 1, I need to go through the article and pick out words that carry moral implications. Let me read through the article again. Words like "arrested," "injured," "protests," "police killings," "black men," "rioting," "extreme incident," "arrests," "pelted," "rocks," "rebar," "incendiary devices," "Molotov cocktails," "significant," "life-threatening," "extreme incident," "protests," "march," "governor's mansion," "demonstrations nationwide," "deaths," "shot," "traffic stop," "scuffle," "sniper attack," "murdered," "targeted," "denounced," "attack," "violence," "public servants," "disgusted," "tolerate," "peaceful," "violent," "thrown," "firework," "arrested," "pepper-sprayed," "cordial."
+
+Now, for the summary, I need to condense the article into 200 words, keeping as many of these moral words as possible. I'll start by outlining the main points: over 100 arrests, injuries, protests turning violent, the context of recent police killings, the use of Molotov cocktails, police response with smoke bombs, the contrast between peaceful and violent protests, and the aftermath including the governor's meeting.
+
+I'll make sure to include the morally charged words like "arrested," "injured," "protests," "police killings," "black men," "rioting," "extreme incident," "pelted," "Molotov cocktails," "significant," "life-threatening," "disgusted," "tolerate," "peaceful," "violent," "thrown," "firework," "arrested," "pepper-sprayed," "cordial."
+
+Putting it all together, I'll structure the summary to flow from the events of the protests, the violence, police response, the context of recent killings, and the aftermath. I'll ensure the summary is concise and within the word limit.
+</think>
+
+**STEP 1:**  
+* arrested  
+* injured  
+* protests  
+* police killings  
+* black men  
+* rioting  
+* extreme incident  
+* pelted  
+* rocks  
+* rebar  
+* incendiary devices  
+* Molotov cocktails  
+* significant  
+* life-threatening  
+* demonstrations  
+* deaths  
+* shot  
+* traffic stop  
+* scuffle  
+* sniper attack  
+* murdered  
+* targeted  
+* denounced  
+* attack  
+* violence  
+* public servants  
+* disgusted  
+* tolerate  
+* peaceful  
+* violent  
+* thrown  
+* firework  
+* arrested  
+* pepper-sprayed  
+* cordial  
+
+**SUMMARY:**  
+Over 100 people were arrested and 21 police officers injured in Minnesota during violent protests over recent police killings of black men. The protests, which started peacefully, turned into rioting as demonstrators pelted police with rocks, rebar, and Molotov cocktails. St. Paul Mayor Chris Coleman called the incident "extreme," with significant but non-life-threatening injuries to officers. The protests followed the deaths of Philando Castile and Alton Sterling, two black men killed by police. Police used smoke bombs to disperse protesters blocking Interstate 94, and some demonstrators turned violent, throwing debris at officers. St. Paul Police Chief Todd Axtell expressed disgust at the violence, calling it the worst he had seen in his 28 years on the job. Meanwhile, Minnesota Gov. Mark Dayton met with Castile's family, though details of the meeting were not disclosed. The incident highlighted the ongoing tension between police and protesters in the wake of recent police violence. END OF SUMMARY.

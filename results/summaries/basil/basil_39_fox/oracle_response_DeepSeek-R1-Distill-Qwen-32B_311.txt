@@ -1,0 +1,14 @@
+Okay, so the user has given me a query where they want me to act as a news summarizer and a moral expert. They provided a news article about the Cheney sisters' disagreement on same-sex marriage. The user also specified that I need to preserve the moral framing words like "love" and "support" in the summary. 
+
+First, I need to read the article carefully. Mary Cheney is criticizing her sister Elizabeth for her stance on same-sex marriage. Mary is openly lesbian and supports equal rights, while Elizabeth thinks it should be decided by states. The article mentions their father, Dick Cheney, who also supports same-sex marriage but agrees with Elizabeth on the state-level decision.
+
+Now, the user wants a summary that includes the morally framed words. I should identify those in the article: "love" and "support." I need to make sure these words are included in the summary. 
+
+I should start by introducing the conflict between the sisters, using "love" when Mary expresses her feelings towards Elizabeth. Then, highlight Mary's support for equal rights and her sister's stance on state-level decisions. Also, mention Dick Cheney's support and his stance on the matter.
+
+I need to keep the summary concise, under 200 words, and end with the specified tokens. I'll structure it to include the key points: the sisters' disagreement, their positions, and their father's support. I'll make sure to use the moral words naturally within the context.
+
+Let me draft the summary, ensuring it's clear and includes all necessary points without being too lengthy. I'll check the word count to stay within the limit. Once done, I'll present it after the "SUMMARY:" token and end with "END OF SUMMARY."
+</think>
+
+SUMMARY: Mary Cheney, an openly lesbian daughter of former Vice President Dick Cheney, has criticized her sister Elizabeth, a Wyoming Senate candidate, over Elizabeth's stance on same-sex marriage. Mary expressed her "love" for her sister but disagreed with her position, stating that "freedom means freedom for everyone" and that all families deserve equal rights. Elizabeth, however, argued that the issue should be decided by the people in each state, not by judges or legislators. Mary countered, asserting that such decisions should not be left to a "show of hands." Dick Cheney has publicly "supported" same-sex marriage but echoed Elizabeth's view that the matter should be resolved on a state-by-state basis. The sisters' disagreement highlights a divide within their family over this contentious issue. END OF SUMMARY.

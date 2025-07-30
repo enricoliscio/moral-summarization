@@ -1,0 +1,29 @@
+Okay, so I need to help this user by summarizing a news article while preserving the moral framing. Let me break down the query to understand exactly what's needed.
+
+First, the user wants me to act as a news summarizer and a moral expert. The task has two main parts. The first step is to identify all the single words in the article that carry a moral connotation. I should list each of these words with a bullet point. The second part is to write a concise summary, making sure to include as many of these morally framed words as possible, keeping it under 200 words.
+
+Looking at the provided article, I need to go through each sentence and pick out words that have a moral or ethical implication. Words like "indicted," "vendetta," "wrongdoing," "vindicated," "erroneous," "improper," "threatened," "secretly," and "unsealed" stand out. These words convey judgment or moral evaluation, which is crucial for the summary.
+
+Next, for the summary, I have to condense the article while retaining these moral terms. I should mention Rep. Grimm's expected indictment, his lawyer's claims of a politically driven vendetta, the charges related to mail and wire fraud, the campaign finance issues, the incident with the reporter, and the secret indictment. I need to ensure the summary flows naturally and stays within the word limit.
+
+I should also structure the summary clearly, starting with the indictment, then the lawyer's statement, followed by the charges and background, and ending with the current status of the case. Making sure each morally framed word is included where appropriate without making the summary too verbose.
+
+I need to double-check that all the key points from the article are covered: the indictment, the nature of the charges, the lawyer's defense, the history of the investigation, the recent incident, and the upcoming unsealing of the indictment. Also, I should maintain a neutral tone while incorporating the moral language to reflect the author's framing.
+
+Finally, I'll review the summary to ensure it's under 200 words and that all morally framed words are appropriately included. This should meet the user's requirements effectively.
+</think>
+
+**STEP 1:**  
+* Indicted  
+* Vendetta  
+* Wrongdoing  
+* Vindicated  
+* Erroneous  
+* Improper  
+* Threatened  
+* Secretly  
+* Unsealed  
+
+**SUMMARY:**  
+Rep. Michael Grimm (R-N.Y.) is expected to be indicted for mail fraud and wire fraud related to his ownership of a health food restaurant after leaving the FBI in 2006. Grimm's lawyer, William McGinley, claims the investigation is a politically driven vendetta, asserting Grimm's innocence and promising his eventual vindication. The Justice Department began investigating Grimm in 2021 over erroneous campaign finance reports and improper donations. Recently, Grimm threatened a reporter in the Capitol. A federal grand jury in Brooklyn has secretly indicted him, and the charges are expected to be unsealed soon. Grimm will continue serving his constituents while awaiting resolution.  
+**END OF SUMMARY.**

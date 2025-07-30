@@ -1,0 +1,29 @@
+Alright, so the user has given me a task to summarize a news article while preserving the moral framing. They also want me to identify all the morally framed single words first. Let me break this down.
+
+First, I need to understand what constitutes a morally framed word. These are words that carry a value judgment or imply a moral stance. Words like "protect," "sustainable," "commitment," "responsible," "global warming," "curbing," "commitment," "opportunity," "positive," "stewardship," and "sustainable" come to mind as they relate to environmental responsibility and ethical decision-making.
+
+Next, I'll go through the article to spot these words. The article talks about Jordan considering the Kyoto Protocol despite the US not signing it. The Minister emphasizes environmental protection and sustainable development, which are key moral points. The FTA with the US includes environmental clauses, but Jordan is still pursuing the Kyoto Protocol, showing their commitment to environmental responsibility.
+
+Now, for the summary, I need to condense the article into 200 words, keeping the moral framing intact. I'll mention Jordan's consideration of the Kyoto Protocol, the environmental clauses in the FTA, the Minister's stance on sustainable development, and how signing the protocol is seen as a positive step despite the US's decision. I'll also note that the US has its own issues, but Jordan is focused on clean industry and sustainable development.
+
+I should ensure that the summary flows logically, highlighting Jordan's proactive approach to environmental issues and their alignment with international efforts, even when it differs from the US's stance. This will preserve the moral framing by emphasizing responsibility and commitment to the environment.
+
+Finally, I'll structure the response with the STEP 1 listing all the moral words and then the SUMMARY, making sure it's concise and within the word limit.
+</think>
+
+**STEP 1:**  
+* Protect  
+* Sustainable  
+* Commitment  
+* Responsible  
+* Global warming  
+* Curbing  
+* Commitment  
+* Opportunity  
+* Positive  
+* Stewardship  
+* Sustainable  
+
+**SUMMARY:**  
+Jordan is considering signing the Kyoto Protocol on global warming, despite the US rejecting it. The country's Free Trade Agreement (FTA) with the US includes environmental clauses, but Jordan believes it can independently pursue environmental agreements. Minister Abdul Razzaq Tbeishat emphasized Jordan's commitment to sustainable development, stating that environmental protection is essential for progress. Jordan aims to sign the Kyoto Protocol to reduce greenhouse gas emissions, aligning with its goal of clean industry and sustainable growth. While the US faces economic challenges, Jordan focuses on its own path to environmental responsibility. The Kyoto Protocol, signed by 160 countries, requires industrialized nations to cut emissions, but the US withdrew under the Bush administration. Jordan sees signing the protocol as a positive step toward achieving its environmental goals.  
+**END OF SUMMARY.**

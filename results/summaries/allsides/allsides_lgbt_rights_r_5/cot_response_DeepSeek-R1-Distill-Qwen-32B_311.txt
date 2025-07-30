@@ -1,0 +1,47 @@
+Okay, so the user wants me to act as a news summarizer assistant and a moral expert. They provided a news article about President Obama criticizing Uganda's anti-homosexuality bill. My task is to first identify all the morally framed single words and then write a summary preserving those moral terms.
+
+First, I need to read through the article carefully. I'm looking for words that carry moral connotations. Words like "warned," "criminalize," "complicate," "valued relationship," "defending," "gay rights," "pledged," "step backward," "human rights," "freedom," "justice," "equal rights," "disappointed," "affront," "danger," "commitment," "protection," "fundamental freedoms," "universal human rights," "treated equally," "alarm," "life imprisonment," "affront," "danger," "deter," "recruiting," "discrimination," "jail terms," "progress," "banning," "gay propaganda," and "moment of progress." These words all carry moral weight, so I'll list them as STEP 1.
+
+Next, for the summary, I need to condense the article while keeping these moral terms. I'll start by mentioning Obama's warning to Uganda about the bill, highlighting that it complicates their relationship. I'll note his defense of gay rights and the bill's impact on human rights and equal rights. I'll include his disappointment and the implications for Uganda's international standing. I'll also mention the potential consequences like life imprisonment and the pressure from the U.S. and rights groups. Finally, I'll tie it into Obama's broader support for gay rights and the implications for Uganda's relationship with the U.S.
+
+I need to make sure the summary is concise, under 200 words, and includes as many of the moral terms as possible without making it too wordy. I'll structure it to flow logically, starting with the warning, the moral implications, the consequences, and the broader context of Obama's stance on gay rights.
+
+I think I've covered all the key points and included the necessary moral terms. Let me check the word count to ensure it's within the limit. The summary seems to be around 190 words, so that should be good.
+</think>
+
+**STEP 1:**  
+* warned  
+* criminalize  
+* complicate  
+* valued  
+* defend  
+* rights  
+* pledged  
+* step backward  
+* human rights  
+* freedom  
+* justice  
+* equal rights  
+* disappointed  
+* affront  
+* danger  
+* commitment  
+* protection  
+* fundamental freedoms  
+* universal human rights  
+* treated equally  
+* alarm  
+* life imprisonment  
+* affront  
+* danger  
+* deter  
+* recruiting  
+* discrimination  
+* jail terms  
+* progress  
+* banning  
+* gay propaganda  
+* moment of progress  
+
+**SUMMARY:**  
+President Obama criticized Uganda's plan to criminalize homosexuality, stating it would "complicate our valued relationship" and mark a "step backward" for human rights. He emphasized the U.S. commitment to protecting fundamental freedoms and equal rights, expressing deep disappointment over the legislation, which would criminalize homosexuality and prescribe life imprisonment for certain acts. Obama warned that the bill would reflect poorly on Uganda's commitment to human rights and freedom. The bill, supported by Christian clerics, aims to deter Western homosexuals from "recruiting" Ugandan children. The U.S., Uganda's largest donor, has urged President Museveni not to sign the bill, and any enactment could strain their relationship. Obama has consistently supported gay rights, including same-sex marriage and lifting the ban on openly gay military service. His stance highlights the moral and human rights implications of Uganda's legislation, which aligns with broader global concerns about discrimination and justice. END OF SUMMARY.

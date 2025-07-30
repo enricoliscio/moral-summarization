@@ -1,0 +1,26 @@
+Okay, so I need to help this user by summarizing a news article while preserving the moral framing. Let me read the query again. The user wants me to act as a news summarizer and a moral expert. They provided a news article and specific instructions on how to process it.
+
+First, the task has two steps. Step 1 is to identify all single words that are morally framed. I need to go through the article and pick out words that carry moral connotations. Words like "ruined," "lied," "consequences," "destroyed," "strong," and "fairness" come to mind. These words indicate judgment or evaluation, so they're morally framed.
+
+Next, in Step 2, I have to write a summary using as many of these words as possible. The summary needs to be concise, under 200 words, and end with specific tokens. I should make sure the moral framing is preserved, so I'll include those words to reflect the author's perspective.
+
+Looking at the article, President Trump is criticizing the FBI's treatment of Michael Flynn compared to Hillary Clinton. He feels Flynn was harshly punished, while Clinton faced no consequences despite lying. The summary should capture Trump's empathy for Flynn and his criticism of the double standard, using the identified moral words to convey that.
+
+I need to ensure the summary flows well and includes all key points: Trump's comments, Flynn's guilty plea, the comparison to Clinton, and the context of the Mueller investigation. I'll structure it to highlight the moral judgment Trump is expressing, using the words like "ruined," "lied," and "destroyed."
+
+Let me check if I have all the necessary points. Trump felt badly for Flynn, Flynn lied, Hillary lied many times, nothing happened to her, and Flynn's life was destroyed. Also, mention the Mueller investigation for context. I think that covers the main points while preserving the moral framing.
+
+I should also make sure the summary is clear and within the word limit. Let me draft it, making sure each sentence includes the moral words where appropriate without making it sound forced. The goal is to maintain the author's original moral stance in the summary.
+</think>
+
+**STEP 1:**  
+* Ruined  
+* Lied  
+* Consequences  
+* Destroyed  
+* Strong  
+* Fairness  
+
+**SUMMARY:**  
+President Trump criticized the F.B.I. for ruining the life of his former national security adviser, Michael Flynn, while noting that Hillary Clinton, his Democratic opponent, lied "many times" to the F.B.I. without facing consequences. Flynn pleaded guilty to lying to the F.B.I. about his conversations with the Russian ambassador, and Trump expressed empathy for Flynn, stating he "led a very strong life." Trump contrasted Flynn's fate with Clinton's lack of accountability, though he did not specify her alleged lies. The special counsel investigation, led by Robert Mueller, is intensifying its focus on Trump's inner circle, raising questions about fairness in federal investigations. Trump's comments highlight a perceived double standard in how Flynn and Clinton were treated by the F.B.I.  
+**END OF SUMMARY.**

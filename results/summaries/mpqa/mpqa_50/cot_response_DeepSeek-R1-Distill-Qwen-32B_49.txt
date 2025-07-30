@@ -1,0 +1,35 @@
+Alright, so I need to help the user by summarizing a news article while preserving the moral framing. Let me first understand the query. The user provided a detailed news article about Robert Mugabe's reelection in Zimbabwe, with reactions from various African countries, the OAU, SADC, and condemnations from Western countries. They want me to do two things: first, identify all the single words that are morally framed, and then write a concise summary using as many of those words as possible.
+
+Starting with STEP 1, I need to go through the article and pick out words that carry moral connotations. Words like "praised," "condemned," "free," "fair," "transparent," "credible," "tragedy," "consistent," "defending," "inalienable," "sovereign," "flawed," "violence," "intimidation," "stolen," "legitimate," "aid," and "sanctions" come to mind. These words reflect judgments or evaluations, which is what moral framing is about.
+
+Now, for the summary, I have to make sure it's under 200 words and includes as many of these words as possible. I'll need to structure it to show the contrasting reactions: African support and Western criticism. I should mention the OAU and SADC's positive assessments, the African leaders' congratulations, and then the Western countries' condemnations, including the reasons they gave and the actions they're taking, like sanctions and cutting aid.
+
+I need to ensure the summary flows well, starting with Mugabe's reelection, then the reactions from different groups, and ending with the implications. I should avoid adding any new information not in the article and stick strictly to the content provided.
+
+Let me check the word count as I draft. I'll make sure each sentence is concise and includes the key morally framed words without making it too verbose. Also, I need to end with the specified tokens, so I'll make sure to include "SUMMARY:" and "END OF SUMMARY." correctly.
+
+I think I've covered all the necessary points. Let me review the summary to ensure it's within the word limit and accurately reflects the moral framing from the original article.
+</think>
+
+**STEP 1:**  
+* praised  
+* condemned  
+* free  
+* fair  
+* transparent  
+* credible  
+* tragedy  
+* consistent  
+* defending  
+* inalienable  
+* sovereign  
+* flawed  
+* violence  
+* intimidation  
+* stolen  
+* legitimate  
+* aid  
+* sanctions  
+
+**SUMMARY:**  
+Zimbabwean President Robert Mugabe's reelection was praised by the Organization of African Unity (OAU) and African countries but condemned by some Western nations. The OAU observer team declared the March 9-11 elections "free and fair," while Tanzanian President Benjamin Mkapa called Mugabe a "champion of democracy." Kenyan President Daniel arap Moi and the Southern African Development Community (SADC) also endorsed the results, stating they reflected the people's will. However, Western countries criticized the election as "flawed," with the U.S., UK, France, Germany, and Denmark accusing Zimbabwe of "violence," "intimidation," and "stolen" votes. The EU and Denmark threatened sanctions and aid cuts. Mugabe secured 56.2% of the vote, defeating opposition leader Morgan Tsvangirai. END OF SUMMARY.

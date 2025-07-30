@@ -1,0 +1,16 @@
+Alright, I need to help the user by summarizing the provided news article. The user is acting as a news summarizer assistant, so my task is to create a concise summary of the article. 
+
+First, I'll read through the article to understand the main points. The article discusses the reaction of Lebanese officials to the US State Department's human rights report. They are dissatisfied but not surprised by the report's content. The report criticizes Lebanon for issues like weakening central government authority, judicial independence, and intelligence monitoring. However, it also praises the Lebanese press for its critical role.
+
+I should identify the key elements: who (Lebanese officials and the US report), what (criticism and dissatisfaction), and the main points of the report. I need to keep the summary under 200 words, so I'll focus on the essential details without getting into too much detail.
+
+I'll start by stating that Lebanese officials are dissatisfied with the US report. Then, mention the specific criticisms and the praise for the press. I'll also note that the report is seen as discrediting Lebanon and that the officials plan to respond. I should ensure the summary flows well and covers all critical points without being too lengthy.
+
+I need to make sure the summary starts with "SUMMARY:" and ends with "END OF SUMMARY." Also, it should be clear and concise, avoiding any markdown or extra formatting as per the user's instructions.
+
+I'll structure the summary to first mention the officials' reaction, then the contents of the report, the officials' response plan, and finally the praise for the press. This way, it's logical and covers all necessary information succinctly.
+
+After drafting, I'll check the word count to ensure it's within the limit and that all key points are included without unnecessary details.
+</think>
+
+SUMMARY: Lebanese officials expressed dissatisfaction with the US State Department's annual human rights report, which criticized Lebanon for weakening central government authority, judicial independence, and intelligence monitoring of opposition politicians. The report was seen as discrediting Lebanon's image as democratic and civilized. Officials noted the criticism is an annual occurrence and not solely directed at Lebanon. The report was handed to the Foreign Ministry, which plans to distribute it to relevant ministries and respond to the US. While the report criticized the judiciary and intelligence activities, it also praised the Lebanese press for its critical role. The authorities conveyed their concerns to US Ambassador Vincent Battle. END OF SUMMARY.

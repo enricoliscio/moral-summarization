@@ -1,0 +1,13 @@
+Okay, so the user has given me a query where they want a news summarizer assistant and a moral expert to summarize a news article. The key points here are that the summary needs to preserve the moral framing the author used. They provided a list of morally framed words that should be included as much as possible. 
+
+First, I need to read through the article to understand the main points. Reddit is shutting down over 2,000 communities due to hate speech, especially in the context of ongoing equality protests. They mention specific subreddits like "The_Donald" and "Gender Critical." The author uses words like "banned," "hosted," "promoted," and "genocide," which are important to include.
+
+I should structure the summary to highlight Reddit's actions, the reasons behind the bans, and the moral implications. I'll need to make sure to incorporate as many of the listed words as possible without making the summary too long—under 200 words. I'll start by stating the main action, then the reasons, and conclude with the ongoing efforts against hate speech.
+
+I also need to ensure that the summary flows naturally and maintains the moral tone. Words like "curtail," "banned," "hosted," and "promoted" will help convey the severity. I should avoid adding any personal opinions and stick strictly to summarizing the article while preserving the moral framing.
+
+After drafting, I'll review to ensure all key points are covered and that the moral language is appropriately included. This should meet the user's requirements effectively.
+</think>
+
+SUMMARY:  
+Reddit has shut down over 2,000 communities, including "The_Donald," "Gender Critical," and "CapoTrapHouse," to curtail hate speech amid protests for gender, racial, and LGBTQ+ equality. These communities were banned for consistently hosting rule-breaking content, antagonizing others, and refusing to meet basic expectations. "The_Donald" promoted hate speech even before the 2016 election, hosting discussions on "white genocide" and ethnic cleansing. "Gender Critical" spewed anti-trans rhetoric, denying trans women’s identities and supporting TERF ideologies. Reddit emphasized its responsibility to mitigate hate and support its communities by enforcing stricter policies. The purge is part of an ongoing effort to combat hate speech and create a safer platform. END OF SUMMARY.

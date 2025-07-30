@@ -1,0 +1,14 @@
+Alright, so the user has given me a query where they want me to summarize a news article. They provided the article in detail, and they want the summary to be concise, no longer than 200 words. They also specified that the summary should start with "SUMMARY:" and end with "END OF SUMMARY.".
+
+First, I need to read through the article carefully to understand the main points. The article is about the U.S. House of Representatives passing a bill to ban taxpayer funding for abortions. There was another bill about late-term abortions that was pulled due to opposition from moderate Republicans. The key points include the vote count, the White House's veto threat, the March for Life event, the internal conflicts within the GOP, and the reactions from various members and leaders.
+
+I should identify the main events: the passage of the taxpayer bill, the withdrawal of the 20-week abortion bill, the reasons behind it (like the rape exception provision), the reactions from Pelosi, the impact on the party's image, and future legislative challenges.
+
+I need to make sure the summary is concise, capturing all these elements without going into too much detail. I'll start by stating the passage of the taxpayer bill, mention the withdrawal of the other bill, explain the reasons, and then touch on the reactions and implications.
+
+I should also keep the language clear and straightforward, avoiding any markdown or formatting as per the user's instructions. I'll make sure the summary flows logically, covering each main point succinctly.
+
+Finally, I'll check the word count to ensure it's under 200 words and that it starts and ends with the specified tokens. I'll also make sure the summary is accurate and reflects all critical aspects of the article without bias.
+</think>
+
+SUMMARY: The GOP-controlled U.S. House of Representatives passed a bill banning federal taxpayer funding for abortions, with a 242-179 vote. A more restrictive bill targeting "late-term" abortions was withdrawn after moderate Republicans opposed it, citing its extreme nature. The bill's provision requiring rape victims to file police reports for abortion access was criticized as impractical. The White House threatened to veto the taxpayer bill, while anti-abortion activists gathered for the "March for Life." Republican leaders faced criticism for focusing on abortion over job creation, and internal party divisions emerged, with centrist members arguing the bill sent a harmful message. The withdrawal was seen as a rare win for moderates, with some GOP members calling for a focus on broader economic issues. The bill's author expressed disappointment but remained hopeful for future votes. END OF SUMMARY.

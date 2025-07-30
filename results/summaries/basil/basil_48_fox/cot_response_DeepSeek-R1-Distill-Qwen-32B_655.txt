@@ -1,0 +1,26 @@
+Alright, I need to tackle this query. The user provided a news article and wants me to summarize it while preserving the moral framing. They also asked for two steps: first, identifying all morally framed single words, and then writing a concise summary.
+
+First, I'll read through the article carefully. The main points are about Elizabeth Lauten's Facebook post criticizing the Obama daughters, her apology, and the context of the Thanksgiving event. 
+
+For Step 1, I need to pick out words that carry moral implications. Words like "critical," "class," "respect," "disrespect," "good role model," "hurtful," and "apologized" stand out. These words reflect judgments about behavior and character.
+
+Next, for the summary, I have to condense the article into under 200 words, keeping the moral elements. I'll mention Lauten's criticism, her use of terms like "class" and "respect," the context of the event, and her subsequent apology acknowledging the hurt caused. I should also note that no public response was made by the White House or Fincher.
+
+I need to ensure the summary flows well and includes all key points without exceeding the word limit. I'll structure it to first state the main event, then the specifics of her comments, the context, her apology, and the lack of response from others.
+
+I should double-check that all morally framed words are included and that the summary accurately reflects the article's content and tone. Making sure it's concise but comprehensive is important here.
+</think>
+
+**STEP 1:**  
+* Critical  
+* Class  
+* Respect  
+* Disrespect  
+* Good role model  
+* Hurtful  
+* Apologized  
+
+**SUMMARY:**  
+A Republican communications director, Elizabeth Lauten, apologized after posting a critical comment about the Obama daughters, Malia and Sasha, on Facebook. She criticized their outfits and demeanor during the Thanksgiving turkey pardoning ceremony, suggesting they should "show a little class" and "dress like they deserve respect." Lauten also criticized the Obamas for not respecting their positions or the nation, implying the girls lacked good role models. After receiving backlash, Lauten apologized, acknowledging her judgment was hurtful and vowing to learn from the experience. The White House and her employer, Rep. Stephen Fincher, did not respond publicly.  
+
+**END OF SUMMARY.**

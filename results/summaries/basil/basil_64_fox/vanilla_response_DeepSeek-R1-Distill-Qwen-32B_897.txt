@@ -1,0 +1,16 @@
+Alright, so I'm trying to figure out how to approach this query. The user has provided a news article and wants a summary of it. They've specified that the summary should come after a "SUMMARY:" token and end with "END OF SUMMARY." Also, it needs to be no longer than 200 words.
+
+First, I'll read through the article to understand the main points. It's about Supreme Court Justice Ruth Bader Ginsburg facing backlash for her comments about Donald Trump. She criticized him as a "faker" and unqualified, which led to a lot of reactions from both Republicans and Democrats, as well as media outlets. Trump called her comments inappropriate and urged her to resign. Even some Democrats were critical, though a few supported her.
+
+Next, I need to identify the key elements to include in the summary. The main points are Ginsburg's comments, the reactions from Trump, Republican leaders, Democrats, and the media. Also, the fact that some defended her but the majority criticized her.
+
+I should structure the summary to start with Ginsburg's comments and the backlash, then move on to the reactions from different groups, and finally mention the support she received. I need to keep it concise, so I'll focus on the most significant reactions and avoid getting too detailed.
+
+I'll make sure to mention the bipartisan criticism, Trump's call for her resignation, the media's stance on judicial impartiality, and the few who supported her. I should also note that her comments were seen as inappropriate for a Supreme Court justice.
+
+Now, I'll draft the summary, ensuring it's under 200 words and flows logically. I'll check the word count to make sure it's within the limit. Also, I'll ensure that the summary starts and ends with the specified tokens.
+
+Finally, I'll review the summary to make sure it captures all the essential points without unnecessary details, maintaining clarity and conciseness.
+</think>
+
+SUMMARY: Supreme Court Justice Ruth Bader Ginsburg faced widespread criticism after harshly criticizing Donald Trump, calling him a "faker" and questioning his qualifications for presidency. Her comments sparked bipartisan backlash, with Trump urging her to resign and Republican leaders like Mitch McConnell and Paul Ryan condemning her remarks as "inappropriate" and biased. Even some Democrats expressed concern, though liberal figures like Bernie Sanders defended her stance. Media outlets criticized her for politicizing the judiciary, citing the need for judicial impartiality. Ginsburg's comments, while aligning with her known views, drew significant scrutiny for their timing and content, highlighting tensions between judicial decorum and public discourse. END OF SUMMARY.

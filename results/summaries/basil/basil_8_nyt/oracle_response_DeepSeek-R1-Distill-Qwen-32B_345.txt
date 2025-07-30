@@ -1,0 +1,14 @@
+Okay, so I need to help the user by summarizing this news article while preserving the moral framing. The user provided the article and a list of morally framed words. My task is to create a concise summary using those words where possible. 
+
+First, I'll read through the article to understand the main points. It's about Larry Summers warning about a double-dip recession if the tax deal isn't passed. Obama is defending the deal against criticism from Democrats, saying it makes sense and urging Congress to act. Biden is meeting with House Democrats to sell the compromise. The administration is using economic forecasts to support the deal, but there's a lot of outrage from liberals. Some Democrats oppose the deal, and there's a strong pushback from the White House to get it done.
+
+Now, I need to identify the key morally framed words: failure, increase, recession, done, action, choose, helping, conflagration, screwed, extended, create, outrage, back, won, vote. I should incorporate as many as possible without making the summary awkward.
+
+I'll structure the summary by highlighting Summers' warning, Obama's defense, Biden's efforts, the administration's support, and the opposition. I'll make sure to include words like "failure," "increase," "recession," "done," "action," "helping," "outrage," and "vote."
+
+I need to keep it under 200 words. Let me draft a few sentences, ensuring each key point is covered and the moral framing is maintained. I'll check that each sentence flows logically and includes the necessary terms without forcing them in.
+
+Finally, I'll make sure the summary starts with "SUMMARY:" and ends with "END OF SUMMARY." to meet the user's formatting requirements.
+</think>
+
+SUMMARY: Larry Summers warned that failing to pass the tax deal would increase the risk of a double-dip recession, emphasizing the need for action to avoid economic harm. President Obama defended the deal, arguing it makes sense and urging Congress to examine it thoroughly before voting. Vice President Biden is meeting with House Democrats to sell the compromise, while the administration highlights endorsements from economists and officials, projecting job creation and economic growth. However, the deal has sparked outrage among liberals and some Democrats, with over three dozen House members opposing it. Summers and Axelrod have warned that failing to extend tax cuts could leave middle-class Americans "screwed." Despite efforts to quell opposition, many remain firmly against the deal, with some calling it "fiscally irresponsible" and urging Obama not to back down. The administration faces a tough battle to get the deal done, with key players like Biden and Axelrod working to rally support. END OF SUMMARY.

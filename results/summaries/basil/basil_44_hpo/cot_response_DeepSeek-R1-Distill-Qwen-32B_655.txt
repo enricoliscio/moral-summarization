@@ -1,0 +1,35 @@
+Okay, so the user has provided a news article about Rep. Michael Grimm being indicted. They want me to act as a news summarizer and a moral expert. The task is to first identify all the morally framed words in the article, then write a summary preserving those moral framings.
+
+First, I need to understand what morally framed words are. These are words that carry a positive or negative connotation related to ethics or morality. So, I'll go through the article and pick out words that express approval, disapproval, or moral judgment.
+
+Looking at the article, words like "indicted," "fraud," "vendetta," "wrongdoing," "vindicated," "dedication," "tenacity," "public service," "decorated," "erroneous," "improper," "threatened," and "secretly" stand out. Each of these carries a moral weight, either positive or negative.
+
+Next, I need to write a summary that includes as many of these words as possible. The summary should be concise, around 200 words, and capture the essence of the article while maintaining the moral framing.
+
+I'll start by noting that Grimm is expected to be indicted, which is a serious charge. His lawyer claims the investigation is politically motivated, which adds a negative moral angle. The charges include fraud related to his restaurant, which is another negative point. The Justice Department's investigation into campaign finance issues adds more negative framing. The incident where he threatened a reporter also carries a negative connotation. However, the lawyer's statement about Grimm's dedication and public service provides a positive moral framing.
+
+Putting it all together, the summary should mention the indictment, the lawyer's accusations of a politically driven vendetta, the fraud charges, the campaign finance issues, the threat incident, and the positive aspects of Grimm's service. I need to ensure that all the morally framed words are included without making the summary too long.
+
+I should also check that the summary flows well and accurately represents the article's content. It's important to balance the negative and positive moral framings to give a fair yet concise overview.
+
+Alright, I think I have a good structure for the summary. I'll make sure to include all the key points and the morally charged words to meet the user's requirements.
+</think>
+
+**STEP 1:**  
+* Indicted  
+* Fraud  
+* Vendetta  
+* Wrongdoing  
+* Vindicated  
+* Dedication  
+* Tenacity  
+* Public service  
+* Decorated  
+* Erroneous  
+* Improper  
+* Threatened  
+* Secretly  
+
+**SUMMARY:**  
+Rep. Michael Grimm (R-N.Y.) is expected to be indicted on charges of mail fraud and wire fraud related to his ownership of a health food restaurant after leaving the FBI in 2006. His lawyer, William McGinley, accused the government of pursuing a politically driven vendetta against Grimm, asserting his innocence and claiming he will be vindicated. Grimm has been accused of filing erroneous campaign finance reports and accepting improper donations during his first congressional campaign. Additionally, he recently threatened a reporter in the Capitol. Grimm, a Marine Corps combat veteran and decorated FBI Special Agent, continues to serve his constituents with dedication and tenacity. The indictment, which was secretly filed by a federal grand jury, is expected to be unsealed soon.  
+**END OF SUMMARY.**

@@ -1,0 +1,20 @@
+Okay, so the user has given me a news article and wants a summary. They specified that the summary should be after a "SUMMARY:" token and end with "END OF SUMMARY." Also, it needs to be no longer than 200 words. 
+
+First, I need to read through the article carefully to understand the main points. The article is about Robert Mueller's team disputing a Buzzfeed report that President Trump directed Michael Cohen to lie to Congress about the Trump Tower in Moscow. 
+
+I should identify the key elements: who is involved (Mueller, Buzzfeed, Trump, Cohen), the main event (dispute over Buzzfeed's report), and the implications (possible obstruction of justice, impeachment talk, etc.). 
+
+I need to make sure the summary is concise but covers all important aspects. I should mention that Mueller's team denied Buzzfeed's report, Buzzfeed's response, the Democrats' reactions, and Trump's defense. 
+
+I also need to keep the language clear and straightforward, avoiding any unnecessary details. The summary should flow logically, starting with the dispute, then the Buzzfeed report's claims, Mueller's denial, Buzzfeed's stand, Democrats' actions, and Trump's response.
+
+I'll structure it by first stating the main event, then the details of the Buzzfeed report, Mueller's denial, Buzzfeed's response, the political implications, and finally Trump's stance. 
+
+I should also check the word count to ensure it's under 200 words. I'll draft it and then trim any redundant information to stay within the limit.
+
+Alright, putting it all together now.
+</think>
+
+SUMMARY:  
+Robert Mueller’s team has disputed Buzzfeed’s report claiming President Trump directed Michael Cohen to lie to Congress about the Trump Tower in Moscow. Mueller’s spokesperson denied Buzzfeed’s description of statements and documents, but did not directly address whether Trump ordered Cohen to lie. Buzzfeed stands by its reporting, which suggests Trump may have obstructed justice, sparking calls for impeachment from Democrats. Senate Judiciary Committee member Dianne Feinstein and House Intelligence Committee Chair Adam Schiff are seeking to investigate further. Trump denies the allegations, accusing Cohen of lying to reduce his jail time. The ongoing investigation adds uncertainty to Mueller’s findings on Trump’s ties to Russia.  
+END OF SUMMARY.

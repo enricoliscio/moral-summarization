@@ -1,0 +1,40 @@
+Okay, so I need to help the user with their query. They provided a news article and specific instructions. Let me break it down.
+
+First, the user wants me to act as a news summarizer assistant and a moral expert. My task is to summarize the article while preserving the moral framing the author used. 
+
+The article is about the impeachment discussions in the US Congress, focusing on Rashida Tlaib's comments and the reactions from both parties. It's a detailed piece with various perspectives.
+
+The user's instructions have two main parts. Step 1 is to identify all single words that are morally framed. I need to go through the article and pick out words that carry moral connotations. These could include words like "impeachment," "exuberant," "profanely," "disgraceful," etc. I should list each on a new line with an asterisk.
+
+Then, in Step 2, I have to write a concise summary, keeping the morally framed words as much as possible. The summary should be under 200 words, start with "SUMMARY:" and end with "END OF SUMMARY."
+
+I need to make sure that the summary captures the key points: Tlaib's statement, the reactions from both parties, the political implications, and the ongoing investigations. I should maintain the moral tone by including words like "dishonored," "disgraceful," "unapologetically," etc.
+
+I also need to ensure that the summary flows well and covers all important aspects without being too lengthy. I should avoid any markdown and keep it in plain text as per the user's request.
+
+Let me start by reading through the article again to pick out the morally charged words. Then, I'll craft a summary that includes these words, ensuring it's within the word limit and captures the essence of the article's moral framing.
+</think>
+
+### STEP 1:
+* Impeachment  
+* Exuberant  
+* Expletive-laden  
+* Profanely  
+* Destroy  
+* Out-of-control  
+* Truth to power  
+* Unapologetically  
+* Disgraceful  
+* Dishonored  
+* Disrespectful  
+* Threatening  
+* Obstructed justice  
+* Collaborated  
+* High crimes and misdemeanors  
+* Martyr  
+
+---
+
+### SUMMARY:
+The article details the fallout from Representative Rashida Tlaib’s profane impeachment promise, which sparked widespread debate and moral outrage. Tlaib’s exuberant statement, “we’re going to impeach the motherfucker,” drew criticism from Republicans, who labeled her comments disgraceful and disrespectful. President Trump also condemned her, stating she dishonored herself and her family. Meanwhile, Democratic leaders, including Nancy Pelosi, distanced themselves from Tlaib’s remarks, emphasizing that impeachment discussions were premature and politically risky. Pelosi and others argued that impeachment should not be pursued for political reasons but rather based on factual evidence. However, Tlaib stood by her comments, declaring she would always speak truth to power. The article highlights the tension between Democratic leaders’ cautious approach and the growing pressure from the left to impeach Trump. Some Democrats, like Representatives Brad Sherman and Al Green, have already introduced articles of impeachment, focusing on obstruction of justice. The situation underscores the ongoing political and moral divide in Washington.  
+END OF SUMMARY.

@@ -1,0 +1,23 @@
+Okay, so the user has given me a task where I need to act as a news summarizer and a moral expert. They provided a news article and specific instructions on how to process it. Let me break down what they're asking for.
+
+First, the user wants me to identify all the single words that are morally framed in the article. They mentioned this as "STEP 1:" and each word should be listed with a star. I need to go through the article and pick out words that carry a moral connotation. Words like "rejected," "violator," "killed," "innocent," "maltreated," "denounces," "injustices," "discriminatory," and "unjust" come to mind. These words are charged with moral judgment, so they fit the criteria.
+
+Next, the user wants a summary of the article that preserves the moral framing. The summary needs to be concise, under 200 words, and should include as many of those morally framed words as possible. I should start by outlining the main points: Seyed Qamar Abbas rejecting the US report, criticizing America's human rights violations, mentioning the war on terror, Israel's actions, and the double standard policy. I need to make sure the summary flows well and includes all the key moral points without being too lengthy.
+
+I also need to structure my response correctly, starting with "STEP 1:" listing each word, followed by "SUMMARY:" and ending with "END OF SUMMARY." I should avoid any markdown and keep the language clear and direct. Let me make sure I don't miss any morally framed words and that the summary accurately reflects the article's moral stance against the US's policies.
+</think>
+
+**STEP 1:**  
+* Rejected  
+* Violator  
+* Killed  
+* Innocent  
+* Maltreated  
+* Denounces  
+* Injustices  
+* Discriminatory  
+* Unjust  
+
+**SUMMARY:**  
+Seyed Qamar Abbas, the Central Leader of Pakistan People's Party (PPP), has strongly rejected the US State Department's report on human rights violations in Iran and other countries. He accused America of hypocrisy, citing its role in killing thousands of innocent people globally, particularly in the Muslim world, under the guise of the "war on terror." Abbas criticized the US for maltreating Afghan prisoners and its double-standard policy, where it denounces human rights violations while supporting Israel's actions against Muslims in Palestine and Lebanon. He argued that independent nations not submissive to US dictates are labeled as human rights violators, while those compliant receive favors. Abbas condemned the US for prioritizing its strategic and economic interests over justice, calling its policies unjust and discriminatory. He expressed hope that the world can no longer be deceived by America's injustices.  
+**END OF SUMMARY.**

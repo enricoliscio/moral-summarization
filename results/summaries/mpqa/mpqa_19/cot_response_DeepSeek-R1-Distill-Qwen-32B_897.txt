@@ -1,0 +1,26 @@
+Okay, so I need to help the user by summarizing the news article they provided. They mentioned that I should act as a news summarizer and a moral expert, preserving the moral framing from the original text. 
+
+First, I need to understand the structure of their query. They provided a news article about Tony Blair's disagreement with Australia's decision to sign a climate change deal with the US. Then, they outlined two steps: identifying morally framed words and then writing a summary that includes as many of those words as possible.
+
+In STEP 1, I have to go through the article and pick out words that carry a moral connotation. I'll read through each sentence carefully. Words like "disagreed," "deny," "dumping," "cosying up," "hurt," "commitment," "should," "concerned," and "position" seem to carry moral weight. These words imply judgment or evaluation, which fits the moral framing.
+
+Next, for the summary, I need to condense the article while keeping the moral elements intact. I should mention Blair's disagreement, Australia's stance, the partnership with the US, critics' opinions, the Kyoto Protocol's future, the government's commitment, the opposition's view, Blair's concerns, and his stance on individual countries' positions.
+
+I need to make sure the summary is concise, under 200 words, and flows naturally. I'll start by stating Blair's disagreement, then explain Australia's position, the partnership details, critics' points, the protocol's future, government and opposition statements, Blair's doubts about the protocol's adequacy, and his emphasis on countries stating their own positions.
+
+I should avoid adding any new information not present in the article and ensure that the moral words are included where appropriate. Let me piece this together step by step, making sure each part is clear and the moral framing is preserved.
+</think>
+
+**STEP 1:**  
+* Disagreed  
+* Deny  
+* Dumping  
+* Cosying up  
+* Hurt  
+* Commitment  
+* Should  
+* Concerned  
+* Position  
+
+**SUMMARY:**  
+Tony Blair expressed disagreement with Australia's decision to sign a climate change deal with the US, signaling potential divergence from the Kyoto Protocol. Australia maintains its commitment to Kyoto, despite critics arguing it is "cosying up" to the US, which opposes the protocol. The Australian-US "climate action partnership" focuses on collaboration between governments, businesses, and researchers. Blair criticized the US stance on climate change, stating it is an area of "obvious disagreement." While he acknowledged the protocol may not go far enough, he emphasized that each country must decide its position. The future of the Kyoto Protocol, aimed at reducing pollution, will be decided at an upcoming meeting in Johannesburg. END OF SUMMARY.

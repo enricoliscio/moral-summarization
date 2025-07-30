@@ -1,0 +1,27 @@
+Alright, let's tackle this query. The user has provided a news article about Donald Trump visiting Mexico and the reactions from Vicente Fox. They want me to act as a news summarizer and a moral expert. 
+
+First, I need to identify the morally framed words. I'll go through the article and pick out words that carry a strong moral connotation. Words like "demonized," "reject," "disregard," "false prophet," "misleading," "desperate," "sagging," "stop lying," "respect," "cynically," "unwelcome," and "disgrace" stand out because they express judgment or criticism.
+
+Next, I have to summarize the article, making sure to include these moral terms. The summary should be concise, under 200 words. I'll start by stating Trump's visit and Fox's opposition. Then, I'll outline Fox's criticisms of Trump's policies and character, highlighting the moral framing. I'll also mention Trump's response and the broader implications of the visit. 
+
+I need to ensure the summary flows well and accurately reflects the article's content while preserving the moral language. I'll check the word count to make sure it's within the limit. Finally, I'll format the response as per the user's instructions, separating the steps clearly.
+</think>
+
+### STEP 1:  
+* demonized  
+* reject  
+* disregard  
+* false prophet  
+* misleading  
+* desperate  
+* sagging  
+* stop lying  
+* respect  
+* cynically  
+* unwelcome  
+* disgrace  
+
+---
+
+### SUMMARY:  
+Donald Trump is set to meet with Mexico's President Enrique Peña Nieto, but former Mexican President Vicente Fox has strongly criticized the visit, calling Trump "unwelcome" and accusing him of demonizing Mexicans. Fox condemned Trump's border wall plan and his shifting stance on deporting undocumented immigrants, labeling him a "false prophet" who cannot be trusted. Fox also accused Trump of being unqualified to lead, both as a businessman and a potential president. Trump, in response, mocked Fox's past suggestion that he visit Mexico. Fox fired back, demanding Trump apologize to Mexicans and stop lying, emphasizing that Mexico is not a political pawn. The visit, Fox believes, is a desperate attempt by Trump to boost his sagging poll numbers, urging Americans not to vote for him. Trump's planned trip has sparked widespread criticism, highlighting the deep divisions over his policies and character. END OF SUMMARY.

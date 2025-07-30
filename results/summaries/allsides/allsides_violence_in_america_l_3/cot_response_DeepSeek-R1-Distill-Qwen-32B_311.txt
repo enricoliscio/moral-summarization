@@ -1,0 +1,28 @@
+<think>
+Okay, so I need to help the user by summarizing this news article while preserving the moral framing. Let me start by understanding the task. The user provided a detailed news article about Chicago's violent crime spike and wants a summary that includes the morally framed words identified in the first step.
+
+First, I should go through the article to identify all the single words that carry a moral connotation. Words like "sobering," "staggering," "spike," "illegal," "emboldened," "deterrent," "joke," "predominantly," "susceptible," "arrests," "protests," "weakened," "reluctant," "nefarious." These words are crucial because they highlight the moral aspects of the issue, such as the severity of the problem, the breakdown of the justice system, and the societal implications.
+
+Next, I need to write a concise summary using these words. The summary should be under 200 words and include the morally framed terms to maintain the original article's tone. I'll start by mentioning the record-breaking homicides and shootings, then touch on the factors like illegal guns and police reluctance. I'll also include Superintendent Johnson's points about the deterrent failure and the impact of the McDonald shooting video. Finally, I'll note the city's efforts to combat the violence.
+
+I need to make sure the summary flows well and covers all key points without being too verbose. I'll structure it to first present the statistics, then the causes, and finally the responses from the authorities. This approach should effectively convey the moral framing while keeping the summary informative and within the word limit.
+</think>
+
+**STEP 1:**  
+* Sobering  
+* Staggering  
+* Spike  
+* Illegal  
+* Emboldened  
+* Deterrent  
+* Joke  
+* Predominantly  
+* Susceptible  
+* Arrests  
+* Protests  
+* Weakened  
+* Reluctant  
+* Nefarious  
+
+**SUMMARY:**  
+Chicago experienced its most violent year in two decades, with 762 homicides and 3,550 shooting incidents, surpassing New York and Los Angeles combined. The surge in illegal guns and a lack of deterrent have emboldened criminals, with gang activity concentrated in poor, predominantly black neighborhoods. Superintendent Eddie Johnson highlighted the failure of the criminal justice system, noting that minor offenders often face harsher penalties than gun offenders. The release of the Laquan McDonald shooting video and subsequent protests have made officers more cautious, leading to fewer arrests and increased crime. Initiatives like street cameras and gunshot-detection systems aim to reduce violence, but critics argue criminals exploit the weakened police presence. The moral framing underscores the breakdown of public safety, systemic injustice, and the devastating impact on vulnerable communities. END OF SUMMARY.

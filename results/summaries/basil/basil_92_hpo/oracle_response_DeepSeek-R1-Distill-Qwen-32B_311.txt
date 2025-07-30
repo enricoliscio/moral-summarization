@@ -1,0 +1,14 @@
+Alright, I need to help the user by summarizing the given news article while preserving the moral framing. The user provided a detailed article and a list of morally framed words that should be included. 
+
+First, I'll read through the article to understand the main points. It's about Robert Mueller's team disputing BuzzFeed's report that Trump directed Cohen to lie to Congress. The article mentions Mueller's statement, BuzzFeed's response, reactions from Democrats, and Trump's defense.
+
+Next, I'll identify the key morally charged words from the list that are present in the article. Words like "directed," "lie," "inaccurate," "orders," "acknowledge," "instructions," "obstructed," "crime," "interfere," "follow," "lying," and "reduce" are all used.
+
+I need to create a concise summary, under 200 words, that includes these words. I'll structure it by first stating Mueller's dispute, then BuzzFeed's defense, followed by the implications for Trump, and the reactions from Democrats and Trump himself.
+
+I should ensure that the summary flows logically, starting with the main event, followed by the responses, and ending with the consequences. I'll make sure each sentence incorporates the moral framing words without making it sound forced.
+
+Finally, I'll check the word count to ensure it's within the limit and that all important points are covered without unnecessary details. This way, the summary accurately reflects the article's moral perspective as intended by the user.
+</think>
+
+SUMMARY: Special counsel Robert Mueller’s team disputed BuzzFeed’s report that President Trump directed attorney Michael Cohen to lie to Congress about the Trump Tower in Moscow. Mueller’s office called BuzzFeed’s description of statements and documents "inaccurate," but did not directly deny Trump’s alleged orders to Cohen. BuzzFeed stood by its reporting, which suggested Trump may have obstructed justice, potentially leading to impeachment or criminal charges. Democrats, including Sen. Dianne Feinstein and Rep. Adam Schiff, called for Mueller to release information on the Moscow deal, with Feinstein stating that if Trump directed Cohen to lie, it would constitute a crime. Trump denied the allegations, accusing Cohen of lying to reduce his jail time. The investigation into Trump’s actions continues, with Mueller’s office not yet clarifying its stance on the allegations. END OF SUMMARY.

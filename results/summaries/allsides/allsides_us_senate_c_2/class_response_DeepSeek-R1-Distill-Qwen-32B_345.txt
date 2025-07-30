@@ -1,0 +1,15 @@
+<think>
+Okay, so I'm trying to figure out how to approach this query. The user has given me a news article and wants a summary that preserves the moral framing. They've specified to use as many of the morally framed words as possible, which are listed. The summary needs to be concise, under 200 words, and follow a specific format with tokens.
+
+First, I'll read through the article to understand the main points. It's about House Democrats introducing a bill to protect Dreamers, but the Senate Republicans are unlikely to pass it due to internal conflicts and their stance on immigration. The article mentions the DREAM Act's history, how support from Republicans has dwindled, and the current political climate making it difficult for the bill to pass.
+
+Next, I need to identify the morally framed words the author used. They are: punish, protected, entitled, die, protect, ravaged, killed, bring, amended, amendments, use, amend. I should make sure these words are included in the summary where appropriate.
+
+I'll structure the summary by highlighting the introduction of the bill, the Senate's resistance, the history of the DREAM Act, the shift in Republican views, and the challenges in passing the bill. I'll use the moral words to emphasize the key points, like how Dreamers are being punished, protected, and entitled to citizenship, while Republicans face internal conflicts over amendments and the use of the bill for other purposes.
+
+I need to keep the summary under 200 words, so I'll be concise but make sure each moral word is included where it makes sense. I'll also ensure the summary flows logically, starting from the bill's introduction, the Senate's stance, historical context, and the current political obstacles.
+
+Finally, I'll format the summary with the "SUMMARY:" token at the beginning and "END OF SUMMARY." at the end, making sure it's clear and meets all the user's requirements.
+</think>
+
+SUMMARY: House Democrats introduced the Dream and Promise Act to grant permanent protections to undocumented immigrants brought to the U.S. as children, but Senate Republicans are unlikely to pass it due to internal conflicts over "amnesty" and border security. Once supported by many Republicans, the DREAM Act has faced opposition as the party's conservative wing increasingly views it as "amnesty." The bill's fate is dire in the Senate, where members face risks and little payoff for supporting it. Sen. Roy Blunt, while "pro-Dreamers," hesitated to commit to voting for the bill, reflecting the GOP's reluctance to act without border security concessions. Sen. Lindsey Graham suggested seeking a "more comprehensive solution," while Sen. Marco Rubio criticized the standalone bill, citing amendments that could derail it. The bill would create a pathway to citizenship for Dreamers and those with Temporary Protected Status, but its prospects in the Senate remain bleak. END OF SUMMARY.

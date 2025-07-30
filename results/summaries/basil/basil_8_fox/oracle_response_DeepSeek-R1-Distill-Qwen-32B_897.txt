@@ -1,0 +1,16 @@
+Alright, so I've got this query where the user wants me to summarize a news article while preserving the moral framing. Let me break this down.
+
+First, I need to understand the task. The user provided a news article about Larry Summers warning about a double-dip recession if a tax cut isn't passed. They also listed morally framed words that need to be included in the summary. The key is to keep the summary under 200 words and include as many of those words as possible.
+
+I'll start by reading the article to get the main points. It's about the tax deal, the risks of not passing it, the criticism from Democrats, and the internal conflicts within the party. The moral words are failure, raise, increase, stall, have, reviews, deal, prevent, get, listening.
+
+Now, I need to structure the summary. I'll mention Summers' warning about failure leading to increased risk of a double-dip. Then, note the criticism from Democrats and the internal opposition. Include Pelosi's call to prevent the bill and Biden's efforts. Highlight that Obama is urging passage but House Democrats aren't listening. Finally, mention the impasse and the moral framing words used.
+
+I need to make sure each of those moral words is included without forcing them. Maybe "failure to pass," "raise the risk," "increase the risk," "deal," "prevent," "get," and "listening." I'll weave them naturally into the summary.
+
+I should also keep the summary concise, so I'll focus on the main actors and their positions. Make sure it's clear that there's division within the Democrats and the potential consequences of not passing the deal.
+
+Let me draft the summary, ensuring it's under 200 words and includes all the necessary moral terms. I'll check the word count and adjust if needed. Finally, I'll present it after the "SUMMARY:" token and end with "END OF SUMMARY."
+</think>
+
+SUMMARY: Outgoing White House economic adviser Larry Summers warned that failure to pass a new tax cut compromise would significantly raise the risk of a double-dip recession. He emphasized that Congress would not take a step that "materially increases the risk that this economy will stall out." However, liberal Democrats criticized the deal, arguing it giveaways to the rich, such as extending tax cuts for higher earners and lowering estate taxes. Senate Democrats have asked for changes to the bill, while House Democrats, led by Reps. DeFazio, McDermott, and Inslee, are trying to prevent the compromise from reaching the floor. They aim to block the bill unless a majority of Democrats support it. Summers and Obama argue the deal is necessary to boost the economy, but House Democrats are not listening, with Pelosi calling the estate tax provision "a bridge too far." The impasse continues as the Senate prepares to move forward with the bill despite the lack of consensus. END OF SUMMARY.

@@ -1,0 +1,15 @@
+<think>
+Okay, so the user wants me to summarize a news article while preserving the moral framing. They provided the article and a list of morally framed words. I need to make sure to include those words in the summary.
+
+First, I'll read through the article to understand the main points. It's about John Bolton's book with accusations against Trump. The key points are the accusations, Trump's response, legal actions, and the political implications.
+
+I need to identify the morally charged words: executing, lies, ruled, resigned, put, sharing, wrongdoing, justice, violations, suffer, refused, voted, acquit.
+
+I'll start by mentioning Bolton's book and the accusations. I should use "executing" and "violations." Then, note Trump's response with "lies" and the legal action. The judge's ruling with "ruled" is important. Mention Bolton's tenure and the political reactions, using "refused" and "voted."
+
+Next, the debate over the book's timing and impact. Use "sharing" and "justice." Highlight the accusations about China and their impact on Trump's image. Finally, the political consequences for senators, using "suffer" and "acquit."
+
+I'll structure the summary to include all these points concisely, ensuring the moral words are integrated naturally. Keep it under 200 words and end with the specified tokens.
+</think>
+
+SUMMARY: Former national security adviser John Bolton's upcoming book contains scathing accusations against President Trump, including claims of wrongdoing, such as seeking election help from China, endorsing China's treatment of Muslims, discussing executing journalists, and engaging in Ukraine dealings that led to impeachment. Trump dismisses the book as "lies" and "made-up stories," while the administration tried to block its release, claiming it contains classified information. A federal judge ruled in Bolton's favor, allowing the book to proceed. Bolton, who resigned or was fired in 2019, was not subpoenaed by Democrats during the impeachment inquiry due to concerns over legal battles. Republicans also declined to seek his testimony. The book's release has sparked debate, with critics arguing Bolton put personal profit over sharing his claims publicly, potentially undermining their impact during the impeachment trial. Some argue the accusations could still harm Trump, especially regarding his conciliatory approach to China. Democrats are considering seeking Bolton's testimony. The book's revelations may politically damage Trump, particularly as voters assess his handling of the pandemic and racial justice protests. Republican senators who refused to hear his testimony and voted to acquit Trump may suffer politically as Bolton's account confirms the severity of the president's alleged violations. END OF SUMMARY.

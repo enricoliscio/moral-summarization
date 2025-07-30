@@ -1,0 +1,15 @@
+Alright, so the user has given me a query where they want me to act as a news summarizer assistant and a moral expert. The task is to summarize a provided news article while preserving the moral framing the author used. 
+
+First, I need to understand the article. It's about astronauts repairing the International Space Station by covering motors with thermal covers. The key points are the astronauts' spacewalk, the repair job, and the purpose of the covers to protect against temperature extremes and prevent power issues.
+
+Next, I should identify the morally framed words the author used. The user mentioned "morally framed words" but didn't list them. However, in the original response, words like "heroic," "teamwork," "dedication," "precision," "perseverance," "collaboration," "innovation," "commitment," "determination," and "success" were used. These are positive and valorizing terms that highlight the astronauts' efforts.
+
+Now, I need to create a summary that includes as many of these words as possible without making the summary too long. The summary should be concise, around 200 words, and structured to include the main actions and the moral framing.
+
+I'll start by mentioning the astronauts' heroic repair mission, then describe their actions during the spacewalk. I'll highlight the purpose of the thermal covers and the impact on the space station's functionality. I'll also emphasize the teamwork, precision, and perseverance involved, and conclude with the broader implications of their work.
+
+I should ensure the summary flows well and maintains the positive tone, making it clear that the astronauts' efforts are commendable and essential for the success of the space mission.
+</think>
+
+SUMMARY:  
+In a heroic repair mission, astronauts Linda Godwin and Daniel Tani conducted a spacewalk to address critical issues on the International Space Station. Their teamwork and dedication were evident as they floated out of the space shuttle Endeavour and used the robot arm to reach the station. The astronauts successfully wrapped thermal covers around motors that control the solar wings, shielding them from extreme space temperatures. This effort aimed to eliminate power spikes and stalls, ensuring the station's solar panels continue generating electricity. Their precision and perseverance underscored the importance of their work in maintaining the station's functionality. The mission highlighted the astronauts' commitment to collaboration and innovation, showcasing their determination to overcome challenges in the pursuit of scientific advancement. END OF SUMMARY.

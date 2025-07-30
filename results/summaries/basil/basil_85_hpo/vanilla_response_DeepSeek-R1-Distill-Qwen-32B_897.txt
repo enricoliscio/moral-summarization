@@ -1,0 +1,16 @@
+Okay, so the user wants me to summarize a news article about President Trump's tweets against social media companies. They provided the article and an example of how they want the summary. I need to make sure I follow the instructions precisely.
+
+First, I should read the article carefully. It says Trump accused social media companies of discriminating against Republicans and conservatives. He mentioned that too many voices are being destroyed and suggested letting everyone participate, both good and bad. He criticized the companies for closing down opinions on the right while not doing anything to others. He also talked about censorship being dangerous and impossible to police, and brought up "fake news" media like CNN and MSNBC, which he watches but with skepticism. He didn't name anyone specific, but recent bans of Alex Jones were mentioned.
+
+I need to condense this into a summary of no more than 200 words. The summary should start with "SUMMARY:" and end with "END OF SUMMARY." I should include Trump's main points: his accusation of discrimination, the suggestion to let all voices participate, his criticism of censorship, the mention of fake news, and the reference to recent bans without naming Alex Jones.
+
+I should make sure the summary is concise and captures all key points without being too detailed. Also, I need to keep the language clear and straightforward, avoiding any markdown or special formatting as per the user's request.
+
+Let me structure it step by step. Start with Trump's accusation, then his solution, mention the censorship point, the fake news reference, and the recent bans. Make sure it flows well and stays within the word limit.
+
+I think that's all. Time to put it together.
+</think>
+
+SUMMARY:  
+President Donald Trump criticized social media companies on Twitter, alleging they "totally discriminate against Republican/Conservative voices." He argued that "too many voices are being destroyed" and proposed allowing "good & bad" voices to participate, leaving it up to users to "figure it out." Trump accused the platforms of suppressing right-wing opinions while ignoring others, calling censorship "dangerous" and "impossible to police." He also criticized "fake news" outlets like CNN and MSNBC, which he watches but with skepticism. While not naming anyone, his comments came amid recent bans of conspiracy theorist Alex Jones and his website Infowars from major platforms.  
+END OF SUMMARY.

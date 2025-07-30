@@ -1,0 +1,44 @@
+Alright, I need to tackle this query. The user wants me to act as a news summarizer and a moral expert. They provided a news article about the Republican National Convention and Obama's response. My task is twofold: first, identify all morally framed single words, and then summarize the article preserving those moral framings.
+
+Starting with STEP 1, I need to go through the article and pick out words that carry moral connotations. Words like "disappointment," "spinning," "mock," "unfulfilled," "failed," "bad," "opportunity," "protection," "hope," "promised," "transform," "heal," "save," "bad," "bad," "bad," "opportunity," "protection," "unique," "afforded," "leadership," "model," "vowed," "protection," "unique," "afforded," "leadership," "model," "vowed," "protection," "unique," "afforded," "leadership," "model," "vowed," "protection," "unique," "afforded," "leadership," "model," "vowed." I should list each of these, each on a new line with a *.
+
+Next, for the summary, I need to condense the article into 200 words, keeping the moral language intact. The key points are: the RNC focused on disappointment, Obama's team dismissed it, but the GOP subtly shifted their message by pretending to be Obama supporters, highlighting unfulfilled promises. Romney and Rubio made specific points about Obama's failures. The convention also showcased positive aspects with Ryan, Rubio, and Martinez, aiming to connect with Obama supporters. The overall strategy was a strategic move rather than a direct attack.
+
+I need to ensure the summary flows well and includes the morally framed words identified. I'll start by stating the main theme, then mention the GOP's strategy, the specific criticisms, and the positive elements they presented. I'll conclude by noting the strategic shift in their approach.
+
+I should double-check that I'm not exceeding 200 words and that all the moral words are included where appropriate. Also, ensure the summary is clear and captures the essence of the article without losing the moral framing.
+</think>
+
+**STEP 1:**  
+* disappointment  
+* mock  
+* unfulfilled  
+* failed  
+* bad  
+* opportunity  
+* protection  
+* hope  
+* promised  
+* transform  
+* heal  
+* save  
+* bad  
+* bad  
+* bad  
+* opportunity  
+* protection  
+* unique  
+* afforded  
+* leadership  
+* model  
+* vowed  
+* protection  
+* unique  
+* afforded  
+* leadership  
+* model  
+* vowed  
+
+**SUMMARY:**  
+The Republican National Convention in Tampa focused on the theme of disappointment, targeting President Barack Obama's unfulfilled promises and potential. While Obama's team dismissed the convention as a "complete miss," the GOP strategically shifted their messaging to portray themselves as Obama 2008 supporters, lamenting his failure to deliver on his promises. Mitt Romney criticized Obama's record, while Marco Rubio emphasized that the issue was not Obama being a "bad person" but a "bad president." The convention avoided shrill attacks and instead presented a more nuanced critique, blending tough criticism with positive messaging. For example, Paul Ryan highlighted his mother as a role model, and Rubio and Susana Martinez emphasized the unique opportunities the U.S. provides. This subtle strategy aimed to shift momentum and soften Obama's image, signaling a more dangerous approach for his campaign.  
+**END OF SUMMARY.**

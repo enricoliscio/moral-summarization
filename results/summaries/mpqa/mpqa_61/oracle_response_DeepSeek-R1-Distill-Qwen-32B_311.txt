@@ -1,0 +1,14 @@
+Okay, so the user has provided a query where they want me to act as a news summarizer and moral expert. The task is to summarize a given news article while preserving the moral framing that the author used. The user has specified that I need to use the morally framed words provided in the article and keep the summary under 200 words. 
+
+First, I need to understand the article. It's about the Kyoto Protocol and its potential economic costs for Canada. The author argues that implementing Kyoto would cost jobs and money, and that the benefits are minimal, especially since other countries, especially developing ones, aren't covered. The moral framing words include terms like "frightening," "hitting," "paying," etc., which I need to incorporate.
+
+I should start by identifying the main points: the economic cost, the Prime Minister's dismissal of the figures, the source of the $40 billion figure, the minimal impact on global emissions, and the suggestion to focus on helping developing nations instead.
+
+Now, I need to condense this into a summary. I'll mention the study's findings, the Prime Minister's reaction, the source of the cost figure, the minimal global impact, and the alternative approach. I should use the moral words where appropriate, like "frightening," "hitting," "protect," etc.
+
+I also need to ensure the summary flows well and stays within the word limit. Let me draft it step by step, making sure each key point is covered concisely and the moral terms are included naturally.
+
+Finally, I'll check the word count to ensure it's under 200 words and that all the specified moral words are preserved as much as possible without forcing them in.
+</think>
+
+SUMMARY: A study by the Canadian Manufacturers and Exporters warns that implementing the Kyoto Protocol could cost Canada 450,000 jobs and $40 billion, figures the Prime Minister dismisses as unfounded. However, these numbers are drawn from government reports, highlighting the potential economic toll. The Kyoto target may "hit" Canada's economy hard, with a $40 billion loss in annual output by 2010, or $1,100 per capita. The author argues this price is not worth paying, as global warming poses little threat to Canada and the benefits of Kyoto are minimal. The protocol would reduce emissions by just 46 million tonnes, or 1/200th of global output, while the cost to the world economy could reach $2 trillion in lost GDP. Instead of "capping" emissions, the author suggests focusing on "abating" the damage in vulnerable nations through "assistance," such as helping farmers adapt, vaccinating populations, and relocating communities. This approach would be less costly and more effective than the Kyoto Protocol. END OF SUMMARY.

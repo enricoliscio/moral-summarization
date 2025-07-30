@@ -1,0 +1,39 @@
+Alright, let's tackle this query. The user has provided a news article and specific instructions. They want me to first identify all the single words that are morally framed in the text. Then, I need to summarize the article while preserving those moral terms. 
+
+First, I'll read through the article to understand the context. It's about Senate Majority Leader Mitch McConnell's response to CIA findings on Russian interference in the U.S. election. There are mentions of various senators, their calls for investigations, and the political implications.
+
+For step one, I need to find words that carry moral connotations. Words like "disturbing," "should," "capable," "complete," "ideal," "responsible," "illegal," "partisan," "delegitimize," "ridiculous," "conspiracy," "nonsense," "bitter," "opposite," and "card" come to mind. These words imply judgment or evaluation, so they're morally framed.
+
+Next, the summary needs to incorporate as many of these words as possible while being concise. I'll focus on McConnell's stance, the calls for investigations, the partisan angle, and the reactions from Trump and his team. I'll ensure the summary stays under 200 words and captures the key points with the moral terms included.
+
+I should structure the summary to highlight McConnell's dismissal of a special committee, his emphasis on the Intelligence Committee's capability, the bipartisan approach, and the political implications. Also, include Trump's dismissal of the CIA report and the accusations of partisanship.
+
+I need to make sure the summary flows well and accurately reflects the article's content while maintaining the moral framing. Let me piece this together, ensuring each point is clear and concise.
+</think>
+
+**STEP 1:**
+
+Here are the morally framed words identified in the text:
+
+* Disturbing  
+* Should  
+* Capable  
+* Complete  
+* Ideal  
+* Responsible  
+* Illegal  
+* Partisan  
+* Delegitimize  
+* Ridiculous  
+* Conspiracy  
+* Nonsense  
+* Bitter  
+* Opposite  
+* Card  
+
+---
+
+**SUMMARY:**
+
+Senate Majority Leader Mitch McConnell called the allegations of Russian interference in the U.S. election "disturbing" and emphasized that the Senate Intelligence Committee is "more than capable" of conducting a "complete review" of the matter. He dismissed calls for a special bipartisan commission, stating that the Intelligence Committee should lead the investigation on a "bipartisan basis." McConnell also criticized the leak of U.S. intelligence findings, calling it "irresponsible" and potentially "illegal" for "partisan political gain." Meanwhile, Sen. John McCain advocated for a special committee to investigate the issue, while President-elect Donald Trump and his team dismissed the CIA findings as "ridiculous" and accused critics of attempting to "delegitimize" Trump's win. McConnell warned against assuming the Russians "wish us well," but declined to comment on the potential nomination of Rex Tillerson as Secretary of State. The situation highlights the ongoing tension between "partisan" accusations and the need for a "complete" and "responsible" investigation.  
+END OF SUMMARY.

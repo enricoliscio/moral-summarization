@@ -1,0 +1,46 @@
+Okay, so I need to help the user by summarizing a news article while preserving the moral framing. Let me start by understanding the task. The user provided a detailed article from CNN discussing U.S. foreign policy since 9/11, comparing Bush and Obama's approaches. The user wants me to first identify all the single words that are morally framed, then write a concise summary that includes as many of these words as possible.
+
+First, I'll go through the article to find words that carry moral connotations. Words like "unilateralist," "excess," "errors," "disengagement," "dithering," "vulnerability," "frayed," "dysfunctional," "errors," "crises," "damaged," "strained," "admit," "change," "reordered," "surge," "light footprint," "courage," "admits," "errors," "change," "acknowledge," "shortcomings," "fix," "coach-in-chief," "aloof," "sidelined," "struggles," "failure," "success," "admits," "change," "courage," "acknowledge," "shortcomings," "fix," "coach-in-chief," "aloof," "sidelined," "struggles," "failure," "success."
+
+Now, I need to summarize the article. The key points are the flawed foreign policies post-9/11, Bush's unilateralism and Iraq invasion, Obama's disengagement, the need for leaders to admit mistakes, Bush's willingness to change, and the contrast with Obama's approach. I'll make sure to include the morally framed words to preserve the author's framing.
+
+I should structure the summary to highlight the moral aspects, such as Bush's recognition of errors and changes, versus Obama's aloofness. I'll keep it under 200 words, ensuring clarity and conciseness while retaining the moral elements.
+</think>
+
+**STEP 1:**
+
+\*unilateralist  
+\*excess  
+\*errors  
+\*disengagement  
+\*dithering  
+\*vulnerability  
+\*frayed  
+\*dysfunctional  
+\*errors  
+\*crises  
+\*damaged  
+\*strained  
+\*admit  
+\*change  
+\*reordered  
+\*surge  
+\*light footprint  
+\*courage  
+\*admits  
+\*change  
+\*acknowledge  
+\*shortcomings  
+\*fix  
+\*coach-in-chief  
+\*aloof  
+\*sidelined  
+\*struggles  
+\*failure  
+\*success  
+
+**SUMMARY:**  
+
+The article critiques U.S. foreign policy since 9/11, highlighting flawed decisions and moral failures under both Bush and Obama. Bush's unilateralist excess, notably the Iraq invasion, and Obama's disengagement and dithering are criticized. The author argues that leaders must admit errors to enact change, citing Bush's willingness to reorganize his administration and implement corrective policies, such as the Iraq surge. In contrast, Obama's aloofness and sidelining of Cabinet members are seen as weaknesses. Bush's ability to acknowledge shortcomings and fix them, drawing from his personal struggles, is praised as a model for leadership. The article concludes that Obama could learn from Bush's moral courage to address foreign policy crises and strained relations.  
+
+**END OF SUMMARY.**

@@ -1,0 +1,13 @@
+<think>
+Alright, I need to help the user by summarizing the given news article while preserving the moral framing. The user specified that I should focus on the morally framed words, particularly "scandals." 
+
+First, I'll read through the article to understand the main points. It's about Chris Christie announcing his candidacy for the 2016 presidency. He's facing challenges like low poll numbers and fundraising issues. The article mentions that his status as the establishment favorite has diminished due to scandals and decreased popularity in New Jersey. Donors are moving towards other candidates like Jeb Bush. However, Christie's personality and town hall performances are highlighted as his strengths.
+
+Now, I need to craft a summary that includes the morally framed word "scandals." I should ensure the summary is concise, around 200 words, and captures the essence of the article while maintaining the moral perspective. I'll start by mentioning Christie's announcement, then touch on his challenges, including the scandals, and conclude with his potential strengths despite these issues.
+
+I should structure it so that the moral framing is clear, emphasizing how scandals have affected his campaign. I'll also include the contrast between his weaknesses and his personal appeal. Making sure to keep it within the word limit, I'll condense each point without losing the key moral elements.
+
+Finally, I'll format the summary after the "SUMMARY:" token and end with "END OF SUMMARY." to meet the user's requirements.
+</think>
+
+SUMMARY: New Jersey Governor Chris Christie is expected to announce his candidacy for the 2016 presidential race today, despite facing significant challenges. His once-strong position as the GOP establishment favorite has eroded due to scandals and declining popularity in his home state, leading many major donors to shift their support to rivals like Jeb Bush. However, Christie's brash and combative personality, honed through his town hall performances, could be his key asset. While his low poll numbers and fundraising struggles suggest an uphill battle, his ability to connect with voters through these events, often leaving them laughing, crying, or hopeful, may help him stand out in the crowded Republican field. END OF SUMMARY.

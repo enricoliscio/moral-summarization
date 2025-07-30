@@ -1,0 +1,14 @@
+Okay, so the user wants me to summarize a news article while preserving the moral framing. They provided the article, which is about the Senate approving a disaster aid package after a lot of political wrangling, especially involving President Trump. 
+
+First, I need to understand the main points. The article talks about the $19.1 billion aid package, the delays caused by Trump's issues with Puerto Rico funding and his request for border aid. It also mentions the consequences of the delay on disaster-hit areas.
+
+Now, the user specified that the summary should include the moral framing. The original text seems critical of Trump's interference, highlighting how his political moves caused unnecessary delays and suffering. So, I need to make sure that the summary reflects this criticism.
+
+I should start by stating that the Senate approved the aid after six months, mention the $19.1 billion figure, and note the delay caused by Trump. Then, explain his issues with Puerto Rico and border funding, and how the final package didn't include his demands. It's important to highlight the negative impact of the delay on the affected areas and the politicization of disaster aid.
+
+I need to keep it concise, under 200 words, so I'll have to be brief but include all key points. Also, the summary should end with the specified tokens.
+
+Let me structure it: start with the approval, mention Trump's interference, the final package details, the consequences of the delay, and the critique of politicization. That should cover all necessary points while maintaining the moral perspective.
+</think>
+
+SUMMARY: After six months of political conflict, the Senate approved a $19.1 billion disaster aid package, providing relief to millions affected by hurricanes, wildfires, and floods. The delay was largely due to President Trump's interference, including his opposition to additional funding for Puerto Rico and his demand for $4.5 billion in border aid. Despite his efforts, the final package stripped out border funding and allocated $1.4 billion to Puerto Rico, falling short of Trump's demands. The prolonged negotiations caused significant delays in aid distribution, leaving millions in disaster-hit areas without timely support. Puerto Rico, still reeling from Hurricane Maria, faced infrastructure collapse and medical crises, while other regions like Florida, Iowa, and California continued to suffer from lack of aid. The politicization of disaster aid highlights Trump's role in obstructing relief efforts, raising concerns about future responses to natural disasters. END OF SUMMARY.

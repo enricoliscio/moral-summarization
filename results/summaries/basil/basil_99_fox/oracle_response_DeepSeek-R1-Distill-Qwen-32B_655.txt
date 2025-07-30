@@ -1,0 +1,14 @@
+Okay, so the user has given me a query where they want a news summary that preserves the moral framing from the original article. They provided the article and a list of morally framed words. My task is to create a concise summary using as many of those words as possible.
+
+First, I need to read through the article carefully. It's about Republicans demanding Schiff's resignation because of his claims about Trump-Russia collusion, despite Mueller's findings. The key points are the Republicans' letter, their accusations of lying and leaking, Schiff's defense, and Pelosi's support.
+
+I should identify the morally charged words from the list and ensure they're included. Words like "collusion," "incompatible," "lying," "leaking," "outrageous," "conspiracy," "false," "undermining," "hacking," "dirt," "met," "lied," "job," and "oversight" are important.
+
+Next, I'll structure the summary to include these words while keeping it under 200 words. I need to mention Schiff's claims, the Republicans' accusations, Mueller's probe, Schiff's defense with evidence like hacking and meetings, and Pelosi's support.
+
+I should ensure the summary flows logically, starting with the Republicans' demand, their reasons, Schiff's response, and the political implications. I'll make sure each sentence incorporates the moral framing without being too verbose.
+
+Finally, I'll check the word count to ensure it's concise and meets all the requirements. The summary should reflect the moral judgment present in the original article, using the specified words to convey the conflict and accusations accurately.
+</think>
+
+SUMMARY: Every Republican on the House Intelligence Committee demanded Rep. Adam Schiff step down as chairman, citing his claims of Trump-Russia collusion as incompatible with his duties. They accused him of lying and leaking, calling his actions "outrageous" and "in conspiracy land." Despite Mueller's probe finding no evidence of collusion, Schiff insisted Trump colluded with foreign powers. Republicans criticized his "false narrative," while Schiff defended himself by pointing to Russian hacking, meetings with Russians, and lies about those meetings. Pelosi defended Schiff, calling the calls for his resignation "absolutely ridiculous," and emphasized the need for full Mueller report oversight. The conflict highlights the ongoing divide over collusion claims and the integrity of the investigation. END OF SUMMARY.

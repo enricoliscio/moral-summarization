@@ -1,0 +1,23 @@
+<think>
+Alright, I need to summarize this news article while preserving the moral framing. The user is a news summarizer assistant and a moral expert, so the summary should highlight the ethical issues in Trump's statements and actions.
+
+First, I'll read through the article to understand the main points. It talks about Trump softening his stance on immigration, meeting with Hispanic and African American groups, and making controversial claims about crime and unemployment.
+
+I notice that the article criticizes Trump for lying about immigration policies, like claiming no amnesty but suggesting a path to citizenship. There's also the issue of him overstating crime rates and unemployment statistics, which misleads the public.
+
+I should make sure the summary includes these points and the moral implications. The user wants the moral framing preserved, so I'll focus on how Trump's statements are misleading and unethical, especially when targeting minority voters.
+
+I'll structure the summary to cover each issue: immigration stance, crime claims, and unemployment statistics. Each point should highlight the moral problem, like misleading statements or false claims.
+
+I need to keep it concise, under 200 words, and ensure it flows logically. I'll start with the softened immigration stance, then move to the crime and unemployment claims, ending with the criticism of his approach.
+
+Finally, I'll make sure the summary ends with the "END OF SUMMARY." token as instructed.
+</think>
+
+SUMMARY:  
+The article highlights Donald Trump's shifting stance on immigration, his efforts to court non-white voters, and his controversial claims about crime and African American unemployment. Trump initially promoted a hardline immigration policy, including building a wall and deporting undocumented migrants. However, he later softened his position, suggesting a path to citizenship without amnesty, though his statements remain inconsistent. Critics argue his approach is misleading and unethical, especially as he targets minority communities.  
+
+Trump also made controversial claims about crime in American inner cities, comparing them to war zones, despite evidence of declining crime rates. His assertion that African American unemployment is 58% was widely criticized as statistically misleading, as the figure included individuals not actively seeking employment. Trump's attempts to appeal to Hispanic and African American voters contrast with his largely white audiences and his businesses' lack of diversity in leadership.  
+
+The article underscores Trump's tendency to make exaggerated or false claims to garner support, raising ethical concerns about his messaging and its impact on vulnerable communities.  
+END OF SUMMARY.

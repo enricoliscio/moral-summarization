@@ -1,0 +1,26 @@
+Okay, so I need to help the user with summarizing a news article while preserving the moral framing. Let me break down what they're asking. 
+
+First, the user wants me to act as a news summarizer and a moral expert. That means I need to not only condense the article but also keep the moral implications intact. The article is about the Attorney General assigning prosecutors to investigate leaks of classified information. 
+
+The user provided specific steps: first, identify all the morally framed single words, and then write a summary using those words. They also mentioned that the summary should be no longer than 200 words and end with specific tokens.
+
+So, for step one, I need to go through the article and pick out words that carry moral weight. Words like "compromise," "wrong," "offensive," "tolerated," "gravely serious," "ought," and "ought not" stand out because they express judgment or evaluation. These words are crucial for maintaining the moral framing the author intended.
+
+Next, the summary. I should include the key points: Holder assigning prosecutors, the types of leaks, Obama's denial, Feinstein's caution about a special counsel, McCain's suggestion, and the overall concern about national security. I need to make sure to incorporate the morally framed words identified earlier to keep the tone consistent with the original article.
+
+I should also be concise, ensuring the summary is under 200 words. I'll start by mentioning Holder's assignment, then touch on the leaks and their impact, Obama's response, Feinstein's stance, McCain's call for a special counsel, and the legislative efforts. I'll end by highlighting the tension between thorough investigation and the need for quick action, using the moral terms to emphasize the gravity of the situation.
+
+I need to make sure the summary flows well and includes all the essential points without being too verbose. Also, I should double-check that I'm using the correct morally framed words in context to preserve the original article's tone and message.
+</think>
+
+**STEP 1:**  
+* Compromise  
+* Wrong  
+* Offensive  
+* Tolerated  
+* Gravely serious  
+* Ought  
+* Ought not  
+
+**SUMMARY:**  
+Attorney General Eric Holder has assigned two U.S. attorneys to investigate potential leaks of classified information, following heightened concerns over the disclosure of sensitive national security details, including a secret terrorist kill list and an al-Qaida infiltration operation. Holder emphasized that such leaks "can compromise the security of this country and all Americans, and it will not be tolerated." President Obama denied accusations that the White House intentionally leaked classified material for political gain, calling such claims "offensive." Meanwhile, members of the Congressional Intelligence Committee expressed concern, with Sen. John McCain suggesting that some leaks might have been politically motivated to benefit President Obama's reelection campaign. Sen. Dianne Feinstein cautioned against appointing a special counsel due to the time it could take, instead proposing legislative changes to expand investigatory authority. Feinstein's stance highlights the tension between thorough investigation and the need for swift action to address these gravely serious breaches of national security. END OF SUMMARY.

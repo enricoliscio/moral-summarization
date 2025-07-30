@@ -1,0 +1,37 @@
+Alright, so I need to figure out how to approach this query. The user wants me to act as a news summarizer assistant and a moral expert. They provided a news article about Donald Trump pulling out of a debate and have specific instructions on how to process it.
+
+First, they want me to identify all the single words that are morally framed in the article. I should look for words that carry a moral connotation, either positive or negative. For example, words like "decided," "believe," "most watched," "substantive," "interesting," "right," "run," "independent candidate," "Republican Party," "asking," "moderate," "made waves," "considering," "pledging," "public ridicule," "decision," "endorse," "noises," "canceling," "forum," "taking place." I'll list these out as per their instructions.
+
+Next, I need to summarize the article while preserving the moral framing. The summary should be concise, no more than 200 words. I should make sure to include the morally framed words identified earlier. I'll start by stating Trump's decision to withdraw from moderating the debate, mention his reasons about not giving up his right to run independently, note the candidates who were planning to attend, and the public reaction. I'll also include his vacillation about canceling the event and the final statement that the forum was still happening.
+
+I should ensure that the summary flows naturally and includes all the key points without being too verbose. I'll make sure to highlight the moral aspects, such as his stance on independence and the criticism he faced.
+
+Finally, I'll structure the response by first listing the morally framed words and then providing the summary, all within the specified tokens. I need to keep everything clear and within the word limit. I'll review the summary to ensure it captures the essence of the article and maintains the moral framing as required.
+</think>
+
+**STEP 1:**  
+* Decided  
+* Believe  
+* Most watched  
+* Substantive  
+* Interesting  
+* Right  
+* Run  
+* Independent candidate  
+* Republican Party  
+* Asking  
+* Moderate  
+* Made waves  
+* Considering  
+* Pledging  
+* Public ridicule  
+* Decision  
+* Endorse  
+* Noises  
+* Canceling  
+* Forum  
+* Taking place  
+
+**SUMMARY:**  
+Donald Trump announced he is withdrawing from moderating a Newsmax debate, citing concerns about giving up his right to run as an independent candidate. He claimed the Republican Party was pressuring him to放弃 his independence if he wanted to moderate. Trump initially partnered with Newsmax to host the forum, but most Republican candidates declined to attend, leaving only Newt Gingrich and Rick Santorum. Trump faced public ridicule for his decision to moderate and his plan to endorse a candidate during the debate. Despite earlier statements that the forum would proceed, Trump hinted at canceling it, though he insisted on Monday night that it was still happening. His decision reflects his desire to maintain independence while engaging with the political landscape.  
+**END OF SUMMARY.**

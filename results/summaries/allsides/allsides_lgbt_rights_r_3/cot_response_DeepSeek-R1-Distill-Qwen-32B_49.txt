@@ -1,0 +1,34 @@
+Alright, let me try to figure out how to approach this query. The user has given me a news article about Drew Brees and the backlash he received for supporting a Bible program. They want me to summarize the article while preserving the moral framing. 
+
+First, I need to understand the structure of the query. It has two main parts: identifying morally framed words and then writing a summary using those words. 
+
+For the first part, I should go through the article and pick out words that carry moral connotations. Words like "broadside," "innocuous," "Christian," "excoriated," "deceptive," "bigot," "hateful," "false," "smear," "love," "respect," "accept," "discriminate," "inequality." These words are key because they convey judgment or moral evaluation.
+
+Next, I need to write a concise summary. I should make sure to include these morally framed words to maintain the author's perspective. The summary should be under 200 words and include the main points: Brees supporting the program, the backlash from the LGBTQ community, his response, and his stance on inclusivity.
+
+I have to ensure that the summary accurately reflects the article's content while highlighting the moral aspects. It's important to balance the criticism and Brees's defense without taking sides, just presenting the facts with the included moral terms.
+
+I should also check that the summary starts with "SUMMARY:" and ends with "END OF SUMMARY." to meet the user's formatting requirements. Making sure the language is clear and the summary flows logically is essential for readability.
+
+Overall, the key steps are identifying the moral terms, crafting a summary that includes them, and adhering to the word limit and formatting instructions. I need to be careful to preserve the original moral framing without adding my own bias.
+</think>
+
+**STEP 1:**  
+* broadsided  
+* innocuous  
+* Christian  
+* excoriated  
+* deceptive  
+* bigot  
+* hateful  
+* false  
+* smear  
+* love  
+* respect  
+* accept  
+* discriminate  
+* inequality  
+
+**SUMMARY:**  
+NFL quarterback Drew Brees faced backlash from the LGBTQ lobby after supporting a program encouraging children to bring Bibles to school and share their Christian faith. Brees, a devout Christian, recorded a video promoting the initiative, saying, "I want to encourage you to live out your faith... and share God's love with friends." However, allies of the LGBTQ agenda excoriated him, calling the program a "racist discriminatory religious cult" and accusing him of supporting "gay conversion therapy." Deadspin and others criticized Brees on social media, labeling him a "bigot" and associating him with a "hateful group." Brees responded by clarifying his stance, stating he "loves all, respects all, and accepts all," and denied supporting any discriminatory groups. He emphasized his commitment to inclusivity, saying, "I do not support any groups that discriminate... or promote inequality." Brees expressed confusion over the negativity and hoped to move past the controversy.  
+**END OF SUMMARY.**

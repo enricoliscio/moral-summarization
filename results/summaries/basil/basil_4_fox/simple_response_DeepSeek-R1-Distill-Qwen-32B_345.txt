@@ -1,0 +1,16 @@
+Okay, so I'm trying to figure out how to approach this query. The user wants a summary of a news article, but with a specific focus on preserving the moral framing that the author provided. They also mentioned that I should act as a news summarizer assistant and a moral expert. 
+
+First, I need to understand what the article is about. It's about Republican senators pressuring their chairman, Michael Steele, to apologize for his comments about the Afghanistan war. Steele referred to it as "Obama's war," which upset many conservatives. They think his remarks were inaccurate and disrespectful to the troops. Some, like Jim DeMint and John McCain, are calling for an apology or even his resignation. Steele tried to clarify his statement, but the backlash continued.
+
+Now, the user wants the summary to include the moral framing. That means I should highlight the moral issues involved, like respect for the troops, the importance of accurate statements, and leadership responsibilities. I should make sure that the summary reflects the author's perspective on these moral aspects.
+
+I also need to keep the summary under 200 words and format it with "SUMMARY:" at the beginning and "END OF SUMMARY." at the end. I should avoid markdown and keep the language clear and concise.
+
+Let me structure the summary. Start by mentioning the pressure on Steele, then the specifics of his comments and the reactions. Include key points from DeMint and McCain, Steele's attempt to clarify, and the ongoing criticism. Make sure to emphasize the moral elements like respect for the military and the need for accurate representation.
+
+I should double-check that I'm not adding any personal opinions, just summarizing the article while highlighting the moral aspects as the author presented them. Also, ensure the summary flows well and covers all critical points without being too lengthy.
+
+Finally, I'll review the summary to make sure it's within the word limit and properly formatted. That should meet the user's requirements effectively.
+</think>
+
+SUMMARY: Republican senators criticized RNC Chairman Michael Steele for his remarks calling Afghanistan a "war of Obama's choosing" and questioned its winnability. Prominent conservatives, including Sen. Jim DeMint and Sen. John McCain, demanded Steele apologize to the troops, emphasizing that the war is "America's war," not Obama's. DeMint criticized Steele's comments as "unacceptable" and "inaccurate," urging him to refocus on the election. McCain called the remarks "wildly inaccurate" and questioned Steele's ability to continue in his role. Steele issued a statement apologizing and reaffirming the need to support U.S. troops, but his clarification failed to quell criticism. Conservatives like Weekly Standard Editor Bill Kristol continued to call for Steele's resignation, arguing his comments were disrespectful to the military and undermined the party's unity. The controversy highlighted the importance of accurate representation and respect for U.S. troops in political discourse. END OF SUMMARY.

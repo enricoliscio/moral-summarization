@@ -1,0 +1,29 @@
+<think>
+Alright, I need to help the user by summarizing the given news article while preserving the moral framing. The user provided a detailed query with specific steps, so I should follow those carefully.
+
+First, I'll read through the article to understand the context. It's about internal disputes within the U.S. government regarding the talking points used after the Benghazi attack. There are emails showing disagreements between the CIA and State Department, particularly over what information to include.
+
+The user wants me to identify all the single words that are morally framed. I'll go through the article and pick out words that carry moral connotations. Words like "sensitive," "scrubbed," "selectively," "inaccurately," "airbrushed," "motivations," "concerns," "abused," "respected," "equities," and "final" stand out as they imply issues of ethics, fairness, and responsibility.
+
+Next, I need to write a concise summary of the article, incorporating as many of these morally framed words as possible. The summary should be under 200 words and include the key points: the internal disputes, the deletion of information, the political implications, and the release of emails to address criticism.
+
+I'll structure the summary to highlight the disagreements, the actions taken by Morell and Petraeus, the political context, and the White House's response. I'll make sure to use the identified moral words to maintain the original framing.
+
+Finally, I'll ensure the summary is clear and captures the essence of the article without unnecessary details. I'll check the word count to stay within the limit and make sure it flows logically.
+</think>
+
+**STEP 1:**  
+* Sensitive  
+* Scrubbed  
+* Selectively  
+* Inaccurately  
+* Airbrushed  
+* Motivations  
+* Concerns  
+* Abused  
+* Respected  
+* Equities  
+* Final  
+
+**SUMMARY:**  
+The release of 100 pages of White House emails revealed internal disputes over the government's talking points following the 2012 Benghazi attack. CIA Director David Petraeus and Deputy Michael Morell disagreed on how much to disclose, with Morell deleting references to CIA warnings about extremist threats, which State Department officials opposed. Petraeus dismissed the final draft, calling it unsatisfactory. The emails showed a bureaucratic tug-of-war between the CIA and State Department, with the White House mediating under time pressure. Critics accused the administration of politically motivated alterations, while the White House claimed the process focused on factual accuracy and protecting an ongoing investigation. The final talking points omitted key details, raising questions about security posture. Republicans argued the emails confirmed political interference, while the White House emphasized intelligence officials' role in the debate. The process highlighted tensions over balancing transparency and sensitivity during a critical period. END OF SUMMARY.

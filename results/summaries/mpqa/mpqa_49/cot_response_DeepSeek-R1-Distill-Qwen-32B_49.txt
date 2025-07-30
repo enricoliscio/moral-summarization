@@ -1,0 +1,31 @@
+Okay, so I'm trying to figure out how to approach this user's query. They want me to act as a news summarizer assistant and a moral expert. The task is to summarize a given news article while preserving the moral framing that the author provided. 
+
+First, I need to understand the structure of the query. The user has provided a news article about President Cardoso's response to the US decision on greenhouse gases. They've also outlined two specific steps: identifying morally framed words and then writing a summary that includes those words.
+
+Starting with STEP 1, I need to find all the single words that carry moral connotations. I'll go through the article sentence by sentence. The article mentions "positive," which is clearly a positive moral assessment. "Important" is another one, as it's highlighting the significance of the US's role. "Adopt," "control," "measures" are more about actions, but "control" can imply a positive intent. "Adopt" and "measures" are more neutral but could be framed morally depending on context. "Ratify" is a formal action, so it's more about process than morality. "Effect" is neutral. "Adhering" is about compliance, which can be seen as a positive action. 
+
+Wait, maybe I'm overcomplicating. The user wants single words that are morally framed. So "positive," "important," "control," "measures," "ratify," "effect," "adhering." Hmm, but some of these might not carry a strong moral connotation. "Positive" definitely does. "Important" is more about significance. "Control" could be seen as responsible. "Measures" is neutral. "Ratify" is an action but not inherently moral. "Effect" is neutral. "Adhering" implies compliance, which is a positive action. So maybe I should list "positive," "important," "control," "measures," "ratify," "effect," "adhering." But I'm not sure if all of these are morally framed. Maybe "positive," "important," "control," "measures," "adhering" are the ones with some moral weight.
+
+Moving on to STEP 2, the summary needs to include as many of these words as possible while being concise. The summary should reflect the positive sentiment towards the US's decision, even though they didn't ratify Kyoto. I need to make sure to include the key points: Cardoso's approval, the US's importance, the hope that their domestic measures will have the same effect as Kyoto.
+
+I should structure the summary to first state Cardoso's approval, mention the US's importance, and then express hope about their domestic measures. Including words like "positive," "important," "control," "measures," "adhering" will help preserve the moral framing.
+
+I need to keep the summary under 200 words. Let me draft it: President Cardoso approves of the US's decision to control greenhouse gases, calling it positive. He acknowledges the US's importance in the convention and hopes their domestic measures will have the same effect as adhering to the Kyoto Protocol, even without ratification.
+
+That seems to cover all the points and includes the morally framed words. I think this approach should meet the user's requirements.
+</think>
+
+**STEP 1:**  
+* Positive  
+* Important  
+* Adopt  
+* Control  
+* Measures  
+* Ratify  
+* Effect  
+* Adhering  
+
+**SUMMARY:**  
+President Fernando Henrique Cardoso praised the US decision to adopt measures to control greenhouse gases as positive, despite not ratifying the Kyoto Protocol. He emphasized the United States' importance in the global effort to address climate change and expressed hope that the domestic measures would have the same effect as adhering to the Kyoto Protocol.  
+
+END OF SUMMARY.

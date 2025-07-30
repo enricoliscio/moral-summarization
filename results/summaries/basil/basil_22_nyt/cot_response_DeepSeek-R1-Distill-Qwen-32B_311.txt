@@ -1,0 +1,36 @@
+Okay, so the user has given me a query where they want me to act as a news summarizer assistant and a moral expert. They provided a news article about Paul Ryan and the criticism he's facing from Catholic leaders. The task is to first identify all the morally framed single words in the article and then write a summary preserving those moral frames.
+
+First, I need to understand what morally framed words mean. These are words that carry a moral judgment or implication, like "excoriated," "criticism," "decimates," etc. I should go through the article and pick out each word that conveys a moral stance.
+
+Looking at the article, I see words like "excoriated," "criticism," "decimates," "weakens," "misuse," "values," "intolerant," "condemnation," "opportunity," "independence," "preferential," "tenant," "step," "address," "prioritizes," "collective." Each of these carries a moral judgment, either positive or negative.
+
+Next, I need to write a concise summary of the article, making sure to include as many of these morally framed words as possible. The summary should be under 200 words and capture the essence of the conflict between Ryan's budget and Catholic teachings, as well as the broader context of the church's stance against the Republican Party and the Obama administration.
+
+I should structure the summary to include Ryan's claim that his budget aligns with Catholic teachings, the criticism from Georgetown faculty, the comparison to Ayn Rand, the broader effort by Catholic leaders to distance the church from Republicans, the bishops' criticism of Obama's policies, and the bishops' support for aiding the poor.
+
+I need to make sure the summary flows well and includes all key points without being too verbose. I'll start by introducing Ryan and the criticism, then move to the specifics of the letter and the comparison to Rand. Then, I'll touch on the broader context of the church's stance and the bishops' actions. Finally, I'll mention Ryan's defense and the bishops' support for aid to the poor.
+
+I should double-check that all the morally framed words are included and that the summary accurately reflects the article's content while preserving the moral framing.
+</think>
+
+**STEP 1:**  
+* Excoriated  
+* Criticism  
+* Decimates  
+* Weakens  
+* Misuse  
+* Values  
+* Intolerant  
+* Condemnation  
+* Opportunity  
+* Independence  
+* Preferential  
+* Tenant  
+* Step  
+* Address  
+* Prioritizes  
+* Collective  
+
+**SUMMARY:**  
+Representative Paul D. Ryan has faced criticism from Catholic leaders for claiming his budget plan, which cuts antipoverty programs, aligns with Catholic moral teachings. Georgetown faculty and priests condemned his plan, calling it a "misuse" of Catholic teaching and accusing it of reflecting Ayn Rand’s philosophy rather than Jesus Christ’s Gospel. They argue that Catholic social doctrine calls for government intervention to address economic crises and poverty, not just promote independence. Ryan defends his plan, stating it supports the "preferential option for the poor" by reducing dependency on government. Meanwhile, Catholic bishops have criticized both the Obama administration for birth control mandates and the Republican Party for aligning with conservative policies. The bishops emphasize the need to prioritize aid to the poor, countering Ryan’s claim that his budget reflects Catholic values. The debate highlights efforts by Catholic leaders to distance the church from political parties and uphold teachings on social justice.  
+**END OF SUMMARY.**

@@ -1,0 +1,11 @@
+<think>
+Okay, so the user wants me to summarize a news article. The article is about the Islamic Human Rights Commission (IHRC) in Tehran expressing concerns about the resurgence of force in international relations, especially around the International Day for Human Rights. They also mention the UN High Commissioner for Human Rights, Mary Robinson, calling on Israel to stop bombing and allow monitors.
+
+First, I need to identify the main points. The IHRC is concerned about the return of force, mentions the importance of human rights documents, criticizes the lack of implementation, and condemns specific human rights violations. They also touch on the impact of the September 11 attacks and the use of military power. Robinson's call to Israel is another key point.
+
+I should structure the summary to include these elements concisely. I'll start by stating the IHRC's concern, then mention the international day context, the failure to implement human rights, specific violations, and the call for respect. Then, I'll add Robinson's statement about Israel.
+
+I need to keep it under 200 words and make sure it's clear and covers all main points without getting too detailed. Also, I should end with the specified tokens. Let me draft it and check the word count.
+</think>
+
+SUMMARY: The Tehran-based Islamic Human Rights Commission (IHRC) expressed concern over the resurgence of force in international relations, marking the International Day for Human Rights. The IHRC highlighted the failure to implement human rights provisions despite numerous global agreements and cultural efforts. It condemned discrimination, torture, and arbitrary detention, emphasizing the need to honor human rights, including those of women, children, and political activists. The IHRC also criticized the use of military power by some countries, urging respect for human rights as per religious teachings. Meanwhile, UN High Commissioner for Human Rights Mary Robinson called on Israel to cease bombing Palestinian targets and allow international monitors. END OF SUMMARY.

@@ -1,0 +1,31 @@
+<think>
+Alright, I need to tackle this query where the user wants me to summarize a news article while preserving the moral framing. First, I should understand the structure they've provided. They want two main parts: Step 1, identifying morally framed words, and a summary that includes as many of those words as possible.
+
+Looking at the news article, it's about the Trump administration's rule affecting family planning funds. I notice several terms that carry moral connotations, like "banning," "anti-abortion," and "unethical." These words are crucial because they reflect the opposing viewpoints in the article.
+
+For Step 1, I need to extract each single word that's morally framed. I'll go through the article, highlighting words that indicate approval or disapproval. Words like "banning," "anti-abortion," "unethical," and "gag rule" stand out. I'll list each on a new line with an asterisk.
+
+Next, the summary needs to be concise, under 200 words, and include as many of these moral terms as possible. I'll focus on the key points: the rule's impact, the legal battles, the opposing groups' arguments, and the broader implications. I'll ensure that the moral framing is clear by using words like "banning," "anti-abortion," "unethical," and "gag rule."
+
+I should also mention the consequences for low-income patients and the legal actions taken by both sides. This will show the conflict and the moral stakes involved. I'll make sure the summary flows logically, starting with the rule's introduction, moving through the legal challenges, and ending with the implications for access to healthcare.
+
+Finally, I'll review the summary to ensure it's within the word limit and that all the morally framed words are included appropriately. This approach should meet the user's requirements effectively.
+</think>
+
+**STEP 1:**  
+* Banning  
+* Anti-abortion  
+* Unethical  
+* Gag rule  
+* Pro-life  
+* Pro-choice  
+* Restrict  
+* Limit  
+* Access  
+* Compromise  
+* Unconscionable  
+* Winning strategy  
+
+**SUMMARY:**  
+The Trump administration has finalized a rule barring clinics that provide or refer patients for abortions from receiving federal family planning funds, known as the "domestic gag rule." This rule, which would exclude Planned Parenthood and similar providers from Title X funding, has faced legal challenges from reproductive rights groups and states. Anti-abortion advocates support the rule, arguing that organizations providing abortions should not receive federal support. However, Planned Parenthood and others argue it will leave low-income patients without access to essential health care. The rule requires providers to be physically and financially separate from entities that perform or refer for abortions, which critics say violates laws requiring unbiased counseling for pregnant patients. The rule, first proposed in 2018, was temporarily blocked by a court injunction in July 2020. The administration's move is part of a broader effort to limit access to contraception and abortion, with critics warning of major repercussions for low-income women. The rule also aligns with Trump's anti-abortion rhetoric and potential 2020 campaign strategy.  
+**END OF SUMMARY.**

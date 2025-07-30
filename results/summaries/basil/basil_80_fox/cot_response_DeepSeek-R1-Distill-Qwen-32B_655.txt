@@ -1,0 +1,34 @@
+Okay, so I need to summarize this news article while preserving the moral framing. The user provided the article and an example response, so I should follow that structure. 
+
+First, I need to identify the morally framed words. Let me read through the article again. Words like "Crooked," "slammed," "accused," "disregarding," "basic security protocols," "put," "hands," "foreign agents," "double standard," "punishment," "hacked," "extremely careless," "handling," and "server" stand out as having moral connotations. These words are used to criticize Huma Abedin and the Clintons, so I should list them in step one.
+
+Next, for the summary, I need to condense the article into 200 words or less, keeping those moral terms. I should mention Trump's tweets, the security issues with Abedin's handling of classified material, the comparison to the sailor's punishment, the email dump, Yahoo hacking, and Comey's involvement. I'll make sure to include the key points and maintain the critical tone towards Abedin and Clinton.
+
+I should structure the summary to flow logically, starting with Trump's accusations, then the specifics of Abedin's actions, the hacking incident, and the implications for the 2016 election. I'll ensure that each morally framed word is included where appropriate to maintain the author's perspective.
+
+Let me check the word count to make sure it's under 200. I think the example response is a good template. I'll paraphrase the key points, making sure not to add any new information beyond what's in the article. Also, I'll ensure that the summary is concise and captures all the essential elements without being too verbose.
+
+Finally, I'll make sure to format the response correctly, starting with STEP 1, listing each moral word, then the SUMMARY section, and ending with the tokens as specified. I think that covers everything the user asked for.
+</think>
+
+**STEP 1:**
+
+* Crooked  
+* slammed  
+* accused  
+* disregarding  
+* basic security protocols  
+* put  
+* hands  
+* foreign agents  
+* double standard  
+* punishment  
+* hacked  
+* extremely careless  
+* handling  
+* server  
+
+**SUMMARY:**
+
+President Trump criticized Huma Abedin, a top aide to "Crooked" Hillary Clinton, for allegedly disregarding basic security protocols by putting classified passwords into the hands of foreign agents. He called on the "Deep State" Justice Department to act, comparing her actions to the punishment meted out to U.S. Navy Sailor Kristian Saucier, who was jailed for unauthorized photos inside a nuclear submarine. Trump's tweet followed the release of classified emails from Abedin's account, found on her estranged husband Anthony Weiner's laptop. Abedin had forwarded sensitive State Department emails to her personal Yahoo account, which was later hacked. She also sent passwords for her government laptop to her Yahoo account in 2009, and Yahoo was hacked in 2013, affecting all user accounts. Former FBI Director James Comey testified that Abedin forwarded emails to Weiner for printing, which were given to Clinton. These emails shook the 2016 presidential race when Comey revealed more of Clinton's messages on Weiner's laptop, reopening the case against her. Comey described Clinton as "extremely careless" in handling classified emails on her private server.  
+**END OF SUMMARY.**

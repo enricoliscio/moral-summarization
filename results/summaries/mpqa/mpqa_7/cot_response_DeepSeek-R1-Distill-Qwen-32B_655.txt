@@ -1,0 +1,32 @@
+Alright, I need to help the user by summarizing the given news article while preserving the moral framing. The user has specified a two-step process: first, identify all the morally framed single words, and then write a concise summary using those terms.
+
+Starting with Step 1, I'll go through the article to pick out words that carry moral connotations. Words like "popularity," "approval," "disapproval," "crisis," "forceful," "oppose," "referendum," "strength," "radical," "pessimistic," "unresolved," "incapable," "optimism," "expectations," "blame," "confrontation," and "prefer" seem to fit. These terms reflect judgments about Chavez's performance and public sentiment.
+
+For the summary, I need to condense the article into under 200 words, keeping the moral language intact. The key points are the drop in Chavez's approval, the belief in his removal, the support for a referendum, the economic issues, and the political landscape. I'll structure this to highlight the negative sentiment towards Chavez while noting the opposition's challenges.
+
+I should ensure the summary flows logically, starting with the main findings, then the reasons behind the drop in approval, the public's perception of Chavez's effectiveness, and the political implications. It's important to mention the referendum and the opposition's fragmentation to show why Chavez still leads, despite declining support.
+
+I need to be concise but comprehensive, making sure each morally framed word is included where appropriate. This will help maintain the original article's tone and message about Chavez's declining popularity and the resulting political dynamics.
+</think>
+
+**STEP 1:**  
+* popularity  
+* approval  
+* disapproval  
+* crisis  
+* forceful  
+* oppose  
+* referendum  
+* strength  
+* radical  
+* pessimistic  
+* unresolved  
+* incapable  
+* optimism  
+* expectations  
+* blame  
+* confrontation  
+* prefer  
+
+**SUMMARY:**  
+Recent polls reveal a significant drop in President Hugo Chavez's approval rating, with 58% disapproving and only 33% approving as of November. Over half of respondents believe Chavez should be removed from office to address the crisis, with 49% favoring institutional means and 5% supporting forceful action. Meanwhile, 43% prefer letting him finish his term. The study also shows a collapse of the "rich vs. poor" polarization myth, with 78% of respondents believing many poor oppose Chavez. A strong majority (75%) supports a constitutional referendum to restore power balance. Despite a shrinking lead, Chavez remains first in voter preference, with 25% support, due to a divided opposition and the strength of his radical supporters. Economic issues, insecurity, and unemployment are major concerns, with 93% and 88.4% disapproving of the government's handling of these problems, respectively. Venezuelans are increasingly pessimistic, and 42% are extreme opponents of Chavez, compared to 18% extreme supporters. END OF SUMMARY.

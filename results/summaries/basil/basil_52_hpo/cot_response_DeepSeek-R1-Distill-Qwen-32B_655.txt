@@ -1,0 +1,31 @@
+Okay, I need to help the user by summarizing the news article while preserving the moral framing. The user has given specific instructions, so I should follow them step by step. 
+
+First, I need to identify all the single words that are morally framed. I'll go through the article and pick out words that carry a moral connotation. Words like "ban," "disturbing," "civil rights," "equality," "discriminate," "oppose," "backlash," "concerns," "abhor," "Golden Rule," "fix," and "discrimination" stand out. These words are used to convey the moral stance of the parties involved.
+
+Next, I need to write a concise summary of the article, making sure to include as many of these morally framed words as possible. The summary should be no longer than 200 words. I'll start by outlining the main points: Governor Inslee banning state-funded travel to Indiana due to the new law, the reactions from other states and businesses, Pence's defense of the law, and the efforts to clarify it.
+
+I should ensure that the summary flows well and captures the moral arguments from both sides. I'll mention the florist case as an example of discrimination, the business leaders opposing the law, and Pence's claims about the law being misconstrued. Also, I'll include the state's intention to fix the law to prevent discrimination.
+
+I need to make sure the summary is clear and within the word limit. Let me piece it together, making sure each morally framed word is included where appropriate. I'll check the word count to ensure it's under 200 words. 
+
+Finally, I'll present the summary after the specified tokens, making sure it's properly formatted and ends with "END OF SUMMARY."
+</think>
+
+**STEP 1:**  
+* Ban  
+* Disturbing  
+* Civil rights  
+* Equality  
+* Discriminate  
+* Oppose  
+* Backlash  
+* Concerns  
+* Abhor  
+* Golden Rule  
+* Fix  
+* Discrimination  
+
+**SUMMARY:**  
+Washington Gov. Jay Inslee announced a ban on state-funded travel to Indiana due to a controversial law allowing businesses to deny service to LGBTQ individuals for religious reasons, citing it as "disturbing" and opposing discrimination. Inslee emphasized Washington's commitment to equality, referencing a local florist fined for discrimination. Connecticut, San Francisco, Seattle, and Minnesota's Twin Cities also opposed the law, joined by business leaders like Tim Cook and Marc Benioff. Indiana Gov. Mike Pence defended the law, claiming it was "grossly misconstrued" and does not legalize discrimination, while state leaders vowed to clarify it to prevent discrimination.  
+
+END OF SUMMARY.

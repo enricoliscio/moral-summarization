@@ -1,0 +1,12 @@
+Alright, so the user wants me to summarize a news article. Let me read through it first. The article is about President Fernando Henrique Cardoso's reaction to the US decision on greenhouse gases. He mentions that the US's move is positive, even though they didn't ratify the Kyoto Protocol. He hopes their domestic measures will have the same effect as the protocol.
+
+Hmm, the user specified that the summary should start with "SUMMARY:" and end with "END OF SUMMARY." It should be no longer than 200 words. I need to make sure I capture the key points: who, what, and the main sentiment.
+
+I should include that Cardoso is the Brazilian president, his positive view on the US's decision, the lack of ratification of the Kyoto Protocol, and his hope about the domestic measures. I need to keep it concise but informative.
+
+Let me structure it. Start with the main subject, then the action, and the hope. Make sure it's clear and within the word limit. Also, avoid any markdown as per the instructions.
+
+Wait, the original article mentions the date and the source, but maybe that's not necessary for the summary. Focus on the key points: Cardoso's approval, US's decision, and the hope for equivalent impact. That should cover it succinctly.
+</think>
+
+SUMMARY: Brazilian President Fernando Henrique Cardoso has expressed approval of the U.S. decision to implement measures to control greenhouse gases, despite the U.S. not ratifying the Kyoto Protocol. Cardoso emphasized the importance of the U.S. as a key party to the climate convention and expressed hope that the domestic measures adopted by the U.S. will have the same impact as adhering to the Kyoto Protocol. END OF SUMMARY.
