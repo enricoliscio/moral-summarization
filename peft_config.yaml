@@ -1,0 +1,30 @@
+bitsandbytes:
+  bnb_4bit_compute_dtype: bfloat16
+  bnb_4bit_quant_type: nf4
+  bnb_4bit_use_double_quant: false
+  load_in_4bit: true
+lora:
+  lora_alpha: 16
+  lora_dropout: 0.1
+  r: 64
+  task_type: CAUSAL_LM
+training:
+  dataset_text_field: text
+  gradient_accumulation_steps: 1
+  group_by_length: true
+  learning_rate: 0.0002
+  logging_steps: 50
+  lr_scheduler_type: cosine
+  max_grad_norm: 0.3
+  max_seq_length: 128
+  max_steps: -1
+  num_train_epochs: 5
+  optim: paged_adamw_32bit
+  packing: false
+  per_device_eval_batch_size: 4
+  per_device_train_batch_size: 4
+  report_to: none
+  save_steps: 0
+  seed: 1
+  warmup_ratio: 0.03
+  weight_decay: 0.001
